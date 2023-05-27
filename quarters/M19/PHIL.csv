@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M19,Undergraduate,PHIL      1,BRITTON C J,A+,1
+M19,Undergraduate,PHIL      1,BRITTON C J,A,11
+M19,Undergraduate,PHIL      1,BRITTON C J,A-,8
+M19,Undergraduate,PHIL      1,BRITTON C J,B+,2
+M19,Undergraduate,PHIL      1,BRITTON C J,B,4
+M19,Undergraduate,PHIL      1,BRITTON C J,B-,2
+M19,Undergraduate,PHIL      1,BRITTON C J,C,1
+M19,Undergraduate,PHIL      1,BRITTON C J,C-,1
+M19,Undergraduate,PHIL      1,BRITTON C J,D,1
+M19,Undergraduate,PHIL      1,BRITTON C J,F,1
+M19,Undergraduate,PHIL      3,KYLER B E,A,18
+M19,Undergraduate,PHIL      3,KYLER B E,A-,17
+M19,Undergraduate,PHIL      3,KYLER B E,B+,19
+M19,Undergraduate,PHIL      3,KYLER B E,B,6
+M19,Undergraduate,PHIL      3,KYLER B E,B-,1
+M19,Undergraduate,PHIL      3,KYLER B E,C+,1
+M19,Undergraduate,PHIL      3,KYLER B E,C-,1
+M19,Undergraduate,PHIL      3,KYLER B E,D+,1
+M19,Undergraduate,PHIL      3,KYLER B E,D,3
+M19,Undergraduate,PHIL      3,KYLER B E,D-,1
+M19,Undergraduate,PHIL      3,KYLER B E,F,1
+M19,Undergraduate,PHIL      4,ABNEY D P,A,3
+M19,Undergraduate,PHIL      4,ABNEY D P,A-,7
+M19,Undergraduate,PHIL      4,ABNEY D P,B+,9
+M19,Undergraduate,PHIL      4,ABNEY D P,B,6
+M19,Undergraduate,PHIL      4,ABNEY D P,B-,7
+M19,Undergraduate,PHIL      4,ABNEY D P,C+,2
+M19,Undergraduate,PHIL      4,ABNEY D P,C,3
+M19,Undergraduate,PHIL      4,ABNEY D P,F,1
+M19,Undergraduate,PHIL      4,LEBRUN A S,A+,2
+M19,Undergraduate,PHIL      4,LEBRUN A S,A,6
+M19,Undergraduate,PHIL      4,LEBRUN A S,A-,20
+M19,Undergraduate,PHIL      4,LEBRUN A S,B+,12
+M19,Undergraduate,PHIL      4,LEBRUN A S,B,36
+M19,Undergraduate,PHIL      4,LEBRUN A S,B-,12
+M19,Undergraduate,PHIL      4,LEBRUN A S,C+,3
+M19,Undergraduate,PHIL      4,LEBRUN A S,C,1
+M19,Undergraduate,PHIL      4,LEBRUN A S,C-,1
+M19,Undergraduate,PHIL      4,LEBRUN A S,D+,1
+M19,Undergraduate,PHIL      4,LEBRUN A S,F,1
+M19,Undergraduate,PHIL    100B,ZAHN S E,A+,1
+M19,Undergraduate,PHIL    100B,ZAHN S E,A,7
+M19,Undergraduate,PHIL    100B,ZAHN S E,A-,4
+M19,Undergraduate,PHIL    100B,ZAHN S E,B+,7
+M19,Undergraduate,PHIL    100B,ZAHN S E,B,7
+M19,Undergraduate,PHIL    100B,ZAHN S E,B-,1
+M19,Undergraduate,PHIL    100B,ZAHN S E,C+,5
+M19,Undergraduate,PHIL    100B,ZAHN S E,C,4
+M19,Undergraduate,PHIL    100B,ZAHN S E,C-,1
+M19,Undergraduate,PHIL    100B,ZAHN S E,D-,1
+M19,Undergraduate,PHIL    100B,ZAHN S E,F,3
+M19,Undergraduate,PHIL    100D,FALVEY K T,A,1
+M19,Undergraduate,PHIL    100D,FALVEY K T,A-,3
+M19,Undergraduate,PHIL    100D,FALVEY K T,B+,2
+M19,Undergraduate,PHIL    100D,FALVEY K T,B,3
+M19,Undergraduate,PHIL    100D,FALVEY K T,B-,4
+M19,Undergraduate,PHIL    100D,FALVEY K T,C+,1
+M19,Undergraduate,PHIL    100D,FALVEY K T,C,4
+M19,Undergraduate,PHIL    100D,FALVEY K T,C-,8
+M19,Undergraduate,PHIL    100D,FALVEY K T,F,2
+M19,Undergraduate,PHIL    112,BARNES D B,A+,1
+M19,Undergraduate,PHIL    112,BARNES D B,A,5
+M19,Undergraduate,PHIL    112,BARNES D B,B+,4
+M19,Undergraduate,PHIL    112,BARNES D B,B,8
+M19,Undergraduate,PHIL    112,BARNES D B,B-,5
+M19,Undergraduate,PHIL    112,BARNES D B,C+,3
+M19,Undergraduate,PHIL    112,BARNES D B,C,4
+M19,Undergraduate,PHIL    112,BARNES D B,C-,5
+M19,Undergraduate,PHIL    112,BARNES D B,D+,2
+M19,Undergraduate,PHIL    112,BARNES D B,F,3
+M19,Undergraduate,PHIL    145,CONKLIN S L,A+,1
+M19,Undergraduate,PHIL    145,CONKLIN S L,A,4
+M19,Undergraduate,PHIL    145,CONKLIN S L,A-,7
+M19,Undergraduate,PHIL    145,CONKLIN S L,B+,5
+M19,Undergraduate,PHIL    145,CONKLIN S L,B,6
+M19,Undergraduate,PHIL    145,CONKLIN S L,B-,7
+M19,Undergraduate,PHIL    145,CONKLIN S L,C+,4
+M19,Undergraduate,PHIL    145,CONKLIN S L,C,4
+M19,Undergraduate,PHIL    145,CONKLIN S L,C-,3
+M19,Undergraduate,PHIL    145,CONKLIN S L,F,5
+M19,Undergraduate,PHIL    183,HANSCHMANN J,A,6
+M19,Undergraduate,PHIL    183,HANSCHMANN J,A-,8
+M19,Undergraduate,PHIL    183,HANSCHMANN J,B+,3
+M19,Undergraduate,PHIL    183,HANSCHMANN J,B,1
+M19,Undergraduate,PHIL    183,HANSCHMANN J,B-,1
+M19,Undergraduate,PHIL    183,HANSCHMANN J,C+,4
+M19,Undergraduate,PHIL    183,HANSCHMANN J,C,4
+M19,Undergraduate,PHIL    183,HANSCHMANN J,D+,2
+M19,Undergraduate,PHIL    183,HANSCHMANN J,F,4

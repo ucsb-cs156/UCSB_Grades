@@ -1,0 +1,423 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,A,1
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,B+,4
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,B,9
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,B-,5
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,C+,2
+S13,Undergraduate,WRIT      1,BERNSTEIN M M,C,2
+S13,Undergraduate,WRIT      1,CONVERSE C W,A,8
+S13,Undergraduate,WRIT      1,CONVERSE C W,A-,9
+S13,Undergraduate,WRIT      1,CONVERSE C W,B+,5
+S13,Undergraduate,WRIT      1,CONVERSE C W,B,1
+S13,Undergraduate,WRIT      1,CONVERSE C W,C+,1
+S13,Undergraduate,WRIT      1,HAMMER L M,A-,4
+S13,Undergraduate,WRIT      1,HAMMER L M,B+,10
+S13,Undergraduate,WRIT      1,HAMMER L M,B,3
+S13,Undergraduate,WRIT      1,HAMMER L M,B-,1
+S13,Undergraduate,WRIT      1,HAMMER L M,C+,1
+S13,Undergraduate,WRIT      1,HIRSCH S A,A+,2
+S13,Undergraduate,WRIT      1,HIRSCH S A,A,9
+S13,Undergraduate,WRIT      1,HIRSCH S A,A-,9
+S13,Undergraduate,WRIT      1,HIRSCH S A,B+,3
+S13,Undergraduate,WRIT      1,HIRSCH S A,B-,1
+S13,Undergraduate,WRIT      1,HIRSCH S A,C-,1
+S13,Undergraduate,WRIT      1,PECCHENINO D,A,3
+S13,Undergraduate,WRIT      1,PECCHENINO D,A-,7
+S13,Undergraduate,WRIT      1,PECCHENINO D,B+,13
+S13,Undergraduate,WRIT      1,PECCHENINO D,B,17
+S13,Undergraduate,WRIT      1,PECCHENINO D,B-,3
+S13,Undergraduate,WRIT      1,PECCHENINO D,C+,1
+S13,Undergraduate,WRIT      1,PECCHENINO D,C,2
+S13,Undergraduate,WRIT      1,PECCHENINO D,F,1
+S13,Undergraduate,WRIT      1,VALLIS G L,A+,1
+S13,Undergraduate,WRIT      1,VALLIS G L,A,9
+S13,Undergraduate,WRIT      1,VALLIS G L,A-,2
+S13,Undergraduate,WRIT      1,VALLIS G L,B+,9
+S13,Undergraduate,WRIT      1,VALLIS G L,B,1
+S13,Undergraduate,WRIT      1,VALLIS G L,C+,1
+S13,Undergraduate,WRIT      1,VALLIS G L,D,1
+S13,Undergraduate,WRIT      2,BAILLARGEON K,A,4
+S13,Undergraduate,WRIT      2,BAILLARGEON K,A-,4
+S13,Undergraduate,WRIT      2,BAILLARGEON K,B+,3
+S13,Undergraduate,WRIT      2,BAILLARGEON K,B,5
+S13,Undergraduate,WRIT      2,BAILLARGEON K,B-,2
+S13,Undergraduate,WRIT      2,BOYD R A,A,5
+S13,Undergraduate,WRIT      2,BOYD R A,A-,9
+S13,Undergraduate,WRIT      2,BOYD R A,B+,4
+S13,Undergraduate,WRIT      2,BOYD R A,B,3
+S13,Undergraduate,WRIT      2,BOYD R A,B-,3
+S13,Undergraduate,WRIT      2,BOYD R A,C-,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,A+,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,A,21
+S13,Undergraduate,WRIT      2,BRADLEY N D,A-,15
+S13,Undergraduate,WRIT      2,BRADLEY N D,B+,8
+S13,Undergraduate,WRIT      2,BRADLEY N D,B,13
+S13,Undergraduate,WRIT      2,BRADLEY N D,B-,6
+S13,Undergraduate,WRIT      2,BRADLEY N D,C+,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,C,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,C-,2
+S13,Undergraduate,WRIT      2,BRADLEY N D,D+,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,D,1
+S13,Undergraduate,WRIT      2,BRADLEY N D,F,1
+S13,Undergraduate,WRIT      2,BROWNING R,A+,11
+S13,Undergraduate,WRIT      2,BROWNING R,A,17
+S13,Undergraduate,WRIT      2,BROWNING R,A-,28
+S13,Undergraduate,WRIT      2,BROWNING R,B+,13
+S13,Undergraduate,WRIT      2,BROWNING R,B,13
+S13,Undergraduate,WRIT      2,BROWNING R,B-,2
+S13,Undergraduate,WRIT      2,BROWNING R,C+,1
+S13,Undergraduate,WRIT      2,BROWNING R,C,3
+S13,Undergraduate,WRIT      2,BROWNING R,D,1
+S13,Undergraduate,WRIT      2,DEAN C W,A,19
+S13,Undergraduate,WRIT      2,DEAN C W,A-,33
+S13,Undergraduate,WRIT      2,DEAN C W,B+,20
+S13,Undergraduate,WRIT      2,DEAN C W,B,26
+S13,Undergraduate,WRIT      2,DEAN C W,B-,12
+S13,Undergraduate,WRIT      2,DEAN C W,C+,5
+S13,Undergraduate,WRIT      2,DEAN C W,C,1
+S13,Undergraduate,WRIT      2,DEAN C W,F,3
+S13,Undergraduate,WRIT      2,EK A A,A,9
+S13,Undergraduate,WRIT      2,EK A A,A-,15
+S13,Undergraduate,WRIT      2,EK A A,B+,15
+S13,Undergraduate,WRIT      2,EK A A,B,7
+S13,Undergraduate,WRIT      2,EK A A,C,1
+S13,Undergraduate,WRIT      2,ERNST B C,A+,4
+S13,Undergraduate,WRIT      2,ERNST B C,A,12
+S13,Undergraduate,WRIT      2,ERNST B C,A-,5
+S13,Undergraduate,WRIT      2,ERNST B C,B+,2
+S13,Undergraduate,WRIT      2,ERNST B C,B,2
+S13,Undergraduate,WRIT      2,HANSON J L,A,22
+S13,Undergraduate,WRIT      2,HANSON J L,A-,37
+S13,Undergraduate,WRIT      2,HANSON J L,B+,24
+S13,Undergraduate,WRIT      2,HANSON J L,B,16
+S13,Undergraduate,WRIT      2,HANSON J L,B-,3
+S13,Undergraduate,WRIT      2,HANSON J L,C+,2
+S13,Undergraduate,WRIT      2,HANSON J L,C,1
+S13,Undergraduate,WRIT      2,HANSON J L,C-,1
+S13,Undergraduate,WRIT      2,HANSON J L,F,3
+S13,Undergraduate,WRIT      2,KRUT R M,A,3
+S13,Undergraduate,WRIT      2,KRUT R M,A-,8
+S13,Undergraduate,WRIT      2,KRUT R M,B+,2
+S13,Undergraduate,WRIT      2,KRUT R M,B,1
+S13,Undergraduate,WRIT      2,KRUT R M,B-,1
+S13,Undergraduate,WRIT      2,KRUT R M,C,1
+S13,Undergraduate,WRIT      2,MIELE I,A+,1
+S13,Undergraduate,WRIT      2,MIELE I,A,23
+S13,Undergraduate,WRIT      2,MIELE I,A-,32
+S13,Undergraduate,WRIT      2,MIELE I,B+,22
+S13,Undergraduate,WRIT      2,MIELE I,B,19
+S13,Undergraduate,WRIT      2,MIELE I,B-,6
+S13,Undergraduate,WRIT      2,MIELE I,C+,3
+S13,Undergraduate,WRIT      2,MIELE I,C,1
+S13,Undergraduate,WRIT      2,MIELE I,C-,1
+S13,Undergraduate,WRIT      2,MIELE I,D+,2
+S13,Undergraduate,WRIT      2,MIELE I,D,1
+S13,Undergraduate,WRIT      2,MIELE I,F,2
+S13,Undergraduate,WRIT      2,PATTERSON K A,A,2
+S13,Undergraduate,WRIT      2,PATTERSON K A,A-,8
+S13,Undergraduate,WRIT      2,PATTERSON K A,B+,9
+S13,Undergraduate,WRIT      2,PATTERSON K A,B,8
+S13,Undergraduate,WRIT      2,PATTERSON K A,B-,5
+S13,Undergraduate,WRIT      2,PATTERSON K A,C+,4
+S13,Undergraduate,WRIT      2,PATTERSON K A,C-,1
+S13,Undergraduate,WRIT      2,PATTERSON K A,F,3
+S13,Undergraduate,WRIT      2,SAMUELS R D,A-,8
+S13,Undergraduate,WRIT      2,SAMUELS R D,B+,14
+S13,Undergraduate,WRIT      2,SAMUELS R D,F,1
+S13,Undergraduate,WRIT      2,SARIG R,A+,4
+S13,Undergraduate,WRIT      2,SARIG R,A,6
+S13,Undergraduate,WRIT      2,SARIG R,A-,5
+S13,Undergraduate,WRIT      2,SARIG R,B+,4
+S13,Undergraduate,WRIT      2,SARIG R,B,3
+S13,Undergraduate,WRIT      2,SARIG R,D+,1
+S13,Undergraduate,WRIT      2LK,DONELAN J H,A,1
+S13,Undergraduate,WRIT      2LK,DONELAN J H,A-,3
+S13,Undergraduate,WRIT      2LK,DONELAN J H,B+,11
+S13,Undergraduate,WRIT      2LK,DONELAN J H,B,2
+S13,Undergraduate,WRIT     50,BAILLARGEON K,A+,1
+S13,Undergraduate,WRIT     50,BAILLARGEON K,A,14
+S13,Undergraduate,WRIT     50,BAILLARGEON K,A-,15
+S13,Undergraduate,WRIT     50,BAILLARGEON K,B+,4
+S13,Undergraduate,WRIT     50,BAILLARGEON K,B,6
+S13,Undergraduate,WRIT     50,BAILLARGEON K,C+,1
+S13,Undergraduate,WRIT     50,BAILLARGEON K,F,4
+S13,Undergraduate,WRIT     50,BOYD R A,A,13
+S13,Undergraduate,WRIT     50,BOYD R A,A-,9
+S13,Undergraduate,WRIT     50,BOYD R A,B+,16
+S13,Undergraduate,WRIT     50,BOYD R A,B,6
+S13,Undergraduate,WRIT     50,BOYD R A,B-,3
+S13,Undergraduate,WRIT     50,HUK P M,A,10
+S13,Undergraduate,WRIT     50,HUK P M,A-,5
+S13,Undergraduate,WRIT     50,HUK P M,B+,3
+S13,Undergraduate,WRIT     50,HUK P M,B,1
+S13,Undergraduate,WRIT     50,HUK P M,B-,2
+S13,Undergraduate,WRIT     50E,BRADLEY N D,A,11
+S13,Undergraduate,WRIT     50E,BRADLEY N D,A-,17
+S13,Undergraduate,WRIT     50E,BRADLEY N D,B+,10
+S13,Undergraduate,WRIT     50E,BRADLEY N D,B,4
+S13,Undergraduate,WRIT     50E,BRADLEY N D,B-,1
+S13,Undergraduate,WRIT     50E,BRADLEY N D,C,1
+S13,Undergraduate,WRIT     50E,HUK P M,A,1
+S13,Undergraduate,WRIT     50E,HUK P M,A-,7
+S13,Undergraduate,WRIT     50E,HUK P M,B+,5
+S13,Undergraduate,WRIT     50E,HUK P M,B-,1
+S13,Undergraduate,WRIT     50E,HUK P M,F,2
+S13,Undergraduate,WRIT     50E,STANSELL A,A,12
+S13,Undergraduate,WRIT     50E,STANSELL A,A-,12
+S13,Undergraduate,WRIT     50E,STANSELL A,B+,13
+S13,Undergraduate,WRIT     50E,STANSELL A,B,10
+S13,Undergraduate,WRIT     50E,STANSELL A,B-,1
+S13,Undergraduate,WRIT    105C,PETRACCA M F,A+,6
+S13,Undergraduate,WRIT    105C,PETRACCA M F,A,16
+S13,Undergraduate,WRIT    105C,PETRACCA M F,A-,3
+S13,Undergraduate,WRIT    105G,COTICH C,A+,2
+S13,Undergraduate,WRIT    105G,COTICH C,A,1
+S13,Undergraduate,WRIT    105G,COTICH C,A-,3
+S13,Undergraduate,WRIT    105G,COTICH C,B+,3
+S13,Undergraduate,WRIT    105G,COTICH C,B,4
+S13,Undergraduate,WRIT    105G,COTICH C,B-,3
+S13,Undergraduate,WRIT    105G,COTICH C,C+,3
+S13,Undergraduate,WRIT    105G,COTICH C,C,1
+S13,Undergraduate,WRIT    105G,COTICH C,C-,1
+S13,Undergraduate,WRIT    105G,COTICH C,D+,2
+S13,Undergraduate,WRIT    105G,VALLIS D L,A,16
+S13,Undergraduate,WRIT    105G,VALLIS D L,A-,4
+S13,Undergraduate,WRIT    105G,VALLIS D L,B+,4
+S13,Undergraduate,WRIT    105G,VALLIS D L,B,1
+S13,Undergraduate,WRIT    105M,SORAPURE M I,A,11
+S13,Undergraduate,WRIT    105M,SORAPURE M I,A-,6
+S13,Undergraduate,WRIT    105M,SORAPURE M I,B+,4
+S13,Undergraduate,WRIT    105M,SORAPURE M I,B,2
+S13,Undergraduate,WRIT    105M,SORAPURE M I,B-,1
+S13,Undergraduate,WRIT    105M,SORAPURE M I,C,1
+S13,Undergraduate,WRIT    105P,VALLIS G L,A+,2
+S13,Undergraduate,WRIT    105P,VALLIS G L,A,12
+S13,Undergraduate,WRIT    105P,VALLIS G L,A-,4
+S13,Undergraduate,WRIT    105P,VALLIS G L,B+,3
+S13,Undergraduate,WRIT    105P,VALLIS G L,F,1
+S13,Undergraduate,WRIT    105R,DEAN C W,A,13
+S13,Undergraduate,WRIT    105R,DEAN C W,A-,5
+S13,Undergraduate,WRIT    105R,DEAN C W,B+,3
+S13,Undergraduate,WRIT    105WE,MCHUGH P,A,10
+S13,Undergraduate,WRIT    105WE,MCHUGH P,A-,8
+S13,Undergraduate,WRIT    105WE,MCHUGH P,B+,1
+S13,Undergraduate,WRIT    105WE,MCHUGH P,B,2
+S13,Undergraduate,WRIT    105WE,MCHUGH P,C+,1
+S13,Undergraduate,WRIT    105WE,MCHUGH P,C,2
+S13,Undergraduate,WRIT    107A,JOHNSON J K,A,2
+S13,Undergraduate,WRIT    107A,JOHNSON J K,A-,12
+S13,Undergraduate,WRIT    107A,JOHNSON J K,B+,11
+S13,Undergraduate,WRIT    107B,COKLIN L,A,5
+S13,Undergraduate,WRIT    107B,COKLIN L,A-,6
+S13,Undergraduate,WRIT    107B,COKLIN L,B+,5
+S13,Undergraduate,WRIT    107B,COKLIN L,B,1
+S13,Undergraduate,WRIT    107B,COKLIN L,B-,3
+S13,Undergraduate,WRIT    107B,COKLIN L,C-,2
+S13,Undergraduate,WRIT    107B,COKLIN L,F,1
+S13,Undergraduate,WRIT    107B,EK A A,A,6
+S13,Undergraduate,WRIT    107B,EK A A,A-,3
+S13,Undergraduate,WRIT    107B,EK A A,B+,9
+S13,Undergraduate,WRIT    107B,EK A A,B,1
+S13,Undergraduate,WRIT    107B,EK A A,B-,3
+S13,Undergraduate,WRIT    107B,EK A A,C+,1
+S13,Undergraduate,WRIT    107B,EK A A,C,1
+S13,Undergraduate,WRIT    107B,EK A A,D+,1
+S13,Undergraduate,WRIT    107B,KRUT R M,A,16
+S13,Undergraduate,WRIT    107B,KRUT R M,A-,5
+S13,Undergraduate,WRIT    107B,KRUT R M,B+,1
+S13,Undergraduate,WRIT    107B,KRUT R M,B,2
+S13,Undergraduate,WRIT    107B,MCHUGH P,A,12
+S13,Undergraduate,WRIT    107B,MCHUGH P,A-,24
+S13,Undergraduate,WRIT    107B,MCHUGH P,B+,8
+S13,Undergraduate,WRIT    107B,MCHUGH P,B,3
+S13,Undergraduate,WRIT    107B,MCHUGH P,B-,1
+S13,Undergraduate,WRIT    107B,MCHUGH P,C+,1
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,A,4
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,A-,4
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,B+,2
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,B,3
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,B-,2
+S13,Undergraduate,WRIT    107B,MIZRAHI J L,C,1
+S13,Undergraduate,WRIT    107B,RAMSEY J R,A+,2
+S13,Undergraduate,WRIT    107B,RAMSEY J R,A,22
+S13,Undergraduate,WRIT    107B,RAMSEY J R,A-,16
+S13,Undergraduate,WRIT    107B,RAMSEY J R,B+,6
+S13,Undergraduate,WRIT    107B,RAMSEY J R,B,2
+S13,Undergraduate,WRIT    107G,HANSON J L,A,20
+S13,Undergraduate,WRIT    107G,HANSON J L,A-,14
+S13,Undergraduate,WRIT    107G,HANSON J L,B+,9
+S13,Undergraduate,WRIT    107G,HANSON J L,B,4
+S13,Undergraduate,WRIT    107G,HANSON J L,B-,2
+S13,Undergraduate,WRIT    107G,HANSON J L,F,1
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,A,2
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,A-,7
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,B+,4
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,B,4
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,B-,2
+S13,Undergraduate,WRIT    107J,MIZRAHI J L,C,2
+S13,Undergraduate,WRIT    107J,ROSS C S,A,13
+S13,Undergraduate,WRIT    107J,ROSS C S,A-,5
+S13,Undergraduate,WRIT    107J,ROSS C S,B+,1
+S13,Undergraduate,WRIT    107J,ROSS C S,B,2
+S13,Undergraduate,WRIT    107J,ROSS C S,B-,1
+S13,Undergraduate,WRIT    107L,GENOVA G L,A+,1
+S13,Undergraduate,WRIT    107L,GENOVA G L,A,2
+S13,Undergraduate,WRIT    107L,GENOVA G L,A-,3
+S13,Undergraduate,WRIT    107L,GENOVA G L,B+,9
+S13,Undergraduate,WRIT    107L,GENOVA G L,B,8
+S13,Undergraduate,WRIT    107L,GENOVA G L,C,1
+S13,Undergraduate,WRIT    107L,WALLING O W,A,2
+S13,Undergraduate,WRIT    107L,WALLING O W,A-,3
+S13,Undergraduate,WRIT    107L,WALLING O W,B+,1
+S13,Undergraduate,WRIT    107L,WALLING O W,B,4
+S13,Undergraduate,WRIT    107L,WALLING O W,B-,2
+S13,Undergraduate,WRIT    107L,WALLING O W,C+,1
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,A+,1
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,A,2
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,A-,2
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,B+,5
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,B,5
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,B-,2
+S13,Undergraduate,WRIT    107M,BERNSTEIN M M,C+,2
+S13,Undergraduate,WRIT    107T,HOLMS A E,A,40
+S13,Undergraduate,WRIT    107T,HOLMS A E,A-,3
+S13,Undergraduate,WRIT    107T,HOLMS A E,B-,1
+S13,Undergraduate,WRIT    107T,HOLMS A E,C,2
+S13,Undergraduate,WRIT    109CS,HAMMER L M,A,2
+S13,Undergraduate,WRIT    109CS,HAMMER L M,A-,8
+S13,Undergraduate,WRIT    109CS,HAMMER L M,B+,8
+S13,Undergraduate,WRIT    109CS,HAMMER L M,B,1
+S13,Undergraduate,WRIT    109CS,HAMMER L M,B-,4
+S13,Undergraduate,WRIT    109CS,HAMMER L M,C,1
+S13,Undergraduate,WRIT    109ED,CONVERSE C W,A+,1
+S13,Undergraduate,WRIT    109ED,CONVERSE C W,A,8
+S13,Undergraduate,WRIT    109ED,CONVERSE C W,A-,8
+S13,Undergraduate,WRIT    109ED,CONVERSE C W,B+,5
+S13,Undergraduate,WRIT    109ED,MIELE I,A+,1
+S13,Undergraduate,WRIT    109ED,MIELE I,A,3
+S13,Undergraduate,WRIT    109ED,MIELE I,A-,6
+S13,Undergraduate,WRIT    109ED,MIELE I,B+,6
+S13,Undergraduate,WRIT    109ED,MIELE I,B,3
+S13,Undergraduate,WRIT    109ED,MIELE I,B-,1
+S13,Undergraduate,WRIT    109ED,MIELE I,C+,1
+S13,Undergraduate,WRIT    109ED,MIELE I,C,1
+S13,Undergraduate,WRIT    109ED,MIELE I,C-,1
+S13,Undergraduate,WRIT    109ES,KRYDER E A,A,6
+S13,Undergraduate,WRIT    109ES,KRYDER E A,A-,12
+S13,Undergraduate,WRIT    109ES,KRYDER E A,B+,3
+S13,Undergraduate,WRIT    109F,SAMUELS R D,A,2
+S13,Undergraduate,WRIT    109F,SAMUELS R D,A-,11
+S13,Undergraduate,WRIT    109F,SAMUELS R D,B+,6
+S13,Undergraduate,WRIT    109F,SAMUELS R D,B,3
+S13,Undergraduate,WRIT    109HP,BRADLEY N D,A+,2
+S13,Undergraduate,WRIT    109HP,BRADLEY N D,A,13
+S13,Undergraduate,WRIT    109HP,BRADLEY N D,A-,4
+S13,Undergraduate,WRIT    109HP,BRADLEY N D,B+,2
+S13,Undergraduate,WRIT    109HP,BRADLEY N D,B,3
+S13,Undergraduate,WRIT    109HP,MIZRAHI J L,A,4
+S13,Undergraduate,WRIT    109HP,MIZRAHI J L,A-,7
+S13,Undergraduate,WRIT    109HP,MIZRAHI J L,B+,4
+S13,Undergraduate,WRIT    109HP,MIZRAHI J L,B,6
+S13,Undergraduate,WRIT    109HU,COKLIN L,A,3
+S13,Undergraduate,WRIT    109HU,COKLIN L,A-,2
+S13,Undergraduate,WRIT    109HU,COKLIN L,B+,5
+S13,Undergraduate,WRIT    109HU,COKLIN L,B,5
+S13,Undergraduate,WRIT    109HU,COKLIN L,B-,2
+S13,Undergraduate,WRIT    109HU,COKLIN L,C+,1
+S13,Undergraduate,WRIT    109HU,COKLIN L,C,1
+S13,Undergraduate,WRIT    109HU,COKLIN L,F,1
+S13,Undergraduate,WRIT    109HU,HAMMER L M,A,1
+S13,Undergraduate,WRIT    109HU,HAMMER L M,A-,6
+S13,Undergraduate,WRIT    109HU,HAMMER L M,B+,3
+S13,Undergraduate,WRIT    109HU,HAMMER L M,B,5
+S13,Undergraduate,WRIT    109HU,HAMMER L M,C-,1
+S13,Undergraduate,WRIT    109HU,HIRSCH S A,A+,4
+S13,Undergraduate,WRIT    109HU,HIRSCH S A,A,6
+S13,Undergraduate,WRIT    109HU,HIRSCH S A,A-,4
+S13,Undergraduate,WRIT    109HU,HIRSCH S A,B+,4
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,A-,5
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,B+,4
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,B,9
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,C+,2
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,C-,1
+S13,Undergraduate,WRIT    109HU,PATTERSON K A,D,1
+S13,Undergraduate,WRIT    109HU,VALLIS D L,A+,1
+S13,Undergraduate,WRIT    109HU,VALLIS D L,A,15
+S13,Undergraduate,WRIT    109HU,VALLIS D L,A-,6
+S13,Undergraduate,WRIT    109HU,VALLIS D L,B+,2
+S13,Undergraduate,WRIT    109HU,VALLIS D L,B,2
+S13,Undergraduate,WRIT    109SS,BROWNING R,A+,1
+S13,Undergraduate,WRIT    109SS,BROWNING R,A,14
+S13,Undergraduate,WRIT    109SS,BROWNING R,A-,7
+S13,Undergraduate,WRIT    109SS,BROWNING R,B+,3
+S13,Undergraduate,WRIT    109SS,BROWNING R,B,11
+S13,Undergraduate,WRIT    109SS,BROWNING R,B-,1
+S13,Undergraduate,WRIT    109SS,BROWNING R,C+,1
+S13,Undergraduate,WRIT    109SS,BROWNING R,C,2
+S13,Undergraduate,WRIT    109SS,BROWNING R,C-,1
+S13,Undergraduate,WRIT    109SS,BROWNING R,F,1
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,A,5
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,A-,17
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,B+,9
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,B,12
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,B-,1
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,C+,2
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,C-,1
+S13,Undergraduate,WRIT    109SS,JOHNSON J K,F,1
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,A,4
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,A-,2
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,B+,4
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,B,6
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,B-,3
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,C+,2
+S13,Undergraduate,WRIT    109SS,PECCHENINO D,F,2
+S13,Undergraduate,WRIT    109SS,ROSS C S,A,10
+S13,Undergraduate,WRIT    109SS,ROSS C S,A-,3
+S13,Undergraduate,WRIT    109SS,ROSS C S,B,2
+S13,Undergraduate,WRIT    109SS,ROSS C S,B-,2
+S13,Undergraduate,WRIT    109ST,LUNSFORD K J,A,7
+S13,Undergraduate,WRIT    109ST,LUNSFORD K J,A-,6
+S13,Undergraduate,WRIT    109ST,LUNSFORD K J,B+,8
+S13,Undergraduate,WRIT    109ST,LUNSFORD K J,B,3
+S13,Undergraduate,WRIT    109ST,LUNSFORD K J,C-,1
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,A+,3
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,A,21
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,A-,8
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,B+,7
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,B,3
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,C+,1
+S13,Undergraduate,WRIT    109ST,WUEBBEN D L,D-,1
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,A,9
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,A-,11
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,B+,12
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,B,7
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,B-,1
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,C,1
+S13,Undergraduate,WRIT    109V,HARRIS-MOORE,C-,1
+S13,Undergraduate,WRIT    150,COTICH C,P,21
+S13,Undergraduate,WRIT    150,KRYDER E A,P,20
+S13,Undergraduate,WRIT    150,SORAPURE M I,P,22
+S13,Undergraduate,WRIT    151B,COTICH C,A,6
+S13,Undergraduate,WRIT    151B,COTICH C,A-,4
+S13,Undergraduate,WRIT    151B,COTICH C,B+,5
+S13,Undergraduate,WRIT    151B,COTICH C,B,3
+S13,Undergraduate,WRIT    151B,COTICH C,B-,1
+S13,Undergraduate,WRIT    151B,COTICH C,C+,2
+S13,Undergraduate,WRIT    155B,SORAPURE M I,A,15
+S13,Undergraduate,WRIT    155B,SORAPURE M I,A-,3
+S13,Undergraduate,WRIT    155B,SORAPURE M I,B+,1
+S13,Undergraduate,WRIT    155B,SORAPURE M I,B,2
+S13,Undergraduate,WRIT    155B,SORAPURE M I,B-,1
+S13,Undergraduate,WRIT    157B,KRYDER E A,A+,5
+S13,Undergraduate,WRIT    157B,KRYDER E A,A,6
+S13,Undergraduate,WRIT    157B,KRYDER E A,A-,6
+S13,Undergraduate,WRIT    157B,KRYDER E A,B+,3
+S13,Undergraduate,WRIT    160,BROWNING R,A,6
+S13,Undergraduate,WRIT    160,BROWNING R,A-,3
+S13,Undergraduate,WRIT    160,BROWNING R,B+,1
+S13,Undergraduate,WRIT    160,BROWNING R,B,3
+S13,Undergraduate,WRIT    160,BROWNING R,C,1
+S13,Undergraduate,WRIT    160,BROWNING R,D+,1
+S13,Graduate,WRIT    251,LUNSFORD K J,S,7
+S13,Graduate,WRIT    252,LUNSFORD K J,A,6
+S13,Graduate,WRIT    500,HANSON J L,S,5

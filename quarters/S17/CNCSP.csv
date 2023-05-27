@@ -1,0 +1,86 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S17,Undergraduate,CNCSP   101,ROSS B C,A+,4
+S17,Undergraduate,CNCSP   101,ROSS B C,A,23
+S17,Undergraduate,CNCSP   101,ROSS B C,A-,10
+S17,Undergraduate,CNCSP   101,ROSS B C,B+,2
+S17,Undergraduate,CNCSP   101,ROSS B C,B,8
+S17,Undergraduate,CNCSP   101,ROSS B C,B-,4
+S17,Undergraduate,CNCSP   101,ROSS B C,C+,2
+S17,Undergraduate,CNCSP   101,ROSS B C,C,1
+S17,Undergraduate,CNCSP   101,UNZUETA E G,A+,9
+S17,Undergraduate,CNCSP   101,UNZUETA E G,A,18
+S17,Undergraduate,CNCSP   101,UNZUETA E G,A-,15
+S17,Undergraduate,CNCSP   101,UNZUETA E G,B+,8
+S17,Undergraduate,CNCSP   101,UNZUETA E G,B,3
+S17,Undergraduate,CNCSP   101,UNZUETA E G,B-,4
+S17,Undergraduate,CNCSP   101,UNZUETA E G,C+,1
+S17,Undergraduate,CNCSP   101,UNZUETA E G,C-,1
+S17,Undergraduate,CNCSP   102,QUIRK M P,A+,36
+S17,Undergraduate,CNCSP   102,QUIRK M P,A,62
+S17,Undergraduate,CNCSP   102,QUIRK M P,A-,17
+S17,Undergraduate,CNCSP   102,QUIRK M P,B+,11
+S17,Undergraduate,CNCSP   102,QUIRK M P,B,5
+S17,Undergraduate,CNCSP   102,QUIRK M P,B-,3
+S17,Undergraduate,CNCSP   102,QUIRK M P,C+,1
+S17,Undergraduate,CNCSP   102,QUIRK M P,D,3
+S17,Undergraduate,CNCSP   112,GOODMAN J,A+,14
+S17,Undergraduate,CNCSP   112,GOODMAN J,A,17
+S17,Undergraduate,CNCSP   112,GOODMAN J,A-,10
+S17,Undergraduate,CNCSP   112,GOODMAN J,B+,3
+S17,Undergraduate,CNCSP   112,GOODMAN J,B,4
+S17,Undergraduate,CNCSP   112,GOODMAN J,C+,1
+S17,Undergraduate,CNCSP   112,GOODMAN J,C,1
+S17,Undergraduate,CNCSP   112,GOODMAN J,C-,1
+S17,Undergraduate,CNCSP   112,GOODMAN J,D-,1
+S17,Undergraduate,CNCSP   114,FELIX E D,A+,4
+S17,Undergraduate,CNCSP   114,FELIX E D,A,52
+S17,Undergraduate,CNCSP   114,FELIX E D,A-,3
+S17,Undergraduate,CNCSP   114,FELIX E D,B+,6
+S17,Undergraduate,CNCSP   114,FELIX E D,B,20
+S17,Undergraduate,CNCSP   114,FELIX E D,C+,1
+S17,Undergraduate,CNCSP   114,FELIX E D,C,6
+S17,Undergraduate,CNCSP   197,BINMOELLER C,A+,13
+S17,Undergraduate,CNCSP   197,BINMOELLER C,A,19
+S17,Undergraduate,CNCSP   197,BINMOELLER C,A-,1
+S17,Undergraduate,CNCSP   197,BINMOELLER C,B+,1
+S17,Undergraduate,CNCSP   197,BINMOELLER C,B,4
+S17,Undergraduate,CNCSP   197,BINMOELLER C,B-,5
+S17,Undergraduate,CNCSP   197,BINMOELLER C,C+,2
+S17,Undergraduate,CNCSP   197,BINMOELLER C,C,8
+S17,Undergraduate,CNCSP   199,DOWDY E T,A,19
+S17,Undergraduate,CNCSP   199RA,FELIX E D,A,5
+S17,Undergraduate,CNCSP   199RA,JIMERSON S R,A+,9
+S17,Undergraduate,CNCSP   199RA,JIMERSON S R,A,2
+S17,Undergraduate,CNCSP   199RA,JIMERSON S R,B-,1
+S17,Undergraduate,CNCSP   199RA,JIMERSON S R,C+,1
+S17,Undergraduate,CNCSP   199RA,JIMERSON S R,C,2
+S17,Undergraduate,CNCSP   199RA,KIA-KEATING M,A,7
+S17,Undergraduate,CNCSP   199RA,KOEGEL R L,A+,1
+S17,Undergraduate,CNCSP   199RA,KOEGEL R L,A,5
+S17,Undergraduate,CNCSP   199RA,QUIRK M P,A,7
+S17,Undergraduate,CNCSP   199RA,SHARKEY J D,A,7
+S17,Undergraduate,CNCSP   199RA,VERNON T W,A,12
+S17,Graduate,CNCSP   200,QUIRK M P,A+,2
+S17,Graduate,CNCSP   200,QUIRK M P,A,4
+S17,Graduate,CNCSP   200,QUIRK M P,A-,1
+S17,Graduate,CNCSP   200,QUIRK M P,B+,1
+S17,Graduate,CNCSP   209A,KOEGEL R L,S,6
+S17,Graduate,CNCSP   209A,MORGAN M L,S,5
+S17,Graduate,CNCSP   209A,SHARKEY J D,S,6
+S17,Graduate,CNCSP   214,SMITH S R,A,14
+S17,Graduate,CNCSP   251,SMITH S R,A+,2
+S17,Graduate,CNCSP   251,SMITH S R,A,10
+S17,Graduate,CNCSP   256,FEDDERS A,A+,6
+S17,Graduate,CNCSP   256,FEDDERS A,A,9
+S17,Graduate,CNCSP   260C,ZETZER H A,S,7
+S17,Graduate,CNCSP   261A,BROWN M T,A,5
+S17,Graduate,CNCSP   268C,MORGAN M L,A,5
+S17,Graduate,CNCSP   268C,MORGAN M L,B,2
+S17,Graduate,CNCSP   270,DOWDY E T,S,5
+S17,Graduate,CNCSP   270,KIA-KEATING M,S,6
+S17,Graduate,CNCSP   272,ZETZER H A,S,12
+S17,Graduate,CNCSP   273,VERNON T W,S,7
+S17,Graduate,CNCSP   276A,ZETZER H A,S,6
+S17,Graduate,CNCSP   279C,DOWDY E T,S,13
+S17,Graduate,CNCSP   290,CONSOLI A J,A,8
+S17,Graduate,CNCSP   292,YANG C,A+,5

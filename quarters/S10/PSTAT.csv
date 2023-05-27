@@ -1,0 +1,74 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,PSTAT     5A,GATTO R,A+,6
+S10,Undergraduate,PSTAT     5A,GATTO R,A,4
+S10,Undergraduate,PSTAT     5A,GATTO R,A-,8
+S10,Undergraduate,PSTAT     5A,GATTO R,B+,5
+S10,Undergraduate,PSTAT     5A,GATTO R,B,10
+S10,Undergraduate,PSTAT     5A,GATTO R,C+,6
+S10,Undergraduate,PSTAT     5A,GATTO R,C,1
+S10,Undergraduate,PSTAT     5A,GATTO R,C-,2
+S10,Undergraduate,PSTAT     5A,GATTO R,D+,2
+S10,Undergraduate,PSTAT     5A,GATTO R,D-,1
+S10,Undergraduate,PSTAT     5A,GATTO R,F,3
+S10,Undergraduate,PSTAT     5E,HSU S J,A+,5
+S10,Undergraduate,PSTAT     5E,HSU S J,A,13
+S10,Undergraduate,PSTAT     5E,HSU S J,A-,13
+S10,Undergraduate,PSTAT     5E,HSU S J,B+,12
+S10,Undergraduate,PSTAT     5E,HSU S J,B,8
+S10,Undergraduate,PSTAT     5E,HSU S J,B-,7
+S10,Undergraduate,PSTAT     5E,HSU S J,C+,22
+S10,Undergraduate,PSTAT     5E,HSU S J,C,2
+S10,Undergraduate,PSTAT     5E,HSU S J,C-,11
+S10,Undergraduate,PSTAT     5E,HSU S J,D,1
+S10,Undergraduate,PSTAT     5E,HSU S J,F,3
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,A+,3
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,A,12
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,A-,9
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,B+,10
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,B,25
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,B-,10
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,C+,8
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,C,22
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,C-,6
+S10,Undergraduate,PSTAT   120A,KUMAR ROHINI,F,12
+S10,Undergraduate,PSTAT   120B,NIEMI J B,A+,5
+S10,Undergraduate,PSTAT   120B,NIEMI J B,A,10
+S10,Undergraduate,PSTAT   120B,NIEMI J B,A-,5
+S10,Undergraduate,PSTAT   120B,NIEMI J B,B+,5
+S10,Undergraduate,PSTAT   120B,NIEMI J B,B,5
+S10,Undergraduate,PSTAT   120B,NIEMI J B,B-,3
+S10,Undergraduate,PSTAT   120B,NIEMI J B,C+,4
+S10,Undergraduate,PSTAT   120B,NIEMI J B,C,4
+S10,Undergraduate,PSTAT   120B,NIEMI J B,C-,3
+S10,Undergraduate,PSTAT   120B,NIEMI J B,D,1
+S10,Undergraduate,PSTAT   120B,NIEMI J B,F,2
+S10,Undergraduate,PSTAT   126,HINKLEY D,A-,2
+S10,Undergraduate,PSTAT   126,HINKLEY D,B+,7
+S10,Undergraduate,PSTAT   126,HINKLEY D,B,9
+S10,Undergraduate,PSTAT   126,HINKLEY D,B-,1
+S10,Undergraduate,PSTAT   126,HINKLEY D,C,11
+S10,Undergraduate,PSTAT   126,HINKLEY D,C-,5
+S10,Undergraduate,PSTAT   126,HINKLEY D,D,5
+S10,Undergraduate,PSTAT   126,HINKLEY D,F,7
+S10,Undergraduate,PSTAT   160B,BONNET G,A+,2
+S10,Undergraduate,PSTAT   160B,BONNET G,A,4
+S10,Undergraduate,PSTAT   160B,BONNET G,A-,3
+S10,Undergraduate,PSTAT   160B,BONNET G,B+,1
+S10,Undergraduate,PSTAT   160B,BONNET G,B,3
+S10,Undergraduate,PSTAT   160B,BONNET G,B-,3
+S10,Undergraduate,PSTAT   160B,BONNET G,C+,2
+S10,Undergraduate,PSTAT   160B,BONNET G,C,2
+S10,Undergraduate,PSTAT   160B,BONNET G,C-,3
+S10,Undergraduate,PSTAT   160B,BONNET G,F,1
+S10,Graduate,PSTAT   207C,CARTER A V,A+,2
+S10,Graduate,PSTAT   207C,CARTER A V,A,4
+S10,Graduate,PSTAT   207C,CARTER A V,B+,1
+S10,Graduate,PSTAT   207C,CARTER A V,B,2
+S10,Graduate,PSTAT   220C,HSU S J,A,18
+S10,Graduate,PSTAT   220C,HSU S J,A-,2
+S10,Graduate,PSTAT   227,HINKLEY D,A,5
+S10,Graduate,PSTAT   230,NIEMI J B,A+,1
+S10,Graduate,PSTAT   230,NIEMI J B,A,8
+S10,Graduate,PSTAT   230,NIEMI J B,A-,4
+S10,Graduate,PSTAT   230,NIEMI J B,B+,1
+S10,Graduate,PSTAT   596,WANG Y-D,S,5

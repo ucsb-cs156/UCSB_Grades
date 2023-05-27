@@ -1,0 +1,225 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,ANTH      3,SMITH S T,A+,15
+F19,Undergraduate,ANTH      3,SMITH S T,A,194
+F19,Undergraduate,ANTH      3,SMITH S T,A-,49
+F19,Undergraduate,ANTH      3,SMITH S T,B+,40
+F19,Undergraduate,ANTH      3,SMITH S T,B,61
+F19,Undergraduate,ANTH      3,SMITH S T,B-,16
+F19,Undergraduate,ANTH      3,SMITH S T,C+,9
+F19,Undergraduate,ANTH      3,SMITH S T,C,22
+F19,Undergraduate,ANTH      3,SMITH S T,C-,5
+F19,Undergraduate,ANTH      3,SMITH S T,D+,3
+F19,Undergraduate,ANTH      3,SMITH S T,D,8
+F19,Undergraduate,ANTH      3,SMITH S T,D-,1
+F19,Undergraduate,ANTH      3,SMITH S T,F,25
+F19,Undergraduate,ANTH      9,DAVISON R J,A+,5
+F19,Undergraduate,ANTH      9,DAVISON R J,A,10
+F19,Undergraduate,ANTH      9,DAVISON R J,A-,2
+F19,Undergraduate,ANTH      9,DAVISON R J,B+,1
+F19,Undergraduate,ANTH      9,DAVISON R J,B,1
+F19,Undergraduate,ANTH      9,DAVISON R J,B-,1
+F19,Undergraduate,ANTH      9,DAVISON R J,C-,1
+F19,Undergraduate,ANTH     99,FORD A,A,3
+F19,Undergraduate,ANTH     99,GAULIN S J,A,1
+F19,Undergraduate,ANTH    111,WERTH S,A+,17
+F19,Undergraduate,ANTH    111,WERTH S,A,19
+F19,Undergraduate,ANTH    111,WERTH S,A-,9
+F19,Undergraduate,ANTH    111,WERTH S,B+,4
+F19,Undergraduate,ANTH    111,WERTH S,B,5
+F19,Undergraduate,ANTH    111,WERTH S,C+,1
+F19,Undergraduate,ANTH    111,WERTH S,F,3
+F19,Undergraduate,ANTH    112Z,WILSON G D,A+,1
+F19,Undergraduate,ANTH    112Z,WILSON G D,A,4
+F19,Undergraduate,ANTH    112Z,WILSON G D,A-,7
+F19,Undergraduate,ANTH    112Z,WILSON G D,B+,2
+F19,Undergraduate,ANTH    112Z,WILSON G D,B,5
+F19,Undergraduate,ANTH    112Z,WILSON G D,B-,3
+F19,Undergraduate,ANTH    112Z,WILSON G D,C,3
+F19,Undergraduate,ANTH    112Z,WILSON G D,C-,1
+F19,Undergraduate,ANTH    133,VANDERWARKER,A+,8
+F19,Undergraduate,ANTH    133,VANDERWARKER,A,15
+F19,Undergraduate,ANTH    133,VANDERWARKER,A-,9
+F19,Undergraduate,ANTH    133,VANDERWARKER,B+,11
+F19,Undergraduate,ANTH    133,VANDERWARKER,B,15
+F19,Undergraduate,ANTH    133,VANDERWARKER,B-,8
+F19,Undergraduate,ANTH    133,VANDERWARKER,C+,6
+F19,Undergraduate,ANTH    133,VANDERWARKER,C,8
+F19,Undergraduate,ANTH    133,VANDERWARKER,C-,7
+F19,Undergraduate,ANTH    133,VANDERWARKER,D+,2
+F19,Undergraduate,ANTH    133,VANDERWARKER,D,2
+F19,Undergraduate,ANTH    133,VANDERWARKER,F,1
+F19,Undergraduate,ANTH    145,DAVISON R J,A+,7
+F19,Undergraduate,ANTH    145,DAVISON R J,A,12
+F19,Undergraduate,ANTH    145,DAVISON R J,A-,10
+F19,Undergraduate,ANTH    145,DAVISON R J,B+,4
+F19,Undergraduate,ANTH    145,DAVISON R J,B,3
+F19,Undergraduate,ANTH    150,BODDY A M,A+,1
+F19,Undergraduate,ANTH    150,BODDY A M,A,8
+F19,Undergraduate,ANTH    150,BODDY A M,A-,10
+F19,Undergraduate,ANTH    150,BODDY A M,B+,9
+F19,Undergraduate,ANTH    150,BODDY A M,B,8
+F19,Undergraduate,ANTH    150,BODDY A M,B-,2
+F19,Undergraduate,ANTH    150,BODDY A M,C+,2
+F19,Undergraduate,ANTH    150,BODDY A M,C-,1
+F19,Undergraduate,ANTH    150,BODDY A M,D+,1
+F19,Undergraduate,ANTH    150,BODDY A M,F,1
+F19,Undergraduate,ANTH    152,HOELLE J A,A,21
+F19,Undergraduate,ANTH    152,HOELLE J A,A-,11
+F19,Undergraduate,ANTH    152,HOELLE J A,B+,3
+F19,Undergraduate,ANTH    152,HOELLE J A,B,4
+F19,Undergraduate,ANTH    152,HOELLE J A,D+,1
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,A+,1
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,A,3
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,A-,5
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,B+,8
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,B,7
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,B-,8
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,C+,7
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,C,3
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,C-,5
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,D+,4
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,D,1
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,D-,2
+F19,Undergraduate,ANTH    153T,BAILEY-STEINI,F,3
+F19,Undergraduate,ANTH    153T,BROWN M,A+,1
+F19,Undergraduate,ANTH    153T,BROWN M,A,3
+F19,Undergraduate,ANTH    153T,BROWN M,A-,5
+F19,Undergraduate,ANTH    153T,BROWN M,B+,8
+F19,Undergraduate,ANTH    153T,BROWN M,B,7
+F19,Undergraduate,ANTH    153T,BROWN M,B-,8
+F19,Undergraduate,ANTH    153T,BROWN M,C+,7
+F19,Undergraduate,ANTH    153T,BROWN M,C,3
+F19,Undergraduate,ANTH    153T,BROWN M,C-,5
+F19,Undergraduate,ANTH    153T,BROWN M,D+,4
+F19,Undergraduate,ANTH    153T,BROWN M,D,1
+F19,Undergraduate,ANTH    153T,BROWN M,D-,2
+F19,Undergraduate,ANTH    153T,BROWN M,F,3
+F19,Undergraduate,ANTH    161,GURVEN M D,A+,1
+F19,Undergraduate,ANTH    161,GURVEN M D,A,8
+F19,Undergraduate,ANTH    161,GURVEN M D,A-,7
+F19,Undergraduate,ANTH    161,GURVEN M D,B+,5
+F19,Undergraduate,ANTH    161,GURVEN M D,B,14
+F19,Undergraduate,ANTH    161,GURVEN M D,B-,12
+F19,Undergraduate,ANTH    161,GURVEN M D,C+,4
+F19,Undergraduate,ANTH    161,GURVEN M D,C,11
+F19,Undergraduate,ANTH    161,GURVEN M D,C-,3
+F19,Undergraduate,ANTH    161,GURVEN M D,D+,3
+F19,Undergraduate,ANTH    161,GURVEN M D,D,4
+F19,Undergraduate,ANTH    161,GURVEN M D,F,4
+F19,Undergraduate,ANTH    161,TRIOZZI N,A+,1
+F19,Undergraduate,ANTH    161,TRIOZZI N,A,8
+F19,Undergraduate,ANTH    161,TRIOZZI N,A-,7
+F19,Undergraduate,ANTH    161,TRIOZZI N,B+,5
+F19,Undergraduate,ANTH    161,TRIOZZI N,B,14
+F19,Undergraduate,ANTH    161,TRIOZZI N,B-,12
+F19,Undergraduate,ANTH    161,TRIOZZI N,C+,4
+F19,Undergraduate,ANTH    161,TRIOZZI N,C,11
+F19,Undergraduate,ANTH    161,TRIOZZI N,C-,3
+F19,Undergraduate,ANTH    161,TRIOZZI N,D+,3
+F19,Undergraduate,ANTH    161,TRIOZZI N,D,4
+F19,Undergraduate,ANTH    161,TRIOZZI N,F,4
+F19,Undergraduate,ANTH    162,MCCLURE S B,A+,11
+F19,Undergraduate,ANTH    162,MCCLURE S B,A,11
+F19,Undergraduate,ANTH    162,MCCLURE S B,A-,9
+F19,Undergraduate,ANTH    162,MCCLURE S B,B+,5
+F19,Undergraduate,ANTH    162,MCCLURE S B,B,7
+F19,Undergraduate,ANTH    162,MCCLURE S B,B-,6
+F19,Undergraduate,ANTH    162,MCCLURE S B,C+,2
+F19,Undergraduate,ANTH    162,MCCLURE S B,C-,1
+F19,Undergraduate,ANTH    162,MCCLURE S B,D,1
+F19,Undergraduate,ANTH    162,MCCLURE S B,F,2
+F19,Undergraduate,ANTH    170,LAWSON D W,A,2
+F19,Undergraduate,ANTH    170,LAWSON D W,A-,6
+F19,Undergraduate,ANTH    170,LAWSON D W,B+,14
+F19,Undergraduate,ANTH    170,LAWSON D W,B,20
+F19,Undergraduate,ANTH    170,LAWSON D W,B-,12
+F19,Undergraduate,ANTH    170,LAWSON D W,C+,11
+F19,Undergraduate,ANTH    170,LAWSON D W,C,6
+F19,Undergraduate,ANTH    170,LAWSON D W,C-,1
+F19,Undergraduate,ANTH    170,LAWSON D W,D+,2
+F19,Undergraduate,ANTH    170,LAWSON D W,D,1
+F19,Undergraduate,ANTH    170,LAWSON D W,F,2
+F19,Undergraduate,ANTH    178,VANDERWARKER,A+,1
+F19,Undergraduate,ANTH    178,VANDERWARKER,A,4
+F19,Undergraduate,ANTH    180A,KURIN D S,A+,9
+F19,Undergraduate,ANTH    180A,KURIN D S,A,10
+F19,Undergraduate,ANTH    180A,KURIN D S,A-,5
+F19,Undergraduate,ANTH    180A,KURIN D S,B,2
+F19,Undergraduate,ANTH    180A,KURIN D S,B-,1
+F19,Undergraduate,ANTH    180A,KURIN D S,C+,3
+F19,Undergraduate,ANTH    194,FORD A,A+,1
+F19,Undergraduate,ANTH    194,FORD A,A,3
+F19,Undergraduate,ANTH    194P,BROWN M,A,1
+F19,Undergraduate,ANTH    194P,GAMBLE L H,A,6
+F19,Undergraduate,ANTH    194P,GLASSOW M A,A,2
+F19,Undergraduate,ANTH    194P,MCCLURE S B,A,1
+F19,Undergraduate,ANTH    194P,WILSON G D,A+,1
+F19,Undergraduate,ANTH    194P,WILSON G D,A,4
+F19,Undergraduate,ANTH    197GI,GIDDING A D,A,2
+F19,Undergraduate,ANTH    197GI,GIDDING A D,A-,3
+F19,Undergraduate,ANTH    197GI,GIDDING A D,B+,4
+F19,Undergraduate,ANTH    197GI,GIDDING A D,B,1
+F19,Undergraduate,ANTH    197GI,GIDDING A D,C+,1
+F19,Undergraduate,ANTH    197GI,GIDDING A D,D,1
+F19,Undergraduate,ANTH    197GI,GIDDING A D,F,2
+F19,Undergraduate,ANTH    198,VANDERWARKER,A,2
+F19,Undergraduate,ANTH    199,BODDY A M,A,1
+F19,Undergraduate,ANTH    199,BROWN M,A,2
+F19,Undergraduate,ANTH    199,GIDDING A D,A,2
+F19,Undergraduate,ANTH    199,KENNETT D J,A,2
+F19,Undergraduate,ANTH    199,KURIN D S,A+,2
+F19,Undergraduate,ANTH    199,LAWSON D W,A,1
+F19,Undergraduate,ANTH    199,MCCLURE S B,A+,1
+F19,Undergraduate,ANTH    199,VANDERWARKER,A,10
+F19,Undergraduate,ANTH    199,WALSH C,A,1
+F19,Undergraduate,ANTH    199,WILSON G D,A,1
+F19,Undergraduate,ANTH    199RA,BROWN M,A,3
+F19,Undergraduate,ANTH    199RA,BROWN M,B,2
+F19,Undergraduate,ANTH    199RA,FORD A,A,1
+F19,Undergraduate,ANTH    199RA,GAULIN S J,A,4
+F19,Undergraduate,ANTH    199RA,MCCLURE S B,A,1
+F19,Undergraduate,ANTH    199RA,RESNICK E F,A,2
+F19,Undergraduate,ANTH    199RA,SMITH S T,A+,1
+F19,Graduate,ANTH    201A,SMITH S T,A,6
+F19,Graduate,ANTH    206,MCCLURE S B,A+,4
+F19,Graduate,ANTH    234,TOOBY J,A,3
+F19,Graduate,ANTH    239A,KENNETT D J,A,7
+F19,Graduate,ANTH    240B,HARTHORN B H,A,5
+F19,Graduate,ANTH    241B,BODDY A M,A,6
+F19,Graduate,ANTH    277,WILSON G D,S,7
+F19,Graduate,ANTH    501,BROWN M,S,1
+F19,Graduate,ANTH    501,SMITH S T,S,3
+F19,Graduate,ANTH    501,VANDERWARKER,S,1
+F19,Graduate,ANTH    596,ALDANA G V,A,1
+F19,Graduate,ANTH    596,BODDY A M,A,1
+F19,Graduate,ANTH    596,BROWN M,A,1
+F19,Graduate,ANTH    596,BROWN M,S,1
+F19,Graduate,ANTH    596,GAMBLE L H,A,1
+F19,Graduate,ANTH    596,GAULIN S J,A+,1
+F19,Graduate,ANTH    596,GURVEN M D,A,2
+F19,Graduate,ANTH    596,HANCOCK M E,A,1
+F19,Graduate,ANTH    596,HOELLE J A,A,2
+F19,Graduate,ANTH    596,KENNETT D J,A,2
+F19,Graduate,ANTH    596,LAWSON D W,A,1
+F19,Graduate,ANTH    596,MCCLURE S B,A+,1
+F19,Graduate,ANTH    596,VANDERWARKER,A,3
+F19,Graduate,ANTH    596,WALSH C,A,1
+F19,Graduate,ANTH    596,WILSON G D,A,2
+F19,Graduate,ANTH    597,BROWN M,S,1
+F19,Graduate,ANTH    598,GAULIN S J,S,1
+F19,Graduate,ANTH    598,GURVEN M D,S,2
+F19,Graduate,ANTH    598,HARTHORN B H,S,2
+F19,Graduate,ANTH    598,HOELLE J A,S,2
+F19,Graduate,ANTH    598,KENNETT D J,S,1
+F19,Graduate,ANTH    598,SMITH S T,S,1
+F19,Graduate,ANTH    598,WALSH C,S,1
+F19,Graduate,ANTH    599,BODDY A M,S,1
+F19,Graduate,ANTH    599,GAMBLE L H,S,1
+F19,Graduate,ANTH    599,HANCOCK M E,S,1
+F19,Graduate,ANTH    599,KENNETT D J,S,1
+F19,Graduate,ANTH    599,PALERM J-V,S,1
+F19,Graduate,ANTH    599,SCHREIBER K J,S,2
+F19,Graduate,ANTH    599,SMITH S T,S,1
+F19,Graduate,ANTH    599,VANDERWARKER,S,3
+F19,Graduate,ANTH    599,WALSH C,S,3
+F19,Graduate,ANTH    599,WILSON G D,S,1

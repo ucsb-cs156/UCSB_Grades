@@ -1,0 +1,187 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,A+,6
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,A,48
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,A-,33
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,B+,20
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,B,26
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,B-,17
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,C+,7
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,C,5
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,C-,2
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,D,1
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,D-,1
+S20,Undergraduate,GEOG      2,LOPEZ-CARR D,F,6
+S20,Undergraduate,GEOG      4,TRUGMAN A T,A+,9
+S20,Undergraduate,GEOG      4,TRUGMAN A T,A,48
+S20,Undergraduate,GEOG      4,TRUGMAN A T,A-,17
+S20,Undergraduate,GEOG      4,TRUGMAN A T,B+,12
+S20,Undergraduate,GEOG      4,TRUGMAN A T,B,17
+S20,Undergraduate,GEOG      4,TRUGMAN A T,B-,6
+S20,Undergraduate,GEOG      4,TRUGMAN A T,C+,8
+S20,Undergraduate,GEOG      4,TRUGMAN A T,C,8
+S20,Undergraduate,GEOG      4,TRUGMAN A T,C-,3
+S20,Undergraduate,GEOG      4,TRUGMAN A T,D+,2
+S20,Undergraduate,GEOG      4,TRUGMAN A T,D,2
+S20,Undergraduate,GEOG      4,TRUGMAN A T,D-,2
+S20,Undergraduate,GEOG      4,TRUGMAN A T,F,9
+S20,Undergraduate,GEOG      5,ACKERT E S,A+,27
+S20,Undergraduate,GEOG      5,ACKERT E S,A,48
+S20,Undergraduate,GEOG      5,ACKERT E S,A-,36
+S20,Undergraduate,GEOG      5,ACKERT E S,B+,22
+S20,Undergraduate,GEOG      5,ACKERT E S,B,24
+S20,Undergraduate,GEOG      5,ACKERT E S,B-,18
+S20,Undergraduate,GEOG      5,ACKERT E S,C+,9
+S20,Undergraduate,GEOG      5,ACKERT E S,C,6
+S20,Undergraduate,GEOG      5,ACKERT E S,C-,4
+S20,Undergraduate,GEOG      5,ACKERT E S,D,3
+S20,Undergraduate,GEOG      5,ACKERT E S,D-,1
+S20,Undergraduate,GEOG      5,ACKERT E S,F,10
+S20,Undergraduate,GEOG      6,CASSELS S L,A+,1
+S20,Undergraduate,GEOG      6,CASSELS S L,A,17
+S20,Undergraduate,GEOG      6,CASSELS S L,A-,21
+S20,Undergraduate,GEOG      6,CASSELS S L,B+,10
+S20,Undergraduate,GEOG      6,CASSELS S L,B,20
+S20,Undergraduate,GEOG      6,CASSELS S L,B-,12
+S20,Undergraduate,GEOG      6,CASSELS S L,C+,5
+S20,Undergraduate,GEOG      6,CASSELS S L,C,6
+S20,Undergraduate,GEOG      6,CASSELS S L,D+,3
+S20,Undergraduate,GEOG      6,CASSELS S L,D,2
+S20,Undergraduate,GEOG      6,CASSELS S L,D-,2
+S20,Undergraduate,GEOG      6,CASSELS S L,F,5
+S20,Undergraduate,GEOG      8,JONES C,A+,10
+S20,Undergraduate,GEOG      8,JONES C,A,17
+S20,Undergraduate,GEOG      8,JONES C,B+,4
+S20,Undergraduate,GEOG      8,JONES C,B,5
+S20,Undergraduate,GEOG      8,JONES C,C,2
+S20,Undergraduate,GEOG      8,JONES C,D,2
+S20,Undergraduate,GEOG    109,MANCA G,A+,1
+S20,Undergraduate,GEOG    109,MANCA G,A,12
+S20,Undergraduate,GEOG    109,MANCA G,A-,1
+S20,Undergraduate,GEOG    109,MANCA G,B+,6
+S20,Undergraduate,GEOG    109,MANCA G,B,2
+S20,Undergraduate,GEOG    109,MANCA G,B-,1
+S20,Undergraduate,GEOG    109,MANCA G,C+,1
+S20,Undergraduate,GEOG    109,MANCA G,C,4
+S20,Undergraduate,GEOG    109,MANCA G,F,4
+S20,Undergraduate,GEOG    111C,GOULIAS K,A+,28
+S20,Undergraduate,GEOG    111C,GOULIAS K,A,17
+S20,Undergraduate,GEOG    111C,GOULIAS K,A-,5
+S20,Undergraduate,GEOG    111C,GOULIAS K,B+,2
+S20,Undergraduate,GEOG    111C,GOULIAS K,B-,1
+S20,Undergraduate,GEOG    115C,KIBLER C L,A+,9
+S20,Undergraduate,GEOG    115C,KIBLER C L,A,13
+S20,Undergraduate,GEOG    115C,KIBLER C L,A-,6
+S20,Undergraduate,GEOG    115C,KIBLER C L,B+,3
+S20,Undergraduate,GEOG    115C,KIBLER C L,B,6
+S20,Undergraduate,GEOG    115C,KIBLER C L,B-,1
+S20,Undergraduate,GEOG    115C,KIBLER C L,C-,1
+S20,Undergraduate,GEOG    115C,KIBLER C L,F,1
+S20,Undergraduate,GEOG    136,CAYLOR K K,A+,3
+S20,Undergraduate,GEOG    136,CAYLOR K K,A,4
+S20,Undergraduate,GEOG    136,CAYLOR K K,A-,2
+S20,Undergraduate,GEOG    136,CAYLOR K K,F,1
+S20,Undergraduate,GEOG    137,GANTI N K,A+,1
+S20,Undergraduate,GEOG    137,GANTI N K,A,4
+S20,Undergraduate,GEOG    137,GANTI N K,A-,6
+S20,Undergraduate,GEOG    137,GANTI N K,B+,3
+S20,Undergraduate,GEOG    137,GANTI N K,B-,2
+S20,Undergraduate,GEOG    137,GANTI N K,F,3
+S20,Undergraduate,GEOG    142,KING J Y,A+,4
+S20,Undergraduate,GEOG    142,KING J Y,A,6
+S20,Undergraduate,GEOG    142,KING J Y,A-,1
+S20,Undergraduate,GEOG    142,KING J Y,B+,2
+S20,Undergraduate,GEOG    142,KING J Y,B,3
+S20,Undergraduate,GEOG    142,KING J Y,B-,1
+S20,Undergraduate,GEOG    142,KING J Y,C+,3
+S20,Undergraduate,GEOG    142,KING J Y,C,2
+S20,Undergraduate,GEOG    142,KING J Y,F,1
+S20,Undergraduate,GEOG    148,GAMELIN B L,A,37
+S20,Undergraduate,GEOG    148,GAMELIN B L,A-,12
+S20,Undergraduate,GEOG    148,GAMELIN B L,B+,5
+S20,Undergraduate,GEOG    148,GAMELIN B L,B,7
+S20,Undergraduate,GEOG    148,GAMELIN B L,B-,4
+S20,Undergraduate,GEOG    148,GAMELIN B L,C,3
+S20,Undergraduate,GEOG    159,MANCA G,A+,1
+S20,Undergraduate,GEOG    159,MANCA G,A,68
+S20,Undergraduate,GEOG    159,MANCA G,A-,10
+S20,Undergraduate,GEOG    159,MANCA G,B+,5
+S20,Undergraduate,GEOG    159,MANCA G,B,8
+S20,Undergraduate,GEOG    159,MANCA G,B-,5
+S20,Undergraduate,GEOG    159,MANCA G,C,1
+S20,Undergraduate,GEOG    159,MANCA G,C-,4
+S20,Undergraduate,GEOG    159,MANCA G,D+,1
+S20,Undergraduate,GEOG    159,MANCA G,D,1
+S20,Undergraduate,GEOG    159,MANCA G,F,5
+S20,Undergraduate,GEOG    162,LOAICIGA H,A+,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,A-,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,B+,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,B,4
+S20,Undergraduate,GEOG    162,LOAICIGA H,B-,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,C,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,C-,1
+S20,Undergraduate,GEOG    162,LOAICIGA H,D+,2
+S20,Undergraduate,GEOG    162,LOAICIGA H,D,3
+S20,Undergraduate,GEOG    165,WASHBURN L,A,13
+S20,Undergraduate,GEOG    165,WASHBURN L,B+,2
+S20,Undergraduate,GEOG    165,WASHBURN L,B,7
+S20,Undergraduate,GEOG    165,WASHBURN L,B-,3
+S20,Undergraduate,GEOG    165,WASHBURN L,C+,1
+S20,Undergraduate,GEOG    165,WASHBURN L,C,1
+S20,Undergraduate,GEOG    165,WASHBURN L,F,3
+S20,Undergraduate,GEOG    166,DEVRIES T J,A+,2
+S20,Undergraduate,GEOG    166,DEVRIES T J,A,7
+S20,Undergraduate,GEOG    166,DEVRIES T J,A-,1
+S20,Undergraduate,GEOG    166,DEVRIES T J,B+,1
+S20,Undergraduate,GEOG    166,DEVRIES T J,B,1
+S20,Undergraduate,GEOG    166,DEVRIES T J,B-,1
+S20,Undergraduate,GEOG    166,DEVRIES T J,C,1
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,A,13
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,A-,13
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,B+,11
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,B,13
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,B-,12
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,C+,2
+S20,Undergraduate,GEOG    176C,JANOWICZ K W,C,1
+S20,Undergraduate,GEOG    178,JANOWICZ K W,A+,1
+S20,Undergraduate,GEOG    178,JANOWICZ K W,A,5
+S20,Undergraduate,GEOG    178,JANOWICZ K W,A-,6
+S20,Undergraduate,GEOG    178,JANOWICZ K W,B+,2
+S20,Undergraduate,GEOG    178,JANOWICZ K W,B,1
+S20,Undergraduate,GEOG    178,JANOWICZ K W,B-,2
+S20,Undergraduate,GEOG    178,JANOWICZ K W,D+,2
+S20,Undergraduate,GEOG    178,JANOWICZ K W,D,2
+S20,Undergraduate,GEOG    178,JANOWICZ K W,F,2
+S20,Undergraduate,GEOG    183,CLARKE K,A+,1
+S20,Undergraduate,GEOG    183,CLARKE K,A,22
+S20,Undergraduate,GEOG    183,CLARKE K,A-,2
+S20,Undergraduate,GEOG    183,CLARKE K,B+,1
+S20,Undergraduate,GEOG    183,CLARKE K,B-,6
+S20,Undergraduate,GEOG    183,CLARKE K,C,1
+S20,Undergraduate,GEOG    183,CLARKE K,D,1
+S20,Undergraduate,GEOG    183,CLARKE K,F,1
+S20,Undergraduate,GEOG    199RA,MONTELLO D R,P,6
+S20,Undergraduate,GEOG W   12,DODGE S,A,169
+S20,Undergraduate,GEOG W   12,DODGE S,A-,17
+S20,Undergraduate,GEOG W   12,DODGE S,B+,11
+S20,Undergraduate,GEOG W   12,DODGE S,B,6
+S20,Undergraduate,GEOG W   12,DODGE S,B-,2
+S20,Undergraduate,GEOG W   12,DODGE S,C+,1
+S20,Undergraduate,GEOG W   12,DODGE S,D,1
+S20,Undergraduate,GEOG W   12,DODGE S,F,7
+S20,Graduate,GEOG    200C,MONTELLO D R,A,7
+S20,Graduate,GEOG    200C,MONTELLO D R,A-,2
+S20,Graduate,GEOG    200C,MONTELLO D R,F,1
+S20,Graduate,GEOG    201,SWEENEY S H,S,39
+S20,Graduate,GEOG    210C,DING Q,A+,10
+S20,Graduate,GEOG    210C,DING Q,A,7
+S20,Graduate,GEOG    210C,DING Q,D+,1
+S20,Graduate,GEOG    260,KING J Y,A+,2
+S20,Graduate,GEOG    260,KING J Y,A,3
+S20,Graduate,GEOG    260,KING J Y,F,1
+S20,Graduate,GEOG    263,NIDZIEKO N J,A,10
+S20,Graduate,GEOG    277,ROBERTS D A,A+,3
+S20,Graduate,GEOG    277,ROBERTS D A,A,8
+S20,Graduate,GEOG    288LC,DE CARVALHO L,A+,2
+S20,Graduate,GEOG    288LC,DE CARVALHO L,A,3
+S20,Graduate,GEOG    294,MURRAY A,A+,1
+S20,Graduate,GEOG    294,MURRAY A,A,7

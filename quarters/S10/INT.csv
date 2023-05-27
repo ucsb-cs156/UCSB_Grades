@@ -1,0 +1,40 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,INT       1,MORIHARA L C,P,22
+S10,Undergraduate,INT       1,MORIHARA L C,NP,1
+S10,Undergraduate,INT      84MM,MEADOW M A,A,14
+S10,Undergraduate,INT      84MM,MEADOW M A,A-,8
+S10,Undergraduate,INT      94BJ,DEVRIES M S,P,26
+S10,Undergraduate,INT      94DN,PARK J S W,F,2
+S10,Undergraduate,INT      94DN,PARK J S W,P,15
+S10,Undergraduate,INT      94DN,PARK J S W,NP,1
+S10,Undergraduate,INT      94DW,DUTSCH D,P,24
+S10,Undergraduate,INT      94GW,SPICKARD P R,P,15
+S10,Undergraduate,INT      94HU,CAMPO J E,P,18
+S10,Undergraduate,INT      94HZ,KING W D,P,19
+S10,Undergraduate,INT      94HZ,KING W D,NP,1
+S10,Undergraduate,INT      94IR,HALL P,P,25
+S10,Undergraduate,INT      94LV,THROWER D A,P,22
+S10,Undergraduate,INT      94LY,SPIEKER S,P,11
+S10,Undergraduate,INT      94MK,MIGLIO V G,P,16
+S10,Undergraduate,INT      94MO,ROQUE RAMIREZ,P,16
+S10,Undergraduate,INT      94MS,WOODS C A,P,6
+S10,Undergraduate,INT      94MS,WOODS C A,NP,1
+S10,Undergraduate,INT      94NJ,RAUCHHAUS R,P,17
+S10,Undergraduate,INT     185CE,BECKMAN L B,A,4
+S10,Undergraduate,INT     185CE,BECKMAN L B,A-,1
+S10,Undergraduate,INT     185CE,BECKMAN L B,B,1
+S10,Undergraduate,INT     185CE,BECKMAN L B,B-,1
+S10,Undergraduate,INT     185CE,BECKMAN L B,D,5
+S10,Undergraduate,INT     190MA,SCHNEIDER B E,P,8
+S10,Undergraduate,INT     190MB,SCHNEIDER B E,P,6
+S10,Undergraduate,INT     192DC,O'CONNOR A M,P,24
+S10,Undergraduate,INT     199DC,O'CONNOR A M,A,7
+S10,Undergraduate,INT     199DC,O'CONNOR A M,A-,4
+S10,Undergraduate,INT     199DC,O'CONNOR A M,B+,5
+S10,Undergraduate,INT     199DC,O'CONNOR A M,B,1
+S10,Undergraduate,INT     199DC,O'CONNOR A M,B-,7
+S10,Graduate,INT     200C,OKAMOTO Y,S,6
+S10,Undergraduate,INT  CS 120,LAVERMAN L E,P,13
+S10,Undergraduate,INT  CS 120,SMITH D K,P,25
+S10,Undergraduate,INT  CS 120,TYLER C M,P,13
+S10,Undergraduate,INT  CS 120,VAN DER VEEN,P,7

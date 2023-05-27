@@ -1,0 +1,113 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,A+,4
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,A,33
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,A-,26
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,B+,13
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,B,10
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,B-,5
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,C+,3
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,C-,1
+S15,Undergraduate,ARTHI     5B,ROBERTSON E B,F,1
+S15,Undergraduate,ARTHI     6C,MONAHAN L,A,40
+S15,Undergraduate,ARTHI     6C,MONAHAN L,A-,68
+S15,Undergraduate,ARTHI     6C,MONAHAN L,B+,46
+S15,Undergraduate,ARTHI     6C,MONAHAN L,B,113
+S15,Undergraduate,ARTHI     6C,MONAHAN L,B-,70
+S15,Undergraduate,ARTHI     6C,MONAHAN L,C+,42
+S15,Undergraduate,ARTHI     6C,MONAHAN L,C,46
+S15,Undergraduate,ARTHI     6C,MONAHAN L,C-,14
+S15,Undergraduate,ARTHI     6C,MONAHAN L,D+,2
+S15,Undergraduate,ARTHI     6C,MONAHAN L,D,7
+S15,Undergraduate,ARTHI     6C,MONAHAN L,F,9
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,A+,3
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,A,27
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,A-,11
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,B+,16
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,B,19
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,B-,7
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,C+,7
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,C,4
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,C-,3
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,D-,1
+S15,Undergraduate,ARTHI     6H,SPIVAK D E,F,1
+S15,Undergraduate,ARTHI     6J,WHITE J S,A+,3
+S15,Undergraduate,ARTHI     6J,WHITE J S,A,2
+S15,Undergraduate,ARTHI     6J,WHITE J S,A-,4
+S15,Undergraduate,ARTHI     6J,WHITE J S,B+,5
+S15,Undergraduate,ARTHI     6J,WHITE J S,B,4
+S15,Undergraduate,ARTHI     6J,WHITE J S,B-,2
+S15,Undergraduate,ARTHI     6J,WHITE J S,C+,3
+S15,Undergraduate,ARTHI     6J,WHITE J S,C,2
+S15,Undergraduate,ARTHI     6J,WHITE J S,F,1
+S15,Undergraduate,ARTHI   107C,MEADOW M A,A+,3
+S15,Undergraduate,ARTHI   107C,MEADOW M A,A,9
+S15,Undergraduate,ARTHI   107C,MEADOW M A,A-,3
+S15,Undergraduate,ARTHI   107C,MEADOW M A,B+,7
+S15,Undergraduate,ARTHI   107C,MEADOW M A,B,4
+S15,Undergraduate,ARTHI   107C,MEADOW M A,B-,4
+S15,Undergraduate,ARTHI   107C,MEADOW M A,C+,1
+S15,Undergraduate,ARTHI   107C,MEADOW M A,C,5
+S15,Undergraduate,ARTHI   107C,MEADOW M A,F,3
+S15,Undergraduate,ARTHI   111C,ADAMS A J,A+,3
+S15,Undergraduate,ARTHI   111C,ADAMS A J,A,6
+S15,Undergraduate,ARTHI   111C,ADAMS A J,A-,7
+S15,Undergraduate,ARTHI   111C,ADAMS A J,B+,14
+S15,Undergraduate,ARTHI   111C,ADAMS A J,B,8
+S15,Undergraduate,ARTHI   111C,ADAMS A J,B-,5
+S15,Undergraduate,ARTHI   111C,ADAMS A J,C+,4
+S15,Undergraduate,ARTHI   111C,ADAMS A J,C,2
+S15,Undergraduate,ARTHI   111C,ADAMS A J,C-,1
+S15,Undergraduate,ARTHI   111C,ADAMS A J,D+,1
+S15,Undergraduate,ARTHI   111C,ADAMS A J,F,1
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,A+,4
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,A,20
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,A-,2
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,B+,5
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,B,15
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,B-,2
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,C+,1
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,C,3
+S15,Undergraduate,ARTHI   121A,GARFINKLE C G,D,1
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,A+,7
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,A,4
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,A-,8
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,B+,10
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,B,8
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,B-,2
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,C+,2
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,C,1
+S15,Undergraduate,ARTHI   127A,OGBECHIE S O,F,2
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,A,7
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,A-,13
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,B+,6
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,B,3
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,B-,8
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,C+,4
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,C,4
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,C-,1
+S15,Undergraduate,ARTHI   136J,CHATTOPADHYAY,F,3
+S15,Undergraduate,ARTHI   141E,ROBERTSON E B,A,13
+S15,Undergraduate,ARTHI   144A,SPIEKER S,A,8
+S15,Undergraduate,ARTHI   144A,SPIEKER S,A-,3
+S15,Undergraduate,ARTHI   144A,SPIEKER S,B+,2
+S15,Undergraduate,ARTHI   144A,SPIEKER S,B,8
+S15,Undergraduate,ARTHI   144A,SPIEKER S,C,1
+S15,Undergraduate,ARTHI   185BB,WILLIAMS R J,A,10
+S15,Undergraduate,ARTHI   185BB,WILLIAMS R J,A-,2
+S15,Undergraduate,ARTHI   185BB,WILLIAMS R J,B+,1
+S15,Undergraduate,ARTHI   185BB,WILLIAMS R J,C,1
+S15,Undergraduate,ARTHI   186N,OGBECHIE S O,A+,1
+S15,Undergraduate,ARTHI   186N,OGBECHIE S O,A,1
+S15,Undergraduate,ARTHI   186N,OGBECHIE S O,A-,2
+S15,Undergraduate,ARTHI   186N,OGBECHIE S O,F,1
+S15,Undergraduate,ARTHI   186SJ,WHITE J S,A-,3
+S15,Undergraduate,ARTHI   186SJ,WHITE J S,B+,4
+S15,Undergraduate,ARTHI   186SJ,WHITE J S,B,4
+S15,Undergraduate,ARTHI   186SJ,WHITE J S,C+,1
+S15,Undergraduate,ARTHI   186SJ,WHITE J S,C-,1
+S15,Graduate,ARTHI   251A,OGBECHIE S O,A+,1
+S15,Graduate,ARTHI   251A,OGBECHIE S O,A,4
+S15,Graduate,ARTHI   255D,MEADOW M A,A,4
+S15,Graduate,ARTHI   255D,MEADOW M A,A-,1
+S15,Graduate,ARTHI   282A,STURMAN P C,A,5
+S15,Graduate,ARTHI   500,MONAHAN L,S,10

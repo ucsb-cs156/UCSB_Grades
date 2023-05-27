@@ -1,0 +1,222 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,PSY       1,FRIDLUND A J,A,62
+F16,Undergraduate,PSY       1,FRIDLUND A J,A-,10
+F16,Undergraduate,PSY       1,FRIDLUND A J,B+,11
+F16,Undergraduate,PSY       1,FRIDLUND A J,B,171
+F16,Undergraduate,PSY       1,FRIDLUND A J,B-,25
+F16,Undergraduate,PSY       1,FRIDLUND A J,C+,31
+F16,Undergraduate,PSY       1,FRIDLUND A J,C,197
+F16,Undergraduate,PSY       1,FRIDLUND A J,C-,22
+F16,Undergraduate,PSY       1,FRIDLUND A J,D+,13
+F16,Undergraduate,PSY       1,FRIDLUND A J,D,63
+F16,Undergraduate,PSY       1,FRIDLUND A J,D-,13
+F16,Undergraduate,PSY       1,FRIDLUND A J,F,82
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,A,8
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,A-,30
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,B+,12
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,B,37
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,B-,29
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,C+,41
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,C,32
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,C-,28
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,D+,5
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,D,4
+F16,Undergraduate,PSY       3,HERRERA ORTIZ,F,35
+F16,Undergraduate,PSY       5,GIESBRECHT B,A+,3
+F16,Undergraduate,PSY       5,GIESBRECHT B,A,4
+F16,Undergraduate,PSY       5,GIESBRECHT B,A-,7
+F16,Undergraduate,PSY       5,GIESBRECHT B,B+,6
+F16,Undergraduate,PSY       5,GIESBRECHT B,B,19
+F16,Undergraduate,PSY       5,GIESBRECHT B,B-,10
+F16,Undergraduate,PSY       5,GIESBRECHT B,C+,9
+F16,Undergraduate,PSY       5,GIESBRECHT B,C,16
+F16,Undergraduate,PSY       5,GIESBRECHT B,C-,18
+F16,Undergraduate,PSY       5,GIESBRECHT B,D,6
+F16,Undergraduate,PSY       5,GIESBRECHT B,F,11
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,A,14
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,A-,25
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,B+,25
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,B,36
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,B-,7
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,C+,51
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,C,28
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,C-,13
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,D+,8
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,D,15
+F16,Undergraduate,PSY       7,HERRERA ORTIZ,F,15
+F16,Undergraduate,PSY      90A,GIESBRECHT B,A+,14
+F16,Undergraduate,PSY      90A,GIESBRECHT B,A,2
+F16,Undergraduate,PSY      98,MILLER M B,A,8
+F16,Undergraduate,PSY     102,GRAMZOW R H,A+,1
+F16,Undergraduate,PSY     102,GRAMZOW R H,A,166
+F16,Undergraduate,PSY     102,GRAMZOW R H,A-,84
+F16,Undergraduate,PSY     102,GRAMZOW R H,B+,54
+F16,Undergraduate,PSY     102,GRAMZOW R H,B,18
+F16,Undergraduate,PSY     102,GRAMZOW R H,B-,12
+F16,Undergraduate,PSY     102,GRAMZOW R H,C+,7
+F16,Undergraduate,PSY     102,GRAMZOW R H,C,2
+F16,Undergraduate,PSY     102,GRAMZOW R H,F,1
+F16,Undergraduate,PSY     105,LIBERMAN Z E,A,43
+F16,Undergraduate,PSY     105,LIBERMAN Z E,A-,42
+F16,Undergraduate,PSY     105,LIBERMAN Z E,B+,35
+F16,Undergraduate,PSY     105,LIBERMAN Z E,B,85
+F16,Undergraduate,PSY     105,LIBERMAN Z E,B-,42
+F16,Undergraduate,PSY     105,LIBERMAN Z E,C+,39
+F16,Undergraduate,PSY     105,LIBERMAN Z E,C,33
+F16,Undergraduate,PSY     105,LIBERMAN Z E,C-,13
+F16,Undergraduate,PSY     105,LIBERMAN Z E,D+,7
+F16,Undergraduate,PSY     105,LIBERMAN Z E,D,11
+F16,Undergraduate,PSY     105,LIBERMAN Z E,D-,6
+F16,Undergraduate,PSY     105,LIBERMAN Z E,F,24
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,A+,1
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,A,19
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,A-,14
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,B+,23
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,B,36
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,B-,29
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,C+,24
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,C,30
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,C-,39
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,D+,7
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,D,9
+F16,Undergraduate,PSY     108,HERRERA ORTIZ,F,19
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,A+,2
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,A,15
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,A-,13
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,B+,39
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,B,33
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,B-,21
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,C+,11
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,C,3
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,C-,3
+F16,Undergraduate,PSY     110A,ECKSTEIN M P,D,1
+F16,Undergraduate,PSY     111,KIPPIN T E,A+,9
+F16,Undergraduate,PSY     111,KIPPIN T E,A,57
+F16,Undergraduate,PSY     111,KIPPIN T E,A-,59
+F16,Undergraduate,PSY     111,KIPPIN T E,B+,17
+F16,Undergraduate,PSY     111,KIPPIN T E,B,11
+F16,Undergraduate,PSY     111,KIPPIN T E,B-,6
+F16,Undergraduate,PSY     111,KIPPIN T E,C+,3
+F16,Undergraduate,PSY     111,KIPPIN T E,C,3
+F16,Undergraduate,PSY     111,KIPPIN T E,D+,1
+F16,Undergraduate,PSY     111,KIPPIN T E,F,1
+F16,Undergraduate,PSY     112L,KIM H S,A+,2
+F16,Undergraduate,PSY     112L,KIM H S,A,8
+F16,Undergraduate,PSY     112L,KIM H S,A-,9
+F16,Undergraduate,PSY     112L,KIM H S,B+,6
+F16,Undergraduate,PSY     112L,KIM H S,B,9
+F16,Undergraduate,PSY     112L,KIM H S,B-,2
+F16,Undergraduate,PSY     112L,KIM H S,C+,1
+F16,Undergraduate,PSY     117,SCHOOLER J W,A+,4
+F16,Undergraduate,PSY     117,SCHOOLER J W,A,10
+F16,Undergraduate,PSY     117,SCHOOLER J W,A-,12
+F16,Undergraduate,PSY     117,SCHOOLER J W,B+,19
+F16,Undergraduate,PSY     117,SCHOOLER J W,B,25
+F16,Undergraduate,PSY     117,SCHOOLER J W,B-,16
+F16,Undergraduate,PSY     117,SCHOOLER J W,C+,5
+F16,Undergraduate,PSY     117,SCHOOLER J W,C,27
+F16,Undergraduate,PSY     117,SCHOOLER J W,D+,3
+F16,Undergraduate,PSY     117,SCHOOLER J W,D,5
+F16,Undergraduate,PSY     117,SCHOOLER J W,F,4
+F16,Undergraduate,PSY     120L,WOODS V E,A+,6
+F16,Undergraduate,PSY     120L,WOODS V E,A,31
+F16,Undergraduate,PSY     120L,WOODS V E,A-,33
+F16,Undergraduate,PSY     120L,WOODS V E,B+,13
+F16,Undergraduate,PSY     120L,WOODS V E,B,11
+F16,Undergraduate,PSY     120L,WOODS V E,B-,5
+F16,Undergraduate,PSY     120L,WOODS V E,C+,2
+F16,Undergraduate,PSY     134,SZUMLINSKI K,A+,3
+F16,Undergraduate,PSY     134,SZUMLINSKI K,A,8
+F16,Undergraduate,PSY     134,SZUMLINSKI K,A-,19
+F16,Undergraduate,PSY     134,SZUMLINSKI K,B+,20
+F16,Undergraduate,PSY     134,SZUMLINSKI K,B,12
+F16,Undergraduate,PSY     134,SZUMLINSKI K,B-,4
+F16,Undergraduate,PSY     134,SZUMLINSKI K,C+,4
+F16,Undergraduate,PSY     134,SZUMLINSKI K,C,1
+F16,Undergraduate,PSY     134,SZUMLINSKI K,C-,2
+F16,Undergraduate,PSY     138,RATNER K G,A,21
+F16,Undergraduate,PSY     138,RATNER K G,A-,18
+F16,Undergraduate,PSY     138,RATNER K G,B+,26
+F16,Undergraduate,PSY     138,RATNER K G,B,32
+F16,Undergraduate,PSY     138,RATNER K G,B-,12
+F16,Undergraduate,PSY     138,RATNER K G,C+,8
+F16,Undergraduate,PSY     138,RATNER K G,C,8
+F16,Undergraduate,PSY     138,RATNER K G,C-,3
+F16,Undergraduate,PSY     142,COSMIDES L,A+,2
+F16,Undergraduate,PSY     142,COSMIDES L,A,12
+F16,Undergraduate,PSY     142,COSMIDES L,A-,21
+F16,Undergraduate,PSY     142,COSMIDES L,B+,17
+F16,Undergraduate,PSY     142,COSMIDES L,B,11
+F16,Undergraduate,PSY     142,COSMIDES L,B-,9
+F16,Undergraduate,PSY     142,COSMIDES L,C+,10
+F16,Undergraduate,PSY     142,COSMIDES L,C,9
+F16,Undergraduate,PSY     142,COSMIDES L,C-,5
+F16,Undergraduate,PSY     142,COSMIDES L,D+,1
+F16,Undergraduate,PSY     142,COSMIDES L,D,3
+F16,Undergraduate,PSY     142,COSMIDES L,F,2
+F16,Undergraduate,PSY     146,RONEY J R,A,14
+F16,Undergraduate,PSY     146,RONEY J R,A-,8
+F16,Undergraduate,PSY     146,RONEY J R,B+,26
+F16,Undergraduate,PSY     146,RONEY J R,B,38
+F16,Undergraduate,PSY     146,RONEY J R,B-,15
+F16,Undergraduate,PSY     146,RONEY J R,C+,10
+F16,Undergraduate,PSY     146,RONEY J R,C,15
+F16,Undergraduate,PSY     146,RONEY J R,C-,4
+F16,Undergraduate,PSY     146,RONEY J R,D+,1
+F16,Undergraduate,PSY     146,RONEY J R,D,2
+F16,Undergraduate,PSY     146,RONEY J R,D-,1
+F16,Undergraduate,PSY     146,RONEY J R,F,3
+F16,Undergraduate,PSY     148,KLEIN S B,A,9
+F16,Undergraduate,PSY     148,KLEIN S B,A-,22
+F16,Undergraduate,PSY     148,KLEIN S B,B+,28
+F16,Undergraduate,PSY     148,KLEIN S B,B,20
+F16,Undergraduate,PSY     148,KLEIN S B,B-,7
+F16,Undergraduate,PSY     148,KLEIN S B,C+,15
+F16,Undergraduate,PSY     148,KLEIN S B,C,12
+F16,Undergraduate,PSY     148,KLEIN S B,C-,3
+F16,Undergraduate,PSY     148,KLEIN S B,D+,1
+F16,Undergraduate,PSY     148,KLEIN S B,D,1
+F16,Undergraduate,PSY     148,KLEIN S B,F,2
+F16,Undergraduate,PSY     154,KIM H S,A+,3
+F16,Undergraduate,PSY     154,KIM H S,A,5
+F16,Undergraduate,PSY     154,KIM H S,A-,14
+F16,Undergraduate,PSY     154,KIM H S,B+,15
+F16,Undergraduate,PSY     154,KIM H S,B,16
+F16,Undergraduate,PSY     154,KIM H S,B-,7
+F16,Undergraduate,PSY     154,KIM H S,C+,6
+F16,Undergraduate,PSY     154,KIM H S,C,2
+F16,Undergraduate,PSY     154,KIM H S,C-,1
+F16,Undergraduate,PSY     154,KIM H S,D,1
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,A+,3
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,A,28
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,A-,6
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,B+,6
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,B,24
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,B-,2
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,C,2
+F16,Undergraduate,PSY     163SJ,JANUSONIS S,C-,1
+F16,Undergraduate,PSY     199,COLLINS N L,A,7
+F16,Undergraduate,PSY     199,ECKSTEIN M P,A+,1
+F16,Undergraduate,PSY     199,ECKSTEIN M P,A,5
+F16,Undergraduate,PSY     199,GABLE S,A,5
+F16,Undergraduate,PSY     199,MILLER M B,A+,1
+F16,Undergraduate,PSY     199,MILLER M B,A,4
+F16,Undergraduate,PSY     199,SCHOOLER J W,A,9
+F16,Undergraduate,PSY     199P,ECKSTEIN M P,P,9
+F16,Undergraduate,PSY     199P,KIM H S,P,7
+F16,Undergraduate,PSY     199P,MAJOR B N,P,7
+F16,Undergraduate,PSY     199P,SCHOOLER J W,P,9
+F16,Graduate,PSY     221A,COLLINS N L,A+,2
+F16,Graduate,PSY     221A,COLLINS N L,A,7
+F16,Graduate,PSY     221A,COLLINS N L,A-,2
+F16,Graduate,PSY     253,GABLE S,A,7
+F16,Graduate,PSY     265,ASHBY F G,A,15
+F16,Graduate,PSY     265,ASHBY F G,A-,1
+F16,Graduate,PSY     590A,GABLE S,S,13
+F16,Graduate,PSY     592CP,ASHBY F G,S,16
+F16,Graduate,PSY     592DV,GERMAN T C M,S,9
+F16,Graduate,PSY     592FS,SHERMAN D A,S,16
+F16,Graduate,PSY     592NB,SZUMLINSKI K,S,10
+F16,Graduate,PSY     592QM,COLLINS N L,A,1
+F16,Graduate,PSY     592QM,COLLINS N L,S,4
+F16,Graduate,PSY     592SP,RATNER K G,S,15

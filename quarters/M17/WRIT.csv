@@ -1,0 +1,206 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,WRIT      1,PATTERSON K A,A,1
+M17,Undergraduate,WRIT      1,PATTERSON K A,A-,2
+M17,Undergraduate,WRIT      1,PATTERSON K A,B+,3
+M17,Undergraduate,WRIT      1,PATTERSON K A,B,5
+M17,Undergraduate,WRIT      1,PATTERSON K A,B-,4
+M17,Undergraduate,WRIT      1,PATTERSON K A,C+,1
+M17,Undergraduate,WRIT      1,PATTERSON K A,F,1
+M17,Undergraduate,WRIT      1,SMITH K A,A+,1
+M17,Undergraduate,WRIT      1,SMITH K A,A,10
+M17,Undergraduate,WRIT      1,SMITH K A,A-,13
+M17,Undergraduate,WRIT      1,SMITH K A,B+,7
+M17,Undergraduate,WRIT      1,SMITH K A,B,5
+M17,Undergraduate,WRIT      1,SMITH K A,B-,1
+M17,Undergraduate,WRIT      2,BOULOS D J,A+,1
+M17,Undergraduate,WRIT      2,BOULOS D J,A,2
+M17,Undergraduate,WRIT      2,BOULOS D J,A-,4
+M17,Undergraduate,WRIT      2,BOULOS D J,B+,1
+M17,Undergraduate,WRIT      2,BOULOS D J,B,1
+M17,Undergraduate,WRIT      2,BOULOS D J,B-,2
+M17,Undergraduate,WRIT      2,BOULOS D J,F,3
+M17,Undergraduate,WRIT      2,BRAUNSTEIN E,A,5
+M17,Undergraduate,WRIT      2,BRAUNSTEIN E,A-,6
+M17,Undergraduate,WRIT      2,BRAUNSTEIN E,B+,3
+M17,Undergraduate,WRIT      2,BRAUNSTEIN E,B,5
+M17,Undergraduate,WRIT      2,BRAUNSTEIN E,C,1
+M17,Undergraduate,WRIT      2,CHENOWETH R C,A,5
+M17,Undergraduate,WRIT      2,CHENOWETH R C,A-,5
+M17,Undergraduate,WRIT      2,CHENOWETH R C,B+,3
+M17,Undergraduate,WRIT      2,CHENOWETH R C,B,6
+M17,Undergraduate,WRIT      2,EK A A,A,9
+M17,Undergraduate,WRIT      2,EK A A,A-,5
+M17,Undergraduate,WRIT      2,EK A A,B+,5
+M17,Undergraduate,WRIT      2,EK A A,B,1
+M17,Undergraduate,WRIT      2,EK A A,C-,1
+M17,Undergraduate,WRIT      2,EVANS K B,A+,2
+M17,Undergraduate,WRIT      2,EVANS K B,A,5
+M17,Undergraduate,WRIT      2,EVANS K B,B+,3
+M17,Undergraduate,WRIT      2,EVANS K B,B,2
+M17,Undergraduate,WRIT      2,EVANS K B,B-,2
+M17,Undergraduate,WRIT      2,EVANS K B,C+,2
+M17,Undergraduate,WRIT      2,EVANS K B,C-,1
+M17,Undergraduate,WRIT      2,FORBES J,A,6
+M17,Undergraduate,WRIT      2,FORBES J,A-,4
+M17,Undergraduate,WRIT      2,FORBES J,B+,4
+M17,Undergraduate,WRIT      2,FORBES J,B,8
+M17,Undergraduate,WRIT      2,FORBES J,B-,1
+M17,Undergraduate,WRIT      2,JOHNSON A M,A+,2
+M17,Undergraduate,WRIT      2,JOHNSON A M,A,24
+M17,Undergraduate,WRIT      2,JOHNSON A M,A-,13
+M17,Undergraduate,WRIT      2,JOHNSON A M,B+,2
+M17,Undergraduate,WRIT      2,JOHNSON A M,B,4
+M17,Undergraduate,WRIT      2,JOHNSON A M,B-,2
+M17,Undergraduate,WRIT      2,JOHNSON A M,C,1
+M17,Undergraduate,WRIT      2,JOHNSON A M,D,1
+M17,Undergraduate,WRIT      2,JOHNSON A M,F,1
+M17,Undergraduate,WRIT      2,MASSIE E K,A+,1
+M17,Undergraduate,WRIT      2,MASSIE E K,A,4
+M17,Undergraduate,WRIT      2,MASSIE E K,A-,5
+M17,Undergraduate,WRIT      2,MASSIE E K,B+,3
+M17,Undergraduate,WRIT      2,MASSIE E K,B,2
+M17,Undergraduate,WRIT      2,MASSIE E K,B-,1
+M17,Undergraduate,WRIT      2,MASSIE E K,C,1
+M17,Undergraduate,WRIT      2,MASSIE E K,D+,1
+M17,Undergraduate,WRIT      2,SAMUELS R D,A-,11
+M17,Undergraduate,WRIT      2,SAMUELS R D,B+,4
+M17,Undergraduate,WRIT      2,SAMUELS R D,B,1
+M17,Undergraduate,WRIT      2,SAMUELS R D,C+,1
+M17,Undergraduate,WRIT      2,SAMUELS R D,C,1
+M17,Undergraduate,WRIT      2,SEKETA S L,A,7
+M17,Undergraduate,WRIT      2,SEKETA S L,A-,4
+M17,Undergraduate,WRIT      2,SEKETA S L,B+,5
+M17,Undergraduate,WRIT      2,SEKETA S L,B,3
+M17,Undergraduate,WRIT      2,STEPHENS C C,A,2
+M17,Undergraduate,WRIT      2,STEPHENS C C,A-,5
+M17,Undergraduate,WRIT      2,STEPHENS C C,B+,4
+M17,Undergraduate,WRIT      2,STEPHENS C C,B,5
+M17,Undergraduate,WRIT      2,STEPHENS C C,B-,1
+M17,Undergraduate,WRIT      2,STEPHENS C C,C,1
+M17,Undergraduate,WRIT      2,THOMAS C,A,17
+M17,Undergraduate,WRIT      2,THOMAS C,A-,4
+M17,Undergraduate,WRIT      2,THOMAS C,B+,1
+M17,Undergraduate,WRIT      2,VALLICELLA L,A,8
+M17,Undergraduate,WRIT      2,VALLICELLA L,A-,2
+M17,Undergraduate,WRIT      2,VALLICELLA L,B+,1
+M17,Undergraduate,WRIT      2,VALLICELLA L,B,5
+M17,Undergraduate,WRIT      2,VALLICELLA L,C+,1
+M17,Undergraduate,WRIT      2,VALLICELLA L,C,2
+M17,Undergraduate,WRIT      2,WHITTET E O,A,12
+M17,Undergraduate,WRIT      2,WHITTET E O,B+,3
+M17,Undergraduate,WRIT      2,WHITTET E O,B,1
+M17,Undergraduate,WRIT     50,BROWN KARA,A,5
+M17,Undergraduate,WRIT     50,BROWN KARA,A-,3
+M17,Undergraduate,WRIT     50,BROWN KARA,B+,3
+M17,Undergraduate,WRIT     50,BROWN KARA,D,1
+M17,Undergraduate,WRIT     50,BROWN KARA,F,2
+M17,Undergraduate,WRIT     50,WARKENTIN J B,A+,6
+M17,Undergraduate,WRIT     50,WARKENTIN J B,A,10
+M17,Undergraduate,WRIT     50,WARKENTIN J B,A-,2
+M17,Undergraduate,WRIT     50,WARKENTIN J B,B+,1
+M17,Undergraduate,WRIT     50,WARKENTIN J B,B,1
+M17,Undergraduate,WRIT    105C,MCHUGH P,A,11
+M17,Undergraduate,WRIT    105C,MCHUGH P,A-,9
+M17,Undergraduate,WRIT    105C,MCHUGH P,F,1
+M17,Undergraduate,WRIT    105G,COTICH C,A,2
+M17,Undergraduate,WRIT    105G,COTICH C,A-,4
+M17,Undergraduate,WRIT    105G,COTICH C,B+,1
+M17,Undergraduate,WRIT    105G,COTICH C,B,7
+M17,Undergraduate,WRIT    105G,COTICH C,B-,1
+M17,Undergraduate,WRIT    105G,COTICH C,C+,1
+M17,Undergraduate,WRIT    105G,COTICH C,C,1
+M17,Undergraduate,WRIT    105PD,BROWN KARA,A,6
+M17,Undergraduate,WRIT    105PD,BROWN KARA,A-,3
+M17,Undergraduate,WRIT    105PD,BROWN KARA,B+,2
+M17,Undergraduate,WRIT    105PD,BROWN KARA,B,3
+M17,Undergraduate,WRIT    105PD,BROWN KARA,B-,2
+M17,Undergraduate,WRIT    105PD,BROWN KARA,C,3
+M17,Undergraduate,WRIT    105PD,BROWN KARA,D,1
+M17,Undergraduate,WRIT    105PD,BROWN KARA,F,2
+M17,Undergraduate,WRIT    105PS,COTICH C,A+,1
+M17,Undergraduate,WRIT    105PS,COTICH C,A,2
+M17,Undergraduate,WRIT    105PS,COTICH C,B+,4
+M17,Undergraduate,WRIT    105PS,COTICH C,B,4
+M17,Undergraduate,WRIT    105PS,COTICH C,B-,1
+M17,Undergraduate,WRIT    105PS,COTICH C,C+,2
+M17,Undergraduate,WRIT    105PS,COTICH C,C,2
+M17,Undergraduate,WRIT    105R,MCHUGH P,A,8
+M17,Undergraduate,WRIT    105R,MCHUGH P,A-,4
+M17,Undergraduate,WRIT    105R,MCHUGH P,B+,5
+M17,Undergraduate,WRIT    105R,MCHUGH P,C,1
+M17,Undergraduate,WRIT    105S,MCHUGH P,A,8
+M17,Undergraduate,WRIT    105S,MCHUGH P,A-,4
+M17,Undergraduate,WRIT    105S,MCHUGH P,B+,2
+M17,Undergraduate,WRIT    105S,MCHUGH P,B,1
+M17,Undergraduate,WRIT    105S,MCHUGH P,C,1
+M17,Undergraduate,WRIT    105SW,LUNSFORD K J,A,11
+M17,Undergraduate,WRIT    105SW,LUNSFORD K J,A-,2
+M17,Undergraduate,WRIT    105SW,LUNSFORD K J,B+,4
+M17,Undergraduate,WRIT    105SW,LUNSFORD K J,B-,1
+M17,Undergraduate,WRIT    105SW,STANSELL A,A,4
+M17,Undergraduate,WRIT    105SW,STANSELL A,A-,2
+M17,Undergraduate,WRIT    105SW,STANSELL A,B+,5
+M17,Undergraduate,WRIT    105SW,STANSELL A,B,4
+M17,Undergraduate,WRIT    107B,EK A A,A,8
+M17,Undergraduate,WRIT    107B,EK A A,A-,7
+M17,Undergraduate,WRIT    107B,EK A A,B+,4
+M17,Undergraduate,WRIT    107B,EK A A,B,1
+M17,Undergraduate,WRIT    107B,KRUT R M,A,11
+M17,Undergraduate,WRIT    107B,KRUT R M,A-,13
+M17,Undergraduate,WRIT    107B,KRUT R M,B+,1
+M17,Undergraduate,WRIT    107B,MURTI-HALI D,A,6
+M17,Undergraduate,WRIT    107B,MURTI-HALI D,A-,9
+M17,Undergraduate,WRIT    107B,MURTI-HALI D,B+,4
+M17,Undergraduate,WRIT    107B,MURTI-HALI D,B,1
+M17,Undergraduate,WRIT    107B,SMITH K A,A+,1
+M17,Undergraduate,WRIT    107B,SMITH K A,A,9
+M17,Undergraduate,WRIT    107B,SMITH K A,A-,3
+M17,Undergraduate,WRIT    107B,SMITH K A,B+,2
+M17,Undergraduate,WRIT    107B,SMITH K A,B,2
+M17,Undergraduate,WRIT    107J,MURTI-HALI D,A,5
+M17,Undergraduate,WRIT    107J,MURTI-HALI D,A-,3
+M17,Undergraduate,WRIT    107J,MURTI-HALI D,B+,4
+M17,Undergraduate,WRIT    107J,MURTI-HALI D,B,2
+M17,Undergraduate,WRIT    107L,BAILLARGEON K,A,7
+M17,Undergraduate,WRIT    107L,BAILLARGEON K,A-,4
+M17,Undergraduate,WRIT    107L,BAILLARGEON K,B,1
+M17,Undergraduate,WRIT    107L,BAILLARGEON K,C+,1
+M17,Undergraduate,WRIT    107M,WHITTET E O,A+,1
+M17,Undergraduate,WRIT    107M,WHITTET E O,A,11
+M17,Undergraduate,WRIT    107M,WHITTET E O,A-,7
+M17,Undergraduate,WRIT    107M,WHITTET E O,B+,2
+M17,Undergraduate,WRIT    107M,WHITTET E O,B,1
+M17,Undergraduate,WRIT    107M,WHITTET E O,B-,1
+M17,Undergraduate,WRIT    109F,HUK P M,A+,1
+M17,Undergraduate,WRIT    109F,HUK P M,A,20
+M17,Undergraduate,WRIT    109F,HUK P M,A-,19
+M17,Undergraduate,WRIT    109F,HUK P M,B+,2
+M17,Undergraduate,WRIT    109F,HUK P M,B,1
+M17,Undergraduate,WRIT    109F,HUK P M,F,1
+M17,Undergraduate,WRIT    109F,KRUT R M,A,11
+M17,Undergraduate,WRIT    109F,KRUT R M,A-,6
+M17,Undergraduate,WRIT    109F,KRUT R M,B+,3
+M17,Undergraduate,WRIT    109F,KRUT R M,B,1
+M17,Undergraduate,WRIT    109F,KRUT R M,C,1
+M17,Undergraduate,WRIT    109F,KRUT R M,F,1
+M17,Undergraduate,WRIT    109HP,MIZRAHI J L,A+,1
+M17,Undergraduate,WRIT    109HP,MIZRAHI J L,A,2
+M17,Undergraduate,WRIT    109HP,MIZRAHI J L,A-,8
+M17,Undergraduate,WRIT    109HP,MIZRAHI J L,B+,2
+M17,Undergraduate,WRIT    109HP,MIZRAHI J L,B,2
+M17,Undergraduate,WRIT    109HU,DONELAN J H,A,3
+M17,Undergraduate,WRIT    109HU,DONELAN J H,A-,2
+M17,Undergraduate,WRIT    109HU,DONELAN J H,B+,2
+M17,Undergraduate,WRIT    109HU,DONELAN J H,B,2
+M17,Undergraduate,WRIT    109ST,MOORE K C,A,17
+M17,Undergraduate,WRIT    109ST,MOORE K C,A-,27
+M17,Undergraduate,WRIT    109ST,MOORE K C,B+,2
+M17,Undergraduate,WRIT    109ST,MOORE K C,B,2
+M17,Undergraduate,WRIT    109ST,MOORE K C,D,1
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,A,5
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,A-,5
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,B+,5
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,B,2
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,C,1
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,D+,2
+M17,Undergraduate,WRIT W  107WC,BROWN KARA,F,1

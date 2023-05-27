@@ -1,0 +1,95 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W12,Undergraduate,FEMST    30,CHANG G,A,11
+W12,Undergraduate,FEMST    30,CHANG G,A-,20
+W12,Undergraduate,FEMST    30,CHANG G,B+,16
+W12,Undergraduate,FEMST    30,CHANG G,B,32
+W12,Undergraduate,FEMST    30,CHANG G,B-,11
+W12,Undergraduate,FEMST    30,CHANG G,C+,6
+W12,Undergraduate,FEMST    30,CHANG G,C,3
+W12,Undergraduate,FEMST    30,CHANG G,C-,6
+W12,Undergraduate,FEMST    30,CHANG G,F,5
+W12,Undergraduate,FEMST    30H,CHANG G,A+,1
+W12,Undergraduate,FEMST    30H,CHANG G,A,2
+W12,Undergraduate,FEMST    30H,CHANG G,A-,2
+W12,Undergraduate,FEMST    30H,CHANG G,B+,3
+W12,Undergraduate,FEMST    30H,CHANG G,B,1
+W12,Undergraduate,FEMST    30H,CHANG G,F,1
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,A+,22
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,A,51
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,A-,30
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,B+,23
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,B,28
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,B-,9
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,C+,3
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,C,4
+W12,Undergraduate,FEMST    60,MILLER-YOUNG,D+,1
+W12,Undergraduate,FEMST    60H,MILLER-YOUNG,A+,6
+W12,Undergraduate,FEMST    60H,MILLER-YOUNG,A,7
+W12,Undergraduate,FEMST    60H,MILLER-YOUNG,A-,1
+W12,Undergraduate,FEMST    60H,MILLER-YOUNG,B,1
+W12,Undergraduate,FEMST    60H,MILLER-YOUNG,C+,1
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,A+,1
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,A,55
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,A-,50
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,B+,30
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,B,22
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,B-,7
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,C+,4
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,C-,1
+W12,Undergraduate,FEMST    80,HERNANDEZ E D,F,2
+W12,Undergraduate,FEMST    80H,HERNANDEZ E D,A,8
+W12,Undergraduate,FEMST   100WS,BARNES S L,A,4
+W12,Undergraduate,FEMST   100WS,BARNES S L,A-,1
+W12,Undergraduate,FEMST   100WS,BARNES S L,B+,1
+W12,Undergraduate,FEMST   139,CHANG G,A+,2
+W12,Undergraduate,FEMST   139,CHANG G,A,2
+W12,Undergraduate,FEMST   139,CHANG G,A-,4
+W12,Undergraduate,FEMST   142,BOBO J,A,1
+W12,Undergraduate,FEMST   142,BOBO J,A-,3
+W12,Undergraduate,FEMST   142,BOBO J,B+,2
+W12,Undergraduate,FEMST   142,BOBO J,B,6
+W12,Undergraduate,FEMST   142,BOBO J,B-,4
+W12,Undergraduate,FEMST   142,BOBO J,C,5
+W12,Undergraduate,FEMST   142,BOBO J,C-,3
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,A,9
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,A-,7
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,B+,3
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,B,3
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,B-,1
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,C+,1
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,C-,1
+W12,Undergraduate,FEMST   160,FRANCIKOVA D,F,1
+W12,Undergraduate,FEMST   180,HOECHST H L,A,2
+W12,Undergraduate,FEMST   180,HOECHST H L,A-,2
+W12,Undergraduate,FEMST   180,HOECHST H L,B+,8
+W12,Undergraduate,FEMST   180,HOECHST H L,B,7
+W12,Undergraduate,FEMST   180,HOECHST H L,B-,3
+W12,Undergraduate,FEMST   180,HOECHST H L,C+,4
+W12,Undergraduate,FEMST   180,HOECHST H L,C,5
+W12,Undergraduate,FEMST   181,HOECHST H L,A,2
+W12,Undergraduate,FEMST   181,HOECHST H L,A-,4
+W12,Undergraduate,FEMST   181,HOECHST H L,B+,3
+W12,Undergraduate,FEMST   181,HOECHST H L,B,11
+W12,Undergraduate,FEMST   181,HOECHST H L,B-,2
+W12,Undergraduate,FEMST   181,HOECHST H L,C+,3
+W12,Undergraduate,FEMST   181,HOECHST H L,C,1
+W12,Undergraduate,FEMST   181,HOECHST H L,C-,1
+W12,Undergraduate,FEMST   185DF,FRANCIKOVA D,A,8
+W12,Undergraduate,FEMST   185DF,FRANCIKOVA D,A-,9
+W12,Undergraduate,FEMST   185DF,FRANCIKOVA D,B+,4
+W12,Undergraduate,FEMST   185DF,FRANCIKOVA D,B,1
+W12,Undergraduate,FEMST   185DF,FRANCIKOVA D,F,1
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,A+,6
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,A,4
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,A-,2
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,B,5
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,C,2
+W12,Undergraduate,FEMST   186HH,HARTHORN B H,F,1
+W12,Undergraduate,FEMST   199,RUPP L J,A,2
+W12,Undergraduate,FEMST   199,RUPP L J,B,11
+W12,Graduate,FEMST   220,MILLER-YOUNG,A,9
+W12,Graduate,FEMST   220,MILLER-YOUNG,A-,2
+W12,Graduate,FEMST   260,OAKS L M,A+,1
+W12,Graduate,FEMST   260,OAKS L M,A,5
+W12,Graduate,FEMST   260,OAKS L M,A-,2
+W12,Graduate,FEMST   260,OAKS L M,B+,1

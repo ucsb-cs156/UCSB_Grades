@@ -1,0 +1,89 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S15,Undergraduate,CH E    110B,SANDALL O C,A+,1
+S15,Undergraduate,CH E    110B,SANDALL O C,A,13
+S15,Undergraduate,CH E    110B,SANDALL O C,A-,9
+S15,Undergraduate,CH E    110B,SANDALL O C,B+,23
+S15,Undergraduate,CH E    110B,SANDALL O C,B,13
+S15,Undergraduate,CH E    110B,SANDALL O C,B-,7
+S15,Undergraduate,CH E    120C,SQUIRES T M,A+,3
+S15,Undergraduate,CH E    120C,SQUIRES T M,A,15
+S15,Undergraduate,CH E    120C,SQUIRES T M,A-,3
+S15,Undergraduate,CH E    120C,SQUIRES T M,B+,4
+S15,Undergraduate,CH E    120C,SQUIRES T M,B,13
+S15,Undergraduate,CH E    120C,SQUIRES T M,B-,5
+S15,Undergraduate,CH E    120C,SQUIRES T M,C+,7
+S15,Undergraduate,CH E    120C,SQUIRES T M,C,6
+S15,Undergraduate,CH E    120C,SQUIRES T M,C-,2
+S15,Undergraduate,CH E    120C,SQUIRES T M,F,2
+S15,Undergraduate,CH E    125,MITRAGOTRI S,A,17
+S15,Undergraduate,CH E    125,MITRAGOTRI S,A-,9
+S15,Undergraduate,CH E    125,MITRAGOTRI S,B,12
+S15,Undergraduate,CH E    125,MITRAGOTRI S,B-,4
+S15,Undergraduate,CH E    125,MITRAGOTRI S,C+,1
+S15,Undergraduate,CH E    125,MITRAGOTRI S,F,3
+S15,Undergraduate,CH E    140A,PETERS B G,A+,2
+S15,Undergraduate,CH E    140A,PETERS B G,A,11
+S15,Undergraduate,CH E    140A,PETERS B G,A-,6
+S15,Undergraduate,CH E    140A,PETERS B G,B+,4
+S15,Undergraduate,CH E    140A,PETERS B G,B,6
+S15,Undergraduate,CH E    140A,PETERS B G,B-,8
+S15,Undergraduate,CH E    140A,PETERS B G,C+,4
+S15,Undergraduate,CH E    140A,PETERS B G,C,3
+S15,Undergraduate,CH E    140A,PETERS B G,C-,5
+S15,Undergraduate,CH E    140A,PETERS B G,D+,4
+S15,Undergraduate,CH E    140A,PETERS B G,D,5
+S15,Undergraduate,CH E    140A,PETERS B G,F,1
+S15,Undergraduate,CH E    171,DAUGHERTY P S,A+,1
+S15,Undergraduate,CH E    171,DAUGHERTY P S,A,4
+S15,Undergraduate,CH E    171,DAUGHERTY P S,A-,2
+S15,Undergraduate,CH E    171,DAUGHERTY P S,B+,4
+S15,Undergraduate,CH E    171,DAUGHERTY P S,B,4
+S15,Undergraduate,CH E    171,DAUGHERTY P S,D,1
+S15,Undergraduate,CH E    180A,GORDON M J,A+,6
+S15,Undergraduate,CH E    180A,GORDON M J,A,25
+S15,Undergraduate,CH E    180A,GORDON M J,A-,2
+S15,Undergraduate,CH E    180A,GORDON M J,B+,4
+S15,Undergraduate,CH E    180A,GORDON M J,B,11
+S15,Undergraduate,CH E    180A,GORDON M J,B-,2
+S15,Undergraduate,CH E    180A,GORDON M J,C+,4
+S15,Undergraduate,CH E    180A,GORDON M J,C,2
+S15,Undergraduate,CH E    180A,HELGESON M E,A+,6
+S15,Undergraduate,CH E    180A,HELGESON M E,A,25
+S15,Undergraduate,CH E    180A,HELGESON M E,A-,2
+S15,Undergraduate,CH E    180A,HELGESON M E,B+,4
+S15,Undergraduate,CH E    180A,HELGESON M E,B,11
+S15,Undergraduate,CH E    180A,HELGESON M E,B-,2
+S15,Undergraduate,CH E    180A,HELGESON M E,C+,4
+S15,Undergraduate,CH E    180A,HELGESON M E,C,2
+S15,Undergraduate,CH E    184B,DOHERTY M F,A-,11
+S15,Undergraduate,CH E    184B,DOHERTY M F,B+,17
+S15,Undergraduate,CH E    184B,DOHERTY M F,B,15
+S15,Undergraduate,CH E    184B,DOHERTY M F,B-,6
+S15,Undergraduate,CH E    184B,SHELL M S,A-,11
+S15,Undergraduate,CH E    184B,SHELL M S,B+,17
+S15,Undergraduate,CH E    184B,SHELL M S,B,15
+S15,Undergraduate,CH E    184B,SHELL M S,B-,6
+S15,Graduate,CH E    220D,LEAL L G,A,3
+S15,Graduate,CH E    220D,LEAL L G,A-,3
+S15,Graduate,CH E    220D,LEAL L G,B+,1
+S15,Graduate,CH E    222B,ISRAELACHVILI,A+,1
+S15,Graduate,CH E    222B,ISRAELACHVILI,A,3
+S15,Graduate,CH E    222B,ISRAELACHVILI,B+,1
+S15,Graduate,CH E    230B,FREDRICKSON G,A+,2
+S15,Graduate,CH E    230B,FREDRICKSON G,A,6
+S15,Graduate,CH E    230B,FREDRICKSON G,A-,7
+S15,Graduate,CH E    230B,FREDRICKSON G,B+,2
+S15,Graduate,CH E    272,O'MALLEY M A,A,10
+S15,Graduate,CH E    272,O'MALLEY M A,A-,1
+S15,Graduate,CH E    290,ISRAELACHVILI,S,65
+S15,Graduate,CH E    291,CHMELKA B F,S,7
+S15,Graduate,CH E    291,DOHERTY M F,S,6
+S15,Graduate,CH E    291,DOYLE F,S,5
+S15,Graduate,CH E    291,HELGESON M E,S,5
+S15,Graduate,CH E    291,ISRAELACHVILI,S,5
+S15,Graduate,CH E    291,LEAL L G,S,7
+S15,Graduate,CH E    291,MITRAGOTRI S,S,5
+S15,Graduate,CH E    291,SHELL M S,S,6
+S15,Graduate,CH E    596,FREDRICKSON G,S,5
+S15,Graduate,CH E    596,MITRAGOTRI S,S,6
+S15,Graduate,CH E    599,LEAL L G,S,5

@@ -1,0 +1,96 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Undergraduate,PHYS      2,MOORE K L,A-,6
+M11,Undergraduate,PHYS      2,MOORE K L,B+,1
+M11,Undergraduate,PHYS      2,MOORE K L,B,7
+M11,Undergraduate,PHYS      2,MOORE K L,B-,5
+M11,Undergraduate,PHYS      2,MOORE K L,C,1
+M11,Undergraduate,PHYS      2,MOORE K L,C-,2
+M11,Undergraduate,PHYS      2,MOORE K L,D+,1
+M11,Undergraduate,PHYS      2,MOORE K L,D,4
+M11,Undergraduate,PHYS      2,MOORE K L,D-,6
+M11,Undergraduate,PHYS      2,MOORE K L,F,4
+M11,Undergraduate,PHYS      3L,,A,5
+M11,Undergraduate,PHYS      3L,,A-,3
+M11,Undergraduate,PHYS      4L,,A,6
+M11,Undergraduate,PHYS      4L,,A-,10
+M11,Undergraduate,PHYS      4L,,B+,2
+M11,Undergraduate,PHYS      4L,,F,1
+M11,Undergraduate,PHYS      6A,BLOCK M,A+,3
+M11,Undergraduate,PHYS      6A,BLOCK M,A,17
+M11,Undergraduate,PHYS      6A,BLOCK M,A-,13
+M11,Undergraduate,PHYS      6A,BLOCK M,B+,16
+M11,Undergraduate,PHYS      6A,BLOCK M,B,14
+M11,Undergraduate,PHYS      6A,BLOCK M,B-,7
+M11,Undergraduate,PHYS      6A,BLOCK M,C+,10
+M11,Undergraduate,PHYS      6A,BLOCK M,C,9
+M11,Undergraduate,PHYS      6A,BLOCK M,C-,8
+M11,Undergraduate,PHYS      6A,BLOCK M,D+,8
+M11,Undergraduate,PHYS      6A,BLOCK M,D,5
+M11,Undergraduate,PHYS      6A,BLOCK M,F,15
+M11,Undergraduate,PHYS      6AL,BLOCK M,A+,14
+M11,Undergraduate,PHYS      6AL,BLOCK M,A,36
+M11,Undergraduate,PHYS      6AL,BLOCK M,A-,24
+M11,Undergraduate,PHYS      6AL,BLOCK M,B+,21
+M11,Undergraduate,PHYS      6AL,BLOCK M,B,23
+M11,Undergraduate,PHYS      6AL,BLOCK M,B-,7
+M11,Undergraduate,PHYS      6AL,BLOCK M,F,3
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,A+,2
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,A,9
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,A-,4
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,B+,5
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,B,14
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,B-,7
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,C+,9
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,C,15
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,C-,5
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,D+,2
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,D,4
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,D-,5
+M11,Undergraduate,PHYS      6B,MCINTOSH D B,F,5
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,A+,15
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,A,20
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,A-,27
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,B+,16
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,B,18
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,B-,13
+M11,Undergraduate,PHYS      6BL,MCINTOSH D B,F,1
+M11,Undergraduate,PHYS      6C,CHUNG P J,A+,6
+M11,Undergraduate,PHYS      6C,CHUNG P J,A,16
+M11,Undergraduate,PHYS      6C,CHUNG P J,A-,8
+M11,Undergraduate,PHYS      6C,CHUNG P J,B+,5
+M11,Undergraduate,PHYS      6C,CHUNG P J,B,23
+M11,Undergraduate,PHYS      6C,CHUNG P J,B-,9
+M11,Undergraduate,PHYS      6C,CHUNG P J,C+,21
+M11,Undergraduate,PHYS      6C,CHUNG P J,C,18
+M11,Undergraduate,PHYS      6C,CHUNG P J,C-,5
+M11,Undergraduate,PHYS      6C,CHUNG P J,D+,5
+M11,Undergraduate,PHYS      6C,CHUNG P J,D,2
+M11,Undergraduate,PHYS      6C,CHUNG P J,F,3
+M11,Undergraduate,PHYS      6CL,CHUNG P J,A+,19
+M11,Undergraduate,PHYS      6CL,CHUNG P J,A,29
+M11,Undergraduate,PHYS      6CL,CHUNG P J,A-,16
+M11,Undergraduate,PHYS      6CL,CHUNG P J,B+,16
+M11,Undergraduate,PHYS      6CL,CHUNG P J,B,23
+M11,Undergraduate,PHYS      6CL,CHUNG P J,B-,14
+M11,Undergraduate,PHYS      6CL,CHUNG P J,C-,1
+M11,Undergraduate,PHYS      6CL,CHUNG P J,F,2
+M11,Undergraduate,PHYS    100A,QUETIN E L,A+,5
+M11,Undergraduate,PHYS    100A,QUETIN E L,A,3
+M11,Undergraduate,PHYS    100A,QUETIN E L,A-,1
+M11,Undergraduate,PHYS    100A,QUETIN E L,B+,3
+M11,Undergraduate,PHYS    100A,QUETIN E L,B,1
+M11,Undergraduate,PHYS    100A,QUETIN E L,B-,2
+M11,Undergraduate,PHYS    100A,QUETIN E L,C,3
+M11,Undergraduate,PHYS    100A,QUETIN E L,C-,3
+M11,Undergraduate,PHYS    100A,QUETIN E L,D,2
+M11,Undergraduate,PHYS    100A,QUETIN E L,F,2
+M11,Undergraduate,PHYS    115C,FOLSOM D P,A,3
+M11,Undergraduate,PHYS    115C,FOLSOM D P,A-,5
+M11,Undergraduate,PHYS    115C,FOLSOM D P,B+,5
+M11,Undergraduate,PHYS    115C,FOLSOM D P,B-,2
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,A,5
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,A-,3
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,B+,6
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,B,4
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,C+,2
+M11,Undergraduate,PHYS    127AL,EL-SOUSSI M,F,1

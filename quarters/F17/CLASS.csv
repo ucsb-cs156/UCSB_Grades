@@ -1,0 +1,74 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F17,Undergraduate,CLASS    20A,GALLUCCI R,A+,34
+F17,Undergraduate,CLASS    20A,GALLUCCI R,A,33
+F17,Undergraduate,CLASS    20A,GALLUCCI R,A-,17
+F17,Undergraduate,CLASS    20A,GALLUCCI R,B+,9
+F17,Undergraduate,CLASS    20A,GALLUCCI R,B,14
+F17,Undergraduate,CLASS    20A,GALLUCCI R,B-,9
+F17,Undergraduate,CLASS    20A,GALLUCCI R,C+,3
+F17,Undergraduate,CLASS    20A,GALLUCCI R,C,10
+F17,Undergraduate,CLASS    20A,GALLUCCI R,D,1
+F17,Undergraduate,CLASS    20A,GALLUCCI R,F,2
+F17,Undergraduate,CLASS    36,GALLUCCI R,A+,19
+F17,Undergraduate,CLASS    36,GALLUCCI R,A,36
+F17,Undergraduate,CLASS    36,GALLUCCI R,A-,26
+F17,Undergraduate,CLASS    36,GALLUCCI R,B+,21
+F17,Undergraduate,CLASS    36,GALLUCCI R,B,21
+F17,Undergraduate,CLASS    36,GALLUCCI R,B-,13
+F17,Undergraduate,CLASS    36,GALLUCCI R,C+,5
+F17,Undergraduate,CLASS    36,GALLUCCI R,C,1
+F17,Undergraduate,CLASS    36,GALLUCCI R,D,1
+F17,Undergraduate,CLASS    36,GALLUCCI R,D-,3
+F17,Undergraduate,CLASS    36,GALLUCCI R,F,1
+F17,Undergraduate,CLASS    40,DUNN F M,A+,4
+F17,Undergraduate,CLASS    40,DUNN F M,A,101
+F17,Undergraduate,CLASS    40,DUNN F M,A-,93
+F17,Undergraduate,CLASS    40,DUNN F M,B+,90
+F17,Undergraduate,CLASS    40,DUNN F M,B,113
+F17,Undergraduate,CLASS    40,DUNN F M,B-,76
+F17,Undergraduate,CLASS    40,DUNN F M,C+,51
+F17,Undergraduate,CLASS    40,DUNN F M,C,39
+F17,Undergraduate,CLASS    40,DUNN F M,C-,13
+F17,Undergraduate,CLASS    40,DUNN F M,D+,12
+F17,Undergraduate,CLASS    40,DUNN F M,D,16
+F17,Undergraduate,CLASS    40,DUNN F M,D-,2
+F17,Undergraduate,CLASS    40,DUNN F M,F,38
+F17,Undergraduate,CLASS    40H,DUNN F M,A+,1
+F17,Undergraduate,CLASS    40H,DUNN F M,A,4
+F17,Undergraduate,CLASS    40H,DUNN F M,A-,4
+F17,Undergraduate,CLASS    40H,DUNN F M,B+,1
+F17,Undergraduate,CLASS    50,ERICKSON B L,A+,1
+F17,Undergraduate,CLASS    50,ERICKSON B L,A,12
+F17,Undergraduate,CLASS    50,ERICKSON B L,A-,11
+F17,Undergraduate,CLASS    50,ERICKSON B L,B+,15
+F17,Undergraduate,CLASS    50,ERICKSON B L,B,9
+F17,Undergraduate,CLASS    50,ERICKSON B L,B-,10
+F17,Undergraduate,CLASS    50,ERICKSON B L,C+,8
+F17,Undergraduate,CLASS    50,ERICKSON B L,C,4
+F17,Undergraduate,CLASS    50,ERICKSON B L,C-,4
+F17,Undergraduate,CLASS    50,ERICKSON B L,D+,1
+F17,Undergraduate,CLASS    50,ERICKSON B L,D,2
+F17,Undergraduate,CLASS    50,ERICKSON B L,F,11
+F17,Undergraduate,CLASS   110,LINDHEIM S H,A,12
+F17,Undergraduate,CLASS   110,LINDHEIM S H,A-,7
+F17,Undergraduate,CLASS   110,LINDHEIM S H,B+,10
+F17,Undergraduate,CLASS   110,LINDHEIM S H,B,15
+F17,Undergraduate,CLASS   110,LINDHEIM S H,B-,9
+F17,Undergraduate,CLASS   110,LINDHEIM S H,C+,7
+F17,Undergraduate,CLASS   110,LINDHEIM S H,C,2
+F17,Undergraduate,CLASS   110,LINDHEIM S H,C-,1
+F17,Undergraduate,CLASS   110,LINDHEIM S H,D+,1
+F17,Undergraduate,CLASS   110,LINDHEIM S H,F,4
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,A,5
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,A-,1
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,B+,5
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,B,7
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,B-,6
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,C+,6
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,C,2
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,D,1
+F17,Undergraduate,CLASS   130,CHOW-KAMBITSC,F,2
+F17,Graduate,CLASS   231,CAPETTINI E,A,6
+F17,Graduate,CLASS   231,CAPETTINI E,B+,1
+F17,Graduate,CLASS   231,CAPETTINI E,B,1
+F17,Graduate,CLASS   500,DUNN F M,S,6

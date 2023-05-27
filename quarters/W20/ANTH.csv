@@ -1,0 +1,124 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W20,Undergraduate,ANTH      2,WALSH C,A,136
+W20,Undergraduate,ANTH      2,WALSH C,A-,89
+W20,Undergraduate,ANTH      2,WALSH C,A+,17
+W20,Undergraduate,ANTH      2,WALSH C,B,48
+W20,Undergraduate,ANTH      2,WALSH C,B-,21
+W20,Undergraduate,ANTH      2,WALSH C,B+,41
+W20,Undergraduate,ANTH      2,WALSH C,C,10
+W20,Undergraduate,ANTH      2,WALSH C,C-,2
+W20,Undergraduate,ANTH      2,WALSH C,C+,5
+W20,Undergraduate,ANTH      2,WALSH C,D+,1
+W20,Undergraduate,ANTH      2,WALSH C,F,6
+W20,Undergraduate,ANTH      5,DAVISON R J,A,55
+W20,Undergraduate,ANTH      5,DAVISON R J,A-,21
+W20,Undergraduate,ANTH      5,DAVISON R J,A+,99
+W20,Undergraduate,ANTH      5,DAVISON R J,B,16
+W20,Undergraduate,ANTH      5,DAVISON R J,B-,3
+W20,Undergraduate,ANTH      5,DAVISON R J,B+,13
+W20,Undergraduate,ANTH      5,DAVISON R J,C,2
+W20,Undergraduate,ANTH      5,DAVISON R J,C-,1
+W20,Undergraduate,ANTH      5,DAVISON R J,C+,2
+W20,Undergraduate,ANTH      5,DAVISON R J,D+,1
+W20,Undergraduate,ANTH      5,DAVISON R J,F,6
+W20,Undergraduate,ANTH      7,TOOBY J,A,33
+W20,Undergraduate,ANTH      7,TOOBY J,A-,26
+W20,Undergraduate,ANTH      7,TOOBY J,A+,30
+W20,Undergraduate,ANTH      7,TOOBY J,B,43
+W20,Undergraduate,ANTH      7,TOOBY J,B-,10
+W20,Undergraduate,ANTH      7,TOOBY J,B+,33
+W20,Undergraduate,ANTH      7,TOOBY J,C,5
+W20,Undergraduate,ANTH      7,TOOBY J,C-,8
+W20,Undergraduate,ANTH      7,TOOBY J,C+,23
+W20,Undergraduate,ANTH      7,TOOBY J,D,5
+W20,Undergraduate,ANTH      9,LAWSON D W,A,3
+W20,Undergraduate,ANTH      9,LAWSON D W,A-,5
+W20,Undergraduate,ANTH      9,LAWSON D W,B,2
+W20,Undergraduate,ANTH      9,LAWSON D W,B-,3
+W20,Undergraduate,ANTH      9,LAWSON D W,B+,2
+W20,Undergraduate,ANTH      9,LAWSON D W,C,2
+W20,Undergraduate,ANTH      9,LAWSON D W,C+,1
+W20,Undergraduate,ANTH    121,KURIN D S,A,61
+W20,Undergraduate,ANTH    121,KURIN D S,A-,29
+W20,Undergraduate,ANTH    121,KURIN D S,A+,8
+W20,Undergraduate,ANTH    129,WERTH S,A,11
+W20,Undergraduate,ANTH    129,WERTH S,A-,1
+W20,Undergraduate,ANTH    129,WERTH S,A+,7
+W20,Undergraduate,ANTH    129,WERTH S,B,3
+W20,Undergraduate,ANTH    129,WERTH S,B-,2
+W20,Undergraduate,ANTH    129,WERTH S,B+,2
+W20,Undergraduate,ANTH    129,WERTH S,C,1
+W20,Undergraduate,ANTH    129,WERTH S,C-,1
+W20,Undergraduate,ANTH    129,WERTH S,C+,1
+W20,Undergraduate,ANTH    129,WERTH S,D,1
+W20,Undergraduate,ANTH    130,LAWSON D W,A,11
+W20,Undergraduate,ANTH    130,LAWSON D W,A-,16
+W20,Undergraduate,ANTH    130,LAWSON D W,B,9
+W20,Undergraduate,ANTH    130,LAWSON D W,B-,4
+W20,Undergraduate,ANTH    130,LAWSON D W,B+,2
+W20,Undergraduate,ANTH    130,LAWSON D W,C,1
+W20,Undergraduate,ANTH    130,LAWSON D W,C-,1
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,A,16
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,A-,4
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,B,25
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,B-,11
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,B+,6
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,C,2
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,C+,5
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,D,1
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,D+,1
+W20,Undergraduate,ANTH    131CA,JOHNSON J R,F,2
+W20,Undergraduate,ANTH    135,PACHECO R,A,3
+W20,Undergraduate,ANTH    135,PACHECO R,A-,5
+W20,Undergraduate,ANTH    135,PACHECO R,B,2
+W20,Undergraduate,ANTH    135,PACHECO R,B-,5
+W20,Undergraduate,ANTH    135,PACHECO R,B+,6
+W20,Undergraduate,ANTH    135,PACHECO R,C+,1
+W20,Undergraduate,ANTH    135,PACHECO R,F,2
+W20,Undergraduate,ANTH    171,BODDY A M,A,39
+W20,Undergraduate,ANTH    171,BODDY A M,A-,16
+W20,Undergraduate,ANTH    171,BODDY A M,A+,5
+W20,Undergraduate,ANTH    171,BODDY A M,B,7
+W20,Undergraduate,ANTH    171,BODDY A M,B-,4
+W20,Undergraduate,ANTH    171,BODDY A M,B+,20
+W20,Undergraduate,ANTH    171,BODDY A M,C,4
+W20,Undergraduate,ANTH    171,BODDY A M,C+,2
+W20,Undergraduate,ANTH    171,BODDY A M,D,1
+W20,Undergraduate,ANTH    171,BODDY A M,F,2
+W20,Undergraduate,ANTH    176,FRUHSTUCK S,A,57
+W20,Undergraduate,ANTH    176,FRUHSTUCK S,A+,2
+W20,Undergraduate,ANTH    176,FRUHSTUCK S,B,18
+W20,Undergraduate,ANTH    176,FRUHSTUCK S,B+,3
+W20,Undergraduate,ANTH    176,FRUHSTUCK S,C,1
+W20,Undergraduate,ANTH    178,KENNETT D J,A+,10
+W20,Undergraduate,ANTH    182,VANDERWARKER,A,5
+W20,Undergraduate,ANTH    182,VANDERWARKER,A-,2
+W20,Undergraduate,ANTH    182,VANDERWARKER,A+,2
+W20,Undergraduate,ANTH    182,VANDERWARKER,B,4
+W20,Undergraduate,ANTH    182,VANDERWARKER,B-,1
+W20,Undergraduate,ANTH    182,VANDERWARKER,B+,1
+W20,Undergraduate,ANTH    182,VANDERWARKER,C-,1
+W20,Undergraduate,ANTH    182,VANDERWARKER,C+,2
+W20,Undergraduate,ANTH    182,VANDERWARKER,D+,3
+W20,Undergraduate,ANTH    182M,WILSON G D,A,14
+W20,Undergraduate,ANTH    182M,WILSON G D,A-,3
+W20,Undergraduate,ANTH    182M,WILSON G D,B,2
+W20,Undergraduate,ANTH    182M,WILSON G D,C,2
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,A,4
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,A+,5
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,B,5
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,B+,1
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,C,1
+W20,Undergraduate,ANTH    186Z,MCCLURE S B,C+,1
+W20,Undergraduate,ANTH    194P,WILSON G D,A,14
+W20,Undergraduate,ANTH    197JH,HOELLE J A,A,7
+W20,Undergraduate,ANTH    197JH,HOELLE J A,A-,2
+W20,Undergraduate,ANTH    197JH,HOELLE J A,A+,3
+W20,Undergraduate,ANTH    199,VANDERWARKER,A+,9
+W20,Undergraduate,ANTH    199RA,GURVEN M D,A,11
+W20,Undergraduate,ANTH    199RA,GURVEN M D,B,1
+W20,Undergraduate,ANTH    199RA,KURIN D S,A+,9
+W20,Graduate,ANTH    234,TOOBY J,A,5
+W20,Graduate,ANTH    240A,HOELLE J A,A,5
+W20,Graduate,ANTH    240A,HOELLE J A,B,1
+W20,Graduate,ANTH    241A,BODDY A M,A,9

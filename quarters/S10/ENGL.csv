@@ -1,0 +1,178 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ENGL     10,WAID C J,A,14
+S10,Undergraduate,ENGL     10,WAID C J,A-,28
+S10,Undergraduate,ENGL     10,WAID C J,B+,19
+S10,Undergraduate,ENGL     10,WAID C J,B,14
+S10,Undergraduate,ENGL     10,WAID C J,B-,8
+S10,Undergraduate,ENGL     10,WAID C J,C,3
+S10,Undergraduate,ENGL     10,WAID C J,C-,1
+S10,Undergraduate,ENGL     10,WAID C J,D,3
+S10,Undergraduate,ENGL     10,WAID C J,F,2
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,A,2
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,A-,11
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,B+,3
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,B,5
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,B-,3
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,C,1
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,C-,1
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,D+,1
+S10,Undergraduate,ENGL     65LC,RUTHERFORD L,F,3
+S10,Undergraduate,ENGL    101,BLURTON H F,A,2
+S10,Undergraduate,ENGL    101,BLURTON H F,A-,14
+S10,Undergraduate,ENGL    101,BLURTON H F,B+,16
+S10,Undergraduate,ENGL    101,BLURTON H F,B,6
+S10,Undergraduate,ENGL    101,BLURTON H F,B-,4
+S10,Undergraduate,ENGL    102,DONELAN J H,A+,1
+S10,Undergraduate,ENGL    102,DONELAN J H,A,2
+S10,Undergraduate,ENGL    102,DONELAN J H,A-,12
+S10,Undergraduate,ENGL    102,DONELAN J H,B+,3
+S10,Undergraduate,ENGL    102,DONELAN J H,B,6
+S10,Undergraduate,ENGL    102,DONELAN J H,B-,9
+S10,Undergraduate,ENGL    102,DONELAN J H,C+,2
+S10,Undergraduate,ENGL    102,DONELAN J H,C,2
+S10,Undergraduate,ENGL    102,DONELAN J H,C-,1
+S10,Undergraduate,ENGL    102,DONELAN J H,F,3
+S10,Undergraduate,ENGL    102S,DONELAN J H,A,5
+S10,Undergraduate,ENGL    102S,DONELAN J H,A-,2
+S10,Undergraduate,ENGL    102S,DONELAN J H,B+,1
+S10,Undergraduate,ENGL    102S,DONELAN J H,C-,1
+S10,Undergraduate,ENGL    103B,CALDWELL J M,A,24
+S10,Undergraduate,ENGL    103B,CALDWELL J M,A-,4
+S10,Undergraduate,ENGL    103B,CALDWELL J M,B+,1
+S10,Undergraduate,ENGL    103B,CALDWELL J M,B,2
+S10,Undergraduate,ENGL    103B,CALDWELL J M,B-,1
+S10,Undergraduate,ENGL    103B,CALDWELL J M,C,3
+S10,Undergraduate,ENGL    103B,CALDWELL J M,D+,2
+S10,Undergraduate,ENGL    103B,CALDWELL J M,F,1
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,A,2
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,A-,15
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,B+,9
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,B,8
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,C+,1
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,C,1
+S10,Undergraduate,ENGL    104B,SAMOLSKY R E,F,1
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,A,13
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,A-,16
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,B+,12
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,B,18
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,B-,12
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,C+,4
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,C,3
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,C-,3
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,D+,1
+S10,Undergraduate,ENGL    116B,O'CONNELL M W,F,2
+S10,Undergraduate,ENGL    119X,BROWN C J,A,4
+S10,Undergraduate,ENGL    119X,BROWN C J,A-,2
+S10,Undergraduate,ENGL    119X,BROWN C J,B+,4
+S10,Undergraduate,ENGL    119X,BROWN C J,B,11
+S10,Undergraduate,ENGL    119X,BROWN C J,B-,3
+S10,Undergraduate,ENGL    119X,BROWN C J,C+,3
+S10,Undergraduate,ENGL    119X,BROWN C J,C,3
+S10,Undergraduate,ENGL    119X,BROWN C J,C-,2
+S10,Undergraduate,ENGL    119X,BROWN C J,D,2
+S10,Undergraduate,ENGL    119X,BROWN C J,F,1
+S10,Undergraduate,ENGL    119X,PASTERNACK C,A,4
+S10,Undergraduate,ENGL    119X,PASTERNACK C,A-,2
+S10,Undergraduate,ENGL    119X,PASTERNACK C,B+,4
+S10,Undergraduate,ENGL    119X,PASTERNACK C,B,11
+S10,Undergraduate,ENGL    119X,PASTERNACK C,B-,3
+S10,Undergraduate,ENGL    119X,PASTERNACK C,C+,3
+S10,Undergraduate,ENGL    119X,PASTERNACK C,C,3
+S10,Undergraduate,ENGL    119X,PASTERNACK C,C-,2
+S10,Undergraduate,ENGL    119X,PASTERNACK C,D,2
+S10,Undergraduate,ENGL    119X,PASTERNACK C,F,1
+S10,Undergraduate,ENGL    122CL,BLURTON H F,A,17
+S10,Undergraduate,ENGL    122CL,BLURTON H F,A-,24
+S10,Undergraduate,ENGL    122CL,BLURTON H F,B+,17
+S10,Undergraduate,ENGL    122CL,BLURTON H F,B,6
+S10,Undergraduate,ENGL    122CL,BLURTON H F,B-,5
+S10,Undergraduate,ENGL    122CL,BLURTON H F,F,1
+S10,Undergraduate,ENGL    128ML,BUTCHER C S,A,9
+S10,Undergraduate,ENGL    128ML,BUTCHER C S,A-,9
+S10,Undergraduate,ENGL    128ML,BUTCHER C S,B+,7
+S10,Undergraduate,ENGL    128ML,BUTCHER C S,B,4
+S10,Undergraduate,ENGL    128ML,BUTCHER C S,C+,3
+S10,Undergraduate,ENGL    140,ALLABACK S L,A+,2
+S10,Undergraduate,ENGL    140,ALLABACK S L,A,18
+S10,Undergraduate,ENGL    140,ALLABACK S L,A-,2
+S10,Undergraduate,ENGL    140,ALLABACK S L,B+,4
+S10,Undergraduate,ENGL    140,ALLABACK S L,B,6
+S10,Undergraduate,ENGL    140,ALLABACK S L,B-,1
+S10,Undergraduate,ENGL    140,ALLABACK S L,C+,1
+S10,Undergraduate,ENGL    140,ALLABACK S L,C,2
+S10,Undergraduate,ENGL    140,ALLABACK S L,D,1
+S10,Undergraduate,ENGL    140,ALLABACK S L,F,2
+S10,Undergraduate,ENGL    150,DUFFY A E,A+,5
+S10,Undergraduate,ENGL    150,DUFFY A E,A,74
+S10,Undergraduate,ENGL    150,DUFFY A E,A-,64
+S10,Undergraduate,ENGL    150,DUFFY A E,B+,77
+S10,Undergraduate,ENGL    150,DUFFY A E,B,53
+S10,Undergraduate,ENGL    150,DUFFY A E,B-,32
+S10,Undergraduate,ENGL    150,DUFFY A E,C+,14
+S10,Undergraduate,ENGL    150,DUFFY A E,C,10
+S10,Undergraduate,ENGL    150,DUFFY A E,C-,7
+S10,Undergraduate,ENGL    150,DUFFY A E,D+,2
+S10,Undergraduate,ENGL    150,DUFFY A E,D,1
+S10,Undergraduate,ENGL    150,DUFFY A E,D-,1
+S10,Undergraduate,ENGL    150,DUFFY A E,F,27
+S10,Undergraduate,ENGL    152B,FRADENBURG L,A,8
+S10,Undergraduate,ENGL    152B,FRADENBURG L,A-,10
+S10,Undergraduate,ENGL    152B,FRADENBURG L,B+,13
+S10,Undergraduate,ENGL    152B,FRADENBURG L,B-,1
+S10,Undergraduate,ENGL    152B,FRADENBURG L,C,1
+S10,Undergraduate,ENGL    152B,FRADENBURG L,F,1
+S10,Undergraduate,ENGL    165AM,WALLACE R N,A,28
+S10,Undergraduate,ENGL    165AM,WALLACE R N,A-,5
+S10,Undergraduate,ENGL    165AM,WALLACE R N,B+,1
+S10,Undergraduate,ENGL    165AM,WALLACE R N,F,2
+S10,Undergraduate,ENGL    165NV,DONNELLY B,A,3
+S10,Undergraduate,ENGL    165NV,DONNELLY B,A-,8
+S10,Undergraduate,ENGL    165NV,DONNELLY B,B+,8
+S10,Undergraduate,ENGL    165NV,DONNELLY B,B,5
+S10,Undergraduate,ENGL    165NV,DONNELLY B,B-,7
+S10,Undergraduate,ENGL    165NV,DONNELLY B,C+,3
+S10,Undergraduate,ENGL    165NV,DONNELLY B,C,2
+S10,Undergraduate,ENGL    165NV,DONNELLY B,C-,1
+S10,Undergraduate,ENGL    165NV,DONNELLY B,F,2
+S10,Undergraduate,ENGL    172,WARNER W B,A+,2
+S10,Undergraduate,ENGL    172,WARNER W B,A,4
+S10,Undergraduate,ENGL    172,WARNER W B,A-,9
+S10,Undergraduate,ENGL    172,WARNER W B,B+,4
+S10,Undergraduate,ENGL    172,WARNER W B,B,5
+S10,Undergraduate,ENGL    172,WARNER W B,B-,2
+S10,Undergraduate,ENGL    172,WARNER W B,C+,2
+S10,Undergraduate,ENGL    172,WARNER W B,C,3
+S10,Undergraduate,ENGL    172,WARNER W B,C-,1
+S10,Undergraduate,ENGL    172,WARNER W B,F,2
+S10,Undergraduate,ENGL    179,CARLSON J A,A,7
+S10,Undergraduate,ENGL    179,CARLSON J A,A-,11
+S10,Undergraduate,ENGL    179,CARLSON J A,B+,11
+S10,Undergraduate,ENGL    179,CARLSON J A,B,2
+S10,Undergraduate,ENGL    179,CARLSON J A,B-,1
+S10,Undergraduate,ENGL    179,CARLSON J A,C+,4
+S10,Undergraduate,ENGL    179,CARLSON J A,C,1
+S10,Undergraduate,ENGL    187AA,LIM S,A+,3
+S10,Undergraduate,ENGL    187AA,LIM S,A,11
+S10,Undergraduate,ENGL    187AA,LIM S,A-,4
+S10,Undergraduate,ENGL    187AA,LIM S,B+,5
+S10,Undergraduate,ENGL    187AA,LIM S,B,11
+S10,Undergraduate,ENGL    187AA,LIM S,B-,2
+S10,Undergraduate,ENGL    187AA,LIM S,C,5
+S10,Undergraduate,ENGL    187AA,LIM S,C-,1
+S10,Undergraduate,ENGL    187AA,LIM S,F,3
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,A,22
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,A-,5
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,B+,9
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,B,6
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,C+,1
+S10,Undergraduate,ENGL    192,GUTIERREZ-JON,C,2
+S10,Undergraduate,ENGL    195I,FUMERTON M P,A,9
+S10,Graduate,ENGL    230,PASTERNACK C,A,5
+S10,Graduate,ENGL    230,PASTERNACK C,A-,1
+S10,Graduate,ENGL    230,PASTERNACK C,S,2
+S10,Graduate,ENGL    234,SAMOLSKY R E,A,1
+S10,Graduate,ENGL    234,SAMOLSKY R E,A-,2
+S10,Graduate,ENGL    234,SAMOLSKY R E,S,2
+S10,Graduate,ENGL    236,BOSCAGLI M,A,10
+S10,Graduate,ENGL    591,LIU A Y,S,9
+S10,Graduate,ENGL    599,LIU A Y,S,8

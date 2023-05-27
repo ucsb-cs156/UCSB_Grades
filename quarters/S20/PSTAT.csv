@@ -1,0 +1,285 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,PSTAT     5A,SWENSON J S,A+,3
+S20,Undergraduate,PSTAT     5A,SWENSON J S,A,87
+S20,Undergraduate,PSTAT     5A,SWENSON J S,A-,45
+S20,Undergraduate,PSTAT     5A,SWENSON J S,B+,41
+S20,Undergraduate,PSTAT     5A,SWENSON J S,B,48
+S20,Undergraduate,PSTAT     5A,SWENSON J S,B-,21
+S20,Undergraduate,PSTAT     5A,SWENSON J S,C+,35
+S20,Undergraduate,PSTAT     5A,SWENSON J S,C,23
+S20,Undergraduate,PSTAT     5A,SWENSON J S,C-,10
+S20,Undergraduate,PSTAT     5A,SWENSON J S,D+,7
+S20,Undergraduate,PSTAT     5A,SWENSON J S,D,6
+S20,Undergraduate,PSTAT     5A,SWENSON J S,D-,4
+S20,Undergraduate,PSTAT     5A,SWENSON J S,F,3
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,A+,12
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,A,169
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,A-,27
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,B+,34
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,B,37
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,B-,15
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,C+,10
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,C,12
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,C-,2
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,D,5
+S20,Undergraduate,PSTAT    10,WAINWRIGHT B,F,10
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,A,32
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,A-,27
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,B+,14
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,B,31
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,B-,15
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,C+,37
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,C,34
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,C-,25
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,D,13
+S20,Undergraduate,PSTAT   120A,SHATSKIKH E,F,10
+S20,Undergraduate,PSTAT   120B,BAPAT S R,A,51
+S20,Undergraduate,PSTAT   120B,BAPAT S R,A-,26
+S20,Undergraduate,PSTAT   120B,BAPAT S R,B+,8
+S20,Undergraduate,PSTAT   120B,BAPAT S R,B,6
+S20,Undergraduate,PSTAT   120B,BAPAT S R,B-,4
+S20,Undergraduate,PSTAT   120B,BAPAT S R,C+,2
+S20,Undergraduate,PSTAT   120B,BAPAT S R,C,3
+S20,Undergraduate,PSTAT   120B,BAPAT S R,C-,1
+S20,Undergraduate,PSTAT   120B,BAPAT S R,F,2
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,A+,36
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,A,45
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,A-,5
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,B+,2
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,B,2
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,C+,3
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,C,1
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,D+,1
+S20,Undergraduate,PSTAT   120B,MOUMINOUX C,F,5
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,A,26
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,A-,7
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,B+,13
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,B,12
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,B-,9
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,C+,5
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,C,6
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,D+,2
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,D,1
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,D-,3
+S20,Undergraduate,PSTAT   120B,MYUNG JIYOUN,F,12
+S20,Undergraduate,PSTAT   120C,GOPALAN G,A,36
+S20,Undergraduate,PSTAT   120C,GOPALAN G,A-,34
+S20,Undergraduate,PSTAT   120C,GOPALAN G,B+,5
+S20,Undergraduate,PSTAT   120C,GOPALAN G,B,5
+S20,Undergraduate,PSTAT   120C,GOPALAN G,B-,3
+S20,Undergraduate,PSTAT   120C,GOPALAN G,C+,2
+S20,Undergraduate,PSTAT   120C,GOPALAN G,C,5
+S20,Undergraduate,PSTAT   120C,GOPALAN G,F,2
+S20,Undergraduate,PSTAT   120C,GU M,A,18
+S20,Undergraduate,PSTAT   120C,GU M,A-,12
+S20,Undergraduate,PSTAT   120C,GU M,B+,11
+S20,Undergraduate,PSTAT   120C,GU M,B,7
+S20,Undergraduate,PSTAT   120C,GU M,B-,8
+S20,Undergraduate,PSTAT   120C,GU M,C+,2
+S20,Undergraduate,PSTAT   120C,GU M,F,6
+S20,Undergraduate,PSTAT   122,HSU S J,A,37
+S20,Undergraduate,PSTAT   122,HSU S J,A-,22
+S20,Undergraduate,PSTAT   122,HSU S J,B+,7
+S20,Undergraduate,PSTAT   122,HSU S J,B,11
+S20,Undergraduate,PSTAT   122,HSU S J,B-,12
+S20,Undergraduate,PSTAT   122,HSU S J,C+,8
+S20,Undergraduate,PSTAT   122,HSU S J,C,18
+S20,Undergraduate,PSTAT   122,HSU S J,D,1
+S20,Undergraduate,PSTAT   122,HSU S J,F,1
+S20,Undergraduate,PSTAT   126,BAPAT S R,A,83
+S20,Undergraduate,PSTAT   126,BAPAT S R,A-,7
+S20,Undergraduate,PSTAT   126,BAPAT S R,B+,1
+S20,Undergraduate,PSTAT   126,BAPAT S R,B,3
+S20,Undergraduate,PSTAT   126,BAPAT S R,B-,2
+S20,Undergraduate,PSTAT   126,BAPAT S R,F,1
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,A,31
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,A-,21
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,B+,10
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,B,13
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,B-,8
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,C+,6
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,C,3
+S20,Undergraduate,PSTAT   126,MYUNG JIYOUN,F,4
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,A+,17
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,A,27
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,A-,13
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,B+,21
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,B,3
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,B-,1
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,C+,2
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,C,4
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,C-,2
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,D+,1
+S20,Undergraduate,PSTAT   130,MOUMINOUX C,F,3
+S20,Undergraduate,PSTAT   131,GOPALAN G,A,24
+S20,Undergraduate,PSTAT   131,GOPALAN G,A-,21
+S20,Undergraduate,PSTAT   131,GOPALAN G,B+,6
+S20,Undergraduate,PSTAT   131,GOPALAN G,B,3
+S20,Undergraduate,PSTAT   131,GOPALAN G,B-,2
+S20,Undergraduate,PSTAT   131,GOPALAN G,C+,1
+S20,Undergraduate,PSTAT   131,GOPALAN G,C,1
+S20,Undergraduate,PSTAT   131,GOPALAN G,F,1
+S20,Undergraduate,PSTAT   131,KLOKE J,A,28
+S20,Undergraduate,PSTAT   131,KLOKE J,A-,12
+S20,Undergraduate,PSTAT   131,KLOKE J,B+,3
+S20,Undergraduate,PSTAT   131,KLOKE J,B,11
+S20,Undergraduate,PSTAT   131,KLOKE J,B-,1
+S20,Undergraduate,PSTAT   131,KLOKE J,C+,1
+S20,Undergraduate,PSTAT   131,KLOKE J,C-,1
+S20,Undergraduate,PSTAT   131,KLOKE J,F,1
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,A,25
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,A-,10
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,B+,10
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,B,16
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,B-,7
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,C+,10
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,C,4
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,C-,1
+S20,Undergraduate,PSTAT   134,OH SANG-YUN,F,1
+S20,Undergraduate,PSTAT   135,KLOKE J,A,18
+S20,Undergraduate,PSTAT   135,KLOKE J,A-,4
+S20,Undergraduate,PSTAT   135,KLOKE J,B+,1
+S20,Undergraduate,PSTAT   135,KLOKE J,F,1
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,A+,23
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,A,29
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,A-,9
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,B+,12
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,B,13
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,B-,3
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,C+,2
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,C-,1
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,D+,2
+S20,Undergraduate,PSTAT   160A,LI ZHIJIAN,F,3
+S20,Undergraduate,PSTAT   160A,VOSS M,A,42
+S20,Undergraduate,PSTAT   160A,VOSS M,A-,17
+S20,Undergraduate,PSTAT   160A,VOSS M,B+,10
+S20,Undergraduate,PSTAT   160A,VOSS M,B,14
+S20,Undergraduate,PSTAT   160A,VOSS M,B-,5
+S20,Undergraduate,PSTAT   160A,VOSS M,C+,3
+S20,Undergraduate,PSTAT   160A,VOSS M,F,1
+S20,Undergraduate,PSTAT   160B,VOSS M,A,51
+S20,Undergraduate,PSTAT   160B,VOSS M,A-,22
+S20,Undergraduate,PSTAT   160B,VOSS M,B+,15
+S20,Undergraduate,PSTAT   160B,VOSS M,B,7
+S20,Undergraduate,PSTAT   160B,VOSS M,B-,5
+S20,Undergraduate,PSTAT   160B,VOSS M,C+,5
+S20,Undergraduate,PSTAT   160B,VOSS M,C,2
+S20,Undergraduate,PSTAT   160B,VOSS M,C-,2
+S20,Undergraduate,PSTAT   160B,VOSS M,D+,3
+S20,Undergraduate,PSTAT   160B,VOSS M,D,3
+S20,Undergraduate,PSTAT   160B,VOSS M,F,4
+S20,Undergraduate,PSTAT   170,CHEN T,A,15
+S20,Undergraduate,PSTAT   170,CHEN T,A-,14
+S20,Undergraduate,PSTAT   170,CHEN T,B+,1
+S20,Undergraduate,PSTAT   170,CHEN T,B,3
+S20,Undergraduate,PSTAT   170,CHEN T,B-,6
+S20,Undergraduate,PSTAT   170,CHEN T,C+,6
+S20,Undergraduate,PSTAT   170,CHEN T,C,10
+S20,Undergraduate,PSTAT   170,CHEN T,C-,2
+S20,Undergraduate,PSTAT   170,CHEN T,D,4
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,A,13
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,A-,5
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,B+,6
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,B,4
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,B-,2
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,C+,15
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,C,6
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,C-,3
+S20,Undergraduate,PSTAT   170,PEDERSEN H W,D,4
+S20,Undergraduate,PSTAT   171,GUO QIHENG,A,37
+S20,Undergraduate,PSTAT   171,GUO QIHENG,A-,6
+S20,Undergraduate,PSTAT   171,GUO QIHENG,B+,8
+S20,Undergraduate,PSTAT   171,GUO QIHENG,B,9
+S20,Undergraduate,PSTAT   171,GUO QIHENG,B-,4
+S20,Undergraduate,PSTAT   171,GUO QIHENG,C+,3
+S20,Undergraduate,PSTAT   171,GUO QIHENG,C,4
+S20,Undergraduate,PSTAT   171,GUO QIHENG,D,1
+S20,Undergraduate,PSTAT   171,GUO QIHENG,F,2
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,A+,8
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,A,12
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,A-,11
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,B+,12
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,B,11
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,B-,3
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,C+,6
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,C,5
+S20,Undergraduate,PSTAT   171,PEDERSEN H W,D,1
+S20,Undergraduate,PSTAT   172B,DUNCAN I,A+,3
+S20,Undergraduate,PSTAT   172B,DUNCAN I,A,3
+S20,Undergraduate,PSTAT   172B,DUNCAN I,A-,3
+S20,Undergraduate,PSTAT   172B,DUNCAN I,B+,9
+S20,Undergraduate,PSTAT   172B,DUNCAN I,B,5
+S20,Undergraduate,PSTAT   172B,DUNCAN I,B-,2
+S20,Undergraduate,PSTAT   172B,DUNCAN I,C+,4
+S20,Undergraduate,PSTAT   172B,DUNCAN I,C,5
+S20,Undergraduate,PSTAT   172B,DUNCAN I,C-,2
+S20,Undergraduate,PSTAT   172B,DUNCAN I,F,1
+S20,Undergraduate,PSTAT   174,FELDMAN R,A+,4
+S20,Undergraduate,PSTAT   174,FELDMAN R,A,21
+S20,Undergraduate,PSTAT   174,FELDMAN R,A-,14
+S20,Undergraduate,PSTAT   174,FELDMAN R,B+,7
+S20,Undergraduate,PSTAT   174,FELDMAN R,B,19
+S20,Undergraduate,PSTAT   174,FELDMAN R,B-,5
+S20,Undergraduate,PSTAT   174,FELDMAN R,C+,7
+S20,Undergraduate,PSTAT   174,FELDMAN R,C,10
+S20,Undergraduate,PSTAT   174,FELDMAN R,D,1
+S20,Undergraduate,PSTAT   174,FELDMAN R,F,2
+S20,Undergraduate,PSTAT   176,CHEN T,A+,1
+S20,Undergraduate,PSTAT   176,CHEN T,A,1
+S20,Undergraduate,PSTAT   176,CHEN T,A-,1
+S20,Undergraduate,PSTAT   176,CHEN T,B+,6
+S20,Undergraduate,PSTAT   176,CHEN T,B,4
+S20,Undergraduate,PSTAT   176,CHEN T,B-,1
+S20,Undergraduate,PSTAT   176,CHEN T,C,1
+S20,Undergraduate,PSTAT   176,CHEN T,F,2
+S20,Undergraduate,PSTAT   182T,VOSS M,P,16
+S20,Undergraduate,PSTAT   182T,VOSS M,NP,1
+S20,Undergraduate,PSTAT   183,DUNCAN J E,A+,8
+S20,Undergraduate,PSTAT   183,DUNCAN J E,A,13
+S20,Undergraduate,PSTAT   183,DUNCAN J E,A-,14
+S20,Undergraduate,PSTAT   183,DUNCAN J E,B+,5
+S20,Undergraduate,PSTAT   183,DUNCAN J E,B,11
+S20,Undergraduate,PSTAT   183,DUNCAN J E,B-,8
+S20,Undergraduate,PSTAT   183,DUNCAN J E,C+,5
+S20,Undergraduate,PSTAT   183,DUNCAN J E,C,9
+S20,Undergraduate,PSTAT   183,DUNCAN J E,C-,1
+S20,Undergraduate,PSTAT   183,DUNCAN J E,D+,1
+S20,Undergraduate,PSTAT   183,DUNCAN J E,D,2
+S20,Undergraduate,PSTAT   183,DUNCAN J E,F,1
+S20,Undergraduate,PSTAT   195,FRANKS A,A,31
+S20,Undergraduate,PSTAT   195,FRANKS A,A-,11
+S20,Undergraduate,PSTAT   195,FRANKS A,B+,2
+S20,Undergraduate,PSTAT   195,FRANKS A,B,1
+S20,Undergraduate,PSTAT   195,FRANKS A,F,1
+S20,Undergraduate,PSTAT   199,SHKOLNIK A D,A,5
+S20,Graduate,PSTAT   207C,CARTER A V,A+,6
+S20,Graduate,PSTAT   207C,CARTER A V,A,2
+S20,Graduate,PSTAT   207C,CARTER A V,A-,1
+S20,Graduate,PSTAT   207C,CARTER A V,B+,1
+S20,Graduate,PSTAT   213C,ICHIBA T,A,10
+S20,Graduate,PSTAT   213C,ICHIBA T,A-,2
+S20,Graduate,PSTAT   213C,ICHIBA T,B+,3
+S20,Graduate,PSTAT   213C,ICHIBA T,B,3
+S20,Graduate,PSTAT   220C,HSU S J,A,17
+S20,Graduate,PSTAT   223C,SHKOLNIK A D,A,5
+S20,Graduate,PSTAT   223C,SHKOLNIK A D,B+,1
+S20,Graduate,PSTAT   223C,SHKOLNIK A D,B,1
+S20,Graduate,PSTAT   230,MEIRING W,A,1
+S20,Graduate,PSTAT   230,MEIRING W,A-,3
+S20,Graduate,PSTAT   230,MEIRING W,B+,1
+S20,Graduate,PSTAT   231,GOPALAN G,A,8
+S20,Graduate,PSTAT   231,GOPALAN G,A-,6
+S20,Graduate,PSTAT   234,OH SANG-YUN,A+,4
+S20,Graduate,PSTAT   234,OH SANG-YUN,A,17
+S20,Graduate,PSTAT   234,OH SANG-YUN,A-,2
+S20,Graduate,PSTAT   234,OH SANG-YUN,B+,1
+S20,Graduate,PSTAT   263,FRANKS A,S,15
+S20,Graduate,PSTAT   274,FELDMAN R,A,4
+S20,Graduate,PSTAT   274,FELDMAN R,A-,2
+S20,Graduate,PSTAT   276,CHEN T,A+,4
+S20,Graduate,PSTAT   276,CHEN T,A,6
+S20,Graduate,PSTAT   276,CHEN T,A-,3
+S20,Graduate,PSTAT   276,CHEN T,B+,7
+S20,Graduate,PSTAT   276,CHEN T,B,3
+S20,Graduate,PSTAT   596,FRANKS A,S,7
+S20,Graduate,PSTAT   596,OH SANG-YUN,S,7

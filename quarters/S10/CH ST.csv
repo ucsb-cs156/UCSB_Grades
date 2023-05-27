@@ -1,0 +1,94 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,A+,8
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,A,59
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,A-,103
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,B+,87
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,B,90
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,B-,26
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,C+,18
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,C,15
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,C-,9
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,D+,3
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,D,4
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,D-,2
+S10,Undergraduate,CH ST     1C,ARMBRUSTER R,F,13
+S10,Undergraduate,CH ST   108,FIGUEROA T,A+,5
+S10,Undergraduate,CH ST   108,FIGUEROA T,A,20
+S10,Undergraduate,CH ST   108,FIGUEROA T,A-,11
+S10,Undergraduate,CH ST   108,FIGUEROA T,B+,10
+S10,Undergraduate,CH ST   108,FIGUEROA T,B,3
+S10,Undergraduate,CH ST   108,FIGUEROA T,B-,1
+S10,Undergraduate,CH ST   108,FIGUEROA T,C-,1
+S10,Undergraduate,CH ST   108,FIGUEROA T,F,1
+S10,Undergraduate,CH ST   135,YOSSO T J,A,7
+S10,Undergraduate,CH ST   135,YOSSO T J,A-,7
+S10,Undergraduate,CH ST   135,YOSSO T J,B+,7
+S10,Undergraduate,CH ST   135,YOSSO T J,B,9
+S10,Undergraduate,CH ST   135,YOSSO T J,B-,5
+S10,Undergraduate,CH ST   135,YOSSO T J,C+,2
+S10,Undergraduate,CH ST   135,YOSSO T J,C,1
+S10,Undergraduate,CH ST   135,YOSSO T J,F,3
+S10,Undergraduate,CH ST   138,CASILLAS D I,A+,1
+S10,Undergraduate,CH ST   138,CASILLAS D I,A,3
+S10,Undergraduate,CH ST   138,CASILLAS D I,A-,15
+S10,Undergraduate,CH ST   138,CASILLAS D I,B+,19
+S10,Undergraduate,CH ST   138,CASILLAS D I,B,28
+S10,Undergraduate,CH ST   138,CASILLAS D I,B-,27
+S10,Undergraduate,CH ST   138,CASILLAS D I,C+,24
+S10,Undergraduate,CH ST   138,CASILLAS D I,C,15
+S10,Undergraduate,CH ST   138,CASILLAS D I,C-,7
+S10,Undergraduate,CH ST   138,CASILLAS D I,D+,6
+S10,Undergraduate,CH ST   138,CASILLAS D I,D,4
+S10,Undergraduate,CH ST   138,CASILLAS D I,F,9
+S10,Undergraduate,CH ST   148,SERNA C,A+,1
+S10,Undergraduate,CH ST   148,SERNA C,A,5
+S10,Undergraduate,CH ST   148,SERNA C,A-,6
+S10,Undergraduate,CH ST   148,SERNA C,B+,6
+S10,Undergraduate,CH ST   148,SERNA C,B,6
+S10,Undergraduate,CH ST   148,SERNA C,B-,5
+S10,Undergraduate,CH ST   148,SERNA C,C,7
+S10,Undergraduate,CH ST   148,SERNA C,D,4
+S10,Undergraduate,CH ST   148,SERNA C,F,2
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,A,2
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,A-,8
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,B+,6
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,B,6
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,B-,10
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,C+,10
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,C,8
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,C-,7
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,D,2
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,D-,2
+S10,Undergraduate,CH ST   153,ROQUE RAMIREZ,F,10
+S10,Undergraduate,CH ST   172,OCHOA F J,A+,6
+S10,Undergraduate,CH ST   172,OCHOA F J,A,6
+S10,Undergraduate,CH ST   172,OCHOA F J,A-,9
+S10,Undergraduate,CH ST   172,OCHOA F J,B+,10
+S10,Undergraduate,CH ST   172,OCHOA F J,B,2
+S10,Undergraduate,CH ST   172,OCHOA F J,B-,6
+S10,Undergraduate,CH ST   172,OCHOA F J,C+,1
+S10,Undergraduate,CH ST   172,OCHOA F J,F,1
+S10,Undergraduate,CH ST   175,CALLAHAN M,A,45
+S10,Undergraduate,CH ST   175,CALLAHAN M,B,6
+S10,Undergraduate,CH ST   175,CALLAHAN M,F,2
+S10,Undergraduate,CH ST   183,LIMON G M,A,10
+S10,Undergraduate,CH ST   183,LIMON G M,A-,15
+S10,Undergraduate,CH ST   183,LIMON G M,B+,14
+S10,Undergraduate,CH ST   183,LIMON G M,B,7
+S10,Undergraduate,CH ST   183,LIMON G M,B-,2
+S10,Undergraduate,CH ST   183,LIMON G M,C,2
+S10,Undergraduate,CH ST   183,LIMON G M,C-,1
+S10,Undergraduate,CH ST   183,LIMON G M,D,1
+S10,Undergraduate,CH ST   183,LIMON G M,F,1
+S10,Undergraduate,CH ST   193,ALDANA G V,A,6
+S10,Undergraduate,CH ST   193,ALDANA G V,A-,2
+S10,Undergraduate,CH ST   193,ALDANA G V,B+,1
+S10,Undergraduate,CH ST   193,ALDANA G V,B,4
+S10,Undergraduate,CH ST   193,ALDANA G V,B-,1
+S10,Undergraduate,CH ST   193,ALDANA G V,C+,3
+S10,Undergraduate,CH ST   193,ALDANA G V,C,2
+S10,Graduate,CH ST   271,FIGUEROA T,A+,2
+S10,Graduate,CH ST   271,FIGUEROA T,A,3
+S10,Graduate,CH ST   271,FIGUEROA T,A-,1
+S10,Graduate,CH ST   501,ARMBRUSTER R,S,7
+S10,Graduate,CH ST   594MC,CALLAHAN M,A,6

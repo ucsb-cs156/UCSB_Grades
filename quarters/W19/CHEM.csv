@@ -1,0 +1,789 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W19,Undergraduate,CHEM      1A,JOSEPH C A,A+,7
+W19,Undergraduate,CHEM      1A,JOSEPH C A,A,73
+W19,Undergraduate,CHEM      1A,JOSEPH C A,A-,45
+W19,Undergraduate,CHEM      1A,JOSEPH C A,B+,28
+W19,Undergraduate,CHEM      1A,JOSEPH C A,B,99
+W19,Undergraduate,CHEM      1A,JOSEPH C A,B-,54
+W19,Undergraduate,CHEM      1A,JOSEPH C A,C+,49
+W19,Undergraduate,CHEM      1A,JOSEPH C A,C,156
+W19,Undergraduate,CHEM      1A,JOSEPH C A,D+,23
+W19,Undergraduate,CHEM      1A,JOSEPH C A,D,61
+W19,Undergraduate,CHEM      1A,JOSEPH C A,D-,17
+W19,Undergraduate,CHEM      1A,JOSEPH C A,F,76
+W19,Undergraduate,CHEM      1AL,BORUM A K,A+,1
+W19,Undergraduate,CHEM      1AL,BORUM A K,A,12
+W19,Undergraduate,CHEM      1AL,BORUM A K,A-,5
+W19,Undergraduate,CHEM      1AL,BORUM A K,B+,4
+W19,Undergraduate,CHEM      1AL,BORUM A K,B,18
+W19,Undergraduate,CHEM      1AL,BORUM A K,B-,9
+W19,Undergraduate,CHEM      1AL,BORUM A K,C+,3
+W19,Undergraduate,CHEM      1AL,BORUM A K,C,8
+W19,Undergraduate,CHEM      1AL,BORUM A K,C-,1
+W19,Undergraduate,CHEM      1AL,BORUM A K,D,4
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,A,10
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,A-,7
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,B+,15
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,B,12
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,B-,5
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,C+,1
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,C,9
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,C-,5
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,D,1
+W19,Undergraduate,CHEM      1AL,NOWOTARSKI M,F,4
+W19,Undergraduate,CHEM      1AL,ROHRER J M,A,13
+W19,Undergraduate,CHEM      1AL,ROHRER J M,A-,6
+W19,Undergraduate,CHEM      1AL,ROHRER J M,B+,7
+W19,Undergraduate,CHEM      1AL,ROHRER J M,B,12
+W19,Undergraduate,CHEM      1AL,ROHRER J M,B-,16
+W19,Undergraduate,CHEM      1AL,ROHRER J M,C+,3
+W19,Undergraduate,CHEM      1AL,ROHRER J M,C,6
+W19,Undergraduate,CHEM      1AL,ROHRER J M,C-,4
+W19,Undergraduate,CHEM      1AL,ROHRER J M,D,1
+W19,Undergraduate,CHEM      1AL,ROHRER J M,F,1
+W19,Undergraduate,CHEM      1AL,STAUN S L,A+,2
+W19,Undergraduate,CHEM      1AL,STAUN S L,A,8
+W19,Undergraduate,CHEM      1AL,STAUN S L,A-,6
+W19,Undergraduate,CHEM      1AL,STAUN S L,B+,11
+W19,Undergraduate,CHEM      1AL,STAUN S L,B,11
+W19,Undergraduate,CHEM      1AL,STAUN S L,B-,10
+W19,Undergraduate,CHEM      1AL,STAUN S L,C+,3
+W19,Undergraduate,CHEM      1AL,STAUN S L,C,10
+W19,Undergraduate,CHEM      1AL,STAUN S L,C-,2
+W19,Undergraduate,CHEM      1AL,STAUN S L,D,3
+W19,Undergraduate,CHEM      1AL,STAUN S L,F,1
+W19,Undergraduate,CHEM      1AL,STOW P R,A+,2
+W19,Undergraduate,CHEM      1AL,STOW P R,A,12
+W19,Undergraduate,CHEM      1AL,STOW P R,A-,7
+W19,Undergraduate,CHEM      1AL,STOW P R,B+,6
+W19,Undergraduate,CHEM      1AL,STOW P R,B,9
+W19,Undergraduate,CHEM      1AL,STOW P R,B-,11
+W19,Undergraduate,CHEM      1AL,STOW P R,C+,5
+W19,Undergraduate,CHEM      1AL,STOW P R,C,5
+W19,Undergraduate,CHEM      1AL,STOW P R,C-,3
+W19,Undergraduate,CHEM      1AL,STOW P R,D,3
+W19,Undergraduate,CHEM      1AL,STOW P R,F,2
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,A+,5
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,A,55
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,A-,31
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,B+,43
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,B,62
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,B-,51
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,C+,15
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,C,38
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,C-,15
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,D,12
+W19,Undergraduate,CHEM      1AL,VAN KOPPEN P,F,8
+W19,Undergraduate,CHEM      1B,BERNT C M,A+,2
+W19,Undergraduate,CHEM      1B,BERNT C M,A,37
+W19,Undergraduate,CHEM      1B,BERNT C M,A-,1
+W19,Undergraduate,CHEM      1B,BERNT C M,B+,11
+W19,Undergraduate,CHEM      1B,BERNT C M,B,45
+W19,Undergraduate,CHEM      1B,BERNT C M,C+,16
+W19,Undergraduate,CHEM      1B,BERNT C M,C,41
+W19,Undergraduate,CHEM      1B,BERNT C M,D,17
+W19,Undergraduate,CHEM      1B,BERNT C M,F,8
+W19,Undergraduate,CHEM      1B,FELDWINN D L,A,22
+W19,Undergraduate,CHEM      1B,FELDWINN D L,A-,13
+W19,Undergraduate,CHEM      1B,FELDWINN D L,B+,15
+W19,Undergraduate,CHEM      1B,FELDWINN D L,B,19
+W19,Undergraduate,CHEM      1B,FELDWINN D L,B-,16
+W19,Undergraduate,CHEM      1B,FELDWINN D L,C+,11
+W19,Undergraduate,CHEM      1B,FELDWINN D L,C,44
+W19,Undergraduate,CHEM      1B,FELDWINN D L,D+,3
+W19,Undergraduate,CHEM      1B,FELDWINN D L,D,9
+W19,Undergraduate,CHEM      1B,FELDWINN D L,D-,3
+W19,Undergraduate,CHEM      1B,FELDWINN D L,F,18
+W19,Undergraduate,CHEM      1B,KUNKEL B M,A+,6
+W19,Undergraduate,CHEM      1B,KUNKEL B M,A,102
+W19,Undergraduate,CHEM      1B,KUNKEL B M,A-,14
+W19,Undergraduate,CHEM      1B,KUNKEL B M,B+,31
+W19,Undergraduate,CHEM      1B,KUNKEL B M,B,146
+W19,Undergraduate,CHEM      1B,KUNKEL B M,B-,22
+W19,Undergraduate,CHEM      1B,KUNKEL B M,C+,45
+W19,Undergraduate,CHEM      1B,KUNKEL B M,C,189
+W19,Undergraduate,CHEM      1B,KUNKEL B M,D,61
+W19,Undergraduate,CHEM      1B,KUNKEL B M,F,35
+W19,Undergraduate,CHEM      1B,PRICE S P,A+,5
+W19,Undergraduate,CHEM      1B,PRICE S P,A,93
+W19,Undergraduate,CHEM      1B,PRICE S P,A-,33
+W19,Undergraduate,CHEM      1B,PRICE S P,B+,31
+W19,Undergraduate,CHEM      1B,PRICE S P,B,140
+W19,Undergraduate,CHEM      1B,PRICE S P,B-,29
+W19,Undergraduate,CHEM      1B,PRICE S P,C+,33
+W19,Undergraduate,CHEM      1B,PRICE S P,C,171
+W19,Undergraduate,CHEM      1B,PRICE S P,D,68
+W19,Undergraduate,CHEM      1B,PRICE S P,F,40
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,A,10
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,A-,8
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,B+,4
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,B,8
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,B-,4
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,C+,3
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,C,6
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,C-,2
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,D,1
+W19,Undergraduate,CHEM      1BL,BAEZA CINCO M,F,1
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,A+,1
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,A,10
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,A-,7
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,B+,1
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,B,15
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,B-,3
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,C+,4
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,C,2
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,C-,3
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,D,1
+W19,Undergraduate,CHEM      1BL,BLANKENSHIP J,F,1
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,A+,2
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,A,6
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,A-,6
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,B+,1
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,B,5
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,B-,6
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,C+,1
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,C,5
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,C-,1
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,D,1
+W19,Undergraduate,CHEM      1BL,CHAKRABORTY A,F,1
+W19,Undergraduate,CHEM      1BL,COHEN T E,A+,1
+W19,Undergraduate,CHEM      1BL,COHEN T E,A,11
+W19,Undergraduate,CHEM      1BL,COHEN T E,A-,4
+W19,Undergraduate,CHEM      1BL,COHEN T E,B+,10
+W19,Undergraduate,CHEM      1BL,COHEN T E,B,9
+W19,Undergraduate,CHEM      1BL,COHEN T E,B-,7
+W19,Undergraduate,CHEM      1BL,COHEN T E,C,2
+W19,Undergraduate,CHEM      1BL,COHEN T E,C-,3
+W19,Undergraduate,CHEM      1BL,COHEN T E,D,1
+W19,Undergraduate,CHEM      1BL,DIXON A L,A,10
+W19,Undergraduate,CHEM      1BL,DIXON A L,A-,5
+W19,Undergraduate,CHEM      1BL,DIXON A L,B+,5
+W19,Undergraduate,CHEM      1BL,DIXON A L,B,13
+W19,Undergraduate,CHEM      1BL,DIXON A L,B-,8
+W19,Undergraduate,CHEM      1BL,DIXON A L,C+,4
+W19,Undergraduate,CHEM      1BL,DIXON A L,C,1
+W19,Undergraduate,CHEM      1BL,DIXON A L,C-,2
+W19,Undergraduate,CHEM      1BL,DU Z,A+,4
+W19,Undergraduate,CHEM      1BL,DU Z,A,5
+W19,Undergraduate,CHEM      1BL,DU Z,A-,7
+W19,Undergraduate,CHEM      1BL,DU Z,B+,5
+W19,Undergraduate,CHEM      1BL,DU Z,B,7
+W19,Undergraduate,CHEM      1BL,DU Z,B-,6
+W19,Undergraduate,CHEM      1BL,DU Z,C,9
+W19,Undergraduate,CHEM      1BL,DU Z,D,3
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,A+,2
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,A,9
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,A-,6
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,B+,5
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,B,11
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,B-,5
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,C+,1
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,C,5
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,C-,2
+W19,Undergraduate,CHEM      1BL,HEINRICH S E,D,2
+W19,Undergraduate,CHEM      1BL,HU Y,A+,2
+W19,Undergraduate,CHEM      1BL,HU Y,A,8
+W19,Undergraduate,CHEM      1BL,HU Y,A-,6
+W19,Undergraduate,CHEM      1BL,HU Y,B+,8
+W19,Undergraduate,CHEM      1BL,HU Y,B,7
+W19,Undergraduate,CHEM      1BL,HU Y,B-,5
+W19,Undergraduate,CHEM      1BL,HU Y,C+,7
+W19,Undergraduate,CHEM      1BL,HU Y,C,3
+W19,Undergraduate,CHEM      1BL,HU Y,F,1
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,A,8
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,A-,7
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,B+,6
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,B,6
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,B-,6
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,C+,3
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,C,7
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,C-,1
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,D,2
+W19,Undergraduate,CHEM      1BL,HUANG SUNZEYU,F,1
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,A+,2
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,A,8
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,A-,6
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,B+,8
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,B,6
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,B-,6
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,C+,5
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,C,5
+W19,Undergraduate,CHEM      1BL,KOUMARIANOU G,C-,1
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,A+,2
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,A,9
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,A-,8
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,B+,4
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,B,11
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,B-,3
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,C+,3
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,C,7
+W19,Undergraduate,CHEM      1BL,KULKARNI S S,C-,1
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,A,6
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,A-,7
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,B+,9
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,B,10
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,B-,7
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,C+,4
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,C,1
+W19,Undergraduate,CHEM      1BL,LEE YU-HSUAN,C-,2
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,A,9
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,A-,5
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,B+,5
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,B,8
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,B-,7
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,C+,1
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,C,1
+W19,Undergraduate,CHEM      1BL,LEI XIAOHE,C-,1
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,A+,2
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,A,12
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,A-,4
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,B+,2
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,B,10
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,B-,7
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,C+,1
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,C,5
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,C-,3
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,D+,1
+W19,Undergraduate,CHEM      1BL,LIU XIKUN,F,1
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,A,12
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,A-,6
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,B+,5
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,B,5
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,B-,6
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,C+,3
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,C,6
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,C-,2
+W19,Undergraduate,CHEM      1BL,MAKRIS C L,F,2
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,A,10
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,A-,4
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,B+,9
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,B,7
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,B-,8
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,C+,3
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,C,3
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,C-,2
+W19,Undergraduate,CHEM      1BL,MATTEJAT M R,F,2
+W19,Undergraduate,CHEM      1BL,MCRAE S D,A,6
+W19,Undergraduate,CHEM      1BL,MCRAE S D,A-,9
+W19,Undergraduate,CHEM      1BL,MCRAE S D,B+,7
+W19,Undergraduate,CHEM      1BL,MCRAE S D,B,5
+W19,Undergraduate,CHEM      1BL,MCRAE S D,B-,10
+W19,Undergraduate,CHEM      1BL,MCRAE S D,C+,2
+W19,Undergraduate,CHEM      1BL,MCRAE S D,C,6
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,A+,2
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,A,10
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,A-,3
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,B+,5
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,B,9
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,B-,7
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,C+,3
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,C,4
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,C-,3
+W19,Undergraduate,CHEM      1BL,O'NEILL E L,D,2
+W19,Undergraduate,CHEM      1BL,PENNEY D J,A,4
+W19,Undergraduate,CHEM      1BL,PENNEY D J,A-,13
+W19,Undergraduate,CHEM      1BL,PENNEY D J,B+,7
+W19,Undergraduate,CHEM      1BL,PENNEY D J,B,7
+W19,Undergraduate,CHEM      1BL,PENNEY D J,B-,5
+W19,Undergraduate,CHEM      1BL,PENNEY D J,C+,3
+W19,Undergraduate,CHEM      1BL,PENNEY D J,C,4
+W19,Undergraduate,CHEM      1BL,PENNEY D J,C-,1
+W19,Undergraduate,CHEM      1BL,PENNEY D J,D+,1
+W19,Undergraduate,CHEM      1BL,PENNEY D J,D,1
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,A+,1
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,A,9
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,A-,9
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,B+,6
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,B,8
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,B-,5
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,C+,3
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,C,3
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,D,2
+W19,Undergraduate,CHEM      1BL,PROKOPOVICH D,F,1
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,A,6
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,A-,13
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,B+,4
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,B,10
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,B-,6
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,C+,2
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,C,1
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,D,1
+W19,Undergraduate,CHEM      1BL,ROSENTHAL K D,F,1
+W19,Undergraduate,CHEM      1BL,SUN J,A,4
+W19,Undergraduate,CHEM      1BL,SUN J,A-,10
+W19,Undergraduate,CHEM      1BL,SUN J,B+,6
+W19,Undergraduate,CHEM      1BL,SUN J,B,10
+W19,Undergraduate,CHEM      1BL,SUN J,B-,9
+W19,Undergraduate,CHEM      1BL,SUN J,C,2
+W19,Undergraduate,CHEM      1BL,SUN J,C-,3
+W19,Undergraduate,CHEM      1BL,SUN J,F,1
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,A+,24
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,A,218
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,A-,183
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,B+,139
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,B,221
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,B-,161
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,C+,65
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,C,106
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,C-,39
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,D+,2
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,D,23
+W19,Undergraduate,CHEM      1BL,VAN KOPPEN P,F,14
+W19,Undergraduate,CHEM      1BL,WANG S X,A+,1
+W19,Undergraduate,CHEM      1BL,WANG S X,A,11
+W19,Undergraduate,CHEM      1BL,WANG S X,A-,4
+W19,Undergraduate,CHEM      1BL,WANG S X,B+,3
+W19,Undergraduate,CHEM      1BL,WANG S X,B,8
+W19,Undergraduate,CHEM      1BL,WANG S X,B-,5
+W19,Undergraduate,CHEM      1BL,WANG S X,C+,4
+W19,Undergraduate,CHEM      1BL,WANG S X,C,6
+W19,Undergraduate,CHEM      1BL,WANG S X,C-,3
+W19,Undergraduate,CHEM      1BL,WANG S X,D,1
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,A,8
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,A-,7
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,B+,5
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,B,9
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,B-,12
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,C+,1
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,C,4
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,D,1
+W19,Undergraduate,CHEM      1BL,WILLIAMS A K,F,1
+W19,Undergraduate,CHEM      1BL,YU T,A+,1
+W19,Undergraduate,CHEM      1BL,YU T,A,11
+W19,Undergraduate,CHEM      1BL,YU T,A-,7
+W19,Undergraduate,CHEM      1BL,YU T,B+,5
+W19,Undergraduate,CHEM      1BL,YU T,B,8
+W19,Undergraduate,CHEM      1BL,YU T,B-,3
+W19,Undergraduate,CHEM      1BL,YU T,C+,3
+W19,Undergraduate,CHEM      1BL,YU T,C,5
+W19,Undergraduate,CHEM      1BL,YU T,D,2
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,A+,1
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,A,6
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,A-,12
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,B+,4
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,B,9
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,B-,5
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,C+,1
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,C,3
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,C-,3
+W19,Undergraduate,CHEM      1BL,ZHU ZHIYUAN,D,2
+W19,Undergraduate,CHEM      2B,BERNT C M,A+,4
+W19,Undergraduate,CHEM      2B,BERNT C M,A,33
+W19,Undergraduate,CHEM      2B,BERNT C M,A-,20
+W19,Undergraduate,CHEM      2B,BERNT C M,B+,4
+W19,Undergraduate,CHEM      2B,BERNT C M,B,2
+W19,Undergraduate,CHEM      2BC,BERNT C M,A,14
+W19,Undergraduate,CHEM      2BC,LUGINBUHL B R,A,25
+W19,Undergraduate,CHEM      2BC,MOSKOVITS M,A,11
+W19,Undergraduate,CHEM      6AL,GAINER M J,A+,11
+W19,Undergraduate,CHEM      6AL,GAINER M J,A,33
+W19,Undergraduate,CHEM      6AL,GAINER M J,A-,26
+W19,Undergraduate,CHEM      6AL,GAINER M J,B+,29
+W19,Undergraduate,CHEM      6AL,GAINER M J,B,94
+W19,Undergraduate,CHEM      6AL,GAINER M J,B-,19
+W19,Undergraduate,CHEM      6AL,GAINER M J,C+,25
+W19,Undergraduate,CHEM      6AL,GAINER M J,C,30
+W19,Undergraduate,CHEM      6AL,GAINER M J,C-,8
+W19,Undergraduate,CHEM      6AL,GAINER M J,D,2
+W19,Undergraduate,CHEM      6AL,GAINER M J,F,2
+W19,Undergraduate,CHEM      6BH,ZHANG LIMING,A+,1
+W19,Undergraduate,CHEM      6BH,ZHANG LIMING,A,2
+W19,Undergraduate,CHEM      6BH,ZHANG LIMING,A-,2
+W19,Undergraduate,CHEM      6BL,AKPORJI N,A+,2
+W19,Undergraduate,CHEM      6BL,AKPORJI N,A,2
+W19,Undergraduate,CHEM      6BL,AKPORJI N,B+,1
+W19,Undergraduate,CHEM      6BL,AKPORJI N,B,10
+W19,Undergraduate,CHEM      6BL,AKPORJI N,B-,1
+W19,Undergraduate,CHEM      6BL,AKPORJI N,C,2
+W19,Undergraduate,CHEM      6BL,AKPORJI N,C-,1
+W19,Undergraduate,CHEM      6BL,AKPORJI N,F,1
+W19,Undergraduate,CHEM      6BL,CHEN K Y,A,3
+W19,Undergraduate,CHEM      6BL,CHEN K Y,A-,1
+W19,Undergraduate,CHEM      6BL,CHEN K Y,B+,2
+W19,Undergraduate,CHEM      6BL,CHEN K Y,B,7
+W19,Undergraduate,CHEM      6BL,CHEN K Y,B-,2
+W19,Undergraduate,CHEM      6BL,CHEN K Y,C-,2
+W19,Undergraduate,CHEM      6BL,CHEN K Y,D,1
+W19,Undergraduate,CHEM      6BL,CHEN K Y,F,1
+W19,Undergraduate,CHEM      6BL,CHEN P,A+,1
+W19,Undergraduate,CHEM      6BL,CHEN P,A,3
+W19,Undergraduate,CHEM      6BL,CHEN P,B+,3
+W19,Undergraduate,CHEM      6BL,CHEN P,B,5
+W19,Undergraduate,CHEM      6BL,CHEN P,B-,1
+W19,Undergraduate,CHEM      6BL,CHEN P,C+,3
+W19,Undergraduate,CHEM      6BL,CHEN P,C,3
+W19,Undergraduate,CHEM      6BL,CHEN P,C-,1
+W19,Undergraduate,CHEM      6BL,DAVIS N W,A+,1
+W19,Undergraduate,CHEM      6BL,DAVIS N W,A,2
+W19,Undergraduate,CHEM      6BL,DAVIS N W,A-,1
+W19,Undergraduate,CHEM      6BL,DAVIS N W,B+,2
+W19,Undergraduate,CHEM      6BL,DAVIS N W,B,8
+W19,Undergraduate,CHEM      6BL,DAVIS N W,B-,1
+W19,Undergraduate,CHEM      6BL,DAVIS N W,C+,1
+W19,Undergraduate,CHEM      6BL,DAVIS N W,C,3
+W19,Undergraduate,CHEM      6BL,DAVIS N W,C-,1
+W19,Undergraduate,CHEM      6BL,GAINER M J,A+,10
+W19,Undergraduate,CHEM      6BL,GAINER M J,A,25
+W19,Undergraduate,CHEM      6BL,GAINER M J,A-,11
+W19,Undergraduate,CHEM      6BL,GAINER M J,B+,22
+W19,Undergraduate,CHEM      6BL,GAINER M J,B,85
+W19,Undergraduate,CHEM      6BL,GAINER M J,B-,14
+W19,Undergraduate,CHEM      6BL,GAINER M J,C+,15
+W19,Undergraduate,CHEM      6BL,GAINER M J,C,18
+W19,Undergraduate,CHEM      6BL,GAINER M J,C-,9
+W19,Undergraduate,CHEM      6BL,GAINER M J,D,5
+W19,Undergraduate,CHEM      6BL,GAINER M J,F,4
+W19,Undergraduate,CHEM      6BL,JIN B,A+,1
+W19,Undergraduate,CHEM      6BL,JIN B,A,1
+W19,Undergraduate,CHEM      6BL,JIN B,A-,1
+W19,Undergraduate,CHEM      6BL,JIN B,B+,4
+W19,Undergraduate,CHEM      6BL,JIN B,B,8
+W19,Undergraduate,CHEM      6BL,JIN B,B-,1
+W19,Undergraduate,CHEM      6BL,JIN B,C,2
+W19,Undergraduate,CHEM      6BL,JIN B,C-,1
+W19,Undergraduate,CHEM      6BL,JIN B,D,1
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,A+,1
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,A,2
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,A-,1
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,B+,2
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,B,6
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,B-,2
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,C+,1
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,C,4
+W19,Undergraduate,CHEM      6BL,PANG HAOBO,F,1
+W19,Undergraduate,CHEM      6BL,REID B T,A,2
+W19,Undergraduate,CHEM      6BL,REID B T,A-,2
+W19,Undergraduate,CHEM      6BL,REID B T,B+,1
+W19,Undergraduate,CHEM      6BL,REID B T,B,11
+W19,Undergraduate,CHEM      6BL,REID B T,B-,1
+W19,Undergraduate,CHEM      6BL,REID B T,C+,1
+W19,Undergraduate,CHEM      6BL,REID B T,D,1
+W19,Undergraduate,CHEM      6BL,SANTORI C,A,4
+W19,Undergraduate,CHEM      6BL,SANTORI C,B+,1
+W19,Undergraduate,CHEM      6BL,SANTORI C,B,8
+W19,Undergraduate,CHEM      6BL,SANTORI C,B-,2
+W19,Undergraduate,CHEM      6BL,SANTORI C,C+,1
+W19,Undergraduate,CHEM      6BL,SANTORI C,C,2
+W19,Undergraduate,CHEM      6BL,SANTORI C,C-,1
+W19,Undergraduate,CHEM      6BL,SANTORI C,F,1
+W19,Undergraduate,CHEM      6BL,SHIM E,A,2
+W19,Undergraduate,CHEM      6BL,SHIM E,B+,3
+W19,Undergraduate,CHEM      6BL,SHIM E,B,11
+W19,Undergraduate,CHEM      6BL,SHIM E,B-,1
+W19,Undergraduate,CHEM      6BL,SHIM E,C+,1
+W19,Undergraduate,CHEM      6BL,SHIM E,C,1
+W19,Undergraduate,CHEM      6BL,SHIM E,D,1
+W19,Undergraduate,CHEM      6BL,TRUONG J H,A+,2
+W19,Undergraduate,CHEM      6BL,TRUONG J H,A,2
+W19,Undergraduate,CHEM      6BL,TRUONG J H,A-,1
+W19,Undergraduate,CHEM      6BL,TRUONG J H,B+,3
+W19,Undergraduate,CHEM      6BL,TRUONG J H,B,5
+W19,Undergraduate,CHEM      6BL,TRUONG J H,B-,2
+W19,Undergraduate,CHEM      6BL,TRUONG J H,C+,3
+W19,Undergraduate,CHEM      6BL,TRUONG J H,C-,2
+W19,Undergraduate,CHEM      6BL,WONG Y,A+,2
+W19,Undergraduate,CHEM      6BL,WONG Y,A,2
+W19,Undergraduate,CHEM      6BL,WONG Y,A-,4
+W19,Undergraduate,CHEM      6BL,WONG Y,B,6
+W19,Undergraduate,CHEM      6BL,WONG Y,C+,4
+W19,Undergraduate,CHEM      6BL,WONG Y,C,1
+W19,Undergraduate,CHEM      6BL,WONG Y,D,1
+W19,Undergraduate,CHEM      6CH,ZHANG LIMING,A+,1
+W19,Undergraduate,CHEM      6CH,ZHANG LIMING,A,1
+W19,Undergraduate,CHEM      6CH,ZHANG LIMING,A-,1
+W19,Undergraduate,CHEM     99,BAZAN G C,A,1
+W19,Undergraduate,CHEM     99,FORD P C,A,1
+W19,Undergraduate,CHEM    109A,LEWIS R B,A+,13
+W19,Undergraduate,CHEM    109A,LEWIS R B,A,33
+W19,Undergraduate,CHEM    109A,LEWIS R B,A-,19
+W19,Undergraduate,CHEM    109A,LEWIS R B,B+,32
+W19,Undergraduate,CHEM    109A,LEWIS R B,B,56
+W19,Undergraduate,CHEM    109A,LEWIS R B,B-,41
+W19,Undergraduate,CHEM    109A,LEWIS R B,C+,36
+W19,Undergraduate,CHEM    109A,LEWIS R B,C,70
+W19,Undergraduate,CHEM    109A,LEWIS R B,D,51
+W19,Undergraduate,CHEM    109A,LEWIS R B,F,24
+W19,Undergraduate,CHEM    109B,LEWIS R B,A+,5
+W19,Undergraduate,CHEM    109B,LEWIS R B,A,29
+W19,Undergraduate,CHEM    109B,LEWIS R B,A-,21
+W19,Undergraduate,CHEM    109B,LEWIS R B,B+,19
+W19,Undergraduate,CHEM    109B,LEWIS R B,B,37
+W19,Undergraduate,CHEM    109B,LEWIS R B,B-,58
+W19,Undergraduate,CHEM    109B,LEWIS R B,C+,20
+W19,Undergraduate,CHEM    109B,LEWIS R B,C,82
+W19,Undergraduate,CHEM    109B,LEWIS R B,C-,1
+W19,Undergraduate,CHEM    109B,LEWIS R B,D,33
+W19,Undergraduate,CHEM    109B,LEWIS R B,F,9
+W19,Undergraduate,CHEM    109B,READ DE ALANI,A+,11
+W19,Undergraduate,CHEM    109B,READ DE ALANI,A,23
+W19,Undergraduate,CHEM    109B,READ DE ALANI,A-,15
+W19,Undergraduate,CHEM    109B,READ DE ALANI,B+,18
+W19,Undergraduate,CHEM    109B,READ DE ALANI,B,57
+W19,Undergraduate,CHEM    109B,READ DE ALANI,B-,15
+W19,Undergraduate,CHEM    109B,READ DE ALANI,C+,17
+W19,Undergraduate,CHEM    109B,READ DE ALANI,C,41
+W19,Undergraduate,CHEM    109B,READ DE ALANI,C-,13
+W19,Undergraduate,CHEM    109B,READ DE ALANI,D+,8
+W19,Undergraduate,CHEM    109B,READ DE ALANI,F,9
+W19,Undergraduate,CHEM    109BH,AUE D H,A+,22
+W19,Undergraduate,CHEM    109BH,AUE D H,A,27
+W19,Undergraduate,CHEM    109BH,AUE D H,A-,8
+W19,Undergraduate,CHEM    109BH,AUE D H,B+,3
+W19,Undergraduate,CHEM    109BH,AUE D H,B-,1
+W19,Undergraduate,CHEM    109BH,AUE D H,C+,1
+W19,Undergraduate,CHEM    109BH,AUE D H,C,1
+W19,Undergraduate,CHEM    110,LAVERMAN L E,A+,1
+W19,Undergraduate,CHEM    110,LAVERMAN L E,A,4
+W19,Undergraduate,CHEM    110,LAVERMAN L E,B+,3
+W19,Undergraduate,CHEM    110,LAVERMAN L E,B,3
+W19,Undergraduate,CHEM    110,LAVERMAN L E,B-,2
+W19,Undergraduate,CHEM    110,LAVERMAN L E,C,2
+W19,Undergraduate,CHEM    110,LAVERMAN L E,C-,2
+W19,Undergraduate,CHEM    110,LAVERMAN L E,D,1
+W19,Undergraduate,CHEM    112B,HAN SONGI,A+,2
+W19,Undergraduate,CHEM    112B,HAN SONGI,A,5
+W19,Undergraduate,CHEM    112B,HAN SONGI,A-,6
+W19,Undergraduate,CHEM    112B,HAN SONGI,B+,7
+W19,Undergraduate,CHEM    112B,HAN SONGI,B,4
+W19,Undergraduate,CHEM    112B,HAN SONGI,C,9
+W19,Undergraduate,CHEM    112B,HAN SONGI,D,1
+W19,Undergraduate,CHEM    112B,HAN SONGI,F,1
+W19,Undergraduate,CHEM    113B,BOWERS M T,A+,2
+W19,Undergraduate,CHEM    113B,BOWERS M T,A,14
+W19,Undergraduate,CHEM    113B,BOWERS M T,A-,11
+W19,Undergraduate,CHEM    113B,BOWERS M T,B+,9
+W19,Undergraduate,CHEM    113B,BOWERS M T,B,9
+W19,Undergraduate,CHEM    113B,BOWERS M T,B-,8
+W19,Undergraduate,CHEM    113B,BOWERS M T,C+,8
+W19,Undergraduate,CHEM    113B,BOWERS M T,C,7
+W19,Undergraduate,CHEM    113B,BOWERS M T,C-,8
+W19,Undergraduate,CHEM    113B,BOWERS M T,D,1
+W19,Undergraduate,CHEM    113B,BOWERS M T,D-,1
+W19,Undergraduate,CHEM    113B,BOWERS M T,F,2
+W19,Undergraduate,CHEM    113B,BURATTO S K,A+,1
+W19,Undergraduate,CHEM    113B,BURATTO S K,A,19
+W19,Undergraduate,CHEM    113B,BURATTO S K,A-,2
+W19,Undergraduate,CHEM    113B,BURATTO S K,B+,3
+W19,Undergraduate,CHEM    113B,BURATTO S K,B,34
+W19,Undergraduate,CHEM    113B,BURATTO S K,B-,4
+W19,Undergraduate,CHEM    113B,BURATTO S K,C+,1
+W19,Undergraduate,CHEM    113B,BURATTO S K,C,20
+W19,Undergraduate,CHEM    113B,BURATTO S K,F,2
+W19,Undergraduate,CHEM    115B,METIU H I,B,1
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,A,21
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,A-,7
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,B+,13
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,B,23
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,B-,16
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,C+,12
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,C,7
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,C-,1
+W19,Undergraduate,CHEM    116AL,LAVERMAN L E,D,1
+W19,Undergraduate,CHEM    123,DEVRIES M S,A+,36
+W19,Undergraduate,CHEM    123,DEVRIES M S,A,28
+W19,Undergraduate,CHEM    123,DEVRIES M S,A-,16
+W19,Undergraduate,CHEM    123,DEVRIES M S,B+,21
+W19,Undergraduate,CHEM    123,DEVRIES M S,B,13
+W19,Undergraduate,CHEM    123,DEVRIES M S,B-,10
+W19,Undergraduate,CHEM    123,DEVRIES M S,C,1
+W19,Undergraduate,CHEM    123,DEVRIES M S,C-,2
+W19,Undergraduate,CHEM    125L,KAHN K,A+,2
+W19,Undergraduate,CHEM    125L,KAHN K,A,1
+W19,Undergraduate,CHEM    125L,KAHN K,B+,2
+W19,Undergraduate,CHEM    125L,KAHN K,B,3
+W19,Undergraduate,CHEM    125L,KAHN K,B-,1
+W19,Undergraduate,CHEM    125L,KAHN K,C+,1
+W19,Undergraduate,CHEM    125L,KAHN K,C,3
+W19,Undergraduate,CHEM    125L,KAHN K,D+,3
+W19,Undergraduate,CHEM    125L,KAHN K,D,1
+W19,Undergraduate,CHEM    125L,KAHN K,D-,1
+W19,Undergraduate,CHEM    125L,KAHN K,F,1
+W19,Undergraduate,CHEM    126,AUE D H,A-,4
+W19,Undergraduate,CHEM    126,AUE D H,B+,2
+W19,Undergraduate,CHEM    126,AUE D H,B,4
+W19,Undergraduate,CHEM    126,AUE D H,D,1
+W19,Undergraduate,CHEM    127,LITTLE R D,A,15
+W19,Undergraduate,CHEM    127,LITTLE R D,A-,8
+W19,Undergraduate,CHEM    127,LITTLE R D,B+,5
+W19,Undergraduate,CHEM    127,LITTLE R D,B,7
+W19,Undergraduate,CHEM    127,LITTLE R D,C+,1
+W19,Undergraduate,CHEM    127,LITTLE R D,C,2
+W19,Undergraduate,CHEM    127,LITTLE R D,C-,2
+W19,Undergraduate,CHEM    127,LITTLE R D,D,5
+W19,Undergraduate,CHEM    127,LITTLE R D,F,5
+W19,Undergraduate,CHEM    133,PETTUS T R,B,1
+W19,Undergraduate,CHEM    142B,REICH N O,A+,1
+W19,Undergraduate,CHEM    142B,REICH N O,A,16
+W19,Undergraduate,CHEM    142B,REICH N O,A-,2
+W19,Undergraduate,CHEM    142B,REICH N O,B,17
+W19,Undergraduate,CHEM    142B,REICH N O,B-,1
+W19,Undergraduate,CHEM    142B,REICH N O,C,6
+W19,Undergraduate,CHEM    142B,REICH N O,C-,1
+W19,Undergraduate,CHEM    142B,REICH N O,D,3
+W19,Undergraduate,CHEM    142B,REICH N O,F,1
+W19,Undergraduate,CHEM    153,SEPUNARU L,A,5
+W19,Undergraduate,CHEM    153,SEPUNARU L,A-,2
+W19,Undergraduate,CHEM    153,SEPUNARU L,B+,8
+W19,Undergraduate,CHEM    153,SEPUNARU L,C+,1
+W19,Undergraduate,CHEM    153,SEPUNARU L,C,1
+W19,Undergraduate,CHEM    171,ABU-OMAR M,A,8
+W19,Undergraduate,CHEM    171,ABU-OMAR M,A-,2
+W19,Undergraduate,CHEM    171,ABU-OMAR M,B+,3
+W19,Undergraduate,CHEM    171,ABU-OMAR M,B,3
+W19,Undergraduate,CHEM    171,ABU-OMAR M,B-,1
+W19,Undergraduate,CHEM    171,ABU-OMAR M,C+,2
+W19,Undergraduate,CHEM    173B,FORD P C,A+,1
+W19,Undergraduate,CHEM    173B,FORD P C,A,8
+W19,Undergraduate,CHEM    173B,FORD P C,A-,7
+W19,Undergraduate,CHEM    173B,FORD P C,B+,12
+W19,Undergraduate,CHEM    173B,FORD P C,B,3
+W19,Undergraduate,CHEM    173B,FORD P C,B-,6
+W19,Undergraduate,CHEM    173B,FORD P C,C+,1
+W19,Undergraduate,CHEM    173B,FORD P C,C,6
+W19,Undergraduate,CHEM    173B,FORD P C,D,1
+W19,Undergraduate,CHEM    173B,FORD P C,F,1
+W19,Undergraduate,CHEM    183,LAVERMAN L E,P,3
+W19,Undergraduate,CHEM    183,VAN KOPPEN P,P,31
+W19,Undergraduate,CHEM    184,HUBER C F,A+,1
+W19,Undergraduate,CHEM    184,HUBER C F,A,1
+W19,Undergraduate,CHEM    184,HUBER C F,A-,2
+W19,Undergraduate,CHEM    184,HUBER C F,B+,2
+W19,Undergraduate,CHEM    184,HUBER C F,B,1
+W19,Undergraduate,CHEM    192,READ DE ALANI,A+,1
+W19,Undergraduate,CHEM    193,FELDWINN D L,P,6
+W19,Undergraduate,CHEM    193,FELDWINN D L,NP,1
+W19,Undergraduate,CHEM    193,REICH N O,P,4
+W19,Undergraduate,CHEM    198,REICH N O,A,14
+W19,Undergraduate,CHEM    198,REICH N O,A-,1
+W19,Undergraduate,CHEM    199,ABU-OMAR M,A,1
+W19,Undergraduate,CHEM    199,AUE D H,A,2
+W19,Undergraduate,CHEM    199,BUTLER A,A,2
+W19,Undergraduate,CHEM    199,CHEN I,A,3
+W19,Undergraduate,CHEM    199,DEVRIES M S,A+,2
+W19,Undergraduate,CHEM    199,DEVRIES M S,A,1
+W19,Undergraduate,CHEM    199,FORD P C,A,2
+W19,Undergraduate,CHEM    199,HAN SONGI,A,2
+W19,Undergraduate,CHEM    199,HAWKER C J,A,1
+W19,Undergraduate,CHEM    199,HAYTON T W,A,1
+W19,Undergraduate,CHEM    199,JAEGER L A,A,4
+W19,Undergraduate,CHEM    199,JAEGER L A,A-,1
+W19,Undergraduate,CHEM    199,KIRTMAN B,A,1
+W19,Undergraduate,CHEM    199,LIPSHUTZ B H,A+,1
+W19,Undergraduate,CHEM    199,MENARD G,A,1
+W19,Undergraduate,CHEM    199,MENARD G,A-,1
+W19,Undergraduate,CHEM    199,PLAXCO K W,A,2
+W19,Undergraduate,CHEM    199,READ DE ALANI,A+,3
+W19,Undergraduate,CHEM    199,REICH N O,A,1
+W19,Undergraduate,CHEM    199,SEPUNARU L,A,1
+W19,Undergraduate,CHEM    199,STUCKY G D,A-,1
+W19,Graduate,CHEM    219,VLCEK V,A+,2
+W19,Graduate,CHEM    219,VLCEK V,A,2
+W19,Graduate,CHEM    219,VLCEK V,A-,1
+W19,Graduate,CHEM    219,VLCEK V,B+,1
+W19,Graduate,CHEM    219,VLCEK V,B,2
+W19,Graduate,CHEM    219,VLCEK V,B-,1
+W19,Graduate,CHEM    222B,METIU H I,A+,1
+W19,Graduate,CHEM    222B,METIU H I,A,2
+W19,Graduate,CHEM    222B,METIU H I,A-,1
+W19,Graduate,CHEM    223,ZHANG LIMING,A,4
+W19,Graduate,CHEM    225,SEPUNARU L,A+,2
+W19,Graduate,CHEM    225,SEPUNARU L,A,3
+W19,Graduate,CHEM    225,SEPUNARU L,A-,3
+W19,Graduate,CHEM    226,AUE D H,A,3
+W19,Graduate,CHEM    226,AUE D H,A-,1
+W19,Graduate,CHEM    227,LITTLE R D,A,5
+W19,Graduate,CHEM    227,LITTLE R D,A-,1
+W19,Graduate,CHEM    227,LITTLE R D,B,1
+W19,Graduate,CHEM    233,PETTUS T R,A+,1
+W19,Graduate,CHEM    233,PETTUS T R,A,1
+W19,Graduate,CHEM    233,PETTUS T R,A-,3
+W19,Graduate,CHEM    233,PETTUS T R,B,2
+W19,Graduate,CHEM    233,PETTUS T R,B-,1
+W19,Graduate,CHEM    233,PETTUS T R,C+,1
+W19,Graduate,CHEM    242B,REICH N O,B,1
+W19,Graduate,CHEM    259,CHEN I,A,3
+W19,Graduate,CHEM    268B,FORD P C,A+,1
+W19,Graduate,CHEM    268B,FORD P C,A,4
+W19,Graduate,CHEM    268B,FORD P C,A-,2
+W19,Graduate,CHEM    271,ABU-OMAR M,A,4
+W19,Graduate,CHEM    271,ABU-OMAR M,A-,1
+W19,Graduate,CHEM    274,STUCKY G D,A,1
+W19,Graduate,CHEM    277,SESHADRI R,A+,2
+W19,Graduate,CHEM    277,SESHADRI R,A,1
+W19,Graduate,CHEM    277,SESHADRI R,B+,2
+W19,Graduate,CHEM    290,NGUYEN T T,A,9
+W19,Graduate,CHEM    291,BURATTO S K,S,18
+W19,Graduate,CHEM    501B,BURATTO S K,S,11
+W19,Graduate,CHEM    501B,LAVERMAN L E,S,6
+W19,Graduate,CHEM    501B,VAN KOPPEN P,S,32
+W19,Graduate,CHEM    502B,GAINER M J,S,20
+W19,Graduate,CHEM    595,ABU-OMAR M,S,3
+W19,Graduate,CHEM    595,BATES C M,S,1
+W19,Graduate,CHEM    595,BAZAN G C,S,1
+W19,Graduate,CHEM    595,BUTLER A,S,5
+W19,Graduate,CHEM    595,CHEN I,F,1
+W19,Graduate,CHEM    595,CHEN I,S,5
+W19,Graduate,CHEM    595,DEVRIES M S,S,42
+W19,Graduate,CHEM    595,FORD P C,S,2
+W19,Graduate,CHEM    595,HAN SONGI,S,2
+W19,Graduate,CHEM    595,NGUYEN T T,S,3
+W19,Graduate,CHEM    595,READ DE ALANI,S,1
+W19,Graduate,CHEM    595,REICH N O,S,2
+W19,Graduate,CHEM    595,SCOTT S L,S,3
+W19,Graduate,CHEM    596,ABU-OMAR M,A,6
+W19,Graduate,CHEM    596,ABU-OMAR M,B+,2
+W19,Graduate,CHEM    596,BATES C M,A,2
+W19,Graduate,CHEM    596,BAZAN G C,A,6
+W19,Graduate,CHEM    596,BOWERS M T,A,5
+W19,Graduate,CHEM    596,BURATTO S K,A,3
+W19,Graduate,CHEM    596,BUTLER A,A,5
+W19,Graduate,CHEM    596,CHABINYC M L,A,1
+W19,Graduate,CHEM    596,CHEN I,A,1
+W19,Graduate,CHEM    596,CHEN I,B+,1
+W19,Graduate,CHEM    596,DEVRIES M S,A+,4
+W19,Graduate,CHEM    596,DEVRIES M S,A,2
+W19,Graduate,CHEM    596,FELDWINN D L,A,1
+W19,Graduate,CHEM    596,FORD P C,A,2
+W19,Graduate,CHEM    596,GORDON M J,A,1
+W19,Graduate,CHEM    596,HAN SONGI,A,4
+W19,Graduate,CHEM    596,HAWKER C J,A,3
+W19,Graduate,CHEM    596,HAYTON T W,A,5
+W19,Graduate,CHEM    596,LIPSHUTZ B H,A,10
+W19,Graduate,CHEM    596,MCFARLAND E W,A+,1
+W19,Graduate,CHEM    596,MENARD G,A+,2
+W19,Graduate,CHEM    596,MENARD G,A,4
+W19,Graduate,CHEM    596,MENARD G,A-,1
+W19,Graduate,CHEM    596,MOSKOVITS M,A,1
+W19,Graduate,CHEM    596,MUKHERJEE ARN,A+,1
+W19,Graduate,CHEM    596,NGUYEN T T,A+,1
+W19,Graduate,CHEM    596,NGUYEN T T,A,7
+W19,Graduate,CHEM    596,PARSONS S M,A,1
+W19,Graduate,CHEM    596,PENNATHUR S,A,1
+W19,Graduate,CHEM    596,PETTUS T R,A,2
+W19,Graduate,CHEM    596,PLAXCO K W,A,1
+W19,Graduate,CHEM    596,READ DE ALANI,A+,12
+W19,Graduate,CHEM    596,REICH N O,A,1
+W19,Graduate,CHEM    596,SCOTT S L,A,1
+W19,Graduate,CHEM    596,SEPUNARU L,A+,1
+W19,Graduate,CHEM    596,SHEA J,A,1
+W19,Graduate,CHEM    596,WAITE J H,A-,1
+W19,Graduate,CHEM    596,ZAKARIAN A S,A+,4
+W19,Graduate,CHEM    596,ZAKARIAN A S,A,6
+W19,Graduate,CHEM    596,ZAKARIAN A S,F,1
+W19,Graduate,CHEM    596,ZHANG LIMING,A,3
+W19,Graduate,CHEM    599,BROWN F L,F,1
+W19,Graduate,CHEM    599,HAN SONGI,S,1
+W19,Graduate,CHEM    599,REICH N O,S,1
+W19,Graduate,CHEM    599,SCOTT S L,S,3
+W19,Graduate,CHEM    599,SESHADRI R,S,1
+W19,Undergraduate,CHEM CS 103,LAVERMAN L E,P,11
+W19,Undergraduate,CHEM CS 110,LAVERMAN L E,P,4
+W19,Undergraduate,CHEM W  109C,KAHN K,A+,2
+W19,Undergraduate,CHEM W  109C,KAHN K,A,2
+W19,Undergraduate,CHEM W  109C,KAHN K,A-,1
+W19,Undergraduate,CHEM W  109C,KAHN K,B+,2
+W19,Undergraduate,CHEM W  109C,KAHN K,B,1
+W19,Undergraduate,CHEM W  109C,KAHN K,B-,2
+W19,Undergraduate,CHEM W  109C,KAHN K,C+,2
+W19,Undergraduate,CHEM W  109C,KAHN K,D+,1
+W19,Undergraduate,CHEM W  109C,KAHN K,F,4

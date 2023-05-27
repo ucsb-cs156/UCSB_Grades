@@ -1,0 +1,107 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F10,Undergraduate,PHYS      3,GURUSWAMY S,A+,3
+F10,Undergraduate,PHYS      3,GURUSWAMY S,A,7
+F10,Undergraduate,PHYS      3,GURUSWAMY S,A-,6
+F10,Undergraduate,PHYS      3,GURUSWAMY S,B+,7
+F10,Undergraduate,PHYS      3,GURUSWAMY S,B,12
+F10,Undergraduate,PHYS      3,GURUSWAMY S,B-,7
+F10,Undergraduate,PHYS      3,GURUSWAMY S,C+,13
+F10,Undergraduate,PHYS      3,GURUSWAMY S,C,4
+F10,Undergraduate,PHYS      3,GURUSWAMY S,C-,5
+F10,Undergraduate,PHYS      3,GURUSWAMY S,D+,5
+F10,Undergraduate,PHYS      3,GURUSWAMY S,D,3
+F10,Undergraduate,PHYS      3,GURUSWAMY S,F,4
+F10,Undergraduate,PHYS      3,STUART D D,A+,13
+F10,Undergraduate,PHYS      3,STUART D D,A,32
+F10,Undergraduate,PHYS      3,STUART D D,A-,15
+F10,Undergraduate,PHYS      3,STUART D D,B+,7
+F10,Undergraduate,PHYS      3,STUART D D,B,44
+F10,Undergraduate,PHYS      3,STUART D D,B-,19
+F10,Undergraduate,PHYS      3,STUART D D,C+,11
+F10,Undergraduate,PHYS      3,STUART D D,C,35
+F10,Undergraduate,PHYS      3,STUART D D,C-,29
+F10,Undergraduate,PHYS      3,STUART D D,D+,18
+F10,Undergraduate,PHYS      3,STUART D D,D,16
+F10,Undergraduate,PHYS      3,STUART D D,D-,22
+F10,Undergraduate,PHYS      3,STUART D D,F,17
+F10,Undergraduate,PHYS      6C,FYGENSON D K,A+,4
+F10,Undergraduate,PHYS      6C,FYGENSON D K,A,6
+F10,Undergraduate,PHYS      6C,FYGENSON D K,A-,17
+F10,Undergraduate,PHYS      6C,FYGENSON D K,B+,25
+F10,Undergraduate,PHYS      6C,FYGENSON D K,B,28
+F10,Undergraduate,PHYS      6C,FYGENSON D K,B-,43
+F10,Undergraduate,PHYS      6C,FYGENSON D K,C+,26
+F10,Undergraduate,PHYS      6C,FYGENSON D K,C,32
+F10,Undergraduate,PHYS      6C,FYGENSON D K,C-,20
+F10,Undergraduate,PHYS      6C,FYGENSON D K,D+,10
+F10,Undergraduate,PHYS      6C,FYGENSON D K,D,1
+F10,Undergraduate,PHYS      6C,FYGENSON D K,F,11
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,A+,2
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,A,3
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,A-,3
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,B+,3
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,B,4
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,B-,3
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,C+,1
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,D+,1
+F10,Undergraduate,PHYS    115C,BOUWMEESTER D,D,1
+F10,Undergraduate,PHYS    123A,BONDERSON P,A,7
+F10,Undergraduate,PHYS    123A,BONDERSON P,B,1
+F10,Undergraduate,PHYS    123A,BONDERSON P,D-,1
+F10,Undergraduate,PHYS    123A,BONDERSON P,F,3
+F10,Undergraduate,PHYS    141,JAYICH A C,A,3
+F10,Undergraduate,PHYS    141,JAYICH A C,A-,2
+F10,Undergraduate,PHYS    141,JAYICH A C,B+,3
+F10,Undergraduate,PHYS    141,JAYICH A C,B,4
+F10,Undergraduate,PHYS    141,JAYICH A C,B-,4
+F10,Undergraduate,PHYS    141,JAYICH A C,C+,4
+F10,Undergraduate,PHYS    141,JAYICH A C,C,4
+F10,Undergraduate,PHYS    141,JAYICH A C,C-,1
+F10,Undergraduate,PHYS    141,JAYICH A C,D+,2
+F10,Undergraduate,PHYS    141,JAYICH A C,F,1
+F10,Undergraduate,PHYS    160A,BOUWMEESTER D,P,5
+F10,Undergraduate,PHYS    160A,SHRAIMAN B I,P,5
+F10,Graduate,PHYS    205,MAROLF D M,A+,6
+F10,Graduate,PHYS    205,MAROLF D M,A,4
+F10,Graduate,PHYS    205,MAROLF D M,A-,6
+F10,Graduate,PHYS    205,MAROLF D M,B+,2
+F10,Graduate,PHYS    205,MAROLF D M,B,2
+F10,Graduate,PHYS    215A,CLELAND A N,A+,2
+F10,Graduate,PHYS    215A,CLELAND A N,A,9
+F10,Graduate,PHYS    215A,CLELAND A N,A-,2
+F10,Graduate,PHYS    215A,CLELAND A N,B+,3
+F10,Graduate,PHYS    215A,CLELAND A N,B,4
+F10,Graduate,PHYS    215A,CLELAND A N,B-,1
+F10,Graduate,PHYS    215A,CLELAND A N,C+,1
+F10,Graduate,PHYS    215A,CLELAND A N,C,1
+F10,Graduate,PHYS    217A,LUDWIG A W,A+,1
+F10,Graduate,PHYS    217A,LUDWIG A W,A,7
+F10,Graduate,PHYS    217A,LUDWIG A W,B+,2
+F10,Graduate,PHYS    221A,GIDDINGS S B,A+,1
+F10,Graduate,PHYS    221A,GIDDINGS S B,A,5
+F10,Graduate,PHYS    221A,GIDDINGS S B,A-,2
+F10,Graduate,PHYS    221A,GIDDINGS S B,B+,2
+F10,Graduate,PHYS    221A,GIDDINGS S B,B,2
+F10,Graduate,PHYS    223A,SHERWIN M S,A+,1
+F10,Graduate,PHYS    223A,SHERWIN M S,A,14
+F10,Graduate,PHYS    223A,SHERWIN M S,A-,2
+F10,Graduate,PHYS    223A,SHERWIN M S,B+,1
+F10,Graduate,PHYS    225A,CAMPAGNARI C,A,4
+F10,Graduate,PHYS    225A,CAMPAGNARI C,A-,1
+F10,Graduate,PHYS    225A,CAMPAGNARI C,F,1
+F10,Graduate,PHYS    231A,ZEE A,A+,5
+F10,Graduate,PHYS    231A,ZEE A,A,6
+F10,Graduate,PHYS    231A,ZEE A,A-,2
+F10,Graduate,PHYS    231A,ZEE A,B+,2
+F10,Graduate,PHYS    231A,ZEE A,B,2
+F10,Graduate,PHYS    260A,BOUWMEESTER D,S,23
+F10,Graduate,PHYS    260A,SHRAIMAN B I,S,23
+F10,Graduate,PHYS    260C,HOROWITZ G,S,5
+F10,Graduate,PHYS    260H,OH S P,S,6
+F10,Graduate,PHYS    500,GELLER R M,S,31
+F10,Graduate,PHYS    500,GELLER R M,U,1
+F10,Graduate,PHYS    596,AWSCHALOM D D,S,11
+F10,Graduate,PHYS    596,BOUWMEESTER D,S,6
+F10,Graduate,PHYS    596,MARTINIS J,S,8
+F10,Undergraduate,PHYS CS  31,FOLSOM D P,P,18
+F10,Undergraduate,PHYS CS  31,GURUSWAMY S,P,18

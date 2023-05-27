@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S13,Undergraduate,CNCSP   101,DUFF R A,A+,11
+S13,Undergraduate,CNCSP   101,DUFF R A,A,23
+S13,Undergraduate,CNCSP   101,DUFF R A,A-,14
+S13,Undergraduate,CNCSP   101,DUFF R A,B,8
+S13,Undergraduate,CNCSP   101,DUFF R A,F,1
+S13,Undergraduate,CNCSP   101,NJUGUNA B,A+,4
+S13,Undergraduate,CNCSP   101,NJUGUNA B,A,8
+S13,Undergraduate,CNCSP   101,NJUGUNA B,A-,10
+S13,Undergraduate,CNCSP   101,NJUGUNA B,B,4
+S13,Undergraduate,CNCSP   101,NJUGUNA B,B-,1
+S13,Undergraduate,CNCSP   101,NJUGUNA B,C+,1
+S13,Undergraduate,CNCSP   101,NJUGUNA B,C,1
+S13,Undergraduate,CNCSP   101,RUDERMAN M A,A+,5
+S13,Undergraduate,CNCSP   101,RUDERMAN M A,A,10
+S13,Undergraduate,CNCSP   101,RUDERMAN M A,A-,6
+S13,Undergraduate,CNCSP   101,RUDERMAN M A,B,7
+S13,Undergraduate,CNCSP   101,RUDERMAN M A,F,1
+S13,Undergraduate,CNCSP   102,QUIRK M P,A+,5
+S13,Undergraduate,CNCSP   102,QUIRK M P,A,16
+S13,Undergraduate,CNCSP   102,QUIRK M P,A-,24
+S13,Undergraduate,CNCSP   102,QUIRK M P,B+,11
+S13,Undergraduate,CNCSP   102,QUIRK M P,B,9
+S13,Undergraduate,CNCSP   102,QUIRK M P,B-,4
+S13,Undergraduate,CNCSP   102,QUIRK M P,C+,1
+S13,Undergraduate,CNCSP   102,QUIRK M P,C,1
+S13,Undergraduate,CNCSP   102,QUIRK M P,C-,2
+S13,Undergraduate,CNCSP   102,QUIRK M P,D,1
+S13,Undergraduate,CNCSP   102,QUIRK M P,F,2
+S13,Undergraduate,CNCSP   110,QUIRK M P,P,84
+S13,Undergraduate,CNCSP   114,BROWN L G,A,10
+S13,Undergraduate,CNCSP   114,BROWN L G,A-,3
+S13,Undergraduate,CNCSP   114,BROWN L G,B+,6
+S13,Undergraduate,CNCSP   114,BROWN L G,B-,2
+S13,Undergraduate,CNCSP   114,BROWN L G,C+,4
+S13,Undergraduate,CNCSP   114,BROWN L G,C-,2
+S13,Undergraduate,CNCSP   114,BROWN L G,F,1
+S13,Undergraduate,CNCSP   114,HARKNESS A R,A,8
+S13,Undergraduate,CNCSP   114,HARKNESS A R,A-,10
+S13,Undergraduate,CNCSP   114,HARKNESS A R,B+,3
+S13,Undergraduate,CNCSP   114,HARKNESS A R,B,3
+S13,Undergraduate,CNCSP   114,HARKNESS A R,B-,2
+S13,Undergraduate,CNCSP   114,HARKNESS A R,C+,1
+S13,Undergraduate,CNCSP   114,HARKNESS A R,C-,1
+S13,Undergraduate,CNCSP   199RA,COSDEN M A,A+,1
+S13,Undergraduate,CNCSP   199RA,COSDEN M A,A,5
+S13,Undergraduate,CNCSP   199RA,DOWDY E T,A,11
+S13,Undergraduate,CNCSP   199RA,JIMERSON S R,A,24
+S13,Undergraduate,CNCSP   199RA,JIMERSON S R,A-,1
+S13,Undergraduate,CNCSP   199RA,KIA-KEATING M,A,8
+S13,Undergraduate,CNCSP   199RA,KOEGEL R L,A+,1
+S13,Undergraduate,CNCSP   199RA,KOEGEL R L,A,4
+S13,Undergraduate,CNCSP   199RA,VERNON T W,A,7
+S13,Graduate,CNCSP   209A,CONOLEY C W,S,5
+S13,Graduate,CNCSP   209A,COSDEN M A,S,7
+S13,Graduate,CNCSP   209A,DOWDY E T,S,5
+S13,Graduate,CNCSP   209A,ISRAEL T,S,5
+S13,Graduate,CNCSP   209A,JIMERSON S R,S,9
+S13,Graduate,CNCSP   209A,KIA-KEATING M,S,6
+S13,Graduate,CNCSP   209A,KOEGEL R L,S,8
+S13,Graduate,CNCSP   209A,SMITH S R,S,6
+S13,Graduate,CNCSP   214,FURLONG M J,A,14
+S13,Graduate,CNCSP   251,SMITH S R,A,8
+S13,Graduate,CNCSP   256,FEDDERS A,A+,4
+S13,Graduate,CNCSP   256,FEDDERS A,A,7
+S13,Graduate,CNCSP   256,KOEGEL R L,A+,1
+S13,Graduate,CNCSP   256,KOEGEL R L,A,6
+S13,Graduate,CNCSP   260C,ZETZER H A,S,13
+S13,Graduate,CNCSP   261A,BROWN M T,A,8
+S13,Graduate,CNCSP   262B,DOWDY E T,A,6
+S13,Graduate,CNCSP   262C,VERNON T W,A+,3
+S13,Graduate,CNCSP   262C,VERNON T W,A,10
+S13,Graduate,CNCSP   262C,VERNON T W,B+,1
+S13,Graduate,CNCSP   268A,MORGAN M L,A,11
+S13,Graduate,CNCSP   270,CONOLEY C W,S,7
+S13,Graduate,CNCSP   270,DOWDY E T,S,6
+S13,Graduate,CNCSP   270,KIA-KEATING M,S,6
+S13,Graduate,CNCSP   271B,LANDE E S,S,15
+S13,Graduate,CNCSP   272,ZETZER H A,S,5
+S13,Graduate,CNCSP   273,KOEGEL R L,S,7
+S13,Graduate,CNCSP   274C,LAURIE E A,A+,2
+S13,Graduate,CNCSP   274C,LAURIE E A,A,2
+S13,Graduate,CNCSP   274C,LAURIE E A,A-,2
+S13,Graduate,CNCSP   274C,LAURIE E A,B+,1
+S13,Graduate,CNCSP   274C,LAURIE E A,B,1
+S13,Graduate,CNCSP   274F,SHARKEY J D,S,6
+S13,Graduate,CNCSP   275,SHARKEY J D,S,9
+S13,Graduate,CNCSP   276A,ZETZER H A,S,6
+S13,Graduate,CNCSP   279C,SMITH S R,S,9
+S13,Graduate,CNCSP   292,FURLONG M J,A,18

@@ -1,0 +1,121 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F20,Undergraduate,GLOBL     1,MOAK D,A+,12
+F20,Undergraduate,GLOBL     1,MOAK D,A,124
+F20,Undergraduate,GLOBL     1,MOAK D,A-,64
+F20,Undergraduate,GLOBL     1,MOAK D,B+,37
+F20,Undergraduate,GLOBL     1,MOAK D,B,36
+F20,Undergraduate,GLOBL     1,MOAK D,B-,18
+F20,Undergraduate,GLOBL     1,MOAK D,C+,5
+F20,Undergraduate,GLOBL     1,MOAK D,C,8
+F20,Undergraduate,GLOBL     1,MOAK D,C-,3
+F20,Undergraduate,GLOBL     1,MOAK D,D+,2
+F20,Undergraduate,GLOBL     1,MOAK D,D,1
+F20,Undergraduate,GLOBL     1,MOAK D,D-,1
+F20,Undergraduate,GLOBL     1,MOAK D,F,7
+F20,Undergraduate,GLOBL     2,THANDI S,A+,14
+F20,Undergraduate,GLOBL     2,THANDI S,A,27
+F20,Undergraduate,GLOBL     2,THANDI S,A-,37
+F20,Undergraduate,GLOBL     2,THANDI S,B+,26
+F20,Undergraduate,GLOBL     2,THANDI S,B,41
+F20,Undergraduate,GLOBL     2,THANDI S,B-,13
+F20,Undergraduate,GLOBL     2,THANDI S,C+,18
+F20,Undergraduate,GLOBL     2,THANDI S,C,13
+F20,Undergraduate,GLOBL     2,THANDI S,C-,5
+F20,Undergraduate,GLOBL     2,THANDI S,D+,2
+F20,Undergraduate,GLOBL     2,THANDI S,D,5
+F20,Undergraduate,GLOBL     2,THANDI S,D-,4
+F20,Undergraduate,GLOBL     2,THANDI S,F,9
+F20,Undergraduate,GLOBL   104,THANDI S,A+,3
+F20,Undergraduate,GLOBL   104,THANDI S,A,2
+F20,Undergraduate,GLOBL   104,THANDI S,A-,7
+F20,Undergraduate,GLOBL   104,THANDI S,B+,14
+F20,Undergraduate,GLOBL   104,THANDI S,B,5
+F20,Undergraduate,GLOBL   104,THANDI S,B-,1
+F20,Undergraduate,GLOBL   104,THANDI S,C,1
+F20,Undergraduate,GLOBL   104,THANDI S,F,2
+F20,Undergraduate,GLOBL   110,MALHOTRA A,A+,16
+F20,Undergraduate,GLOBL   110,MALHOTRA A,A,33
+F20,Undergraduate,GLOBL   110,MALHOTRA A,A-,25
+F20,Undergraduate,GLOBL   110,MALHOTRA A,B+,15
+F20,Undergraduate,GLOBL   110,MALHOTRA A,B,12
+F20,Undergraduate,GLOBL   110,MALHOTRA A,B-,12
+F20,Undergraduate,GLOBL   110,MALHOTRA A,C+,2
+F20,Undergraduate,GLOBL   110,MALHOTRA A,C,3
+F20,Undergraduate,GLOBL   110,MALHOTRA A,C-,2
+F20,Undergraduate,GLOBL   110,MALHOTRA A,D-,1
+F20,Undergraduate,GLOBL   110,MALHOTRA A,F,1
+F20,Undergraduate,GLOBL   120,BRYSK A,A,109
+F20,Undergraduate,GLOBL   120,BRYSK A,A-,17
+F20,Undergraduate,GLOBL   120,BRYSK A,B+,12
+F20,Undergraduate,GLOBL   120,BRYSK A,B,19
+F20,Undergraduate,GLOBL   120,BRYSK A,B-,3
+F20,Undergraduate,GLOBL   120,BRYSK A,C+,1
+F20,Undergraduate,GLOBL   120,BRYSK A,C,3
+F20,Undergraduate,GLOBL   120,BRYSK A,C-,3
+F20,Undergraduate,GLOBL   120,BRYSK A,D+,1
+F20,Undergraduate,GLOBL   120,BRYSK A,D,2
+F20,Undergraduate,GLOBL   120,BRYSK A,F,3
+F20,Undergraduate,GLOBL   124,THALER K M,A+,5
+F20,Undergraduate,GLOBL   124,THALER K M,A,11
+F20,Undergraduate,GLOBL   124,THALER K M,A-,12
+F20,Undergraduate,GLOBL   124,THALER K M,B+,5
+F20,Undergraduate,GLOBL   124,THALER K M,B-,1
+F20,Undergraduate,GLOBL   130,CHUA C S,A+,9
+F20,Undergraduate,GLOBL   130,CHUA C S,A,40
+F20,Undergraduate,GLOBL   130,CHUA C S,A-,23
+F20,Undergraduate,GLOBL   130,CHUA C S,B+,15
+F20,Undergraduate,GLOBL   130,CHUA C S,B,15
+F20,Undergraduate,GLOBL   130,CHUA C S,B-,2
+F20,Undergraduate,GLOBL   130,CHUA C S,C+,4
+F20,Undergraduate,GLOBL   130,CHUA C S,C,2
+F20,Undergraduate,GLOBL   130,CHUA C S,D+,1
+F20,Undergraduate,GLOBL   130,CHUA C S,D,1
+F20,Undergraduate,GLOBL   130,CHUA C S,D-,2
+F20,Undergraduate,GLOBL   130,CHUA C S,F,5
+F20,Undergraduate,GLOBL   136,MEHTA A S,A+,5
+F20,Undergraduate,GLOBL   136,MEHTA A S,A,6
+F20,Undergraduate,GLOBL   136,MEHTA A S,A-,7
+F20,Undergraduate,GLOBL   136,MEHTA A S,B+,2
+F20,Undergraduate,GLOBL   136,MEHTA A S,F,1
+F20,Undergraduate,GLOBL   172,CLEMENCON R,A+,3
+F20,Undergraduate,GLOBL   172,CLEMENCON R,A,23
+F20,Undergraduate,GLOBL   172,CLEMENCON R,A-,10
+F20,Undergraduate,GLOBL   172,CLEMENCON R,B+,7
+F20,Undergraduate,GLOBL   172,CLEMENCON R,B,16
+F20,Undergraduate,GLOBL   172,CLEMENCON R,B-,10
+F20,Undergraduate,GLOBL   172,CLEMENCON R,C+,4
+F20,Undergraduate,GLOBL   172,CLEMENCON R,C,2
+F20,Undergraduate,GLOBL   172,CLEMENCON R,D+,1
+F20,Undergraduate,GLOBL   172,CLEMENCON R,D,2
+F20,Undergraduate,GLOBL   172,CLEMENCON R,F,4
+F20,Undergraduate,GLOBL   174,CHEN J,A,4
+F20,Undergraduate,GLOBL   174,CHEN J,A-,12
+F20,Undergraduate,GLOBL   174,CHEN J,B+,9
+F20,Undergraduate,GLOBL   174,CHEN J,B,18
+F20,Undergraduate,GLOBL   174,CHEN J,B-,5
+F20,Undergraduate,GLOBL   174,CHEN J,C+,8
+F20,Undergraduate,GLOBL   174,CHEN J,C,3
+F20,Undergraduate,GLOBL   174,CHEN J,C-,2
+F20,Undergraduate,GLOBL   174,CHEN J,D+,1
+F20,Undergraduate,GLOBL   174,CHEN J,D,1
+F20,Undergraduate,GLOBL   174,CHEN J,F,12
+F20,Undergraduate,GLOBL   197,CHUA C S,A,6
+F20,Undergraduate,GLOBL   197,CHUA C S,A-,5
+F20,Undergraduate,GLOBL   197,CHUA C S,B+,2
+F20,Undergraduate,GLOBL   197,CHUA C S,B,4
+F20,Undergraduate,GLOBL   197,CHUA C S,B-,6
+F20,Undergraduate,GLOBL   197,CHUA C S,C+,1
+F20,Undergraduate,GLOBL   197,CHUA C S,D,1
+F20,Undergraduate,GLOBL   197,JUERGENSMEYER,A,10
+F20,Graduate,GLOBL   220,NEDERVEEN PIE,A,1
+F20,Graduate,GLOBL   220,NEDERVEEN PIE,B+,4
+F20,Graduate,GLOBL   221,CHEN J,A,2
+F20,Graduate,GLOBL   221,CHEN J,A-,3
+F20,Graduate,GLOBL   221,CHEN J,B+,1
+F20,Graduate,GLOBL   221,CHEN J,F,1
+F20,Graduate,GLOBL   224,THALER K M,A+,1
+F20,Graduate,GLOBL   224,THALER K M,A,4
+F20,Graduate,GLOBL   292A,JACOBS R E,B+,2
+F20,Graduate,GLOBL   292A,JACOBS R E,B,2
+F20,Graduate,GLOBL   292A,JACOBS R E,S,1
+F20,Graduate,GLOBL   501,BRYSK A,S,5

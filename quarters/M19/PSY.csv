@@ -1,0 +1,187 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M19,Undergraduate,PSY       1,IHM E D,A+,13
+M19,Undergraduate,PSY       1,IHM E D,A,10
+M19,Undergraduate,PSY       1,IHM E D,A-,6
+M19,Undergraduate,PSY       1,IHM E D,B+,6
+M19,Undergraduate,PSY       1,IHM E D,B,12
+M19,Undergraduate,PSY       1,IHM E D,B-,5
+M19,Undergraduate,PSY       1,IHM E D,C+,3
+M19,Undergraduate,PSY       1,IHM E D,C,10
+M19,Undergraduate,PSY       1,IHM E D,C-,1
+M19,Undergraduate,PSY       1,IHM E D,D+,1
+M19,Undergraduate,PSY       1,IHM E D,D,5
+M19,Undergraduate,PSY       1,IHM E D,D-,1
+M19,Undergraduate,PSY       1,IHM E D,F,4
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,A+,1
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,A,29
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,A-,20
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,B+,20
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,B,13
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,B-,13
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,C+,1
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,C,7
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,C-,4
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,D,2
+M19,Undergraduate,PSY      10A,MERMELSTEIN S,F,5
+M19,Undergraduate,PSY      10B,MUNASINGHE A,A,49
+M19,Undergraduate,PSY      10B,MUNASINGHE A,A-,14
+M19,Undergraduate,PSY      10B,MUNASINGHE A,B+,18
+M19,Undergraduate,PSY      10B,MUNASINGHE A,B,18
+M19,Undergraduate,PSY      10B,MUNASINGHE A,B-,9
+M19,Undergraduate,PSY      10B,MUNASINGHE A,C+,5
+M19,Undergraduate,PSY      10B,MUNASINGHE A,C,4
+M19,Undergraduate,PSY      10B,MUNASINGHE A,D-,2
+M19,Undergraduate,PSY     102,HAI J,A,33
+M19,Undergraduate,PSY     102,HAI J,B,16
+M19,Undergraduate,PSY     102,HAI J,C,4
+M19,Undergraduate,PSY     102,HAI J,D,1
+M19,Undergraduate,PSY     102,SMALL P A,A,18
+M19,Undergraduate,PSY     102,SMALL P A,A-,5
+M19,Undergraduate,PSY     102,SMALL P A,B+,12
+M19,Undergraduate,PSY     102,SMALL P A,B,10
+M19,Undergraduate,PSY     102,SMALL P A,B-,3
+M19,Undergraduate,PSY     102,SMALL P A,C+,5
+M19,Undergraduate,PSY     102,SMALL P A,C,4
+M19,Undergraduate,PSY     102,SMALL P A,C-,2
+M19,Undergraduate,PSY     102,SMALL P A,D,1
+M19,Undergraduate,PSY     102,SMALL P A,F,4
+M19,Undergraduate,PSY     105,HOROWITZ E J,A+,5
+M19,Undergraduate,PSY     105,HOROWITZ E J,A,3
+M19,Undergraduate,PSY     105,HOROWITZ E J,A-,6
+M19,Undergraduate,PSY     105,HOROWITZ E J,B+,10
+M19,Undergraduate,PSY     105,HOROWITZ E J,B,9
+M19,Undergraduate,PSY     105,HOROWITZ E J,B-,5
+M19,Undergraduate,PSY     105,HOROWITZ E J,C+,3
+M19,Undergraduate,PSY     105,HOROWITZ E J,C,3
+M19,Undergraduate,PSY     105,HOROWITZ E J,C-,7
+M19,Undergraduate,PSY     105,HOROWITZ E J,D,1
+M19,Undergraduate,PSY     105,HOROWITZ E J,F,2
+M19,Undergraduate,PSY     105,MERMELSTEIN S,A+,2
+M19,Undergraduate,PSY     105,MERMELSTEIN S,A,21
+M19,Undergraduate,PSY     105,MERMELSTEIN S,A-,10
+M19,Undergraduate,PSY     105,MERMELSTEIN S,B+,11
+M19,Undergraduate,PSY     105,MERMELSTEIN S,B,12
+M19,Undergraduate,PSY     105,MERMELSTEIN S,B-,6
+M19,Undergraduate,PSY     105,MERMELSTEIN S,C+,1
+M19,Undergraduate,PSY     105,MERMELSTEIN S,C-,2
+M19,Undergraduate,PSY     105,MERMELSTEIN S,D,1
+M19,Undergraduate,PSY     106,AYOUB G S,A+,5
+M19,Undergraduate,PSY     106,AYOUB G S,A,13
+M19,Undergraduate,PSY     106,AYOUB G S,A-,7
+M19,Undergraduate,PSY     106,AYOUB G S,B+,12
+M19,Undergraduate,PSY     106,AYOUB G S,B,6
+M19,Undergraduate,PSY     106,AYOUB G S,B-,5
+M19,Undergraduate,PSY     106,AYOUB G S,C+,4
+M19,Undergraduate,PSY     106,AYOUB G S,C,5
+M19,Undergraduate,PSY     106,AYOUB G S,C-,1
+M19,Undergraduate,PSY     106,AYOUB G S,D+,3
+M19,Undergraduate,PSY     106,AYOUB G S,D,1
+M19,Undergraduate,PSY     106,AYOUB G S,D-,1
+M19,Undergraduate,PSY     106,LAYHER E A,A+,3
+M19,Undergraduate,PSY     106,LAYHER E A,A,14
+M19,Undergraduate,PSY     106,LAYHER E A,A-,4
+M19,Undergraduate,PSY     106,LAYHER E A,B+,12
+M19,Undergraduate,PSY     106,LAYHER E A,B,13
+M19,Undergraduate,PSY     106,LAYHER E A,B-,3
+M19,Undergraduate,PSY     106,LAYHER E A,C+,4
+M19,Undergraduate,PSY     106,LAYHER E A,C,10
+M19,Undergraduate,PSY     106,LAYHER E A,C-,1
+M19,Undergraduate,PSY     106,LAYHER E A,D+,2
+M19,Undergraduate,PSY     106,LAYHER E A,D,5
+M19,Undergraduate,PSY     106,LAYHER E A,D-,1
+M19,Undergraduate,PSY     106,LAYHER E A,F,1
+M19,Undergraduate,PSY     108,HAI J,A,19
+M19,Undergraduate,PSY     108,HAI J,B,7
+M19,Undergraduate,PSY     108,HAI J,C,2
+M19,Undergraduate,PSY     108,HAI J,F,1
+M19,Undergraduate,PSY     108,TAYLOR C M,A+,4
+M19,Undergraduate,PSY     108,TAYLOR C M,A,7
+M19,Undergraduate,PSY     108,TAYLOR C M,A-,4
+M19,Undergraduate,PSY     108,TAYLOR C M,B+,7
+M19,Undergraduate,PSY     108,TAYLOR C M,B,2
+M19,Undergraduate,PSY     108,TAYLOR C M,B-,8
+M19,Undergraduate,PSY     108,TAYLOR C M,C+,5
+M19,Undergraduate,PSY     108,TAYLOR C M,C,2
+M19,Undergraduate,PSY     108,TAYLOR C M,C-,4
+M19,Undergraduate,PSY     108,TAYLOR C M,D,1
+M19,Undergraduate,PSY     108,TAYLOR C M,F,3
+M19,Undergraduate,PSY     111,SCUDDER S L,A+,5
+M19,Undergraduate,PSY     111,SCUDDER S L,A,25
+M19,Undergraduate,PSY     111,SCUDDER S L,A-,2
+M19,Undergraduate,PSY     111,SCUDDER S L,B,1
+M19,Undergraduate,PSY     111,SCUDDER S L,B-,1
+M19,Undergraduate,PSY     120L,LA JOY J R,A+,3
+M19,Undergraduate,PSY     120L,LA JOY J R,A,2
+M19,Undergraduate,PSY     120L,LA JOY J R,A-,8
+M19,Undergraduate,PSY     120L,LA JOY J R,B+,4
+M19,Undergraduate,PSY     120L,LA JOY J R,B,4
+M19,Undergraduate,PSY     120L,LA JOY J R,B-,1
+M19,Undergraduate,PSY     123,AYOUB G S,A+,4
+M19,Undergraduate,PSY     123,AYOUB G S,A,8
+M19,Undergraduate,PSY     123,AYOUB G S,A-,8
+M19,Undergraduate,PSY     123,AYOUB G S,B+,3
+M19,Undergraduate,PSY     123,AYOUB G S,B,8
+M19,Undergraduate,PSY     123,AYOUB G S,B-,3
+M19,Undergraduate,PSY     123,AYOUB G S,C,1
+M19,Undergraduate,PSY     123,AYOUB G S,C-,4
+M19,Undergraduate,PSY     123,AYOUB G S,F,1
+M19,Undergraduate,PSY     145,GERMAN T C M,A+,6
+M19,Undergraduate,PSY     145,GERMAN T C M,A,4
+M19,Undergraduate,PSY     145,GERMAN T C M,A-,4
+M19,Undergraduate,PSY     145,GERMAN T C M,B+,6
+M19,Undergraduate,PSY     145,GERMAN T C M,B,13
+M19,Undergraduate,PSY     145,GERMAN T C M,B-,1
+M19,Undergraduate,PSY     145,GERMAN T C M,C+,1
+M19,Undergraduate,PSY     145,GERMAN T C M,C,1
+M19,Undergraduate,PSY     145,GERMAN T C M,F,2
+M19,Undergraduate,PSY     146,ARAI S,A,35
+M19,Undergraduate,PSY     146,ARAI S,B,10
+M19,Undergraduate,PSY     146,ARAI S,C,9
+M19,Undergraduate,PSY     146,ARAI S,D,4
+M19,Undergraduate,PSY     148,KLEIN S B,A,5
+M19,Undergraduate,PSY     148,KLEIN S B,A-,6
+M19,Undergraduate,PSY     148,KLEIN S B,B+,7
+M19,Undergraduate,PSY     148,KLEIN S B,B,7
+M19,Undergraduate,PSY     148,KLEIN S B,B-,6
+M19,Undergraduate,PSY     148,KLEIN S B,C+,1
+M19,Undergraduate,PSY     148,KLEIN S B,C,2
+M19,Undergraduate,PSY     148,KLEIN S B,D+,1
+M19,Undergraduate,PSY     148,KLEIN S B,D-,1
+M19,Undergraduate,PSY     149,LA JOY J R,A+,1
+M19,Undergraduate,PSY     149,LA JOY J R,A,19
+M19,Undergraduate,PSY     149,LA JOY J R,A-,9
+M19,Undergraduate,PSY     149,LA JOY J R,B+,13
+M19,Undergraduate,PSY     149,LA JOY J R,B,6
+M19,Undergraduate,PSY     149,LA JOY J R,B-,2
+M19,Undergraduate,PSY     149,LA JOY J R,C+,4
+M19,Undergraduate,PSY     149,LA JOY J R,C,2
+M19,Undergraduate,PSY     149,LA JOY J R,D+,1
+M19,Undergraduate,PSY     149,LA JOY J R,F,1
+M19,Undergraduate,PSY     152,HONG Y,A+,3
+M19,Undergraduate,PSY     152,HONG Y,A,4
+M19,Undergraduate,PSY     152,HONG Y,A-,2
+M19,Undergraduate,PSY     152,HONG Y,B+,3
+M19,Undergraduate,PSY     152,HONG Y,B,4
+M19,Undergraduate,PSY     152,HONG Y,B-,2
+M19,Undergraduate,PSY     152,HONG Y,C+,4
+M19,Undergraduate,PSY     152,HONG Y,C,2
+M19,Undergraduate,PSY     152,HONG Y,C-,1
+M19,Undergraduate,PSY     152,HONG Y,D+,2
+M19,Undergraduate,PSY     152,HONG Y,D-,1
+M19,Undergraduate,PSY     152,HONG Y,F,1
+M19,Undergraduate,PSY     155,QUILLIEN T E,A,5
+M19,Undergraduate,PSY     155,QUILLIEN T E,A-,2
+M19,Undergraduate,PSY     155,QUILLIEN T E,B+,2
+M19,Undergraduate,PSY     155,QUILLIEN T E,B,3
+M19,Undergraduate,PSY     155,QUILLIEN T E,B-,3
+M19,Undergraduate,PSY     155,QUILLIEN T E,C+,1
+M19,Undergraduate,PSY     155,QUILLIEN T E,C,1
+M19,Undergraduate,PSY     155,QUILLIEN T E,F,1
+M19,Undergraduate,PSY     160NA,ALBADA N A,A,7
+M19,Undergraduate,PSY     160NA,ALBADA N A,A-,6
+M19,Undergraduate,PSY     160NA,ALBADA N A,B+,4
+M19,Undergraduate,PSY     160NA,ALBADA N A,B,3
+M19,Undergraduate,PSY     160NA,ALBADA N A,C+,2
+M19,Undergraduate,PSY     160NA,ALBADA N A,C,1
+M19,Undergraduate,PSY     160NA,ALBADA N A,C-,1
+M19,Undergraduate,PSY     160NA,ALBADA N A,F,1

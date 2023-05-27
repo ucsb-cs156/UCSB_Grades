@@ -1,0 +1,102 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W13,Undergraduate,GLOBL     1,GUNN G B,A+,7
+W13,Undergraduate,GLOBL     1,GUNN G B,A,51
+W13,Undergraduate,GLOBL     1,GUNN G B,A-,75
+W13,Undergraduate,GLOBL     1,GUNN G B,B+,35
+W13,Undergraduate,GLOBL     1,GUNN G B,B,54
+W13,Undergraduate,GLOBL     1,GUNN G B,B-,16
+W13,Undergraduate,GLOBL     1,GUNN G B,C+,8
+W13,Undergraduate,GLOBL     1,GUNN G B,C,12
+W13,Undergraduate,GLOBL     1,GUNN G B,C-,2
+W13,Undergraduate,GLOBL     1,GUNN G B,D,1
+W13,Undergraduate,GLOBL     1,GUNN G B,F,4
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,A+,6
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,A,8
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,A-,23
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,B+,24
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,B,26
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,B-,26
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,C+,10
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,C,7
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,C-,2
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,D,1
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,D-,2
+W13,Undergraduate,GLOBL     2,NEDERVEEN PIE,F,7
+W13,Undergraduate,GLOBL   104,MANN G S,A+,12
+W13,Undergraduate,GLOBL   104,MANN G S,A,29
+W13,Undergraduate,GLOBL   104,MANN G S,A-,38
+W13,Undergraduate,GLOBL   104,MANN G S,B+,23
+W13,Undergraduate,GLOBL   104,MANN G S,B,19
+W13,Undergraduate,GLOBL   104,MANN G S,B-,11
+W13,Undergraduate,GLOBL   104,MANN G S,C+,5
+W13,Undergraduate,GLOBL   104,MANN G S,C,6
+W13,Undergraduate,GLOBL   104,MANN G S,F,2
+W13,Undergraduate,GLOBL   120,BRYSK A,A+,12
+W13,Undergraduate,GLOBL   120,BRYSK A,A,91
+W13,Undergraduate,GLOBL   120,BRYSK A,A-,5
+W13,Undergraduate,GLOBL   120,BRYSK A,B+,9
+W13,Undergraduate,GLOBL   120,BRYSK A,B,21
+W13,Undergraduate,GLOBL   120,BRYSK A,B-,1
+W13,Undergraduate,GLOBL   120,BRYSK A,C,1
+W13,Undergraduate,GLOBL   120,BRYSK A,F,1
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,A+,12
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,A,47
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,A-,25
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,B+,27
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,B,16
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,B-,12
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,C+,1
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,C,2
+W13,Undergraduate,GLOBL   124,JUERGENSMEYER,C-,1
+W13,Undergraduate,GLOBL   130,MEHTA A S,A+,15
+W13,Undergraduate,GLOBL   130,MEHTA A S,A,17
+W13,Undergraduate,GLOBL   130,MEHTA A S,A-,16
+W13,Undergraduate,GLOBL   130,MEHTA A S,B+,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,B,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,B-,17
+W13,Undergraduate,GLOBL   130,MEHTA A S,C+,11
+W13,Undergraduate,GLOBL   130,MEHTA A S,C,16
+W13,Undergraduate,GLOBL   130,MEHTA A S,C-,9
+W13,Undergraduate,GLOBL   130,MEHTA A S,D,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,F,1
+W13,Undergraduate,GLOBL   155,MCCARTY P C,A+,9
+W13,Undergraduate,GLOBL   155,MCCARTY P C,A,42
+W13,Undergraduate,GLOBL   155,MCCARTY P C,A-,4
+W13,Undergraduate,GLOBL   155,MCCARTY P C,B+,4
+W13,Undergraduate,GLOBL   155,MCCARTY P C,B,8
+W13,Undergraduate,GLOBL   155,MCCARTY P C,B-,2
+W13,Undergraduate,GLOBL   155,MCCARTY P C,F,1
+W13,Undergraduate,GLOBL   163,LEZRA E M,A+,1
+W13,Undergraduate,GLOBL   163,LEZRA E M,A,4
+W13,Undergraduate,GLOBL   163,LEZRA E M,A-,3
+W13,Undergraduate,GLOBL   163,LEZRA E M,B+,6
+W13,Undergraduate,GLOBL   163,LEZRA E M,B,6
+W13,Undergraduate,GLOBL   163,LEZRA E M,B-,3
+W13,Undergraduate,GLOBL   163,LEZRA E M,C,2
+W13,Undergraduate,GLOBL   163,LEZRA E M,C-,1
+W13,Undergraduate,GLOBL   163,LEZRA E M,F,1
+W13,Undergraduate,GLOBL   165,LEZRA E M,A+,2
+W13,Undergraduate,GLOBL   165,LEZRA E M,A,7
+W13,Undergraduate,GLOBL   165,LEZRA E M,A-,7
+W13,Undergraduate,GLOBL   165,LEZRA E M,B,3
+W13,Undergraduate,GLOBL   165,LEZRA E M,B-,1
+W13,Undergraduate,GLOBL   165,LEZRA E M,C,1
+W13,Undergraduate,GLOBL   165,LEZRA E M,C-,1
+W13,Undergraduate,GLOBL   171,ELVER H,A+,1
+W13,Undergraduate,GLOBL   171,ELVER H,A,5
+W13,Undergraduate,GLOBL   171,ELVER H,A-,1
+W13,Undergraduate,GLOBL   171,ELVER H,B,4
+W13,Undergraduate,GLOBL   171,ELVER H,B-,2
+W13,Undergraduate,GLOBL   194,ORFALEA P J,A,27
+W13,Undergraduate,GLOBL   199,DARIAN-SMITH,A,6
+W13,Graduate,GLOBL   223,FALK R A,A+,3
+W13,Graduate,GLOBL   223,FALK R A,A,7
+W13,Graduate,GLOBL   223,FALK R A,A-,3
+W13,Graduate,GLOBL   224,MCCARTY P C,A,9
+W13,Graduate,GLOBL   234,MEHTA A S,A+,3
+W13,Graduate,GLOBL   234,MEHTA A S,A,1
+W13,Graduate,GLOBL   234,MEHTA A S,A-,4
+W13,Graduate,GLOBL   234,MEHTA A S,B+,1
+W13,Graduate,GLOBL   271,ELVER H,A+,2
+W13,Graduate,GLOBL   271,ELVER H,A,1
+W13,Graduate,GLOBL   271,ELVER H,A-,2

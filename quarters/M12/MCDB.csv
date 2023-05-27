@@ -1,0 +1,123 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,A+,2
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,A,11
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,A-,5
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,B+,7
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,B,19
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,B-,17
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,C+,28
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,C,41
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,C-,31
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,D,22
+M12,Undergraduate,MCDB      1A,LI ZHIQUN,F,13
+M12,Undergraduate,MCDB      1AL,POOLE S J,A,8
+M12,Undergraduate,MCDB      1AL,POOLE S J,A-,9
+M12,Undergraduate,MCDB      1AL,POOLE S J,B+,16
+M12,Undergraduate,MCDB      1AL,POOLE S J,B,27
+M12,Undergraduate,MCDB      1AL,POOLE S J,B-,30
+M12,Undergraduate,MCDB      1AL,POOLE S J,C+,12
+M12,Undergraduate,MCDB      1AL,POOLE S J,C,14
+M12,Undergraduate,MCDB      1AL,POOLE S J,C-,6
+M12,Undergraduate,MCDB      1AL,POOLE S J,D+,4
+M12,Undergraduate,MCDB      1AL,POOLE S J,D,1
+M12,Undergraduate,MCDB      1AL,POOLE S J,D-,2
+M12,Undergraduate,MCDB      1AL,POOLE S J,F,1
+M12,Undergraduate,MCDB      1AL,TAKETA D A,A,8
+M12,Undergraduate,MCDB      1AL,TAKETA D A,A-,9
+M12,Undergraduate,MCDB      1AL,TAKETA D A,B+,16
+M12,Undergraduate,MCDB      1AL,TAKETA D A,B,27
+M12,Undergraduate,MCDB      1AL,TAKETA D A,B-,30
+M12,Undergraduate,MCDB      1AL,TAKETA D A,C+,12
+M12,Undergraduate,MCDB      1AL,TAKETA D A,C,14
+M12,Undergraduate,MCDB      1AL,TAKETA D A,C-,6
+M12,Undergraduate,MCDB      1AL,TAKETA D A,D+,4
+M12,Undergraduate,MCDB      1AL,TAKETA D A,D,1
+M12,Undergraduate,MCDB      1AL,TAKETA D A,D-,2
+M12,Undergraduate,MCDB      1AL,TAKETA D A,F,1
+M12,Undergraduate,MCDB      1B,LOW S H,A+,2
+M12,Undergraduate,MCDB      1B,LOW S H,A,8
+M12,Undergraduate,MCDB      1B,LOW S H,A-,14
+M12,Undergraduate,MCDB      1B,LOW S H,B+,12
+M12,Undergraduate,MCDB      1B,LOW S H,B,17
+M12,Undergraduate,MCDB      1B,LOW S H,B-,25
+M12,Undergraduate,MCDB      1B,LOW S H,C+,21
+M12,Undergraduate,MCDB      1B,LOW S H,C,30
+M12,Undergraduate,MCDB      1B,LOW S H,C-,19
+M12,Undergraduate,MCDB      1B,LOW S H,D,20
+M12,Undergraduate,MCDB      1B,LOW S H,F,13
+M12,Undergraduate,MCDB      1BL,POOLE S J,A+,2
+M12,Undergraduate,MCDB      1BL,POOLE S J,A,2
+M12,Undergraduate,MCDB      1BL,POOLE S J,A-,5
+M12,Undergraduate,MCDB      1BL,POOLE S J,B+,4
+M12,Undergraduate,MCDB      1BL,POOLE S J,B,7
+M12,Undergraduate,MCDB      1BL,POOLE S J,B-,4
+M12,Undergraduate,MCDB      1BL,POOLE S J,C+,8
+M12,Undergraduate,MCDB      1BL,POOLE S J,C,7
+M12,Undergraduate,MCDB      1BL,POOLE S J,C-,5
+M12,Undergraduate,MCDB      1BL,POOLE S J,D+,3
+M12,Undergraduate,MCDB      1BL,POOLE S J,D-,1
+M12,Undergraduate,MCDB      1BL,TAKETA D A,A+,2
+M12,Undergraduate,MCDB      1BL,TAKETA D A,A,2
+M12,Undergraduate,MCDB      1BL,TAKETA D A,A-,5
+M12,Undergraduate,MCDB      1BL,TAKETA D A,B+,4
+M12,Undergraduate,MCDB      1BL,TAKETA D A,B,7
+M12,Undergraduate,MCDB      1BL,TAKETA D A,B-,4
+M12,Undergraduate,MCDB      1BL,TAKETA D A,C+,8
+M12,Undergraduate,MCDB      1BL,TAKETA D A,C,7
+M12,Undergraduate,MCDB      1BL,TAKETA D A,C-,5
+M12,Undergraduate,MCDB      1BL,TAKETA D A,D+,3
+M12,Undergraduate,MCDB      1BL,TAKETA D A,D-,1
+M12,Undergraduate,MCDB     20,THROWER D A,A+,2
+M12,Undergraduate,MCDB     20,THROWER D A,A,6
+M12,Undergraduate,MCDB     20,THROWER D A,A-,2
+M12,Undergraduate,MCDB     20,THROWER D A,B,3
+M12,Undergraduate,MCDB     20,THROWER D A,B-,3
+M12,Undergraduate,MCDB     20,THROWER D A,C+,4
+M12,Undergraduate,MCDB     20,THROWER D A,C,4
+M12,Undergraduate,MCDB     20,THROWER D A,C-,2
+M12,Undergraduate,MCDB     20,THROWER D A,D,1
+M12,Undergraduate,MCDB     20,THROWER D A,F,1
+M12,Undergraduate,MCDB     23,KOHL D M,A+,1
+M12,Undergraduate,MCDB     23,KOHL D M,A,3
+M12,Undergraduate,MCDB     23,KOHL D M,A-,10
+M12,Undergraduate,MCDB     23,KOHL D M,B+,2
+M12,Undergraduate,MCDB     23,KOHL D M,B,9
+M12,Undergraduate,MCDB     23,KOHL D M,B-,6
+M12,Undergraduate,MCDB     23,KOHL D M,C+,1
+M12,Undergraduate,MCDB     23,KOHL D M,C,4
+M12,Undergraduate,MCDB     23,KOHL D M,C-,4
+M12,Undergraduate,MCDB     23,KOHL D M,F,3
+M12,Undergraduate,MCDB    101A,THROWER D A,A+,1
+M12,Undergraduate,MCDB    101A,THROWER D A,A,31
+M12,Undergraduate,MCDB    101A,THROWER D A,A-,4
+M12,Undergraduate,MCDB    101A,THROWER D A,B+,7
+M12,Undergraduate,MCDB    101A,THROWER D A,B,9
+M12,Undergraduate,MCDB    101A,THROWER D A,B-,5
+M12,Undergraduate,MCDB    101A,THROWER D A,C+,4
+M12,Undergraduate,MCDB    101A,THROWER D A,C,10
+M12,Undergraduate,MCDB    101A,THROWER D A,C-,3
+M12,Undergraduate,MCDB    101A,THROWER D A,D+,3
+M12,Undergraduate,MCDB    101A,THROWER D A,D,5
+M12,Undergraduate,MCDB    101A,THROWER D A,F,8
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,A+,2
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,A,18
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,A-,1
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,B+,4
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,B,14
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,B-,9
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,C+,2
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,C,9
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,C-,6
+M12,Undergraduate,MCDB    101B,CHRISTOFFERSE,D,3
+M12,Undergraduate,MCDB    161L,POOLE S J,A,15
+M12,Undergraduate,MCDB    161L,POOLE S J,A-,2
+M12,Undergraduate,MCDB    161L,POOLE S J,B+,1
+M12,Undergraduate,MCDB W  108A,SEARS D W,A+,1
+M12,Undergraduate,MCDB W  108A,SEARS D W,A,2
+M12,Undergraduate,MCDB W  108A,SEARS D W,A-,1
+M12,Undergraduate,MCDB W  108A,SEARS D W,B+,4
+M12,Undergraduate,MCDB W  108A,SEARS D W,B,5
+M12,Undergraduate,MCDB W  108A,SEARS D W,C+,4
+M12,Undergraduate,MCDB W  108A,SEARS D W,C,8
+M12,Undergraduate,MCDB W  108A,SEARS D W,D,1
+M12,Undergraduate,MCDB W  108A,SEARS D W,F,1

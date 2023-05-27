@@ -1,0 +1,128 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,ART       1A,TASCHIAN H J,B+,2
+M17,Undergraduate,ART       1A,TASCHIAN H J,B,5
+M17,Undergraduate,ART       1A,TASCHIAN H J,B-,1
+M17,Undergraduate,ART       1A,TASCHIAN H J,C,1
+M17,Undergraduate,ART       1A,TASCHIAN H J,D-,1
+M17,Undergraduate,ART       1A,TASCHIAN H J,F,2
+M17,Undergraduate,ART       1A,VANDERPOOL J,A,4
+M17,Undergraduate,ART       1A,VANDERPOOL J,A-,1
+M17,Undergraduate,ART       1A,VANDERPOOL J,B+,2
+M17,Undergraduate,ART       1A,VANDERPOOL J,B,1
+M17,Undergraduate,ART       1A,VANDERPOOL J,B-,2
+M17,Undergraduate,ART       1A,VANDERPOOL J,C+,1
+M17,Undergraduate,ART       1A,VANDERPOOL J,C,2
+M17,Undergraduate,ART       1A,VANDERPOOL J,C-,1
+M17,Undergraduate,ART       1A,VANDERPOOL J,F,1
+M17,Undergraduate,ART       7A,FOLK E,A,3
+M17,Undergraduate,ART       7A,FOLK E,A-,4
+M17,Undergraduate,ART       7A,FOLK E,B+,4
+M17,Undergraduate,ART       7A,FOLK E,B,3
+M17,Undergraduate,ART       7A,FOLK E,C,2
+M17,Undergraduate,ART      18,BELTZ E A,A+,1
+M17,Undergraduate,ART      18,BELTZ E A,A-,6
+M17,Undergraduate,ART      18,BELTZ E A,B+,4
+M17,Undergraduate,ART      18,BELTZ E A,B,1
+M17,Undergraduate,ART      18,BELTZ E A,B-,3
+M17,Undergraduate,ART      18,BELTZ E A,C,3
+M17,Undergraduate,ART      18,HAYDEN N,A+,2
+M17,Undergraduate,ART      18,HAYDEN N,A,2
+M17,Undergraduate,ART      18,HAYDEN N,A-,4
+M17,Undergraduate,ART      18,HAYDEN N,B+,2
+M17,Undergraduate,ART      18,HAYDEN N,B,3
+M17,Undergraduate,ART      18,HAYDEN N,B-,2
+M17,Undergraduate,ART      18,HAYDEN N,C+,1
+M17,Undergraduate,ART      18,HAYDEN N,C,1
+M17,Undergraduate,ART      18,HAYDEN N,C-,1
+M17,Undergraduate,ART      18,HAYDEN N,D,1
+M17,Undergraduate,ART     100,ELLIS C M,A+,2
+M17,Undergraduate,ART     100,ELLIS C M,A,5
+M17,Undergraduate,ART     100,ELLIS C M,A-,7
+M17,Undergraduate,ART     100,ELLIS C M,B,1
+M17,Undergraduate,ART     100,ELLIS C M,F,1
+M17,Undergraduate,ART     110,ELLIS C M,A,7
+M17,Undergraduate,ART     110,ELLIS C M,A-,1
+M17,Undergraduate,ART     110,ELLIS C M,B+,2
+M17,Undergraduate,ART     110,ELLIS C M,B,3
+M17,Undergraduate,ART     110,ELLIS C M,F,1
+M17,Undergraduate,ART     117,HAYDEN N,A,3
+M17,Undergraduate,ART     117,HAYDEN N,A-,4
+M17,Undergraduate,ART     117,HAYDEN N,B+,8
+M17,Undergraduate,ART     117,HAYDEN N,B,1
+M17,Undergraduate,ART     117,HAYDEN N,B-,1
+M17,Undergraduate,ART     125,VANDERPOOL J,A,12
+M17,Undergraduate,ART     125,VANDERPOOL J,B+,3
+M17,Undergraduate,ART     125,VANDERPOOL J,B,3
+M17,Undergraduate,ART     125,VANDERPOOL J,B-,1
+M17,Undergraduate,ART     125,VANDERPOOL J,F,1
+M17,Undergraduate,ART     130,TASCHIAN H J,A,3
+M17,Undergraduate,ART     130,TASCHIAN H J,A-,2
+M17,Undergraduate,ART     130,TASCHIAN H J,B+,1
+M17,Undergraduate,ART     130,TASCHIAN H J,B,5
+M17,Undergraduate,ART     130,TASCHIAN H J,B-,3
+M17,Undergraduate,ART     130,TASCHIAN H J,C+,3
+M17,Undergraduate,ART     130,TASCHIAN H J,D,1
+M17,Undergraduate,ART     130,TASCHIAN H J,F,1
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,A+,1
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,A,3
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,A-,5
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,B+,4
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,B,3
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,B-,8
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,C+,5
+M17,Undergraduate,ARTHI     6B,TRAVERS E M,F,1
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,A+,1
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,A,6
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,A-,12
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,B+,12
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,B,5
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,B-,4
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,C+,1
+M17,Undergraduate,ARTHI     6C,MCLEMORE E L,F,1
+M17,Undergraduate,ARTHI     6F,WHITE J S,A,6
+M17,Undergraduate,ARTHI     6F,WHITE J S,B+,7
+M17,Undergraduate,ARTHI     6F,WHITE J S,B,3
+M17,Undergraduate,ARTHI     6F,WHITE J S,B-,3
+M17,Undergraduate,ARTHI     6F,WHITE J S,C,1
+M17,Undergraduate,ARTHI     6F,WHITE J S,C-,1
+M17,Undergraduate,ARTHI     6F,WHITE J S,F,3
+M17,Undergraduate,ARTHI     6H,ENGEL E A,A,9
+M17,Undergraduate,ARTHI     6H,ENGEL E A,A-,7
+M17,Undergraduate,ARTHI     6H,ENGEL E A,B+,6
+M17,Undergraduate,ARTHI     6H,ENGEL E A,B,3
+M17,Undergraduate,ARTHI     6H,ENGEL E A,B-,1
+M17,Undergraduate,ARTHI     6H,ENGEL E A,F,1
+M17,Undergraduate,ARTHI     6K,OVERTON K K,A,13
+M17,Undergraduate,ARTHI     6K,OVERTON K K,A-,4
+M17,Undergraduate,ARTHI     6K,OVERTON K K,B+,6
+M17,Undergraduate,ARTHI     6K,OVERTON K K,B,3
+M17,Undergraduate,ARTHI     6K,OVERTON K K,B-,2
+M17,Undergraduate,ARTHI     6K,OVERTON K K,C+,2
+M17,Undergraduate,ARTHI     6K,OVERTON K K,C,2
+M17,Undergraduate,ARTHI     6K,OVERTON K K,D,1
+M17,Undergraduate,ARTHI     6K,OVERTON K K,F,1
+M17,Undergraduate,ARTHI   107C,MEADOW M A,A+,1
+M17,Undergraduate,ARTHI   107C,MEADOW M A,A,5
+M17,Undergraduate,ARTHI   107C,MEADOW M A,A-,3
+M17,Undergraduate,ARTHI   107C,MEADOW M A,B+,1
+M17,Undergraduate,ARTHI   107C,MEADOW M A,B,2
+M17,Undergraduate,ARTHI   107C,MEADOW M A,B-,1
+M17,Undergraduate,ARTHI   121D,ALEXANDER A,A+,3
+M17,Undergraduate,ARTHI   121D,ALEXANDER A,A,9
+M17,Undergraduate,ARTHI   121D,ALEXANDER A,B+,2
+M17,Undergraduate,ARTHI   121D,ALEXANDER A,B,2
+M17,Undergraduate,ARTHI   136C,WHITE J S,A,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,B,5
+M17,Undergraduate,ARTHI   136C,WHITE J S,C+,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,C,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,D+,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,D,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,D-,1
+M17,Undergraduate,ARTHI   136C,WHITE J S,F,1
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A,4
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A-,3
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B+,3
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B,1
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B-,6
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C+,3
+M17,Undergraduate,ARTHI   136I,CHATTOPADHYAY,F,2

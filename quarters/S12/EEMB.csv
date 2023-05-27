@@ -1,0 +1,230 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,EEMB      3,BUSH D S,A+,3
+S12,Undergraduate,EEMB      3,BUSH D S,A,30
+S12,Undergraduate,EEMB      3,BUSH D S,A-,15
+S12,Undergraduate,EEMB      3,BUSH D S,B+,43
+S12,Undergraduate,EEMB      3,BUSH D S,B,126
+S12,Undergraduate,EEMB      3,BUSH D S,B-,43
+S12,Undergraduate,EEMB      3,BUSH D S,C+,56
+S12,Undergraduate,EEMB      3,BUSH D S,C,100
+S12,Undergraduate,EEMB      3,BUSH D S,C-,41
+S12,Undergraduate,EEMB      3,BUSH D S,D,51
+S12,Undergraduate,EEMB      3,BUSH D S,F,15
+S12,Undergraduate,EEMB      3,CARLSON C A,A+,3
+S12,Undergraduate,EEMB      3,CARLSON C A,A,30
+S12,Undergraduate,EEMB      3,CARLSON C A,A-,15
+S12,Undergraduate,EEMB      3,CARLSON C A,B+,43
+S12,Undergraduate,EEMB      3,CARLSON C A,B,126
+S12,Undergraduate,EEMB      3,CARLSON C A,B-,43
+S12,Undergraduate,EEMB      3,CARLSON C A,C+,56
+S12,Undergraduate,EEMB      3,CARLSON C A,C,100
+S12,Undergraduate,EEMB      3,CARLSON C A,C-,41
+S12,Undergraduate,EEMB      3,CARLSON C A,D,51
+S12,Undergraduate,EEMB      3,CARLSON C A,F,15
+S12,Undergraduate,EEMB      3,HODGES S A,A+,3
+S12,Undergraduate,EEMB      3,HODGES S A,A,30
+S12,Undergraduate,EEMB      3,HODGES S A,A-,15
+S12,Undergraduate,EEMB      3,HODGES S A,B+,43
+S12,Undergraduate,EEMB      3,HODGES S A,B,126
+S12,Undergraduate,EEMB      3,HODGES S A,B-,43
+S12,Undergraduate,EEMB      3,HODGES S A,C+,56
+S12,Undergraduate,EEMB      3,HODGES S A,C,100
+S12,Undergraduate,EEMB      3,HODGES S A,C-,41
+S12,Undergraduate,EEMB      3,HODGES S A,D,51
+S12,Undergraduate,EEMB      3,HODGES S A,F,15
+S12,Undergraduate,EEMB      3,HOFMANN G E,A+,3
+S12,Undergraduate,EEMB      3,HOFMANN G E,A,30
+S12,Undergraduate,EEMB      3,HOFMANN G E,A-,15
+S12,Undergraduate,EEMB      3,HOFMANN G E,B+,43
+S12,Undergraduate,EEMB      3,HOFMANN G E,B,126
+S12,Undergraduate,EEMB      3,HOFMANN G E,B-,43
+S12,Undergraduate,EEMB      3,HOFMANN G E,C+,56
+S12,Undergraduate,EEMB      3,HOFMANN G E,C,100
+S12,Undergraduate,EEMB      3,HOFMANN G E,C-,41
+S12,Undergraduate,EEMB      3,HOFMANN G E,D,51
+S12,Undergraduate,EEMB      3,HOFMANN G E,F,15
+S12,Undergraduate,EEMB      3L,BUSH D S,A+,11
+S12,Undergraduate,EEMB      3L,BUSH D S,A,71
+S12,Undergraduate,EEMB      3L,BUSH D S,A-,36
+S12,Undergraduate,EEMB      3L,BUSH D S,B+,63
+S12,Undergraduate,EEMB      3L,BUSH D S,B,167
+S12,Undergraduate,EEMB      3L,BUSH D S,B-,42
+S12,Undergraduate,EEMB      3L,BUSH D S,C+,81
+S12,Undergraduate,EEMB      3L,BUSH D S,C,79
+S12,Undergraduate,EEMB      3L,BUSH D S,C-,28
+S12,Undergraduate,EEMB      3L,BUSH D S,D,27
+S12,Undergraduate,EEMB      3L,BUSH D S,F,2
+S12,Undergraduate,EEMB     22,EVEN T J,A+,1
+S12,Undergraduate,EEMB     22,EVEN T J,A,16
+S12,Undergraduate,EEMB     22,EVEN T J,A-,6
+S12,Undergraduate,EEMB     22,EVEN T J,B+,2
+S12,Undergraduate,EEMB     22,EVEN T J,B,36
+S12,Undergraduate,EEMB     22,EVEN T J,B-,3
+S12,Undergraduate,EEMB     22,EVEN T J,C+,2
+S12,Undergraduate,EEMB     22,EVEN T J,C,21
+S12,Undergraduate,EEMB     22,EVEN T J,C-,1
+S12,Undergraduate,EEMB     22,EVEN T J,D,5
+S12,Undergraduate,EEMB     22,EVEN T J,F,6
+S12,Undergraduate,EEMB    102,OAKLEY T H,A+,2
+S12,Undergraduate,EEMB    102,OAKLEY T H,A,25
+S12,Undergraduate,EEMB    102,OAKLEY T H,A-,1
+S12,Undergraduate,EEMB    102,OAKLEY T H,B+,7
+S12,Undergraduate,EEMB    102,OAKLEY T H,B,58
+S12,Undergraduate,EEMB    102,OAKLEY T H,B-,2
+S12,Undergraduate,EEMB    102,OAKLEY T H,C+,6
+S12,Undergraduate,EEMB    102,OAKLEY T H,C,42
+S12,Undergraduate,EEMB    102,OAKLEY T H,C-,3
+S12,Undergraduate,EEMB    102,OAKLEY T H,F,4
+S12,Undergraduate,EEMB    102,STEWART A D,A+,2
+S12,Undergraduate,EEMB    102,STEWART A D,A,25
+S12,Undergraduate,EEMB    102,STEWART A D,A-,1
+S12,Undergraduate,EEMB    102,STEWART A D,B+,7
+S12,Undergraduate,EEMB    102,STEWART A D,B,58
+S12,Undergraduate,EEMB    102,STEWART A D,B-,2
+S12,Undergraduate,EEMB    102,STEWART A D,C+,6
+S12,Undergraduate,EEMB    102,STEWART A D,C,42
+S12,Undergraduate,EEMB    102,STEWART A D,C-,3
+S12,Undergraduate,EEMB    102,STEWART A D,F,4
+S12,Undergraduate,EEMB    107,SWEET S S,A+,2
+S12,Undergraduate,EEMB    107,SWEET S S,A,9
+S12,Undergraduate,EEMB    107,SWEET S S,B+,4
+S12,Undergraduate,EEMB    107,SWEET S S,B,7
+S12,Undergraduate,EEMB    107,SWEET S S,B-,4
+S12,Undergraduate,EEMB    107,SWEET S S,C+,7
+S12,Undergraduate,EEMB    107,SWEET S S,C,7
+S12,Undergraduate,EEMB    107,SWEET S S,F,1
+S12,Undergraduate,EEMB    107L,SWEET S S,A,4
+S12,Undergraduate,EEMB    107L,SWEET S S,A-,1
+S12,Undergraduate,EEMB    107L,SWEET S S,B+,1
+S12,Undergraduate,EEMB    107L,SWEET S S,B,5
+S12,Undergraduate,EEMB    107L,SWEET S S,B-,3
+S12,Undergraduate,EEMB    107L,SWEET S S,C+,1
+S12,Undergraduate,EEMB    107L,SWEET S S,C,1
+S12,Undergraduate,EEMB    116,KURIS A M,A+,1
+S12,Undergraduate,EEMB    116,KURIS A M,A,20
+S12,Undergraduate,EEMB    116,KURIS A M,A-,4
+S12,Undergraduate,EEMB    116,KURIS A M,B+,3
+S12,Undergraduate,EEMB    116,KURIS A M,B,15
+S12,Undergraduate,EEMB    116,KURIS A M,C+,2
+S12,Undergraduate,EEMB    116,KURIS A M,C,17
+S12,Undergraduate,EEMB    116,KURIS A M,D-,1
+S12,Undergraduate,EEMB    116,KURIS A M,F,1
+S12,Undergraduate,EEMB    116,TURNER T L,A+,1
+S12,Undergraduate,EEMB    116,TURNER T L,A,20
+S12,Undergraduate,EEMB    116,TURNER T L,A-,4
+S12,Undergraduate,EEMB    116,TURNER T L,B+,3
+S12,Undergraduate,EEMB    116,TURNER T L,B,15
+S12,Undergraduate,EEMB    116,TURNER T L,C+,2
+S12,Undergraduate,EEMB    116,TURNER T L,C,17
+S12,Undergraduate,EEMB    116,TURNER T L,D-,1
+S12,Undergraduate,EEMB    116,TURNER T L,F,1
+S12,Undergraduate,EEMB    127L,MAZER S J,A,10
+S12,Undergraduate,EEMB    127L,MAZER S J,B,1
+S12,Undergraduate,EEMB    128,STAHLHEBER K,A,3
+S12,Undergraduate,EEMB    128,STAHLHEBER K,A-,9
+S12,Undergraduate,EEMB    128,STAHLHEBER K,B+,4
+S12,Undergraduate,EEMB    128,STAHLHEBER K,B,14
+S12,Undergraduate,EEMB    128,STAHLHEBER K,B-,5
+S12,Undergraduate,EEMB    128,STAHLHEBER K,C+,4
+S12,Undergraduate,EEMB    128,STAHLHEBER K,C-,1
+S12,Undergraduate,EEMB    128,STAHLHEBER K,D+,2
+S12,Undergraduate,EEMB    128,STAHLHEBER K,D,1
+S12,Undergraduate,EEMB    130,STEWART A D,A+,5
+S12,Undergraduate,EEMB    130,STEWART A D,A,5
+S12,Undergraduate,EEMB    130,STEWART A D,A-,11
+S12,Undergraduate,EEMB    130,STEWART A D,B+,4
+S12,Undergraduate,EEMB    130,STEWART A D,B,3
+S12,Undergraduate,EEMB    130,STEWART A D,B-,8
+S12,Undergraduate,EEMB    130,STEWART A D,C+,4
+S12,Undergraduate,EEMB    130,STEWART A D,C,9
+S12,Undergraduate,EEMB    130,STEWART A D,C-,3
+S12,Undergraduate,EEMB    130,STEWART A D,D+,1
+S12,Undergraduate,EEMB    130,STEWART A D,D,2
+S12,Undergraduate,EEMB    130,STEWART A D,F,4
+S12,Undergraduate,EEMB    142C,OSBORN D A,A,5
+S12,Undergraduate,EEMB    142C,OSBORN D A,A-,9
+S12,Undergraduate,EEMB    142C,OSBORN D A,B+,13
+S12,Undergraduate,EEMB    142C,OSBORN D A,B,7
+S12,Undergraduate,EEMB    142C,OSBORN D A,B-,13
+S12,Undergraduate,EEMB    142C,OSBORN D A,C+,3
+S12,Undergraduate,EEMB    142C,OSBORN D A,C,2
+S12,Undergraduate,EEMB    142C,OSBORN D A,C-,3
+S12,Undergraduate,EEMB    142C,PREZELIN B,A,5
+S12,Undergraduate,EEMB    142C,PREZELIN B,A-,9
+S12,Undergraduate,EEMB    142C,PREZELIN B,B+,13
+S12,Undergraduate,EEMB    142C,PREZELIN B,B,7
+S12,Undergraduate,EEMB    142C,PREZELIN B,B-,13
+S12,Undergraduate,EEMB    142C,PREZELIN B,C+,3
+S12,Undergraduate,EEMB    142C,PREZELIN B,C,2
+S12,Undergraduate,EEMB    142C,PREZELIN B,C-,3
+S12,Undergraduate,EEMB    142CL,OSBORN D A,A+,1
+S12,Undergraduate,EEMB    142CL,OSBORN D A,A,1
+S12,Undergraduate,EEMB    142CL,OSBORN D A,A-,3
+S12,Undergraduate,EEMB    142CL,OSBORN D A,B+,4
+S12,Undergraduate,EEMB    142CL,OSBORN D A,B,1
+S12,Undergraduate,EEMB    142CL,OSBORN D A,B-,1
+S12,Undergraduate,EEMB    142CL,PREZELIN B,A+,1
+S12,Undergraduate,EEMB    142CL,PREZELIN B,A,1
+S12,Undergraduate,EEMB    142CL,PREZELIN B,A-,3
+S12,Undergraduate,EEMB    142CL,PREZELIN B,B+,4
+S12,Undergraduate,EEMB    142CL,PREZELIN B,B,1
+S12,Undergraduate,EEMB    142CL,PREZELIN B,B-,1
+S12,Undergraduate,EEMB    148,EVEN T J,A+,1
+S12,Undergraduate,EEMB    148,EVEN T J,A,10
+S12,Undergraduate,EEMB    148,EVEN T J,A-,4
+S12,Undergraduate,EEMB    148,EVEN T J,B+,3
+S12,Undergraduate,EEMB    148,EVEN T J,B,29
+S12,Undergraduate,EEMB    148,EVEN T J,B-,3
+S12,Undergraduate,EEMB    148,EVEN T J,C+,8
+S12,Undergraduate,EEMB    148,EVEN T J,C,15
+S12,Undergraduate,EEMB    148,EVEN T J,C-,2
+S12,Undergraduate,EEMB    148,EVEN T J,D+,2
+S12,Undergraduate,EEMB    148,EVEN T J,D,3
+S12,Undergraduate,EEMB    148,EVEN T J,F,1
+S12,Undergraduate,EEMB    156,COLLINS P M,A,10
+S12,Undergraduate,EEMB    156,COLLINS P M,A-,14
+S12,Undergraduate,EEMB    156,COLLINS P M,B+,19
+S12,Undergraduate,EEMB    156,COLLINS P M,B,19
+S12,Undergraduate,EEMB    156,COLLINS P M,B-,30
+S12,Undergraduate,EEMB    156,COLLINS P M,C+,35
+S12,Undergraduate,EEMB    156,COLLINS P M,C,26
+S12,Undergraduate,EEMB    156,COLLINS P M,C-,9
+S12,Undergraduate,EEMB    156,COLLINS P M,D,12
+S12,Undergraduate,EEMB    156,COLLINS P M,F,6
+S12,Undergraduate,EEMB    184,CASELLE J E,P,5
+S12,Undergraduate,EEMB    187,STOYAN T,P,18
+S12,Undergraduate,EEMB    187,THROWER D A,P,18
+S12,Undergraduate,EEMB    188RE,STRATTON E C,A+,2
+S12,Undergraduate,EEMB    188RE,STRATTON E C,A,6
+S12,Undergraduate,EEMB    188RE,STRATTON E C,A-,2
+S12,Undergraduate,EEMB    188RE,STRATTON E C,B+,1
+S12,Undergraduate,EEMB    194M,HODGES S A,A,12
+S12,Undergraduate,EEMB    194M,MAZER S J,A,12
+S12,Undergraduate,EEMB    194NV,TURNER T L,A,7
+S12,Undergraduate,EEMB    194Q,MACINTYRE S,A,7
+S12,Undergraduate,EEMB    194T,KURIS A M,A,8
+S12,Graduate,EEMB    247,BRIGGS C J,A,7
+S12,Graduate,EEMB    276,RICE W R,A+,2
+S12,Graduate,EEMB    276,RICE W R,A,8
+S12,Graduate,EEMB    276,RICE W R,A-,2
+S12,Graduate,EEMB    276,RICE W R,B+,1
+S12,Graduate,EEMB    276L,RICE W R,A+,2
+S12,Graduate,EEMB    276L,RICE W R,A,8
+S12,Graduate,EEMB    276L,RICE W R,A-,2
+S12,Graduate,EEMB    276L,RICE W R,B+,1
+S12,Graduate,EEMB    590,PROULX S R,S,15
+S12,Graduate,EEMB    595D,D'ANTONIO C M,A,8
+S12,Graduate,EEMB    595D,D'ANTONIO C M,B+,1
+S12,Graduate,EEMB    595D,MAHALL B E,A,8
+S12,Graduate,EEMB    595D,MAHALL B E,B+,1
+S12,Graduate,EEMB    595D,SCHIMEL J P,A,8
+S12,Graduate,EEMB    595D,SCHIMEL J P,B+,1
+S12,Graduate,EEMB    595GC,MELACK J M,A,5
+S12,Graduate,EEMB    595RR,HOLBROOK S J,A,8
+S12,Graduate,EEMB    595RR,SCHMITT R J,A,8
+S12,Graduate,EEMB    595TE,BRIGGS C J,A,5
+S12,Graduate,EEMB    595TE,NISBET R M,A,5
+S12,Graduate,EEMB    595TE,PROULX S R,A,5
+S12,Graduate,EEMB    596,GAINES S,A,2
+S12,Graduate,EEMB    596,GAINES S,S,6
+S12,Graduate,EEMB    596,KURIS A M,A,5

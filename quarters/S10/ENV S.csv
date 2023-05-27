@@ -1,0 +1,78 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ENV S     3,GRAVES G R,A+,1
+S10,Undergraduate,ENV S     3,GRAVES G R,A,47
+S10,Undergraduate,ENV S     3,GRAVES G R,A-,93
+S10,Undergraduate,ENV S     3,GRAVES G R,B+,72
+S10,Undergraduate,ENV S     3,GRAVES G R,B,89
+S10,Undergraduate,ENV S     3,GRAVES G R,B-,40
+S10,Undergraduate,ENV S     3,GRAVES G R,C+,11
+S10,Undergraduate,ENV S     3,GRAVES G R,C,9
+S10,Undergraduate,ENV S     3,GRAVES G R,C-,5
+S10,Undergraduate,ENV S     3,GRAVES G R,D+,1
+S10,Undergraduate,ENV S     3,GRAVES G R,D-,1
+S10,Undergraduate,ENV S     3,GRAVES G R,F,9
+S10,Undergraduate,ENV S   106,PULVER S,A+,2
+S10,Undergraduate,ENV S   106,PULVER S,A,13
+S10,Undergraduate,ENV S   106,PULVER S,A-,21
+S10,Undergraduate,ENV S   106,PULVER S,B+,13
+S10,Undergraduate,ENV S   106,PULVER S,B,11
+S10,Undergraduate,ENV S   106,PULVER S,B-,14
+S10,Undergraduate,ENV S   106,PULVER S,C+,5
+S10,Undergraduate,ENV S   106,PULVER S,C,1
+S10,Undergraduate,ENV S   106,PULVER S,D,1
+S10,Undergraduate,ENV S   111,STILL C J,A,2
+S10,Undergraduate,ENV S   111,STILL C J,A-,5
+S10,Undergraduate,ENV S   111,STILL C J,B+,17
+S10,Undergraduate,ENV S   111,STILL C J,B,36
+S10,Undergraduate,ENV S   111,STILL C J,B-,12
+S10,Undergraduate,ENV S   111,STILL C J,C+,12
+S10,Undergraduate,ENV S   111,STILL C J,C,12
+S10,Undergraduate,ENV S   111,STILL C J,C-,1
+S10,Undergraduate,ENV S   111,STILL C J,D+,3
+S10,Undergraduate,ENV S   111,STILL C J,D,1
+S10,Undergraduate,ENV S   111,STILL C J,D-,1
+S10,Undergraduate,ENV S   117,WILKINSON R C,A+,6
+S10,Undergraduate,ENV S   117,WILKINSON R C,A,18
+S10,Undergraduate,ENV S   117,WILKINSON R C,A-,28
+S10,Undergraduate,ENV S   117,WILKINSON R C,B+,17
+S10,Undergraduate,ENV S   117,WILKINSON R C,B,19
+S10,Undergraduate,ENV S   117,WILKINSON R C,B-,7
+S10,Undergraduate,ENV S   117,WILKINSON R C,C+,3
+S10,Undergraduate,ENV S   117,WILKINSON R C,C,2
+S10,Undergraduate,ENV S   117,WILKINSON R C,C-,3
+S10,Undergraduate,ENV S   117,WILKINSON R C,F,1
+S10,Undergraduate,ENV S   125B,KROP L J,A+,7
+S10,Undergraduate,ENV S   125B,KROP L J,A,12
+S10,Undergraduate,ENV S   125B,KROP L J,A-,4
+S10,Undergraduate,ENV S   125B,KROP L J,B+,3
+S10,Undergraduate,ENV S   125B,KROP L J,B,5
+S10,Undergraduate,ENV S   125B,KROP L J,C+,1
+S10,Undergraduate,ENV S   125B,KROP L J,C,2
+S10,Undergraduate,ENV S   125B,KROP L J,C-,1
+S10,Undergraduate,ENV S   125B,KROP L J,D-,1
+S10,Undergraduate,ENV S   127,LEWIN B A,A+,10
+S10,Undergraduate,ENV S   127,LEWIN B A,A,16
+S10,Undergraduate,ENV S   127,LEWIN B A,A-,8
+S10,Undergraduate,ENV S   127,LEWIN B A,B+,2
+S10,Undergraduate,ENV S   127,LEWIN B A,B,1
+S10,Undergraduate,ENV S   127,LEWIN B A,D-,1
+S10,Undergraduate,ENV S   128,D'ANTONIO C M,A-,3
+S10,Undergraduate,ENV S   128,D'ANTONIO C M,B+,1
+S10,Undergraduate,ENV S   128,D'ANTONIO C M,B,3
+S10,Undergraduate,ENV S   128,D'ANTONIO C M,B-,1
+S10,Undergraduate,ENV S   128,D'ANTONIO C M,C+,1
+S10,Undergraduate,ENV S   165B,MOHR G W,A+,2
+S10,Undergraduate,ENV S   165B,MOHR G W,A,2
+S10,Undergraduate,ENV S   165B,MOHR G W,A-,5
+S10,Undergraduate,ENV S   165B,MOHR G W,B+,1
+S10,Undergraduate,ENV S   165B,MOHR G W,B,1
+S10,Undergraduate,ENV S   192,ZIMMERMAN E D,P,19
+S10,Undergraduate,ENV S   192,ZIMMERMAN E D,NP,4
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,A+,2
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,A,3
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,A-,4
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,B+,2
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,B,1
+S10,Undergraduate,ENV S   193HR,ALAGONA P S,B-,1
+S10,Undergraduate,ENV S   196,MANALIS M S,A,7
+S10,Graduate,ENV S   500,CREMERS M H,S,9

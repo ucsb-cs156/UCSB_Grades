@@ -1,0 +1,272 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S15,Undergraduate,ENGL     10,DOUGLASS J H,A+,7
+S15,Undergraduate,ENGL     10,DOUGLASS J H,A,36
+S15,Undergraduate,ENGL     10,DOUGLASS J H,A-,35
+S15,Undergraduate,ENGL     10,DOUGLASS J H,B+,51
+S15,Undergraduate,ENGL     10,DOUGLASS J H,B,29
+S15,Undergraduate,ENGL     10,DOUGLASS J H,B-,15
+S15,Undergraduate,ENGL     10,DOUGLASS J H,C+,11
+S15,Undergraduate,ENGL     10,DOUGLASS J H,C,6
+S15,Undergraduate,ENGL     10,DOUGLASS J H,C-,6
+S15,Undergraduate,ENGL     10,DOUGLASS J H,D,3
+S15,Undergraduate,ENGL     10,DOUGLASS J H,F,3
+S15,Undergraduate,ENGL     10S,DOUGLASS J H,A,10
+S15,Undergraduate,ENGL     15,KEARNEY J J,A,30
+S15,Undergraduate,ENGL     15,KEARNEY J J,A-,62
+S15,Undergraduate,ENGL     15,KEARNEY J J,B+,46
+S15,Undergraduate,ENGL     15,KEARNEY J J,B,31
+S15,Undergraduate,ENGL     15,KEARNEY J J,B-,18
+S15,Undergraduate,ENGL     15,KEARNEY J J,C+,6
+S15,Undergraduate,ENGL     15,KEARNEY J J,C,5
+S15,Undergraduate,ENGL     15,KEARNEY J J,C-,2
+S15,Undergraduate,ENGL     15,KEARNEY J J,F,2
+S15,Undergraduate,ENGL     15S,KEARNEY J J,A,11
+S15,Undergraduate,ENGL     22,HILTNER K C,A+,1
+S15,Undergraduate,ENGL     22,HILTNER K C,A,21
+S15,Undergraduate,ENGL     22,HILTNER K C,A-,43
+S15,Undergraduate,ENGL     22,HILTNER K C,B+,26
+S15,Undergraduate,ENGL     22,HILTNER K C,B,7
+S15,Undergraduate,ENGL     22,HILTNER K C,B-,15
+S15,Undergraduate,ENGL     22,HILTNER K C,C+,5
+S15,Undergraduate,ENGL     22,HILTNER K C,C,4
+S15,Undergraduate,ENGL     22,HILTNER K C,C-,5
+S15,Undergraduate,ENGL     22,HILTNER K C,D+,1
+S15,Undergraduate,ENGL     22,HILTNER K C,D,3
+S15,Undergraduate,ENGL     22,HILTNER K C,F,6
+S15,Undergraduate,ENGL     22S,HILTNER K C,A,9
+S15,Undergraduate,ENGL     22S,HILTNER K C,A-,4
+S15,Undergraduate,ENGL     50,BLAKE F D,A+,2
+S15,Undergraduate,ENGL     50,BLAKE F D,A,66
+S15,Undergraduate,ENGL     50,BLAKE F D,A-,42
+S15,Undergraduate,ENGL     50,BLAKE F D,B+,40
+S15,Undergraduate,ENGL     50,BLAKE F D,B,27
+S15,Undergraduate,ENGL     50,BLAKE F D,B-,11
+S15,Undergraduate,ENGL     50,BLAKE F D,C+,5
+S15,Undergraduate,ENGL     50,BLAKE F D,C,1
+S15,Undergraduate,ENGL     50,BLAKE F D,F,1
+S15,Undergraduate,ENGL     99,HILTNER K C,A,5
+S15,Undergraduate,ENGL    101,BLURTON H F,A,17
+S15,Undergraduate,ENGL    101,BLURTON H F,A-,35
+S15,Undergraduate,ENGL    101,BLURTON H F,B+,27
+S15,Undergraduate,ENGL    101,BLURTON H F,B,28
+S15,Undergraduate,ENGL    101,BLURTON H F,B-,19
+S15,Undergraduate,ENGL    101,BLURTON H F,C+,10
+S15,Undergraduate,ENGL    101,BLURTON H F,C,10
+S15,Undergraduate,ENGL    101,BLURTON H F,C-,3
+S15,Undergraduate,ENGL    101,BLURTON H F,D,1
+S15,Undergraduate,ENGL    101,BLURTON H F,D-,1
+S15,Undergraduate,ENGL    101,BLURTON H F,F,2
+S15,Undergraduate,ENGL    101S,BLURTON H F,A+,11
+S15,Undergraduate,ENGL    102,DONELAN J H,A,12
+S15,Undergraduate,ENGL    102,DONELAN J H,A-,8
+S15,Undergraduate,ENGL    102,DONELAN J H,B+,6
+S15,Undergraduate,ENGL    102,DONELAN J H,B,5
+S15,Undergraduate,ENGL    102,DONELAN J H,C+,2
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,A,8
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,A-,10
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,B+,3
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,B,3
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,B-,2
+S15,Undergraduate,ENGL    102,HOULIK-RITCHE,F,1
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,A,2
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,A-,7
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,B+,4
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,B,6
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,B-,4
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,C+,6
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,C,3
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,C-,3
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,D+,2
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,D,1
+S15,Undergraduate,ENGL    103A,DELOMBARD J M,F,3
+S15,Undergraduate,ENGL    103B,KING R S,A,7
+S15,Undergraduate,ENGL    103B,KING R S,A-,8
+S15,Undergraduate,ENGL    103B,KING R S,B+,7
+S15,Undergraduate,ENGL    103B,KING R S,B,5
+S15,Undergraduate,ENGL    103B,KING R S,B-,1
+S15,Undergraduate,ENGL    103B,KING R S,C-,1
+S15,Undergraduate,ENGL    103B,KING R S,F,3
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,A,13
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,A-,7
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,B+,5
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,B,9
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,B-,2
+S15,Undergraduate,ENGL    104A,POKORNOWSKI S,C,1
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,A+,1
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,A,33
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,A-,26
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,B+,15
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,B,23
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,B-,20
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,C+,6
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,C,12
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,D,4
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,D-,1
+S15,Undergraduate,ENGL    104B,BOSCAGLI M,F,13
+S15,Undergraduate,ENGL    104BS,BOSCAGLI M,A,8
+S15,Undergraduate,ENGL    104BS,BOSCAGLI M,A-,1
+S15,Undergraduate,ENGL    113MI,LIU A Y,A,10
+S15,Undergraduate,ENGL    113MI,LIU A Y,A-,4
+S15,Undergraduate,ENGL    113MI,LIU A Y,B+,2
+S15,Undergraduate,ENGL    113MI,LIU A Y,B,12
+S15,Undergraduate,ENGL    113MI,LIU A Y,F,3
+S15,Undergraduate,ENGL    122AP,SHEWRY T J,A,11
+S15,Undergraduate,ENGL    122AP,SHEWRY T J,A-,16
+S15,Undergraduate,ENGL    122AP,SHEWRY T J,B+,8
+S15,Undergraduate,ENGL    122AP,SHEWRY T J,B,3
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,A,13
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,A-,6
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,B+,10
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,B-,1
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,C+,1
+S15,Undergraduate,ENGL    122EE,SALTON-COX G,F,2
+S15,Undergraduate,ENGL    122NE,GILMORE T B,A+,2
+S15,Undergraduate,ENGL    122NE,GILMORE T B,A,8
+S15,Undergraduate,ENGL    122NE,GILMORE T B,A-,7
+S15,Undergraduate,ENGL    122NE,GILMORE T B,B+,1
+S15,Undergraduate,ENGL    122NE,GILMORE T B,B-,1
+S15,Undergraduate,ENGL    128RM,LIM S,A+,3
+S15,Undergraduate,ENGL    128RM,LIM S,A,15
+S15,Undergraduate,ENGL    128RM,LIM S,A-,2
+S15,Undergraduate,ENGL    128RM,LIM S,B+,2
+S15,Undergraduate,ENGL    128RM,LIM S,B,8
+S15,Undergraduate,ENGL    128RM,LIM S,B-,2
+S15,Undergraduate,ENGL    128RM,LIM S,C+,2
+S15,Undergraduate,ENGL    134IA,RANA S,A,4
+S15,Undergraduate,ENGL    134IA,RANA S,A-,11
+S15,Undergraduate,ENGL    134IA,RANA S,B+,7
+S15,Undergraduate,ENGL    134IA,RANA S,B,2
+S15,Undergraduate,ENGL    134IA,RANA S,B-,1
+S15,Undergraduate,ENGL    134IA,RANA S,C+,1
+S15,Undergraduate,ENGL    146DR,RALEY R M,A,2
+S15,Undergraduate,ENGL    146DR,RALEY R M,A-,10
+S15,Undergraduate,ENGL    146DR,RALEY R M,B+,9
+S15,Undergraduate,ENGL    146DR,RALEY R M,B,5
+S15,Undergraduate,ENGL    146DR,RALEY R M,B-,4
+S15,Undergraduate,ENGL    146DR,RALEY R M,C+,1
+S15,Undergraduate,ENGL    146DR,RALEY R M,C,1
+S15,Undergraduate,ENGL    147VN,DOUGLASS J H,A,21
+S15,Undergraduate,ENGL    147VN,DOUGLASS J H,A-,4
+S15,Undergraduate,ENGL    147VN,DOUGLASS J H,B+,1
+S15,Undergraduate,ENGL    147VN,DOUGLASS J H,B,9
+S15,Undergraduate,ENGL    147VN,DOUGLASS J H,B-,2
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,A+,1
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,A,9
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,A-,8
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,B+,7
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,B,2
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,B-,1
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,C+,2
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,C,1
+S15,Undergraduate,ENGL    151WR,CALDWELL J M,C-,1
+S15,Undergraduate,ENGL    157,GRIFFIN A R,A,7
+S15,Undergraduate,ENGL    157,GRIFFIN A R,A-,8
+S15,Undergraduate,ENGL    157,GRIFFIN A R,B+,6
+S15,Undergraduate,ENGL    157,GRIFFIN A R,B,7
+S15,Undergraduate,ENGL    157,GRIFFIN A R,B-,2
+S15,Undergraduate,ENGL    157,GRIFFIN A R,C+,2
+S15,Undergraduate,ENGL    157,GRIFFIN A R,C,2
+S15,Undergraduate,ENGL    157,GRIFFIN A R,F,3
+S15,Undergraduate,ENGL    165CP,GUNN G B,A+,2
+S15,Undergraduate,ENGL    165CP,GUNN G B,A,8
+S15,Undergraduate,ENGL    165CP,GUNN G B,A-,9
+S15,Undergraduate,ENGL    165CP,GUNN G B,B+,3
+S15,Undergraduate,ENGL    165CP,GUNN G B,B,3
+S15,Undergraduate,ENGL    165CP,GUNN G B,B-,1
+S15,Undergraduate,ENGL    165CP,GUNN G B,F,1
+S15,Undergraduate,ENGL    165DP,WENDER I V,A+,1
+S15,Undergraduate,ENGL    165DP,WENDER I V,A,6
+S15,Undergraduate,ENGL    165DP,WENDER I V,A-,13
+S15,Undergraduate,ENGL    165DP,WENDER I V,B+,6
+S15,Undergraduate,ENGL    165DP,WENDER I V,B,1
+S15,Undergraduate,ENGL    165DP,WENDER I V,B-,3
+S15,Undergraduate,ENGL    165DP,WENDER I V,C+,1
+S15,Undergraduate,ENGL    165DP,WENDER I V,F,1
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,A+,1
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,A,15
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,A-,11
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,B+,11
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,B,1
+S15,Undergraduate,ENGL    165LP,SHEWRY T J,F,1
+S15,Undergraduate,ENGL    169,COOK E H,A,10
+S15,Undergraduate,ENGL    169,COOK E H,A-,5
+S15,Undergraduate,ENGL    169,COOK E H,B+,3
+S15,Undergraduate,ENGL    169,COOK E H,B,3
+S15,Undergraduate,ENGL    170CM,YOUNG K,A+,1
+S15,Undergraduate,ENGL    170CM,YOUNG K,A,21
+S15,Undergraduate,ENGL    170CM,YOUNG K,A-,14
+S15,Undergraduate,ENGL    170CM,YOUNG K,B+,9
+S15,Undergraduate,ENGL    170CM,YOUNG K,B,6
+S15,Undergraduate,ENGL    170CM,YOUNG K,B-,6
+S15,Undergraduate,ENGL    170CM,YOUNG K,C+,2
+S15,Undergraduate,ENGL    170CM,YOUNG K,C,1
+S15,Undergraduate,ENGL    170CM,YOUNG K,C-,2
+S15,Undergraduate,ENGL    170CM,YOUNG K,D,2
+S15,Undergraduate,ENGL    170CM,YOUNG K,D-,1
+S15,Undergraduate,ENGL    170CM,YOUNG K,F,3
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,A+,1
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,A,5
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,A-,10
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,B+,15
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,B,1
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,D,1
+S15,Undergraduate,ENGL    170IM,FRADENBURG L,F,1
+S15,Undergraduate,ENGL    176PL,BATISTE S L,A,2
+S15,Undergraduate,ENGL    176PL,BATISTE S L,A-,4
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,A+,1
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,A,11
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,A-,6
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,B+,3
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,B,15
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,B-,1
+S15,Undergraduate,ENGL    192,POKORNOWSKI S,C+,1
+S15,Undergraduate,ENGL    195I,WAID C J,A,7
+S15,Undergraduate,ENGL    197,DELOMBARD J M,A,1
+S15,Undergraduate,ENGL    197,DELOMBARD J M,A-,1
+S15,Undergraduate,ENGL    197,DELOMBARD J M,B+,1
+S15,Undergraduate,ENGL    197,DELOMBARD J M,B,2
+S15,Undergraduate,ENGL    197,DELOMBARD J M,B-,2
+S15,Undergraduate,ENGL    197,DELOMBARD J M,C+,1
+S15,Undergraduate,ENGL    197,DELOMBARD J M,F,1
+S15,Undergraduate,ENGL    197,LIU A Y,A,3
+S15,Undergraduate,ENGL    197,LIU A Y,A-,2
+S15,Undergraduate,ENGL    197,LIU A Y,B+,2
+S15,Undergraduate,ENGL    197,LIU A Y,B,2
+S15,Undergraduate,ENGL    197,PALMER M E,A,2
+S15,Undergraduate,ENGL    197,PALMER M E,A-,2
+S15,Undergraduate,ENGL    197,PALMER M E,B,3
+S15,Undergraduate,ENGL    197,RALEY R M,A+,2
+S15,Undergraduate,ENGL    197,RALEY R M,A,3
+S15,Undergraduate,ENGL    197,RALEY R M,A-,2
+S15,Undergraduate,ENGL    197,RALEY R M,B+,4
+S15,Undergraduate,ENGL    197,RALEY R M,B,1
+S15,Undergraduate,ENGL    197,RALEY R M,B-,2
+S15,Undergraduate,ENGL    197,RANA S,A,2
+S15,Undergraduate,ENGL    197,RANA S,A-,3
+S15,Undergraduate,ENGL    197,RANA S,B+,1
+S15,Undergraduate,ENGL    197,RANA S,B,2
+S15,Undergraduate,ENGL    197,RANA S,D-,1
+S15,Undergraduate,ENGL    197,SALTON-COX G,A,8
+S15,Undergraduate,ENGL    197,YOUNG K,A,1
+S15,Undergraduate,ENGL    197,YOUNG K,A-,6
+S15,Undergraduate,ENGL    197,YOUNG K,B+,5
+S15,Undergraduate,ENGL    197,YOUNG K,B,2
+S15,Undergraduate,ENGL    197,YOUNG K,C+,1
+S15,Undergraduate,ENGL    198H,HILTNER K C,A,8
+S15,Undergraduate,ENGL    198H,HILTNER K C,B,1
+S15,Undergraduate,ENGL    199,HILTNER K C,A,5
+S15,Undergraduate,ENGL    199,HILTNER K C,A-,1
+S15,Undergraduate,ENGL    199,HILTNER K C,B+,1
+S15,Undergraduate,ENGL    199,HILTNER K C,B,1
+S15,Undergraduate,ENGL    199RA,FUMERTON M P,A,5
+S15,Graduate,ENGL    231,KEARNEY J J,A,6
+S15,Graduate,ENGL    234,GUTIERREZ-JON,A,5
+S15,Graduate,ENGL    234,SAMOLSKY R E,A,9
+S15,Graduate,ENGL    236,SALTON-COX G,A,6
+S15,Graduate,HIST    201E,ENGLISH E D,A,5
+S15,Graduate,ME ST   200C,ENGLISH E D,S,5
+S15,Undergraduate,POL S   106IC,ENGLUND S H,A,12
+S15,Undergraduate,POL S   106IC,ENGLUND S H,A-,25
+S15,Undergraduate,POL S   106IC,ENGLUND S H,B+,15
+S15,Undergraduate,POL S   106IC,ENGLUND S H,B,3
+S15,Undergraduate,POL S   106IC,ENGLUND S H,B-,1

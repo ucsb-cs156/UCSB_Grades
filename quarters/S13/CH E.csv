@@ -1,0 +1,80 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S13,Undergraduate,CH E     55,DOHERTY M F,A+,2
+S13,Undergraduate,CH E     55,DOHERTY M F,A,3
+S13,Undergraduate,CH E     55,DOHERTY M F,A-,3
+S13,Undergraduate,CH E    110B,SANDALL O C,A,11
+S13,Undergraduate,CH E    110B,SANDALL O C,A-,7
+S13,Undergraduate,CH E    110B,SANDALL O C,B+,10
+S13,Undergraduate,CH E    110B,SANDALL O C,B,9
+S13,Undergraduate,CH E    110B,SANDALL O C,B-,7
+S13,Undergraduate,CH E    110B,SANDALL O C,C+,8
+S13,Undergraduate,CH E    110B,SANDALL O C,C,5
+S13,Undergraduate,CH E    110B,SANDALL O C,C-,1
+S13,Undergraduate,CH E    120C,PETERS B G,A+,2
+S13,Undergraduate,CH E    120C,PETERS B G,A,3
+S13,Undergraduate,CH E    120C,PETERS B G,A-,11
+S13,Undergraduate,CH E    120C,PETERS B G,B+,5
+S13,Undergraduate,CH E    120C,PETERS B G,B,7
+S13,Undergraduate,CH E    120C,PETERS B G,B-,2
+S13,Undergraduate,CH E    120C,PETERS B G,C+,3
+S13,Undergraduate,CH E    120C,PETERS B G,C,6
+S13,Undergraduate,CH E    120C,PETERS B G,C-,6
+S13,Undergraduate,CH E    120C,PETERS B G,D,3
+S13,Undergraduate,CH E    140A,GORDON M J,A+,4
+S13,Undergraduate,CH E    140A,GORDON M J,A,14
+S13,Undergraduate,CH E    140A,GORDON M J,A-,4
+S13,Undergraduate,CH E    140A,GORDON M J,B+,5
+S13,Undergraduate,CH E    140A,GORDON M J,B,12
+S13,Undergraduate,CH E    140A,GORDON M J,B-,1
+S13,Undergraduate,CH E    140A,GORDON M J,C+,2
+S13,Undergraduate,CH E    140A,GORDON M J,C,3
+S13,Undergraduate,CH E    141,MCFARLAND E W,A+,2
+S13,Undergraduate,CH E    141,MCFARLAND E W,A,1
+S13,Undergraduate,CH E    141,MCFARLAND E W,A-,6
+S13,Undergraduate,CH E    141,MCFARLAND E W,B+,6
+S13,Undergraduate,CH E    141,MCFARLAND E W,B,3
+S13,Undergraduate,CH E    141,MCFARLAND E W,B-,3
+S13,Undergraduate,CH E    171,O'MALLEY M A,A+,2
+S13,Undergraduate,CH E    171,O'MALLEY M A,A,7
+S13,Undergraduate,CH E    171,O'MALLEY M A,A-,4
+S13,Undergraduate,CH E    171,O'MALLEY M A,B+,1
+S13,Undergraduate,CH E    171,O'MALLEY M A,B,1
+S13,Undergraduate,CH E    180A,CHMELKA B F,A+,8
+S13,Undergraduate,CH E    180A,CHMELKA B F,A,8
+S13,Undergraduate,CH E    180A,CHMELKA B F,A-,8
+S13,Undergraduate,CH E    180A,CHMELKA B F,B+,8
+S13,Undergraduate,CH E    180A,CHMELKA B F,B,5
+S13,Undergraduate,CH E    180A,CHMELKA B F,B-,4
+S13,Undergraduate,CH E    180A,CHMELKA B F,C,2
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,A+,8
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,A,8
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,A-,8
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,B+,8
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,B,5
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,B-,4
+S13,Undergraduate,CH E    180A,ISRAELACHVILI,C,2
+S13,Undergraduate,CH E    184B,DOHERTY M F,A,11
+S13,Undergraduate,CH E    184B,DOHERTY M F,A-,9
+S13,Undergraduate,CH E    184B,DOHERTY M F,B+,10
+S13,Undergraduate,CH E    184B,DOHERTY M F,B,27
+S13,Undergraduate,CH E    184B,DOHERTY M F,B-,7
+S13,Undergraduate,CH E    184B,DOHERTY M F,C+,3
+S13,Undergraduate,CH E    184B,SHELL M S,A,11
+S13,Undergraduate,CH E    184B,SHELL M S,A-,9
+S13,Undergraduate,CH E    184B,SHELL M S,B+,10
+S13,Undergraduate,CH E    184B,SHELL M S,B,27
+S13,Undergraduate,CH E    184B,SHELL M S,B-,7
+S13,Undergraduate,CH E    184B,SHELL M S,C+,3
+S13,Graduate,CH E    220C,SQUIRES T M,A+,1
+S13,Graduate,CH E    220C,SQUIRES T M,A,28
+S13,Graduate,CH E    220C,SQUIRES T M,A-,5
+S13,Graduate,CH E    220C,SQUIRES T M,B,1
+S13,Graduate,CH E    290,HELGESON M E,S,70
+S13,Graduate,CH E    291,CHMELKA B F,S,6
+S13,Graduate,CH E    291,FREDRICKSON G,S,5
+S13,Graduate,CH E    291,GORDON M J,S,6
+S13,Graduate,CH E    291,ISRAELACHVILI,S,5
+S13,Graduate,CH E    291,LEAL L G,S,6
+S13,Graduate,CH E    596,ISRAELACHVILI,S,5
+S13,Graduate,CH E    599,CHMELKA B F,S,6
+S13,Graduate,CH E    599,LEAL L G,S,6

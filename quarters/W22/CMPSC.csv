@@ -1,0 +1,243 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W22,Undergraduate,CMPSC     5A,SOLIS S W,A,32
+W22,Undergraduate,CMPSC     5A,SOLIS S W,A-,12
+W22,Undergraduate,CMPSC     5A,SOLIS S W,A+,16
+W22,Undergraduate,CMPSC     5A,SOLIS S W,B,3
+W22,Undergraduate,CMPSC     5A,SOLIS S W,B+,2
+W22,Undergraduate,CMPSC     5A,SOLIS S W,C,1
+W22,Undergraduate,CMPSC     5A,SOLIS S W,D,1
+W22,Undergraduate,CMPSC     5A,SOLIS S W,D+,1
+W22,Undergraduate,CMPSC     5B,SOLIS S W,A,7
+W22,Undergraduate,CMPSC     5B,SOLIS S W,A-,1
+W22,Undergraduate,CMPSC     5B,SOLIS S W,A+,8
+W22,Undergraduate,CMPSC     5B,SOLIS S W,B,1
+W22,Undergraduate,CMPSC     5B,SOLIS S W,B+,1
+W22,Undergraduate,CMPSC     5B,SOLIS S W,D,1
+W22,Undergraduate,CMPSC     9,WANG R K,A,21
+W22,Undergraduate,CMPSC     9,WANG R K,A-,16
+W22,Undergraduate,CMPSC     9,WANG R K,A+,6
+W22,Undergraduate,CMPSC     9,WANG R K,B,16
+W22,Undergraduate,CMPSC     9,WANG R K,B-,8
+W22,Undergraduate,CMPSC     9,WANG R K,B+,13
+W22,Undergraduate,CMPSC     9,WANG R K,C,5
+W22,Undergraduate,CMPSC     9,WANG R K,C-,5
+W22,Undergraduate,CMPSC     9,WANG R K,C+,7
+W22,Undergraduate,CMPSC     9,WANG R K,D-,3
+W22,Undergraduate,CMPSC     9,WANG R K,D+,1
+W22,Undergraduate,CMPSC     9,WANG R K,F,2
+W22,Undergraduate,CMPSC    16,DENG Z,A,25
+W22,Undergraduate,CMPSC    16,DENG Z,A-,22
+W22,Undergraduate,CMPSC    16,DENG Z,A+,15
+W22,Undergraduate,CMPSC    16,DENG Z,B,14
+W22,Undergraduate,CMPSC    16,DENG Z,B-,10
+W22,Undergraduate,CMPSC    16,DENG Z,B+,20
+W22,Undergraduate,CMPSC    16,DENG Z,C,1
+W22,Undergraduate,CMPSC    16,DENG Z,C-,1
+W22,Undergraduate,CMPSC    16,DENG Z,C+,4
+W22,Undergraduate,CMPSC    16,DENG Z,D,2
+W22,Undergraduate,CMPSC    16,DENG Z,F,3
+W22,Undergraduate,CMPSC    24,MIRZA D,A,82
+W22,Undergraduate,CMPSC    24,MIRZA D,A-,30
+W22,Undergraduate,CMPSC    24,MIRZA D,A+,70
+W22,Undergraduate,CMPSC    24,MIRZA D,B,18
+W22,Undergraduate,CMPSC    24,MIRZA D,B-,8
+W22,Undergraduate,CMPSC    24,MIRZA D,B+,16
+W22,Undergraduate,CMPSC    24,MIRZA D,C,3
+W22,Undergraduate,CMPSC    24,MIRZA D,C-,1
+W22,Undergraduate,CMPSC    24,MIRZA D,C+,7
+W22,Undergraduate,CMPSC    24,MIRZA D,F,8
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,A,28
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,A-,11
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,A+,1
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,B,16
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,B-,2
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,B+,9
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,C,3
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,C+,1
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,D+,1
+W22,Undergraduate,CMPSC    40,LOKSHTANOV D,F,3
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,A,47
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,A-,9
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,A+,4
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,B,2
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,B-,3
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,B+,6
+W22,Undergraduate,CMPSC    64,SHERWOOD T P,C,2
+W22,Undergraduate,CMPSC   100,MIRZA D,A,12
+W22,Undergraduate,CMPSC   100,MIRZA D,A+,6
+W22,Undergraduate,CMPSC   111,MATNI Z A,A,21
+W22,Undergraduate,CMPSC   111,MATNI Z A,A-,14
+W22,Undergraduate,CMPSC   111,MATNI Z A,A+,3
+W22,Undergraduate,CMPSC   111,MATNI Z A,B,6
+W22,Undergraduate,CMPSC   111,MATNI Z A,B-,4
+W22,Undergraduate,CMPSC   111,MATNI Z A,B+,10
+W22,Undergraduate,CMPSC   111,MATNI Z A,C-,1
+W22,Undergraduate,CMPSC   111,MATNI Z A,C+,2
+W22,Undergraduate,CMPSC   130A,SINGH A K,A,19
+W22,Undergraduate,CMPSC   130A,SINGH A K,A-,9
+W22,Undergraduate,CMPSC   130A,SINGH A K,A+,6
+W22,Undergraduate,CMPSC   130A,SINGH A K,B,12
+W22,Undergraduate,CMPSC   130A,SINGH A K,B-,9
+W22,Undergraduate,CMPSC   130A,SINGH A K,B+,5
+W22,Undergraduate,CMPSC   130A,SINGH A K,C,7
+W22,Undergraduate,CMPSC   130A,SINGH A K,C-,4
+W22,Undergraduate,CMPSC   130A,SINGH A K,C+,4
+W22,Undergraduate,CMPSC   130A,SINGH A K,D,1
+W22,Undergraduate,CMPSC   130A,SINGH A K,F,4
+W22,Undergraduate,CMPSC   130B,VIGODA E J,A,37
+W22,Undergraduate,CMPSC   130B,VIGODA E J,A-,14
+W22,Undergraduate,CMPSC   130B,VIGODA E J,A+,3
+W22,Undergraduate,CMPSC   130B,VIGODA E J,B,11
+W22,Undergraduate,CMPSC   130B,VIGODA E J,B-,9
+W22,Undergraduate,CMPSC   130B,VIGODA E J,B+,9
+W22,Undergraduate,CMPSC   130B,VIGODA E J,C,4
+W22,Undergraduate,CMPSC   130B,VIGODA E J,C-,11
+W22,Undergraduate,CMPSC   130B,VIGODA E J,C+,6
+W22,Undergraduate,CMPSC   130B,VIGODA E J,D,2
+W22,Undergraduate,CMPSC   140,YANG T,A,10
+W22,Undergraduate,CMPSC   140,YANG T,A-,5
+W22,Undergraduate,CMPSC   140,YANG T,A+,2
+W22,Undergraduate,CMPSC   140,YANG T,B,6
+W22,Undergraduate,CMPSC   140,YANG T,B-,1
+W22,Undergraduate,CMPSC   140,YANG T,B+,6
+W22,Undergraduate,CMPSC   140,YANG T,C,1
+W22,Undergraduate,CMPSC   140,YANG T,C+,5
+W22,Undergraduate,CMPSC   140,YANG T,D,1
+W22,Undergraduate,CMPSC   140,YANG T,D-,1
+W22,Undergraduate,CMPSC   140,YANG T,D+,3
+W22,Undergraduate,CMPSC   154,MATNI Z A,A,40
+W22,Undergraduate,CMPSC   154,MATNI Z A,A-,27
+W22,Undergraduate,CMPSC   154,MATNI Z A,A+,2
+W22,Undergraduate,CMPSC   154,MATNI Z A,B,12
+W22,Undergraduate,CMPSC   154,MATNI Z A,B-,8
+W22,Undergraduate,CMPSC   154,MATNI Z A,B+,20
+W22,Undergraduate,CMPSC   154,MATNI Z A,C,1
+W22,Undergraduate,CMPSC   154,MATNI Z A,C-,1
+W22,Undergraduate,CMPSC   154,MATNI Z A,C+,4
+W22,Undergraduate,CMPSC   154,MATNI Z A,D,2
+W22,Undergraduate,CMPSC   154,MATNI Z A,F,3
+W22,Undergraduate,CMPSC   156,CONRAD P T,A,12
+W22,Undergraduate,CMPSC   156,CONRAD P T,A-,46
+W22,Undergraduate,CMPSC   156,CONRAD P T,A+,11
+W22,Undergraduate,CMPSC   156,CONRAD P T,B,1
+W22,Undergraduate,CMPSC   156,CONRAD P T,B+,2
+W22,Undergraduate,CMPSC   162,FENG YU,A,12
+W22,Undergraduate,CMPSC   162,FENG YU,A-,2
+W22,Undergraduate,CMPSC   162,FENG YU,A+,37
+W22,Undergraduate,CMPSC   162,FENG YU,B,6
+W22,Undergraduate,CMPSC   162,FENG YU,B-,1
+W22,Undergraduate,CMPSC   162,FENG YU,B+,2
+W22,Undergraduate,CMPSC   162,FENG YU,C+,1
+W22,Undergraduate,CMPSC   162,FENG YU,F,4
+W22,Undergraduate,CMPSC   165A,YAN X,A,36
+W22,Undergraduate,CMPSC   165A,YAN X,A-,19
+W22,Undergraduate,CMPSC   165A,YAN X,A+,15
+W22,Undergraduate,CMPSC   165A,YAN X,B,2
+W22,Undergraduate,CMPSC   165A,YAN X,B-,4
+W22,Undergraduate,CMPSC   165A,YAN X,B+,7
+W22,Undergraduate,CMPSC   165A,YAN X,C,1
+W22,Undergraduate,CMPSC   165A,YAN X,C-,3
+W22,Undergraduate,CMPSC   165A,YAN X,C+,1
+W22,Undergraduate,CMPSC   165A,YAN X,F,1
+W22,Undergraduate,CMPSC   165B,LI LEI,A,16
+W22,Undergraduate,CMPSC   165B,LI LEI,A-,7
+W22,Undergraduate,CMPSC   165B,LI LEI,A+,4
+W22,Undergraduate,CMPSC   165B,LI LEI,B,5
+W22,Undergraduate,CMPSC   165B,LI LEI,B-,6
+W22,Undergraduate,CMPSC   165B,LI LEI,B+,5
+W22,Undergraduate,CMPSC   165B,LI LEI,C,4
+W22,Undergraduate,CMPSC   165B,LI LEI,C-,1
+W22,Undergraduate,CMPSC   165B,LI LEI,C+,3
+W22,Undergraduate,CMPSC   165B,LI LEI,D,2
+W22,Undergraduate,CMPSC   165B,LI LEI,F,1
+W22,Undergraduate,CMPSC   170,GUPTA T,A,8
+W22,Undergraduate,CMPSC   170,GUPTA T,A-,7
+W22,Undergraduate,CMPSC   170,GUPTA T,A+,4
+W22,Undergraduate,CMPSC   170,GUPTA T,B,6
+W22,Undergraduate,CMPSC   170,GUPTA T,B-,1
+W22,Undergraduate,CMPSC   170,GUPTA T,B+,6
+W22,Undergraduate,CMPSC   170,GUPTA T,C,1
+W22,Undergraduate,CMPSC   170,GUPTA T,C-,3
+W22,Undergraduate,CMPSC   170,GUPTA T,C+,2
+W22,Undergraduate,CMPSC   170,GUPTA T,F,2
+W22,Undergraduate,CMPSC   174B,AGRAWAL D,A+,6
+W22,Undergraduate,CMPSC   174B,AGRAWAL D,B,3
+W22,Undergraduate,CMPSC   174B,AGRAWAL D,B-,1
+W22,Undergraduate,CMPSC   176B,GUPTA A,A,15
+W22,Undergraduate,CMPSC   176B,GUPTA A,A-,5
+W22,Undergraduate,CMPSC   176B,GUPTA A,A+,16
+W22,Undergraduate,CMPSC   176B,GUPTA A,B,2
+W22,Undergraduate,CMPSC   176B,GUPTA A,B+,5
+W22,Undergraduate,CMPSC   176B,GUPTA A,C,2
+W22,Undergraduate,CMPSC   185,SRA M,A,42
+W22,Undergraduate,CMPSC   185,SRA M,A-,16
+W22,Undergraduate,CMPSC   185,SRA M,A+,5
+W22,Undergraduate,CMPSC   185,SRA M,B,1
+W22,Undergraduate,CMPSC   185,SRA M,B+,7
+W22,Undergraduate,CMPSC   189B,KRINTZ C,A,53
+W22,Undergraduate,CMPSC   190A,SURI S,A,18
+W22,Undergraduate,CMPSC   190A,SURI S,A-,2
+W22,Undergraduate,CMPSC   190A,SURI S,B,1
+W22,Undergraduate,CMPSC   190DE,FRANKS A,A,8
+W22,Undergraduate,CMPSC   190DE,FRANKS A,A-,2
+W22,Undergraduate,CMPSC   190DE,FRANKS A,B+,4
+W22,Undergraduate,CMPSC   190DE,RUIZ T D,A,8
+W22,Undergraduate,CMPSC   190DE,RUIZ T D,A-,2
+W22,Undergraduate,CMPSC   190DE,RUIZ T D,B+,4
+W22,Undergraduate,CMPSC   190I,WANG Y W,A,8
+W22,Undergraduate,CMPSC   190I,WANG Y W,A-,3
+W22,Undergraduate,CMPSC   190I,WANG Y W,A+,6
+W22,Undergraduate,CMPSC   190I,WANG Y W,B,1
+W22,Undergraduate,CMPSC   190I,WANG Y W,B+,3
+W22,Undergraduate,CMPSC   196,BALKIND J M,A,5
+W22,Undergraduate,CMPSC   196,BALKIND J M,B+,1
+W22,Undergraduate,CMPSC   196,BEYELER M,A,9
+W22,Undergraduate,CMPSC   196,HOLLERER T,A,7
+W22,Undergraduate,CMPSC   196,SINGH A K,A,3
+W22,Undergraduate,CMPSC   196,SINGH A K,A+,2
+W22,Undergraduate,CMPSC   196,WANG Y W,A,5
+W22,Graduate,CMPSC   211B,PETZOLD L,A,1
+W22,Graduate,CMPSC   211B,PETZOLD L,A-,1
+W22,Graduate,CMPSC   211B,PETZOLD L,A+,1
+W22,Graduate,CMPSC   211B,PETZOLD L,B,1
+W22,Graduate,CMPSC   211B,PETZOLD L,B+,2
+W22,Graduate,CMPSC   254,BALKIND J M,A,17
+W22,Graduate,CMPSC   254,BALKIND J M,A-,4
+W22,Graduate,CMPSC   254,BALKIND J M,A+,3
+W22,Graduate,CMPSC   270,WOLSKI R M,A,14
+W22,Graduate,CMPSC   270,WOLSKI R M,A-,1
+W22,Graduate,CMPSC   270,WOLSKI R M,A+,2
+W22,Graduate,CMPSC   270,WOLSKI R M,B+,2
+W22,Graduate,CMPSC   271,EL ABBADI A,A,16
+W22,Graduate,CMPSC   271,EL ABBADI A,A-,2
+W22,Graduate,CMPSC   271,EL ABBADI A,A+,1
+W22,Graduate,CMPSC   271,EL ABBADI A,B,3
+W22,Graduate,CMPSC   271,EL ABBADI A,B-,2
+W22,Graduate,CMPSC   271,EL ABBADI A,B+,2
+W22,Graduate,CMPSC   291A,CHANG SHIYU,A,15
+W22,Graduate,CMPSC   291A,CHANG SHIYU,A+,9
+W22,Graduate,CMPSC   291A,HOLLERER T,A,14
+W22,Graduate,CMPSC   291A,HOLLERER T,A-,4
+W22,Graduate,CMPSC   291A,HOLLERER T,F,1
+W22,Graduate,CMPSC   291A,YAN L,A,3
+W22,Graduate,CMPSC   291A,YAN L,A+,2
+W22,Graduate,CMPSC   292G,ANANTH P V,A,12
+W22,Graduate,CMPSC   292G,ANANTH P V,A-,5
+W22,Graduate,CMPSC   292G,ANANTH P V,A+,4
+W22,Graduate,CMPSC   292G,ANANTH P V,B,2
+W22,Graduate,CMPSC   292G,ANANTH P V,B-,1
+W22,Graduate,CMPSC   292G,ANANTH P V,B+,1
+W22,Graduate,CMPSC   293C,HARDEKOPF B C,A,20
+W22,Graduate,CMPSC   293C,HARDEKOPF B C,A-,6
+W22,Graduate,CMPSC   293C,HARDEKOPF B C,B+,1
+W22,Graduate,CMPSC   595N,FENG YU,S,36
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,A,155
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,A-,29
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,A+,1
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,B,16
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,B-,8
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,B+,17
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,C,6
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,D,5
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,D+,5
+W22,Undergraduate,CMPSCW    8,KHARITONOVA Y,F,32

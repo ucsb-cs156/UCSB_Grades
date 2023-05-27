@@ -1,0 +1,91 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,CH E    110B,SCOTT S L,A+,9
+S20,Undergraduate,CH E    110B,SCOTT S L,A,10
+S20,Undergraduate,CH E    110B,SCOTT S L,A-,14
+S20,Undergraduate,CH E    110B,SCOTT S L,B+,8
+S20,Undergraduate,CH E    110B,SCOTT S L,B,6
+S20,Undergraduate,CH E    110B,SCOTT S L,B-,7
+S20,Undergraduate,CH E    110B,SCOTT S L,C+,1
+S20,Undergraduate,CH E    110B,SCOTT S L,C,3
+S20,Undergraduate,CH E    110B,SCOTT S L,F,1
+S20,Undergraduate,CH E    120C,DEY S S,A+,2
+S20,Undergraduate,CH E    120C,DEY S S,A,16
+S20,Undergraduate,CH E    120C,DEY S S,A-,8
+S20,Undergraduate,CH E    120C,DEY S S,B+,7
+S20,Undergraduate,CH E    120C,DEY S S,B,5
+S20,Undergraduate,CH E    120C,DEY S S,B-,6
+S20,Undergraduate,CH E    120C,DEY S S,C+,2
+S20,Undergraduate,CH E    120C,DEY S S,C,5
+S20,Undergraduate,CH E    126,SQUIRES T M,A+,1
+S20,Undergraduate,CH E    126,SQUIRES T M,A,9
+S20,Undergraduate,CH E    126,SQUIRES T M,A-,3
+S20,Undergraduate,CH E    126,SQUIRES T M,B+,5
+S20,Undergraduate,CH E    126,SQUIRES T M,B,2
+S20,Undergraduate,CH E    126,SQUIRES T M,B-,2
+S20,Undergraduate,CH E    126,SQUIRES T M,C,1
+S20,Undergraduate,CH E    126,SQUIRES T M,F,1
+S20,Undergraduate,CH E    132A,TAKATORI S,A+,1
+S20,Undergraduate,CH E    132A,TAKATORI S,A,5
+S20,Undergraduate,CH E    132A,TAKATORI S,A-,3
+S20,Undergraduate,CH E    132A,TAKATORI S,B+,7
+S20,Undergraduate,CH E    132A,TAKATORI S,B,10
+S20,Undergraduate,CH E    132A,TAKATORI S,B-,8
+S20,Undergraduate,CH E    132A,TAKATORI S,C,6
+S20,Undergraduate,CH E    132A,TAKATORI S,D+,1
+S20,Undergraduate,CH E    132A,TAKATORI S,D,2
+S20,Undergraduate,CH E    132A,TAKATORI S,F,6
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,A,5
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,A-,9
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,B+,13
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,B,7
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,B-,4
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,C+,7
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,D,4
+S20,Undergraduate,CH E    140A,CHRISTOPHER P,D-,2
+S20,Undergraduate,CH E    152A,CHADA J P,A,8
+S20,Undergraduate,CH E    152A,CHADA J P,A-,10
+S20,Undergraduate,CH E    152A,CHADA J P,B+,7
+S20,Undergraduate,CH E    152A,CHADA J P,B,11
+S20,Undergraduate,CH E    152A,CHADA J P,B-,5
+S20,Undergraduate,CH E    152A,CHADA J P,C,6
+S20,Undergraduate,CH E    152A,CHADA J P,D,2
+S20,Undergraduate,CH E    152A,CHADA J P,F,1
+S20,Undergraduate,CH E    174,MUKHERJEE ARN,A+,6
+S20,Undergraduate,CH E    174,MUKHERJEE ARN,A,11
+S20,Undergraduate,CH E    174,MUKHERJEE ARN,A-,3
+S20,Undergraduate,CH E    174,MUKHERJEE ARN,B-,1
+S20,Undergraduate,CH E    174,MUKHERJEE ARN,C-,2
+S20,Undergraduate,CH E    184B,DOHERTY M F,A,12
+S20,Undergraduate,CH E    184B,DOHERTY M F,A-,9
+S20,Undergraduate,CH E    184B,DOHERTY M F,B+,6
+S20,Undergraduate,CH E    184B,DOHERTY M F,B,10
+S20,Undergraduate,CH E    184B,DOHERTY M F,B-,9
+S20,Undergraduate,CH E    184B,DOHERTY M F,C+,3
+S20,Undergraduate,CH E    184B,DOHERTY M F,C,3
+S20,Undergraduate,CH E    184B,MCFARLAND E W,A,12
+S20,Undergraduate,CH E    184B,MCFARLAND E W,A-,9
+S20,Undergraduate,CH E    184B,MCFARLAND E W,B+,6
+S20,Undergraduate,CH E    184B,MCFARLAND E W,B,10
+S20,Undergraduate,CH E    184B,MCFARLAND E W,B-,9
+S20,Undergraduate,CH E    184B,MCFARLAND E W,C+,3
+S20,Undergraduate,CH E    184B,MCFARLAND E W,C,3
+S20,Graduate,CH E    210B,SHELL M S,A+,2
+S20,Graduate,CH E    210B,SHELL M S,A,6
+S20,Graduate,CH E    210B,SHELL M S,A-,5
+S20,Graduate,CH E    210B,SHELL M S,B+,1
+S20,Graduate,CH E    210B,SHELL M S,B,2
+S20,Graduate,CH E    210C,BROWN F L,A,7
+S20,Graduate,CH E    222B,PITENIS A A,A,5
+S20,Graduate,CH E    228,SQUIRES T M,A+,2
+S20,Graduate,CH E    228,SQUIRES T M,A,4
+S20,Graduate,CH E    290,SHELL M S,S,75
+S20,Graduate,CH E    291,CHRISTOPHER P,S,6
+S20,Graduate,CH E    291,HELGESON M E,S,6
+S20,Graduate,CH E    291,O'MALLEY M A,S,9
+S20,Graduate,CH E    291,SEGALMAN R A,S,7
+S20,Graduate,CH E    291,SHELL M S,S,7
+S20,Graduate,CH E    594,RAWLINGS J B,A,13
+S20,Graduate,CH E    596,CHMELKA B F,S,5
+S20,Graduate,CH E    596,CHRISTOPHER P,S,5
+S20,Graduate,CH E    596,O'MALLEY M A,S,8
+S20,Graduate,CH E    596,SHELL M S,S,7

@@ -1,0 +1,274 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W10,Undergraduate,MCDB      1BL,BUSH D S,A+,1
+W10,Undergraduate,MCDB      1BL,BUSH D S,A,6
+W10,Undergraduate,MCDB      1BL,BUSH D S,B+,3
+W10,Undergraduate,MCDB      1BL,BUSH D S,B,6
+W10,Undergraduate,MCDB      1BL,BUSH D S,B-,5
+W10,Undergraduate,MCDB      1BL,BUSH D S,C+,1
+W10,Undergraduate,MCDB      1BL,BUSH D S,C,2
+W10,Undergraduate,MCDB      1BL,BUSH D S,C-,1
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,A+,1
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,A,6
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,B+,3
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,B,6
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,B-,5
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,C+,1
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,C,2
+W10,Undergraduate,MCDB      1BL,FINKELSTEIN R,C-,1
+W10,Undergraduate,MCDB      1BL,WEIMBS T,A+,1
+W10,Undergraduate,MCDB      1BL,WEIMBS T,A,6
+W10,Undergraduate,MCDB      1BL,WEIMBS T,B+,3
+W10,Undergraduate,MCDB      1BL,WEIMBS T,B,6
+W10,Undergraduate,MCDB      1BL,WEIMBS T,B-,5
+W10,Undergraduate,MCDB      1BL,WEIMBS T,C+,1
+W10,Undergraduate,MCDB      1BL,WEIMBS T,C,2
+W10,Undergraduate,MCDB      1BL,WEIMBS T,C-,1
+W10,Undergraduate,MCDB     23,KOHL D M,A+,3
+W10,Undergraduate,MCDB     23,KOHL D M,A,31
+W10,Undergraduate,MCDB     23,KOHL D M,A-,15
+W10,Undergraduate,MCDB     23,KOHL D M,B+,19
+W10,Undergraduate,MCDB     23,KOHL D M,B,54
+W10,Undergraduate,MCDB     23,KOHL D M,B-,16
+W10,Undergraduate,MCDB     23,KOHL D M,C+,11
+W10,Undergraduate,MCDB     23,KOHL D M,C,76
+W10,Undergraduate,MCDB     23,KOHL D M,C-,4
+W10,Undergraduate,MCDB     23,KOHL D M,D,3
+W10,Undergraduate,MCDB     23,KOHL D M,F,4
+W10,Undergraduate,MCDB     27,JULLIEN D M,A,1
+W10,Undergraduate,MCDB     27,JULLIEN D M,A-,5
+W10,Undergraduate,MCDB     27,JULLIEN D M,B+,14
+W10,Undergraduate,MCDB     27,JULLIEN D M,B,13
+W10,Undergraduate,MCDB     27,JULLIEN D M,B-,11
+W10,Undergraduate,MCDB     27,JULLIEN D M,C+,3
+W10,Undergraduate,MCDB     27,JULLIEN D M,C,4
+W10,Undergraduate,MCDB     27,JULLIEN D M,C-,3
+W10,Undergraduate,MCDB     27,JULLIEN D M,F,2
+W10,Undergraduate,MCDB     27,KOSIK K S,A,1
+W10,Undergraduate,MCDB     27,KOSIK K S,A-,5
+W10,Undergraduate,MCDB     27,KOSIK K S,B+,14
+W10,Undergraduate,MCDB     27,KOSIK K S,B,13
+W10,Undergraduate,MCDB     27,KOSIK K S,B-,11
+W10,Undergraduate,MCDB     27,KOSIK K S,C+,3
+W10,Undergraduate,MCDB     27,KOSIK K S,C,4
+W10,Undergraduate,MCDB     27,KOSIK K S,C-,3
+W10,Undergraduate,MCDB     27,KOSIK K S,F,2
+W10,Undergraduate,MCDB    101A,THROWER D A,A+,2
+W10,Undergraduate,MCDB    101A,THROWER D A,A,26
+W10,Undergraduate,MCDB    101A,THROWER D A,A-,9
+W10,Undergraduate,MCDB    101A,THROWER D A,B+,17
+W10,Undergraduate,MCDB    101A,THROWER D A,B,15
+W10,Undergraduate,MCDB    101A,THROWER D A,B-,10
+W10,Undergraduate,MCDB    101A,THROWER D A,C+,6
+W10,Undergraduate,MCDB    101A,THROWER D A,C,12
+W10,Undergraduate,MCDB    101A,THROWER D A,C-,5
+W10,Undergraduate,MCDB    101A,THROWER D A,D+,3
+W10,Undergraduate,MCDB    101A,THROWER D A,D,7
+W10,Undergraduate,MCDB    101A,THROWER D A,F,3
+W10,Undergraduate,MCDB    101B,POOLE S J,A+,2
+W10,Undergraduate,MCDB    101B,POOLE S J,A,20
+W10,Undergraduate,MCDB    101B,POOLE S J,A-,3
+W10,Undergraduate,MCDB    101B,POOLE S J,B+,12
+W10,Undergraduate,MCDB    101B,POOLE S J,B,11
+W10,Undergraduate,MCDB    101B,POOLE S J,B-,3
+W10,Undergraduate,MCDB    101B,POOLE S J,C+,18
+W10,Undergraduate,MCDB    101B,POOLE S J,C,7
+W10,Undergraduate,MCDB    101B,POOLE S J,C-,13
+W10,Undergraduate,MCDB    101B,POOLE S J,D,8
+W10,Undergraduate,MCDB    101B,POOLE S J,F,4
+W10,Undergraduate,MCDB    103,MA D,A+,2
+W10,Undergraduate,MCDB    103,MA D,A,8
+W10,Undergraduate,MCDB    103,MA D,A-,7
+W10,Undergraduate,MCDB    103,MA D,B+,17
+W10,Undergraduate,MCDB    103,MA D,B,21
+W10,Undergraduate,MCDB    103,MA D,B-,17
+W10,Undergraduate,MCDB    103,MA D,C+,6
+W10,Undergraduate,MCDB    103,MA D,C,16
+W10,Undergraduate,MCDB    103,MA D,C-,9
+W10,Undergraduate,MCDB    103,MA D,D+,3
+W10,Undergraduate,MCDB    103,MA D,D,2
+W10,Undergraduate,MCDB    103,MA D,D-,2
+W10,Undergraduate,MCDB    103,MA D,F,1
+W10,Undergraduate,MCDB    103L,WEIMBS T,A+,1
+W10,Undergraduate,MCDB    103L,WEIMBS T,A,4
+W10,Undergraduate,MCDB    103L,WEIMBS T,A-,5
+W10,Undergraduate,MCDB    103L,WEIMBS T,B+,2
+W10,Undergraduate,MCDB    103L,WEIMBS T,B,6
+W10,Undergraduate,MCDB    103L,WEIMBS T,B-,7
+W10,Undergraduate,MCDB    103L,WEIMBS T,C+,4
+W10,Undergraduate,MCDB    103L,WEIMBS T,C,4
+W10,Undergraduate,MCDB    103L,WEIMBS T,C-,2
+W10,Undergraduate,MCDB    108B,LEW G J,A,14
+W10,Undergraduate,MCDB    108B,LEW G J,A-,14
+W10,Undergraduate,MCDB    108B,LEW G J,B+,13
+W10,Undergraduate,MCDB    108B,LEW G J,B,20
+W10,Undergraduate,MCDB    108B,LEW G J,B-,11
+W10,Undergraduate,MCDB    108B,LEW G J,C+,20
+W10,Undergraduate,MCDB    108B,LEW G J,C,13
+W10,Undergraduate,MCDB    108B,LEW G J,C-,16
+W10,Undergraduate,MCDB    108B,LEW G J,D,8
+W10,Undergraduate,MCDB    108B,LEW G J,F,4
+W10,Undergraduate,MCDB    110,LOW S H,A+,1
+W10,Undergraduate,MCDB    110,LOW S H,A,12
+W10,Undergraduate,MCDB    110,LOW S H,A-,15
+W10,Undergraduate,MCDB    110,LOW S H,B+,6
+W10,Undergraduate,MCDB    110,LOW S H,B,13
+W10,Undergraduate,MCDB    110,LOW S H,B-,8
+W10,Undergraduate,MCDB    110,LOW S H,C+,8
+W10,Undergraduate,MCDB    110,LOW S H,C,6
+W10,Undergraduate,MCDB    110,LOW S H,C-,8
+W10,Undergraduate,MCDB    110,LOW S H,D,3
+W10,Undergraduate,MCDB    110,LOW S H,F,2
+W10,Undergraduate,MCDB    110,ROTHMAN J H,A+,1
+W10,Undergraduate,MCDB    110,ROTHMAN J H,A,12
+W10,Undergraduate,MCDB    110,ROTHMAN J H,A-,15
+W10,Undergraduate,MCDB    110,ROTHMAN J H,B+,6
+W10,Undergraduate,MCDB    110,ROTHMAN J H,B,13
+W10,Undergraduate,MCDB    110,ROTHMAN J H,B-,8
+W10,Undergraduate,MCDB    110,ROTHMAN J H,C+,8
+W10,Undergraduate,MCDB    110,ROTHMAN J H,C,6
+W10,Undergraduate,MCDB    110,ROTHMAN J H,C-,8
+W10,Undergraduate,MCDB    110,ROTHMAN J H,D,3
+W10,Undergraduate,MCDB    110,ROTHMAN J H,F,2
+W10,Undergraduate,MCDB    111,SMITH W,A+,18
+W10,Undergraduate,MCDB    111,SMITH W,A,10
+W10,Undergraduate,MCDB    111,SMITH W,A-,18
+W10,Undergraduate,MCDB    111,SMITH W,B+,14
+W10,Undergraduate,MCDB    111,SMITH W,B,22
+W10,Undergraduate,MCDB    111,SMITH W,B-,16
+W10,Undergraduate,MCDB    111,SMITH W,C+,18
+W10,Undergraduate,MCDB    111,SMITH W,C,22
+W10,Undergraduate,MCDB    111,SMITH W,C-,21
+W10,Undergraduate,MCDB    111,SMITH W,D,7
+W10,Undergraduate,MCDB    111,SMITH W,F,3
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,A+,3
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,A,16
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,A-,3
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,B+,2
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,B,3
+W10,Undergraduate,MCDB    112L,DE TOMASO A W,C,1
+W10,Undergraduate,MCDB    123,KAHN K,A,1
+W10,Undergraduate,MCDB    123,KAHN K,B+,1
+W10,Undergraduate,MCDB    123,KAHN K,B,3
+W10,Undergraduate,MCDB    123,KAHN K,B-,1
+W10,Undergraduate,MCDB    123,KAHN K,C+,1
+W10,Undergraduate,MCDB    123,KAHN K,C-,1
+W10,Undergraduate,MCDB    126B,VANDENBERG C,A+,3
+W10,Undergraduate,MCDB    126B,VANDENBERG C,A,7
+W10,Undergraduate,MCDB    126B,VANDENBERG C,A-,6
+W10,Undergraduate,MCDB    126B,VANDENBERG C,B+,1
+W10,Undergraduate,MCDB    126B,VANDENBERG C,B,8
+W10,Undergraduate,MCDB    126B,VANDENBERG C,B-,2
+W10,Undergraduate,MCDB    126B,VANDENBERG C,C+,2
+W10,Undergraduate,MCDB    126B,VANDENBERG C,C,3
+W10,Undergraduate,MCDB    126B,VANDENBERG C,C-,2
+W10,Undergraduate,MCDB    126B,VANDENBERG C,F,2
+W10,Undergraduate,MCDB    126BL,STOYAN T,A+,2
+W10,Undergraduate,MCDB    126BL,STOYAN T,A,9
+W10,Undergraduate,MCDB    126BL,STOYAN T,A-,1
+W10,Undergraduate,MCDB    126BL,STOYAN T,B+,6
+W10,Undergraduate,MCDB    126BL,STOYAN T,B,7
+W10,Undergraduate,MCDB    126BL,STOYAN T,B-,3
+W10,Undergraduate,MCDB    126BL,STOYAN T,C+,1
+W10,Undergraduate,MCDB    126BL,THROWER D A,A+,2
+W10,Undergraduate,MCDB    126BL,THROWER D A,A,9
+W10,Undergraduate,MCDB    126BL,THROWER D A,A-,1
+W10,Undergraduate,MCDB    126BL,THROWER D A,B+,6
+W10,Undergraduate,MCDB    126BL,THROWER D A,B,7
+W10,Undergraduate,MCDB    126BL,THROWER D A,B-,3
+W10,Undergraduate,MCDB    126BL,THROWER D A,C+,1
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,A+,2
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,A,9
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,A-,1
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,B+,6
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,B,7
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,B-,3
+W10,Undergraduate,MCDB    126BL,VANDENBERG C,C+,1
+W10,Undergraduate,MCDB    132,MAHAN M J,A+,2
+W10,Undergraduate,MCDB    132,MAHAN M J,A,6
+W10,Undergraduate,MCDB    132,MAHAN M J,A-,5
+W10,Undergraduate,MCDB    132,MAHAN M J,B+,4
+W10,Undergraduate,MCDB    132,MAHAN M J,B,15
+W10,Undergraduate,MCDB    132,MAHAN M J,B-,13
+W10,Undergraduate,MCDB    132,MAHAN M J,C+,8
+W10,Undergraduate,MCDB    132,MAHAN M J,C,6
+W10,Undergraduate,MCDB    132,MAHAN M J,C-,10
+W10,Undergraduate,MCDB    132,MAHAN M J,D,2
+W10,Undergraduate,MCDB    132,MAHAN M J,F,1
+W10,Undergraduate,MCDB    132L,MAHAN M J,A,8
+W10,Undergraduate,MCDB    132L,MAHAN M J,A-,5
+W10,Undergraduate,MCDB    132L,MAHAN M J,B+,4
+W10,Undergraduate,MCDB    132L,MAHAN M J,B,10
+W10,Undergraduate,MCDB    132L,MAHAN M J,B-,3
+W10,Undergraduate,MCDB    132L,MAHAN M J,C+,1
+W10,Undergraduate,MCDB    132L,MAHAN M J,C,2
+W10,Undergraduate,MCDB    133,SEARS D W,A,7
+W10,Undergraduate,MCDB    133,SEARS D W,A-,1
+W10,Undergraduate,MCDB    133,SEARS D W,B+,1
+W10,Undergraduate,MCDB    133,SEARS D W,B,4
+W10,Undergraduate,MCDB    133,SEARS D W,B-,2
+W10,Undergraduate,MCDB    133,SEARS D W,C+,1
+W10,Undergraduate,MCDB    133,SEARS D W,C,12
+W10,Undergraduate,MCDB    133,SEARS D W,C-,2
+W10,Undergraduate,MCDB    152,FISHER S K,A+,2
+W10,Undergraduate,MCDB    152,FISHER S K,A,3
+W10,Undergraduate,MCDB    152,FISHER S K,A-,2
+W10,Undergraduate,MCDB    152,FISHER S K,B+,1
+W10,Undergraduate,MCDB    152,FISHER S K,B,6
+W10,Undergraduate,MCDB    152,FISHER S K,B-,3
+W10,Undergraduate,MCDB    152,FISHER S K,C+,2
+W10,Undergraduate,MCDB    152,FISHER S K,C,7
+W10,Undergraduate,MCDB    152,FISHER S K,C-,3
+W10,Undergraduate,MCDB    152,KOSIK K S,A+,2
+W10,Undergraduate,MCDB    152,KOSIK K S,A,3
+W10,Undergraduate,MCDB    152,KOSIK K S,A-,2
+W10,Undergraduate,MCDB    152,KOSIK K S,B+,1
+W10,Undergraduate,MCDB    152,KOSIK K S,B,6
+W10,Undergraduate,MCDB    152,KOSIK K S,B-,3
+W10,Undergraduate,MCDB    152,KOSIK K S,C+,2
+W10,Undergraduate,MCDB    152,KOSIK K S,C,7
+W10,Undergraduate,MCDB    152,KOSIK K S,C-,3
+W10,Undergraduate,MCDB    194MD,DOOHAN N C,P,36
+W10,Graduate,MCDB    220A,THROWER D A,A,6
+W10,Graduate,MCDB    220A,THROWER D A,B+,3
+W10,Graduate,MCDB    220A,THROWER D A,B,2
+W10,Graduate,MCDB    220B,WILSON L,A,4
+W10,Graduate,MCDB    220B,WILSON L,A-,3
+W10,Graduate,MCDB    220B,WILSON L,B,4
+W10,Graduate,MCDB    220C,KOSIK K S,A,7
+W10,Graduate,MCDB    220C,KOSIK K S,A-,3
+W10,Graduate,MCDB    220C,MA D,A,7
+W10,Graduate,MCDB    220C,MA D,A-,3
+W10,Graduate,MCDB    230,HAYES C S,A,1
+W10,Graduate,MCDB    230,HAYES C S,A-,1
+W10,Graduate,MCDB    230,HAYES C S,B+,4
+W10,Graduate,MCDB    230,HAYES C S,B,4
+W10,Graduate,MCDB    230,HAYES C S,B-,1
+W10,Graduate,MCDB    230,LOW D A,A,1
+W10,Graduate,MCDB    230,LOW D A,A-,1
+W10,Graduate,MCDB    230,LOW D A,B+,4
+W10,Graduate,MCDB    230,LOW D A,B,4
+W10,Graduate,MCDB    230,LOW D A,B-,1
+W10,Graduate,MCDB    230,SAMUEL C E,A,1
+W10,Graduate,MCDB    230,SAMUEL C E,A-,1
+W10,Graduate,MCDB    230,SAMUEL C E,B+,4
+W10,Graduate,MCDB    230,SAMUEL C E,B,4
+W10,Graduate,MCDB    230,SAMUEL C E,B-,1
+W10,Graduate,MCDB    252,FISHER S K,A,3
+W10,Graduate,MCDB    252,FISHER S K,B+,1
+W10,Graduate,MCDB    252,FISHER S K,B,2
+W10,Graduate,MCDB    252,KOSIK K S,A,3
+W10,Graduate,MCDB    252,KOSIK K S,B+,1
+W10,Graduate,MCDB    252,KOSIK K S,B,2
+W10,Graduate,MCDB    260,WEIMBS T,S,60
+W10,Graduate,MCDB    262,ROTHMAN J H,S,57
+W10,Graduate,MCDB    263,WEIMBS T,S,59
+W10,Graduate,MCDB    265,SAMUEL C E,S,6
+W10,Graduate,MCDB    266,FEINSTEIN S C,S,6
+W10,Graduate,MCDB    266,FISHER S K,S,6
+W10,Graduate,MCDB    266,MA D,S,6
+W10,Graduate,MCDB    266,VANDENBERG C,S,6
+W10,Graduate,MCDB    501,BUSH D S,S,6
+W10,Graduate,MCDB    596,CLEGG D O,A,5
+W10,Graduate,MCDB    596,HAYES C S,A+,2
+W10,Graduate,MCDB    596,HAYES C S,A,4
+W10,Graduate,MCDB    596,ROTHMAN J H,A,5

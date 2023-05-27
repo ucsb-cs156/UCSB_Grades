@@ -1,0 +1,113 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,DANCE    35,BENNAHUM D,A,16
+S12,Undergraduate,DANCE    35,BENNAHUM D,A-,15
+S12,Undergraduate,DANCE    35,BENNAHUM D,B+,6
+S12,Undergraduate,DANCE    35,BENNAHUM D,B,10
+S12,Undergraduate,DANCE    35,BENNAHUM D,B-,6
+S12,Undergraduate,DANCE    35,BENNAHUM D,C+,3
+S12,Undergraduate,DANCE    35,BENNAHUM D,C-,3
+S12,Undergraduate,DANCE    36,BENNAHUM D,A,24
+S12,Undergraduate,DANCE    36,BENNAHUM D,A-,10
+S12,Undergraduate,DANCE    36,BENNAHUM D,B+,9
+S12,Undergraduate,DANCE    36,BENNAHUM D,B,15
+S12,Undergraduate,DANCE    36,BENNAHUM D,B-,4
+S12,Undergraduate,DANCE    36,BENNAHUM D,C+,5
+S12,Undergraduate,DANCE    36,BENNAHUM D,C,2
+S12,Undergraduate,DANCE    36,BENNAHUM D,D,1
+S12,Undergraduate,DANCE    36,BENNAHUM D,D-,1
+S12,Undergraduate,DANCE    36,BENNAHUM D,F,4
+S12,Undergraduate,DANCE    42C,MOSELEY D,A,16
+S12,Undergraduate,DANCE    42C,MOSELEY D,A-,4
+S12,Undergraduate,DANCE    42C,MOSELEY D,B+,1
+S12,Undergraduate,DANCE    42C,MOSELEY D,B,3
+S12,Undergraduate,DANCE    42F,MOSELEY D,A,7
+S12,Undergraduate,DANCE    42F,MOSELEY D,A-,10
+S12,Undergraduate,DANCE    42F,MOSELEY D,B+,3
+S12,Undergraduate,DANCE    42F,MOSELEY D,B,5
+S12,Undergraduate,DANCE    42F,MOSELEY D,F,1
+S12,Undergraduate,DANCE    44C,MCCARTHY C R,A,25
+S12,Undergraduate,DANCE    44C,MCCARTHY C R,A-,9
+S12,Undergraduate,DANCE    44C,MCCARTHY C R,B+,3
+S12,Undergraduate,DANCE    44C,MCCARTHY C R,B,2
+S12,Undergraduate,DANCE    44C,MCCARTHY C R,F,1
+S12,Undergraduate,DANCE    44F,COLAHAN N,A,12
+S12,Undergraduate,DANCE    44F,COLAHAN N,A-,18
+S12,Undergraduate,DANCE    44F,COLAHAN N,B,1
+S12,Undergraduate,DANCE    44F,COLAHAN N,D,1
+S12,Undergraduate,DANCE    44F,COLAHAN N,F,1
+S12,Undergraduate,DANCE    45,PRESS C M,A+,60
+S12,Undergraduate,DANCE    45,PRESS C M,A,110
+S12,Undergraduate,DANCE    45,PRESS C M,A-,70
+S12,Undergraduate,DANCE    45,PRESS C M,B+,26
+S12,Undergraduate,DANCE    45,PRESS C M,B,95
+S12,Undergraduate,DANCE    45,PRESS C M,B-,24
+S12,Undergraduate,DANCE    45,PRESS C M,C+,9
+S12,Undergraduate,DANCE    45,PRESS C M,C,32
+S12,Undergraduate,DANCE    45,PRESS C M,C-,10
+S12,Undergraduate,DANCE    45,PRESS C M,D+,4
+S12,Undergraduate,DANCE    45,PRESS C M,D,14
+S12,Undergraduate,DANCE    45,PRESS C M,D-,2
+S12,Undergraduate,DANCE    45,PRESS C M,F,5
+S12,Undergraduate,DANCE    47C,HUSTON V G,A,1
+S12,Undergraduate,DANCE    47C,HUSTON V G,A-,3
+S12,Undergraduate,DANCE    47C,HUSTON V G,B+,9
+S12,Undergraduate,DANCE    47C,HUSTON V G,B,4
+S12,Undergraduate,DANCE    47C,MOSELEY D,A,3
+S12,Undergraduate,DANCE    47C,MOSELEY D,A-,3
+S12,Undergraduate,DANCE    47C,MOSELEY D,B+,3
+S12,Undergraduate,DANCE    47F,HUSTON V G,A-,11
+S12,Undergraduate,DANCE    47F,HUSTON V G,B+,6
+S12,Undergraduate,DANCE    47F,HUSTON V G,B,5
+S12,Undergraduate,DANCE    56C,COLAHAN N,A,7
+S12,Undergraduate,DANCE    56C,COLAHAN N,A-,5
+S12,Undergraduate,DANCE    56C,COLAHAN N,B+,3
+S12,Undergraduate,DANCE    56C,COLAHAN N,B,2
+S12,Undergraduate,DANCE    56C,COLAHAN N,F,1
+S12,Undergraduate,DANCE    56C,PILAFIAN C,A,2
+S12,Undergraduate,DANCE    56C,PILAFIAN C,A-,5
+S12,Undergraduate,DANCE    56C,PILAFIAN C,B+,5
+S12,Undergraduate,DANCE    56C,PILAFIAN C,B,2
+S12,Undergraduate,DANCE    56C,PILAFIAN C,B-,1
+S12,Undergraduate,DANCE    56C,PILAFIAN C,C,1
+S12,Undergraduate,DANCE    56C,PILAFIAN C,D+,1
+S12,Undergraduate,DANCE    56F,COLAHAN N,A,5
+S12,Undergraduate,DANCE    56F,COLAHAN N,A-,9
+S12,Undergraduate,DANCE    56F,COLAHAN N,B+,5
+S12,Undergraduate,DANCE    56F,COLAHAN N,B,1
+S12,Undergraduate,DANCE    56F,COLAHAN N,B-,1
+S12,Undergraduate,DANCE    56F,PILAFIAN C,A-,9
+S12,Undergraduate,DANCE    56F,PILAFIAN C,B+,4
+S12,Undergraduate,DANCE    56F,PILAFIAN C,B-,1
+S12,Undergraduate,DANCE   147C,HUSTON V G,A+,1
+S12,Undergraduate,DANCE   147C,HUSTON V G,A,2
+S12,Undergraduate,DANCE   147C,HUSTON V G,A-,11
+S12,Undergraduate,DANCE   147C,HUSTON V G,B+,9
+S12,Undergraduate,DANCE   147C,HUSTON V G,B,1
+S12,Undergraduate,DANCE   147C,HUSTON V G,B-,1
+S12,Undergraduate,DANCE   147PC,HUSTON V G,A,5
+S12,Undergraduate,DANCE   147PC,HUSTON V G,A-,9
+S12,Undergraduate,DANCE   147PC,HUSTON V G,B+,2
+S12,Undergraduate,DANCE   147PC,HUSTON V G,B,1
+S12,Undergraduate,DANCE   149,MCCARTHY C R,A+,3
+S12,Undergraduate,DANCE   149,MCCARTHY C R,A,24
+S12,Undergraduate,DANCE   149,PEARSON J,A,11
+S12,Undergraduate,DANCE   151C,PEARSON J,A,19
+S12,Undergraduate,DANCE   151T,PEARSON J,A,9
+S12,Undergraduate,DANCE   156C,PILAFIAN C,A-,14
+S12,Undergraduate,DANCE   156C,PILAFIAN C,B+,3
+S12,Undergraduate,DANCE   156C,STUNKEL M C,A+,1
+S12,Undergraduate,DANCE   156C,STUNKEL M C,A,5
+S12,Undergraduate,DANCE   156C,STUNKEL M C,A-,6
+S12,Undergraduate,DANCE   156C,STUNKEL M C,B+,3
+S12,Undergraduate,DANCE   156C,STUNKEL M C,B,1
+S12,Undergraduate,DANCE   156F,COLAHAN N,A,11
+S12,Undergraduate,DANCE   156F,STUNKEL M C,A+,1
+S12,Undergraduate,DANCE   156F,STUNKEL M C,A,5
+S12,Undergraduate,DANCE   156F,STUNKEL M C,A-,2
+S12,Undergraduate,DANCE   156F,STUNKEL M C,B+,1
+S12,Undergraduate,DANCE   163,STUNKEL M C,A,9
+S12,Undergraduate,DANCE   190,MOSELEY D,A,11
+S12,Undergraduate,DANCE   191,MCCARTHY C R,A+,1
+S12,Undergraduate,DANCE   191,MCCARTHY C R,A,4
+S12,Undergraduate,DANCE   199,PRESS C M,A+,2
+S12,Undergraduate,DANCE   199,PRESS C M,A,5

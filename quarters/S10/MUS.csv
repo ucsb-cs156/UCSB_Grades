@@ -1,0 +1,277 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,MUS       1,BERKOWITZ P M,P,36
+S10,Undergraduate,MUS       1,BERKOWITZ P M,NP,6
+S10,Undergraduate,MUS       4C,YIH A K,A,9
+S10,Undergraduate,MUS       4C,YIH A K,A-,7
+S10,Undergraduate,MUS       4C,YIH A K,B+,1
+S10,Undergraduate,MUS       4C,YIH A K,B,12
+S10,Undergraduate,MUS       4C,YIH A K,B-,2
+S10,Undergraduate,MUS       4C,YIH A K,C+,2
+S10,Undergraduate,MUS       4C,YIH A K,C,2
+S10,Undergraduate,MUS       4C,YIH A K,C-,1
+S10,Undergraduate,MUS       4C,YIH A K,F,1
+S10,Undergraduate,MUS       4F,YIH A K,A+,3
+S10,Undergraduate,MUS       4F,YIH A K,A,1
+S10,Undergraduate,MUS       4F,YIH A K,A-,6
+S10,Undergraduate,MUS       4F,YIH A K,B+,3
+S10,Undergraduate,MUS       4F,YIH A K,B,1
+S10,Undergraduate,MUS       4F,YIH A K,B-,3
+S10,Undergraduate,MUS       4F,YIH A K,C+,3
+S10,Undergraduate,MUS       4F,YIH A K,C,1
+S10,Undergraduate,MUS       4F,YIH A K,C-,2
+S10,Undergraduate,MUS       5C,YIH A K,A,7
+S10,Undergraduate,MUS       5C,YIH A K,A-,8
+S10,Undergraduate,MUS       5C,YIH A K,B+,3
+S10,Undergraduate,MUS       5C,YIH A K,B,8
+S10,Undergraduate,MUS       5C,YIH A K,B-,7
+S10,Undergraduate,MUS       5C,YIH A K,C,2
+S10,Undergraduate,MUS       5C,YIH A K,C-,3
+S10,Undergraduate,MUS       5C,YIH A K,F,4
+S10,Undergraduate,MUS       5F,PAUL D C,A,3
+S10,Undergraduate,MUS       5F,PAUL D C,A-,1
+S10,Undergraduate,MUS       5F,PAUL D C,B+,5
+S10,Undergraduate,MUS       5F,PAUL D C,B,4
+S10,Undergraduate,MUS       5F,PAUL D C,B-,1
+S10,Undergraduate,MUS       5F,PAUL D C,C+,2
+S10,Undergraduate,MUS       5F,PAUL D C,C,2
+S10,Undergraduate,MUS       5F,PAUL D C,C-,1
+S10,Undergraduate,MUS       5F,PAUL D C,D,1
+S10,Undergraduate,MUS       5F,PAUL D C,F,4
+S10,Undergraduate,MUS       8,YAGI R,A,6
+S10,Undergraduate,MUS       8,YAGI R,A-,1
+S10,Undergraduate,MUS       8,YAGI R,B-,1
+S10,Undergraduate,MUS       8,YAGI R,F,1
+S10,Undergraduate,MUS      11,TAYLOR W S,A+,14
+S10,Undergraduate,MUS      11,TAYLOR W S,A,38
+S10,Undergraduate,MUS      11,TAYLOR W S,A-,16
+S10,Undergraduate,MUS      11,TAYLOR W S,B+,9
+S10,Undergraduate,MUS      11,TAYLOR W S,B,10
+S10,Undergraduate,MUS      11,TAYLOR W S,B-,7
+S10,Undergraduate,MUS      11,TAYLOR W S,C+,3
+S10,Undergraduate,MUS      11,TAYLOR W S,C,3
+S10,Undergraduate,MUS      11,TAYLOR W S,C-,2
+S10,Undergraduate,MUS      11,TAYLOR W S,D+,1
+S10,Undergraduate,MUS      11,TAYLOR W S,D,3
+S10,Undergraduate,MUS      11,TAYLOR W S,D-,2
+S10,Undergraduate,MUS      11,TAYLOR W S,F,10
+S10,Undergraduate,MUS      15,JOINER M B,A+,44
+S10,Undergraduate,MUS      15,JOINER M B,A,81
+S10,Undergraduate,MUS      15,JOINER M B,A-,55
+S10,Undergraduate,MUS      15,JOINER M B,B+,55
+S10,Undergraduate,MUS      15,JOINER M B,B,66
+S10,Undergraduate,MUS      15,JOINER M B,B-,33
+S10,Undergraduate,MUS      15,JOINER M B,C+,26
+S10,Undergraduate,MUS      15,JOINER M B,C,31
+S10,Undergraduate,MUS      15,JOINER M B,C-,10
+S10,Undergraduate,MUS      15,JOINER M B,D+,6
+S10,Undergraduate,MUS      15,JOINER M B,D,10
+S10,Undergraduate,MUS      15,JOINER M B,F,14
+S10,Undergraduate,MUS      17,ATTREP K A,A+,1
+S10,Undergraduate,MUS      17,ATTREP K A,A,58
+S10,Undergraduate,MUS      17,ATTREP K A,A-,38
+S10,Undergraduate,MUS      17,ATTREP K A,B+,14
+S10,Undergraduate,MUS      17,ATTREP K A,B,9
+S10,Undergraduate,MUS      17,ATTREP K A,B-,5
+S10,Undergraduate,MUS      17,ATTREP K A,C,4
+S10,Undergraduate,MUS      17,ATTREP K A,C-,1
+S10,Undergraduate,MUS      17,ATTREP K A,D+,1
+S10,Undergraduate,MUS      17,ATTREP K A,D,1
+S10,Undergraduate,MUS      17,ATTREP K A,D-,1
+S10,Undergraduate,MUS      17,ATTREP K A,F,4
+S10,Undergraduate,MUS      20A,BRECHER B H,A+,2
+S10,Undergraduate,MUS      20A,BRECHER B H,A,13
+S10,Undergraduate,MUS      20A,BRECHER B H,B+,5
+S10,Undergraduate,MUS      20A,BRECHER B H,B,1
+S10,Undergraduate,MUS      20A,BRECHER B H,C,2
+S10,Undergraduate,MUS      20A,BRECHER B H,F,1
+S10,Undergraduate,MUS      20B,BRECHER B H,A+,1
+S10,Undergraduate,MUS      20B,BRECHER B H,A,10
+S10,Undergraduate,MUS      20B,BRECHER B H,A-,2
+S10,Undergraduate,MUS      20B,BRECHER B H,B+,2
+S10,Undergraduate,MUS      20B,BRECHER B H,D,1
+S10,Undergraduate,MUS      20B,BRECHER B H,F,2
+S10,Undergraduate,MUS      20C,BRECHER B H,A+,4
+S10,Undergraduate,MUS      20C,BRECHER B H,A,4
+S10,Undergraduate,MUS      20C,BRECHER B H,A-,1
+S10,Undergraduate,MUS      20C,BRECHER B H,B+,2
+S10,Undergraduate,MUS      20C,BRECHER B H,B,1
+S10,Undergraduate,MUS      22,OSQUEEZADEH B,A,2
+S10,Undergraduate,MUS      22,OSQUEEZADEH B,A-,2
+S10,Undergraduate,MUS      22,OSQUEEZADEH B,F,1
+S10,Undergraduate,MUS      22,RUDNICKI S,A,7
+S10,Undergraduate,MUS      22,RUDNICKI S,F,2
+S10,Undergraduate,MUS      25,PORETSKY S,A+,7
+S10,Undergraduate,MUS      26D,CALLUS H S,A,5
+S10,Undergraduate,MUS      27C,FELBER J,A,6
+S10,Undergraduate,MUS      31C,KISLENKO N,A+,5
+S10,Undergraduate,MUS      31C,KISLENKO N,A,7
+S10,Undergraduate,MUS      31C,KISLENKO N,A-,10
+S10,Undergraduate,MUS      31C,KISLENKO N,B+,6
+S10,Undergraduate,MUS      31C,KISLENKO N,B,3
+S10,Undergraduate,MUS      31C,KISLENKO N,B-,1
+S10,Undergraduate,MUS      31C,KISLENKO N,C,1
+S10,Undergraduate,MUS      31C,KISLENKO N,F,1
+S10,Undergraduate,MUS      31F,KISLENKO N,A+,2
+S10,Undergraduate,MUS      31F,KISLENKO N,A,6
+S10,Undergraduate,MUS      31F,KISLENKO N,A-,1
+S10,Undergraduate,MUS      31F,KISLENKO N,B+,2
+S10,Undergraduate,MUS      31F,KISLENKO N,B-,3
+S10,Undergraduate,MUS      31F,KISLENKO N,C+,1
+S10,Undergraduate,MUS      31F,KISLENKO N,C-,1
+S10,Undergraduate,MUS      31F,KISLENKO N,F,1
+S10,Undergraduate,MUS      33,ASCHE C B,A,3
+S10,Undergraduate,MUS      33,ASCHE C B,A-,3
+S10,Undergraduate,MUS      33,ASCHE C B,B+,1
+S10,Undergraduate,MUS     103,FEIGIN J S,A,2
+S10,Undergraduate,MUS     103,FEIGIN J S,A-,1
+S10,Undergraduate,MUS     103,FEIGIN J S,B,2
+S10,Undergraduate,MUS     103,FEIGIN J S,C+,2
+S10,Undergraduate,MUS     106C,HALADYNA J J,A+,5
+S10,Undergraduate,MUS     106C,HALADYNA J J,A,6
+S10,Undergraduate,MUS     106C,HALADYNA J J,A-,2
+S10,Undergraduate,MUS     106C,HALADYNA J J,B+,2
+S10,Undergraduate,MUS     106C,HALADYNA J J,B,1
+S10,Undergraduate,MUS     106C,HALADYNA J J,F,1
+S10,Undergraduate,MUS     108,FEIGIN J S,A,3
+S10,Undergraduate,MUS     108,FEIGIN J S,A-,1
+S10,Undergraduate,MUS     108,FEIGIN J S,B+,1
+S10,Undergraduate,MUS     109LC,ROADS C,A+,4
+S10,Undergraduate,MUS     109LC,ROADS C,A,7
+S10,Undergraduate,MUS     109LC,ROADS C,B,2
+S10,Undergraduate,MUS     109LC,ROADS C,B-,1
+S10,Undergraduate,MUS     112C,TCHAROS S S,A,10
+S10,Undergraduate,MUS     112C,TCHAROS S S,A-,3
+S10,Undergraduate,MUS     112C,TCHAROS S S,B+,2
+S10,Undergraduate,MUS     112C,TCHAROS S S,B,11
+S10,Undergraduate,MUS     112C,TCHAROS S S,B-,3
+S10,Undergraduate,MUS     112C,TCHAROS S S,C+,1
+S10,Undergraduate,MUS     112C,TCHAROS S S,C,10
+S10,Undergraduate,MUS     112C,TCHAROS S S,C-,3
+S10,Undergraduate,MUS     112C,TCHAROS S S,D,2
+S10,Undergraduate,MUS     112C,TCHAROS S S,F,2
+S10,Undergraduate,MUS     113B,KATZ D H,A+,1
+S10,Undergraduate,MUS     113B,KATZ D H,A,10
+S10,Undergraduate,MUS     113B,KATZ D H,A-,2
+S10,Undergraduate,MUS     113B,KATZ D H,B+,2
+S10,Undergraduate,MUS     113B,KATZ D H,B,5
+S10,Undergraduate,MUS     113B,KATZ D H,B-,2
+S10,Undergraduate,MUS     113B,KATZ D H,C+,6
+S10,Undergraduate,MUS     114,RUSSELL D L,A+,11
+S10,Undergraduate,MUS     114,RUSSELL D L,A,22
+S10,Undergraduate,MUS     114,RUSSELL D L,A-,26
+S10,Undergraduate,MUS     114,RUSSELL D L,B+,16
+S10,Undergraduate,MUS     114,RUSSELL D L,B,14
+S10,Undergraduate,MUS     114,RUSSELL D L,B-,8
+S10,Undergraduate,MUS     114,RUSSELL D L,C+,2
+S10,Undergraduate,MUS     114,RUSSELL D L,C,2
+S10,Undergraduate,MUS     114,RUSSELL D L,D-,1
+S10,Undergraduate,MUS     114,RUSSELL D L,F,1
+S10,Undergraduate,MUS     118A,RUTKOWSKI G B,A,2
+S10,Undergraduate,MUS     118A,RUTKOWSKI G B,B+,3
+S10,Undergraduate,MUS     118A,RUTKOWSKI G B,B,2
+S10,Undergraduate,MUS     118A,RUTKOWSKI G B,C+,1
+S10,Undergraduate,MUS     118A,RUTKOWSKI G B,C,6
+S10,Undergraduate,MUS     120C,RINTOUL R R,A,1
+S10,Undergraduate,MUS     120C,RINTOUL R R,A-,4
+S10,Undergraduate,MUS     122,WALLACE R N,A+,1
+S10,Undergraduate,MUS     122,WALLACE R N,A,8
+S10,Undergraduate,MUS     127C,FELBER J,A,5
+S10,Undergraduate,MUS     151,BALLERINO J M,A,3
+S10,Undergraduate,MUS     151,BALLERINO J M,A-,1
+S10,Undergraduate,MUS     151,BALLERINO J M,B,1
+S10,Undergraduate,MUS     160C,HALL P,A+,1
+S10,Undergraduate,MUS     160C,HALL P,A,6
+S10,Undergraduate,MUS     160C,HALL P,A-,3
+S10,Undergraduate,MUS     160C,HALL P,B+,1
+S10,Undergraduate,MUS     160C,HALL P,C,1
+S10,Undergraduate,MUS     175M,COOLEY T,A+,4
+S10,Undergraduate,MUS     175M,COOLEY T,A,3
+S10,Undergraduate,MUS     175M,COOLEY T,A-,5
+S10,Undergraduate,MUS     175M,COOLEY T,B+,1
+S10,Undergraduate,MUS     175M,COOLEY T,B,6
+S10,Undergraduate,MUS     175M,COOLEY T,B-,2
+S10,Undergraduate,MUS     175M,COOLEY T,C+,1
+S10,Undergraduate,MUS     175M,COOLEY T,D+,1
+S10,Undergraduate,MUS     175M,COOLEY T,F,1
+S10,Graduate,MUS     204C,YIH A K,A,5
+S10,Graduate,MUS     204C,YIH A K,B+,1
+S10,Graduate,MUS     208,BARLOW C F,A,1
+S10,Graduate,MUS     208,BARLOW C F,A-,4
+S10,Graduate,MUS     219,SAHUC P N,A,5
+S10,Graduate,MUS     220,BRECHER B H,A+,1
+S10,Graduate,MUS     220,BRECHER B H,A,5
+S10,Graduate,MUS     256,BALLERINO J M,A,8
+S10,Graduate,MUS     256,KISLENKO N,A+,1
+S10,Graduate,MUS     256,KISLENKO N,A,4
+S10,Graduate,MUS     268,KATZ D H,A,3
+S10,Graduate,MUS     268,KATZ D H,A-,2
+S10,Graduate,MUS     268,KATZ D H,B,2
+S10,Graduate,MUS     275,ROTHFARB L A,A,5
+S10,Graduate,MUS     293M,COOLEY T,A+,2
+S10,Graduate,MUS     293M,COOLEY T,A,3
+S10,Graduate,MUS     293M,COOLEY T,A-,1
+S10,Graduate,MUS     502,ATTREP K A,S,6
+S10,Graduate,MUS     502,KATZ D H,S,5
+S10,Graduate,MUS     593,TCHAROS S S,S,6
+S10,Graduate,MUS     599A,MARCUS S L,S,6
+S10,Undergraduate,MUS  CS 102,STEWART E L,P,8
+S10,Undergraduate,MUS  CS 105,HOGAN L A,P,10
+S10,Undergraduate,MUS  CS 199,HALADYNA J J,P,6
+S10,Undergraduate,MUS A    34,BAMBACH P A,A,12
+S10,Undergraduate,MUS A    36,GERVAIS M M,A+,5
+S10,Undergraduate,MUS A    36,GERVAIS M M,A,2
+S10,Undergraduate,MUS A    36,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A    37,GERVAIS M M,A+,4
+S10,Undergraduate,MUS A    37,GERVAIS M M,A,10
+S10,Undergraduate,MUS A    37,GERVAIS M M,A-,2
+S10,Undergraduate,MUS A    37,GERVAIS M M,B+,2
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A+,3
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A,4
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A-,4
+S10,Undergraduate,MUS A    37M,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A    42,RINTOUL R R,A+,10
+S10,Undergraduate,MUS A    42,RINTOUL R R,A,20
+S10,Undergraduate,MUS A    42,RINTOUL R R,F,1
+S10,Undergraduate,MUS A    43,FELBER J,A,10
+S10,Undergraduate,MUS A    47S,NATHAN J S,A+,9
+S10,Undergraduate,MUS A    47S,NATHAN J S,A,6
+S10,Undergraduate,MUS A    47S,NATHAN J S,A-,1
+S10,Undergraduate,MUS A    70M,MARCUS S L,A,5
+S10,Undergraduate,MUS A    70M,MARCUS S L,F,1
+S10,Undergraduate,MUS A    70V,BELL V R,A+,54
+S10,Undergraduate,MUS A    70V,BELL V R,A,15
+S10,Undergraduate,MUS A    70V,BELL V R,A-,1
+S10,Undergraduate,MUS A    70V,BELL V R,F,2
+S10,Undergraduate,MUS A   134,BAMBACH P A,A+,7
+S10,Undergraduate,MUS A   134,BAMBACH P A,A,15
+S10,Undergraduate,MUS A   136,GERVAIS M M,A+,6
+S10,Undergraduate,MUS A   136,GERVAIS M M,A,2
+S10,Undergraduate,MUS A   136,GERVAIS M M,A-,1
+S10,Undergraduate,MUS A   137,GERVAIS M M,A+,7
+S10,Undergraduate,MUS A   137,GERVAIS M M,A,3
+S10,Undergraduate,MUS A   137,GERVAIS M M,A-,2
+S10,Undergraduate,MUS A   137,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A+,3
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A,4
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A-,3
+S10,Undergraduate,MUS A   137M,GERVAIS M M,B-,1
+S10,Undergraduate,MUS A   140,HALADYNA J J,A+,1
+S10,Undergraduate,MUS A   140,HALADYNA J J,A,5
+S10,Undergraduate,MUS A   142,RINTOUL R R,A+,12
+S10,Undergraduate,MUS A   142,RINTOUL R R,A,20
+S10,Undergraduate,MUS A   143,FELBER J,A,6
+S10,Undergraduate,MUS A   144,BAMBACH P A,A,8
+S10,Undergraduate,MUS A   147S,NATHAN J S,A+,7
+S10,Undergraduate,MUS A   147S,NATHAN J S,A,10
+S10,Undergraduate,MUS A   170V,BELL V R,A+,36
+S10,Undergraduate,MUS A   170V,BELL V R,A,6
+S10,Undergraduate,MUS A   170V,BELL V R,A-,2
+S10,Graduate,MUS A   236,GERVAIS M M,A+,7
+S10,Graduate,MUS A   236,GERVAIS M M,A,3
+S10,Graduate,MUS A   236,GERVAIS M M,A-,1
+S10,Graduate,MUS A   240,HALADYNA J J,A+,2
+S10,Graduate,MUS A   240,HALADYNA J J,A,7
+S10,Graduate,MUS A   242,RINTOUL R R,A+,4
+S10,Graduate,MUS A   242,RINTOUL R R,A,3
+S10,Graduate,MUS A   244,KOENIG R J,A,6
+S10,Graduate,MUS A   270M,MARCUS S L,A,5

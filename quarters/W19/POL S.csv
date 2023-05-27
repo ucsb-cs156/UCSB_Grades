@@ -1,0 +1,208 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W19,Undergraduate,POL S     1,NORRIS A,A,1
+W19,Undergraduate,POL S     1,NORRIS A,A-,10
+W19,Undergraduate,POL S     1,NORRIS A,B+,23
+W19,Undergraduate,POL S     1,NORRIS A,B,41
+W19,Undergraduate,POL S     1,NORRIS A,B-,25
+W19,Undergraduate,POL S     1,NORRIS A,C+,21
+W19,Undergraduate,POL S     1,NORRIS A,C,20
+W19,Undergraduate,POL S     1,NORRIS A,C-,9
+W19,Undergraduate,POL S     1,NORRIS A,D+,5
+W19,Undergraduate,POL S     1,NORRIS A,D,3
+W19,Undergraduate,POL S     1,NORRIS A,D-,1
+W19,Undergraduate,POL S     1,NORRIS A,F,16
+W19,Undergraduate,POL S     7,MORSE J C,A+,2
+W19,Undergraduate,POL S     7,MORSE J C,A,11
+W19,Undergraduate,POL S     7,MORSE J C,A-,16
+W19,Undergraduate,POL S     7,MORSE J C,B+,19
+W19,Undergraduate,POL S     7,MORSE J C,B,28
+W19,Undergraduate,POL S     7,MORSE J C,B-,10
+W19,Undergraduate,POL S     7,MORSE J C,C+,12
+W19,Undergraduate,POL S     7,MORSE J C,C,9
+W19,Undergraduate,POL S     7,MORSE J C,C-,8
+W19,Undergraduate,POL S     7,MORSE J C,D+,2
+W19,Undergraduate,POL S     7,MORSE J C,D,2
+W19,Undergraduate,POL S     7,MORSE J C,F,1
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,A+,1
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,A,17
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,A-,29
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,B+,15
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,B,22
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,B-,16
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,C+,12
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,C,28
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,C-,5
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,D+,2
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,D,2
+W19,Undergraduate,POL S    12,MEYER-GUTBROD,F,18
+W19,Undergraduate,POL S    15,MAHDAVI P,A+,3
+W19,Undergraduate,POL S    15,MAHDAVI P,A,17
+W19,Undergraduate,POL S    15,MAHDAVI P,A-,11
+W19,Undergraduate,POL S    15,MAHDAVI P,B+,15
+W19,Undergraduate,POL S    15,MAHDAVI P,B,29
+W19,Undergraduate,POL S    15,MAHDAVI P,B-,24
+W19,Undergraduate,POL S    15,MAHDAVI P,C+,8
+W19,Undergraduate,POL S    15,MAHDAVI P,C-,18
+W19,Undergraduate,POL S    15,MAHDAVI P,D,6
+W19,Undergraduate,POL S    15,MAHDAVI P,F,3
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,A,2
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,A-,8
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,B+,10
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,B,8
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,B-,2
+W19,Undergraduate,POL S   106CP,RIVAS PINEDA,C+,2
+W19,Undergraduate,POL S   106MO,COHEN B J,A,6
+W19,Undergraduate,POL S   106MO,COHEN B J,A-,12
+W19,Undergraduate,POL S   106MO,COHEN B J,B+,14
+W19,Undergraduate,POL S   106MO,COHEN B J,B,13
+W19,Undergraduate,POL S   106MO,COHEN B J,B-,5
+W19,Undergraduate,POL S   106MO,COHEN B J,C+,1
+W19,Undergraduate,POL S   106MO,COHEN B J,C,2
+W19,Undergraduate,POL S   106MO,COHEN B J,F,1
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,A+,8
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,A,13
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,A-,3
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,B+,3
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,B,5
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,C+,1
+W19,Undergraduate,POL S   106PK,NOMIKOS G G,F,1
+W19,Undergraduate,POL S   116,ALLEN G,A,2
+W19,Undergraduate,POL S   116,ALLEN G,A-,2
+W19,Undergraduate,POL S   116,ALLEN G,B+,10
+W19,Undergraduate,POL S   116,ALLEN G,B,11
+W19,Undergraduate,POL S   116,ALLEN G,B-,7
+W19,Undergraduate,POL S   116,ALLEN G,C+,1
+W19,Undergraduate,POL S   116,ALLEN G,C,1
+W19,Undergraduate,POL S   127,STRATHMAN B A,A+,1
+W19,Undergraduate,POL S   127,STRATHMAN B A,A,41
+W19,Undergraduate,POL S   127,STRATHMAN B A,A-,25
+W19,Undergraduate,POL S   127,STRATHMAN B A,B+,24
+W19,Undergraduate,POL S   127,STRATHMAN B A,B,40
+W19,Undergraduate,POL S   127,STRATHMAN B A,B-,11
+W19,Undergraduate,POL S   127,STRATHMAN B A,C+,19
+W19,Undergraduate,POL S   127,STRATHMAN B A,C,11
+W19,Undergraduate,POL S   127,STRATHMAN B A,C-,5
+W19,Undergraduate,POL S   127,STRATHMAN B A,D+,1
+W19,Undergraduate,POL S   127,STRATHMAN B A,D,1
+W19,Undergraduate,POL S   127,STRATHMAN B A,F,2
+W19,Undergraduate,POL S   135,FREEMAN L A,A,15
+W19,Undergraduate,POL S   135,FREEMAN L A,A-,16
+W19,Undergraduate,POL S   135,FREEMAN L A,B+,17
+W19,Undergraduate,POL S   135,FREEMAN L A,B,10
+W19,Undergraduate,POL S   135,FREEMAN L A,B-,2
+W19,Undergraduate,POL S   135,FREEMAN L A,C+,2
+W19,Undergraduate,POL S   135,FREEMAN L A,C,1
+W19,Undergraduate,POL S   141,COGGINS B L,A,1
+W19,Undergraduate,POL S   141,COGGINS B L,A-,9
+W19,Undergraduate,POL S   141,COGGINS B L,B+,16
+W19,Undergraduate,POL S   141,COGGINS B L,B,15
+W19,Undergraduate,POL S   141,COGGINS B L,B-,10
+W19,Undergraduate,POL S   141,COGGINS B L,C+,5
+W19,Undergraduate,POL S   141,COGGINS B L,C,2
+W19,Undergraduate,POL S   141,COGGINS B L,F,1
+W19,Undergraduate,POL S   142,STRATHMAN B A,A,9
+W19,Undergraduate,POL S   142,STRATHMAN B A,A-,3
+W19,Undergraduate,POL S   142,STRATHMAN B A,B+,8
+W19,Undergraduate,POL S   142,STRATHMAN B A,B,7
+W19,Undergraduate,POL S   142,STRATHMAN B A,B-,7
+W19,Undergraduate,POL S   143,KAPLAN C S,A-,2
+W19,Undergraduate,POL S   143,KAPLAN C S,B+,4
+W19,Undergraduate,POL S   143,KAPLAN C S,B,34
+W19,Undergraduate,POL S   143,KAPLAN C S,B-,12
+W19,Undergraduate,POL S   143,KAPLAN C S,C+,4
+W19,Undergraduate,POL S   161,LIEN P,A,15
+W19,Undergraduate,POL S   161,LIEN P,A-,17
+W19,Undergraduate,POL S   161,LIEN P,B+,15
+W19,Undergraduate,POL S   161,LIEN P,B,13
+W19,Undergraduate,POL S   161,LIEN P,B-,15
+W19,Undergraduate,POL S   161,LIEN P,C+,10
+W19,Undergraduate,POL S   161,LIEN P,C,12
+W19,Undergraduate,POL S   161,LIEN P,C-,6
+W19,Undergraduate,POL S   161,LIEN P,D+,3
+W19,Undergraduate,POL S   161,LIEN P,D,2
+W19,Undergraduate,POL S   161,LIEN P,D-,2
+W19,Undergraduate,POL S   161,LIEN P,F,2
+W19,Undergraduate,POL S   173,FREEMAN L A,A,3
+W19,Undergraduate,POL S   173,FREEMAN L A,A-,11
+W19,Undergraduate,POL S   173,FREEMAN L A,B+,17
+W19,Undergraduate,POL S   173,FREEMAN L A,B,15
+W19,Undergraduate,POL S   173,FREEMAN L A,B-,10
+W19,Undergraduate,POL S   173,FREEMAN L A,C+,4
+W19,Undergraduate,POL S   173,FREEMAN L A,C,2
+W19,Undergraduate,POL S   173,FREEMAN L A,F,1
+W19,Undergraduate,POL S   187,MILLER C R,A+,2
+W19,Undergraduate,POL S   187,MILLER C R,A,10
+W19,Undergraduate,POL S   187,MILLER C R,A-,12
+W19,Undergraduate,POL S   187,MILLER C R,B+,16
+W19,Undergraduate,POL S   187,MILLER C R,B,9
+W19,Undergraduate,POL S   187,MILLER C R,B-,5
+W19,Undergraduate,POL S   187,MILLER C R,C+,2
+W19,Undergraduate,POL S   187,MILLER C R,C,3
+W19,Undergraduate,POL S   187,MILLER C R,F,1
+W19,Undergraduate,POL S   189,MILLER C R,A,3
+W19,Undergraduate,POL S   189,MILLER C R,A-,14
+W19,Undergraduate,POL S   189,MILLER C R,B+,13
+W19,Undergraduate,POL S   189,MILLER C R,B,19
+W19,Undergraduate,POL S   189,MILLER C R,B-,8
+W19,Undergraduate,POL S   189,MILLER C R,C+,5
+W19,Undergraduate,POL S   189,MILLER C R,C,1
+W19,Undergraduate,POL S   189,MILLER C R,F,1
+W19,Undergraduate,POL S   192,KELEHER A,P,4
+W19,Undergraduate,POL S   196,COGGINS B L,A,13
+W19,Undergraduate,POL S   196,COGGINS B L,A-,1
+W19,Undergraduate,POL S   196,COGGINS B L,B+,1
+W19,Undergraduate,POL S   196,NARANG N,A+,2
+W19,Undergraduate,POL S   196,NARANG N,A,8
+W19,Undergraduate,POL S   196,NARANG N,A-,7
+W19,Undergraduate,POL S   196,NARANG N,B+,1
+W19,Undergraduate,POL S   196,NARANG N,B-,1
+W19,Undergraduate,POL S   197B,STOLL H M,A+,3
+W19,Undergraduate,POL S   197B,STOLL H M,A,12
+W19,Undergraduate,POL S   197B,STOLL H M,A-,1
+W19,Undergraduate,POL S   197C,STOLL H M,A+,1
+W19,Undergraduate,POL S   199,COHEN B J,A,1
+W19,Undergraduate,POL S   199,COHEN B J,A-,1
+W19,Undergraduate,POL S   199,HAN H C,A,1
+W19,Undergraduate,POL S   199,SMITH E R,A+,1
+W19,Undergraduate,POL S   199RA,KELEHER A,A+,2
+W19,Undergraduate,POL S   199RA,KELEHER A,A,3
+W19,Undergraduate,POL S   199RA,KELEHER A,A-,1
+W19,Undergraduate,POL S   199RA,LIEN P,A,1
+W19,Undergraduate,POL S   199RA,LIEN P,A-,1
+W19,Undergraduate,POL S   199RA,MORSE J C,A,2
+W19,Undergraduate,POL S   199RA,NOMIKOS G G,A+,2
+W19,Undergraduate,POL S   199RA,RIVAS PINEDA,A,3
+W19,Graduate,POL S   206,MAHDAVI P,A,6
+W19,Graduate,POL S   206,MAHDAVI P,A-,2
+W19,Graduate,POL S   230,AHUJA A,A,2
+W19,Graduate,POL S   230,AHUJA A,A-,1
+W19,Graduate,POL S   232,AHUJA A,A,5
+W19,Graduate,POL S   232,AHUJA A,A-,4
+W19,Graduate,POL S   263,LIEN P,A,3
+W19,Graduate,POL S   270,COHEN B J,A,2
+W19,Graduate,POL S   270,COHEN B J,B+,1
+W19,Graduate,POL S   295,SMITH E R,A,8
+W19,Graduate,POL S   500,KAPLAN C S,S,1
+W19,Graduate,POL S   500,LIEN P,S,1
+W19,Graduate,POL S   500,MORSE J C,S,1
+W19,Graduate,POL S   500,NORRIS A,S,2
+W19,Graduate,POL S   500,STRATHMAN B A,S,1
+W19,Graduate,POL S   594CW,COGGINS B L,B+,1
+W19,Graduate,POL S   597,AHUJA A,S,1
+W19,Graduate,POL S   597,BIMBER B,S,1
+W19,Graduate,POL S   597,BRUHN K,S,2
+W19,Graduate,POL S   597,COHEN B J,S,1
+W19,Graduate,POL S   597,DIGESER P,S,1
+W19,Graduate,POL S   597,KAPLAN C S,S,1
+W19,Graduate,POL S   597,SMITH E R,S,2
+W19,Graduate,POL S   597,WOOLLEY J T,S,1
+W19,Graduate,POL S   599,AHUJA A,S,1
+W19,Graduate,POL S   599,ANDERSON KE B,S,1
+W19,Graduate,POL S   599,BIMBER B,S,2
+W19,Graduate,POL S   599,BRUHN K,S,1
+W19,Graduate,POL S   599,COGGINS B L,S,1
+W19,Graduate,POL S   599,COHEN B J,S,2
+W19,Graduate,POL S   599,HAN H C,S,1
+W19,Graduate,POL S   599,JENNINGS M K,S,2
+W19,Graduate,POL S   599,LIEN P,S,2
+W19,Graduate,POL S   599,SMITH E R,S,3

@@ -1,0 +1,95 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,ED      176B,GERBER M M,A+,13
+S14,Undergraduate,ED      176B,GERBER M M,A,18
+S14,Undergraduate,ED      176B,GERBER M M,B+,1
+S14,Undergraduate,ED      176B,GERBER M M,B,1
+S14,Undergraduate,ED      199RA,GERBER M M,A,15
+S14,Graduate,ED      242C,GERBER M M,A,7
+S14,Undergraduate,ES   1-  38A,GERSTENFELD P,P,68
+S14,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,4
+S14,Undergraduate,ES   1-  38B,GERSTENFELD P,P,28
+S14,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,4
+S14,Undergraduate,ES   1-  99,GERSTENFELD P,P,18
+S14,Undergraduate,ES   1-  99,GERSTENFELD P,NP,1
+S14,Undergraduate,GER       2G,MONGOVEN C P,A+,1
+S14,Undergraduate,GER       2G,MONGOVEN C P,A,4
+S14,Undergraduate,GER       2G,MONGOVEN C P,A-,5
+S14,Undergraduate,GER       3,MONGOVEN C P,A+,1
+S14,Undergraduate,GER       3,MONGOVEN C P,A,4
+S14,Undergraduate,GER       3,MONGOVEN C P,A-,2
+S14,Undergraduate,GER       3,MONGOVEN C P,B+,2
+S14,Undergraduate,GER       3,MONGOVEN C P,B,1
+S14,Undergraduate,GER       3,MONGOVEN C P,B-,2
+S14,Undergraduate,GER       3,WADE E R,A+,10
+S14,Undergraduate,GER       3,WADE E R,A,52
+S14,Undergraduate,GER       3,WADE E R,A-,5
+S14,Undergraduate,GER       3,WADE E R,B+,1
+S14,Undergraduate,GER       3,WADE E R,B,3
+S14,Undergraduate,GER       3,WADE E R,B-,1
+S14,Undergraduate,GER       3,WADE E R,C,1
+S14,Undergraduate,GER       3,WADE E R,F,1
+S14,Undergraduate,GER       6,GOTTWALD T A,A+,4
+S14,Undergraduate,GER       6,GOTTWALD T A,A,5
+S14,Undergraduate,GER       6,GOTTWALD T A,A-,1
+S14,Undergraduate,GER       6,GOTTWALD T A,B,5
+S14,Undergraduate,GER       6,WADE E R,A+,5
+S14,Undergraduate,GER       6,WADE E R,A,22
+S14,Undergraduate,GER       8C,GOTTWALD T A,A,19
+S14,Undergraduate,GER     101C,MONGOVEN C P,A+,8
+S14,Undergraduate,GER     101C,MONGOVEN C P,A,19
+S14,Undergraduate,GER     101C,MONGOVEN C P,A-,8
+S14,Undergraduate,GER     101C,MONGOVEN C P,B+,1
+S14,Undergraduate,GER     101C,MONGOVEN C P,B,1
+S14,Undergraduate,GER     101C,MONGOVEN C P,B-,1
+S14,Undergraduate,GER     115C,WOLF B J,A+,1
+S14,Undergraduate,GER     115C,WOLF B J,A,1
+S14,Undergraduate,GER     115C,WOLF B J,A-,3
+S14,Undergraduate,GER     164F,WOLF B J,A+,3
+S14,Undergraduate,GER     164F,WOLF B J,A,1
+S14,Undergraduate,GER     164F,WOLF B J,A-,3
+S14,Undergraduate,GER     164F,WOLF B J,B+,9
+S14,Undergraduate,GER     164F,WOLF B J,B,7
+S14,Undergraduate,GER     164F,WOLF B J,B-,1
+S14,Undergraduate,GER     164F,WOLF B J,D+,1
+S14,Undergraduate,GER     190,HOLLAND J,A+,1
+S14,Undergraduate,GER     190,HOLLAND J,A,3
+S14,Undergraduate,GER     190,HOLLAND J,A-,1
+S14,Undergraduate,MATH      8,GERSTEIN L J,A+,1
+S14,Undergraduate,MATH      8,GERSTEIN L J,A,2
+S14,Undergraduate,MATH      8,GERSTEIN L J,A-,1
+S14,Undergraduate,MATH      8,GERSTEIN L J,B+,4
+S14,Undergraduate,MATH      8,GERSTEIN L J,B,3
+S14,Undergraduate,MATH      8,GERSTEIN L J,B-,7
+S14,Undergraduate,MATH      8,GERSTEIN L J,C+,5
+S14,Undergraduate,MATH      8,GERSTEIN L J,C,2
+S14,Undergraduate,MATH      8,GERSTEIN L J,C-,2
+S14,Undergraduate,MATH      8,GERSTEIN L J,D+,3
+S14,Undergraduate,MATH      8,GERSTEIN L J,D,1
+S14,Undergraduate,MATH      8,GERSTEIN L J,F,3
+S14,Undergraduate,MUS     120B,GERVAIS M M,A+,1
+S14,Undergraduate,MUS     120B,GERVAIS M M,A,8
+S14,Undergraduate,MUS     120B,GERVAIS M M,A-,1
+S14,Undergraduate,MUS     120B,GERVAIS M M,B+,1
+S14,Undergraduate,MUS A    36,GERVAIS M M,A+,6
+S14,Undergraduate,MUS A    36,GERVAIS M M,A,2
+S14,Undergraduate,MUS A    37,GERVAIS M M,A+,3
+S14,Undergraduate,MUS A    37,GERVAIS M M,A,4
+S14,Undergraduate,MUS A    37,GERVAIS M M,A-,3
+S14,Undergraduate,MUS A   136,GERVAIS M M,A+,11
+S14,Undergraduate,MUS A   136,GERVAIS M M,A,3
+S14,Undergraduate,MUS A   136,GERVAIS M M,A-,5
+S14,Undergraduate,MUS A   137,GERVAIS M M,A+,7
+S14,Undergraduate,MUS A   137,GERVAIS M M,A,2
+S14,Undergraduate,MUS A   137,GERVAIS M M,A-,2
+S14,Graduate,MUS A   236,GERVAIS M M,A+,2
+S14,Graduate,MUS A   236,GERVAIS M M,A,1
+S14,Graduate,MUS A   236,GERVAIS M M,A-,2
+S14,Undergraduate,PSY     145,GERMAN T C M,A+,26
+S14,Undergraduate,PSY     145,GERMAN T C M,A,15
+S14,Undergraduate,PSY     145,GERMAN T C M,A-,19
+S14,Undergraduate,PSY     145,GERMAN T C M,B+,6
+S14,Undergraduate,PSY     145,GERMAN T C M,B,2
+S14,Undergraduate,PSY     145,GERMAN T C M,B-,1
+S14,Undergraduate,PSY     199P,GERMAN T C M,P,6
+S14,Graduate,PSY     592TG,GERMAN T C M,S,6
+S14,Graduate,PSY     594TG,GERMAN T C M,A,8

@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F11,Undergraduate,BL ST     1,BANKS I,A,4
+F11,Undergraduate,BL ST     1,BANKS I,A-,4
+F11,Undergraduate,BL ST     1,BANKS I,B+,9
+F11,Undergraduate,BL ST     1,BANKS I,B,17
+F11,Undergraduate,BL ST     1,BANKS I,B-,9
+F11,Undergraduate,BL ST     1,BANKS I,C+,9
+F11,Undergraduate,BL ST     1,BANKS I,C,18
+F11,Undergraduate,BL ST     1,BANKS I,C-,5
+F11,Undergraduate,BL ST     1,BANKS I,D+,3
+F11,Undergraduate,BL ST     1,BANKS I,D,9
+F11,Undergraduate,BL ST     1,BANKS I,F,18
+F11,Undergraduate,BL ST     1H,BANKS I,B+,1
+F11,Undergraduate,BL ST     1H,BANKS I,B,1
+F11,Undergraduate,BL ST     1H,BANKS I,B-,3
+F11,Undergraduate,BL ST     1H,BANKS I,D,1
+F11,Undergraduate,BL ST     5,MCAULEY C,A+,1
+F11,Undergraduate,BL ST     5,MCAULEY C,A,31
+F11,Undergraduate,BL ST     5,MCAULEY C,A-,35
+F11,Undergraduate,BL ST     5,MCAULEY C,B+,24
+F11,Undergraduate,BL ST     5,MCAULEY C,B,34
+F11,Undergraduate,BL ST     5,MCAULEY C,B-,22
+F11,Undergraduate,BL ST     5,MCAULEY C,C+,7
+F11,Undergraduate,BL ST     5,MCAULEY C,C,1
+F11,Undergraduate,BL ST     5,MCAULEY C,C-,3
+F11,Undergraduate,BL ST     5,MCAULEY C,F,1
+F11,Undergraduate,BL ST     7,STRONGMAN R D,A+,21
+F11,Undergraduate,BL ST     7,STRONGMAN R D,A,16
+F11,Undergraduate,BL ST     7,STRONGMAN R D,A-,19
+F11,Undergraduate,BL ST     7,STRONGMAN R D,B+,13
+F11,Undergraduate,BL ST     7,STRONGMAN R D,B,17
+F11,Undergraduate,BL ST     7,STRONGMAN R D,B-,11
+F11,Undergraduate,BL ST     7,STRONGMAN R D,C+,4
+F11,Undergraduate,BL ST     7,STRONGMAN R D,C,4
+F11,Undergraduate,BL ST     7,STRONGMAN R D,C-,5
+F11,Undergraduate,BL ST     7,STRONGMAN R D,F,3
+F11,Undergraduate,BL ST    38A,DURAN J M,A,32
+F11,Undergraduate,BL ST    38A,DURAN J M,A-,28
+F11,Undergraduate,BL ST    38A,DURAN J M,B+,17
+F11,Undergraduate,BL ST    38A,DURAN J M,B,11
+F11,Undergraduate,BL ST    38A,DURAN J M,B-,3
+F11,Undergraduate,BL ST    38A,DURAN J M,C+,2
+F11,Undergraduate,BL ST    38A,DURAN J M,C,2
+F11,Undergraduate,BL ST    38A,DURAN J M,C-,1
+F11,Undergraduate,BL ST    38A,DURAN J M,D,1
+F11,Undergraduate,BL ST   100,MCAULEY C,A,6
+F11,Undergraduate,BL ST   100,MCAULEY C,A-,8
+F11,Undergraduate,BL ST   100,MCAULEY C,B+,10
+F11,Undergraduate,BL ST   100,MCAULEY C,B,13
+F11,Undergraduate,BL ST   100,MCAULEY C,B-,2
+F11,Undergraduate,BL ST   100,MCAULEY C,C,1
+F11,Undergraduate,BL ST   100,MCAULEY C,C-,1
+F11,Undergraduate,BL ST   100,MCAULEY C,F,2
+F11,Undergraduate,BL ST   102,MADISON O F,A-,9
+F11,Undergraduate,BL ST   102,MADISON O F,B+,11
+F11,Undergraduate,BL ST   102,MADISON O F,B,16
+F11,Undergraduate,BL ST   102,MADISON O F,B-,8
+F11,Undergraduate,BL ST   102,MADISON O F,C+,2
+F11,Undergraduate,BL ST   102,MADISON O F,C,3
+F11,Undergraduate,BL ST   102,MADISON O F,F,2
+F11,Undergraduate,BL ST   126,AKUDINOBI J,A+,7
+F11,Undergraduate,BL ST   126,AKUDINOBI J,A,24
+F11,Undergraduate,BL ST   126,AKUDINOBI J,A-,10
+F11,Undergraduate,BL ST   126,AKUDINOBI J,B+,5
+F11,Undergraduate,BL ST   126,AKUDINOBI J,B,8
+F11,Undergraduate,BL ST   126,AKUDINOBI J,C+,1
+F11,Undergraduate,BL ST   133,BANKS I,A,6
+F11,Undergraduate,BL ST   133,BANKS I,A-,2
+F11,Undergraduate,BL ST   133,BANKS I,B+,2
+F11,Undergraduate,BL ST   133,BANKS I,B,7
+F11,Undergraduate,BL ST   133,BANKS I,B-,1
+F11,Undergraduate,BL ST   133,BANKS I,C+,3
+F11,Undergraduate,BL ST   133,BANKS I,C,8
+F11,Undergraduate,BL ST   133,BANKS I,C-,4
+F11,Undergraduate,BL ST   133,BANKS I,D+,1
+F11,Undergraduate,BL ST   133,BANKS I,D,2
+F11,Undergraduate,BL ST   133,BANKS I,D-,1
+F11,Undergraduate,BL ST   133,BANKS I,F,16
+F11,Undergraduate,BL ST   142,STEWART E L,A+,7
+F11,Undergraduate,BL ST   142,STEWART E L,A,10
+F11,Undergraduate,BL ST   142,STEWART E L,A-,18
+F11,Undergraduate,BL ST   142,STEWART E L,B+,14
+F11,Undergraduate,BL ST   142,STEWART E L,B,24
+F11,Undergraduate,BL ST   142,STEWART E L,B-,24
+F11,Undergraduate,BL ST   142,STEWART E L,C+,4
+F11,Undergraduate,BL ST   142,STEWART E L,C,8
+F11,Undergraduate,BL ST   142,STEWART E L,C-,8
+F11,Undergraduate,BL ST   142,STEWART E L,D+,3
+F11,Undergraduate,BL ST   142,STEWART E L,D-,2
+F11,Undergraduate,BL ST   142,STEWART E L,F,5
+F11,Undergraduate,BL ST   161,AKUDINOBI J,A+,6
+F11,Undergraduate,BL ST   161,AKUDINOBI J,A,21
+F11,Undergraduate,BL ST   161,AKUDINOBI J,A-,29
+F11,Undergraduate,BL ST   161,AKUDINOBI J,B+,18
+F11,Undergraduate,BL ST   161,AKUDINOBI J,B,17
+F11,Undergraduate,BL ST   161,AKUDINOBI J,B-,5
+F11,Undergraduate,BL ST   161,AKUDINOBI J,C+,2
+F11,Undergraduate,BL ST   161,AKUDINOBI J,F,1
+F11,Undergraduate,BL ST   193GS,STRONGMAN R D,A,7
+F11,Undergraduate,BL ST   195A,MICHEL C,A+,1
+F11,Undergraduate,BL ST   195A,MICHEL C,A,5
+F11,Undergraduate,BL ST   195A,MICHEL C,B+,1
+F11,Graduate,BL ST   501,BATISTE S L,S,11

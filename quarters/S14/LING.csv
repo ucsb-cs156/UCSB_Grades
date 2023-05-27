@@ -1,0 +1,141 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,LING      3B,BOWMAN I K,A+,2
+S14,Undergraduate,LING      3B,BOWMAN I K,A,6
+S14,Undergraduate,LING      3B,BOWMAN I K,A-,3
+S14,Undergraduate,LING      3B,BOWMAN I K,B+,1
+S14,Undergraduate,LING      3B,BOWMAN I K,B,5
+S14,Undergraduate,LING      3B,BOWMAN I K,B-,1
+S14,Undergraduate,LING      3B,BOWMAN I K,C+,1
+S14,Undergraduate,LING      3B,BOWMAN I K,D,1
+S14,Undergraduate,LING      3B,RIGHTMIRE S R,A,10
+S14,Undergraduate,LING      3B,RIGHTMIRE S R,A-,6
+S14,Undergraduate,LING      3B,RIGHTMIRE S R,B+,1
+S14,Undergraduate,LING      3B,RIGHTMIRE S R,B,2
+S14,Undergraduate,LING      3B,RIGHTMIRE S R,B-,1
+S14,Undergraduate,LING      3C,NAUGHTON S J,A,2
+S14,Undergraduate,LING      3C,NAUGHTON S J,A-,6
+S14,Undergraduate,LING      3C,NAUGHTON S J,B+,4
+S14,Undergraduate,LING      3C,THIBAULT J A,A,8
+S14,Undergraduate,LING      3C,THIBAULT J A,A-,2
+S14,Undergraduate,LING      3C,THIBAULT J A,B+,1
+S14,Undergraduate,LING      3C,THIBAULT J A,B,6
+S14,Undergraduate,LING      3C,WESTMACOTT B,A,13
+S14,Undergraduate,LING      3C,WESTMACOTT B,A-,10
+S14,Undergraduate,LING      3C,WESTMACOTT B,B+,4
+S14,Undergraduate,LING      3C,WESTMACOTT B,B,9
+S14,Undergraduate,LING      3G,RIGHTMIRE S R,P,14
+S14,Undergraduate,LING      4,GOUGH J D,P,15
+S14,Undergraduate,LING     12,BOWMAN I K,A+,6
+S14,Undergraduate,LING     12,BOWMAN I K,A,7
+S14,Undergraduate,LING     12,BOWMAN I K,A-,4
+S14,Undergraduate,LING     12,BOWMAN I K,C+,1
+S14,Undergraduate,LING     12,BOWMAN I K,C,1
+S14,Undergraduate,LING     12,BOWMAN I K,C-,1
+S14,Undergraduate,LING     12,THIBAULT J A,A,7
+S14,Undergraduate,LING     12,THIBAULT J A,A-,12
+S14,Undergraduate,LING     12,THIBAULT J A,B+,2
+S14,Undergraduate,LING     12,WESTMACOTT B,A,10
+S14,Undergraduate,LING     12,WESTMACOTT B,A-,2
+S14,Undergraduate,LING     12,WESTMACOTT B,B+,2
+S14,Undergraduate,LING     12,WESTMACOTT B,B,4
+S14,Undergraduate,LING     70,KENNEDY R A,A+,19
+S14,Undergraduate,LING     70,KENNEDY R A,A,42
+S14,Undergraduate,LING     70,KENNEDY R A,A-,24
+S14,Undergraduate,LING     70,KENNEDY R A,B+,18
+S14,Undergraduate,LING     70,KENNEDY R A,B,18
+S14,Undergraduate,LING     70,KENNEDY R A,B-,6
+S14,Undergraduate,LING     70,KENNEDY R A,C+,7
+S14,Undergraduate,LING     70,KENNEDY R A,C,4
+S14,Undergraduate,LING     70,KENNEDY R A,C-,1
+S14,Undergraduate,LING     70,KENNEDY R A,F,6
+S14,Undergraduate,LING     80,ROBINSON L C,A,16
+S14,Undergraduate,LING     80,ROBINSON L C,A-,1
+S14,Undergraduate,LING     80,ROBINSON L C,B+,1
+S14,Undergraduate,LING     80,ROBINSON L C,B-,2
+S14,Undergraduate,LING     80,ROBINSON L C,C+,1
+S14,Undergraduate,LING     80,ROBINSON L C,C,2
+S14,Undergraduate,LING     80,ROBINSON L C,C-,1
+S14,Undergraduate,LING     80,ROBINSON L C,F,3
+S14,Undergraduate,LING    108,MITHUN M,A+,1
+S14,Undergraduate,LING    108,MITHUN M,A,13
+S14,Undergraduate,LING    108,MITHUN M,A-,10
+S14,Undergraduate,LING    108,MITHUN M,B+,1
+S14,Undergraduate,LING    108,MITHUN M,B,4
+S14,Undergraduate,LING    108,MITHUN M,B-,3
+S14,Undergraduate,LING    108,MITHUN M,C,2
+S14,Undergraduate,LING    108,MITHUN M,C-,5
+S14,Undergraduate,LING    108,MITHUN M,D+,6
+S14,Undergraduate,LING    108,MITHUN M,D,1
+S14,Undergraduate,LING    108,MITHUN M,F,4
+S14,Undergraduate,LING    114,GORDON M K,A+,2
+S14,Undergraduate,LING    114,GORDON M K,A,3
+S14,Undergraduate,LING    115,GORDON M K,A+,2
+S14,Undergraduate,LING    115,GORDON M K,A,5
+S14,Undergraduate,LING    115,GORDON M K,A-,4
+S14,Undergraduate,LING    115,GORDON M K,B+,4
+S14,Undergraduate,LING    115,GORDON M K,B,2
+S14,Undergraduate,LING    115,GORDON M K,B-,3
+S14,Undergraduate,LING    115,GORDON M K,C+,1
+S14,Undergraduate,LING    115,GORDON M K,C,1
+S14,Undergraduate,LING    120,GRIES S T,A+,2
+S14,Undergraduate,LING    120,GRIES S T,A-,4
+S14,Undergraduate,LING    120,GRIES S T,B+,3
+S14,Undergraduate,LING    120,GRIES S T,B,2
+S14,Undergraduate,LING    120,GRIES S T,D+,1
+S14,Undergraduate,LING    130,DU BOIS J W,A+,3
+S14,Undergraduate,LING    130,DU BOIS J W,A,8
+S14,Undergraduate,LING    130,DU BOIS J W,A-,7
+S14,Undergraduate,LING    130,DU BOIS J W,B+,7
+S14,Undergraduate,LING    130,DU BOIS J W,B,7
+S14,Undergraduate,LING    130,DU BOIS J W,B-,7
+S14,Undergraduate,LING    130,DU BOIS J W,C,2
+S14,Undergraduate,LING    130,DU BOIS J W,F,1
+S14,Undergraduate,LING    132,BUCHOLTZ M H,A+,15
+S14,Undergraduate,LING    132,BUCHOLTZ M H,A,42
+S14,Undergraduate,LING    132,BUCHOLTZ M H,A-,24
+S14,Undergraduate,LING    132,BUCHOLTZ M H,B+,9
+S14,Undergraduate,LING    132,BUCHOLTZ M H,B,5
+S14,Undergraduate,LING    132,BUCHOLTZ M H,B-,2
+S14,Undergraduate,LING    132,BUCHOLTZ M H,C,5
+S14,Undergraduate,LING    132,BUCHOLTZ M H,C-,1
+S14,Undergraduate,LING    132,BUCHOLTZ M H,D+,1
+S14,Undergraduate,LING    141,GOUGH J D,A+,1
+S14,Undergraduate,LING    141,GOUGH J D,A,14
+S14,Undergraduate,LING    141,GOUGH J D,A-,7
+S14,Undergraduate,LING    141,GOUGH J D,B+,2
+S14,Undergraduate,LING    141,GOUGH J D,B,2
+S14,Undergraduate,LING    160,KENNEDY R A,A+,5
+S14,Undergraduate,LING    160,KENNEDY R A,A,10
+S14,Undergraduate,LING    160,KENNEDY R A,A-,5
+S14,Undergraduate,LING    160,KENNEDY R A,B+,8
+S14,Undergraduate,LING    160,KENNEDY R A,B,1
+S14,Undergraduate,LING    160,KENNEDY R A,B-,2
+S14,Undergraduate,LING    160,KENNEDY R A,C+,1
+S14,Undergraduate,LING    160,KENNEDY R A,C,2
+S14,Undergraduate,LING    160,KENNEDY R A,C-,1
+S14,Undergraduate,LING    160,KENNEDY R A,D+,2
+S14,Undergraduate,LING    160,KENNEDY R A,F,1
+S14,Undergraduate,LING    191,BUCHOLTZ M H,A+,11
+S14,Undergraduate,LING    191,BUCHOLTZ M H,A,14
+S14,Undergraduate,LING    191,BUCHOLTZ M H,A-,2
+S14,Undergraduate,LING    192,BUCHOLTZ M H,A+,6
+S14,Undergraduate,LING    192,BUCHOLTZ M H,A,3
+S14,Undergraduate,LING    199,BUCHOLTZ M H,A+,1
+S14,Undergraduate,LING    199,BUCHOLTZ M H,A,3
+S14,Undergraduate,LING    199,BUCHOLTZ M H,A-,1
+S14,Undergraduate,LING    199RA,MOSCOSO DEL P,P,6
+S14,Graduate,LING    201,GRIES S T,A+,3
+S14,Graduate,LING    201,GRIES S T,A,4
+S14,Graduate,LING    201,GRIES S T,A-,2
+S14,Graduate,LING    201,GRIES S T,B+,1
+S14,Graduate,LING    208,MITHUN M,A,5
+S14,Graduate,LING    211,MOSCOSO DEL P,A+,1
+S14,Graduate,LING    211,MOSCOSO DEL P,A,3
+S14,Graduate,LING    211,MOSCOSO DEL P,A-,1
+S14,Graduate,LING    211,MOSCOSO DEL P,F,1
+S14,Graduate,LING    234,MITHUN M,A,11
+S14,Graduate,LING    234,MITHUN M,F,1
+S14,Graduate,LING    241,ROBINSON L C,A,6
+S14,Graduate,LING    241,ROBINSON L C,A-,1
+S14,Graduate,LING    272,MITHUN M,S,11
+S14,Graduate,LING    594,MITHUN M,A,5

@@ -1,0 +1,119 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M15,Undergraduate,RG ST     1,HAHN J L,A,1
+M15,Undergraduate,RG ST     1,HAHN J L,A-,5
+M15,Undergraduate,RG ST     1,HAHN J L,B+,2
+M15,Undergraduate,RG ST     1,HAHN J L,B,2
+M15,Undergraduate,RG ST     1,HAHN J L,B-,1
+M15,Undergraduate,RG ST     1,HAHN J L,C+,1
+M15,Undergraduate,RG ST     1,HOESLY D,A,1
+M15,Undergraduate,RG ST     1,HOESLY D,A-,3
+M15,Undergraduate,RG ST     1,HOESLY D,B+,3
+M15,Undergraduate,RG ST     1,HOESLY D,B,5
+M15,Undergraduate,RG ST     1,HOESLY D,B-,1
+M15,Undergraduate,RG ST     1,HOESLY D,C,1
+M15,Undergraduate,RG ST     1,HOESLY D,C-,1
+M15,Undergraduate,RG ST     1,HOESLY D,F,3
+M15,Undergraduate,RG ST     3,HILLIS G A,A,2
+M15,Undergraduate,RG ST     3,HILLIS G A,A-,4
+M15,Undergraduate,RG ST     3,HILLIS G A,B+,3
+M15,Undergraduate,RG ST     3,HILLIS G A,B,3
+M15,Undergraduate,RG ST     3,HILLIS G A,B-,1
+M15,Undergraduate,RG ST     3,HILLIS G A,C+,4
+M15,Undergraduate,RG ST     4,HILLIS G A,A+,1
+M15,Undergraduate,RG ST     4,HILLIS G A,A,3
+M15,Undergraduate,RG ST     4,HILLIS G A,A-,7
+M15,Undergraduate,RG ST     4,HILLIS G A,B+,6
+M15,Undergraduate,RG ST     4,HILLIS G A,B,1
+M15,Undergraduate,RG ST     4,HILLIS G A,B-,3
+M15,Undergraduate,RG ST     4,HILLIS G A,C+,1
+M15,Undergraduate,RG ST     4,HILLIS G A,C,1
+M15,Undergraduate,RG ST     4,HILLIS G A,C-,1
+M15,Undergraduate,RG ST     4,HILLIS G A,F,1
+M15,Undergraduate,RG ST     5,SILVA A C,A,1
+M15,Undergraduate,RG ST     5,SILVA A C,A-,4
+M15,Undergraduate,RG ST     5,SILVA A C,B+,4
+M15,Undergraduate,RG ST     6,NEWLON B P,A+,5
+M15,Undergraduate,RG ST     6,NEWLON B P,A,6
+M15,Undergraduate,RG ST     7,KINSELLA M S,A+,2
+M15,Undergraduate,RG ST     7,KINSELLA M S,A,5
+M15,Undergraduate,RG ST     7,KINSELLA M S,A-,2
+M15,Undergraduate,RG ST     7,KINSELLA M S,B+,2
+M15,Undergraduate,RG ST     7,KINSELLA M S,B,4
+M15,Undergraduate,RG ST     7,KINSELLA M S,B-,1
+M15,Undergraduate,RG ST     7,SOKOLL A J,A+,1
+M15,Undergraduate,RG ST     7,SOKOLL A J,A,2
+M15,Undergraduate,RG ST     7,SOKOLL A J,B+,2
+M15,Undergraduate,RG ST     7,SOKOLL A J,B,1
+M15,Undergraduate,RG ST     7,SOKOLL A J,B-,2
+M15,Undergraduate,RG ST     7,SOKOLL A J,C+,1
+M15,Undergraduate,RG ST     7,SOKOLL A J,C,2
+M15,Undergraduate,RG ST     7,SOKOLL A J,F,1
+M15,Undergraduate,RG ST    10A,CAMPO M,A,2
+M15,Undergraduate,RG ST    10A,CAMPO M,B+,1
+M15,Undergraduate,RG ST    10A,CAMPO M,B,1
+M15,Undergraduate,RG ST    10A,CAMPO M,B-,2
+M15,Undergraduate,RG ST    10B,CAMPO M,A+,1
+M15,Undergraduate,RG ST    10B,CAMPO M,A,1
+M15,Undergraduate,RG ST    10B,CAMPO M,B+,2
+M15,Undergraduate,RG ST    10B,CAMPO M,B-,1
+M15,Undergraduate,RG ST    10C,CAMPO M,A+,1
+M15,Undergraduate,RG ST    10C,CAMPO M,A,1
+M15,Undergraduate,RG ST    10C,CAMPO M,B,2
+M15,Undergraduate,RG ST    10C,CAMPO M,B-,1
+M15,Undergraduate,RG ST    10C,CAMPO M,C+,1
+M15,Undergraduate,RG ST    12,ROBERTSON M I,A+,1
+M15,Undergraduate,RG ST    12,ROBERTSON M I,A,1
+M15,Undergraduate,RG ST    12,ROBERTSON M I,A-,3
+M15,Undergraduate,RG ST    12,ROBERTSON M I,B+,4
+M15,Undergraduate,RG ST    12,ROBERTSON M I,B,2
+M15,Undergraduate,RG ST    12,ROBERTSON M I,C+,2
+M15,Undergraduate,RG ST    12,ROBERTSON M I,C,2
+M15,Undergraduate,RG ST    12,ROBERTSON M I,C-,2
+M15,Undergraduate,RG ST    12,ROBERTSON M I,D+,1
+M15,Undergraduate,RG ST    12,ROBERTSON M I,F,2
+M15,Undergraduate,RG ST    14,AVALOS CISNER,A,10
+M15,Undergraduate,RG ST    14,AVALOS CISNER,A-,5
+M15,Undergraduate,RG ST    14,AVALOS CISNER,B+,4
+M15,Undergraduate,RG ST    14,AVALOS CISNER,B,1
+M15,Undergraduate,RG ST    14,AVALOS CISNER,C+,1
+M15,Undergraduate,RG ST    15,FREDRICKSON N,A,1
+M15,Undergraduate,RG ST    15,FREDRICKSON N,B+,2
+M15,Undergraduate,RG ST    15,FREDRICKSON N,B,1
+M15,Undergraduate,RG ST    15,FREDRICKSON N,B-,3
+M15,Undergraduate,RG ST    15,FREDRICKSON N,C+,1
+M15,Undergraduate,RG ST    15,FREDRICKSON N,C,1
+M15,Undergraduate,RG ST    15,FREDRICKSON N,C-,2
+M15,Undergraduate,RG ST    15,FREDRICKSON N,D+,1
+M15,Undergraduate,RG ST    20,KODANI M,A,3
+M15,Undergraduate,RG ST    20,KODANI M,A-,3
+M15,Undergraduate,RG ST    20,KODANI M,B-,1
+M15,Undergraduate,RG ST    20,KODANI M,F,1
+M15,Undergraduate,RG ST    21,ELLERTON D M,A,3
+M15,Undergraduate,RG ST    21,ELLERTON D M,A-,6
+M15,Undergraduate,RG ST    21,ELLERTON D M,B+,1
+M15,Undergraduate,RG ST    21,ELLERTON D M,B,2
+M15,Undergraduate,RG ST    21,ELLERTON D M,B-,4
+M15,Undergraduate,RG ST    21,ELLERTON D M,C,1
+M15,Undergraduate,RG ST    21,ELLERTON D M,C-,1
+M15,Undergraduate,RG ST    80A,BALLMES V J,A,1
+M15,Undergraduate,RG ST    80A,BALLMES V J,A-,1
+M15,Undergraduate,RG ST    80A,BALLMES V J,B,3
+M15,Undergraduate,RG ST    80A,BALLMES V J,B-,2
+M15,Undergraduate,RG ST    80A,BALLMES V J,C-,1
+M15,Undergraduate,RG ST    80A,BALLMES V J,F,1
+M15,Undergraduate,RG ST   113,HECHT R,A,12
+M15,Undergraduate,RG ST   113,HECHT R,A-,8
+M15,Undergraduate,RG ST   113,HECHT R,B+,2
+M15,Undergraduate,RG ST   113,HECHT R,B,2
+M15,Undergraduate,RG ST   113,HECHT R,B-,1
+M15,Undergraduate,RG ST   113,HECHT R,F,1
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,A+,2
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,A,1
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,A-,2
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,B+,3
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,B,1
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,B-,1
+M15,Undergraduate,RG ST   140A,MCCARTHY C D,C,1
+M15,Undergraduate,RG ST   163A,STEAVU-BALINT,A,4
+M15,Undergraduate,RG ST   163A,STEAVU-BALINT,A-,3
+M15,Undergraduate,RG ST   163A,STEAVU-BALINT,C-,1

@@ -1,0 +1,119 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,ANTH      2,MATERA J,A+,1
+M12,Undergraduate,ANTH      2,MATERA J,A,8
+M12,Undergraduate,ANTH      2,MATERA J,A-,2
+M12,Undergraduate,ANTH      2,MATERA J,B+,7
+M12,Undergraduate,ANTH      2,MATERA J,B,9
+M12,Undergraduate,ANTH      2,MATERA J,B-,4
+M12,Undergraduate,ANTH      2,MATERA J,C,4
+M12,Undergraduate,ANTH      2,MATERA J,D+,2
+M12,Undergraduate,ANTH      2,MATERA J,D,2
+M12,Undergraduate,ANTH      2,MATERA J,F,3
+M12,Undergraduate,ANTH      2,MCLEAN R F,A,4
+M12,Undergraduate,ANTH      2,MCLEAN R F,A-,4
+M12,Undergraduate,ANTH      2,MCLEAN R F,B+,11
+M12,Undergraduate,ANTH      2,MCLEAN R F,B,6
+M12,Undergraduate,ANTH      2,MCLEAN R F,B-,7
+M12,Undergraduate,ANTH      2,MCLEAN R F,C+,2
+M12,Undergraduate,ANTH      2,MCLEAN R F,C,1
+M12,Undergraduate,ANTH      2,MCLEAN R F,C-,3
+M12,Undergraduate,ANTH      2,MCLEAN R F,D,4
+M12,Undergraduate,ANTH      2,MCLEAN R F,D-,1
+M12,Undergraduate,ANTH      2,MCLEAN R F,F,1
+M12,Undergraduate,ANTH      3SS,GUSICK A E,A,12
+M12,Undergraduate,ANTH      3SS,GUSICK A E,A-,5
+M12,Undergraduate,ANTH      3SS,GUSICK A E,B+,6
+M12,Undergraduate,ANTH      3SS,GUSICK A E,B,8
+M12,Undergraduate,ANTH      3SS,GUSICK A E,B-,5
+M12,Undergraduate,ANTH      3SS,GUSICK A E,C+,3
+M12,Undergraduate,ANTH      3SS,GUSICK A E,C,2
+M12,Undergraduate,ANTH      3SS,GUSICK A E,D+,2
+M12,Undergraduate,ANTH      3SS,GUSICK A E,D,2
+M12,Undergraduate,ANTH      3SS,GUSICK A E,F,2
+M12,Undergraduate,ANTH      5,HANSON K N,A+,2
+M12,Undergraduate,ANTH      5,HANSON K N,A,3
+M12,Undergraduate,ANTH      5,HANSON K N,A-,6
+M12,Undergraduate,ANTH      5,HANSON K N,B+,8
+M12,Undergraduate,ANTH      5,HANSON K N,B,8
+M12,Undergraduate,ANTH      5,HANSON K N,B-,3
+M12,Undergraduate,ANTH      5,HANSON K N,C+,2
+M12,Undergraduate,ANTH      5,HANSON K N,C,3
+M12,Undergraduate,ANTH      5,HANSON K N,C-,1
+M12,Undergraduate,ANTH      5,HANSON K N,D,1
+M12,Undergraduate,ANTH      5,HANSON K N,F,2
+M12,Undergraduate,ANTH      7,SZNYCER D,A+,2
+M12,Undergraduate,ANTH      7,SZNYCER D,A,6
+M12,Undergraduate,ANTH      7,SZNYCER D,A-,4
+M12,Undergraduate,ANTH      7,SZNYCER D,B+,4
+M12,Undergraduate,ANTH      7,SZNYCER D,B,13
+M12,Undergraduate,ANTH      7,SZNYCER D,C+,4
+M12,Undergraduate,ANTH      7,SZNYCER D,C,6
+M12,Undergraduate,ANTH      7,SZNYCER D,C-,1
+M12,Undergraduate,ANTH      7,SZNYCER D,D+,3
+M12,Undergraduate,ANTH      7,SZNYCER D,D,2
+M12,Undergraduate,ANTH      7,SZNYCER D,F,2
+M12,Undergraduate,ANTH    105,MCALLISTER L,A+,1
+M12,Undergraduate,ANTH    105,MCALLISTER L,A,5
+M12,Undergraduate,ANTH    105,MCALLISTER L,A-,6
+M12,Undergraduate,ANTH    105,MCALLISTER L,B+,8
+M12,Undergraduate,ANTH    105,MCALLISTER L,B,9
+M12,Undergraduate,ANTH    105,MCALLISTER L,B-,2
+M12,Undergraduate,ANTH    105,MCALLISTER L,C+,2
+M12,Undergraduate,ANTH    105,MCALLISTER L,C,2
+M12,Undergraduate,ANTH    109,CIMINO A N,A,9
+M12,Undergraduate,ANTH    109,CIMINO A N,B,28
+M12,Undergraduate,ANTH    109,CIMINO A N,C,16
+M12,Undergraduate,ANTH    109,CIMINO A N,D,7
+M12,Undergraduate,ANTH    109,CIMINO A N,F,2
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,A+,4
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,A,10
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,A-,13
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,B+,7
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,B,3
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,B-,6
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,C+,1
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,C,3
+M12,Undergraduate,ANTH    110,DYSTE-ANZURES,F,3
+M12,Undergraduate,ANTH    111,KUNDU M,A,6
+M12,Undergraduate,ANTH    111,KUNDU M,A-,6
+M12,Undergraduate,ANTH    111,KUNDU M,B+,6
+M12,Undergraduate,ANTH    111,KUNDU M,B,8
+M12,Undergraduate,ANTH    111,KUNDU M,B-,7
+M12,Undergraduate,ANTH    111,KUNDU M,C+,14
+M12,Undergraduate,ANTH    111,KUNDU M,C,8
+M12,Undergraduate,ANTH    111,KUNDU M,C-,2
+M12,Undergraduate,ANTH    111,KUNDU M,D+,1
+M12,Undergraduate,ANTH    111,KUNDU M,D,1
+M12,Undergraduate,ANTH    111,KUNDU M,D-,1
+M12,Undergraduate,ANTH    111,KUNDU M,F,1
+M12,Undergraduate,ANTH    112,KUZMINSKY S C,A,3
+M12,Undergraduate,ANTH    112,KUZMINSKY S C,A-,1
+M12,Undergraduate,ANTH    112,KUZMINSKY S C,B+,1
+M12,Undergraduate,ANTH    112,KUZMINSKY S C,B-,4
+M12,Undergraduate,ANTH    112,KUZMINSKY S C,F,1
+M12,Undergraduate,ANTH    114,CARNEY M A,A,15
+M12,Undergraduate,ANTH    114,CARNEY M A,A-,11
+M12,Undergraduate,ANTH    114,CARNEY M A,B+,2
+M12,Undergraduate,ANTH    114,CARNEY M A,B,10
+M12,Undergraduate,ANTH    114,CARNEY M A,B-,6
+M12,Undergraduate,ANTH    114,CARNEY M A,C+,3
+M12,Undergraduate,ANTH    114,CARNEY M A,C,2
+M12,Undergraduate,ANTH    114,CARNEY M A,C-,1
+M12,Undergraduate,ANTH    114,CARNEY M A,F,3
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,A+,2
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,A,5
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,A-,8
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,B+,3
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,B,4
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,B-,1
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,C+,4
+M12,Undergraduate,ANTH    127,DYSTE-ANZURES,F,2
+M12,Undergraduate,ANTH    142,KUNDU M,A+,1
+M12,Undergraduate,ANTH    142,KUNDU M,A,1
+M12,Undergraduate,ANTH    142,KUNDU M,A-,5
+M12,Undergraduate,ANTH    142,KUNDU M,B+,6
+M12,Undergraduate,ANTH    142,KUNDU M,B,7
+M12,Undergraduate,ANTH    142,KUNDU M,B-,4
+M12,Undergraduate,ANTH    142,KUNDU M,C+,3
+M12,Undergraduate,ANTH    142,KUNDU M,C,4
+M12,Undergraduate,ANTH    142,KUNDU M,D+,4

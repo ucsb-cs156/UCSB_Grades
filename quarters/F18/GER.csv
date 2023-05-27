@@ -1,0 +1,92 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Graduate,ED      294,GERBER M M,A,5
+F18,Undergraduate,ES   1-  38A,GERSTENFELD P,P,53
+F18,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,3
+F18,Undergraduate,ES   1-  38B,GERSTENFELD P,P,13
+F18,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,2
+F18,Undergraduate,ES   1-  38C,GERSTENFELD P,P,7
+F18,Undergraduate,ES   1-  38C,GERSTENFELD P,NP,1
+F18,Undergraduate,ES   1-  99,GERSTENFELD P,P,4
+F18,Undergraduate,GER       1,LOVETT D W,A+,3
+F18,Undergraduate,GER       1,LOVETT D W,A,17
+F18,Undergraduate,GER       1,LOVETT D W,A-,1
+F18,Undergraduate,GER       1,LOVETT D W,B+,1
+F18,Undergraduate,GER       1,LOVETT D W,B,2
+F18,Undergraduate,GER       1,LOVETT D W,C,1
+F18,Undergraduate,GER       1,MEYR J E,A+,14
+F18,Undergraduate,GER       1,MEYR J E,A,11
+F18,Undergraduate,GER       1,MEYR J E,A-,2
+F18,Undergraduate,GER       1,RALEIGH T C,A+,3
+F18,Undergraduate,GER       1,RALEIGH T C,A,17
+F18,Undergraduate,GER       1,RALEIGH T C,F,1
+F18,Undergraduate,GER       1,REDER E R,A+,25
+F18,Undergraduate,GER       1,REDER E R,A,71
+F18,Undergraduate,GER       1,REDER E R,A-,4
+F18,Undergraduate,GER       1,REDER E R,B+,4
+F18,Undergraduate,GER       1,REDER E R,B,3
+F18,Undergraduate,GER       1,REDER E R,C,1
+F18,Undergraduate,GER       1,SHEEDY M A,A+,2
+F18,Undergraduate,GER       1,SHEEDY M A,A,15
+F18,Undergraduate,GER       1,SHEEDY M A,A-,2
+F18,Undergraduate,GER       1,SHEEDY M A,B,1
+F18,Undergraduate,GER       1,SHEEDY M A,C,1
+F18,Undergraduate,GER       1,SHEEDY M A,F,1
+F18,Undergraduate,GER       1,SUN X,A+,6
+F18,Undergraduate,GER       1,SUN X,A,25
+F18,Undergraduate,GER       1,TYBJERG D M,A+,9
+F18,Undergraduate,GER       1,TYBJERG D M,A,15
+F18,Undergraduate,GER       1,TYBJERG D M,B+,2
+F18,Undergraduate,GER       1,WHITE K D,A+,10
+F18,Undergraduate,GER       1,WHITE K D,A,20
+F18,Undergraduate,GER       1,WHITE K D,A-,2
+F18,Undergraduate,GER       4,MEYR J E,A+,13
+F18,Undergraduate,GER       4,MEYR J E,A,6
+F18,Undergraduate,GER       4,MEYR J E,A-,2
+F18,Undergraduate,GER       4,MEYR J E,C,2
+F18,Undergraduate,GER       4,MEYR J E,D,1
+F18,Undergraduate,GER       4,REDER E R,A+,6
+F18,Undergraduate,GER       4,REDER E R,A,19
+F18,Undergraduate,GER       4,REDER E R,B,1
+F18,Undergraduate,GER       4,REDER E R,F,1
+F18,Undergraduate,GER       4,SHEEDY M A,A+,5
+F18,Undergraduate,GER       4,SHEEDY M A,A,17
+F18,Undergraduate,GER     101A,REDER E R,A+,4
+F18,Undergraduate,GER     101A,REDER E R,A,17
+F18,Undergraduate,GER     101A,REDER E R,B+,2
+F18,Undergraduate,GER     101A,REDER E R,F,1
+F18,Undergraduate,GER     101A,WHITE K D,A+,3
+F18,Undergraduate,GER     101A,WHITE K D,A,12
+F18,Undergraduate,GER     101A,WHITE K D,A-,2
+F18,Undergraduate,GER     101A,WHITE K D,B,2
+F18,Undergraduate,GER     101A,WHITE K D,B-,1
+F18,Undergraduate,GER     101A,WHITE K D,C,1
+F18,Undergraduate,GER     106,WHITE K D,A+,14
+F18,Undergraduate,GER     106,WHITE K D,A,11
+F18,Undergraduate,GER     106,WHITE K D,A-,1
+F18,Undergraduate,GER     106,WHITE K D,B+,2
+F18,Undergraduate,GER     106,WHITE K D,B,3
+F18,Undergraduate,GER     106,WHITE K D,B-,1
+F18,Undergraduate,GER     106,WHITE K D,C,2
+F18,Undergraduate,GER     117,UNTERBERGER R,A,4
+F18,Undergraduate,GER     117,UNTERBERGER R,A-,2
+F18,Undergraduate,GER     117,UNTERBERGER R,B+,2
+F18,Undergraduate,GER     117,UNTERBERGER R,B-,2
+F18,Undergraduate,GER     117,UNTERBERGER R,C+,1
+F18,Undergraduate,GER     199,REDER E R,F,1
+F18,Graduate,GER     500,REDER E R,S,3
+F18,Graduate,GER     597,KITTLER W D,S,1
+F18,Undergraduate,INT     186AF,GERMAN T C M,P,18
+F18,Undergraduate,PSY     145,GERMAN T C M,A+,12
+F18,Undergraduate,PSY     145,GERMAN T C M,A,22
+F18,Undergraduate,PSY     145,GERMAN T C M,A-,28
+F18,Undergraduate,PSY     145,GERMAN T C M,B+,25
+F18,Undergraduate,PSY     145,GERMAN T C M,B,24
+F18,Undergraduate,PSY     145,GERMAN T C M,B-,14
+F18,Undergraduate,PSY     145,GERMAN T C M,C+,3
+F18,Undergraduate,PSY     145,GERMAN T C M,C,7
+F18,Undergraduate,PSY     145,GERMAN T C M,D,1
+F18,Undergraduate,PSY     145,GERMAN T C M,F,1
+F18,Undergraduate,PSY     197A,GERMAN T C M,A,2
+F18,Undergraduate,PSY     199P,GERMAN T C M,P,4
+F18,Graduate,PSY     596,GERMAN T C M,S,1
+F18,Graduate,PSY     599,GERMAN T C M,S,1

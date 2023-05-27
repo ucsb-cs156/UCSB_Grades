@@ -1,0 +1,178 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,A+,1
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,A,5
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,A-,20
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,B+,20
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,B,38
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,B-,20
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,C+,7
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,C,6
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,C-,1
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,D+,1
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,D,1
+F19,Undergraduate,POL S     1,HOBBS-MORGAN,F,1
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,A+,11
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,A,49
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,A-,49
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,B+,17
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,B,23
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,B-,13
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,C+,2
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,C,3
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,C-,1
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,D,1
+F19,Undergraduate,POL S     6,MOOSBRUGGER L,F,1
+F19,Undergraduate,POL S     7,NARANG N,A+,5
+F19,Undergraduate,POL S     7,NARANG N,A,37
+F19,Undergraduate,POL S     7,NARANG N,A-,24
+F19,Undergraduate,POL S     7,NARANG N,B+,23
+F19,Undergraduate,POL S     7,NARANG N,B,16
+F19,Undergraduate,POL S     7,NARANG N,B-,7
+F19,Undergraduate,POL S     7,NARANG N,C+,1
+F19,Undergraduate,POL S     7,NARANG N,D+,1
+F19,Undergraduate,POL S    12,SMITH E R,A,10
+F19,Undergraduate,POL S    12,SMITH E R,A-,17
+F19,Undergraduate,POL S    12,SMITH E R,B+,24
+F19,Undergraduate,POL S    12,SMITH E R,B,21
+F19,Undergraduate,POL S    12,SMITH E R,B-,38
+F19,Undergraduate,POL S    12,SMITH E R,C+,14
+F19,Undergraduate,POL S    12,SMITH E R,C,11
+F19,Undergraduate,POL S    12,SMITH E R,C-,5
+F19,Undergraduate,POL S    12,SMITH E R,F,2
+F19,Undergraduate,POL S    15,STOLL H M,A,6
+F19,Undergraduate,POL S    15,STOLL H M,A-,11
+F19,Undergraduate,POL S    15,STOLL H M,B+,18
+F19,Undergraduate,POL S    15,STOLL H M,B,18
+F19,Undergraduate,POL S    15,STOLL H M,B-,10
+F19,Undergraduate,POL S    15,STOLL H M,C+,12
+F19,Undergraduate,POL S    15,STOLL H M,C,4
+F19,Undergraduate,POL S    15,STOLL H M,C-,2
+F19,Undergraduate,POL S    15,STOLL H M,D+,2
+F19,Undergraduate,POL S    15,STOLL H M,F,5
+F19,Undergraduate,POL S    99,MILDENBERGER,A,1
+F19,Undergraduate,POL S   106IG,KELEHER A,A,5
+F19,Undergraduate,POL S   106IG,KELEHER A,A-,17
+F19,Undergraduate,POL S   106IG,KELEHER A,B+,18
+F19,Undergraduate,POL S   106IG,KELEHER A,B,13
+F19,Undergraduate,POL S   106IG,KELEHER A,B-,8
+F19,Undergraduate,POL S   106IG,KELEHER A,C+,9
+F19,Undergraduate,POL S   106IG,KELEHER A,C,5
+F19,Undergraduate,POL S   106IG,KELEHER A,C-,1
+F19,Undergraduate,POL S   106IG,KELEHER A,D+,2
+F19,Undergraduate,POL S   106MI,AHUJA A,A,4
+F19,Undergraduate,POL S   106MI,AHUJA A,A-,14
+F19,Undergraduate,POL S   106MI,AHUJA A,B+,16
+F19,Undergraduate,POL S   106MI,AHUJA A,B,23
+F19,Undergraduate,POL S   106MI,AHUJA A,B-,8
+F19,Undergraduate,POL S   106MI,AHUJA A,C+,9
+F19,Undergraduate,POL S   106MI,AHUJA A,C,5
+F19,Undergraduate,POL S   106MI,AHUJA A,C-,1
+F19,Undergraduate,POL S   106MI,AHUJA A,D,1
+F19,Undergraduate,POL S   110,NORRIS A,A,3
+F19,Undergraduate,POL S   110,NORRIS A,A-,3
+F19,Undergraduate,POL S   110,NORRIS A,B+,11
+F19,Undergraduate,POL S   110,NORRIS A,B,11
+F19,Undergraduate,POL S   110,NORRIS A,B-,8
+F19,Undergraduate,POL S   110,NORRIS A,C+,9
+F19,Undergraduate,POL S   110,NORRIS A,C,3
+F19,Undergraduate,POL S   110,NORRIS A,C-,1
+F19,Undergraduate,POL S   110,NORRIS A,D+,5
+F19,Undergraduate,POL S   110,NORRIS A,D,1
+F19,Undergraduate,POL S   110,NORRIS A,F,2
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,A,2
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,A-,8
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,B+,7
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,B,17
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,B-,10
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,C+,5
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,C,3
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,C-,2
+F19,Undergraduate,POL S   110DT,HOBBS-MORGAN,D,2
+F19,Undergraduate,POL S   121,STRATHMAN B A,A+,2
+F19,Undergraduate,POL S   121,STRATHMAN B A,A,30
+F19,Undergraduate,POL S   121,STRATHMAN B A,A-,23
+F19,Undergraduate,POL S   121,STRATHMAN B A,B+,16
+F19,Undergraduate,POL S   121,STRATHMAN B A,B,31
+F19,Undergraduate,POL S   121,STRATHMAN B A,B-,16
+F19,Undergraduate,POL S   121,STRATHMAN B A,C+,11
+F19,Undergraduate,POL S   121,STRATHMAN B A,C,27
+F19,Undergraduate,POL S   121,STRATHMAN B A,C-,7
+F19,Undergraduate,POL S   121,STRATHMAN B A,D+,3
+F19,Undergraduate,POL S   121,STRATHMAN B A,D,5
+F19,Undergraduate,POL S   121,STRATHMAN B A,D-,2
+F19,Undergraduate,POL S   121,STRATHMAN B A,F,8
+F19,Undergraduate,POL S   126,STRATHMAN B A,A,8
+F19,Undergraduate,POL S   126,STRATHMAN B A,A-,11
+F19,Undergraduate,POL S   126,STRATHMAN B A,B+,12
+F19,Undergraduate,POL S   126,STRATHMAN B A,B,21
+F19,Undergraduate,POL S   126,STRATHMAN B A,B-,1
+F19,Undergraduate,POL S   126,STRATHMAN B A,C+,2
+F19,Undergraduate,POL S   126,STRATHMAN B A,C,2
+F19,Undergraduate,POL S   126,STRATHMAN B A,F,2
+F19,Undergraduate,POL S   175,SMITH E R,A,19
+F19,Undergraduate,POL S   175,SMITH E R,A-,18
+F19,Undergraduate,POL S   175,SMITH E R,B+,21
+F19,Undergraduate,POL S   175,SMITH E R,B,25
+F19,Undergraduate,POL S   175,SMITH E R,B-,18
+F19,Undergraduate,POL S   175,SMITH E R,C+,6
+F19,Undergraduate,POL S   175,SMITH E R,C,4
+F19,Undergraduate,POL S   175,SMITH E R,C-,2
+F19,Undergraduate,POL S   177,MILDENBERGER,A+,2
+F19,Undergraduate,POL S   177,MILDENBERGER,A,10
+F19,Undergraduate,POL S   177,MILDENBERGER,A-,20
+F19,Undergraduate,POL S   177,MILDENBERGER,B+,5
+F19,Undergraduate,POL S   177,MILDENBERGER,B,12
+F19,Undergraduate,POL S   177,MILDENBERGER,B-,5
+F19,Undergraduate,POL S   177,MILDENBERGER,C+,3
+F19,Undergraduate,POL S   177,MILDENBERGER,C,3
+F19,Undergraduate,POL S   177,MILDENBERGER,C-,2
+F19,Undergraduate,POL S   177,MILDENBERGER,D+,1
+F19,Undergraduate,POL S   192,KELEHER A,P,4
+F19,Undergraduate,POL S   196,NARANG N,A+,1
+F19,Undergraduate,POL S   196,NARANG N,A,6
+F19,Undergraduate,POL S   196,NARANG N,A-,5
+F19,Undergraduate,POL S   196,NARANG N,B,2
+F19,Undergraduate,POL S   196,NARANG N,C+,1
+F19,Undergraduate,POL S   199,DIGESER P,A-,1
+F19,Undergraduate,POL S   199RA,AHUJA A,A,1
+F19,Undergraduate,POL S   199RA,KAPLAN C S,A,1
+F19,Undergraduate,POL S   199RA,KELEHER A,A,6
+F19,Undergraduate,POL S   199RA,MILDENBERGER,A,2
+F19,Undergraduate,POL S   199RA,STOKES L C,A,1
+F19,Graduate,POL S   205,STOLL H M,A,6
+F19,Graduate,POL S   205,STOLL H M,A-,5
+F19,Graduate,POL S   273,COHEN B J,A,1
+F19,Graduate,POL S   273,COHEN B J,A-,1
+F19,Graduate,POL S   273,COHEN B J,B+,1
+F19,Graduate,POL S   275,NARANG N,A,2
+F19,Graduate,POL S   275,NARANG N,A-,4
+F19,Graduate,POL S   275,NARANG N,B+,1
+F19,Graduate,POL S   296,MILDENBERGER,A,5
+F19,Graduate,POL S   500,AHUJA A,S,4
+F19,Graduate,POL S   500,KELEHER A,S,1
+F19,Graduate,POL S   500,NARANG N,S,2
+F19,Graduate,POL S   500,SMITH E R,S,3
+F19,Graduate,POL S   500,STRATHMAN B A,S,2
+F19,Graduate,POL S   501,AHUJA A,S,11
+F19,Graduate,POL S   501,KELEHER A,S,11
+F19,Graduate,POL S   502,SMITH E R,S,1
+F19,Graduate,POL S   594II,BRUHN K,A,2
+F19,Graduate,POL S   594II,BRUHN K,A-,5
+F19,Graduate,POL S   594II,BRUHN K,B+,2
+F19,Graduate,POL S   597,AHUJA A,S,4
+F19,Graduate,POL S   597,COHEN B J,S,1
+F19,Graduate,POL S   597,NORRIS A,S,1
+F19,Graduate,POL S   597,SMITH E R,S,1
+F19,Graduate,POL S   597,STOKES L C,S,1
+F19,Graduate,POL S   597,STOLL H M,S,1
+F19,Graduate,POL S   598,BRUHN K,S,1
+F19,Graduate,POL S   599,AHUJA A,S,1
+F19,Graduate,POL S   599,ANDERSON KE B,S,1
+F19,Graduate,POL S   599,BIMBER B,S,2
+F19,Graduate,POL S   599,BRUHN K,S,1
+F19,Graduate,POL S   599,COGGINS B L,S,1
+F19,Graduate,POL S   599,COHEN B J,S,3
+F19,Graduate,POL S   599,JENNINGS M K,S,2
+F19,Graduate,POL S   599,KAPLAN C S,S,1
+F19,Graduate,POL S   599,NARANG N,S,1
+F19,Graduate,POL S   599,SMITH E R,S,3

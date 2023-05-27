@@ -1,0 +1,202 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Undergraduate,FR        1,PHILLIPS M E,A+,3
+F18,Undergraduate,FR        1,PHILLIPS M E,A,20
+F18,Undergraduate,FR        1,PHILLIPS M E,A-,6
+F18,Undergraduate,FR        1,PHILLIPS M E,B+,3
+F18,Undergraduate,FR        1,PHILLIPS M E,B,2
+F18,Undergraduate,FR        1,PHILLIPS M E,C,1
+F18,Undergraduate,FR        1,PHILLIPS M E,D+,1
+F18,Undergraduate,FR        3,PHILLIPS M E,A,3
+F18,Undergraduate,FR        3,PHILLIPS M E,A-,5
+F18,Undergraduate,FR        3,PHILLIPS M E,B+,4
+F18,Undergraduate,FR        3,PHILLIPS M E,B,2
+F18,Undergraduate,FR        3,PHILLIPS M E,C+,1
+F18,Undergraduate,FR        3,PHILLIPS M E,C-,1
+F18,Undergraduate,FR        3,PHILLIPS M E,D,1
+F18,Undergraduate,PHIL      1,KORMAN D Z,A+,9
+F18,Undergraduate,PHIL      1,KORMAN D Z,A,36
+F18,Undergraduate,PHIL      1,KORMAN D Z,A-,51
+F18,Undergraduate,PHIL      1,KORMAN D Z,B+,41
+F18,Undergraduate,PHIL      1,KORMAN D Z,B,88
+F18,Undergraduate,PHIL      1,KORMAN D Z,B-,38
+F18,Undergraduate,PHIL      1,KORMAN D Z,C+,24
+F18,Undergraduate,PHIL      1,KORMAN D Z,C,18
+F18,Undergraduate,PHIL      1,KORMAN D Z,C-,7
+F18,Undergraduate,PHIL      1,KORMAN D Z,D+,1
+F18,Undergraduate,PHIL      1,KORMAN D Z,D,1
+F18,Undergraduate,PHIL      1,KORMAN D Z,F,7
+F18,Undergraduate,PHIL      3,STORY D E,A+,16
+F18,Undergraduate,PHIL      3,STORY D E,A,50
+F18,Undergraduate,PHIL      3,STORY D E,A-,41
+F18,Undergraduate,PHIL      3,STORY D E,B+,14
+F18,Undergraduate,PHIL      3,STORY D E,B,33
+F18,Undergraduate,PHIL      3,STORY D E,B-,19
+F18,Undergraduate,PHIL      3,STORY D E,C+,14
+F18,Undergraduate,PHIL      3,STORY D E,C,19
+F18,Undergraduate,PHIL      3,STORY D E,C-,12
+F18,Undergraduate,PHIL      3,STORY D E,D+,7
+F18,Undergraduate,PHIL      3,STORY D E,D,10
+F18,Undergraduate,PHIL      3,STORY D E,D-,3
+F18,Undergraduate,PHIL      3,STORY D E,F,7
+F18,Undergraduate,PHIL      4,DICKEY K M,A+,1
+F18,Undergraduate,PHIL      4,DICKEY K M,A,11
+F18,Undergraduate,PHIL      4,DICKEY K M,A-,26
+F18,Undergraduate,PHIL      4,DICKEY K M,B+,43
+F18,Undergraduate,PHIL      4,DICKEY K M,B,62
+F18,Undergraduate,PHIL      4,DICKEY K M,B-,38
+F18,Undergraduate,PHIL      4,DICKEY K M,C+,23
+F18,Undergraduate,PHIL      4,DICKEY K M,C,16
+F18,Undergraduate,PHIL      4,DICKEY K M,D+,1
+F18,Undergraduate,PHIL      4,DICKEY K M,D,1
+F18,Undergraduate,PHIL      4,DICKEY K M,F,5
+F18,Undergraduate,PHIL     20A,TSOUNA V,A+,5
+F18,Undergraduate,PHIL     20A,TSOUNA V,A,17
+F18,Undergraduate,PHIL     20A,TSOUNA V,A-,21
+F18,Undergraduate,PHIL     20A,TSOUNA V,B+,11
+F18,Undergraduate,PHIL     20A,TSOUNA V,B,19
+F18,Undergraduate,PHIL     20A,TSOUNA V,B-,11
+F18,Undergraduate,PHIL     20A,TSOUNA V,C+,6
+F18,Undergraduate,PHIL     20A,TSOUNA V,C,4
+F18,Undergraduate,PHIL     20A,TSOUNA V,C-,3
+F18,Undergraduate,PHIL     20A,TSOUNA V,F,6
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,A+,1
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,A,12
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,A-,14
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,B+,21
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,B,32
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,B-,14
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,C+,11
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,C,10
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,C-,2
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,D+,1
+F18,Undergraduate,PHIL    100A,ELIZONDO E S,F,4
+F18,Undergraduate,PHIL    100F,BARRETT T W,A+,1
+F18,Undergraduate,PHIL    100F,BARRETT T W,A,35
+F18,Undergraduate,PHIL    100F,BARRETT T W,A-,11
+F18,Undergraduate,PHIL    100F,BARRETT T W,B+,9
+F18,Undergraduate,PHIL    100F,BARRETT T W,B,15
+F18,Undergraduate,PHIL    100F,BARRETT T W,B-,8
+F18,Undergraduate,PHIL    100F,BARRETT T W,C+,9
+F18,Undergraduate,PHIL    100F,BARRETT T W,C,6
+F18,Undergraduate,PHIL    100F,BARRETT T W,C-,5
+F18,Undergraduate,PHIL    100F,BARRETT T W,F,3
+F18,Undergraduate,PHIL    121,CLOOS C M,A,14
+F18,Undergraduate,PHIL    121,CLOOS C M,A-,10
+F18,Undergraduate,PHIL    121,CLOOS C M,B+,5
+F18,Undergraduate,PHIL    121,CLOOS C M,B,7
+F18,Undergraduate,PHIL    121,CLOOS C M,B-,5
+F18,Undergraduate,PHIL    121,CLOOS C M,C+,1
+F18,Undergraduate,PHIL    130,JARRETT G C,A,13
+F18,Undergraduate,PHIL    130,JARRETT G C,A-,4
+F18,Undergraduate,PHIL    130,JARRETT G C,B+,4
+F18,Undergraduate,PHIL    130,JARRETT G C,B,7
+F18,Undergraduate,PHIL    130,JARRETT G C,B-,2
+F18,Undergraduate,PHIL    130,JARRETT G C,C+,1
+F18,Undergraduate,PHIL    130,JARRETT G C,C,5
+F18,Undergraduate,PHIL    130,JARRETT G C,C-,3
+F18,Undergraduate,PHIL    130,JARRETT G C,D,1
+F18,Undergraduate,PHIL    137,MCMAHON C A,A,6
+F18,Undergraduate,PHIL    137,MCMAHON C A,A-,5
+F18,Undergraduate,PHIL    137,MCMAHON C A,B+,3
+F18,Undergraduate,PHIL    137,MCMAHON C A,B,7
+F18,Undergraduate,PHIL    137,MCMAHON C A,B-,5
+F18,Undergraduate,PHIL    137,MCMAHON C A,C+,5
+F18,Undergraduate,PHIL    137,MCMAHON C A,C,1
+F18,Undergraduate,PHIL    137,MCMAHON C A,C-,2
+F18,Undergraduate,PHIL    137,MCMAHON C A,D,1
+F18,Undergraduate,PHIL    138,HANSER M F,A,3
+F18,Undergraduate,PHIL    138,HANSER M F,A-,4
+F18,Undergraduate,PHIL    138,HANSER M F,B+,6
+F18,Undergraduate,PHIL    138,HANSER M F,B,11
+F18,Undergraduate,PHIL    138,HANSER M F,B-,6
+F18,Undergraduate,PHIL    138,HANSER M F,C+,8
+F18,Undergraduate,PHIL    138,HANSER M F,C,1
+F18,Undergraduate,PHIL    138,HANSER M F,F,1
+F18,Undergraduate,PHIL    139,MCMAHON C A,A,5
+F18,Undergraduate,PHIL    139,MCMAHON C A,A-,8
+F18,Undergraduate,PHIL    139,MCMAHON C A,B+,2
+F18,Undergraduate,PHIL    139,MCMAHON C A,B,9
+F18,Undergraduate,PHIL    139,MCMAHON C A,B-,1
+F18,Undergraduate,PHIL    139,MCMAHON C A,C+,4
+F18,Undergraduate,PHIL    139,MCMAHON C A,C,1
+F18,Undergraduate,PHIL    150E,KORMAN D Z,A,3
+F18,Undergraduate,PHIL    150E,KORMAN D Z,A-,4
+F18,Undergraduate,PHIL    150E,KORMAN D Z,B+,2
+F18,Undergraduate,PHIL    150E,KORMAN D Z,B,2
+F18,Undergraduate,PHIL    150E,KORMAN D Z,B-,4
+F18,Undergraduate,PHIL    150E,KORMAN D Z,C+,3
+F18,Undergraduate,PHIL    150E,KORMAN D Z,C,1
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,A,5
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,A-,2
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,B+,4
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,B,2
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,B-,2
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,C,1
+F18,Undergraduate,PHIL    151,MCKIRAHAN R D,F,1
+F18,Undergraduate,PHIL    152,TSOUNA V,A+,3
+F18,Undergraduate,PHIL    152,TSOUNA V,A,10
+F18,Undergraduate,PHIL    152,TSOUNA V,A-,6
+F18,Undergraduate,PHIL    152,TSOUNA V,B+,6
+F18,Undergraduate,PHIL    152,TSOUNA V,B,2
+F18,Undergraduate,PHIL    152,TSOUNA V,B-,3
+F18,Undergraduate,PHIL    152,TSOUNA V,C+,1
+F18,Undergraduate,PHIL    152,TSOUNA V,C,1
+F18,Undergraduate,PHIL    152,TSOUNA V,C-,2
+F18,Undergraduate,PHIL    156,TSOUNA V,A+,4
+F18,Undergraduate,PHIL    156,TSOUNA V,A,4
+F18,Undergraduate,PHIL    156,TSOUNA V,A-,4
+F18,Undergraduate,PHIL    156,TSOUNA V,B,2
+F18,Undergraduate,PHIL    156,TSOUNA V,B-,1
+F18,Undergraduate,PHIL    156,TSOUNA V,C,2
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,A,1
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,A-,1
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,B+,2
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,B,4
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,B-,3
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,C+,1
+F18,Undergraduate,PHIL    166A,ELIZONDO E S,C-,1
+F18,Undergraduate,PHIL    176,HOLDEN T A,A,6
+F18,Undergraduate,PHIL    176,HOLDEN T A,A-,6
+F18,Undergraduate,PHIL    176,HOLDEN T A,B+,9
+F18,Undergraduate,PHIL    176,HOLDEN T A,B,5
+F18,Undergraduate,PHIL    176,HOLDEN T A,B-,2
+F18,Undergraduate,PHIL    176,HOLDEN T A,C+,3
+F18,Undergraduate,PHIL    197A,SALMON N U,A,1
+F18,Undergraduate,PHIL    197A,TSOUNA V,A+,1
+F18,Undergraduate,PHIL    197B,ELIZONDO E S,A,1
+F18,Undergraduate,PHIL    197B,HANSER M F,A,1
+F18,Undergraduate,PHIL    199,BARRETT T W,A,1
+F18,Undergraduate,PHIL    199,MCMAHON C A,A-,1
+F18,Graduate,PHIL    237G,MCMAHON C A,A,1
+F18,Graduate,PHIL    237G,MCMAHON C A,A-,1
+F18,Graduate,PHIL    239G,MCMAHON C A,B+,1
+F18,Graduate,PHIL    250E,KORMAN D Z,A,2
+F18,Graduate,PHIL    250E,KORMAN D Z,A-,6
+F18,Graduate,PHIL    250E,KORMAN D Z,B+,2
+F18,Graduate,PHIL    250E,KORMAN D Z,S,1
+F18,Graduate,PHIL    251G,MCKIRAHAN R D,A,2
+F18,Graduate,PHIL    252G,TSOUNA V,S,1
+F18,Graduate,PHIL    256G,TSOUNA V,A,2
+F18,Graduate,PHIL    256G,TSOUNA V,A-,2
+F18,Graduate,PHIL    266A,ELIZONDO E S,S,1
+F18,Graduate,PHIL    276G,HOLDEN T A,A,3
+F18,Graduate,PHIL    276G,HOLDEN T A,S,1
+F18,Graduate,PHIL    296A,HANSER M F,A,2
+F18,Graduate,PHIL    296A,HANSER M F,A-,3
+F18,Graduate,PHIL    296A,HANSER M F,F,1
+F18,Graduate,PHIL    296A,HANSER M F,S,2
+F18,Graduate,PHIL    296D,FALVEY K T,A+,1
+F18,Graduate,PHIL    296D,FALVEY K T,A,2
+F18,Graduate,PHIL    296D,FALVEY K T,A-,3
+F18,Graduate,PHIL    296D,FALVEY K T,B+,2
+F18,Graduate,PHIL    296D,FALVEY K T,B,1
+F18,Graduate,PHIL    296D,FALVEY K T,F,1
+F18,Graduate,PHIL    296D,FALVEY K T,S,4
+F18,Graduate,PHIL    500,ELIZONDO E S,S,20
+F18,Graduate,PHIL    500,HOLDEN T A,S,3
+F18,Graduate,PHIL    501,ELIZONDO E S,S,4
+F18,Graduate,PHIL    597,TSOUNA V,S,2
+F18,Graduate,PHIL    599,FALVEY K T,S,1
+F18,Graduate,PHIL    599,HANSER M F,S,2
+F18,Graduate,PHIL    599,HOLDEN T A,S,3
+F18,Graduate,PHIL    599,KORMAN D Z,S,2

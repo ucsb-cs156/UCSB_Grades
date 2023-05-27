@@ -1,0 +1,132 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M21,Undergraduate,SOC       1,CLEGG M B,A+,23
+M21,Undergraduate,SOC       1,CLEGG M B,A,18
+M21,Undergraduate,SOC       1,CLEGG M B,A-,4
+M21,Undergraduate,SOC       1,CLEGG M B,B+,4
+M21,Undergraduate,SOC       1,CLEGG M B,B,2
+M21,Undergraduate,SOC       1,CLEGG M B,C+,2
+M21,Undergraduate,SOC       1,CLEGG M B,C,1
+M21,Undergraduate,SOC       1,CLEGG M B,D,2
+M21,Undergraduate,SOC       1,CLEGG M B,F,6
+M21,Undergraduate,SOC       1,KAPLAN R E,A,51
+M21,Undergraduate,SOC       1,KAPLAN R E,A-,11
+M21,Undergraduate,SOC       1,KAPLAN R E,B+,10
+M21,Undergraduate,SOC       1,KAPLAN R E,B,2
+M21,Undergraduate,SOC       1,KAPLAN R E,D,1
+M21,Undergraduate,SOC       1,KAPLAN R E,F,3
+M21,Undergraduate,SOC     108C,WALLER I A,A+,5
+M21,Undergraduate,SOC     108C,WALLER I A,A,21
+M21,Undergraduate,SOC     108C,WALLER I A,A-,11
+M21,Undergraduate,SOC     108C,WALLER I A,B+,2
+M21,Undergraduate,SOC     108C,WALLER I A,B,4
+M21,Undergraduate,SOC     108C,WALLER I A,B-,2
+M21,Undergraduate,SOC     108C,WALLER I A,C,2
+M21,Undergraduate,SOC     108C,WALLER I A,C-,2
+M21,Undergraduate,SOC     108C,WALLER I A,D-,1
+M21,Undergraduate,SOC     108C,WALLER I A,F,5
+M21,Undergraduate,SOC     108ST,SORIN C R,A,28
+M21,Undergraduate,SOC     108ST,SORIN C R,A-,3
+M21,Undergraduate,SOC     108ST,SORIN C R,B+,4
+M21,Undergraduate,SOC     108ST,SORIN C R,B,4
+M21,Undergraduate,SOC     108ST,SORIN C R,B-,2
+M21,Undergraduate,SOC     108ST,SORIN C R,D,2
+M21,Undergraduate,SOC     108ST,SORIN C R,F,7
+M21,Undergraduate,SOC     128,LOE-STERPHONE,A+,23
+M21,Undergraduate,SOC     128,LOE-STERPHONE,A,24
+M21,Undergraduate,SOC     128,LOE-STERPHONE,A-,13
+M21,Undergraduate,SOC     128,LOE-STERPHONE,B+,1
+M21,Undergraduate,SOC     128,LOE-STERPHONE,B,2
+M21,Undergraduate,SOC     128,LOE-STERPHONE,B-,3
+M21,Undergraduate,SOC     128,LOE-STERPHONE,C+,1
+M21,Undergraduate,SOC     128,LOE-STERPHONE,C-,4
+M21,Undergraduate,SOC     128,LOE-STERPHONE,F,8
+M21,Undergraduate,SOC     134,SUAREZ F,A,11
+M21,Undergraduate,SOC     134,SUAREZ F,A-,9
+M21,Undergraduate,SOC     134,SUAREZ F,B+,6
+M21,Undergraduate,SOC     134,SUAREZ F,B,9
+M21,Undergraduate,SOC     134,SUAREZ F,B-,4
+M21,Undergraduate,SOC     134,SUAREZ F,C+,3
+M21,Undergraduate,SOC     134,SUAREZ F,C,6
+M21,Undergraduate,SOC     134,SUAREZ F,D+,1
+M21,Undergraduate,SOC     134,SUAREZ F,D-,1
+M21,Undergraduate,SOC     134,SUAREZ F,F,10
+M21,Undergraduate,SOC     144,MALDONADO FAB,A+,25
+M21,Undergraduate,SOC     144,MALDONADO FAB,A,15
+M21,Undergraduate,SOC     144,MALDONADO FAB,A-,6
+M21,Undergraduate,SOC     144,MALDONADO FAB,B+,5
+M21,Undergraduate,SOC     144,MALDONADO FAB,B,8
+M21,Undergraduate,SOC     144,MALDONADO FAB,B-,4
+M21,Undergraduate,SOC     144,MALDONADO FAB,C+,1
+M21,Undergraduate,SOC     144,MALDONADO FAB,C-,1
+M21,Undergraduate,SOC     144,MALDONADO FAB,D,1
+M21,Undergraduate,SOC     144,MALDONADO FAB,D-,1
+M21,Undergraduate,SOC     144,MALDONADO FAB,F,13
+M21,Undergraduate,SOC     145,DEVOTO S A,A+,5
+M21,Undergraduate,SOC     145,DEVOTO S A,A,20
+M21,Undergraduate,SOC     145,DEVOTO S A,A-,8
+M21,Undergraduate,SOC     145,DEVOTO S A,B+,6
+M21,Undergraduate,SOC     145,DEVOTO S A,B,11
+M21,Undergraduate,SOC     145,DEVOTO S A,B-,5
+M21,Undergraduate,SOC     145,DEVOTO S A,C+,5
+M21,Undergraduate,SOC     145,DEVOTO S A,C,3
+M21,Undergraduate,SOC     145,DEVOTO S A,C-,1
+M21,Undergraduate,SOC     145,DEVOTO S A,D,1
+M21,Undergraduate,SOC     145,DEVOTO S A,F,14
+M21,Undergraduate,SOC     147,CAST A D,A+,22
+M21,Undergraduate,SOC     147,CAST A D,A,23
+M21,Undergraduate,SOC     147,CAST A D,A-,8
+M21,Undergraduate,SOC     147,CAST A D,B+,5
+M21,Undergraduate,SOC     147,CAST A D,B,4
+M21,Undergraduate,SOC     147,CAST A D,B-,4
+M21,Undergraduate,SOC     147,CAST A D,C+,1
+M21,Undergraduate,SOC     147,CAST A D,C,4
+M21,Undergraduate,SOC     147,CAST A D,C-,1
+M21,Undergraduate,SOC     147,CAST A D,D+,3
+M21,Undergraduate,SOC     147,CAST A D,F,6
+M21,Undergraduate,SOC     153,ROBINSON S L,A+,1
+M21,Undergraduate,SOC     153,ROBINSON S L,A,44
+M21,Undergraduate,SOC     153,ROBINSON S L,A-,10
+M21,Undergraduate,SOC     153,ROBINSON S L,B+,4
+M21,Undergraduate,SOC     153,ROBINSON S L,B,1
+M21,Undergraduate,SOC     153,ROBINSON S L,B-,3
+M21,Undergraduate,SOC     153,ROBINSON S L,C+,2
+M21,Undergraduate,SOC     153,ROBINSON S L,C,1
+M21,Undergraduate,SOC     153,ROBINSON S L,C-,1
+M21,Undergraduate,SOC     153,ROBINSON S L,D,4
+M21,Undergraduate,SOC     153,ROBINSON S L,D-,1
+M21,Undergraduate,SOC     153,ROBINSON S L,F,10
+M21,Undergraduate,SOC     155,TAYLOR C J,A,19
+M21,Undergraduate,SOC     155,TAYLOR C J,A-,22
+M21,Undergraduate,SOC     155,TAYLOR C J,B+,11
+M21,Undergraduate,SOC     155,TAYLOR C J,B,9
+M21,Undergraduate,SOC     155,TAYLOR C J,B-,5
+M21,Undergraduate,SOC     155,TAYLOR C J,C+,6
+M21,Undergraduate,SOC     155,TAYLOR C J,C,5
+M21,Undergraduate,SOC     155,TAYLOR C J,C-,1
+M21,Undergraduate,SOC     155,TAYLOR C J,F,6
+M21,Undergraduate,SOC     159M,BRIDGES T S,A,28
+M21,Undergraduate,SOC     159M,BRIDGES T S,A-,11
+M21,Undergraduate,SOC     159M,BRIDGES T S,B+,6
+M21,Undergraduate,SOC     159M,BRIDGES T S,B,7
+M21,Undergraduate,SOC     159M,BRIDGES T S,B-,4
+M21,Undergraduate,SOC     159M,BRIDGES T S,C+,2
+M21,Undergraduate,SOC     159M,BRIDGES T S,D-,1
+M21,Undergraduate,SOC     159M,BRIDGES T S,F,13
+M21,Undergraduate,SOC     185E,RAYMOND G,A,24
+M21,Undergraduate,SOC     185E,RAYMOND G,A-,15
+M21,Undergraduate,SOC     185E,RAYMOND G,B+,6
+M21,Undergraduate,SOC     185E,RAYMOND G,B,5
+M21,Undergraduate,SOC     185E,RAYMOND G,B-,2
+M21,Undergraduate,SOC     185E,RAYMOND G,C+,2
+M21,Undergraduate,SOC     185E,RAYMOND G,C,3
+M21,Undergraduate,SOC     185E,RAYMOND G,D,1
+M21,Undergraduate,SOC     185E,RAYMOND G,F,9
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,A+,4
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,A,7
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,A-,5
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,B+,7
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,B,3
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,B-,3
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,C,2
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,C-,3
+M21,Undergraduate,SOC     185S,NGUYEN H-A T,F,5

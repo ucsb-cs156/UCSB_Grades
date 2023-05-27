@@ -1,0 +1,87 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W11,Undergraduate,PHYS      3,LUBIN P,A,25
+W11,Undergraduate,PHYS      3,LUBIN P,A-,7
+W11,Undergraduate,PHYS      3,LUBIN P,B+,8
+W11,Undergraduate,PHYS      3,LUBIN P,B,19
+W11,Undergraduate,PHYS      3,LUBIN P,B-,11
+W11,Undergraduate,PHYS      3,LUBIN P,C+,10
+W11,Undergraduate,PHYS      3,LUBIN P,C,7
+W11,Undergraduate,PHYS      3,LUBIN P,C-,3
+W11,Undergraduate,PHYS      3,LUBIN P,D+,1
+W11,Undergraduate,PHYS      3,LUBIN P,D,3
+W11,Undergraduate,PHYS      3,LUBIN P,D-,3
+W11,Undergraduate,PHYS      3,LUBIN P,F,5
+W11,Undergraduate,PHYS      4,RICHMAN J D,A+,9
+W11,Undergraduate,PHYS      4,RICHMAN J D,A,16
+W11,Undergraduate,PHYS      4,RICHMAN J D,A-,17
+W11,Undergraduate,PHYS      4,RICHMAN J D,B+,20
+W11,Undergraduate,PHYS      4,RICHMAN J D,B,26
+W11,Undergraduate,PHYS      4,RICHMAN J D,B-,35
+W11,Undergraduate,PHYS      4,RICHMAN J D,C+,35
+W11,Undergraduate,PHYS      4,RICHMAN J D,C,24
+W11,Undergraduate,PHYS      4,RICHMAN J D,C-,32
+W11,Undergraduate,PHYS      4,RICHMAN J D,D+,20
+W11,Undergraduate,PHYS      4,RICHMAN J D,D,7
+W11,Undergraduate,PHYS      4,RICHMAN J D,D-,7
+W11,Undergraduate,PHYS      4,RICHMAN J D,F,8
+W11,Undergraduate,PHYS      6B,GELLER R M,A+,5
+W11,Undergraduate,PHYS      6B,GELLER R M,A,19
+W11,Undergraduate,PHYS      6B,GELLER R M,A-,22
+W11,Undergraduate,PHYS      6B,GELLER R M,B+,19
+W11,Undergraduate,PHYS      6B,GELLER R M,B,56
+W11,Undergraduate,PHYS      6B,GELLER R M,B-,35
+W11,Undergraduate,PHYS      6B,GELLER R M,C+,50
+W11,Undergraduate,PHYS      6B,GELLER R M,C,41
+W11,Undergraduate,PHYS      6B,GELLER R M,C-,20
+W11,Undergraduate,PHYS      6B,GELLER R M,D,9
+W11,Undergraduate,PHYS      6B,GELLER R M,F,6
+W11,Undergraduate,PHYS     21,NELSON H,A+,2
+W11,Undergraduate,PHYS     21,NELSON H,A,7
+W11,Undergraduate,PHYS     21,NELSON H,A-,8
+W11,Undergraduate,PHYS     21,NELSON H,B+,9
+W11,Undergraduate,PHYS     21,NELSON H,B,12
+W11,Undergraduate,PHYS     21,NELSON H,B-,10
+W11,Undergraduate,PHYS     21,NELSON H,C+,7
+W11,Undergraduate,PHYS     21,NELSON H,C,8
+W11,Undergraduate,PHYS     21,NELSON H,C-,4
+W11,Undergraduate,PHYS     21,NELSON H,D,3
+W11,Undergraduate,PHYS     21,NELSON H,F,1
+W11,Undergraduate,PHYS    123B,HANSMA P K,A+,2
+W11,Undergraduate,PHYS    123B,HANSMA P K,A,3
+W11,Undergraduate,PHYS    123B,HANSMA P K,B,4
+W11,Undergraduate,PHYS    135,SAFINYA C R,A+,5
+W11,Undergraduate,PHYS    135,SAFINYA C R,A,8
+W11,Undergraduate,PHYS    135,SAFINYA C R,A-,1
+W11,Undergraduate,PHYS    160J,CARLSON J M,P,6
+W11,Graduate,PHYS    210A,GWINN C,A+,2
+W11,Graduate,PHYS    210A,GWINN C,A,7
+W11,Graduate,PHYS    210A,GWINN C,A-,8
+W11,Graduate,PHYS    210A,GWINN C,B+,2
+W11,Graduate,PHYS    217B,LUDWIG A W,A+,1
+W11,Graduate,PHYS    217B,LUDWIG A W,A,5
+W11,Graduate,PHYS    217B,LUDWIG A W,A-,3
+W11,Graduate,PHYS    219,POLCHINSKI J,A+,2
+W11,Graduate,PHYS    219,POLCHINSKI J,A,10
+W11,Graduate,PHYS    219,POLCHINSKI J,A-,5
+W11,Graduate,PHYS    219,POLCHINSKI J,B+,4
+W11,Graduate,PHYS    219,POLCHINSKI J,B,2
+W11,Graduate,PHYS    219,POLCHINSKI J,C+,1
+W11,Graduate,PHYS    223B,XU C,A+,2
+W11,Graduate,PHYS    223B,XU C,A,6
+W11,Graduate,PHYS    223B,XU C,A-,3
+W11,Graduate,PHYS    223B,XU C,B+,1
+W11,Graduate,PHYS    229A,BERENSTEIN D,A,6
+W11,Graduate,PHYS    229A,BERENSTEIN D,A-,1
+W11,Graduate,PHYS    229A,BERENSTEIN D,S,1
+W11,Graduate,PHYS    231B,MAROLF D M,A,6
+W11,Graduate,PHYS    231B,MAROLF D M,A-,3
+W11,Graduate,PHYS    260A,LUBIN P,S,9
+W11,Graduate,PHYS    260A,LUDWIG A W,S,9
+W11,Graduate,PHYS    260C,GIDDINGS S B,S,5
+W11,Graduate,PHYS    260G,XU C,S,20
+W11,Graduate,PHYS    596,AWSCHALOM D D,S,11
+W11,Graduate,PHYS    596,MARTINIS J,S,7
+W11,Undergraduate,PHYS CS  32,FOLSOM D P,P,18
+W11,Undergraduate,PHYS CS  32,GURUSWAMY S,P,18
+W11,Undergraduate,PHYS CS  35,BEN-YAACOV I,P,26
+W11,Undergraduate,PHYS CS  35,FOLSOM D P,P,26

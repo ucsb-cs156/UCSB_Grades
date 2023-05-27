@@ -1,0 +1,185 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W21,Undergraduate,GEOG      3,CATLETT D S,A+,16
+W21,Undergraduate,GEOG      3,CATLETT D S,A,45
+W21,Undergraduate,GEOG      3,CATLETT D S,A-,26
+W21,Undergraduate,GEOG      3,CATLETT D S,B+,20
+W21,Undergraduate,GEOG      3,CATLETT D S,B,28
+W21,Undergraduate,GEOG      3,CATLETT D S,B-,14
+W21,Undergraduate,GEOG      3,CATLETT D S,C+,8
+W21,Undergraduate,GEOG      3,CATLETT D S,C,9
+W21,Undergraduate,GEOG      3,CATLETT D S,C-,5
+W21,Undergraduate,GEOG      3,CATLETT D S,D+,6
+W21,Undergraduate,GEOG      3,CATLETT D S,D,5
+W21,Undergraduate,GEOG      3,CATLETT D S,F,8
+W21,Undergraduate,GEOG      5,ACKERT E S,A+,60
+W21,Undergraduate,GEOG      5,ACKERT E S,A,58
+W21,Undergraduate,GEOG      5,ACKERT E S,A-,31
+W21,Undergraduate,GEOG      5,ACKERT E S,B+,27
+W21,Undergraduate,GEOG      5,ACKERT E S,B,26
+W21,Undergraduate,GEOG      5,ACKERT E S,B-,9
+W21,Undergraduate,GEOG      5,ACKERT E S,C+,7
+W21,Undergraduate,GEOG      5,ACKERT E S,C,8
+W21,Undergraduate,GEOG      5,ACKERT E S,C-,2
+W21,Undergraduate,GEOG      5,ACKERT E S,D+,2
+W21,Undergraduate,GEOG      5,ACKERT E S,D,6
+W21,Undergraduate,GEOG      5,ACKERT E S,F,2
+W21,Undergraduate,GEOG      8,JONES C,A,22
+W21,Undergraduate,GEOG      8,JONES C,A-,14
+W21,Undergraduate,GEOG      8,JONES C,B,3
+W21,Undergraduate,GEOG      8,JONES C,C,1
+W21,Undergraduate,GEOG      8,JONES C,D,1
+W21,Undergraduate,GEOG      8,JONES C,F,3
+W21,Undergraduate,GEOG     20,JAMES A K,A+,15
+W21,Undergraduate,GEOG     20,JAMES A K,A,147
+W21,Undergraduate,GEOG     20,JAMES A K,A-,40
+W21,Undergraduate,GEOG     20,JAMES A K,B+,11
+W21,Undergraduate,GEOG     20,JAMES A K,B,9
+W21,Undergraduate,GEOG     20,JAMES A K,B-,13
+W21,Undergraduate,GEOG     20,JAMES A K,C+,1
+W21,Undergraduate,GEOG     20,JAMES A K,C,2
+W21,Undergraduate,GEOG     20,JAMES A K,F,9
+W21,Undergraduate,GEOG    110,DE CARVALHO L,A+,6
+W21,Undergraduate,GEOG    110,DE CARVALHO L,A,9
+W21,Undergraduate,GEOG    110,DE CARVALHO L,A-,6
+W21,Undergraduate,GEOG    110,DE CARVALHO L,B+,5
+W21,Undergraduate,GEOG    110,DE CARVALHO L,B,5
+W21,Undergraduate,GEOG    110,DE CARVALHO L,B-,4
+W21,Undergraduate,GEOG    110,DE CARVALHO L,C+,1
+W21,Undergraduate,GEOG    110,DE CARVALHO L,C-,1
+W21,Undergraduate,GEOG    110,DE CARVALHO L,F,1
+W21,Undergraduate,GEOG    111B,GOULIAS K,A+,5
+W21,Undergraduate,GEOG    111B,GOULIAS K,A,2
+W21,Undergraduate,GEOG    111B,GOULIAS K,A-,2
+W21,Undergraduate,GEOG    111B,GOULIAS K,B,2
+W21,Undergraduate,GEOG    111B,GOULIAS K,C,1
+W21,Undergraduate,GEOG    111B,GOULIAS K,D+,1
+W21,Undergraduate,GEOG    111B,GOULIAS K,F,4
+W21,Undergraduate,GEOG    115B,CHU V W,A+,2
+W21,Undergraduate,GEOG    115B,CHU V W,A,10
+W21,Undergraduate,GEOG    115B,CHU V W,A-,8
+W21,Undergraduate,GEOG    115B,CHU V W,B+,6
+W21,Undergraduate,GEOG    115B,CHU V W,B,4
+W21,Undergraduate,GEOG    115B,CHU V W,C+,3
+W21,Undergraduate,GEOG    115B,CHU V W,D+,1
+W21,Undergraduate,GEOG    115B,CHU V W,D,2
+W21,Undergraduate,GEOG    115B,CHU V W,F,2
+W21,Undergraduate,GEOG    116,LOAICIGA H,B,3
+W21,Undergraduate,GEOG    116,LOAICIGA H,C+,2
+W21,Undergraduate,GEOG    116,LOAICIGA H,F,1
+W21,Undergraduate,GEOG    119,DING Q,A+,14
+W21,Undergraduate,GEOG    119,DING Q,A,27
+W21,Undergraduate,GEOG    119,DING Q,A-,8
+W21,Undergraduate,GEOG    119,DING Q,B+,6
+W21,Undergraduate,GEOG    119,DING Q,B,1
+W21,Undergraduate,GEOG    119,DING Q,C+,1
+W21,Undergraduate,GEOG    119,DING Q,C,1
+W21,Undergraduate,GEOG    119,DING Q,C-,2
+W21,Undergraduate,GEOG    130,MCFADDEN J P,A+,2
+W21,Undergraduate,GEOG    130,MCFADDEN J P,A,15
+W21,Undergraduate,GEOG    130,MCFADDEN J P,A-,5
+W21,Undergraduate,GEOG    130,MCFADDEN J P,B,1
+W21,Undergraduate,GEOG    132,NIDZIEKO N J,A+,3
+W21,Undergraduate,GEOG    132,NIDZIEKO N J,A,10
+W21,Undergraduate,GEOG    132,NIDZIEKO N J,B,3
+W21,Undergraduate,GEOG    132,NIDZIEKO N J,C,1
+W21,Undergraduate,GEOG    132,NIDZIEKO N J,F,2
+W21,Undergraduate,GEOG    144,KELLER E A,A+,1
+W21,Undergraduate,GEOG    144,KELLER E A,A,5
+W21,Undergraduate,GEOG    144,KELLER E A,A-,3
+W21,Undergraduate,GEOG    144,KELLER E A,B+,6
+W21,Undergraduate,GEOG    144,KELLER E A,C+,1
+W21,Undergraduate,GEOG    149,JAMES A K,A+,9
+W21,Undergraduate,GEOG    149,JAMES A K,A,16
+W21,Undergraduate,GEOG    149,JAMES A K,A-,9
+W21,Undergraduate,GEOG    149,JAMES A K,B+,5
+W21,Undergraduate,GEOG    149,JAMES A K,B,5
+W21,Undergraduate,GEOG    149,JAMES A K,B-,1
+W21,Undergraduate,GEOG    149,JAMES A K,C,1
+W21,Undergraduate,GEOG    149,JAMES A K,D+,1
+W21,Undergraduate,GEOG    149,JAMES A K,F,1
+W21,Undergraduate,GEOG    150,MONTELLO D R,A,7
+W21,Undergraduate,GEOG    150,MONTELLO D R,A-,1
+W21,Undergraduate,GEOG    150,MONTELLO D R,B+,3
+W21,Undergraduate,GEOG    150,MONTELLO D R,B,22
+W21,Undergraduate,GEOG    150,MONTELLO D R,B-,4
+W21,Undergraduate,GEOG    150,MONTELLO D R,C+,8
+W21,Undergraduate,GEOG    150,MONTELLO D R,C,30
+W21,Undergraduate,GEOG    150,MONTELLO D R,D+,2
+W21,Undergraduate,GEOG    150,MONTELLO D R,D,4
+W21,Undergraduate,GEOG    150,MONTELLO D R,F,6
+W21,Undergraduate,GEOG    152,CASSELS S L,A+,1
+W21,Undergraduate,GEOG    152,CASSELS S L,A,5
+W21,Undergraduate,GEOG    152,CASSELS S L,A-,3
+W21,Undergraduate,GEOG    152,CASSELS S L,B+,2
+W21,Undergraduate,GEOG    152,CASSELS S L,B,5
+W21,Undergraduate,GEOG    152,CASSELS S L,B-,3
+W21,Undergraduate,GEOG    152,CASSELS S L,C+,1
+W21,Undergraduate,GEOG    152,CASSELS S L,C,1
+W21,Undergraduate,GEOG    152,CASSELS S L,D-,1
+W21,Undergraduate,GEOG    152,CASSELS S L,F,1
+W21,Undergraduate,GEOG    153C,MONTELLO D R,A+,1
+W21,Undergraduate,GEOG    153C,MONTELLO D R,A,2
+W21,Undergraduate,GEOG    153C,MONTELLO D R,A-,3
+W21,Undergraduate,GEOG    153C,MONTELLO D R,B+,1
+W21,Undergraduate,GEOG    153C,MONTELLO D R,B,5
+W21,Undergraduate,GEOG    153C,MONTELLO D R,C,1
+W21,Undergraduate,GEOG    153C,MONTELLO D R,C-,1
+W21,Undergraduate,GEOG    153C,MONTELLO D R,D-,2
+W21,Undergraduate,GEOG    153C,MONTELLO D R,F,1
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,A,8
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,A-,3
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,B+,3
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,B,1
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,C+,1
+W21,Undergraduate,GEOG    155,LOPEZ-CARR D,F,1
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,A,17
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,A-,13
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,B+,13
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,B,16
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,B-,8
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,C+,1
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,C,6
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,C-,6
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,D,1
+W21,Undergraduate,GEOG    176B,JANOWICZ K W,F,4
+W21,Undergraduate,GEOG    183,CLARKE K,A+,3
+W21,Undergraduate,GEOG    183,CLARKE K,A,14
+W21,Undergraduate,GEOG    183,CLARKE K,A-,1
+W21,Undergraduate,GEOG    183,CLARKE K,B+,2
+W21,Undergraduate,GEOG    183,CLARKE K,B,2
+W21,Undergraduate,GEOG    183,CLARKE K,B-,3
+W21,Undergraduate,GEOG    183,CLARKE K,C+,1
+W21,Undergraduate,GEOG    183,CLARKE K,C,1
+W21,Undergraduate,GEOG    183,CLARKE K,C-,1
+W21,Undergraduate,GEOG    183,CLARKE K,F,1
+W21,Undergraduate,GEOG    191,MURRAY A,A+,2
+W21,Undergraduate,GEOG    191,MURRAY A,A,1
+W21,Undergraduate,GEOG    191,MURRAY A,A-,2
+W21,Undergraduate,GEOG    191,MURRAY A,B+,3
+W21,Undergraduate,GEOG    191,MURRAY A,C+,3
+W21,Undergraduate,GEOG    191,MURRAY A,C,1
+W21,Undergraduate,GEOG    191,MURRAY A,D+,2
+W21,Undergraduate,GEOG    191,MURRAY A,F,2
+W21,Undergraduate,GEOG    197,KING J Y,P,19
+W21,Graduate,GEOG    200B,SWEENEY S H,A+,9
+W21,Graduate,GEOG    200B,SWEENEY S H,A,1
+W21,Graduate,GEOG    200B,SWEENEY S H,B,1
+W21,Graduate,GEOG    201,KING J Y,S,42
+W21,Graduate,GEOG    210B,BAYLIS K R,A+,5
+W21,Graduate,GEOG    210B,BAYLIS K R,A,4
+W21,Graduate,GEOG    210B,BAYLIS K R,A-,3
+W21,Graduate,GEOG    229,MONTELLO D R,A,3
+W21,Graduate,GEOG    229,MONTELLO D R,A-,1
+W21,Graduate,GEOG    229,MONTELLO D R,B,2
+W21,Graduate,GEOG    243,MCFADDEN J P,A,7
+W21,Graduate,GEOG    254,CASSELS S L,A,9
+W21,Graduate,GEOG    254,CASSELS S L,A-,3
+W21,Graduate,GEOG    254,CASSELS S L,B,1
+W21,Graduate,GEOG    271,DEVRIES T J,A+,2
+W21,Graduate,GEOG    271,DEVRIES T J,A,4
+W21,Graduate,GEOG    276,DE CARVALHO L,A+,4
+W21,Graduate,GEOG    276,DE CARVALHO L,A,3
+W21,Graduate,GEOG    276,DE CARVALHO L,A-,2
+W21,Graduate,GEOG    280,DE CARVALHO L,A,10
+W21,Graduate,GEOG    280,JONES C,A,10
+W21,Graduate,GEOG    288WK,KUHN W,A,6

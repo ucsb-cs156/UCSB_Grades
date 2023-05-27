@@ -1,0 +1,271 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W22,Undergraduate,ARTHI   107A,MEADOW M A,A,18
+W22,Undergraduate,ARTHI   107A,MEADOW M A,A-,9
+W22,Undergraduate,ARTHI   107A,MEADOW M A,A+,6
+W22,Undergraduate,ARTHI   107A,MEADOW M A,B,3
+W22,Undergraduate,ARTHI   107A,MEADOW M A,B-,2
+W22,Undergraduate,ARTHI   107A,MEADOW M A,B+,6
+W22,Undergraduate,ARTHI   107A,MEADOW M A,C,1
+W22,Undergraduate,ARTHI   107A,MEADOW M A,C+,1
+W22,Undergraduate,ARTHI   107A,MEADOW M A,D,1
+W22,Undergraduate,ARTHI   107A,MEADOW M A,F,1
+W22,Undergraduate,ARTHI   107C,MEADOW M A,A,18
+W22,Undergraduate,ARTHI   107C,MEADOW M A,A-,10
+W22,Undergraduate,ARTHI   107C,MEADOW M A,A+,2
+W22,Undergraduate,ARTHI   107C,MEADOW M A,B,3
+W22,Undergraduate,ARTHI   107C,MEADOW M A,B+,9
+W22,Undergraduate,ARTHI   107C,MEADOW M A,C,1
+W22,Undergraduate,ARTHI   107C,MEADOW M A,F,1
+W22,Undergraduate,CH ST   113,MEDINA A,A,2
+W22,Undergraduate,CH ST   113,MEDINA A,A-,4
+W22,Undergraduate,CH ST   113,MEDINA A,B,2
+W22,Undergraduate,CH ST   113,MEDINA A,B-,2
+W22,Undergraduate,CH ST   113,MEDINA A,B+,4
+W22,Undergraduate,CH ST   113,MEDINA A,C,4
+W22,Undergraduate,CH ST   113,MEDINA A,C-,1
+W22,Undergraduate,CH ST   113,MEDINA A,C+,5
+W22,Undergraduate,CH ST   113,MEDINA A,D,1
+W22,Undergraduate,CH ST   113,MEDINA A,F,4
+W22,Undergraduate,CH ST   117,MEDINA A,A,12
+W22,Undergraduate,CH ST   117,MEDINA A,B,2
+W22,Undergraduate,CH ST   117,MEDINA A,B+,1
+W22,Undergraduate,CH ST   117,MEDINA A,C+,1
+W22,Undergraduate,CHEM      2B,METIU H I,A,24
+W22,Undergraduate,CHEM      2B,METIU H I,A-,1
+W22,Undergraduate,CHEM      2B,METIU H I,A+,9
+W22,Undergraduate,CHEM      2B,METIU H I,B,9
+W22,Undergraduate,CHEM      2BC,METIU H I,A,18
+W22,Undergraduate,CHEM      2BC,METIU H I,A-,8
+W22,Undergraduate,CHEM      2BC,METIU H I,A+,1
+W22,Undergraduate,CHEM      2BC,METIU H I,B,3
+W22,Undergraduate,CHEM      2BC,METIU H I,B-,1
+W22,Undergraduate,CHEM      2BC,METIU H I,B+,5
+W22,Undergraduate,CHEM      2BC,METIU H I,F,1
+W22,Undergraduate,COMM     87,METZGER M J,A,7
+W22,Undergraduate,COMM     87,METZGER M J,A-,7
+W22,Undergraduate,COMM     87,METZGER M J,B,16
+W22,Undergraduate,COMM     87,METZGER M J,B-,4
+W22,Undergraduate,COMM     87,METZGER M J,B+,7
+W22,Undergraduate,COMM     87,METZGER M J,C,1
+W22,Undergraduate,COMM     87,METZGER M J,C-,4
+W22,Undergraduate,COMM     87,METZGER M J,C+,8
+W22,Undergraduate,COMM     87,METZGER M J,D,3
+W22,Undergraduate,COMM     87,METZGER M J,D-,3
+W22,Undergraduate,COMM     87,METZGER M J,D+,1
+W22,Undergraduate,COMM     87,METZGER M J,F,8
+W22,Undergraduate,COMM    111,MEROLLA A J,A,55
+W22,Undergraduate,COMM    111,MEROLLA A J,A-,8
+W22,Undergraduate,COMM    111,MEROLLA A J,B,3
+W22,Undergraduate,COMM    111,MEROLLA A J,B-,1
+W22,Undergraduate,COMM    111,MEROLLA A J,B+,6
+W22,Undergraduate,COMM    111,MEROLLA A J,C,2
+W22,Undergraduate,COMM    111,MEROLLA A J,D,1
+W22,Undergraduate,COMM    111,MEROLLA A J,F,2
+W22,Graduate,COMM    204B,METZGER M J,A,4
+W22,Graduate,COMM    204B,METZGER M J,A-,1
+W22,Graduate,COMM    204B,METZGER M J,B,1
+W22,Graduate,COMM    204B,METZGER M J,C+,1
+W22,Graduate,COMM    505,METZGER M J,S,35
+W22,Undergraduate,ECON    115,MENG K C,A,12
+W22,Undergraduate,ECON    115,MENG K C,A-,12
+W22,Undergraduate,ECON    115,MENG K C,B,16
+W22,Undergraduate,ECON    115,MENG K C,B-,17
+W22,Undergraduate,ECON    115,MENG K C,B+,37
+W22,Undergraduate,ECON    115,MENG K C,C,5
+W22,Undergraduate,ECON    115,MENG K C,C-,1
+W22,Undergraduate,ECON    115,MENG K C,C+,7
+W22,Undergraduate,ECON    115,MENG K C,D,1
+W22,Graduate,ECON    260G,MENG K C,A,12
+W22,Graduate,ECON    260G,MENG K C,B,1
+W22,Graduate,ED      370,MEYER M N,S,5
+W22,Graduate,ESM     229,MENG K C,A,7
+W22,Graduate,ESM     229,MENG K C,A-,4
+W22,Graduate,ESM     229,MENG K C,A+,1
+W22,Graduate,ESM     229,MENG K C,B,3
+W22,Graduate,ESM     229,MENG K C,B-,2
+W22,Graduate,ESM     229,MENG K C,B+,4
+W22,Undergraduate,GLOBL   130,MEHTA A S,A,10
+W22,Undergraduate,GLOBL   130,MEHTA A S,A-,5
+W22,Undergraduate,GLOBL   130,MEHTA A S,A+,6
+W22,Undergraduate,GLOBL   130,MEHTA A S,B,5
+W22,Undergraduate,GLOBL   130,MEHTA A S,B-,3
+W22,Undergraduate,GLOBL   130,MEHTA A S,B+,6
+W22,Undergraduate,GLOBL   130,MEHTA A S,C+,4
+W22,Undergraduate,GLOBL   130,MEHTA A S,F,2
+W22,Undergraduate,HIST      8,MENDEZ S C,A,19
+W22,Undergraduate,HIST      8,MENDEZ S C,A-,27
+W22,Undergraduate,HIST      8,MENDEZ S C,B,27
+W22,Undergraduate,HIST      8,MENDEZ S C,B-,15
+W22,Undergraduate,HIST      8,MENDEZ S C,B+,27
+W22,Undergraduate,HIST      8,MENDEZ S C,C,13
+W22,Undergraduate,HIST      8,MENDEZ S C,C-,3
+W22,Undergraduate,HIST      8,MENDEZ S C,C+,8
+W22,Undergraduate,HIST      8,MENDEZ S C,D,3
+W22,Undergraduate,HIST      8,MENDEZ S C,D+,2
+W22,Undergraduate,HIST      8,MENDEZ S C,F,13
+W22,Undergraduate,INT     187AL,MEDINA A,P,12
+W22,Graduate,INT     200,METZGER M J,A,2
+W22,Graduate,INT     200,METZGER M J,A+,5
+W22,Undergraduate,LAIS    100S,MENDEZ S C,A,2
+W22,Undergraduate,LAIS    100S,MENDEZ S C,A-,4
+W22,Undergraduate,LAIS    100S,MENDEZ S C,A+,1
+W22,Undergraduate,LAIS    100S,MENDEZ S C,B,1
+W22,Undergraduate,LAIS    100S,MENDEZ S C,B-,1
+W22,Undergraduate,LAIS    100S,MENDEZ S C,B+,2
+W22,Undergraduate,LAIS    100S,MENDEZ S C,C,2
+W22,Undergraduate,LAIS    100S,MENDEZ S C,D,1
+W22,Undergraduate,ME        6,MARKS T G,A,26
+W22,Undergraduate,ME        6,MARKS T G,A-,23
+W22,Undergraduate,ME        6,MARKS T G,A+,1
+W22,Undergraduate,ME        6,MARKS T G,B,8
+W22,Undergraduate,ME        6,MARKS T G,B-,3
+W22,Undergraduate,ME        6,MARKS T G,B+,14
+W22,Undergraduate,ME        6,MARKS T G,C,2
+W22,Undergraduate,ME        6,MARKS T G,C+,3
+W22,Undergraduate,ME       12,FIELDS K,A,2
+W22,Undergraduate,ME       12,FIELDS K,A-,3
+W22,Undergraduate,ME       12,FIELDS K,B,2
+W22,Undergraduate,ME       12,FIELDS K,B+,2
+W22,Undergraduate,ME       12S,FIELDS K,A,20
+W22,Undergraduate,ME       12S,FIELDS K,A-,5
+W22,Undergraduate,ME       12S,FIELDS K,A+,16
+W22,Undergraduate,ME       12S,FIELDS K,B,1
+W22,Undergraduate,ME       12S,FIELDS K,B-,3
+W22,Undergraduate,ME       12S,FIELDS K,B+,3
+W22,Undergraduate,ME       12S,FIELDS K,C+,1
+W22,Undergraduate,ME       15,BELTZ G,A,28
+W22,Undergraduate,ME       15,BELTZ G,A-,2
+W22,Undergraduate,ME       15,BELTZ G,A+,10
+W22,Undergraduate,ME       15,BELTZ G,B,32
+W22,Undergraduate,ME       15,BELTZ G,B-,3
+W22,Undergraduate,ME       15,BELTZ G,B+,2
+W22,Undergraduate,ME       15,BELTZ G,D+,1
+W22,Undergraduate,ME      112,MATTHYS E F,A,1
+W22,Undergraduate,ME      112,MATTHYS E F,A+,1
+W22,Undergraduate,ME      112,MATTHYS E F,B,2
+W22,Undergraduate,ME      112,MATTHYS E F,B-,1
+W22,Undergraduate,ME      125ED,DRESSAIRE E M,A,6
+W22,Undergraduate,ME      125ED,DRESSAIRE E M,B+,1
+W22,Undergraduate,ME      125EH,HAWKES E W,A,12
+W22,Undergraduate,ME      125ES,ZHU Y,A,12
+W22,Undergraduate,ME      125ES,ZHU Y,A-,2
+W22,Undergraduate,ME      125ES,ZHU Y,A+,4
+W22,Undergraduate,ME      125ES,ZHU Y,B+,1
+W22,Undergraduate,ME      125FA,DALY S H,A,2
+W22,Undergraduate,ME      125FA,DALY S H,A-,5
+W22,Undergraduate,ME      125FA,DALY S H,A+,1
+W22,Undergraduate,ME      125FA,DALY S H,B,4
+W22,Undergraduate,ME      125FA,DALY S H,B+,5
+W22,Undergraduate,ME      125FA,DALY S H,C+,2
+W22,Undergraduate,ME      125KF,FIELDS K,A,2
+W22,Undergraduate,ME      125KF,FIELDS K,A-,1
+W22,Undergraduate,ME      125KF,FIELDS K,B,2
+W22,Undergraduate,ME      125KF,FIELDS K,B+,2
+W22,Undergraduate,ME      125LP,MEINHART C,A,4
+W22,Undergraduate,ME      125LP,MEINHART C,B,1
+W22,Undergraduate,ME      125LP,MEINHART C,B-,1
+W22,Undergraduate,ME      125LP,PETZOLD L,A,4
+W22,Undergraduate,ME      125LP,PETZOLD L,B,1
+W22,Undergraduate,ME      125LP,PETZOLD L,B-,1
+W22,Undergraduate,ME      125ML,YEUNG E H,A,14
+W22,Undergraduate,ME      125ML,YEUNG E H,A-,3
+W22,Undergraduate,ME      141A,PENNATHUR S,A,3
+W22,Undergraduate,ME      141A,PENNATHUR S,A-,4
+W22,Undergraduate,ME      141A,PENNATHUR S,A+,1
+W22,Undergraduate,ME      141A,PENNATHUR S,B,3
+W22,Undergraduate,ME      141A,PENNATHUR S,B-,1
+W22,Undergraduate,ME      141A,PENNATHUR S,B+,1
+W22,Undergraduate,ME      151B,LIAO B,A,41
+W22,Undergraduate,ME      151B,LIAO B,A-,18
+W22,Undergraduate,ME      151B,LIAO B,B,5
+W22,Undergraduate,ME      151B,LIAO B,B-,1
+W22,Undergraduate,ME      151B,LIAO B,B+,8
+W22,Undergraduate,ME      151B,LIAO B,C,3
+W22,Undergraduate,ME      151B,LIAO B,C-,2
+W22,Undergraduate,ME      151B,LIAO B,C+,2
+W22,Undergraduate,ME      151B,LIAO B,D,1
+W22,Undergraduate,ME      151B,LIAO B,D+,1
+W22,Undergraduate,ME      151B,LIAO B,F,2
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,A,19
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,A-,8
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,A+,11
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,B,2
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,B-,1
+W22,Undergraduate,ME      152B,LUZZATTO-FEGI,B+,3
+W22,Undergraduate,ME      152B,SAURET A O,A,8
+W22,Undergraduate,ME      152B,SAURET A O,A-,7
+W22,Undergraduate,ME      152B,SAURET A O,A+,7
+W22,Undergraduate,ME      152B,SAURET A O,B,4
+W22,Undergraduate,ME      152B,SAURET A O,B-,3
+W22,Undergraduate,ME      152B,SAURET A O,B+,4
+W22,Undergraduate,ME      152B,SAURET A O,C-,2
+W22,Undergraduate,ME      152B,SAURET A O,C+,3
+W22,Undergraduate,ME      152B,SAURET A O,F,1
+W22,Undergraduate,ME      156B,SUSKO T G,A,11
+W22,Undergraduate,ME      156B,SUSKO T G,A-,9
+W22,Undergraduate,ME      156B,SUSKO T G,A+,1
+W22,Undergraduate,ME      156B,SUSKO T G,B,18
+W22,Undergraduate,ME      156B,SUSKO T G,B-,13
+W22,Undergraduate,ME      156B,SUSKO T G,B+,5
+W22,Undergraduate,ME      156B,SUSKO T G,C,7
+W22,Undergraduate,ME      156B,SUSKO T G,C-,4
+W22,Undergraduate,ME      156B,SUSKO T G,C+,6
+W22,Undergraduate,ME      156B,SUSKO T G,D-,1
+W22,Undergraduate,ME      156B,SUSKO T G,D+,1
+W22,Undergraduate,ME      158,CHAMBERS R T,A,16
+W22,Undergraduate,ME      158,CHAMBERS R T,A-,1
+W22,Undergraduate,ME      158,CHAMBERS R T,B,1
+W22,Undergraduate,ME      158,CHAMBERS R T,B-,1
+W22,Undergraduate,ME      158,CHAMBERS R T,B+,1
+W22,Undergraduate,ME      158,CHAMBERS R T,C,1
+W22,Undergraduate,ME      163,BAMIEH B A,A,35
+W22,Undergraduate,ME      163,BAMIEH B A,A-,7
+W22,Undergraduate,ME      163,BAMIEH B A,B,20
+W22,Undergraduate,ME      163,BAMIEH B A,B-,6
+W22,Undergraduate,ME      163,BAMIEH B A,B+,8
+W22,Undergraduate,ME      163,BAMIEH B A,C,5
+W22,Undergraduate,ME      163,BAMIEH B A,C+,2
+W22,Undergraduate,ME      163,BAMIEH B A,D,2
+W22,Undergraduate,ME      163,BAMIEH B A,F,2
+W22,Undergraduate,ME      179P,BULLO F,A,7
+W22,Undergraduate,ME      179P,BULLO F,A-,4
+W22,Undergraduate,ME      179P,BULLO F,B-,1
+W22,Undergraduate,ME      179P,BULLO F,B+,3
+W22,Undergraduate,ME      179P,BULLO F,D,1
+W22,Graduate,ME      210B,PETZOLD L,A,2
+W22,Graduate,ME      210B,PETZOLD L,A+,1
+W22,Graduate,ME      210B,PETZOLD L,B,1
+W22,Graduate,ME      210B,PETZOLD L,B+,1
+W22,Graduate,ME      220B,BENNETT T D,A,5
+W22,Graduate,ME      220B,BENNETT T D,A-,2
+W22,Graduate,ME      220B,BENNETT T D,A+,1
+W22,Graduate,ME      220B,BENNETT T D,B+,2
+W22,Graduate,ME      225MC,VALENTINE M T,A,3
+W22,Graduate,ME      225MC,VALENTINE M T,A-,1
+W22,Graduate,ME      225MC,VALENTINE M T,A+,3
+W22,Graduate,ME      225MC,VALENTINE M T,B+,1
+W22,Graduate,ME      225MC,VALENTINE M T,F,1
+W22,Graduate,ME      225ML,YEUNG E H,A,18
+W22,Graduate,ME      258,PRUITT B,A,3
+W22,Graduate,ME      258,PRUITT B,A-,2
+W22,Undergraduate,PSTAT   127,MEIRING W,A,30
+W22,Undergraduate,PSTAT   127,MEIRING W,A-,4
+W22,Undergraduate,PSTAT   127,MEIRING W,A+,6
+W22,Undergraduate,PSTAT   127,MEIRING W,B,15
+W22,Undergraduate,PSTAT   127,MEIRING W,B-,10
+W22,Undergraduate,PSTAT   127,MEIRING W,B+,16
+W22,Undergraduate,PSTAT   127,MEIRING W,C,5
+W22,Undergraduate,PSTAT   127,MEIRING W,C+,3
+W22,Undergraduate,PSTAT   127,MEIRING W,F,2
+W22,Undergraduate,WRIT    105WE,MENA H P,A,11
+W22,Undergraduate,WRIT    105WE,MENA H P,A-,18
+W22,Undergraduate,WRIT    105WE,MENA H P,B-,2
+W22,Undergraduate,WRIT    105WE,MENA H P,B+,7
+W22,Undergraduate,WRIT    105WE,MENA H P,C,1
+W22,Undergraduate,WRIT    105WE,MENA H P,C+,2
+W22,Undergraduate,WRIT    107DJ,MENA H P,A,7
+W22,Undergraduate,WRIT    107DJ,MENA H P,A-,3
+W22,Undergraduate,WRIT    107DJ,MENA H P,B,2
+W22,Undergraduate,WRIT    107DJ,MENA H P,B-,4
+W22,Undergraduate,WRIT    107DJ,MENA H P,B+,4
+W22,Undergraduate,WRIT    107DJ,MENA H P,C+,2

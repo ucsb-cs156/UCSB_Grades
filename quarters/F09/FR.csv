@@ -1,0 +1,107 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F09,Undergraduate,CH E    132B,FREDRICKSON G,A+,3
+F09,Undergraduate,CH E    132B,FREDRICKSON G,A,8
+F09,Undergraduate,CH E    132B,FREDRICKSON G,B+,10
+F09,Undergraduate,CH E    132B,FREDRICKSON G,B,10
+F09,Undergraduate,CH E    132B,FREDRICKSON G,C+,6
+F09,Undergraduate,CH E    132B,FREDRICKSON G,C,7
+F09,Undergraduate,CH E    132B,FREDRICKSON G,C-,1
+F09,Undergraduate,CH E    132B,FREDRICKSON G,D,3
+F09,Undergraduate,CH E    132B,FREDRICKSON G,F,4
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A+,4
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A,8
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A-,3
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B+,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B-,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C+,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C,2
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C-,1
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,D,2
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,F,5
+F09,Undergraduate,ENGL    101,FRADENBURG L,A,5
+F09,Undergraduate,ENGL    101,FRADENBURG L,A-,5
+F09,Undergraduate,ENGL    101,FRADENBURG L,B+,9
+F09,Undergraduate,ENGL    101,FRADENBURG L,B,9
+F09,Undergraduate,ENGL    101,FRADENBURG L,B-,6
+F09,Undergraduate,ENGL    101,FRADENBURG L,C+,9
+F09,Undergraduate,ENGL    101,FRADENBURG L,C,4
+F09,Undergraduate,ENGL    101,FRADENBURG L,F,3
+F09,Undergraduate,ENGL    101S,FRADENBURG L,A,2
+F09,Undergraduate,ENGL    101S,FRADENBURG L,A-,4
+F09,Undergraduate,ENV S     1,FREUDENBURG W,A+,25
+F09,Undergraduate,ENV S     1,FREUDENBURG W,A,71
+F09,Undergraduate,ENV S     1,FREUDENBURG W,A-,55
+F09,Undergraduate,ENV S     1,FREUDENBURG W,B+,65
+F09,Undergraduate,ENV S     1,FREUDENBURG W,B,80
+F09,Undergraduate,ENV S     1,FREUDENBURG W,B-,44
+F09,Undergraduate,ENV S     1,FREUDENBURG W,C+,24
+F09,Undergraduate,ENV S     1,FREUDENBURG W,C,26
+F09,Undergraduate,ENV S     1,FREUDENBURG W,C-,10
+F09,Undergraduate,ENV S     1,FREUDENBURG W,D+,4
+F09,Undergraduate,ENV S     1,FREUDENBURG W,D,2
+F09,Undergraduate,ENV S     1,FREUDENBURG W,F,7
+F09,Graduate,ESM     261,FREW J E,A,4
+F09,Graduate,ESM     261,FREW J E,A-,1
+F09,Graduate,ESM     261,FREW J E,B+,2
+F09,Graduate,ESM     261,FREW J E,B,1
+F09,Undergraduate,FR      101A,SKENAZI E C,A,7
+F09,Undergraduate,FR      101A,SKENAZI E C,A-,5
+F09,Undergraduate,FR      101A,SKENAZI E C,B,5
+F09,Undergraduate,FR      101A,SKENAZI E C,B-,2
+F09,Undergraduate,FR      101A,SKENAZI E C,C+,1
+F09,Undergraduate,FR      101A,SKENAZI E C,C,1
+F09,Undergraduate,FR      101A,SKENAZI E C,F,1
+F09,Undergraduate,FR      101B,STURM E,A+,1
+F09,Undergraduate,FR      101B,STURM E,A,2
+F09,Undergraduate,FR      101B,STURM E,A-,4
+F09,Undergraduate,FR      101B,STURM E,B+,4
+F09,Undergraduate,FR      101B,STURM E,B,3
+F09,Undergraduate,FR      153C,MALEUVRE D,A+,5
+F09,Undergraduate,FR      153C,MALEUVRE D,A,13
+F09,Undergraduate,FR      153C,MALEUVRE D,A-,6
+F09,Undergraduate,FR      153C,MALEUVRE D,B+,7
+F09,Undergraduate,FR      153C,MALEUVRE D,B,4
+F09,Undergraduate,FR      153C,MALEUVRE D,B-,2
+F09,Undergraduate,FR      153C,MALEUVRE D,C+,3
+F09,Undergraduate,FR      153C,MALEUVRE D,C,3
+F09,Undergraduate,FR      153E,STURM E,A+,1
+F09,Undergraduate,FR      153E,STURM E,A,10
+F09,Undergraduate,FR      153E,STURM E,A-,21
+F09,Undergraduate,FR      153E,STURM E,B+,19
+F09,Undergraduate,FR      153E,STURM E,B,12
+F09,Undergraduate,FR      153E,STURM E,B-,7
+F09,Undergraduate,FR      153E,STURM E,C+,1
+F09,Undergraduate,FR      153E,STURM E,C,1
+F09,Undergraduate,FR      153E,STURM E,F,1
+F09,Undergraduate,FR      154A,SKENAZI E C,A,4
+F09,Undergraduate,FR      154A,SKENAZI E C,A-,7
+F09,Undergraduate,FR      154A,SKENAZI E C,B+,2
+F09,Undergraduate,FR      154A,SKENAZI E C,B,3
+F09,Undergraduate,FR      154A,SKENAZI E C,B-,3
+F09,Undergraduate,FR      154A,SKENAZI E C,C+,3
+F09,Graduate,FR      500,SCHULTZ J M,S,11
+F09,Undergraduate,LING      4,FRODESEN J M,P,16
+F09,Undergraduate,PSY       1,FRIDLUND A J,A+,1
+F09,Undergraduate,PSY       1,FRIDLUND A J,A,171
+F09,Undergraduate,PSY       1,FRIDLUND A J,A-,24
+F09,Undergraduate,PSY       1,FRIDLUND A J,B+,27
+F09,Undergraduate,PSY       1,FRIDLUND A J,B,266
+F09,Undergraduate,PSY       1,FRIDLUND A J,B-,26
+F09,Undergraduate,PSY       1,FRIDLUND A J,C+,18
+F09,Undergraduate,PSY       1,FRIDLUND A J,C,150
+F09,Undergraduate,PSY       1,FRIDLUND A J,C-,20
+F09,Undergraduate,PSY       1,FRIDLUND A J,D+,6
+F09,Undergraduate,PSY       1,FRIDLUND A J,D,56
+F09,Undergraduate,PSY       1,FRIDLUND A J,D-,9
+F09,Undergraduate,PSY       1,FRIDLUND A J,F,38
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,A,5
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,A-,5
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,B+,1
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,B,3
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,B-,2
+F09,Undergraduate,RG ST   104,FRIEDLAND R O,F,1
+F09,Graduate,RG ST   200D,FRIEDLAND R O,A,6
+F09,Graduate,RG ST   200D,FRIEDLAND R O,A-,3
+F09,Graduate,RG ST   200D,FRIEDLAND R O,B+,3
+F09,Graduate,RG ST   200D,FRIEDLAND R O,B,3

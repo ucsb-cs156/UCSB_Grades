@@ -1,0 +1,196 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,PSY       3,BROWN C N,A+,1
+M17,Undergraduate,PSY       3,BROWN C N,A,4
+M17,Undergraduate,PSY       3,BROWN C N,A-,1
+M17,Undergraduate,PSY       3,BROWN C N,B+,4
+M17,Undergraduate,PSY       3,BROWN C N,B,4
+M17,Undergraduate,PSY       3,BROWN C N,B-,2
+M17,Undergraduate,PSY       3,BROWN C N,C+,7
+M17,Undergraduate,PSY       3,BROWN C N,C,4
+M17,Undergraduate,PSY       3,BROWN C N,C-,4
+M17,Undergraduate,PSY       3,BROWN C N,D+,2
+M17,Undergraduate,PSY       3,BROWN C N,D,2
+M17,Undergraduate,PSY       3,BROWN C N,F,1
+M17,Undergraduate,PSY       7,ABEYTA A N,A+,1
+M17,Undergraduate,PSY       7,ABEYTA A N,A,2
+M17,Undergraduate,PSY       7,ABEYTA A N,A-,2
+M17,Undergraduate,PSY       7,ABEYTA A N,B+,4
+M17,Undergraduate,PSY       7,ABEYTA A N,B,3
+M17,Undergraduate,PSY       7,ABEYTA A N,B-,2
+M17,Undergraduate,PSY       7,ABEYTA A N,C+,4
+M17,Undergraduate,PSY       7,ABEYTA A N,C,5
+M17,Undergraduate,PSY       7,ABEYTA A N,C-,3
+M17,Undergraduate,PSY       7,ABEYTA A N,D+,2
+M17,Undergraduate,PSY       7,ABEYTA A N,D,1
+M17,Undergraduate,PSY       7,ABEYTA A N,D-,1
+M17,Undergraduate,PSY       7,ANDERSON J F,A,4
+M17,Undergraduate,PSY       7,ANDERSON J F,A-,5
+M17,Undergraduate,PSY       7,ANDERSON J F,B+,4
+M17,Undergraduate,PSY       7,ANDERSON J F,B,9
+M17,Undergraduate,PSY       7,ANDERSON J F,B-,15
+M17,Undergraduate,PSY       7,ANDERSON J F,C+,6
+M17,Undergraduate,PSY       7,ANDERSON J F,C,11
+M17,Undergraduate,PSY       7,ANDERSON J F,C-,4
+M17,Undergraduate,PSY       7,ANDERSON J F,D,4
+M17,Undergraduate,PSY       7,ANDERSON J F,F,2
+M17,Undergraduate,PSY     102,ANDERSON J F,A+,2
+M17,Undergraduate,PSY     102,ANDERSON J F,A,8
+M17,Undergraduate,PSY     102,ANDERSON J F,A-,11
+M17,Undergraduate,PSY     102,ANDERSON J F,B+,11
+M17,Undergraduate,PSY     102,ANDERSON J F,B,16
+M17,Undergraduate,PSY     102,ANDERSON J F,B-,15
+M17,Undergraduate,PSY     102,ANDERSON J F,C+,5
+M17,Undergraduate,PSY     102,ANDERSON J F,C,3
+M17,Undergraduate,PSY     102,ANDERSON J F,C-,2
+M17,Undergraduate,PSY     102,ANDERSON J F,D+,1
+M17,Undergraduate,PSY     102,ANDERSON J F,D,1
+M17,Undergraduate,PSY     102,ANDERSON J F,F,3
+M17,Undergraduate,PSY     102,ESPINO PEREZ,A+,4
+M17,Undergraduate,PSY     102,ESPINO PEREZ,A,8
+M17,Undergraduate,PSY     102,ESPINO PEREZ,A-,8
+M17,Undergraduate,PSY     102,ESPINO PEREZ,B+,13
+M17,Undergraduate,PSY     102,ESPINO PEREZ,B,5
+M17,Undergraduate,PSY     102,ESPINO PEREZ,B-,8
+M17,Undergraduate,PSY     102,ESPINO PEREZ,C+,4
+M17,Undergraduate,PSY     102,ESPINO PEREZ,C,11
+M17,Undergraduate,PSY     102,ESPINO PEREZ,C-,2
+M17,Undergraduate,PSY     102,ESPINO PEREZ,D,3
+M17,Undergraduate,PSY     102,ESPINO PEREZ,F,3
+M17,Undergraduate,PSY     105,HOROWITZ E J,A+,9
+M17,Undergraduate,PSY     105,HOROWITZ E J,A,16
+M17,Undergraduate,PSY     105,HOROWITZ E J,A-,8
+M17,Undergraduate,PSY     105,HOROWITZ E J,B+,6
+M17,Undergraduate,PSY     105,HOROWITZ E J,B,12
+M17,Undergraduate,PSY     105,HOROWITZ E J,B-,7
+M17,Undergraduate,PSY     105,HOROWITZ E J,C+,4
+M17,Undergraduate,PSY     105,HOROWITZ E J,C,1
+M17,Undergraduate,PSY     105,HOROWITZ E J,C-,3
+M17,Undergraduate,PSY     105,HOROWITZ E J,D,2
+M17,Undergraduate,PSY     105,HOROWITZ E J,F,2
+M17,Undergraduate,PSY     105,LA JOY J R,A+,3
+M17,Undergraduate,PSY     105,LA JOY J R,A,18
+M17,Undergraduate,PSY     105,LA JOY J R,A-,7
+M17,Undergraduate,PSY     105,LA JOY J R,B+,10
+M17,Undergraduate,PSY     105,LA JOY J R,B,8
+M17,Undergraduate,PSY     105,LA JOY J R,C+,2
+M17,Undergraduate,PSY     105,LA JOY J R,C,3
+M17,Undergraduate,PSY     105,LA JOY J R,D+,1
+M17,Undergraduate,PSY     108,FISHER J T,A,8
+M17,Undergraduate,PSY     108,FISHER J T,A-,10
+M17,Undergraduate,PSY     108,FISHER J T,B+,5
+M17,Undergraduate,PSY     108,FISHER J T,B,10
+M17,Undergraduate,PSY     108,FISHER J T,B-,5
+M17,Undergraduate,PSY     108,FISHER J T,C+,3
+M17,Undergraduate,PSY     108,FISHER J T,C,3
+M17,Undergraduate,PSY     108,FISHER J T,C-,2
+M17,Undergraduate,PSY     108,FISHER J T,D+,4
+M17,Undergraduate,PSY     108,FISHER J T,D,10
+M17,Undergraduate,PSY     108,FISHER J T,F,2
+M17,Undergraduate,PSY     111,BROWN C N,A+,1
+M17,Undergraduate,PSY     111,BROWN C N,A,4
+M17,Undergraduate,PSY     111,BROWN C N,A-,8
+M17,Undergraduate,PSY     111,BROWN C N,B+,10
+M17,Undergraduate,PSY     111,BROWN C N,B,21
+M17,Undergraduate,PSY     111,BROWN C N,B-,10
+M17,Undergraduate,PSY     111,BROWN C N,C+,10
+M17,Undergraduate,PSY     111,BROWN C N,C,9
+M17,Undergraduate,PSY     111,BROWN C N,C-,2
+M17,Undergraduate,PSY     111,BROWN C N,D+,4
+M17,Undergraduate,PSY     111,BROWN C N,D,3
+M17,Undergraduate,PSY     111,BROWN C N,F,1
+M17,Undergraduate,PSY     115,KLEIN A K,A+,6
+M17,Undergraduate,PSY     115,KLEIN A K,A,7
+M17,Undergraduate,PSY     115,KLEIN A K,A-,7
+M17,Undergraduate,PSY     115,KLEIN A K,B+,4
+M17,Undergraduate,PSY     115,KLEIN A K,B,5
+M17,Undergraduate,PSY     115,KLEIN A K,B-,5
+M17,Undergraduate,PSY     115,KLEIN A K,C+,1
+M17,Undergraduate,PSY     115,KLEIN A K,C-,1
+M17,Undergraduate,PSY     115,KLEIN A K,F,1
+M17,Undergraduate,PSY     120L,LA JOY J R,A+,1
+M17,Undergraduate,PSY     120L,LA JOY J R,A,14
+M17,Undergraduate,PSY     120L,LA JOY J R,A-,7
+M17,Undergraduate,PSY     120L,LA JOY J R,B+,2
+M17,Undergraduate,PSY     120L,LA JOY J R,B,1
+M17,Undergraduate,PSY     120L,LA JOY J R,B-,1
+M17,Undergraduate,PSY     120L,LA JOY J R,C+,1
+M17,Undergraduate,PSY     120L,LA JOY J R,C,1
+M17,Undergraduate,PSY     120L,LA JOY J R,C-,1
+M17,Undergraduate,PSY     123,SHAPIRO A D,A,4
+M17,Undergraduate,PSY     123,SHAPIRO A D,A-,3
+M17,Undergraduate,PSY     123,SHAPIRO A D,B+,3
+M17,Undergraduate,PSY     123,SHAPIRO A D,B,2
+M17,Undergraduate,PSY     123,SHAPIRO A D,B-,2
+M17,Undergraduate,PSY     123,SHAPIRO A D,C+,6
+M17,Undergraduate,PSY     123,SHAPIRO A D,C,2
+M17,Undergraduate,PSY     123,SHAPIRO A D,C-,2
+M17,Undergraduate,PSY     123,SHAPIRO A D,D+,2
+M17,Undergraduate,PSY     123,SHAPIRO A D,F,2
+M17,Undergraduate,PSY     124,BAINBRIDGE K,A+,3
+M17,Undergraduate,PSY     124,BAINBRIDGE K,A,2
+M17,Undergraduate,PSY     124,BAINBRIDGE K,A-,3
+M17,Undergraduate,PSY     124,BAINBRIDGE K,B+,4
+M17,Undergraduate,PSY     124,BAINBRIDGE K,B,9
+M17,Undergraduate,PSY     124,BAINBRIDGE K,B-,2
+M17,Undergraduate,PSY     124,BAINBRIDGE K,C+,3
+M17,Undergraduate,PSY     124,BAINBRIDGE K,C,4
+M17,Undergraduate,PSY     124,BAINBRIDGE K,C-,1
+M17,Undergraduate,PSY     124,BAINBRIDGE K,D-,1
+M17,Undergraduate,PSY     124,BAINBRIDGE K,F,1
+M17,Undergraduate,PSY     133,WOODS V E,A,2
+M17,Undergraduate,PSY     133,WOODS V E,A-,4
+M17,Undergraduate,PSY     133,WOODS V E,B+,7
+M17,Undergraduate,PSY     133,WOODS V E,B-,2
+M17,Undergraduate,PSY     133,WOODS V E,C+,3
+M17,Undergraduate,PSY     133,WOODS V E,C,5
+M17,Undergraduate,PSY     133,WOODS V E,C-,1
+M17,Undergraduate,PSY     145,GERMAN T C M,A+,5
+M17,Undergraduate,PSY     145,GERMAN T C M,A,8
+M17,Undergraduate,PSY     145,GERMAN T C M,A-,7
+M17,Undergraduate,PSY     145,GERMAN T C M,B+,8
+M17,Undergraduate,PSY     145,GERMAN T C M,B,10
+M17,Undergraduate,PSY     145,GERMAN T C M,B-,2
+M17,Undergraduate,PSY     145,GERMAN T C M,C+,2
+M17,Undergraduate,PSY     145,GERMAN T C M,C,2
+M17,Undergraduate,PSY     146,PLOENSE K L,A,5
+M17,Undergraduate,PSY     146,PLOENSE K L,A-,4
+M17,Undergraduate,PSY     146,PLOENSE K L,B+,7
+M17,Undergraduate,PSY     146,PLOENSE K L,B,9
+M17,Undergraduate,PSY     146,PLOENSE K L,B-,8
+M17,Undergraduate,PSY     146,PLOENSE K L,C+,4
+M17,Undergraduate,PSY     146,PLOENSE K L,C,1
+M17,Undergraduate,PSY     146,PLOENSE K L,C-,6
+M17,Undergraduate,PSY     146,PLOENSE K L,D+,5
+M17,Undergraduate,PSY     146,PLOENSE K L,D-,1
+M17,Undergraduate,PSY     146,PLOENSE K L,F,3
+M17,Undergraduate,PSY     148,EOM K,A,20
+M17,Undergraduate,PSY     148,EOM K,A-,14
+M17,Undergraduate,PSY     148,EOM K,B+,7
+M17,Undergraduate,PSY     148,EOM K,B,3
+M17,Undergraduate,PSY     148,EOM K,B-,3
+M17,Undergraduate,PSY     148,EOM K,C+,5
+M17,Undergraduate,PSY     148,EOM K,C,2
+M17,Undergraduate,PSY     148,EOM K,C-,1
+M17,Undergraduate,PSY     149,ANDERSON J F,A,4
+M17,Undergraduate,PSY     149,ANDERSON J F,A-,10
+M17,Undergraduate,PSY     149,ANDERSON J F,B+,11
+M17,Undergraduate,PSY     149,ANDERSON J F,B,9
+M17,Undergraduate,PSY     149,ANDERSON J F,B-,1
+M17,Undergraduate,PSY     149,ANDERSON J F,C+,2
+M17,Undergraduate,PSY     149,ANDERSON J F,D,1
+M17,Undergraduate,PSY     153L,COSMIDES L,A,7
+M17,Undergraduate,PSY     153L,COSMIDES L,A-,6
+M17,Undergraduate,PSY     153L,COSMIDES L,B+,2
+M17,Undergraduate,PSY     153L,COSMIDES L,B,11
+M17,Undergraduate,PSY     153L,COSMIDES L,B-,1
+M17,Undergraduate,PSY     153L,COSMIDES L,C+,1
+M17,Undergraduate,PSY     153L,COSMIDES L,C-,1
+M17,Undergraduate,PSY     158,LAWRIE S I,A+,7
+M17,Undergraduate,PSY     158,LAWRIE S I,A,12
+M17,Undergraduate,PSY     158,LAWRIE S I,A-,15
+M17,Undergraduate,PSY     158,LAWRIE S I,B+,3
+M17,Undergraduate,PSY     158,LAWRIE S I,B,2
+M17,Undergraduate,PSY     158,LAWRIE S I,B-,2
+M17,Undergraduate,PSY     158,LAWRIE S I,C,1
+M17,Undergraduate,PSY     158,LAWRIE S I,C-,1
+M17,Undergraduate,PSY     199P,ECKSTEIN M P,P,7

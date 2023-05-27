@@ -1,0 +1,101 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Graduate,ESM     204,COSTELLO C J,A+,8
+S20,Graduate,ESM     204,COSTELLO C J,A,32
+S20,Graduate,ESM     204,COSTELLO C J,A-,18
+S20,Graduate,ESM     204,COSTELLO C J,B+,22
+S20,Graduate,ESM     204,COSTELLO C J,B,5
+S20,Graduate,ESM     204,COSTELLO C J,B-,2
+S20,Graduate,ESM     207,SALZMAN J E,A+,3
+S20,Graduate,ESM     207,SALZMAN J E,A,18
+S20,Graduate,ESM     207,SALZMAN J E,A-,18
+S20,Graduate,ESM     207,SALZMAN J E,B+,4
+S20,Graduate,ESM     207,SALZMAN J E,B,3
+S20,Graduate,ESM     207,SALZMAN J E,F,1
+S20,Graduate,ESM     207,SALZMAN J E,S,39
+S20,Graduate,ESM     222,KELLER A A,A+,7
+S20,Graduate,ESM     222,KELLER A A,A,1
+S20,Graduate,ESM     228,BUNTAINE M T,A,16
+S20,Graduate,ESM     228,BUNTAINE M T,A-,9
+S20,Graduate,ESM     228,BUNTAINE M T,B+,3
+S20,Graduate,ESM     230,COTTER E E,A+,1
+S20,Graduate,ESM     230,COTTER E E,A,13
+S20,Graduate,ESM     230,COTTER E E,A-,5
+S20,Graduate,ESM     230,COTTER E E,S,1
+S20,Graduate,ESM     232,TAGUE C,A+,4
+S20,Graduate,ESM     232,TAGUE C,A,12
+S20,Graduate,ESM     237,STEVENSON-MIC,A+,3
+S20,Graduate,ESM     237,STEVENSON-MIC,A,8
+S20,Graduate,ESM     237,STEVENSON-MIC,A-,2
+S20,Graduate,ESM     237,STEVENSON-MIC,B+,1
+S20,Graduate,ESM     237,STEVENSON-MIC,B,1
+S20,Graduate,ESM     243,ANDERSON S,A,19
+S20,Graduate,ESM     243,ANDERSON S,B+,1
+S20,Graduate,ESM     243,ANDERSON S,B,1
+S20,Graduate,ESM     254,LENIHAN H S,A+,6
+S20,Graduate,ESM     254,LENIHAN H S,A,14
+S20,Graduate,ESM     261,FREW J E,A,17
+S20,Graduate,ESM     261,FREW J E,A-,5
+S20,Graduate,ESM     261,FREW J E,B,2
+S20,Graduate,ESM     269,HODGES H E,A,16
+S20,Graduate,ESM     269,HODGES H E,A-,4
+S20,Graduate,ESM     269,HODGES H E,B+,1
+S20,Graduate,ESM     269,HODGES H E,B,2
+S20,Graduate,ESM     269,HODGES H E,F,1
+S20,Graduate,ESM     270,LARSEN A E,A,15
+S20,Graduate,ESM     270,LARSEN A E,A-,7
+S20,Graduate,ESM     270,LARSEN A E,B+,1
+S20,Graduate,ESM     272,SUH S,A+,9
+S20,Graduate,ESM     272,SUH S,A,10
+S20,Graduate,ESM     272,SUH S,A-,1
+S20,Graduate,ESM     278,SALZMAN J E,A+,1
+S20,Graduate,ESM     278,SALZMAN J E,A,11
+S20,Graduate,ESM     278,SALZMAN J E,A-,2
+S20,Graduate,ESM     278,SALZMAN J E,B+,3
+S20,Graduate,ESM     278,SALZMAN J E,B,1
+S20,Graduate,ESM     279,PLANTINGA A,A+,14
+S20,Graduate,ESM     279,PLANTINGA A,A,7
+S20,Graduate,ESM     279,PLANTINGA A,A-,5
+S20,Graduate,ESM     279,PLANTINGA A,B+,2
+S20,Graduate,ESM     279,PLANTINGA A,B,2
+S20,Graduate,ESM     282,GEYER R,A+,4
+S20,Graduate,ESM     282,GEYER R,A,3
+S20,Graduate,ESM     296,GAINES S,S,13
+S20,Graduate,ESM     401A,BUNTAINE M T,A,5
+S20,Graduate,ESM     401A,GEYER R,A,5
+S20,Graduate,ESM     401A,JACK B K,A,5
+S20,Graduate,ESM     401A,KELLER A A,A,5
+S20,Graduate,ESM     401A,KENDALL B E,A,4
+S20,Graduate,ESM     401A,KENDALL B E,B+,1
+S20,Graduate,ESM     401A,LARSEN A E,A,5
+S20,Graduate,ESM     401A,LENIHAN H S,A+,5
+S20,Graduate,ESM     401A,PLANTINGA A,A+,5
+S20,Graduate,ESM     401A,STEVENSON-MIC,A,5
+S20,Graduate,ESM     401A,SUH S,A+,5
+S20,Graduate,ESM     401A,TAGUE C,A,5
+S20,Graduate,ESM     401D,ANDERSON S,A,4
+S20,Graduate,ESM     401D,ANDERSON S,B+,1
+S20,Graduate,ESM     401D,COSTELLO C J,A,4
+S20,Graduate,ESM     401D,COSTELLO C J,A-,1
+S20,Graduate,ESM     401D,DAVIS F W,A+,3
+S20,Graduate,ESM     401D,DAVIS F W,A,1
+S20,Graduate,ESM     401D,DAVIS F W,B+,1
+S20,Graduate,ESM     401D,GEYER R,A,5
+S20,Graduate,ESM     401D,JACK B K,A,5
+S20,Graduate,ESM     401D,KELLER A A,A+,1
+S20,Graduate,ESM     401D,KELLER A A,A,3
+S20,Graduate,ESM     401D,LENIHAN H S,A+,5
+S20,Graduate,ESM     401D,PLANTINGA A,A+,5
+S20,Graduate,ESM     402A,COTTER E E,A+,3
+S20,Graduate,ESM     402A,COTTER E E,A,5
+S20,Graduate,ESM     438,HORST A M,A,23
+S20,Graduate,ESM     440,LEOMBRUNI L V,A+,8
+S20,Graduate,ESM     440,LEOMBRUNI L V,A,19
+S20,Graduate,ESM     440,LEOMBRUNI L V,A-,1
+S20,Graduate,ESM     449,LEOMBRUNI L V,A,22
+S20,Graduate,ESM     510,HEILMAYR R F,S,9
+S20,Graduate,ESM     595GP,AIRAME S,A,2
+S20,Graduate,ESM     595GP,AIRAME S,F,1
+S20,Graduate,ESM     595GP,AIRAME S,S,4
+S20,Graduate,ESM     595PH,HOLDEN P A,A,5
+S20,Graduate,ESM     596,GAINES S,A,9
+S20,Graduate,ESM     596,GAINES S,U,1

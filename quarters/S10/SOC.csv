@@ -1,0 +1,219 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,SOC       1,GORDON A F,A+,4
+S10,Undergraduate,SOC       1,GORDON A F,A,139
+S10,Undergraduate,SOC       1,GORDON A F,A-,50
+S10,Undergraduate,SOC       1,GORDON A F,B+,43
+S10,Undergraduate,SOC       1,GORDON A F,B,53
+S10,Undergraduate,SOC       1,GORDON A F,B-,12
+S10,Undergraduate,SOC       1,GORDON A F,C+,15
+S10,Undergraduate,SOC       1,GORDON A F,C,10
+S10,Undergraduate,SOC       1,GORDON A F,C-,3
+S10,Undergraduate,SOC       1,GORDON A F,D,3
+S10,Undergraduate,SOC       1,GORDON A F,F,6
+S10,Undergraduate,SOC       1H,GORDON A F,A+,2
+S10,Undergraduate,SOC       1H,GORDON A F,A,10
+S10,Undergraduate,SOC       1H,GORDON A F,A-,3
+S10,Undergraduate,SOC     108C,HOPKINS J J,A+,1
+S10,Undergraduate,SOC     108C,HOPKINS J J,A,7
+S10,Undergraduate,SOC     108C,HOPKINS J J,A-,11
+S10,Undergraduate,SOC     108C,HOPKINS J J,B+,13
+S10,Undergraduate,SOC     108C,HOPKINS J J,B,12
+S10,Undergraduate,SOC     108C,HOPKINS J J,B-,8
+S10,Undergraduate,SOC     108C,HOPKINS J J,C+,3
+S10,Undergraduate,SOC     108C,HOPKINS J J,C,1
+S10,Undergraduate,SOC     108C,HOPKINS J J,F,2
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,A+,3
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,A,22
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,A-,22
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,B+,4
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,B,3
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,B-,1
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,C,2
+S10,Undergraduate,SOC     108F,MAGHBOULEH N,F,2
+S10,Undergraduate,SOC     108ST,WHITTLE M D,A+,3
+S10,Undergraduate,SOC     108ST,WHITTLE M D,A,10
+S10,Undergraduate,SOC     108ST,WHITTLE M D,A-,9
+S10,Undergraduate,SOC     108ST,WHITTLE M D,B+,4
+S10,Undergraduate,SOC     108ST,WHITTLE M D,B,5
+S10,Undergraduate,SOC     108ST,WHITTLE M D,B-,4
+S10,Undergraduate,SOC     108ST,WHITTLE M D,C+,5
+S10,Undergraduate,SOC     108ST,WHITTLE M D,C,2
+S10,Undergraduate,SOC     108ST,WHITTLE M D,C-,3
+S10,Undergraduate,SOC     108ST,WHITTLE M D,D+,1
+S10,Undergraduate,SOC     108ST,WHITTLE M D,F,1
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,A+,1
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,A,9
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,A-,7
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,B+,17
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,B,9
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,B-,8
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,C+,3
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,C,3
+S10,Undergraduate,SOC     118GR,JUERGENSMEYER,F,3
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,A+,5
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,A,20
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,A-,16
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,B+,7
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,B,25
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,B-,11
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,C+,1
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,C,8
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,C-,2
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,D,2
+S10,Undergraduate,SOC     130ME,ANDERSON KE B,F,5
+S10,Undergraduate,SOC     134G,CLEMENCON R,A+,2
+S10,Undergraduate,SOC     134G,CLEMENCON R,A,10
+S10,Undergraduate,SOC     134G,CLEMENCON R,A-,8
+S10,Undergraduate,SOC     134G,CLEMENCON R,B+,8
+S10,Undergraduate,SOC     134G,CLEMENCON R,B,10
+S10,Undergraduate,SOC     134G,CLEMENCON R,B-,8
+S10,Undergraduate,SOC     134G,CLEMENCON R,C,7
+S10,Undergraduate,SOC     134G,CLEMENCON R,C-,3
+S10,Undergraduate,SOC     134G,CLEMENCON R,D,2
+S10,Undergraduate,SOC     134G,CLEMENCON R,F,1
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,A+,17
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,A,21
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,A-,17
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B+,14
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B,16
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B-,5
+S10,Undergraduate,SOC     134LA,LOPEZ-ALVES F,C,1
+S10,Undergraduate,SOC     134R,ANDERSON KE B,A+,2
+S10,Undergraduate,SOC     134R,ANDERSON KE B,A,18
+S10,Undergraduate,SOC     134R,ANDERSON KE B,A-,15
+S10,Undergraduate,SOC     134R,ANDERSON KE B,B+,7
+S10,Undergraduate,SOC     134R,ANDERSON KE B,B,15
+S10,Undergraduate,SOC     134R,ANDERSON KE B,B-,8
+S10,Undergraduate,SOC     134R,ANDERSON KE B,C+,2
+S10,Undergraduate,SOC     134R,ANDERSON KE B,C,5
+S10,Undergraduate,SOC     134R,ANDERSON KE B,C-,2
+S10,Undergraduate,SOC     134R,ANDERSON KE B,D+,2
+S10,Undergraduate,SOC     134R,ANDERSON KE B,D-,1
+S10,Undergraduate,SOC     134R,ANDERSON KE B,F,3
+S10,Undergraduate,SOC     136V,LERNER G,A,1
+S10,Undergraduate,SOC     136V,LERNER G,A-,7
+S10,Undergraduate,SOC     136V,LERNER G,B+,4
+S10,Undergraduate,SOC     136V,LERNER G,B,5
+S10,Undergraduate,SOC     136V,LERNER G,B-,1
+S10,Undergraduate,SOC     136V,LERNER G,C+,1
+S10,Undergraduate,SOC     136V,LERNER G,F,1
+S10,Undergraduate,SOC     144LY,RIOS V M,A+,1
+S10,Undergraduate,SOC     144LY,RIOS V M,A,50
+S10,Undergraduate,SOC     144LY,RIOS V M,A-,17
+S10,Undergraduate,SOC     144LY,RIOS V M,B+,7
+S10,Undergraduate,SOC     144LY,RIOS V M,B,3
+S10,Undergraduate,SOC     146,BIELBY D D,A,18
+S10,Undergraduate,SOC     153,HIDALGO D A,A,3
+S10,Undergraduate,SOC     153,HIDALGO D A,A-,2
+S10,Undergraduate,SOC     153,HIDALGO D A,B+,7
+S10,Undergraduate,SOC     153,HIDALGO D A,B,25
+S10,Undergraduate,SOC     153,HIDALGO D A,B-,29
+S10,Undergraduate,SOC     153,HIDALGO D A,C+,8
+S10,Undergraduate,SOC     153,HIDALGO D A,C,7
+S10,Undergraduate,SOC     153,HIDALGO D A,C-,1
+S10,Undergraduate,SOC     153,HIDALGO D A,F,2
+S10,Undergraduate,SOC     155A,NEELY B E,A,14
+S10,Undergraduate,SOC     155A,NEELY B E,A-,19
+S10,Undergraduate,SOC     155A,NEELY B E,B+,12
+S10,Undergraduate,SOC     155A,NEELY B E,B,6
+S10,Undergraduate,SOC     155A,NEELY B E,B-,2
+S10,Undergraduate,SOC     155A,NEELY B E,C+,4
+S10,Undergraduate,SOC     155A,NEELY B E,C-,1
+S10,Undergraduate,SOC     155A,NEELY B E,F,1
+S10,Undergraduate,SOC     155T,TWINE F W,A,2
+S10,Undergraduate,SOC     155T,TWINE F W,A-,10
+S10,Undergraduate,SOC     155T,TWINE F W,B+,21
+S10,Undergraduate,SOC     155T,TWINE F W,B,13
+S10,Undergraduate,SOC     155T,TWINE F W,B-,7
+S10,Undergraduate,SOC     155T,TWINE F W,C+,2
+S10,Undergraduate,SOC     155T,TWINE F W,C,4
+S10,Undergraduate,SOC     159S,GIL O F,A+,19
+S10,Undergraduate,SOC     159S,GIL O F,A,20
+S10,Undergraduate,SOC     159S,GIL O F,A-,14
+S10,Undergraduate,SOC     159S,GIL O F,B+,7
+S10,Undergraduate,SOC     159S,GIL O F,B,5
+S10,Undergraduate,SOC     159S,GIL O F,B-,2
+S10,Undergraduate,SOC     159S,GIL O F,F,1
+S10,Undergraduate,SOC     170J,RIOS V M,A,23
+S10,Undergraduate,SOC     170J,RIOS V M,A-,22
+S10,Undergraduate,SOC     170J,RIOS V M,B+,14
+S10,Undergraduate,SOC     170J,RIOS V M,B,9
+S10,Undergraduate,SOC     170J,RIOS V M,F,1
+S10,Undergraduate,SOC     173,EARL J,A+,5
+S10,Undergraduate,SOC     173,EARL J,A,8
+S10,Undergraduate,SOC     173,EARL J,A-,21
+S10,Undergraduate,SOC     173,EARL J,B+,15
+S10,Undergraduate,SOC     173,EARL J,B,9
+S10,Undergraduate,SOC     173,EARL J,B-,4
+S10,Undergraduate,SOC     173,EARL J,C+,3
+S10,Undergraduate,SOC     173,EARL J,C,2
+S10,Undergraduate,SOC     173,EARL J,C-,4
+S10,Undergraduate,SOC     173,EARL J,D,3
+S10,Undergraduate,SOC     173,EARL J,D-,1
+S10,Undergraduate,SOC     173,EARL J,F,6
+S10,Undergraduate,SOC     176D,BALDWIN J D,A+,1
+S10,Undergraduate,SOC     176D,BALDWIN J D,A,12
+S10,Undergraduate,SOC     176D,BALDWIN J D,A-,2
+S10,Undergraduate,SOC     176D,BALDWIN J D,B+,6
+S10,Undergraduate,SOC     176D,BALDWIN J D,B,10
+S10,Undergraduate,SOC     176D,BALDWIN J D,B-,3
+S10,Undergraduate,SOC     176D,BALDWIN J D,C+,4
+S10,Undergraduate,SOC     176D,BALDWIN J D,C,3
+S10,Undergraduate,SOC     176D,BALDWIN J D,D,2
+S10,Undergraduate,SOC     176D,BALDWIN J D,F,2
+S10,Undergraduate,SOC     185A,CRUZ J D,A,9
+S10,Undergraduate,SOC     185A,CRUZ J D,A-,10
+S10,Undergraduate,SOC     185A,CRUZ J D,B+,4
+S10,Undergraduate,SOC     185A,CRUZ J D,B,12
+S10,Undergraduate,SOC     185A,CRUZ J D,B-,5
+S10,Undergraduate,SOC     185A,CRUZ J D,C+,4
+S10,Undergraduate,SOC     185A,CRUZ J D,C,6
+S10,Undergraduate,SOC     185A,CRUZ J D,C-,1
+S10,Undergraduate,SOC     185A,CRUZ J D,F,3
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A+,2
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A-,10
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B+,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B,9
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B-,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C+,6
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C,8
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C-,7
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,F,3
+S10,Undergraduate,SOC     185G,HIDALGO D A,A+,1
+S10,Undergraduate,SOC     185G,HIDALGO D A,A,8
+S10,Undergraduate,SOC     185G,HIDALGO D A,A-,5
+S10,Undergraduate,SOC     185G,HIDALGO D A,B+,9
+S10,Undergraduate,SOC     185G,HIDALGO D A,B,12
+S10,Undergraduate,SOC     185G,HIDALGO D A,B-,9
+S10,Undergraduate,SOC     185G,HIDALGO D A,C+,7
+S10,Undergraduate,SOC     185G,HIDALGO D A,C,4
+S10,Undergraduate,SOC     185G,HIDALGO D A,C-,2
+S10,Undergraduate,SOC     185G,HIDALGO D A,D,1
+S10,Undergraduate,SOC     185G,HIDALGO D A,F,3
+S10,Undergraduate,SOC     185S,GIL O F,A+,6
+S10,Undergraduate,SOC     185S,GIL O F,A,11
+S10,Undergraduate,SOC     185S,GIL O F,A-,7
+S10,Undergraduate,SOC     185S,GIL O F,B+,12
+S10,Undergraduate,SOC     185S,GIL O F,B,13
+S10,Undergraduate,SOC     185S,GIL O F,C+,1
+S10,Undergraduate,SOC     190A,RIOS V M,P,7
+S10,Undergraduate,SOC     199,BALDWIN J D,A+,6
+S10,Graduate,SOC     207B,CRUZ J D,A,5
+S10,Graduate,SOC     207B,CRUZ J D,A-,1
+S10,Graduate,SOC     212B,LOPEZ-ALVES F,A,5
+S10,Graduate,SOC     212B,LOPEZ-ALVES F,A-,1
+S10,Graduate,SOC     212B,LOPEZ-ALVES F,B+,1
+S10,Graduate,SOC     214B,TWINE F W,A+,3
+S10,Graduate,SOC     214B,TWINE F W,A,6
+S10,Graduate,SOC     224,TAYLOR V,A,10
+S10,Graduate,SOC     224,TAYLOR V,A-,1
+S10,Graduate,SOC     233,GORDON A F,A+,2
+S10,Graduate,SOC     233,GORDON A F,A,11
+S10,Graduate,SOC     233,GORDON A F,A-,3
+S10,Graduate,SOC     294,MOHR J,A+,2
+S10,Graduate,SOC     294,MOHR J,A,6
+S10,Graduate,SOC     294,SEGURA D A,A,5
+S10,Graduate,SOC     501,GORDON A F,S,5
+S10,Graduate,SOC     591,HARTHORN B H,S,6
+S10,Graduate,SOC     599,SEGURA D A,S,5

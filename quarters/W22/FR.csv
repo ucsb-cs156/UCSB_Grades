@@ -1,0 +1,220 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W22,Graduate,CH E    291,FREDRICKSON G,S,6
+W22,Undergraduate,CMPSC   190DE,FRANKS A,A,8
+W22,Undergraduate,CMPSC   190DE,FRANKS A,A-,2
+W22,Undergraduate,CMPSC   190DE,FRANKS A,B+,4
+W22,Undergraduate,EACS    136,FRUHSTUCK S,A,5
+W22,Undergraduate,EACS    136,FRUHSTUCK S,A-,2
+W22,Undergraduate,EACS    136,FRUHSTUCK S,A+,5
+W22,Undergraduate,EACS    136,FRUHSTUCK S,B,7
+W22,Undergraduate,EACS    136,FRUHSTUCK S,B-,2
+W22,Undergraduate,EACS    136,FRUHSTUCK S,B+,3
+W22,Undergraduate,EACS    136,FRUHSTUCK S,C,2
+W22,Undergraduate,EACS    136,FRUHSTUCK S,C-,1
+W22,Undergraduate,EACS    136,FRUHSTUCK S,C+,4
+W22,Undergraduate,EACS    136,FRUHSTUCK S,F,1
+W22,Undergraduate,ECON    116A,FRECH H E,A,1
+W22,Undergraduate,ECON    116A,FRECH H E,A-,7
+W22,Undergraduate,ECON    116A,FRECH H E,A+,2
+W22,Undergraduate,ECON    116A,FRECH H E,B,7
+W22,Undergraduate,ECON    116A,FRECH H E,B-,5
+W22,Undergraduate,ECON    116A,FRECH H E,B+,5
+W22,Undergraduate,ECON    116A,FRECH H E,C,3
+W22,Undergraduate,ECON    116A,FRECH H E,C+,4
+W22,Graduate,ECON    230I,FRECH H E,A,1
+W22,Graduate,ECON    230I,FRECH H E,A+,4
+W22,Graduate,ECON    290,FRECH H E,S,10
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,A,10
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,A-,12
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,A+,23
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,B,2
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,B+,4
+W22,Undergraduate,EEMB    130C,FROEHLICH H E,C+,2
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,A,21
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,A-,11
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,A+,24
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,B,1
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,B+,4
+W22,Undergraduate,ENV S   130C,FROEHLICH H E,C+,1
+W22,Graduate,ESM     263,FREW J E,A,45
+W22,Graduate,ESM     263,FREW J E,C,1
+W22,Graduate,ESM     401C,FREW J E,A,5
+W22,Undergraduate,FR        1,KAPLAN S C,A,10
+W22,Undergraduate,FR        1,KAPLAN S C,A-,9
+W22,Undergraduate,FR        1,KAPLAN S C,A+,2
+W22,Undergraduate,FR        1,KAPLAN S C,B,5
+W22,Undergraduate,FR        1,KAPLAN S C,B+,7
+W22,Undergraduate,FR        1,KAPLAN S C,F,2
+W22,Undergraduate,FR        1,MARTINS SILVA,A,9
+W22,Undergraduate,FR        1,MARTINS SILVA,A-,3
+W22,Undergraduate,FR        1,MARTINS SILVA,A+,3
+W22,Undergraduate,FR        1,MARTINS SILVA,B,2
+W22,Undergraduate,FR        1,MARTINS SILVA,B-,1
+W22,Undergraduate,FR        1,MARTINS SILVA,B+,3
+W22,Undergraduate,FR        1,MARTINS SILVA,C-,1
+W22,Undergraduate,FR        1,MARTINS SILVA,F,2
+W22,Undergraduate,FR        2,KAPLAN S C,A,6
+W22,Undergraduate,FR        2,KAPLAN S C,A-,9
+W22,Undergraduate,FR        2,KAPLAN S C,B-,1
+W22,Undergraduate,FR        2,KAPLAN S C,B+,2
+W22,Undergraduate,FR        2,KAPLAN S C,C+,1
+W22,Undergraduate,FR        2,KAPLAN S C,F,1
+W22,Undergraduate,FR        2,MARTINS SILVA,A,11
+W22,Undergraduate,FR        2,MARTINS SILVA,A-,12
+W22,Undergraduate,FR        2,MARTINS SILVA,A+,5
+W22,Undergraduate,FR        2,MARTINS SILVA,B,3
+W22,Undergraduate,FR        2,MARTINS SILVA,B-,5
+W22,Undergraduate,FR        2,MARTINS SILVA,B+,3
+W22,Undergraduate,FR        2,MARTINS SILVA,C+,2
+W22,Undergraduate,FR        2,PHILLIPS M E,A,11
+W22,Undergraduate,FR        2,PHILLIPS M E,A-,3
+W22,Undergraduate,FR        2,PHILLIPS M E,A+,2
+W22,Undergraduate,FR        2,PHILLIPS M E,B,2
+W22,Undergraduate,FR        2,PHILLIPS M E,B-,2
+W22,Undergraduate,FR        2,PHILLIPS M E,B+,3
+W22,Undergraduate,FR        2,PHILLIPS M E,C+,1
+W22,Undergraduate,FR        3,PHILLIPS M E,A,5
+W22,Undergraduate,FR        3,PHILLIPS M E,A-,5
+W22,Undergraduate,FR        3,PHILLIPS M E,A+,1
+W22,Undergraduate,FR        3,PHILLIPS M E,B,1
+W22,Undergraduate,FR        3,PHILLIPS M E,B-,5
+W22,Undergraduate,FR        3,PHILLIPS M E,B+,2
+W22,Undergraduate,FR        3,PHILLIPS M E,C+,1
+W22,Undergraduate,FR        3,PHILLIPS M E,D+,1
+W22,Undergraduate,FR        4,PHILLIPS M E,A,4
+W22,Undergraduate,FR        4,PHILLIPS M E,A-,5
+W22,Undergraduate,FR        4,PHILLIPS M E,B,4
+W22,Undergraduate,FR        4,PHILLIPS M E,B+,2
+W22,Undergraduate,FR        4,PHILLIPS M E,F,1
+W22,Undergraduate,FR        5,LABATUT M A,A,6
+W22,Undergraduate,FR        5,LABATUT M A,A-,1
+W22,Undergraduate,FR        5,LABATUT M A,B,4
+W22,Undergraduate,FR        5,LABATUT M A,B-,6
+W22,Undergraduate,FR        5,LABATUT M A,B+,7
+W22,Undergraduate,FR        5,LABATUT M A,C+,2
+W22,Undergraduate,FR        5,LABATUT M A,D+,1
+W22,Undergraduate,FR        6,LMAIFI M,A,12
+W22,Undergraduate,FR        6,LMAIFI M,A-,3
+W22,Undergraduate,FR        6,LMAIFI M,A+,1
+W22,Undergraduate,FR        6,LMAIFI M,B,5
+W22,Undergraduate,FR        6,LMAIFI M,B+,2
+W22,Undergraduate,FR        6,LMAIFI M,F,2
+W22,Undergraduate,FR       11A,PHILLIPS M E,A,10
+W22,Undergraduate,FR       11A,PHILLIPS M E,A+,3
+W22,Undergraduate,FR       50BX,NESCI C,A,17
+W22,Undergraduate,FR       50BX,NESCI C,A-,8
+W22,Undergraduate,FR       50BX,NESCI C,A+,3
+W22,Undergraduate,FR       50BX,NESCI C,B,9
+W22,Undergraduate,FR       50BX,NESCI C,B+,3
+W22,Undergraduate,FR       50BX,NESCI C,C,2
+W22,Undergraduate,FR       50BX,NESCI C,C+,2
+W22,Undergraduate,FR       50BX,NESCI C,D+,1
+W22,Undergraduate,FR       50BX,NESCI C,F,1
+W22,Undergraduate,FR      100,LABATUT M A,A,2
+W22,Undergraduate,FR      100,LABATUT M A,A-,2
+W22,Undergraduate,FR      100,LABATUT M A,B,3
+W22,Undergraduate,FR      100,LABATUT M A,B+,1
+W22,Undergraduate,FR      100,LABATUT M A,C+,3
+W22,Undergraduate,FR      100,LABATUT M A,F,1
+W22,Undergraduate,FR      101B,LARUE R J,A,12
+W22,Undergraduate,FR      101B,LARUE R J,A-,6
+W22,Undergraduate,FR      101B,LARUE R J,A+,2
+W22,Undergraduate,FR      101B,LARUE R J,B,2
+W22,Undergraduate,FR      101B,LARUE R J,B+,1
+W22,Undergraduate,FR      101B,LARUE R J,C,1
+W22,Undergraduate,FR      101B,LARUE R J,D,1
+W22,Undergraduate,FR      101B,LARUE R J,D+,1
+W22,Undergraduate,FR      101B,LARUE R J,F,1
+W22,Undergraduate,FR      104B,PRIETO E,A,4
+W22,Undergraduate,FR      104B,PRIETO E,A+,1
+W22,Undergraduate,FR      104B,PRIETO E,B,4
+W22,Undergraduate,FR      104B,PRIETO E,B+,3
+W22,Undergraduate,FR      104B,PRIETO E,C+,2
+W22,Undergraduate,FR      104E,PHILLIPS M E,A,9
+W22,Undergraduate,FR      104E,PHILLIPS M E,A+,3
+W22,Undergraduate,FR      104E,PHILLIPS M E,B+,1
+W22,Undergraduate,FR      104E,PHILLIPS M E,C,2
+W22,Undergraduate,FR      147C,SKENAZI E C,A,4
+W22,Undergraduate,FR      147C,SKENAZI E C,B-,1
+W22,Undergraduate,FR      147C,SKENAZI E C,F,1
+W22,Undergraduate,FR      151R,SCHULTZ J M,A,4
+W22,Undergraduate,FR      151R,SCHULTZ J M,A-,3
+W22,Undergraduate,FR      151R,SCHULTZ J M,B-,1
+W22,Undergraduate,FR      151R,SCHULTZ J M,B+,2
+W22,Undergraduate,FR      151R,SCHULTZ J M,D+,1
+W22,Undergraduate,FR      154E,MOAK D,A,7
+W22,Undergraduate,FR      154E,MOAK D,A-,9
+W22,Undergraduate,FR      154E,MOAK D,B,4
+W22,Undergraduate,FR      154E,MOAK D,B-,2
+W22,Undergraduate,FR      154E,MOAK D,B+,8
+W22,Undergraduate,FR      154E,MOAK D,C+,1
+W22,Undergraduate,FR      154E,MOAK D,F,1
+W22,Graduate,FR      500,PHILLIPS M E,S,5
+W22,Undergraduate,PHYS      6A,FREUND E G,A,46
+W22,Undergraduate,PHYS      6A,FREUND E G,A-,27
+W22,Undergraduate,PHYS      6A,FREUND E G,A+,7
+W22,Undergraduate,PHYS      6A,FREUND E G,B,23
+W22,Undergraduate,PHYS      6A,FREUND E G,B-,21
+W22,Undergraduate,PHYS      6A,FREUND E G,B+,34
+W22,Undergraduate,PHYS      6A,FREUND E G,C,20
+W22,Undergraduate,PHYS      6A,FREUND E G,C-,19
+W22,Undergraduate,PHYS      6A,FREUND E G,C+,22
+W22,Undergraduate,PHYS      6A,FREUND E G,D,9
+W22,Undergraduate,PHYS      6A,FREUND E G,D-,4
+W22,Undergraduate,PHYS      6A,FREUND E G,D+,7
+W22,Undergraduate,PHYS      6A,FREUND E G,F,14
+W22,Undergraduate,PHYS      6B,FREUND E G,A,55
+W22,Undergraduate,PHYS      6B,FREUND E G,A-,26
+W22,Undergraduate,PHYS      6B,FREUND E G,A+,13
+W22,Undergraduate,PHYS      6B,FREUND E G,B,24
+W22,Undergraduate,PHYS      6B,FREUND E G,B-,26
+W22,Undergraduate,PHYS      6B,FREUND E G,B+,37
+W22,Undergraduate,PHYS      6B,FREUND E G,C,19
+W22,Undergraduate,PHYS      6B,FREUND E G,C-,13
+W22,Undergraduate,PHYS      6B,FREUND E G,C+,28
+W22,Undergraduate,PHYS      6B,FREUND E G,D,4
+W22,Undergraduate,PHYS      6B,FREUND E G,D-,7
+W22,Undergraduate,PHYS      6B,FREUND E G,D+,11
+W22,Undergraduate,PHYS      6B,FREUND E G,F,4
+W22,Undergraduate,POL S   106EA,FREEMAN L A,A,24
+W22,Undergraduate,POL S   106EA,FREEMAN L A,A-,16
+W22,Undergraduate,POL S   106EA,FREEMAN L A,B,3
+W22,Undergraduate,POL S   106EA,FREEMAN L A,B-,5
+W22,Undergraduate,POL S   106EA,FREEMAN L A,B+,4
+W22,Undergraduate,POL S   106EA,FREEMAN L A,C,2
+W22,Undergraduate,POL S   106EA,FREEMAN L A,C-,1
+W22,Undergraduate,POL S   106EA,FREEMAN L A,C+,2
+W22,Undergraduate,POL S   106EA,FREEMAN L A,F,1
+W22,Undergraduate,POL S   173,FREEMAN L A,A,12
+W22,Undergraduate,POL S   173,FREEMAN L A,A-,19
+W22,Undergraduate,POL S   173,FREEMAN L A,A+,1
+W22,Undergraduate,POL S   173,FREEMAN L A,B,10
+W22,Undergraduate,POL S   173,FREEMAN L A,B-,1
+W22,Undergraduate,POL S   173,FREEMAN L A,B+,16
+W22,Undergraduate,POL S   173,FREEMAN L A,C,1
+W22,Undergraduate,POL S   173,FREEMAN L A,D,1
+W22,Undergraduate,POL S   173,FREEMAN L A,D+,1
+W22,Undergraduate,PSTAT   115,FRANKS A,A,26
+W22,Undergraduate,PSTAT   115,FRANKS A,A-,7
+W22,Undergraduate,PSTAT   115,FRANKS A,A+,4
+W22,Undergraduate,PSTAT   115,FRANKS A,B,5
+W22,Undergraduate,PSTAT   115,FRANKS A,B-,6
+W22,Undergraduate,PSTAT   115,FRANKS A,B+,13
+W22,Undergraduate,PSTAT   115,FRANKS A,C,4
+W22,Undergraduate,PSTAT   115,FRANKS A,C-,6
+W22,Undergraduate,PSTAT   115,FRANKS A,C+,5
+W22,Undergraduate,PSTAT   115,FRANKS A,D,2
+W22,Undergraduate,PSTAT   115,FRANKS A,F,3
+W22,Undergraduate,PSTAT   197B,FRANKS A,A,31
+W22,Undergraduate,PSTAT   197B,FRANKS A,A-,12
+W22,Undergraduate,PSTAT   197B,FRANKS A,B+,3
+W22,Undergraduate,WRIT    105CD,FRANK D M,A,12
+W22,Undergraduate,WRIT    105CD,FRANK D M,A-,1
+W22,Undergraduate,WRIT    105CD,FRANK D M,B,2
+W22,Undergraduate,WRIT    105CD,FRANK D M,B+,3
+W22,Undergraduate,WRIT    105CD,FRANK D M,F,1
+W22,Undergraduate,WRIT    107T,FRANK D M,A,15
+W22,Undergraduate,WRIT    107T,FRANK D M,A-,2
+W22,Undergraduate,WRIT    107T,FRANK D M,A+,2
+W22,Undergraduate,WRIT    107T,FRANK D M,B-,1
+W22,Undergraduate,WRIT    107T,FRANK D M,B+,3

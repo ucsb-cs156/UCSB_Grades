@@ -1,0 +1,130 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,EARTH     2,BUSBY C,A+,22
+S12,Undergraduate,EARTH     2,BUSBY C,A,18
+S12,Undergraduate,EARTH     2,BUSBY C,A-,11
+S12,Undergraduate,EARTH     2,BUSBY C,B+,6
+S12,Undergraduate,EARTH     2,BUSBY C,B,23
+S12,Undergraduate,EARTH     2,BUSBY C,B-,12
+S12,Undergraduate,EARTH     2,BUSBY C,C+,4
+S12,Undergraduate,EARTH     2,BUSBY C,C,29
+S12,Undergraduate,EARTH     2,BUSBY C,D,5
+S12,Undergraduate,EARTH     2,BUSBY C,F,11
+S12,Undergraduate,EARTH     3,AWRAMIK S M,A+,1
+S12,Undergraduate,EARTH     3,AWRAMIK S M,A,4
+S12,Undergraduate,EARTH     3,AWRAMIK S M,A-,3
+S12,Undergraduate,EARTH     3,AWRAMIK S M,B+,3
+S12,Undergraduate,EARTH     3,AWRAMIK S M,B,6
+S12,Undergraduate,EARTH     3,AWRAMIK S M,B-,2
+S12,Undergraduate,EARTH     3,AWRAMIK S M,C+,4
+S12,Undergraduate,EARTH     3,AWRAMIK S M,C,8
+S12,Undergraduate,EARTH     3,AWRAMIK S M,C-,1
+S12,Undergraduate,EARTH     3,AWRAMIK S M,D,3
+S12,Undergraduate,EARTH     3,AWRAMIK S M,F,4
+S12,Undergraduate,EARTH     3H,AWRAMIK S M,A,5
+S12,Undergraduate,EARTH     4,VALENTINE D L,A+,4
+S12,Undergraduate,EARTH     4,VALENTINE D L,A,24
+S12,Undergraduate,EARTH     4,VALENTINE D L,A-,19
+S12,Undergraduate,EARTH     4,VALENTINE D L,B+,15
+S12,Undergraduate,EARTH     4,VALENTINE D L,B,24
+S12,Undergraduate,EARTH     4,VALENTINE D L,B-,27
+S12,Undergraduate,EARTH     4,VALENTINE D L,C+,18
+S12,Undergraduate,EARTH     4,VALENTINE D L,C,23
+S12,Undergraduate,EARTH     4,VALENTINE D L,C-,7
+S12,Undergraduate,EARTH     4,VALENTINE D L,F,15
+S12,Undergraduate,EARTH     4H,VALENTINE D L,A,5
+S12,Undergraduate,EARTH    18,HACKER B R,P,33
+S12,Undergraduate,EARTH    20,THOMAS S F,A+,6
+S12,Undergraduate,EARTH    20,THOMAS S F,A,42
+S12,Undergraduate,EARTH    20,THOMAS S F,A-,21
+S12,Undergraduate,EARTH    20,THOMAS S F,B+,28
+S12,Undergraduate,EARTH    20,THOMAS S F,B,49
+S12,Undergraduate,EARTH    20,THOMAS S F,B-,34
+S12,Undergraduate,EARTH    20,THOMAS S F,C+,36
+S12,Undergraduate,EARTH    20,THOMAS S F,C,27
+S12,Undergraduate,EARTH    20,THOMAS S F,C-,11
+S12,Undergraduate,EARTH    20,THOMAS S F,D,17
+S12,Undergraduate,EARTH    20,THOMAS S F,F,8
+S12,Undergraduate,EARTH   104B,HACKER B R,A,2
+S12,Undergraduate,EARTH   104B,HACKER B R,A-,5
+S12,Undergraduate,EARTH   104B,HACKER B R,B+,3
+S12,Undergraduate,EARTH   104B,HACKER B R,B,2
+S12,Undergraduate,EARTH   104B,HACKER B R,C+,1
+S12,Undergraduate,EARTH   104B,HACKER B R,C-,1
+S12,Undergraduate,EARTH   115,COTTLE J,A,2
+S12,Undergraduate,EARTH   115,COTTLE J,A-,4
+S12,Undergraduate,EARTH   115,COTTLE J,B+,1
+S12,Undergraduate,EARTH   115,COTTLE J,B,1
+S12,Undergraduate,EARTH   115,COTTLE J,B-,2
+S12,Undergraduate,EARTH   115,COTTLE J,C,2
+S12,Undergraduate,EARTH   122,SIMMS A R,A,3
+S12,Undergraduate,EARTH   122,SIMMS A R,A-,8
+S12,Undergraduate,EARTH   122,SIMMS A R,B+,4
+S12,Undergraduate,EARTH   122,SIMMS A R,B,1
+S12,Undergraduate,EARTH   122,SIMMS A R,C+,1
+S12,Undergraduate,EARTH   122,SIMMS A R,C,3
+S12,Undergraduate,EARTH   122,SIMMS A R,C-,3
+S12,Undergraduate,EARTH   122L,SIMMS A R,A,4
+S12,Undergraduate,EARTH   122L,SIMMS A R,A-,8
+S12,Undergraduate,EARTH   122L,SIMMS A R,B+,4
+S12,Undergraduate,EARTH   122L,SIMMS A R,B,1
+S12,Undergraduate,EARTH   122L,SIMMS A R,C+,1
+S12,Undergraduate,EARTH   122L,SIMMS A R,C,3
+S12,Undergraduate,EARTH   122L,SIMMS A R,C-,3
+S12,Undergraduate,EARTH   130,LEA D W,A+,1
+S12,Undergraduate,EARTH   130,LEA D W,A,7
+S12,Undergraduate,EARTH   130,LEA D W,A-,10
+S12,Undergraduate,EARTH   130,LEA D W,B+,10
+S12,Undergraduate,EARTH   130,LEA D W,B,18
+S12,Undergraduate,EARTH   130,LEA D W,B-,7
+S12,Undergraduate,EARTH   130,LEA D W,C+,5
+S12,Undergraduate,EARTH   130,LEA D W,C,10
+S12,Undergraduate,EARTH   130,LEA D W,C-,1
+S12,Undergraduate,EARTH   130,LEA D W,D,2
+S12,Undergraduate,EARTH   130,LEA D W,F,4
+S12,Undergraduate,EARTH   135,TANIMOTO T,A+,1
+S12,Undergraduate,EARTH   135,TANIMOTO T,A,2
+S12,Undergraduate,EARTH   135,TANIMOTO T,A-,4
+S12,Undergraduate,EARTH   135,TANIMOTO T,B,2
+S12,Undergraduate,EARTH   135,TANIMOTO T,B-,1
+S12,Undergraduate,EARTH   149,WYSS A R,A,2
+S12,Undergraduate,EARTH   149,WYSS A R,A-,2
+S12,Undergraduate,EARTH   149,WYSS A R,B+,3
+S12,Undergraduate,EARTH   149,WYSS A R,B,3
+S12,Undergraduate,EARTH   149,WYSS A R,B-,2
+S12,Undergraduate,EARTH   149,WYSS A R,C+,2
+S12,Undergraduate,EARTH   149,WYSS A R,C,3
+S12,Undergraduate,EARTH   149,WYSS A R,C-,1
+S12,Undergraduate,EARTH   149,WYSS A R,D,3
+S12,Undergraduate,EARTH   149,WYSS A R,F,3
+S12,Undergraduate,EARTH   160,SPERA F J,P,28
+S12,Undergraduate,EARTH   160,SPERA F J,NP,2
+S12,Undergraduate,EARTH   168,CLARK J,A,4
+S12,Undergraduate,EARTH   168,CLARK J,A-,5
+S12,Undergraduate,EARTH   168,CLARK J,B+,5
+S12,Undergraduate,EARTH   168,CLARK J,B,2
+S12,Undergraduate,EARTH   168,CLARK J,B-,1
+S12,Undergraduate,EARTH   168,CLARK J,C-,1
+S12,Undergraduate,EARTH   168,CLARK J,F,1
+S12,Undergraduate,EARTH   176,FISHER G B,A,5
+S12,Undergraduate,EARTH   176,FISHER G B,A-,2
+S12,Undergraduate,EARTH   176,FISHER G B,B+,3
+S12,Undergraduate,EARTH   176,FISHER G B,B-,2
+S12,Undergraduate,EARTH   176,FISHER G B,C+,1
+S12,Undergraduate,EARTH   176,FISHER G B,C-,1
+S12,Undergraduate,EARTH   176,FISHER G B,F,1
+S12,Graduate,EARTH   201C,LISIECKI L E,A+,1
+S12,Graduate,EARTH   201C,LISIECKI L E,A,1
+S12,Graduate,EARTH   201C,LISIECKI L E,A-,1
+S12,Graduate,EARTH   201C,LISIECKI L E,B+,1
+S12,Graduate,EARTH   201C,LISIECKI L E,S,1
+S12,Graduate,EARTH   259,BURBANK D W,A,3
+S12,Graduate,EARTH   259,BURBANK D W,A-,3
+S12,Graduate,EARTH   260,SPERA F J,S,31
+S12,Graduate,EARTH   268,SPERA F J,S,9
+S12,Graduate,EARTH   270,PORTER S M,S,7
+S12,Graduate,EARTH   276,WELDEAB S,A,1
+S12,Graduate,EARTH   276,WELDEAB S,A-,2
+S12,Graduate,EARTH   276,WELDEAB S,B+,2
+S12,Graduate,EARTH   276,WELDEAB S,B-,1
+S12,Graduate,EARTH   596,SIMMS A R,A,4
+S12,Graduate,EARTH   596,SIMMS A R,S,1

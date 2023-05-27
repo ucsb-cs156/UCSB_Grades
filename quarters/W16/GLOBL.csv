@@ -1,0 +1,102 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,GLOBL     1,MCCARTY P C,A+,2
+W16,Undergraduate,GLOBL     1,MCCARTY P C,A,161
+W16,Undergraduate,GLOBL     1,MCCARTY P C,A-,33
+W16,Undergraduate,GLOBL     1,MCCARTY P C,B+,21
+W16,Undergraduate,GLOBL     1,MCCARTY P C,B,40
+W16,Undergraduate,GLOBL     1,MCCARTY P C,B-,7
+W16,Undergraduate,GLOBL     1,MCCARTY P C,C+,1
+W16,Undergraduate,GLOBL     1,MCCARTY P C,C,5
+W16,Undergraduate,GLOBL     1,MCCARTY P C,C-,1
+W16,Undergraduate,GLOBL     1,MCCARTY P C,D,1
+W16,Undergraduate,GLOBL     1,MCCARTY P C,F,1
+W16,Undergraduate,GLOBL     2,APPELBAUM R,A,37
+W16,Undergraduate,GLOBL     2,APPELBAUM R,A-,11
+W16,Undergraduate,GLOBL     2,APPELBAUM R,B+,15
+W16,Undergraduate,GLOBL     2,APPELBAUM R,B,70
+W16,Undergraduate,GLOBL     2,APPELBAUM R,B-,9
+W16,Undergraduate,GLOBL     2,APPELBAUM R,C+,12
+W16,Undergraduate,GLOBL     2,APPELBAUM R,C,19
+W16,Undergraduate,GLOBL     2,APPELBAUM R,C-,5
+W16,Undergraduate,GLOBL     2,APPELBAUM R,D+,2
+W16,Undergraduate,GLOBL     2,APPELBAUM R,D,3
+W16,Undergraduate,GLOBL     2,APPELBAUM R,D-,1
+W16,Undergraduate,GLOBL     2,APPELBAUM R,F,7
+W16,Undergraduate,GLOBL   104,THANDI S,A+,10
+W16,Undergraduate,GLOBL   104,THANDI S,A,10
+W16,Undergraduate,GLOBL   104,THANDI S,A-,39
+W16,Undergraduate,GLOBL   104,THANDI S,B+,32
+W16,Undergraduate,GLOBL   104,THANDI S,B,11
+W16,Undergraduate,GLOBL   104,THANDI S,B-,4
+W16,Undergraduate,GLOBL   104,THANDI S,C+,1
+W16,Undergraduate,GLOBL   104,THANDI S,D,2
+W16,Undergraduate,GLOBL   110,LEZRA E M,A+,3
+W16,Undergraduate,GLOBL   110,LEZRA E M,A,27
+W16,Undergraduate,GLOBL   110,LEZRA E M,A-,30
+W16,Undergraduate,GLOBL   110,LEZRA E M,B+,16
+W16,Undergraduate,GLOBL   110,LEZRA E M,B,26
+W16,Undergraduate,GLOBL   110,LEZRA E M,B-,17
+W16,Undergraduate,GLOBL   110,LEZRA E M,C+,4
+W16,Undergraduate,GLOBL   110,LEZRA E M,C,5
+W16,Undergraduate,GLOBL   110,LEZRA E M,D+,1
+W16,Undergraduate,GLOBL   110,LEZRA E M,D,2
+W16,Undergraduate,GLOBL   110,LEZRA E M,D-,1
+W16,Undergraduate,GLOBL   110,LEZRA E M,F,3
+W16,Undergraduate,GLOBL   120,BRYSK A,A+,1
+W16,Undergraduate,GLOBL   120,BRYSK A,A,24
+W16,Undergraduate,GLOBL   120,BRYSK A,A-,21
+W16,Undergraduate,GLOBL   120,BRYSK A,B+,9
+W16,Undergraduate,GLOBL   120,BRYSK A,B,49
+W16,Undergraduate,GLOBL   120,BRYSK A,B-,4
+W16,Undergraduate,GLOBL   120,BRYSK A,C+,10
+W16,Undergraduate,GLOBL   120,BRYSK A,C,14
+W16,Undergraduate,GLOBL   120,BRYSK A,C-,2
+W16,Undergraduate,GLOBL   120,BRYSK A,D+,2
+W16,Undergraduate,GLOBL   120,BRYSK A,D,2
+W16,Undergraduate,GLOBL   120,BRYSK A,F,2
+W16,Undergraduate,GLOBL   130,MCCARTY P C,A+,1
+W16,Undergraduate,GLOBL   130,MCCARTY P C,A,66
+W16,Undergraduate,GLOBL   130,MCCARTY P C,A-,33
+W16,Undergraduate,GLOBL   130,MCCARTY P C,B+,23
+W16,Undergraduate,GLOBL   130,MCCARTY P C,B,20
+W16,Undergraduate,GLOBL   130,MCCARTY P C,F,2
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,A+,5
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,A,5
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,A-,9
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,B+,6
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,B,5
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,B-,2
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,C+,1
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,C-,2
+W16,Undergraduate,GLOBL   148,CLITANDRE N T,F,1
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,A+,4
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,A,20
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,A-,39
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,B+,16
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,B,12
+W16,Undergraduate,GLOBL   161,BARANDIARAN J,B-,2
+W16,Undergraduate,GLOBL   197,CURTIN M L,A+,3
+W16,Undergraduate,GLOBL   197,CURTIN M L,A,8
+W16,Undergraduate,GLOBL   197,CURTIN M L,A-,2
+W16,Undergraduate,GLOBL   197,CURTIN M L,B+,6
+W16,Undergraduate,GLOBL   197,CURTIN M L,B,8
+W16,Undergraduate,GLOBL   197,CURTIN M L,B-,1
+W16,Undergraduate,GLOBL   197,CURTIN M L,C+,3
+W16,Undergraduate,GLOBL   197,CURTIN M L,C,4
+W16,Undergraduate,GLOBL   197,CURTIN M L,C-,2
+W16,Graduate,GLOBL   221,NEDERVEEN PIE,A,6
+W16,Graduate,GLOBL   221,NEDERVEEN PIE,A-,3
+W16,Graduate,GLOBL   221,NEDERVEEN PIE,B+,3
+W16,Graduate,GLOBL   221,NEDERVEEN PIE,C,1
+W16,Graduate,GLOBL   223,AMAR P E,A,14
+W16,Graduate,GLOBL   223,AMAR P E,B+,1
+W16,Graduate,GLOBL   229,GUNN G B,A+,3
+W16,Graduate,GLOBL   229,GUNN G B,A,3
+W16,Graduate,GLOBL   229,GUNN G B,A-,1
+W16,Graduate,GLOBL   229,GUNN G B,B+,1
+W16,Graduate,GLOBL   229,GUNN G B,F,1
+W16,Graduate,GLOBL   229,LEZRA E M,A+,3
+W16,Graduate,GLOBL   229,LEZRA E M,A,3
+W16,Graduate,GLOBL   229,LEZRA E M,A-,1
+W16,Graduate,GLOBL   229,LEZRA E M,B+,1
+W16,Graduate,GLOBL   229,LEZRA E M,F,1

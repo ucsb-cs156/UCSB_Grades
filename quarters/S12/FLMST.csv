@@ -1,0 +1,205 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,FLMST    46,BRUSUTTI A,A+,1
+S12,Undergraduate,FLMST    46,BRUSUTTI A,A,10
+S12,Undergraduate,FLMST    46,BRUSUTTI A,A-,15
+S12,Undergraduate,FLMST    46,BRUSUTTI A,B+,19
+S12,Undergraduate,FLMST    46,BRUSUTTI A,B,23
+S12,Undergraduate,FLMST    46,BRUSUTTI A,B-,17
+S12,Undergraduate,FLMST    46,BRUSUTTI A,C+,7
+S12,Undergraduate,FLMST    46,BRUSUTTI A,C,6
+S12,Undergraduate,FLMST    46,BRUSUTTI A,C-,1
+S12,Undergraduate,FLMST    46,BRUSUTTI A,D+,2
+S12,Undergraduate,FLMST    46,BRUSUTTI A,D,1
+S12,Undergraduate,FLMST    46,BRUSUTTI A,F,5
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,A+,1
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,A,2
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,A-,3
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,B+,4
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,B,1
+S12,Undergraduate,FLMST    46MS,BRUSUTTI A,F,1
+S12,Undergraduate,FLMST    54,POCHA A S,A+,35
+S12,Undergraduate,FLMST    54,POCHA A S,A,47
+S12,Undergraduate,FLMST    54,POCHA A S,A-,6
+S12,Undergraduate,FLMST    54,POCHA A S,B+,15
+S12,Undergraduate,FLMST    54,POCHA A S,B,32
+S12,Undergraduate,FLMST    54,POCHA A S,B-,5
+S12,Undergraduate,FLMST    54,POCHA A S,C+,15
+S12,Undergraduate,FLMST    54,POCHA A S,C,8
+S12,Undergraduate,FLMST    54,POCHA A S,C-,3
+S12,Undergraduate,FLMST    54,POCHA A S,D+,2
+S12,Undergraduate,FLMST    54,POCHA A S,D,1
+S12,Undergraduate,FLMST    54,POCHA A S,F,8
+S12,Undergraduate,FLMST    70,SIEGEL G D,A,2
+S12,Undergraduate,FLMST    70,SIEGEL G D,A-,5
+S12,Undergraduate,FLMST    70,SIEGEL G D,B+,4
+S12,Undergraduate,FLMST    70,SIEGEL G D,B,10
+S12,Undergraduate,FLMST    70,SIEGEL G D,B-,6
+S12,Undergraduate,FLMST    70,SIEGEL G D,C+,9
+S12,Undergraduate,FLMST    70,SIEGEL G D,C,6
+S12,Undergraduate,FLMST    70,SIEGEL G D,C-,2
+S12,Undergraduate,FLMST    70,SIEGEL G D,D+,1
+S12,Undergraduate,FLMST    70,SIEGEL G D,D,1
+S12,Undergraduate,FLMST    70,SIEGEL G D,F,2
+S12,Undergraduate,FLMST    95,VENEGAS C,P,6
+S12,Undergraduate,FLMST   101E,EVERETT A,A,12
+S12,Undergraduate,FLMST   101E,EVERETT A,A-,27
+S12,Undergraduate,FLMST   101E,EVERETT A,B+,31
+S12,Undergraduate,FLMST   101E,EVERETT A,B,31
+S12,Undergraduate,FLMST   101E,EVERETT A,B-,19
+S12,Undergraduate,FLMST   101E,EVERETT A,C+,16
+S12,Undergraduate,FLMST   101E,EVERETT A,C,7
+S12,Undergraduate,FLMST   101E,EVERETT A,C-,5
+S12,Undergraduate,FLMST   101E,EVERETT A,D+,1
+S12,Undergraduate,FLMST   101E,EVERETT A,D,1
+S12,Undergraduate,FLMST   101E,EVERETT A,F,1
+S12,Undergraduate,FLMST   104,JENKINS C L,A,12
+S12,Undergraduate,FLMST   104,JENKINS C L,A-,13
+S12,Undergraduate,FLMST   104,JENKINS C L,B+,7
+S12,Undergraduate,FLMST   104,JENKINS C L,B,12
+S12,Undergraduate,FLMST   104,JENKINS C L,B-,2
+S12,Undergraduate,FLMST   104,JENKINS C L,C+,1
+S12,Undergraduate,FLMST   104,JENKINS C L,C,1
+S12,Undergraduate,FLMST   104,JENKINS C L,D,1
+S12,Undergraduate,FLMST   107S,DRISKEL D B,A+,1
+S12,Undergraduate,FLMST   107S,DRISKEL D B,A,4
+S12,Undergraduate,FLMST   107S,DRISKEL D B,A-,2
+S12,Undergraduate,FLMST   107S,DRISKEL D B,B+,1
+S12,Undergraduate,FLMST   107S,DRISKEL D B,B,2
+S12,Undergraduate,FLMST   107S,DRISKEL D B,C,1
+S12,Undergraduate,FLMST   112,DRISKEL D B,A,2
+S12,Undergraduate,FLMST   112,DRISKEL D B,A-,1
+S12,Undergraduate,FLMST   112,DRISKEL D B,B+,1
+S12,Undergraduate,FLMST   112,DRISKEL D B,B,5
+S12,Undergraduate,FLMST   112,DRISKEL D B,B-,3
+S12,Undergraduate,FLMST   112,DRISKEL D B,C+,1
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,A+,6
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,A,4
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,A-,7
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,B+,4
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,B,1
+S12,Undergraduate,FLMST   113WJ,STEINKELLNER,D+,1
+S12,Undergraduate,FLMST   114A,KAWALEK N L,A-,6
+S12,Undergraduate,FLMST   114A,KAWALEK N L,B+,3
+S12,Undergraduate,FLMST   114A,KAWALEK N L,B,3
+S12,Undergraduate,FLMST   119ML,VENEGAS C,A+,2
+S12,Undergraduate,FLMST   119ML,VENEGAS C,A,15
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,A,3
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,A-,1
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,B+,2
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,B,3
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,B-,6
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,C+,5
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,C,6
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,C-,6
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,D+,1
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,D,2
+S12,Undergraduate,FLMST   122AZ,FELANDO C L,F,1
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,A,8
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,A-,4
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,B+,6
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,B,7
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,B-,2
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,C,4
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,D+,1
+S12,Undergraduate,FLMST   122RA,MENICUCCI G P,F,1
+S12,Undergraduate,FLMST   125B,WALKER J R,A+,2
+S12,Undergraduate,FLMST   125B,WALKER J R,A,4
+S12,Undergraduate,FLMST   125B,WALKER J R,A-,10
+S12,Undergraduate,FLMST   125B,WALKER J R,B+,5
+S12,Undergraduate,FLMST   125B,WALKER J R,B,2
+S12,Undergraduate,FLMST   125B,WALKER J R,F,1
+S12,Undergraduate,FLMST   143,BRUSUTTI A,A+,1
+S12,Undergraduate,FLMST   143,BRUSUTTI A,A,4
+S12,Undergraduate,FLMST   143,BRUSUTTI A,A-,12
+S12,Undergraduate,FLMST   143,BRUSUTTI A,B+,16
+S12,Undergraduate,FLMST   143,BRUSUTTI A,B,20
+S12,Undergraduate,FLMST   143,BRUSUTTI A,B-,11
+S12,Undergraduate,FLMST   143,BRUSUTTI A,C+,11
+S12,Undergraduate,FLMST   143,BRUSUTTI A,C,10
+S12,Undergraduate,FLMST   143,BRUSUTTI A,C-,4
+S12,Undergraduate,FLMST   143,BRUSUTTI A,D+,2
+S12,Undergraduate,FLMST   143,BRUSUTTI A,D,1
+S12,Undergraduate,FLMST   143,BRUSUTTI A,F,3
+S12,Undergraduate,FLMST   148AC,BRANIGAN E R,A+,4
+S12,Undergraduate,FLMST   148AC,BRANIGAN E R,A,9
+S12,Undergraduate,FLMST   148AC,BRANIGAN E R,A-,2
+S12,Undergraduate,FLMST   148AC,BRANIGAN E R,B+,2
+S12,Undergraduate,FLMST   148AC,BRANIGAN E R,F,2
+S12,Undergraduate,FLMST   150SF,FELANDO C L,A,1
+S12,Undergraduate,FLMST   150SF,FELANDO C L,A-,2
+S12,Undergraduate,FLMST   150SF,FELANDO C L,B,1
+S12,Undergraduate,FLMST   150SF,FELANDO C L,B-,4
+S12,Undergraduate,FLMST   150SF,FELANDO C L,C+,1
+S12,Undergraduate,FLMST   150SF,FELANDO C L,C,4
+S12,Undergraduate,FLMST   154PG,PENLEY C,A+,1
+S12,Undergraduate,FLMST   154PG,PENLEY C,A,35
+S12,Undergraduate,FLMST   154PG,PENLEY C,A-,4
+S12,Undergraduate,FLMST   154PG,PENLEY C,B+,3
+S12,Undergraduate,FLMST   154PG,PENLEY C,B,11
+S12,Undergraduate,FLMST   154PG,PENLEY C,C+,4
+S12,Undergraduate,FLMST   154PG,PENLEY C,C,1
+S12,Undergraduate,FLMST   154PG,PENLEY C,D,1
+S12,Undergraduate,FLMST   154PG,PENLEY C,F,4
+S12,Undergraduate,FLMST   155CC,WOLFE C C,A,4
+S12,Undergraduate,FLMST   155CC,WOLFE C C,A-,4
+S12,Undergraduate,FLMST   155CC,WOLFE C C,B+,4
+S12,Undergraduate,FLMST   155CC,WOLFE C C,B,6
+S12,Undergraduate,FLMST   155CC,WOLFE C C,B-,1
+S12,Undergraduate,FLMST   155CC,WOLFE C C,C,1
+S12,Undergraduate,FLMST   155CC,WOLFE C C,C-,1
+S12,Undergraduate,FLMST   155CC,WOLFE C C,F,3
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,A,7
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,A-,14
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,B+,14
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,B,28
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,B-,14
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,C+,4
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,C,3
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,C-,1
+S12,Undergraduate,FLMST   166PM,GREENFIELD H,F,2
+S12,Undergraduate,FLMST   166TV,SUBRAMANIAN J,A,15
+S12,Undergraduate,FLMST   166TV,SUBRAMANIAN J,A-,5
+S12,Undergraduate,FLMST   166TV,SUBRAMANIAN J,B+,6
+S12,Undergraduate,FLMST   166TV,SUBRAMANIAN J,B,4
+S12,Undergraduate,FLMST   166TV,SUBRAMANIAN J,B-,1
+S12,Undergraduate,FLMST   187PC,BARON J R,A,8
+S12,Undergraduate,FLMST   187PC,BARON J R,B+,2
+S12,Undergraduate,FLMST   187PC,BARON J R,B,4
+S12,Undergraduate,FLMST   187PC,BARON J R,B-,1
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,A,4
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,A-,11
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,B+,1
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,B,1
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,B-,1
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,C+,1
+S12,Undergraduate,FLMST   188TV,PORTUGES P C,C,2
+S12,Undergraduate,FLMST   189SM,APSELL P S,A,6
+S12,Undergraduate,FLMST   189SM,APSELL P S,A-,7
+S12,Undergraduate,FLMST   189SM,APSELL P S,B+,2
+S12,Undergraduate,FLMST   189SM,APSELL P S,B,1
+S12,Undergraduate,FLMST   189SM,APSELL P S,B-,3
+S12,Undergraduate,FLMST   189SM,APSELL P S,C+,2
+S12,Undergraduate,FLMST   190VA,PARKS L A,A,1
+S12,Undergraduate,FLMST   190VA,PARKS L A,A-,4
+S12,Undergraduate,FLMST   190VA,PARKS L A,B+,3
+S12,Undergraduate,FLMST   190VA,PARKS L A,B,2
+S12,Undergraduate,FLMST   190VA,PARKS L A,B-,2
+S12,Undergraduate,FLMST   190VA,PARKS L A,C+,1
+S12,Undergraduate,FLMST   190VA,PARKS L A,F,1
+S12,Undergraduate,FLMST   192B,SARKAR B,A,21
+S12,Undergraduate,FLMST   192B,SARKAR B,A-,24
+S12,Undergraduate,FLMST   192B,SARKAR B,B+,17
+S12,Undergraduate,FLMST   192B,SARKAR B,B,21
+S12,Undergraduate,FLMST   192B,SARKAR B,B-,10
+S12,Undergraduate,FLMST   192B,SARKAR B,C+,5
+S12,Undergraduate,FLMST   192B,SARKAR B,C,3
+S12,Undergraduate,FLMST   192B,SARKAR B,D,1
+S12,Undergraduate,FLMST   192B,SARKAR B,F,2
+S12,Undergraduate,FLMST   195I,VENEGAS C,P,8
+S12,Undergraduate,FLMST   199,PENLEY C,A,15
+S12,Undergraduate,FLMST   199,VENEGAS C,A+,2
+S12,Undergraduate,FLMST   199,VENEGAS C,A,7
+S12,Graduate,FLMST   230,WOLFE C C,A,9
+S12,Graduate,FLMST   230,WOLFE C C,A-,1
+S12,Graduate,FLMST   252PG,PENLEY C,A,5
+S12,Graduate,FLMST   598,WALKER J R,A,5

@@ -1,0 +1,118 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,ES   1-  38A,GERSTENFELD P,P,66
+S19,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,6
+S19,Undergraduate,ES   1-  38B,GERSTENFELD P,P,28
+S19,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,3
+S19,Undergraduate,ES   1-  38C,GERSTENFELD P,P,19
+S19,Undergraduate,ES   1-  38C,GERSTENFELD P,NP,5
+S19,Undergraduate,ES   1-  99,GERSTENFELD P,P,8
+S19,Undergraduate,GER       2G,KOMMERELL G,A+,3
+S19,Undergraduate,GER       2G,KOMMERELL G,A,5
+S19,Undergraduate,GER       2G,KOMMERELL G,A-,5
+S19,Undergraduate,GER       3,LOVETT D W,A+,3
+S19,Undergraduate,GER       3,LOVETT D W,A,12
+S19,Undergraduate,GER       3,LOVETT D W,A-,3
+S19,Undergraduate,GER       3,LOVETT D W,B+,1
+S19,Undergraduate,GER       3,LOVETT D W,B,2
+S19,Undergraduate,GER       3,LOVETT D W,D,1
+S19,Undergraduate,GER       3,MEYR J E,A+,9
+S19,Undergraduate,GER       3,MEYR J E,A,32
+S19,Undergraduate,GER       3,MEYR J E,B,1
+S19,Undergraduate,GER       3,MEYR J E,F,2
+S19,Undergraduate,GER       3,REDER E R,A+,17
+S19,Undergraduate,GER       3,REDER E R,A,32
+S19,Undergraduate,GER       3,REDER E R,A-,7
+S19,Undergraduate,GER       3,REDER E R,B+,4
+S19,Undergraduate,GER       3,REDER E R,B,5
+S19,Undergraduate,GER       3,REDER E R,B-,1
+S19,Undergraduate,GER       3,REDER E R,C+,1
+S19,Undergraduate,GER       3,REDER E R,C,3
+S19,Undergraduate,GER       3,REDER E R,C-,2
+S19,Undergraduate,GER       3,REDER E R,D,1
+S19,Undergraduate,GER       3,THOMSEN S S,A+,2
+S19,Undergraduate,GER       3,THOMSEN S S,A,9
+S19,Undergraduate,GER       3,THOMSEN S S,A-,3
+S19,Undergraduate,GER       3,THOMSEN S S,B+,2
+S19,Undergraduate,GER       3,THOMSEN S S,B,1
+S19,Undergraduate,GER       3,THOMSEN S S,B-,1
+S19,Undergraduate,GER       3,THOMSEN S S,C+,1
+S19,Undergraduate,GER       3,THOMSEN S S,C,2
+S19,Undergraduate,GER       3,WHITE K D,A+,6
+S19,Undergraduate,GER       3,WHITE K D,A,12
+S19,Undergraduate,GER       3,WHITE K D,B,2
+S19,Undergraduate,GER       3,WHITE K D,C,1
+S19,Undergraduate,GER       6,REDER E R,A+,6
+S19,Undergraduate,GER       6,REDER E R,A,18
+S19,Undergraduate,GER       6,REDER E R,B+,1
+S19,Undergraduate,GER       6,SHEEDY M A,A+,8
+S19,Undergraduate,GER       6,SHEEDY M A,A,16
+S19,Undergraduate,GER       6,SHEEDY M A,A-,3
+S19,Undergraduate,GER       6,SHEEDY M A,B+,1
+S19,Undergraduate,GER       6,SHEEDY M A,C+,1
+S19,Undergraduate,GER       6,SHEEDY M A,C,1
+S19,Undergraduate,GER       6,SHEEDY M A,D,1
+S19,Undergraduate,GER       8C,MEYR J E,A+,5
+S19,Undergraduate,GER       8C,MEYR J E,A,39
+S19,Undergraduate,GER       8C,MEYR J E,A-,3
+S19,Undergraduate,GER       8C,MEYR J E,D+,1
+S19,Undergraduate,GER       8C,MEYR J E,F,2
+S19,Undergraduate,GER     101C,WHITE K D,A+,11
+S19,Undergraduate,GER     101C,WHITE K D,A,31
+S19,Undergraduate,GER     101C,WHITE K D,A-,2
+S19,Undergraduate,GER     101C,WHITE K D,B+,1
+S19,Undergraduate,GER     101C,WHITE K D,B,1
+S19,Undergraduate,GER     101C,WHITE K D,B-,1
+S19,Undergraduate,GER     101C,WHITE K D,C,2
+S19,Undergraduate,GER     105C,KOMMERELL G,A+,5
+S19,Undergraduate,GER     105C,KOMMERELL G,A,10
+S19,Undergraduate,GER     107A,SHEEDY M A,A+,5
+S19,Undergraduate,GER     107A,SHEEDY M A,A,17
+S19,Undergraduate,GER     107A,SHEEDY M A,A-,1
+S19,Undergraduate,GER     107A,SHEEDY M A,B+,2
+S19,Undergraduate,GER     107A,SHEEDY M A,B,1
+S19,Undergraduate,GER     107A,SHEEDY M A,C,1
+S19,Undergraduate,GER     114,HOFMANN M J,A+,2
+S19,Undergraduate,GER     114,HOFMANN M J,A,18
+S19,Undergraduate,GER     114,HOFMANN M J,A-,5
+S19,Undergraduate,GER     114,HOFMANN M J,B+,3
+S19,Undergraduate,GER     114,HOFMANN M J,B,1
+S19,Undergraduate,GER     114,HOFMANN M J,C,1
+S19,Undergraduate,GER     190,WEBER E,A+,1
+S19,Undergraduate,GER     190,WEBER E,A,5
+S19,Undergraduate,GER     190,WEBER E,A-,2
+S19,Undergraduate,GER     190,WEBER E,B+,2
+S19,Undergraduate,GER     190,WEBER E,B,1
+S19,Undergraduate,GER     190,WEBER E,B-,1
+S19,Undergraduate,GER     190,WEBER E,C,1
+S19,Undergraduate,GER     190,WEBER E,F,1
+S19,Graduate,GER     210,WEBER E,A-,1
+S19,Graduate,GER     210,WEBER E,S,2
+S19,Graduate,GER     500,REDER E R,S,2
+S19,Undergraduate,INT     186AF,GERMAN T C M,P,20
+S19,Undergraduate,PSY       1,GERMAN T C M,A+,8
+S19,Undergraduate,PSY       1,GERMAN T C M,A,13
+S19,Undergraduate,PSY       1,GERMAN T C M,A-,25
+S19,Undergraduate,PSY       1,GERMAN T C M,B+,34
+S19,Undergraduate,PSY       1,GERMAN T C M,B,42
+S19,Undergraduate,PSY       1,GERMAN T C M,B-,33
+S19,Undergraduate,PSY       1,GERMAN T C M,C+,36
+S19,Undergraduate,PSY       1,GERMAN T C M,C,59
+S19,Undergraduate,PSY       1,GERMAN T C M,C-,12
+S19,Undergraduate,PSY       1,GERMAN T C M,D,21
+S19,Undergraduate,PSY       1,GERMAN T C M,F,25
+S19,Undergraduate,PSY     115,GERSON J O,A+,4
+S19,Undergraduate,PSY     115,GERSON J O,A,26
+S19,Undergraduate,PSY     115,GERSON J O,A-,26
+S19,Undergraduate,PSY     115,GERSON J O,B+,19
+S19,Undergraduate,PSY     115,GERSON J O,B,13
+S19,Undergraduate,PSY     115,GERSON J O,B-,10
+S19,Undergraduate,PSY     115,GERSON J O,C+,8
+S19,Undergraduate,PSY     115,GERSON J O,C,6
+S19,Undergraduate,PSY     115,GERSON J O,C-,5
+S19,Undergraduate,PSY     115,GERSON J O,D+,4
+S19,Undergraduate,PSY     115,GERSON J O,D,1
+S19,Undergraduate,PSY     115,GERSON J O,F,6
+S19,Undergraduate,PSY     197C,GERMAN T C M,A,2
+S19,Undergraduate,PSY     199P,GERMAN T C M,P,7
+S19,Graduate,PSY     596,GERMAN T C M,S,1
+S19,Graduate,PSY     599,GERMAN T C M,S,1

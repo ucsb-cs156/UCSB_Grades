@@ -1,0 +1,117 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W15,Undergraduate,ITAL      1,ARNOLD L B,A+,1
+W15,Undergraduate,ITAL      1,ARNOLD L B,A,11
+W15,Undergraduate,ITAL      1,ARNOLD L B,A-,10
+W15,Undergraduate,ITAL      1,ARNOLD L B,B+,12
+W15,Undergraduate,ITAL      1,ARNOLD L B,B,5
+W15,Undergraduate,ITAL      1,ARNOLD L B,B-,3
+W15,Undergraduate,ITAL      1,ARNOLD L B,C,1
+W15,Undergraduate,ITAL      1,ARNOLD L B,D-,1
+W15,Undergraduate,ITAL      1,ARNOLD L B,F,1
+W15,Undergraduate,ITAL      1,DE SIMONE T,A+,2
+W15,Undergraduate,ITAL      1,DE SIMONE T,A,20
+W15,Undergraduate,ITAL      1,DE SIMONE T,A-,8
+W15,Undergraduate,ITAL      1,DE SIMONE T,B+,3
+W15,Undergraduate,ITAL      1,DE SIMONE T,B,6
+W15,Undergraduate,ITAL      1,DE SIMONE T,B-,1
+W15,Undergraduate,ITAL      1,DE SIMONE T,C-,1
+W15,Undergraduate,ITAL      1,DE SIMONE T,D+,1
+W15,Undergraduate,ITAL      1,PADULA V,A+,5
+W15,Undergraduate,ITAL      1,PADULA V,A,9
+W15,Undergraduate,ITAL      1,PADULA V,A-,5
+W15,Undergraduate,ITAL      1,PADULA V,B+,1
+W15,Undergraduate,ITAL      1,PADULA V,B,2
+W15,Undergraduate,ITAL      1,PADULA V,B-,1
+W15,Undergraduate,ITAL      2,BORROMEO C,A,14
+W15,Undergraduate,ITAL      2,BORROMEO C,A-,15
+W15,Undergraduate,ITAL      2,BORROMEO C,B+,14
+W15,Undergraduate,ITAL      2,BORROMEO C,B,4
+W15,Undergraduate,ITAL      2,BORROMEO C,B-,1
+W15,Undergraduate,ITAL      2,BORROMEO C,C+,4
+W15,Undergraduate,ITAL      2,BORROMEO C,C,2
+W15,Undergraduate,ITAL      2,BORROMEO C,C-,2
+W15,Undergraduate,ITAL      2,BORROMEO C,D,1
+W15,Undergraduate,ITAL      2,BORROMEO C,D-,1
+W15,Undergraduate,ITAL      2,CRICKETTE M E,A+,2
+W15,Undergraduate,ITAL      2,CRICKETTE M E,A,2
+W15,Undergraduate,ITAL      2,CRICKETTE M E,A-,2
+W15,Undergraduate,ITAL      2,CRICKETTE M E,B+,3
+W15,Undergraduate,ITAL      2,CRICKETTE M E,B,6
+W15,Undergraduate,ITAL      2,CRICKETTE M E,B-,5
+W15,Undergraduate,ITAL      2,CRICKETTE M E,C+,1
+W15,Undergraduate,ITAL      2,CRICKETTE M E,C,5
+W15,Undergraduate,ITAL      2,CRICKETTE M E,D,1
+W15,Undergraduate,ITAL      2,DE SIMONE T,A,7
+W15,Undergraduate,ITAL      2,DE SIMONE T,A-,5
+W15,Undergraduate,ITAL      2,DE SIMONE T,B+,4
+W15,Undergraduate,ITAL      2,DE SIMONE T,B,4
+W15,Undergraduate,ITAL      2,DE SIMONE T,B-,1
+W15,Undergraduate,ITAL      2,DE SIMONE T,C+,2
+W15,Undergraduate,ITAL      2,DE SIMONE T,D,1
+W15,Undergraduate,ITAL      2,DE SIMONE T,D-,1
+W15,Undergraduate,ITAL      2,FIORINA C P,A,12
+W15,Undergraduate,ITAL      2,FIORINA C P,A-,8
+W15,Undergraduate,ITAL      2,FIORINA C P,B+,6
+W15,Undergraduate,ITAL      2,FIORINA C P,B,7
+W15,Undergraduate,ITAL      2,FIORINA C P,B-,7
+W15,Undergraduate,ITAL      2,FIORINA C P,C+,2
+W15,Undergraduate,ITAL      2,FIORINA C P,D+,1
+W15,Undergraduate,ITAL      2,FIORINA C P,F,1
+W15,Undergraduate,ITAL      4,PADULA V,A+,1
+W15,Undergraduate,ITAL      4,PADULA V,A,7
+W15,Undergraduate,ITAL      4,PADULA V,A-,5
+W15,Undergraduate,ITAL      4,PADULA V,B+,3
+W15,Undergraduate,ITAL      4,PADULA V,B,6
+W15,Undergraduate,ITAL      4,PADULA V,B-,1
+W15,Undergraduate,ITAL      4,PADULA V,C,1
+W15,Undergraduate,ITAL      4,PADULA V,F,2
+W15,Undergraduate,ITAL      5,ARNOLD L B,A,2
+W15,Undergraduate,ITAL      5,ARNOLD L B,A-,2
+W15,Undergraduate,ITAL      5,ARNOLD L B,B+,1
+W15,Undergraduate,ITAL      5,ARNOLD L B,B,6
+W15,Undergraduate,ITAL      5,ARNOLD L B,B-,1
+W15,Undergraduate,ITAL      5,ARNOLD L B,C+,3
+W15,Undergraduate,ITAL      5,ARNOLD L B,C,1
+W15,Undergraduate,ITAL      5,ARNOLD L B,C-,1
+W15,Undergraduate,ITAL      5,ARNOLD L B,F,2
+W15,Undergraduate,ITAL      5,CRICKETTE M E,A,1
+W15,Undergraduate,ITAL      5,CRICKETTE M E,A-,4
+W15,Undergraduate,ITAL      5,CRICKETTE M E,B+,3
+W15,Undergraduate,ITAL      5,CRICKETTE M E,B,4
+W15,Undergraduate,ITAL      5,CRICKETTE M E,B-,2
+W15,Undergraduate,ITAL      5,CRICKETTE M E,C+,3
+W15,Undergraduate,ITAL      5,CRICKETTE M E,C,4
+W15,Undergraduate,ITAL      5,CRICKETTE M E,F,1
+W15,Undergraduate,ITAL     16A,PATTONE C F,A+,7
+W15,Undergraduate,ITAL     16A,PATTONE C F,A,2
+W15,Undergraduate,ITAL     16A,PATTONE C F,B+,5
+W15,Undergraduate,ITAL     16A,PATTONE C F,B,3
+W15,Undergraduate,ITAL     16A,PATTONE C F,C+,1
+W15,Undergraduate,ITAL     20X,FOGU C,A+,5
+W15,Undergraduate,ITAL     20X,FOGU C,A,8
+W15,Undergraduate,ITAL     20X,FOGU C,A-,7
+W15,Undergraduate,ITAL     20X,FOGU C,B+,18
+W15,Undergraduate,ITAL     20X,FOGU C,B,8
+W15,Undergraduate,ITAL     20X,FOGU C,B-,9
+W15,Undergraduate,ITAL     20X,FOGU C,C+,8
+W15,Undergraduate,ITAL     20X,FOGU C,C,6
+W15,Undergraduate,ITAL     20X,FOGU C,F,1
+W15,Undergraduate,ITAL     20XH,FOGU C,A+,5
+W15,Undergraduate,ITAL    102,FIORINA C P,A,2
+W15,Undergraduate,ITAL    102,FIORINA C P,A-,2
+W15,Undergraduate,ITAL    102,FIORINA C P,B-,1
+W15,Undergraduate,ITAL    119A,SNYDER J R,A,5
+W15,Undergraduate,ITAL    138D,FOGU C,A+,1
+W15,Undergraduate,ITAL    138D,FOGU C,A,7
+W15,Undergraduate,ITAL    138D,FOGU C,A-,1
+W15,Undergraduate,ITAL    138D,FOGU C,B+,3
+W15,Undergraduate,ITAL    148X,SNYDER J R,A+,1
+W15,Undergraduate,ITAL    148X,SNYDER J R,A,5
+W15,Undergraduate,ITAL    148X,SNYDER J R,A-,6
+W15,Undergraduate,ITAL    148X,SNYDER J R,B+,3
+W15,Undergraduate,ITAL    148X,SNYDER J R,B,6
+W15,Undergraduate,ITAL    148X,SNYDER J R,B-,3
+W15,Undergraduate,ITAL    148X,SNYDER J R,C+,1
+W15,Undergraduate,ITAL    148X,SNYDER J R,C,4
+W15,Undergraduate,ITAL    148X,SNYDER J R,C-,1
+W15,Undergraduate,ITAL    148X,SNYDER J R,F,1

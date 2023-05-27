@@ -1,0 +1,233 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,ENGL     10,GHOSH B,A+,27
+F19,Undergraduate,ENGL     10,GHOSH B,A,110
+F19,Undergraduate,ENGL     10,GHOSH B,A-,69
+F19,Undergraduate,ENGL     10,GHOSH B,B+,32
+F19,Undergraduate,ENGL     10,GHOSH B,B,22
+F19,Undergraduate,ENGL     10,GHOSH B,B-,7
+F19,Undergraduate,ENGL     10,GHOSH B,C+,3
+F19,Undergraduate,ENGL     10,GHOSH B,C,5
+F19,Undergraduate,ENGL     10,GHOSH B,C-,1
+F19,Undergraduate,ENGL     10,GHOSH B,D,1
+F19,Undergraduate,ENGL     10,GHOSH B,F,6
+F19,Undergraduate,ENGL     10S,GHOSH B,A+,2
+F19,Undergraduate,ENGL     10S,GHOSH B,A,2
+F19,Undergraduate,ENGL     15,KEARNEY J J,A,26
+F19,Undergraduate,ENGL     15,KEARNEY J J,A-,31
+F19,Undergraduate,ENGL     15,KEARNEY J J,B+,24
+F19,Undergraduate,ENGL     15,KEARNEY J J,B,35
+F19,Undergraduate,ENGL     15,KEARNEY J J,B-,20
+F19,Undergraduate,ENGL     15,KEARNEY J J,C+,5
+F19,Undergraduate,ENGL     15,KEARNEY J J,C,4
+F19,Undergraduate,ENGL     15,KEARNEY J J,D+,1
+F19,Undergraduate,ENGL     15,KEARNEY J J,F,3
+F19,Undergraduate,ENGL     15S,KEARNEY J J,A,12
+F19,Undergraduate,ENGL     22,HILTNER K C,A+,1
+F19,Undergraduate,ENGL     22,HILTNER K C,A,424
+F19,Undergraduate,ENGL     22,HILTNER K C,A-,129
+F19,Undergraduate,ENGL     22,HILTNER K C,B+,98
+F19,Undergraduate,ENGL     22,HILTNER K C,B,54
+F19,Undergraduate,ENGL     22,HILTNER K C,B-,67
+F19,Undergraduate,ENGL     22,HILTNER K C,C+,23
+F19,Undergraduate,ENGL     22,HILTNER K C,C,10
+F19,Undergraduate,ENGL     22,HILTNER K C,C-,9
+F19,Undergraduate,ENGL     22,HILTNER K C,D+,3
+F19,Undergraduate,ENGL     22,HILTNER K C,D-,1
+F19,Undergraduate,ENGL     22,HILTNER K C,F,8
+F19,Undergraduate,ENGL     22S,HILTNER K C,A,14
+F19,Undergraduate,ENGL     50,OLGUIN B V,A+,13
+F19,Undergraduate,ENGL     50,OLGUIN B V,A,32
+F19,Undergraduate,ENGL     50,OLGUIN B V,A-,21
+F19,Undergraduate,ENGL     50,OLGUIN B V,B+,12
+F19,Undergraduate,ENGL     50,OLGUIN B V,B,11
+F19,Undergraduate,ENGL     50,OLGUIN B V,B-,1
+F19,Undergraduate,ENGL     50,OLGUIN B V,C+,2
+F19,Undergraduate,ENGL     50,OLGUIN B V,C,2
+F19,Undergraduate,ENGL     50,OLGUIN B V,C-,1
+F19,Undergraduate,ENGL     50,OLGUIN B V,D,1
+F19,Undergraduate,ENGL     65WW,WICKE J A,A+,59
+F19,Undergraduate,ENGL     65WW,WICKE J A,A,54
+F19,Undergraduate,ENGL     65WW,WICKE J A,A-,28
+F19,Undergraduate,ENGL     65WW,WICKE J A,B+,9
+F19,Undergraduate,ENGL     65WW,WICKE J A,B,4
+F19,Undergraduate,ENGL     65WW,WICKE J A,D+,1
+F19,Undergraduate,ENGL     99,DOUGLASS J H,A+,7
+F19,Undergraduate,ENGL    103B,CARLSON J A,A+,1
+F19,Undergraduate,ENGL    103B,CARLSON J A,A,17
+F19,Undergraduate,ENGL    103B,CARLSON J A,A-,38
+F19,Undergraduate,ENGL    103B,CARLSON J A,B+,31
+F19,Undergraduate,ENGL    103B,CARLSON J A,B,22
+F19,Undergraduate,ENGL    103B,CARLSON J A,B-,13
+F19,Undergraduate,ENGL    103B,CARLSON J A,C+,4
+F19,Undergraduate,ENGL    103B,CARLSON J A,C,2
+F19,Undergraduate,ENGL    103B,CARLSON J A,C-,1
+F19,Undergraduate,ENGL    103B,CARLSON J A,F,1
+F19,Undergraduate,ENGL    103BS,CARLSON J A,A,6
+F19,Undergraduate,ENGL    103BS,CARLSON J A,B+,1
+F19,Undergraduate,ENGL    104A,LIM S,A+,1
+F19,Undergraduate,ENGL    104A,LIM S,A,34
+F19,Undergraduate,ENGL    104A,LIM S,A-,34
+F19,Undergraduate,ENGL    104A,LIM S,B+,27
+F19,Undergraduate,ENGL    104A,LIM S,B,35
+F19,Undergraduate,ENGL    104A,LIM S,B-,8
+F19,Undergraduate,ENGL    104A,LIM S,C+,2
+F19,Undergraduate,ENGL    104A,LIM S,C,3
+F19,Undergraduate,ENGL    104A,LIM S,D+,1
+F19,Undergraduate,ENGL    104A,LIM S,F,2
+F19,Undergraduate,ENGL    104AS,LIM S,A+,2
+F19,Undergraduate,ENGL    104AS,LIM S,A,4
+F19,Undergraduate,ENGL    104AS,LIM S,A-,2
+F19,Undergraduate,ENGL    104AS,LIM S,B-,1
+F19,Undergraduate,ENGL    104B,SHEWRY T J,A,17
+F19,Undergraduate,ENGL    104B,SHEWRY T J,A-,11
+F19,Undergraduate,ENGL    104B,SHEWRY T J,B+,5
+F19,Undergraduate,ENGL    104B,SHEWRY T J,B,3
+F19,Undergraduate,ENGL    104B,SHEWRY T J,B-,1
+F19,Undergraduate,ENGL    106CW,DONNELLY B,A+,17
+F19,Undergraduate,ENGL    106CW,DONNELLY B,A,2
+F19,Undergraduate,ENGL    106CW,DONNELLY B,A-,2
+F19,Undergraduate,ENGL    106CW,DONNELLY B,B+,3
+F19,Undergraduate,ENGL    128EN,COOK E H,A+,2
+F19,Undergraduate,ENGL    128EN,COOK E H,A,4
+F19,Undergraduate,ENGL    128EN,COOK E H,A-,6
+F19,Undergraduate,ENGL    128EN,COOK E H,B+,5
+F19,Undergraduate,ENGL    128EN,COOK E H,B,3
+F19,Undergraduate,ENGL    128EN,COOK E H,B-,1
+F19,Undergraduate,ENGL    128EN,COOK E H,C,1
+F19,Undergraduate,ENGL    131,DELOMBARD J M,A,2
+F19,Undergraduate,ENGL    131,DELOMBARD J M,A-,3
+F19,Undergraduate,ENGL    131,DELOMBARD J M,B,9
+F19,Undergraduate,ENGL    131,DELOMBARD J M,B-,4
+F19,Undergraduate,ENGL    131,DELOMBARD J M,C+,1
+F19,Undergraduate,ENGL    131,DELOMBARD J M,C-,2
+F19,Undergraduate,ENGL    131,DELOMBARD J M,D,1
+F19,Undergraduate,ENGL    131,DELOMBARD J M,F,2
+F19,Undergraduate,ENGL    132PR,MASLAN M J,A,6
+F19,Undergraduate,ENGL    132PR,MASLAN M J,A-,6
+F19,Undergraduate,ENGL    132PR,MASLAN M J,B+,5
+F19,Undergraduate,ENGL    132PR,MASLAN M J,B,3
+F19,Undergraduate,ENGL    132PR,MASLAN M J,C,1
+F19,Undergraduate,ENGL    148RS,DROGE A M,A+,16
+F19,Undergraduate,ENGL    148RS,DROGE A M,A,23
+F19,Undergraduate,ENGL    148RS,DROGE A M,A-,2
+F19,Undergraduate,ENGL    148RS,DROGE A M,B+,1
+F19,Undergraduate,ENGL    165AT,MORAGA C L,A,9
+F19,Undergraduate,ENGL    165AT,MORAGA C L,A-,5
+F19,Undergraduate,ENGL    165AT,MORAGA C L,B+,6
+F19,Undergraduate,ENGL    165PP,DONNELLY B,A,10
+F19,Undergraduate,ENGL    165PP,DONNELLY B,A-,9
+F19,Undergraduate,ENGL    165PP,DONNELLY B,B+,4
+F19,Undergraduate,ENGL    165PP,DONNELLY B,B-,1
+F19,Undergraduate,ENGL    170MB,PARK S,A+,9
+F19,Undergraduate,ENGL    170MB,PARK S,A,8
+F19,Undergraduate,ENGL    170MB,PARK S,A-,10
+F19,Undergraduate,ENGL    170MB,PARK S,B+,6
+F19,Undergraduate,ENGL    170MB,PARK S,B,6
+F19,Undergraduate,ENGL    170MB,PARK S,B-,1
+F19,Undergraduate,ENGL    170MB,PARK S,C+,2
+F19,Undergraduate,ENGL    170MB,PARK S,C,1
+F19,Undergraduate,ENGL    170MB,PARK S,F,1
+F19,Undergraduate,ENGL    175GW,MACIAS R,A,3
+F19,Undergraduate,ENGL    175GW,OLGUIN B V,A,3
+F19,Undergraduate,ENGL    175GW,SHOEMAKER T G,A,3
+F19,Undergraduate,ENGL    189,RALEY R M,A+,1
+F19,Undergraduate,ENGL    189,RALEY R M,A,6
+F19,Undergraduate,ENGL    189,RALEY R M,A-,13
+F19,Undergraduate,ENGL    189,RALEY R M,B+,13
+F19,Undergraduate,ENGL    189,RALEY R M,B,3
+F19,Undergraduate,ENGL    189,RALEY R M,B-,3
+F19,Undergraduate,ENGL    189,RALEY R M,C+,1
+F19,Undergraduate,ENGL    193,NEWFIELD C J,A+,1
+F19,Undergraduate,ENGL    193,NEWFIELD C J,A,48
+F19,Undergraduate,ENGL    193,NEWFIELD C J,A-,38
+F19,Undergraduate,ENGL    193,NEWFIELD C J,B+,41
+F19,Undergraduate,ENGL    193,NEWFIELD C J,B,24
+F19,Undergraduate,ENGL    193,NEWFIELD C J,B-,15
+F19,Undergraduate,ENGL    193,NEWFIELD C J,C+,4
+F19,Undergraduate,ENGL    193,NEWFIELD C J,C,3
+F19,Undergraduate,ENGL    193,NEWFIELD C J,F,6
+F19,Undergraduate,ENGL    193S,NEWFIELD C J,A,6
+F19,Undergraduate,ENGL    196,BOSCAGLI M,A,2
+F19,Undergraduate,ENGL    196,WAID C J,A,1
+F19,Undergraduate,ENGL    197,BATISTE S L,A+,1
+F19,Undergraduate,ENGL    197,BATISTE S L,A,4
+F19,Undergraduate,ENGL    197,BATISTE S L,A-,2
+F19,Undergraduate,ENGL    197,BATISTE S L,B+,1
+F19,Undergraduate,ENGL    197,BATISTE S L,C+,1
+F19,Undergraduate,ENGL    197,BATISTE S L,C-,1
+F19,Undergraduate,ENGL    197,BATISTE S L,D+,1
+F19,Undergraduate,ENGL    197,DUFFY A E,A+,4
+F19,Undergraduate,ENGL    197,DUFFY A E,A,11
+F19,Undergraduate,ENGL    197,MASLAN M J,A,6
+F19,Undergraduate,ENGL    197,MASLAN M J,A-,1
+F19,Undergraduate,ENGL    197,MASLAN M J,B+,1
+F19,Undergraduate,ENGL    197,MASLAN M J,B,4
+F19,Undergraduate,ENGL    197,RALEY R M,A,7
+F19,Undergraduate,ENGL    197,RALEY R M,A-,5
+F19,Undergraduate,ENGL    197,RALEY R M,B+,2
+F19,Undergraduate,ENGL    197,RALEY R M,B,1
+F19,Undergraduate,ENGL    197,RALEY R M,C-,1
+F19,Undergraduate,ENGL    197,SHEWRY T J,A,12
+F19,Undergraduate,ENGL    197,SHEWRY T J,A-,3
+F19,Undergraduate,ENGL    197,SHEWRY T J,B+,2
+F19,Undergraduate,ENGL    199,DONNELLY B,A,1
+F19,Undergraduate,ENGL    199,DUFFY A E,A,3
+F19,Undergraduate,ENGL    199,NEWFIELD C J,A-,1
+F19,Undergraduate,ENGL    199,PARK S,A+,2
+F19,Undergraduate,ENGL    199RA,FUMERTON M P,A+,4
+F19,Undergraduate,ENGL    199RA,KEARNEY J J,A+,5
+F19,Graduate,ENGL    231,KEARNEY J J,A,13
+F19,Graduate,ENGL    236,BOSCAGLI M,A,15
+F19,Graduate,ENGL    236,BOSCAGLI M,S,2
+F19,Graduate,ENGL    236,NEWFIELD C J,A+,2
+F19,Graduate,ENGL    236,NEWFIELD C J,A,3
+F19,Graduate,ENGL    236,NEWFIELD C J,A-,1
+F19,Graduate,ENGL    236,NEWFIELD C J,F,1
+F19,Graduate,ENGL    238,LIU A Y,A,12
+F19,Graduate,ENGL    265BM,BATISTE S L,A+,1
+F19,Graduate,ENGL    265BM,BATISTE S L,A,4
+F19,Graduate,ENGL    265BM,BATISTE S L,A-,4
+F19,Graduate,ENGL    265GW,MACIAS R,A+,6
+F19,Graduate,ENGL    265GW,MACIAS R,A,3
+F19,Graduate,ENGL    265GW,OLGUIN B V,A+,6
+F19,Graduate,ENGL    265GW,OLGUIN B V,A,3
+F19,Graduate,ENGL    265GW,SHOEMAKER T G,A+,6
+F19,Graduate,ENGL    265GW,SHOEMAKER T G,A,3
+F19,Graduate,ENGL    500,CARLSON J A,S,1
+F19,Graduate,ENGL    500,GHOSH B,S,2
+F19,Graduate,ENGL    500,KEARNEY J J,S,3
+F19,Graduate,ENGL    500,LIM S,S,1
+F19,Graduate,ENGL    500,LIU A Y,S,1
+F19,Graduate,ENGL    500,NEWFIELD C J,S,2
+F19,Graduate,ENGL    500,OLGUIN B V,S,4
+F19,Graduate,ENGL    500,WICKE J A,S,1
+F19,Graduate,ENGL    591,DUFFY A E,S,9
+F19,Graduate,ENGL    596,BLURTON H F,A+,1
+F19,Graduate,ENGL    596,WAID C J,A,1
+F19,Graduate,ENGL    597,ANDREA B D,S,2
+F19,Graduate,ENGL    597,BLURTON H F,S,3
+F19,Graduate,ENGL    597,BOSCAGLI M,S,1
+F19,Graduate,ENGL    597,DELOMBARD J M,S,1
+F19,Graduate,ENGL    597,GHOSH B,S,2
+F19,Graduate,ENGL    597,KEARNEY J J,S,1
+F19,Graduate,ENGL    597,LIU A Y,S,3
+F19,Graduate,ENGL    597,OLGUIN B V,S,1
+F19,Graduate,ENGL    597,SAMOLSKY R E,S,1
+F19,Graduate,ENGL    597,SHEWRY T J,S,1
+F19,Graduate,ENGL    597,WAID C J,S,1
+F19,Graduate,ENGL    597,YOUNG K,S,1
+F19,Graduate,ENGL    599,BLURTON H F,S,1
+F19,Graduate,ENGL    599,BOSCAGLI M,S,2
+F19,Graduate,ENGL    599,CARLSON J A,S,1
+F19,Graduate,ENGL    599,DELOMBARD J M,S,2
+F19,Graduate,ENGL    599,DUFFY A E,S,1
+F19,Graduate,ENGL    599,GHOSH B,S,1
+F19,Graduate,ENGL    599,GUTIERREZ-JON,S,1
+F19,Graduate,ENGL    599,HUANG YU,S,1
+F19,Graduate,ENGL    599,JUE M C,S,1
+F19,Graduate,ENGL    599,KEARNEY J J,S,2
+F19,Graduate,ENGL    599,LIU A Y,S,2
+F19,Graduate,ENGL    599,RALEY R M,S,2
+F19,Graduate,ENGL    599,SALTON-COX G,S,1
+F19,Graduate,ENGL    599,YOUNG K,S,1
+F19,Undergraduate,ME ST   199,ENGLISH E D,A,1

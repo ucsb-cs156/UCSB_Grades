@@ -1,0 +1,252 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,SPAN      1,VILLA FERNAND,A+,1
+S16,Undergraduate,SPAN      1,VILLA FERNAND,A,7
+S16,Undergraduate,SPAN      1,VILLA FERNAND,A-,6
+S16,Undergraduate,SPAN      1,VILLA FERNAND,B+,5
+S16,Undergraduate,SPAN      1,VILLA FERNAND,B,17
+S16,Undergraduate,SPAN      1,VILLA FERNAND,B-,11
+S16,Undergraduate,SPAN      1,VILLA FERNAND,C+,3
+S16,Undergraduate,SPAN      1,VILLA FERNAND,C,8
+S16,Undergraduate,SPAN      1,VILLA FERNAND,C-,3
+S16,Undergraduate,SPAN      1,VILLA FERNAND,D+,1
+S16,Undergraduate,SPAN      1,VILLA FERNAND,D,2
+S16,Undergraduate,SPAN      1,VILLA FERNAND,D-,1
+S16,Undergraduate,SPAN      1,VILLA FERNAND,F,11
+S16,Undergraduate,SPAN      2,TRUJILLO A,A,2
+S16,Undergraduate,SPAN      2,TRUJILLO A,A-,4
+S16,Undergraduate,SPAN      2,TRUJILLO A,B+,6
+S16,Undergraduate,SPAN      2,TRUJILLO A,B,10
+S16,Undergraduate,SPAN      2,TRUJILLO A,B-,3
+S16,Undergraduate,SPAN      2,TRUJILLO A,C+,2
+S16,Undergraduate,SPAN      2,TRUJILLO A,C,5
+S16,Undergraduate,SPAN      2,TRUJILLO A,C-,1
+S16,Undergraduate,SPAN      2,TRUJILLO A,D+,2
+S16,Undergraduate,SPAN      2,TRUJILLO A,F,4
+S16,Undergraduate,SPAN      2,VILLA FERNAND,A,8
+S16,Undergraduate,SPAN      2,VILLA FERNAND,A-,13
+S16,Undergraduate,SPAN      2,VILLA FERNAND,B+,4
+S16,Undergraduate,SPAN      2,VILLA FERNAND,B,16
+S16,Undergraduate,SPAN      2,VILLA FERNAND,B-,9
+S16,Undergraduate,SPAN      2,VILLA FERNAND,C+,3
+S16,Undergraduate,SPAN      2,VILLA FERNAND,C,7
+S16,Undergraduate,SPAN      2,VILLA FERNAND,C-,3
+S16,Undergraduate,SPAN      2,VILLA FERNAND,D+,2
+S16,Undergraduate,SPAN      2,VILLA FERNAND,F,2
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,A,4
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,A-,1
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,B+,2
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,B,14
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,B-,5
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,C+,5
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,C,7
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,C-,4
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,D+,1
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,D,1
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,D-,2
+S16,Undergraduate,SPAN      3,GUYTON ACOSTA,F,3
+S16,Undergraduate,SPAN      3,VILLA FERNAND,A,6
+S16,Undergraduate,SPAN      3,VILLA FERNAND,A-,3
+S16,Undergraduate,SPAN      3,VILLA FERNAND,B+,4
+S16,Undergraduate,SPAN      3,VILLA FERNAND,B,13
+S16,Undergraduate,SPAN      3,VILLA FERNAND,B-,8
+S16,Undergraduate,SPAN      3,VILLA FERNAND,C+,4
+S16,Undergraduate,SPAN      3,VILLA FERNAND,C,11
+S16,Undergraduate,SPAN      3,VILLA FERNAND,C-,3
+S16,Undergraduate,SPAN      3,VILLA FERNAND,D+,3
+S16,Undergraduate,SPAN      3,VILLA FERNAND,D,4
+S16,Undergraduate,SPAN      3,VILLA FERNAND,D-,1
+S16,Undergraduate,SPAN      3,VILLA FERNAND,F,10
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,A,2
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,A-,2
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,B,2
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,B-,3
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,C+,1
+S16,Undergraduate,SPAN      3HY,VILLA FERNAND,C,6
+S16,Undergraduate,SPAN      4,VILLA FERNAND,A,4
+S16,Undergraduate,SPAN      4,VILLA FERNAND,A-,12
+S16,Undergraduate,SPAN      4,VILLA FERNAND,B+,5
+S16,Undergraduate,SPAN      4,VILLA FERNAND,B,12
+S16,Undergraduate,SPAN      4,VILLA FERNAND,B-,6
+S16,Undergraduate,SPAN      4,VILLA FERNAND,C+,1
+S16,Undergraduate,SPAN      4,VILLA FERNAND,C,5
+S16,Undergraduate,SPAN      4,VILLA FERNAND,C-,1
+S16,Undergraduate,SPAN      4,VILLA FERNAND,D+,2
+S16,Undergraduate,SPAN      4,VILLA FERNAND,D,1
+S16,Undergraduate,SPAN      4,VILLA FERNAND,F,2
+S16,Undergraduate,SPAN      5,VILLA FERNAND,A,2
+S16,Undergraduate,SPAN      5,VILLA FERNAND,A-,5
+S16,Undergraduate,SPAN      5,VILLA FERNAND,B+,3
+S16,Undergraduate,SPAN      5,VILLA FERNAND,B,9
+S16,Undergraduate,SPAN      5,VILLA FERNAND,B-,4
+S16,Undergraduate,SPAN      5,VILLA FERNAND,C+,1
+S16,Undergraduate,SPAN      5,VILLA FERNAND,C,11
+S16,Undergraduate,SPAN      5,VILLA FERNAND,C-,1
+S16,Undergraduate,SPAN      5,VILLA FERNAND,D,3
+S16,Undergraduate,SPAN      5,VILLA FERNAND,D-,1
+S16,Undergraduate,SPAN      5,VILLA FERNAND,F,2
+S16,Undergraduate,SPAN      6,CANTO CARRILL,A,14
+S16,Undergraduate,SPAN      6,CANTO CARRILL,A-,7
+S16,Undergraduate,SPAN      6,CANTO CARRILL,B+,7
+S16,Undergraduate,SPAN      6,CANTO CARRILL,B,6
+S16,Undergraduate,SPAN      6,CANTO CARRILL,B-,5
+S16,Undergraduate,SPAN      6,CANTO CARRILL,C+,1
+S16,Undergraduate,SPAN      6,CANTO CARRILL,C,4
+S16,Undergraduate,SPAN      6,CANTO CARRILL,D,1
+S16,Undergraduate,SPAN      6,CANTO CARRILL,D-,1
+S16,Undergraduate,SPAN      6,VILLA FERNAND,A-,1
+S16,Undergraduate,SPAN      6,VILLA FERNAND,B+,2
+S16,Undergraduate,SPAN      6,VILLA FERNAND,B,2
+S16,Undergraduate,SPAN      6,VILLA FERNAND,C-,1
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,A,1
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,A-,11
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,B+,9
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,B,18
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,B-,7
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,C+,3
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,C,3
+S16,Undergraduate,SPAN     16A,JEFFERSON M E,F,1
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,A+,2
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,A-,4
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,B+,6
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,B,2
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,B-,1
+S16,Undergraduate,SPAN     16B,JEFFERSON M E,C+,1
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,A,1
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,A-,2
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,B,4
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,C+,1
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,C,3
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,C-,1
+S16,Undergraduate,SPAN     16B,VILLA FERNAND,D,2
+S16,Undergraduate,SPAN     25,REQUENA A M,A,4
+S16,Undergraduate,SPAN     25,REQUENA A M,A-,7
+S16,Undergraduate,SPAN     25,REQUENA A M,B,2
+S16,Undergraduate,SPAN     25,REQUENA A M,C+,1
+S16,Undergraduate,SPAN     25,REQUENA A M,C-,2
+S16,Undergraduate,SPAN     25,VILLA FERNAND,A,1
+S16,Undergraduate,SPAN     25,VILLA FERNAND,A-,2
+S16,Undergraduate,SPAN     25,VILLA FERNAND,B+,2
+S16,Undergraduate,SPAN     25,VILLA FERNAND,B,8
+S16,Undergraduate,SPAN     25,VILLA FERNAND,B-,4
+S16,Undergraduate,SPAN     25,VILLA FERNAND,C+,2
+S16,Undergraduate,SPAN     25,VILLA FERNAND,C,2
+S16,Undergraduate,SPAN    100,RAPOSO E,A+,5
+S16,Undergraduate,SPAN    100,RAPOSO E,A,11
+S16,Undergraduate,SPAN    100,RAPOSO E,A-,8
+S16,Undergraduate,SPAN    100,RAPOSO E,B+,9
+S16,Undergraduate,SPAN    100,RAPOSO E,B,12
+S16,Undergraduate,SPAN    100,RAPOSO E,B-,3
+S16,Undergraduate,SPAN    100,RAPOSO E,C+,2
+S16,Undergraduate,SPAN    100,RAPOSO E,C,2
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,A,2
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,A-,3
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,B+,5
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,B,1
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,B-,1
+S16,Undergraduate,SPAN    102A,GONZALES-SMIT,C+,1
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,A,3
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,A-,11
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,B+,11
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,B,9
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,B-,4
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,C+,3
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,C,5
+S16,Undergraduate,SPAN    102L,GONZALES-SMIT,F,1
+S16,Undergraduate,SPAN    110A,CORTIJO A,A,2
+S16,Undergraduate,SPAN    110A,CORTIJO A,A-,19
+S16,Undergraduate,SPAN    110A,CORTIJO A,B+,7
+S16,Undergraduate,SPAN    110A,CORTIJO A,B,1
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,A+,1
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,A,15
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,A-,15
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,B+,8
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,B,2
+S16,Undergraduate,SPAN    110D,GRASSET MOREL,F,1
+S16,Undergraduate,SPAN    111C,LOMELI F A,A-,1
+S16,Undergraduate,SPAN    111C,LOMELI F A,B+,2
+S16,Undergraduate,SPAN    111C,LOMELI F A,B,1
+S16,Undergraduate,SPAN    111C,LOMELI F A,C+,3
+S16,Undergraduate,SPAN    111C,LOMELI F A,C,2
+S16,Undergraduate,SPAN    111C,LOMELI F A,D,1
+S16,Undergraduate,SPAN    111C,LOMELI F A,F,2
+S16,Undergraduate,SPAN    126,GRASSET MOREL,A,8
+S16,Undergraduate,SPAN    126,GRASSET MOREL,A-,24
+S16,Undergraduate,SPAN    126,GRASSET MOREL,B+,13
+S16,Undergraduate,SPAN    126,GRASSET MOREL,B,3
+S16,Undergraduate,SPAN    126,GRASSET MOREL,B-,1
+S16,Undergraduate,SPAN    126,GRASSET MOREL,C+,1
+S16,Undergraduate,SPAN    126,GRASSET MOREL,C,1
+S16,Undergraduate,SPAN    126,GRASSET MOREL,F,1
+S16,Undergraduate,SPAN    130,CASTILLO J L,A+,3
+S16,Undergraduate,SPAN    130,CASTILLO J L,A,7
+S16,Undergraduate,SPAN    130,CASTILLO J L,A-,2
+S16,Undergraduate,SPAN    130,CASTILLO J L,B+,1
+S16,Undergraduate,SPAN    130,CASTILLO J L,B,7
+S16,Undergraduate,SPAN    130,CASTILLO J L,B-,2
+S16,Undergraduate,SPAN    130,CASTILLO J L,C,3
+S16,Undergraduate,SPAN    130,CASTILLO J L,D,1
+S16,Undergraduate,SPAN    130,CASTILLO J L,F,2
+S16,Undergraduate,SPAN    137A,CORTIJO A,A+,1
+S16,Undergraduate,SPAN    137A,CORTIJO A,A,1
+S16,Undergraduate,SPAN    137A,CORTIJO A,A-,9
+S16,Undergraduate,SPAN    137A,CORTIJO A,B+,7
+S16,Undergraduate,SPAN    137A,CORTIJO A,F,1
+S16,Undergraduate,SPAN    147,VILLA FERNAND,A,2
+S16,Undergraduate,SPAN    147,VILLA FERNAND,A-,5
+S16,Undergraduate,SPAN    147,VILLA FERNAND,B+,10
+S16,Undergraduate,SPAN    147,VILLA FERNAND,B,6
+S16,Undergraduate,SPAN    147,VILLA FERNAND,B-,1
+S16,Undergraduate,SPAN    147,VILLA FERNAND,C+,1
+S16,Undergraduate,SPAN    147,VILLA FERNAND,C,2
+S16,Undergraduate,SPAN    147,VILLA FERNAND,F,1
+S16,Undergraduate,SPAN    154A,ARRANZ OTAEGU,A+,4
+S16,Undergraduate,SPAN    154A,ARRANZ OTAEGU,A,6
+S16,Undergraduate,SPAN    154A,ARRANZ OTAEGU,B,6
+S16,Undergraduate,SPAN    154A,ARRANZ OTAEGU,B-,1
+S16,Undergraduate,SPAN    154A,ARRANZ OTAEGU,C,3
+S16,Undergraduate,SPAN    156,BERMUDEZ S,A+,3
+S16,Undergraduate,SPAN    156,BERMUDEZ S,A,8
+S16,Undergraduate,SPAN    156,BERMUDEZ S,A-,5
+S16,Undergraduate,SPAN    156,BERMUDEZ S,B+,3
+S16,Undergraduate,SPAN    156,BERMUDEZ S,B,2
+S16,Undergraduate,SPAN    174,MCCRACKEN E,A,2
+S16,Undergraduate,SPAN    174,MCCRACKEN E,A-,1
+S16,Undergraduate,SPAN    174,MCCRACKEN E,B+,1
+S16,Undergraduate,SPAN    174,MCCRACKEN E,B,3
+S16,Undergraduate,SPAN    174,MCCRACKEN E,B-,3
+S16,Undergraduate,SPAN    174,MCCRACKEN E,C+,2
+S16,Undergraduate,SPAN    174,MCCRACKEN E,C,1
+S16,Undergraduate,SPAN    174,MCCRACKEN E,C-,3
+S16,Undergraduate,SPAN    174,MCCRACKEN E,D,2
+S16,Undergraduate,SPAN    175,BERMUDEZ S,A+,2
+S16,Undergraduate,SPAN    175,BERMUDEZ S,A,11
+S16,Undergraduate,SPAN    175,BERMUDEZ S,A-,7
+S16,Undergraduate,SPAN    175,BERMUDEZ S,B+,3
+S16,Undergraduate,SPAN    175,BERMUDEZ S,B-,1
+S16,Undergraduate,SPAN    179,LOMELI F A,A-,5
+S16,Undergraduate,SPAN    179,LOMELI F A,B+,2
+S16,Undergraduate,SPAN    179,LOMELI F A,B,5
+S16,Undergraduate,SPAN    179,LOMELI F A,B-,2
+S16,Undergraduate,SPAN    179,LOMELI F A,C+,1
+S16,Undergraduate,SPAN    179,LOMELI F A,C,5
+S16,Undergraduate,SPAN    179,LOMELI F A,C-,1
+S16,Undergraduate,SPAN    179,LOMELI F A,D+,1
+S16,Undergraduate,SPAN    183A,ARRANZ OTAEGU,A+,2
+S16,Undergraduate,SPAN    183A,ARRANZ OTAEGU,A,12
+S16,Undergraduate,SPAN    183A,ARRANZ OTAEGU,B+,1
+S16,Undergraduate,SPAN    183A,ARRANZ OTAEGU,B,2
+S16,Undergraduate,SPAN    185,LUPI J P,A,7
+S16,Undergraduate,SPAN    185,LUPI J P,A-,2
+S16,Undergraduate,SPAN    185,LUPI J P,B+,4
+S16,Undergraduate,SPAN    185,LUPI J P,B,3
+S16,Undergraduate,SPAN    185,LUPI J P,B-,3
+S16,Undergraduate,SPAN    185,LUPI J P,C-,1
+S16,Undergraduate,SPAN    185,LUPI J P,F,1
+S16,Undergraduate,SPAN    186VM,MIGLIO V G,A+,4
+S16,Undergraduate,SPAN    186VM,MIGLIO V G,A,7
+S16,Undergraduate,SPAN    186VM,MIGLIO V G,A-,2
+S16,Undergraduate,SPAN    186VM,MIGLIO V G,B+,1
+S16,Graduate,SPAN    212,CABRANES-GRAN,A,9
+S16,Graduate,SPAN    294B,POOT-HERRERA,A+,2
+S16,Graduate,SPAN    294B,POOT-HERRERA,A,6
+S16,Graduate,SPAN    591,VILLA FERNAND,S,19

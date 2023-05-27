@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ED      176B,GERBER M M,A,13
+S10,Undergraduate,ED      176B,GERBER M M,A-,1
+S10,Undergraduate,ED      199,GERBER M M,A,11
+S10,Undergraduate,ED      199,GERBER M M,B,1
+S10,Undergraduate,ED      199RA,GERBER M M,A,21
+S10,Undergraduate,ED      199RA,GERBER M M,B,2
+S10,Undergraduate,ED      199RA,GERBER M M,B-,1
+S10,Graduate,ED      596,GERBER M M,S,5
+S10,Undergraduate,ES   1-  38A,GERSTENFELD P,P,31
+S10,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,4
+S10,Undergraduate,ES   1-  38B,GERSTENFELD P,P,38
+S10,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,3
+S10,Undergraduate,ES   1-  99,GERSTENFELD P,P,6
+S10,Undergraduate,GER       3,WADE E R,A+,1
+S10,Undergraduate,GER       3,WADE E R,A,22
+S10,Undergraduate,GER       3,WADE E R,A-,7
+S10,Undergraduate,GER       3,WADE E R,B+,1
+S10,Undergraduate,GER       3,WADE E R,B,2
+S10,Undergraduate,GER       3,WADE E R,C,3
+S10,Undergraduate,GER       3,WADE E R,F,2
+S10,Undergraduate,GER       6,WADE E R,A+,1
+S10,Undergraduate,GER       6,WADE E R,A,30
+S10,Undergraduate,GER       6,WADE E R,A-,4
+S10,Undergraduate,GER       6,WADE E R,B+,1
+S10,Undergraduate,GER       6,WADE E R,B,1
+S10,Undergraduate,GER       8C,WADE E R,A+,2
+S10,Undergraduate,GER       8C,WADE E R,A,23
+S10,Undergraduate,GER       8C,WADE E R,A-,2
+S10,Undergraduate,GER     101C,BECHER C,A+,1
+S10,Undergraduate,GER     101C,BECHER C,A,10
+S10,Undergraduate,GER     101C,BECHER C,A-,5
+S10,Undergraduate,GER     101C,BECHER C,B+,6
+S10,Undergraduate,GER     101C,BECHER C,B,2
+S10,Undergraduate,GER     101C,BECHER C,B-,1
+S10,Undergraduate,GER     101C,BECHER C,C,1
+S10,Undergraduate,GER     101C,BECHER C,C-,1
+S10,Undergraduate,GER     101C,BECHER C,D+,1
+S10,Undergraduate,GER     103,CHUN D M,A+,1
+S10,Undergraduate,GER     103,CHUN D M,A,3
+S10,Undergraduate,GER     103,CHUN D M,A-,6
+S10,Undergraduate,GER     105C,WADE E R,A+,6
+S10,Undergraduate,GER     105C,WADE E R,A,26
+S10,Undergraduate,GER     105C,WADE E R,B,2
+S10,Undergraduate,GER     107C,BECHER C,A,8
+S10,Undergraduate,GER     107C,BECHER C,A-,1
+S10,Undergraduate,GER     107C,BECHER C,B+,2
+S10,Undergraduate,MATH    108B,GERSTEIN L J,A+,2
+S10,Undergraduate,MATH    108B,GERSTEIN L J,A,4
+S10,Undergraduate,MATH    108B,GERSTEIN L J,A-,2
+S10,Undergraduate,MATH    108B,GERSTEIN L J,B+,3
+S10,Undergraduate,MATH    108B,GERSTEIN L J,B,3
+S10,Undergraduate,MATH    108B,GERSTEIN L J,B-,3
+S10,Undergraduate,MATH    108B,GERSTEIN L J,C+,1
+S10,Undergraduate,MATH    108B,GERSTEIN L J,C,1
+S10,Undergraduate,MATH    108B,GERSTEIN L J,C-,1
+S10,Undergraduate,MATH    108B,GERSTEIN L J,D+,2
+S10,Undergraduate,MATH    108B,GERSTEIN L J,D,2
+S10,Undergraduate,MATH    108B,GERSTEIN L J,D-,1
+S10,Undergraduate,MATH    108B,GERSTEIN L J,F,2
+S10,Graduate,MATH    220C,GERSTEIN L J,A,2
+S10,Graduate,MATH    220C,GERSTEIN L J,A-,1
+S10,Graduate,MATH    220C,GERSTEIN L J,B+,3
+S10,Graduate,MATH    220C,GERSTEIN L J,B,1
+S10,Undergraduate,MUS A    36,GERVAIS M M,A+,5
+S10,Undergraduate,MUS A    36,GERVAIS M M,A,2
+S10,Undergraduate,MUS A    36,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A    37,GERVAIS M M,A+,4
+S10,Undergraduate,MUS A    37,GERVAIS M M,A,10
+S10,Undergraduate,MUS A    37,GERVAIS M M,A-,2
+S10,Undergraduate,MUS A    37,GERVAIS M M,B+,2
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A+,3
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A,4
+S10,Undergraduate,MUS A    37M,GERVAIS M M,A-,4
+S10,Undergraduate,MUS A    37M,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A   136,GERVAIS M M,A+,6
+S10,Undergraduate,MUS A   136,GERVAIS M M,A,2
+S10,Undergraduate,MUS A   136,GERVAIS M M,A-,1
+S10,Undergraduate,MUS A   137,GERVAIS M M,A+,7
+S10,Undergraduate,MUS A   137,GERVAIS M M,A,3
+S10,Undergraduate,MUS A   137,GERVAIS M M,A-,2
+S10,Undergraduate,MUS A   137,GERVAIS M M,B+,1
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A+,3
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A,4
+S10,Undergraduate,MUS A   137M,GERVAIS M M,A-,3
+S10,Undergraduate,MUS A   137M,GERVAIS M M,B-,1
+S10,Graduate,MUS A   236,GERVAIS M M,A+,7
+S10,Graduate,MUS A   236,GERVAIS M M,A,3
+S10,Graduate,MUS A   236,GERVAIS M M,A-,1
+S10,Graduate,PSY     594TG,GERMAN T C M,A,7

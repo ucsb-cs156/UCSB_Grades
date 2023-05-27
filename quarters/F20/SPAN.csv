@@ -1,0 +1,188 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F20,Undergraduate,SPAN      1,CENICEROS R C,A,4
+F20,Undergraduate,SPAN      1,CENICEROS R C,A-,5
+F20,Undergraduate,SPAN      1,CENICEROS R C,B+,2
+F20,Undergraduate,SPAN      1,CENICEROS R C,B,3
+F20,Undergraduate,SPAN      1,CENICEROS R C,B-,3
+F20,Undergraduate,SPAN      1,CENICEROS R C,C+,1
+F20,Undergraduate,SPAN      1,CENICEROS R C,F,4
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,A,15
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,A-,14
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,B+,17
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,B,25
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,B-,13
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,C+,4
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,C,6
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,C-,3
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,D+,1
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,D,3
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,D-,1
+F20,Undergraduate,SPAN      1,MARQUES-PASCU,F,5
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,A,7
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,A-,6
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,B+,5
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,B,12
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,B-,9
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,C+,2
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,C,12
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,C-,3
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,D,2
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,D-,1
+F20,Undergraduate,SPAN      2,MARQUES-PASCU,F,6
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,A,8
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,A-,3
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,B+,5
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,B,9
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,B-,8
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,C+,3
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,C,6
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,D+,1
+F20,Undergraduate,SPAN      3,MARQUES-PASCU,F,3
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,A,4
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,A-,9
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,B+,9
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,B,18
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,B-,8
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,C+,3
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,C,4
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,C-,1
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,D+,1
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,D,2
+F20,Undergraduate,SPAN      4,MARQUES-PASCU,D-,1
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,A,7
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,A-,13
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,B+,7
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,B,9
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,B-,3
+F20,Undergraduate,SPAN      5,MARQUES-PASCU,C,4
+F20,Undergraduate,SPAN      6,RIAZI T,A+,3
+F20,Undergraduate,SPAN      6,RIAZI T,A,9
+F20,Undergraduate,SPAN      6,RIAZI T,A-,10
+F20,Undergraduate,SPAN      6,RIAZI T,B+,3
+F20,Undergraduate,SPAN      6,RIAZI T,B,8
+F20,Undergraduate,SPAN      6,RIAZI T,B-,2
+F20,Undergraduate,SPAN      6,RIAZI T,C+,3
+F20,Undergraduate,SPAN      6,RIAZI T,C,3
+F20,Undergraduate,SPAN      6,RIAZI T,C-,1
+F20,Undergraduate,SPAN      6,RIAZI T,D,2
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,A,11
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,A-,9
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,B+,6
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,B,5
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,B-,3
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,C+,3
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,C,1
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,D+,1
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,D-,1
+F20,Undergraduate,SPAN     16A,GUYTON ACOSTA,F,2
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,A,3
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,A-,6
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,B+,3
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,B,4
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,B-,2
+F20,Undergraduate,SPAN     16A,MARQUES-PASCU,F,1
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,A+,1
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,A,20
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,A-,7
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,B+,3
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,B,6
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,C,2
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,D+,1
+F20,Undergraduate,SPAN     16B,GONZALES-SMIT,F,1
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,A,4
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,A-,10
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,B+,4
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,B,10
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,B-,4
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,C+,4
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,C,4
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,C-,1
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,D+,1
+F20,Undergraduate,SPAN     25,MARQUES-PASCU,F,1
+F20,Undergraduate,SPAN     30,LUPI J P,A,14
+F20,Undergraduate,SPAN     30,LUPI J P,A-,14
+F20,Undergraduate,SPAN     30,LUPI J P,B+,8
+F20,Undergraduate,SPAN     30,LUPI J P,B,6
+F20,Undergraduate,SPAN     30,LUPI J P,B-,4
+F20,Undergraduate,SPAN     30,LUPI J P,C+,3
+F20,Undergraduate,SPAN    100,ALVES FERREIR,A+,5
+F20,Undergraduate,SPAN    100,ALVES FERREIR,A,17
+F20,Undergraduate,SPAN    100,ALVES FERREIR,A-,21
+F20,Undergraduate,SPAN    100,ALVES FERREIR,B+,3
+F20,Undergraduate,SPAN    100,ALVES FERREIR,B,2
+F20,Undergraduate,SPAN    100,ALVES FERREIR,C,3
+F20,Undergraduate,SPAN    100,ALVES FERREIR,C-,2
+F20,Undergraduate,SPAN    100,ALVES FERREIR,F,2
+F20,Undergraduate,SPAN    110C,BERMUDEZ S,A+,5
+F20,Undergraduate,SPAN    110C,BERMUDEZ S,A,6
+F20,Undergraduate,SPAN    111A,POOT-HERRERA,A,3
+F20,Undergraduate,SPAN    111A,POOT-HERRERA,A-,3
+F20,Undergraduate,SPAN    111A,POOT-HERRERA,B+,1
+F20,Undergraduate,SPAN    111A,POOT-HERRERA,C+,1
+F20,Undergraduate,SPAN    115,MIGLIO V G,A+,8
+F20,Undergraduate,SPAN    115,MIGLIO V G,A,9
+F20,Undergraduate,SPAN    115,MIGLIO V G,A-,5
+F20,Undergraduate,SPAN    115,MIGLIO V G,B+,3
+F20,Undergraduate,SPAN    115,MIGLIO V G,B,5
+F20,Undergraduate,SPAN    115,MIGLIO V G,C,1
+F20,Undergraduate,SPAN    130,CASTILLO J L,A+,1
+F20,Undergraduate,SPAN    130,CASTILLO J L,A,5
+F20,Undergraduate,SPAN    130,CASTILLO J L,A-,10
+F20,Undergraduate,SPAN    130,CASTILLO J L,B+,1
+F20,Undergraduate,SPAN    130,CASTILLO J L,B,3
+F20,Undergraduate,SPAN    130,CASTILLO J L,B-,1
+F20,Undergraduate,SPAN    130,CASTILLO J L,C,2
+F20,Undergraduate,SPAN    130,CASTILLO J L,F,2
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,A,6
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,A-,9
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,B+,7
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,B,7
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,B-,6
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,C+,8
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,C,6
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,C-,2
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,D+,2
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,D,6
+F20,Undergraduate,SPAN    139E,MCCRACKEN E,F,4
+F20,Undergraduate,SPAN    140A,CORTIJO A,A+,1
+F20,Undergraduate,SPAN    140A,CORTIJO A,A,11
+F20,Undergraduate,SPAN    140A,CORTIJO A,A-,1
+F20,Undergraduate,SPAN    140A,CORTIJO A,B+,2
+F20,Undergraduate,SPAN    140A,CORTIJO A,F,2
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,A+,6
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,A,9
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,A-,6
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,B+,5
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,C,2
+F20,Undergraduate,SPAN    153E,EZKERRA VEGAS,F,1
+F20,Undergraduate,SPAN    154A,EZKERRA VEGAS,A+,17
+F20,Undergraduate,SPAN    154A,EZKERRA VEGAS,A,4
+F20,Undergraduate,SPAN    154A,EZKERRA VEGAS,B+,1
+F20,Undergraduate,SPAN    154A,EZKERRA VEGAS,C+,1
+F20,Undergraduate,SPAN    175,BERMUDEZ S,A+,9
+F20,Undergraduate,SPAN    175,BERMUDEZ S,A,7
+F20,Undergraduate,SPAN    175,BERMUDEZ S,A-,2
+F20,Undergraduate,SPAN    185,LUPI J P,A+,1
+F20,Undergraduate,SPAN    185,LUPI J P,A,5
+F20,Undergraduate,SPAN    185,LUPI J P,A-,7
+F20,Undergraduate,SPAN    185,LUPI J P,B+,3
+F20,Undergraduate,SPAN    185,LUPI J P,B,1
+F20,Undergraduate,SPAN    185,LUPI J P,C,1
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,A+,3
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,A,2
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,A-,5
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,B+,1
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,B-,2
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,C+,1
+F20,Undergraduate,SPAN    186BI,ALVES FERREIR,F,2
+F20,Undergraduate,SPAN    186VM,MIGLIO V G,A+,10
+F20,Undergraduate,SPAN    186VM,MIGLIO V G,A,17
+F20,Undergraduate,SPAN    186VM,MIGLIO V G,A-,2
+F20,Undergraduate,SPAN    186VM,MIGLIO V G,D,1
+F20,Undergraduate,SPAN    186VM,MIGLIO V G,F,2
+F20,Graduate,SPAN    295A,GRASSET MOREL,A,4
+F20,Graduate,SPAN    295A,GRASSET MOREL,F,1
+F20,Graduate,SPAN    590,MARQUES-PASCU,A+,1
+F20,Graduate,SPAN    590,MARQUES-PASCU,A,4
+F20,Graduate,SPAN    590,MARQUES-PASCU,B+,1
+F20,Graduate,SPAN    591,MARQUES-PASCU,S,20

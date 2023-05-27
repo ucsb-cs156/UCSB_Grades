@@ -1,0 +1,578 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,A+,11
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,A,40
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,A-,27
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,B+,50
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,B,63
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,B-,41
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,C+,72
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,C,104
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,C-,42
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,D,43
+W19,Undergraduate,MCDB      1B,FINKELSTEIN R,F,33
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,A+,17
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,A,56
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,A-,52
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,B+,18
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,B,54
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,B-,26
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,C+,17
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,C,20
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,C-,6
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,D,6
+W19,Undergraduate,MCDB      1B,GONZALEZ NINO,F,6
+W19,Undergraduate,MCDB      1B,LOW S H,A+,11
+W19,Undergraduate,MCDB      1B,LOW S H,A,40
+W19,Undergraduate,MCDB      1B,LOW S H,A-,27
+W19,Undergraduate,MCDB      1B,LOW S H,B+,50
+W19,Undergraduate,MCDB      1B,LOW S H,B,63
+W19,Undergraduate,MCDB      1B,LOW S H,B-,41
+W19,Undergraduate,MCDB      1B,LOW S H,C+,72
+W19,Undergraduate,MCDB      1B,LOW S H,C,104
+W19,Undergraduate,MCDB      1B,LOW S H,C-,42
+W19,Undergraduate,MCDB      1B,LOW S H,D,43
+W19,Undergraduate,MCDB      1B,LOW S H,F,33
+W19,Undergraduate,MCDB      1B,NGUYEN A T,A+,11
+W19,Undergraduate,MCDB      1B,NGUYEN A T,A,40
+W19,Undergraduate,MCDB      1B,NGUYEN A T,A-,27
+W19,Undergraduate,MCDB      1B,NGUYEN A T,B+,50
+W19,Undergraduate,MCDB      1B,NGUYEN A T,B,63
+W19,Undergraduate,MCDB      1B,NGUYEN A T,B-,41
+W19,Undergraduate,MCDB      1B,NGUYEN A T,C+,72
+W19,Undergraduate,MCDB      1B,NGUYEN A T,C,104
+W19,Undergraduate,MCDB      1B,NGUYEN A T,C-,42
+W19,Undergraduate,MCDB      1B,NGUYEN A T,D,43
+W19,Undergraduate,MCDB      1B,NGUYEN A T,F,33
+W19,Undergraduate,MCDB      1B,WILTON M B,A+,17
+W19,Undergraduate,MCDB      1B,WILTON M B,A,56
+W19,Undergraduate,MCDB      1B,WILTON M B,A-,52
+W19,Undergraduate,MCDB      1B,WILTON M B,B+,18
+W19,Undergraduate,MCDB      1B,WILTON M B,B,54
+W19,Undergraduate,MCDB      1B,WILTON M B,B-,26
+W19,Undergraduate,MCDB      1B,WILTON M B,C+,17
+W19,Undergraduate,MCDB      1B,WILTON M B,C,20
+W19,Undergraduate,MCDB      1B,WILTON M B,C-,6
+W19,Undergraduate,MCDB      1B,WILTON M B,D,6
+W19,Undergraduate,MCDB      1B,WILTON M B,F,6
+W19,Undergraduate,MCDB      1BL,CEDENO T H,A,3
+W19,Undergraduate,MCDB      1BL,CEDENO T H,A-,2
+W19,Undergraduate,MCDB      1BL,CEDENO T H,B+,5
+W19,Undergraduate,MCDB      1BL,CEDENO T H,B,6
+W19,Undergraduate,MCDB      1BL,CEDENO T H,C-,1
+W19,Undergraduate,MCDB      1BL,CEDENO T H,D,1
+W19,Undergraduate,MCDB      1BL,CHICK B Y,A,3
+W19,Undergraduate,MCDB      1BL,CHICK B Y,A-,3
+W19,Undergraduate,MCDB      1BL,CHICK B Y,B+,6
+W19,Undergraduate,MCDB      1BL,CHICK B Y,B,5
+W19,Undergraduate,MCDB      1BL,CHICK B Y,C+,1
+W19,Undergraduate,MCDB      1BL,CHUNG J,A,1
+W19,Undergraduate,MCDB      1BL,CHUNG J,A-,2
+W19,Undergraduate,MCDB      1BL,CHUNG J,B+,3
+W19,Undergraduate,MCDB      1BL,CHUNG J,B,11
+W19,Undergraduate,MCDB      1BL,CHUNG J,C+,1
+W19,Undergraduate,MCDB      1BL,CHUNG J,C,1
+W19,Undergraduate,MCDB      1BL,CULHANE K E,A,6
+W19,Undergraduate,MCDB      1BL,CULHANE K E,A-,7
+W19,Undergraduate,MCDB      1BL,CULHANE K E,B+,7
+W19,Undergraduate,MCDB      1BL,CULHANE K E,B,2
+W19,Undergraduate,MCDB      1BL,CULHANE K E,B-,1
+W19,Undergraduate,MCDB      1BL,CULHANE K E,C+,1
+W19,Undergraduate,MCDB      1BL,EMERY K A,A+,1
+W19,Undergraduate,MCDB      1BL,EMERY K A,A,3
+W19,Undergraduate,MCDB      1BL,EMERY K A,A-,3
+W19,Undergraduate,MCDB      1BL,EMERY K A,B+,11
+W19,Undergraduate,MCDB      1BL,EMERY K A,B,11
+W19,Undergraduate,MCDB      1BL,EMERY K A,B-,2
+W19,Undergraduate,MCDB      1BL,EMERY K A,C+,2
+W19,Undergraduate,MCDB      1BL,KLOPE M M,A,1
+W19,Undergraduate,MCDB      1BL,KLOPE M M,A-,2
+W19,Undergraduate,MCDB      1BL,KLOPE M M,B+,6
+W19,Undergraduate,MCDB      1BL,KLOPE M M,B,6
+W19,Undergraduate,MCDB      1BL,KLOPE M M,B-,1
+W19,Undergraduate,MCDB      1BL,KLOPE M M,C+,1
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,A,4
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,A-,7
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,B+,7
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,B,5
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,B-,2
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,C+,2
+W19,Undergraduate,MCDB      1BL,KONTTINEN O R,C,1
+W19,Undergraduate,MCDB      1BL,LADD M C,A,8
+W19,Undergraduate,MCDB      1BL,LADD M C,A-,6
+W19,Undergraduate,MCDB      1BL,LADD M C,B+,7
+W19,Undergraduate,MCDB      1BL,LADD M C,B,11
+W19,Undergraduate,MCDB      1BL,LADD M C,C+,1
+W19,Undergraduate,MCDB      1BL,LADD M C,C,2
+W19,Undergraduate,MCDB      1BL,LADD T M,A+,1
+W19,Undergraduate,MCDB      1BL,LADD T M,A,4
+W19,Undergraduate,MCDB      1BL,LADD T M,A-,3
+W19,Undergraduate,MCDB      1BL,LADD T M,B+,2
+W19,Undergraduate,MCDB      1BL,LADD T M,B,6
+W19,Undergraduate,MCDB      1BL,LADD T M,B-,2
+W19,Undergraduate,MCDB      1BL,LADD T M,C+,1
+W19,Undergraduate,MCDB      1BL,LADD T M,C,1
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,A,3
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,A-,1
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,B+,8
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,B,8
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,B-,2
+W19,Undergraduate,MCDB      1BL,LAPERRIERE S,C+,3
+W19,Undergraduate,MCDB      1BL,MADEJSKA A A,A,1
+W19,Undergraduate,MCDB      1BL,MADEJSKA A A,A-,1
+W19,Undergraduate,MCDB      1BL,MADEJSKA A A,B+,7
+W19,Undergraduate,MCDB      1BL,MADEJSKA A A,B,8
+W19,Undergraduate,MCDB      1BL,MADEJSKA A A,B-,3
+W19,Undergraduate,MCDB      1BL,MANISCALCO M,A,5
+W19,Undergraduate,MCDB      1BL,MANISCALCO M,A-,2
+W19,Undergraduate,MCDB      1BL,MANISCALCO M,B+,3
+W19,Undergraduate,MCDB      1BL,MANISCALCO M,B,5
+W19,Undergraduate,MCDB      1BL,MANISCALCO M,B-,1
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,A,1
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,B+,3
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,B,8
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,B-,3
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,C,1
+W19,Undergraduate,MCDB      1BL,MIRSAFAVI R Y,F,1
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,A+,4
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,A,54
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,A-,61
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,B+,102
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,B,123
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,B-,27
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,C+,15
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,C,12
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,C-,3
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,D,3
+W19,Undergraduate,MCDB      1BL,NGUYEN A T,F,2
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,A,2
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,A-,9
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,B+,8
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,B,6
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,B-,2
+W19,Undergraduate,MCDB      1BL,ORELLANA C J,C,1
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,A+,1
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,A,3
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,A-,2
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,B+,3
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,B,5
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,B-,2
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,D,1
+W19,Undergraduate,MCDB      1BL,PICCIANI DE S,F,1
+W19,Undergraduate,MCDB      1BL,SINGH S,A,1
+W19,Undergraduate,MCDB      1BL,SINGH S,A-,4
+W19,Undergraduate,MCDB      1BL,SINGH S,B+,3
+W19,Undergraduate,MCDB      1BL,SINGH S,B,7
+W19,Undergraduate,MCDB      1BL,SINGH S,B-,2
+W19,Undergraduate,MCDB      1BL,SINGH S,C,3
+W19,Undergraduate,MCDB      1BL,SINGH S,C-,1
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,A-,3
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,B+,6
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,B,7
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,B-,2
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,C+,2
+W19,Undergraduate,MCDB      1BL,VANDER ZEE D,C,1
+W19,Undergraduate,MCDB      1BL,WILSON S K,A+,1
+W19,Undergraduate,MCDB      1BL,WILSON S K,A,5
+W19,Undergraduate,MCDB      1BL,WILSON S K,A-,4
+W19,Undergraduate,MCDB      1BL,WILSON S K,B+,7
+W19,Undergraduate,MCDB      1BL,WILSON S K,B,6
+W19,Undergraduate,MCDB      1BL,WILSON S K,B-,2
+W19,Undergraduate,MCDB      1BL,WILSON S K,C,1
+W19,Undergraduate,MCDB      1BL,WILSON S K,C-,1
+W19,Undergraduate,MCDB      1BL,WILSON S K,D,1
+W19,Undergraduate,MCDB      1BZ,FINKELSTEIN R,P,5
+W19,Undergraduate,MCDB      1BZ,FINKELSTEIN R,NP,2
+W19,Undergraduate,MCDB      1BZ,LOW S H,P,5
+W19,Undergraduate,MCDB      1BZ,LOW S H,NP,2
+W19,Undergraduate,MCDB      1BZ,NGUYEN A T,P,5
+W19,Undergraduate,MCDB      1BZ,NGUYEN A T,NP,2
+W19,Undergraduate,MCDB     12,GONZALEZ NINO,P,104
+W19,Undergraduate,MCDB     12,KULESH B,P,104
+W19,Undergraduate,MCDB     12,WILTON M B,P,104
+W19,Undergraduate,MCDB     20,LOW S H,A+,2
+W19,Undergraduate,MCDB     20,LOW S H,A,6
+W19,Undergraduate,MCDB     20,LOW S H,A-,8
+W19,Undergraduate,MCDB     20,LOW S H,B+,7
+W19,Undergraduate,MCDB     20,LOW S H,B,14
+W19,Undergraduate,MCDB     20,LOW S H,B-,12
+W19,Undergraduate,MCDB     20,LOW S H,C+,14
+W19,Undergraduate,MCDB     20,LOW S H,C,9
+W19,Undergraduate,MCDB     20,LOW S H,C-,5
+W19,Undergraduate,MCDB     20,LOW S H,D,9
+W19,Undergraduate,MCDB     20,LOW S H,F,11
+W19,Undergraduate,MCDB     92,GONZALEZ NINO,A,20
+W19,Undergraduate,MCDB     98,ORIAS E,P,1
+W19,Undergraduate,MCDB     99,DAHLQUIST F W,P,1
+W19,Undergraduate,MCDB     99,FOLTZ K R,P,1
+W19,Undergraduate,MCDB     99,GOARD M,P,1
+W19,Undergraduate,MCDB     99,KOSIK K S,P,2
+W19,Undergraduate,MCDB     99,MA D,P,2
+W19,Undergraduate,MCDB     99,MONTELL D J,P,1
+W19,Undergraduate,MCDB     99,MORSE D E,P,1
+W19,Undergraduate,MCDB     99,ROTHMAN J H,F,1
+W19,Undergraduate,MCDB     99,ROTHMAN J H,P,1
+W19,Undergraduate,MCDB     99,WEIMBS T,P,1
+W19,Undergraduate,MCDB     99,WILSON M Z,P,1
+W19,Undergraduate,MCDB    101A,LOW D A,A+,8
+W19,Undergraduate,MCDB    101A,LOW D A,A,15
+W19,Undergraduate,MCDB    101A,LOW D A,A-,22
+W19,Undergraduate,MCDB    101A,LOW D A,B+,24
+W19,Undergraduate,MCDB    101A,LOW D A,B,24
+W19,Undergraduate,MCDB    101A,LOW D A,B-,36
+W19,Undergraduate,MCDB    101A,LOW D A,C+,21
+W19,Undergraduate,MCDB    101A,LOW D A,C,27
+W19,Undergraduate,MCDB    101A,LOW D A,C-,9
+W19,Undergraduate,MCDB    101A,LOW D A,D+,7
+W19,Undergraduate,MCDB    101A,LOW D A,D,7
+W19,Undergraduate,MCDB    101A,LOW D A,D-,5
+W19,Undergraduate,MCDB    101A,LOW D A,F,11
+W19,Undergraduate,MCDB    101AH,LOW D A,A,13
+W19,Undergraduate,MCDB    101B,SIMPSON J H,A+,3
+W19,Undergraduate,MCDB    101B,SIMPSON J H,A,55
+W19,Undergraduate,MCDB    101B,SIMPSON J H,A-,22
+W19,Undergraduate,MCDB    101B,SIMPSON J H,B+,31
+W19,Undergraduate,MCDB    101B,SIMPSON J H,B,48
+W19,Undergraduate,MCDB    101B,SIMPSON J H,B-,17
+W19,Undergraduate,MCDB    101B,SIMPSON J H,C+,23
+W19,Undergraduate,MCDB    101B,SIMPSON J H,C,26
+W19,Undergraduate,MCDB    101B,SIMPSON J H,C-,25
+W19,Undergraduate,MCDB    101B,SIMPSON J H,D,2
+W19,Undergraduate,MCDB    101B,SIMPSON J H,F,2
+W19,Undergraduate,MCDB    101BH,SIMPSON J H,A,22
+W19,Undergraduate,MCDB    103L,KHAIRALLAH S,A,1
+W19,Undergraduate,MCDB    103L,KHAIRALLAH S,A-,4
+W19,Undergraduate,MCDB    103L,KHAIRALLAH S,B+,3
+W19,Undergraduate,MCDB    103L,KHAIRALLAH S,B-,2
+W19,Undergraduate,MCDB    103L,KHAIRALLAH S,C+,1
+W19,Undergraduate,MCDB    103L,WEIMBS T,A+,3
+W19,Undergraduate,MCDB    103L,WEIMBS T,A,9
+W19,Undergraduate,MCDB    103L,WEIMBS T,A-,7
+W19,Undergraduate,MCDB    103L,WEIMBS T,B+,2
+W19,Undergraduate,MCDB    103L,WEIMBS T,B,4
+W19,Undergraduate,MCDB    103L,WEIMBS T,B-,2
+W19,Undergraduate,MCDB    103L,WEIMBS T,C,2
+W19,Undergraduate,MCDB    103L,WEIMBS T,D,1
+W19,Undergraduate,MCDB    108B,LEW G J,A,26
+W19,Undergraduate,MCDB    108B,LEW G J,A-,30
+W19,Undergraduate,MCDB    108B,LEW G J,B+,34
+W19,Undergraduate,MCDB    108B,LEW G J,B,34
+W19,Undergraduate,MCDB    108B,LEW G J,B-,25
+W19,Undergraduate,MCDB    108B,LEW G J,C+,16
+W19,Undergraduate,MCDB    108B,LEW G J,C,14
+W19,Undergraduate,MCDB    108B,LEW G J,C-,13
+W19,Undergraduate,MCDB    108B,LEW G J,D,8
+W19,Undergraduate,MCDB    108B,LEW G J,F,4
+W19,Undergraduate,MCDB    110,ROTHMAN J H,A+,3
+W19,Undergraduate,MCDB    110,ROTHMAN J H,A,28
+W19,Undergraduate,MCDB    110,ROTHMAN J H,A-,15
+W19,Undergraduate,MCDB    110,ROTHMAN J H,B+,18
+W19,Undergraduate,MCDB    110,ROTHMAN J H,B,25
+W19,Undergraduate,MCDB    110,ROTHMAN J H,B-,25
+W19,Undergraduate,MCDB    110,ROTHMAN J H,C+,9
+W19,Undergraduate,MCDB    110,ROTHMAN J H,C,30
+W19,Undergraduate,MCDB    110,ROTHMAN J H,C-,20
+W19,Undergraduate,MCDB    110,ROTHMAN J H,D+,6
+W19,Undergraduate,MCDB    110,ROTHMAN J H,D,11
+W19,Undergraduate,MCDB    110,ROTHMAN J H,F,4
+W19,Undergraduate,MCDB    112,FOLTZ K R,A+,1
+W19,Undergraduate,MCDB    112,FOLTZ K R,A,70
+W19,Undergraduate,MCDB    112,FOLTZ K R,A-,11
+W19,Undergraduate,MCDB    112,FOLTZ K R,B+,12
+W19,Undergraduate,MCDB    112,FOLTZ K R,B,69
+W19,Undergraduate,MCDB    112,FOLTZ K R,B-,11
+W19,Undergraduate,MCDB    112,FOLTZ K R,C+,12
+W19,Undergraduate,MCDB    112,FOLTZ K R,C,34
+W19,Undergraduate,MCDB    112,FOLTZ K R,C-,9
+W19,Undergraduate,MCDB    112,FOLTZ K R,F,2
+W19,Undergraduate,MCDB    112H,FOLTZ K R,A+,1
+W19,Undergraduate,MCDB    112H,FOLTZ K R,A,23
+W19,Undergraduate,MCDB    112L,ACKLEY C R,A+,1
+W19,Undergraduate,MCDB    112L,ACKLEY C R,A,26
+W19,Undergraduate,MCDB    112L,ACKLEY C R,A-,1
+W19,Undergraduate,MCDB    112L,ACKLEY C R,B+,1
+W19,Undergraduate,MCDB    112L,ACKLEY C R,B,1
+W19,Undergraduate,MCDB    112L,DE TOMASO A W,A+,1
+W19,Undergraduate,MCDB    112L,DE TOMASO A W,A,55
+W19,Undergraduate,MCDB    112L,DE TOMASO A W,A-,2
+W19,Undergraduate,MCDB    112L,DE TOMASO A W,B+,1
+W19,Undergraduate,MCDB    112L,DE TOMASO A W,B,1
+W19,Undergraduate,MCDB    112L,FOLTZ K R,A+,1
+W19,Undergraduate,MCDB    112L,FOLTZ K R,A,55
+W19,Undergraduate,MCDB    112L,FOLTZ K R,A-,2
+W19,Undergraduate,MCDB    112L,FOLTZ K R,B+,1
+W19,Undergraduate,MCDB    112L,FOLTZ K R,B,1
+W19,Undergraduate,MCDB    112L,SPICKARD E A,A,29
+W19,Undergraduate,MCDB    112L,SPICKARD E A,A-,1
+W19,Undergraduate,MCDB    123,WAITE J H,A,1
+W19,Undergraduate,MCDB    123,WAITE J H,A-,10
+W19,Undergraduate,MCDB    123,WAITE J H,B+,16
+W19,Undergraduate,MCDB    123,WAITE J H,B,11
+W19,Undergraduate,MCDB    123,WAITE J H,B-,6
+W19,Undergraduate,MCDB    123,WAITE J H,C+,1
+W19,Undergraduate,MCDB    123,WAITE J H,C,3
+W19,Undergraduate,MCDB    123,WAITE J H,D+,1
+W19,Undergraduate,MCDB    123,WAITE J H,F,2
+W19,Undergraduate,MCDB    126B,MARTH J D,A+,4
+W19,Undergraduate,MCDB    126B,MARTH J D,A,11
+W19,Undergraduate,MCDB    126B,MARTH J D,B+,8
+W19,Undergraduate,MCDB    126B,MARTH J D,B,5
+W19,Undergraduate,MCDB    126B,MARTH J D,B-,1
+W19,Undergraduate,MCDB    126B,MARTH J D,C+,5
+W19,Undergraduate,MCDB    126B,MARTH J D,C,1
+W19,Undergraduate,MCDB    126B,MARTH J D,C-,4
+W19,Undergraduate,MCDB    126B,MARTH J D,D,1
+W19,Undergraduate,MCDB    126B,MARTH J D,D-,1
+W19,Undergraduate,MCDB    126B,PARSONS S M,A+,4
+W19,Undergraduate,MCDB    126B,PARSONS S M,A,11
+W19,Undergraduate,MCDB    126B,PARSONS S M,B+,8
+W19,Undergraduate,MCDB    126B,PARSONS S M,B,5
+W19,Undergraduate,MCDB    126B,PARSONS S M,B-,1
+W19,Undergraduate,MCDB    126B,PARSONS S M,C+,5
+W19,Undergraduate,MCDB    126B,PARSONS S M,C,1
+W19,Undergraduate,MCDB    126B,PARSONS S M,C-,4
+W19,Undergraduate,MCDB    126B,PARSONS S M,D,1
+W19,Undergraduate,MCDB    126B,PARSONS S M,D-,1
+W19,Undergraduate,MCDB    126B,THROWER D A,A+,4
+W19,Undergraduate,MCDB    126B,THROWER D A,A,11
+W19,Undergraduate,MCDB    126B,THROWER D A,B+,8
+W19,Undergraduate,MCDB    126B,THROWER D A,B,5
+W19,Undergraduate,MCDB    126B,THROWER D A,B-,1
+W19,Undergraduate,MCDB    126B,THROWER D A,C+,5
+W19,Undergraduate,MCDB    126B,THROWER D A,C,1
+W19,Undergraduate,MCDB    126B,THROWER D A,C-,4
+W19,Undergraduate,MCDB    126B,THROWER D A,D,1
+W19,Undergraduate,MCDB    126B,THROWER D A,D-,1
+W19,Undergraduate,MCDB    126BL,DOYLE T,A+,2
+W19,Undergraduate,MCDB    126BL,DOYLE T,A,10
+W19,Undergraduate,MCDB    126BL,DOYLE T,A-,7
+W19,Undergraduate,MCDB    126BL,DOYLE T,B,3
+W19,Undergraduate,MCDB    126BL,DOYLE T,B-,1
+W19,Undergraduate,MCDB    126BL,DOYLE T,C,1
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,A+,2
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,A,10
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,A-,7
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,B,3
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,B-,1
+W19,Undergraduate,MCDB    126BL,KOPPERMAN A J,C,1
+W19,Undergraduate,MCDB    126BL,STOYAN T,A+,2
+W19,Undergraduate,MCDB    126BL,STOYAN T,A,10
+W19,Undergraduate,MCDB    126BL,STOYAN T,A-,7
+W19,Undergraduate,MCDB    126BL,STOYAN T,B,3
+W19,Undergraduate,MCDB    126BL,STOYAN T,B-,1
+W19,Undergraduate,MCDB    126BL,STOYAN T,C,1
+W19,Undergraduate,MCDB    126BL,THROWER D A,A+,2
+W19,Undergraduate,MCDB    126BL,THROWER D A,A,10
+W19,Undergraduate,MCDB    126BL,THROWER D A,A-,7
+W19,Undergraduate,MCDB    126BL,THROWER D A,B,3
+W19,Undergraduate,MCDB    126BL,THROWER D A,B-,1
+W19,Undergraduate,MCDB    126BL,THROWER D A,C,1
+W19,Undergraduate,MCDB    132,MAHAN M J,A+,1
+W19,Undergraduate,MCDB    132,MAHAN M J,A,5
+W19,Undergraduate,MCDB    132,MAHAN M J,A-,8
+W19,Undergraduate,MCDB    132,MAHAN M J,B+,5
+W19,Undergraduate,MCDB    132,MAHAN M J,B,10
+W19,Undergraduate,MCDB    132,MAHAN M J,B-,8
+W19,Undergraduate,MCDB    132,MAHAN M J,C+,12
+W19,Undergraduate,MCDB    132,MAHAN M J,C,11
+W19,Undergraduate,MCDB    132,MAHAN M J,C-,3
+W19,Undergraduate,MCDB    132,MAHAN M J,D,1
+W19,Undergraduate,MCDB    132L,MAHAN M J,A,9
+W19,Undergraduate,MCDB    132L,MAHAN M J,A-,7
+W19,Undergraduate,MCDB    132L,MAHAN M J,B+,3
+W19,Undergraduate,MCDB    132L,MAHAN M J,B,13
+W19,Undergraduate,MCDB    132L,MAHAN M J,B-,2
+W19,Undergraduate,MCDB    132L,MAHAN M J,C+,3
+W19,Undergraduate,MCDB    132L,MAHAN M J,C,1
+W19,Undergraduate,MCDB    133,DE TOMASO A W,A+,1
+W19,Undergraduate,MCDB    133,DE TOMASO A W,A,29
+W19,Undergraduate,MCDB    133,DE TOMASO A W,A-,8
+W19,Undergraduate,MCDB    133,DE TOMASO A W,B+,13
+W19,Undergraduate,MCDB    133,DE TOMASO A W,B,24
+W19,Undergraduate,MCDB    133,DE TOMASO A W,B-,5
+W19,Undergraduate,MCDB    133,DE TOMASO A W,C+,2
+W19,Undergraduate,MCDB    133,DE TOMASO A W,C,15
+W19,Undergraduate,MCDB    133,DE TOMASO A W,C-,5
+W19,Undergraduate,MCDB    133,DE TOMASO A W,D,7
+W19,Undergraduate,MCDB    133,DE TOMASO A W,F,7
+W19,Undergraduate,MCDB    133H,DE TOMASO A W,A,6
+W19,Undergraduate,MCDB    136H,SAMUEL C E,A,12
+W19,Undergraduate,MCDB    136H,SAMUEL C E,A-,3
+W19,Undergraduate,MCDB    152,KOSIK K S,A+,1
+W19,Undergraduate,MCDB    152,KOSIK K S,A,5
+W19,Undergraduate,MCDB    152,KOSIK K S,A-,3
+W19,Undergraduate,MCDB    152,KOSIK K S,B,1
+W19,Undergraduate,MCDB    152,KOSIK K S,B-,2
+W19,Undergraduate,MCDB    152,KOSIK K S,C,1
+W19,Undergraduate,MCDB    152,MONTELL C,A+,1
+W19,Undergraduate,MCDB    152,MONTELL C,A,5
+W19,Undergraduate,MCDB    152,MONTELL C,A-,3
+W19,Undergraduate,MCDB    152,MONTELL C,B,1
+W19,Undergraduate,MCDB    152,MONTELL C,B-,2
+W19,Undergraduate,MCDB    152,MONTELL C,C,1
+W19,Undergraduate,MCDB    183,FOLTZ K R,P,4
+W19,Undergraduate,MCDB    183,GONZALEZ NINO,P,1
+W19,Undergraduate,MCDB    183,WEIMBS T,P,2
+W19,Undergraduate,MCDB    183,WILTON M B,P,20
+W19,Undergraduate,MCDB    184,CHRISTOFFERSE,P,10
+W19,Undergraduate,MCDB    184,KIPPIN T E,P,1
+W19,Undergraduate,MCDB    184,LOUIS M R,P,2
+W19,Undergraduate,MCDB    184,MA D,P,2
+W19,Undergraduate,MCDB    184,MONTELL D J,P,1
+W19,Undergraduate,MCDB    184,OONO R,P,1
+W19,Undergraduate,MCDB    184,SAFINYA C R,P,1
+W19,Undergraduate,MCDB    184,SIMPSON J H,P,1
+W19,Undergraduate,MCDB    184,SMITH W,P,2
+W19,Undergraduate,MCDB    184,WEIMBS T,P,7
+W19,Undergraduate,MCDB    188,FINKELSTEIN R,A,2
+W19,Undergraduate,MCDB    194KF,FOLTZ K R,A+,1
+W19,Undergraduate,MCDB    194KF,FOLTZ K R,A,7
+W19,Undergraduate,MCDB    194MR,LOPEZ B J,P,10
+W19,Undergraduate,MCDB    194MR,LOPEZ B J,NP,2
+W19,Undergraduate,MCDB    197,ACOSTA-ALVEAR,A+,1
+W19,Undergraduate,MCDB    197,ARIAS GONZALE,A,1
+W19,Undergraduate,MCDB    197,DAHLQUIST F W,A,1
+W19,Undergraduate,MCDB    197,MA D,A,4
+W19,Undergraduate,MCDB    197,MONTELL C,A,1
+W19,Undergraduate,MCDB    197,MONTELL D J,A,1
+W19,Undergraduate,MCDB    197,MORSE D E,A-,1
+W19,Undergraduate,MCDB    197,WEIMBS T,A,1
+W19,Undergraduate,MCDB    198,ORIAS E,A,1
+W19,Undergraduate,MCDB    198,WEIMBS T,A,2
+W19,Undergraduate,MCDB    199,ACOSTA-ALVEAR,A+,3
+W19,Undergraduate,MCDB    199,ARIAS GONZALE,A+,1
+W19,Undergraduate,MCDB    199,ARIAS GONZALE,A,3
+W19,Undergraduate,MCDB    199,CHRISTOFFERSE,A,3
+W19,Undergraduate,MCDB    199,CLEGG D O,A,4
+W19,Undergraduate,MCDB    199,DAHLQUIST F W,A,2
+W19,Undergraduate,MCDB    199,DE TOMASO A W,A,5
+W19,Undergraduate,MCDB    199,DOYLE A M,A,2
+W19,Undergraduate,MCDB    199,ELIASON PARSO,A+,1
+W19,Undergraduate,MCDB    199,FEINSTEIN S C,A,2
+W19,Undergraduate,MCDB    199,FINKELSTEIN R,A,5
+W19,Undergraduate,MCDB    199,FISHER S K,A+,1
+W19,Undergraduate,MCDB    199,FOLTZ K R,A,1
+W19,Undergraduate,MCDB    199,GOARD M,A,1
+W19,Undergraduate,MCDB    199,HAYES C S,A,1
+W19,Undergraduate,MCDB    199,KOSIK K S,A,2
+W19,Undergraduate,MCDB    199,LEW G J,A,2
+W19,Undergraduate,MCDB    199,LOUIS M R,A+,2
+W19,Undergraduate,MCDB    199,LOUIS M R,A,1
+W19,Undergraduate,MCDB    199,LOW D A,A+,1
+W19,Undergraduate,MCDB    199,MA D,A+,2
+W19,Undergraduate,MCDB    199,MA D,A,6
+W19,Undergraduate,MCDB    199,MONTELL C,A,13
+W19,Undergraduate,MCDB    199,MONTELL C,A-,1
+W19,Undergraduate,MCDB    199,MONTELL C,B,1
+W19,Undergraduate,MCDB    199,MONTELL D J,A,9
+W19,Undergraduate,MCDB    199,MONTELL D J,A-,1
+W19,Undergraduate,MCDB    199,MORSE D E,A+,1
+W19,Undergraduate,MCDB    199,MORSE D E,A,3
+W19,Undergraduate,MCDB    199,ORIAS E,A,1
+W19,Undergraduate,MCDB    199,PLAXCO K W,A,1
+W19,Undergraduate,MCDB    199,ROTHMAN J H,A,3
+W19,Undergraduate,MCDB    199,SANTORO A E,A,1
+W19,Undergraduate,MCDB    199,SIMPSON J H,A,5
+W19,Undergraduate,MCDB    199,SMITH W,A,3
+W19,Undergraduate,MCDB    199,SZUMLINSKI K,A+,1
+W19,Undergraduate,MCDB    199,THOMSON J A,A,1
+W19,Undergraduate,MCDB    199,THROWER D A,A+,1
+W19,Undergraduate,MCDB    199,WAITE J H,A,1
+W19,Undergraduate,MCDB    199,WEIMBS T,A,5
+W19,Graduate,MCDB    220A,MA D,A,10
+W19,Graduate,MCDB    220A,MA D,A-,4
+W19,Graduate,MCDB    220A,MA D,B+,2
+W19,Graduate,MCDB    220A,POOLE S J,A,10
+W19,Graduate,MCDB    220A,POOLE S J,A-,4
+W19,Graduate,MCDB    220A,POOLE S J,B+,2
+W19,Graduate,MCDB    220B,ACOSTA-ALVEAR,A+,4
+W19,Graduate,MCDB    220B,ACOSTA-ALVEAR,A,1
+W19,Graduate,MCDB    220B,ACOSTA-ALVEAR,A-,8
+W19,Graduate,MCDB    220B,ACOSTA-ALVEAR,B,4
+W19,Graduate,MCDB    220B,ACOSTA-ALVEAR,B-,1
+W19,Graduate,MCDB    220B,MA D,A+,4
+W19,Graduate,MCDB    220B,MA D,A,1
+W19,Graduate,MCDB    220B,MA D,A-,8
+W19,Graduate,MCDB    220B,MA D,B,4
+W19,Graduate,MCDB    220B,MA D,B-,1
+W19,Graduate,MCDB    220C,KOSIK K S,A+,1
+W19,Graduate,MCDB    220C,KOSIK K S,A,8
+W19,Graduate,MCDB    220C,KOSIK K S,A-,7
+W19,Graduate,MCDB    230,ARIAS GONZALE,A+,2
+W19,Graduate,MCDB    230,ARIAS GONZALE,A,4
+W19,Graduate,MCDB    230,ARIAS GONZALE,A-,3
+W19,Graduate,MCDB    230,ARIAS GONZALE,B+,3
+W19,Graduate,MCDB    230,ARIAS GONZALE,B,3
+W19,Graduate,MCDB    230,ARIAS GONZALE,B-,2
+W19,Graduate,MCDB    230,HAYES C S,A+,2
+W19,Graduate,MCDB    230,HAYES C S,A,4
+W19,Graduate,MCDB    230,HAYES C S,A-,3
+W19,Graduate,MCDB    230,HAYES C S,B+,3
+W19,Graduate,MCDB    230,HAYES C S,B,3
+W19,Graduate,MCDB    230,HAYES C S,B-,2
+W19,Graduate,MCDB    230,LOW D A,A+,2
+W19,Graduate,MCDB    230,LOW D A,A,4
+W19,Graduate,MCDB    230,LOW D A,A-,3
+W19,Graduate,MCDB    230,LOW D A,B+,3
+W19,Graduate,MCDB    230,LOW D A,B,3
+W19,Graduate,MCDB    230,LOW D A,B-,2
+W19,Graduate,MCDB    232,MAHAN M J,B+,1
+W19,Graduate,MCDB    233,DE TOMASO A W,A,2
+W19,Graduate,MCDB    233,DE TOMASO A W,B,1
+W19,Graduate,MCDB    236,SAMUEL C E,A,1
+W19,Graduate,MCDB    252,KOSIK K S,A+,1
+W19,Graduate,MCDB    252,KOSIK K S,A,2
+W19,Graduate,MCDB    252,MONTELL C,A+,1
+W19,Graduate,MCDB    252,MONTELL C,A,2
+W19,Graduate,MCDB    260,LOUIS M R,S,65
+W19,Graduate,MCDB    260,LOUIS M R,U,1
+W19,Graduate,MCDB    261,DE TOMASO A W,S,5
+W19,Graduate,MCDB    262,FOLTZ K R,S,57
+W19,Graduate,MCDB    263,LOUIS M R,S,68
+W19,Graduate,MCDB    265,ARIAS GONZALE,S,12
+W19,Graduate,MCDB    268,FINKELSTEIN R,S,2
+W19,Graduate,MCDB    290CE,ROTHMAN J H,A,2
+W19,Graduate,MCDB    290ER,WEIMBS T,A,4
+W19,Graduate,MCDB    290MR,LOPEZ B J,S,3
+W19,Graduate,MCDB    501,DE TOMASO A W,S,1
+W19,Graduate,MCDB    501,FOLTZ K R,S,5
+W19,Graduate,MCDB    501,GONZALEZ NINO,S,1
+W19,Graduate,MCDB    501,LEW G J,S,3
+W19,Graduate,MCDB    501,LOW D A,S,1
+W19,Graduate,MCDB    501,LOW S H,S,1
+W19,Graduate,MCDB    501,MAHAN M J,S,2
+W19,Graduate,MCDB    501,MARTH J D,S,1
+W19,Graduate,MCDB    501,MONTELL C,S,1
+W19,Graduate,MCDB    501,NGUYEN A T,S,4
+W19,Graduate,MCDB    501,ROTHMAN J H,S,1
+W19,Graduate,MCDB    501,SIMPSON J H,S,4
+W19,Graduate,MCDB    501,WEIMBS T,S,2
+W19,Graduate,MCDB    501,WILTON M B,S,1
+W19,Graduate,MCDB    595DV,ROTHMAN J H,A,4
+W19,Graduate,MCDB    596,ACOSTA-ALVEAR,A+,2
+W19,Graduate,MCDB    596,ARIAS GONZALE,A,2
+W19,Graduate,MCDB    596,ARIAS GONZALE,A-,1
+W19,Graduate,MCDB    596,CAMPAS-RIGAU,A,1
+W19,Graduate,MCDB    596,CLEGG D O,A,1
+W19,Graduate,MCDB    596,DAHLQUIST F W,A,1
+W19,Graduate,MCDB    596,DE TOMASO A W,A,6
+W19,Graduate,MCDB    596,DOYLE A M,A,1
+W19,Graduate,MCDB    596,FEINSTEIN S C,A,1
+W19,Graduate,MCDB    596,HAYES C S,A,6
+W19,Graduate,MCDB    596,KOSIK K S,A,2
+W19,Graduate,MCDB    596,KOSIK K S,B,1
+W19,Graduate,MCDB    596,LEW G J,A,1
+W19,Graduate,MCDB    596,LOUIS M R,A+,1
+W19,Graduate,MCDB    596,MAHAN M J,A,1
+W19,Graduate,MCDB    596,MONTELL C,A,2
+W19,Graduate,MCDB    596,MONTELL D J,A,5
+W19,Graduate,MCDB    596,MONTELL D J,A-,1
+W19,Graduate,MCDB    596,MORSE D E,A,1
+W19,Graduate,MCDB    596,PLAXCO K W,A,1
+W19,Graduate,MCDB    596,REESE B E,A,1
+W19,Graduate,MCDB    596,ROTHMAN J H,A,8
+W19,Graduate,MCDB    596,SAFINYA C R,A,1
+W19,Graduate,MCDB    596,SIMPSON J H,A,2
+W19,Graduate,MCDB    596,SMITH W,A,3
+W19,Graduate,MCDB    596,WAITE J H,S,1
+W19,Graduate,MCDB    596,WEIMBS T,A,8
+W19,Graduate,MCDB    596,WILSON M Z,A+,2

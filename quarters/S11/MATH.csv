@@ -1,0 +1,234 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,MATH      3A,PAUL S S,A+,1
+S11,Undergraduate,MATH      3A,PAUL S S,A,7
+S11,Undergraduate,MATH      3A,PAUL S S,A-,6
+S11,Undergraduate,MATH      3A,PAUL S S,B+,9
+S11,Undergraduate,MATH      3A,PAUL S S,B,3
+S11,Undergraduate,MATH      3A,PAUL S S,B-,11
+S11,Undergraduate,MATH      3A,PAUL S S,C+,11
+S11,Undergraduate,MATH      3A,PAUL S S,C,1
+S11,Undergraduate,MATH      3A,PAUL S S,C-,4
+S11,Undergraduate,MATH      3A,PAUL S S,D-,3
+S11,Undergraduate,MATH      3A,PAUL S S,F,4
+S11,Undergraduate,MATH      3B,OTTMAN R J,A+,7
+S11,Undergraduate,MATH      3B,OTTMAN R J,A,7
+S11,Undergraduate,MATH      3B,OTTMAN R J,A-,8
+S11,Undergraduate,MATH      3B,OTTMAN R J,B+,1
+S11,Undergraduate,MATH      3B,OTTMAN R J,B,21
+S11,Undergraduate,MATH      3B,OTTMAN R J,B-,6
+S11,Undergraduate,MATH      3B,OTTMAN R J,C+,3
+S11,Undergraduate,MATH      3B,OTTMAN R J,C,27
+S11,Undergraduate,MATH      3B,OTTMAN R J,D+,2
+S11,Undergraduate,MATH      3B,OTTMAN R J,D,18
+S11,Undergraduate,MATH      3B,OTTMAN R J,D-,4
+S11,Undergraduate,MATH      3B,OTTMAN R J,F,47
+S11,Undergraduate,MATH      3B,SULWAY R J,A,9
+S11,Undergraduate,MATH      3B,SULWAY R J,A-,4
+S11,Undergraduate,MATH      3B,SULWAY R J,B+,7
+S11,Undergraduate,MATH      3B,SULWAY R J,B,17
+S11,Undergraduate,MATH      3B,SULWAY R J,B-,22
+S11,Undergraduate,MATH      3B,SULWAY R J,C+,6
+S11,Undergraduate,MATH      3B,SULWAY R J,C,12
+S11,Undergraduate,MATH      3B,SULWAY R J,C-,3
+S11,Undergraduate,MATH      3B,SULWAY R J,D,7
+S11,Undergraduate,MATH      3B,SULWAY R J,D-,2
+S11,Undergraduate,MATH      3B,SULWAY R J,F,8
+S11,Undergraduate,MATH      3C,CHEN J,A,25
+S11,Undergraduate,MATH      3C,CHEN J,A-,48
+S11,Undergraduate,MATH      3C,CHEN J,B+,63
+S11,Undergraduate,MATH      3C,CHEN J,B,45
+S11,Undergraduate,MATH      3C,CHEN J,B-,60
+S11,Undergraduate,MATH      3C,CHEN J,C+,36
+S11,Undergraduate,MATH      3C,CHEN J,C,25
+S11,Undergraduate,MATH      3C,CHEN J,C-,14
+S11,Undergraduate,MATH      3C,CHEN J,D,5
+S11,Undergraduate,MATH      3C,CHEN J,F,13
+S11,Undergraduate,MATH      3C,OTTMAN R J,A,2
+S11,Undergraduate,MATH      3C,OTTMAN R J,A-,1
+S11,Undergraduate,MATH      3C,OTTMAN R J,B,4
+S11,Undergraduate,MATH      3C,OTTMAN R J,C,11
+S11,Undergraduate,MATH      3C,OTTMAN R J,D,2
+S11,Undergraduate,MATH      3C,OTTMAN R J,F,5
+S11,Undergraduate,MATH      5A,LONG D D,A,53
+S11,Undergraduate,MATH      5A,LONG D D,A-,14
+S11,Undergraduate,MATH      5A,LONG D D,B+,7
+S11,Undergraduate,MATH      5A,LONG D D,B,42
+S11,Undergraduate,MATH      5A,LONG D D,B-,33
+S11,Undergraduate,MATH      5A,LONG D D,C+,1
+S11,Undergraduate,MATH      5A,LONG D D,C,51
+S11,Undergraduate,MATH      5A,LONG D D,C-,3
+S11,Undergraduate,MATH      5A,LONG D D,D,34
+S11,Undergraduate,MATH      5A,LONG D D,F,2
+S11,Undergraduate,MATH      5B,MOORE J D,A+,3
+S11,Undergraduate,MATH      5B,MOORE J D,A,20
+S11,Undergraduate,MATH      5B,MOORE J D,A-,16
+S11,Undergraduate,MATH      5B,MOORE J D,B+,18
+S11,Undergraduate,MATH      5B,MOORE J D,B,28
+S11,Undergraduate,MATH      5B,MOORE J D,B-,23
+S11,Undergraduate,MATH      5B,MOORE J D,C+,29
+S11,Undergraduate,MATH      5B,MOORE J D,C,49
+S11,Undergraduate,MATH      5B,MOORE J D,C-,11
+S11,Undergraduate,MATH      5B,MOORE J D,D,6
+S11,Undergraduate,MATH      5B,MOORE J D,F,8
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,A+,3
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,A,11
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,A-,7
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,B+,3
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,B,1
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,B-,1
+S11,Undergraduate,MATH      5BI,THOREN GAGLIA,C+,1
+S11,Undergraduate,MATH      5C,CASTEELS K L,A+,7
+S11,Undergraduate,MATH      5C,CASTEELS K L,A,11
+S11,Undergraduate,MATH      5C,CASTEELS K L,A-,7
+S11,Undergraduate,MATH      5C,CASTEELS K L,B+,10
+S11,Undergraduate,MATH      5C,CASTEELS K L,B,16
+S11,Undergraduate,MATH      5C,CASTEELS K L,B-,12
+S11,Undergraduate,MATH      5C,CASTEELS K L,C+,4
+S11,Undergraduate,MATH      5C,CASTEELS K L,C,14
+S11,Undergraduate,MATH      5C,CASTEELS K L,C-,7
+S11,Undergraduate,MATH      5C,CASTEELS K L,D+,3
+S11,Undergraduate,MATH      5C,CASTEELS K L,D,4
+S11,Undergraduate,MATH      5C,CASTEELS K L,F,8
+S11,Undergraduate,MATH      8,AGBOOLA A,A,5
+S11,Undergraduate,MATH      8,AGBOOLA A,B,4
+S11,Undergraduate,MATH      8,AGBOOLA A,C,5
+S11,Undergraduate,MATH      8,AGBOOLA A,C-,8
+S11,Undergraduate,MATH      8,AGBOOLA A,D,8
+S11,Undergraduate,MATH      8,AGBOOLA A,F,1
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,A+,3
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,A,7
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,B+,5
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,B,4
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,B-,2
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,C+,6
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,C,1
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,C-,4
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,D+,1
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,D,4
+S11,Undergraduate,MATH      8,MCGAHAGAN H C,D-,1
+S11,Undergraduate,MATH     34A,GRANO E A,A+,11
+S11,Undergraduate,MATH     34A,GRANO E A,A,15
+S11,Undergraduate,MATH     34A,GRANO E A,A-,6
+S11,Undergraduate,MATH     34A,GRANO E A,B+,12
+S11,Undergraduate,MATH     34A,GRANO E A,B,16
+S11,Undergraduate,MATH     34A,GRANO E A,B-,11
+S11,Undergraduate,MATH     34A,GRANO E A,C+,5
+S11,Undergraduate,MATH     34A,GRANO E A,C,4
+S11,Undergraduate,MATH     34A,GRANO E A,C-,1
+S11,Undergraduate,MATH     34A,GRANO E A,D+,1
+S11,Undergraduate,MATH     34A,GRANO E A,D,5
+S11,Undergraduate,MATH     34A,GRANO E A,D-,1
+S11,Undergraduate,MATH     34A,GRANO E A,F,1
+S11,Undergraduate,MATH     34B,SULWAY R J,A+,6
+S11,Undergraduate,MATH     34B,SULWAY R J,A,34
+S11,Undergraduate,MATH     34B,SULWAY R J,A-,16
+S11,Undergraduate,MATH     34B,SULWAY R J,B+,36
+S11,Undergraduate,MATH     34B,SULWAY R J,B,48
+S11,Undergraduate,MATH     34B,SULWAY R J,B-,17
+S11,Undergraduate,MATH     34B,SULWAY R J,C+,20
+S11,Undergraduate,MATH     34B,SULWAY R J,C,35
+S11,Undergraduate,MATH     34B,SULWAY R J,C-,23
+S11,Undergraduate,MATH     34B,SULWAY R J,D,14
+S11,Undergraduate,MATH     34B,SULWAY R J,F,3
+S11,Undergraduate,MATH    100B,JACOB W B,P,15
+S11,Undergraduate,MATH    102B,OGRAIN C M,A,7
+S11,Undergraduate,MATH    102B,OGRAIN C M,A-,4
+S11,Undergraduate,MATH    102B,OGRAIN C M,B+,5
+S11,Undergraduate,MATH    102B,OGRAIN C M,B,2
+S11,Undergraduate,MATH    102B,OGRAIN C M,B-,1
+S11,Undergraduate,MATH    102B,OGRAIN C M,C+,2
+S11,Undergraduate,MATH    102B,OGRAIN C M,C,5
+S11,Undergraduate,MATH    102B,OGRAIN C M,D,3
+S11,Undergraduate,MATH    102B,OGRAIN C M,F,1
+S11,Undergraduate,MATH    103,OGRAIN C M,A+,1
+S11,Undergraduate,MATH    103,OGRAIN C M,A,4
+S11,Undergraduate,MATH    103,OGRAIN C M,A-,3
+S11,Undergraduate,MATH    103,OGRAIN C M,B+,7
+S11,Undergraduate,MATH    103,OGRAIN C M,B,5
+S11,Undergraduate,MATH    103,OGRAIN C M,B-,3
+S11,Undergraduate,MATH    103,OGRAIN C M,C+,2
+S11,Undergraduate,MATH    103,OGRAIN C M,C,9
+S11,Undergraduate,MATH    103,OGRAIN C M,D,5
+S11,Undergraduate,MATH    104C,CENICEROS H,A,3
+S11,Undergraduate,MATH    104C,CENICEROS H,A-,3
+S11,Undergraduate,MATH    104C,CENICEROS H,B+,2
+S11,Undergraduate,MATH    104C,CENICEROS H,B,1
+S11,Undergraduate,MATH    104C,CENICEROS H,B-,1
+S11,Undergraduate,MATH    104C,CENICEROS H,C,1
+S11,Undergraduate,MATH    108A,BIGELOW S J,A,8
+S11,Undergraduate,MATH    108A,BIGELOW S J,A-,6
+S11,Undergraduate,MATH    108A,BIGELOW S J,B+,3
+S11,Undergraduate,MATH    108A,BIGELOW S J,B,5
+S11,Undergraduate,MATH    108A,BIGELOW S J,B-,3
+S11,Undergraduate,MATH    108A,BIGELOW S J,C+,3
+S11,Undergraduate,MATH    108A,BIGELOW S J,C,5
+S11,Undergraduate,MATH    108A,BIGELOW S J,C-,8
+S11,Undergraduate,MATH    108A,BIGELOW S J,D,5
+S11,Undergraduate,MATH    108A,BIGELOW S J,F,2
+S11,Undergraduate,MATH    108B,STOPPLE J,A+,5
+S11,Undergraduate,MATH    108B,STOPPLE J,A,9
+S11,Undergraduate,MATH    108B,STOPPLE J,A-,2
+S11,Undergraduate,MATH    108B,STOPPLE J,B+,1
+S11,Undergraduate,MATH    108B,STOPPLE J,B,7
+S11,Undergraduate,MATH    108B,STOPPLE J,B-,5
+S11,Undergraduate,MATH    108B,STOPPLE J,C+,2
+S11,Undergraduate,MATH    108B,STOPPLE J,C-,3
+S11,Undergraduate,MATH    108B,STOPPLE J,D,3
+S11,Undergraduate,MATH    117,GRIGORYAN V,A+,2
+S11,Undergraduate,MATH    117,GRIGORYAN V,A,4
+S11,Undergraduate,MATH    117,GRIGORYAN V,A-,4
+S11,Undergraduate,MATH    117,GRIGORYAN V,B+,4
+S11,Undergraduate,MATH    117,GRIGORYAN V,B,4
+S11,Undergraduate,MATH    117,GRIGORYAN V,B-,9
+S11,Undergraduate,MATH    117,GRIGORYAN V,C+,2
+S11,Undergraduate,MATH    117,GRIGORYAN V,C,6
+S11,Undergraduate,MATH    117,GRIGORYAN V,C-,1
+S11,Undergraduate,MATH    117,GRIGORYAN V,D+,1
+S11,Undergraduate,MATH    117,GRIGORYAN V,D,3
+S11,Undergraduate,MATH    117,GRIGORYAN V,D-,2
+S11,Undergraduate,MATH    117,GRIGORYAN V,F,1
+S11,Undergraduate,MATH    118C,ATZBERGER P J,A+,3
+S11,Undergraduate,MATH    118C,ATZBERGER P J,A,2
+S11,Undergraduate,MATH    118C,ATZBERGER P J,A-,7
+S11,Undergraduate,MATH    118C,ATZBERGER P J,B+,7
+S11,Undergraduate,MATH    118C,ATZBERGER P J,B,3
+S11,Undergraduate,MATH    122B,YE R,A+,2
+S11,Undergraduate,MATH    122B,YE R,A,4
+S11,Undergraduate,MATH    122B,YE R,B,3
+S11,Undergraduate,MATH    122B,YE R,C+,1
+S11,Undergraduate,MATH    122B,YE R,C,4
+S11,Undergraduate,MATH    122B,YE R,C-,1
+S11,Undergraduate,MATH    124B,LABUTIN D A,A,9
+S11,Undergraduate,MATH    124B,LABUTIN D A,A-,6
+S11,Undergraduate,MATH    124B,LABUTIN D A,B+,4
+S11,Undergraduate,MATH    124B,LABUTIN D A,B,5
+S11,Undergraduate,MATH    124B,LABUTIN D A,B-,1
+S11,Undergraduate,MATH    137B,ADEBOYE I D,A+,4
+S11,Undergraduate,MATH    137B,ADEBOYE I D,A,2
+S11,Undergraduate,MATH    137B,ADEBOYE I D,A-,4
+S11,Undergraduate,MATH    137B,ADEBOYE I D,B+,12
+S11,Undergraduate,MATH    137B,ADEBOYE I D,B,4
+S11,Undergraduate,MATH    137B,ADEBOYE I D,B-,1
+S11,Undergraduate,MATH    137B,ADEBOYE I D,C,4
+S11,Graduate,MATH    201C,AKEMANN C A,A+,2
+S11,Graduate,MATH    201C,AKEMANN C A,A,2
+S11,Graduate,MATH    201C,AKEMANN C A,A-,4
+S11,Graduate,MATH    201C,AKEMANN C A,B,1
+S11,Graduate,MATH    202C,PUTINAR M,A+,2
+S11,Graduate,MATH    202C,PUTINAR M,A,4
+S11,Graduate,MATH    202C,PUTINAR M,A-,1
+S11,Graduate,MATH    221C,BIGELOW S J,A,7
+S11,Graduate,MATH    221C,BIGELOW S J,A-,1
+S11,Graduate,MATH    227C,MILLETT K C,A+,2
+S11,Graduate,MATH    227C,MILLETT K C,A,3
+S11,Graduate,MATH    241C,YE R,A,6
+S11,Graduate,MATH    246C,SIDERIS T C,A,7
+S11,Graduate,MATH    246C,SIDERIS T C,A-,1
+S11,Graduate,MATH    260EE,COOPER D,A,8
+S11,Graduate,MATH    260R,MCCAMMOND J P,A,13
+S11,Graduate,MATH    500,GARCIA-CERVER,S,15
+S11,Undergraduate,MATH CS  10,WEI G,P,11
+S11,Undergraduate,MATH CS 101,LONG D D,P,12
+S11,Undergraduate,MATH CS 120,LUDKOVSKI M,P,13
+S11,Undergraduate,MATH CS 120,MCGAHAGAN H C,P,11
+S11,Undergraduate,MATH CS 120,WEI G,P,15

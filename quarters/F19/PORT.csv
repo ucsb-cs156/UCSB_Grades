@@ -1,0 +1,76 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,EARTH   127,PORTER S M,A,10
+F19,Graduate,EARTH   227,PORTER S M,A,10
+F19,Graduate,EARTH   227,PORTER S M,A-,1
+F19,Graduate,EARTH   597,PORTER S M,S,2
+F19,Undergraduate,MATH      3A,PORTER M J,A+,39
+F19,Undergraduate,MATH      3A,PORTER M J,A,63
+F19,Undergraduate,MATH      3A,PORTER M J,A-,29
+F19,Undergraduate,MATH      3A,PORTER M J,B+,37
+F19,Undergraduate,MATH      3A,PORTER M J,B,38
+F19,Undergraduate,MATH      3A,PORTER M J,B-,22
+F19,Undergraduate,MATH      3A,PORTER M J,C+,21
+F19,Undergraduate,MATH      3A,PORTER M J,C,24
+F19,Undergraduate,MATH      3A,PORTER M J,D+,3
+F19,Undergraduate,MATH      3A,PORTER M J,D,3
+F19,Undergraduate,MATH      3A,PORTER M J,D-,2
+F19,Undergraduate,MATH      3A,PORTER M J,F,5
+F19,Undergraduate,PORT      1,CHAFFIN B M,A+,1
+F19,Undergraduate,PORT      1,CHAFFIN B M,A,1
+F19,Undergraduate,PORT      1,CHAFFIN B M,A-,2
+F19,Undergraduate,PORT      1,CHAFFIN B M,B+,3
+F19,Undergraduate,PORT      1,CHAFFIN B M,B,4
+F19,Undergraduate,PORT      1,CHAFFIN B M,B-,2
+F19,Undergraduate,PORT      1,CHAFFIN B M,C,1
+F19,Undergraduate,PORT      1,CHAFFIN B M,D-,1
+F19,Undergraduate,PORT      1,CHAFFIN B M,F,1
+F19,Undergraduate,PORT      1,MARQUES-PASCU,A+,1
+F19,Undergraduate,PORT      1,MARQUES-PASCU,A,1
+F19,Undergraduate,PORT      1,MARQUES-PASCU,A-,2
+F19,Undergraduate,PORT      1,MARQUES-PASCU,B+,3
+F19,Undergraduate,PORT      1,MARQUES-PASCU,B,4
+F19,Undergraduate,PORT      1,MARQUES-PASCU,B-,2
+F19,Undergraduate,PORT      1,MARQUES-PASCU,C,1
+F19,Undergraduate,PORT      1,MARQUES-PASCU,D-,1
+F19,Undergraduate,PORT      1,MARQUES-PASCU,F,1
+F19,Undergraduate,PORT      4,DE BRITO E SO,A,3
+F19,Undergraduate,PORT      4,DE BRITO E SO,A-,7
+F19,Undergraduate,PORT      4,DE BRITO E SO,B,1
+F19,Undergraduate,PORT      4,MARQUES-PASCU,A,3
+F19,Undergraduate,PORT      4,MARQUES-PASCU,A-,7
+F19,Undergraduate,PORT      4,MARQUES-PASCU,B,1
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A+,4
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A,2
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A-,1
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A+,3
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A,3
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A-,1
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,A,4
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,A-,1
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,B+,2
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,B,6
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,B-,2
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,C+,1
+F19,Undergraduate,PORT     16A,CRAVEIRO DE M,C,1
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,A,4
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,A-,1
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,B+,2
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,B,6
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,B-,2
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,C+,1
+F19,Undergraduate,PORT     16A,MARQUES-PASCU,C,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A+,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A-,1
+F19,Undergraduate,PORT    105,CORREA DE SA,A+,3
+F19,Undergraduate,PORT    105,CORREA DE SA,A,5
+F19,Undergraduate,PORT    105,CORREA DE SA,A-,3
+F19,Undergraduate,PORT    105,CORREA DE SA,B+,2
+F19,Undergraduate,PORT    199,CORREA DE SA,A,1
+F19,Undergraduate,PORT    199,OLIVER E V,A+,1
+F19,Graduate,PORT    295A,OLIVER E V,A+,3
+F19,Graduate,PORT    295A,OLIVER E V,A,1
+F19,Graduate,PORT    590,MARQUES-PASCU,A+,1
+F19,Graduate,PORT    591,MARQUES-PASCU,S,3
+F19,Graduate,PORT    596,OLIVER E V,A+,1
+F19,Graduate,PORT    599AA,OLIVER E V,S,2

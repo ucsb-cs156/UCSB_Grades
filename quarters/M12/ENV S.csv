@@ -1,0 +1,115 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,ENV S     1,WACK P W,A+,1
+M12,Undergraduate,ENV S     1,WACK P W,A,19
+M12,Undergraduate,ENV S     1,WACK P W,A-,35
+M12,Undergraduate,ENV S     1,WACK P W,B+,7
+M12,Undergraduate,ENV S     1,WACK P W,B,14
+M12,Undergraduate,ENV S     1,WACK P W,C+,3
+M12,Undergraduate,ENV S     1,WACK P W,C,1
+M12,Undergraduate,ENV S     1,WACK P W,F,2
+M12,Undergraduate,ENV S     2,KLOSE K A,A+,3
+M12,Undergraduate,ENV S     2,KLOSE K A,A,8
+M12,Undergraduate,ENV S     2,KLOSE K A,A-,3
+M12,Undergraduate,ENV S     2,KLOSE K A,B+,6
+M12,Undergraduate,ENV S     2,KLOSE K A,B,6
+M12,Undergraduate,ENV S     2,KLOSE K A,B-,4
+M12,Undergraduate,ENV S     2,KLOSE K A,C+,3
+M12,Undergraduate,ENV S     2,KLOSE K A,C,6
+M12,Undergraduate,ENV S     2,KLOSE K A,C-,4
+M12,Undergraduate,ENV S     2,KLOSE K A,D+,3
+M12,Undergraduate,ENV S     2,KLOSE K A,D,1
+M12,Undergraduate,ENV S     2,KLOSE K A,F,2
+M12,Undergraduate,ENV S     3,GRAVES G R,A-,7
+M12,Undergraduate,ENV S     3,GRAVES G R,B+,28
+M12,Undergraduate,ENV S     3,GRAVES G R,B,29
+M12,Undergraduate,ENV S     3,GRAVES G R,B-,5
+M12,Undergraduate,ENV S     3,GRAVES G R,C+,2
+M12,Undergraduate,ENV S     3,GRAVES G R,F,2
+M12,Undergraduate,ENV S    15,GARDNER H K,A+,1
+M12,Undergraduate,ENV S    15,GARDNER H K,A,6
+M12,Undergraduate,ENV S    15,GARDNER H K,B+,5
+M12,Undergraduate,ENV S    15,GARDNER H K,B,9
+M12,Undergraduate,ENV S    15,GARDNER H K,C,5
+M12,Undergraduate,ENV S    15,GARDNER H K,D+,1
+M12,Undergraduate,ENV S    15,GARDNER H K,F,3
+M12,Undergraduate,ENV S    25,GEE Q P,A,3
+M12,Undergraduate,ENV S    25,GEE Q P,A-,2
+M12,Undergraduate,ENV S    25,GEE Q P,B+,4
+M12,Undergraduate,ENV S    25,GEE Q P,B,4
+M12,Undergraduate,ENV S    25,GEE Q P,C+,1
+M12,Undergraduate,ENV S    25,GEE Q P,C-,2
+M12,Undergraduate,ENV S    25,GEE Q P,F,1
+M12,Undergraduate,ENV S   100,TECK S J,A+,18
+M12,Undergraduate,ENV S   100,TECK S J,A,7
+M12,Undergraduate,ENV S   100,TECK S J,A-,11
+M12,Undergraduate,ENV S   100,TECK S J,B+,12
+M12,Undergraduate,ENV S   100,TECK S J,B,5
+M12,Undergraduate,ENV S   100,TECK S J,B-,8
+M12,Undergraduate,ENV S   100,TECK S J,C+,1
+M12,Undergraduate,ENV S   100,TECK S J,C,1
+M12,Undergraduate,ENV S   100,TECK S J,C-,1
+M12,Undergraduate,ENV S   100,TECK S J,D+,3
+M12,Undergraduate,ENV S   100,TECK S J,D,1
+M12,Undergraduate,ENV S   115,MANALIS M S,A+,1
+M12,Undergraduate,ENV S   115,MANALIS M S,A,5
+M12,Undergraduate,ENV S   115,MANALIS M S,A-,4
+M12,Undergraduate,ENV S   115,MANALIS M S,B+,9
+M12,Undergraduate,ENV S   115,MANALIS M S,B,4
+M12,Undergraduate,ENV S   115,MANALIS M S,B-,5
+M12,Undergraduate,ENV S   115,MANALIS M S,C+,6
+M12,Undergraduate,ENV S   115,MANALIS M S,C,12
+M12,Undergraduate,ENV S   115,MANALIS M S,D+,4
+M12,Undergraduate,ENV S   115,MANALIS M S,D,3
+M12,Undergraduate,ENV S   115,MANALIS M S,F,5
+M12,Undergraduate,ENV S   132,KUNDU M,A,5
+M12,Undergraduate,ENV S   132,KUNDU M,A-,6
+M12,Undergraduate,ENV S   132,KUNDU M,B+,7
+M12,Undergraduate,ENV S   132,KUNDU M,B,12
+M12,Undergraduate,ENV S   132,KUNDU M,B-,8
+M12,Undergraduate,ENV S   132,KUNDU M,C+,5
+M12,Undergraduate,ENV S   132,KUNDU M,C,8
+M12,Undergraduate,ENV S   132,KUNDU M,C-,6
+M12,Undergraduate,ENV S   132,KUNDU M,D+,2
+M12,Undergraduate,ENV S   132,KUNDU M,F,1
+M12,Undergraduate,ENV S   147,GARDNER H K,A+,1
+M12,Undergraduate,ENV S   147,GARDNER H K,A,19
+M12,Undergraduate,ENV S   147,GARDNER H K,B+,3
+M12,Undergraduate,ENV S   147,GARDNER H K,B,10
+M12,Undergraduate,ENV S   147,GARDNER H K,C,3
+M12,Undergraduate,ENV S   160,KRYDER E A,A+,4
+M12,Undergraduate,ENV S   160,KRYDER E A,A,4
+M12,Undergraduate,ENV S   160,KRYDER E A,A-,4
+M12,Undergraduate,ENV S   160,KRYDER E A,B+,4
+M12,Undergraduate,ENV S   160,KRYDER E A,B,5
+M12,Undergraduate,ENV S   160,KRYDER E A,B-,3
+M12,Undergraduate,ENV S   160,KRYDER E A,C+,2
+M12,Undergraduate,ENV S   160,KRYDER E A,C,3
+M12,Undergraduate,ENV S   160,KRYDER E A,C-,4
+M12,Undergraduate,ENV S   174,LASSITER M R,A,5
+M12,Undergraduate,ENV S   174,LASSITER M R,A-,4
+M12,Undergraduate,ENV S   174,LASSITER M R,B+,3
+M12,Undergraduate,ENV S   174,LASSITER M R,B,4
+M12,Undergraduate,ENV S   174,LASSITER M R,B-,1
+M12,Undergraduate,ENV S   174,LASSITER M R,C+,1
+M12,Undergraduate,ENV S   176B,WILKINSON R C,A+,2
+M12,Undergraduate,ENV S   176B,WILKINSON R C,A,7
+M12,Undergraduate,ENV S   176B,WILKINSON R C,A-,1
+M12,Undergraduate,ENV S   176B,WILKINSON R C,B,1
+M12,Undergraduate,ENV S   183,WACK P W,A+,1
+M12,Undergraduate,ENV S   183,WACK P W,A,34
+M12,Undergraduate,ENV S   183,WACK P W,A-,17
+M12,Undergraduate,ENV S   183,WACK P W,B+,12
+M12,Undergraduate,ENV S   183,WACK P W,B,2
+M12,Undergraduate,ENV S   183,WACK P W,B-,2
+M12,Undergraduate,ENV S   183,WACK P W,C+,2
+M12,Undergraduate,ENV S   183,WACK P W,C,4
+M12,Undergraduate,ENV S   183,WACK P W,C-,1
+M12,Undergraduate,ENV S   183,WACK P W,F,1
+M12,Undergraduate,ENV S   188,MCGINNIS M,A,7
+M12,Undergraduate,ENV S   188,MCGINNIS M,A-,6
+M12,Undergraduate,ENV S   188,MCGINNIS M,B+,17
+M12,Undergraduate,ENV S   188,MCGINNIS M,B,5
+M12,Undergraduate,ENV S   188,MCGINNIS M,B-,11
+M12,Undergraduate,ENV S   188,MCGINNIS M,C-,1
+M12,Undergraduate,ENV S   188,MCGINNIS M,D+,1
+M12,Undergraduate,ENV S   188,MCGINNIS M,F,3

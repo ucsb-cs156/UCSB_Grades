@@ -1,0 +1,80 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,A+,12
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,A,49
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,A-,50
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,B+,35
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,B,17
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,B-,19
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,C+,6
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,C,2
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,C-,3
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,D+,2
+S15,Undergraduate,FEMST    20,FRANCIKOVA D,F,7
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,A+,5
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,A-,1
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,B+,1
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,B-,2
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,C+,1
+S15,Undergraduate,FEMST    20H,FRANCIKOVA D,D+,1
+S15,Undergraduate,FEMST   120,BERG H R,A+,3
+S15,Undergraduate,FEMST   120,BERG H R,A,9
+S15,Undergraduate,FEMST   120,BERG H R,A-,4
+S15,Undergraduate,FEMST   120,BERG H R,B+,1
+S15,Undergraduate,FEMST   120,BERG H R,B,3
+S15,Undergraduate,FEMST   120,BERG H R,C+,2
+S15,Undergraduate,FEMST   120,BERG H R,F,1
+S15,Undergraduate,FEMST   150,RUPP L J,A+,7
+S15,Undergraduate,FEMST   150,RUPP L J,A,71
+S15,Undergraduate,FEMST   150,RUPP L J,A-,63
+S15,Undergraduate,FEMST   150,RUPP L J,B+,50
+S15,Undergraduate,FEMST   150,RUPP L J,B,42
+S15,Undergraduate,FEMST   150,RUPP L J,B-,25
+S15,Undergraduate,FEMST   150,RUPP L J,C+,6
+S15,Undergraduate,FEMST   150,RUPP L J,C,10
+S15,Undergraduate,FEMST   150,RUPP L J,C-,2
+S15,Undergraduate,FEMST   150,RUPP L J,D,1
+S15,Undergraduate,FEMST   150,RUPP L J,F,11
+S15,Undergraduate,FEMST   150H,RUPP L J,A+,1
+S15,Undergraduate,FEMST   150H,RUPP L J,A,8
+S15,Undergraduate,FEMST   150H,RUPP L J,A-,3
+S15,Undergraduate,FEMST   150H,RUPP L J,B+,1
+S15,Undergraduate,FEMST   150H,RUPP L J,B,1
+S15,Undergraduate,FEMST   150H,RUPP L J,C,1
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,A+,1
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,A,7
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,A-,1
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,B+,3
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,B,4
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,C,1
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,C-,1
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,D+,2
+S15,Undergraduate,FEMST   181,DIAMOND-LENOW,D-,1
+S15,Undergraduate,FEMST   182,OAKS L M,A,7
+S15,Undergraduate,FEMST   182,OAKS L M,A-,1
+S15,Undergraduate,FEMST   182,OAKS L M,B+,5
+S15,Undergraduate,FEMST   182,OAKS L M,B,5
+S15,Undergraduate,FEMST   182,OAKS L M,B-,4
+S15,Undergraduate,FEMST   182,OAKS L M,C+,1
+S15,Undergraduate,FEMST   182,OAKS L M,C,1
+S15,Undergraduate,FEMST   182,OAKS L M,D+,1
+S15,Undergraduate,FEMST   182,OAKS L M,F,1
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,A+,1
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,A,2
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,A-,5
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,B+,8
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,B-,4
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,C+,2
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,C,1
+S15,Undergraduate,FEMST   185BP,FIGUEROA T,C-,1
+S15,Undergraduate,FEMST   185EG,AFARY J,A+,1
+S15,Undergraduate,FEMST   185EG,AFARY J,A,1
+S15,Undergraduate,FEMST   185EG,AFARY J,B+,2
+S15,Undergraduate,FEMST   185EG,AFARY J,C,1
+S15,Undergraduate,FEMST   185GR,CHANG G,A+,3
+S15,Undergraduate,FEMST   185GR,CHANG G,A,10
+S15,Undergraduate,FEMST   185GR,CHANG G,A-,7
+S15,Undergraduate,FEMST   185GR,CHANG G,B+,4
+S15,Undergraduate,FEMST   185GR,CHANG G,B,4
+S15,Graduate,FEMST   239,CHANG G,A+,2
+S15,Graduate,FEMST   239,CHANG G,A,3
+S15,Graduate,FEMST   595,OAKS L M,S,9

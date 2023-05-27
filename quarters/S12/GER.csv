@@ -1,0 +1,94 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,ED      176B,GERBER M M,A,30
+S12,Undergraduate,ED      176B,GERBER M M,B,1
+S12,Undergraduate,ED      176B,GERBER M M,C+,1
+S12,Undergraduate,ED      199RA,GERBER M M,A,9
+S12,Graduate,ED      242C,GERBER M M,A,5
+S12,Undergraduate,ES   1-  38A,GERSTENFELD P,P,27
+S12,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,8
+S12,Undergraduate,ES   1-  38B,GERSTENFELD P,P,8
+S12,Undergraduate,ES   1-  99,GERSTENFELD P,P,6
+S12,Undergraduate,GER       2G,KOMMERELL G,A,5
+S12,Undergraduate,GER       2G,KOMMERELL G,A-,3
+S12,Undergraduate,GER       2G,KOMMERELL G,B,2
+S12,Undergraduate,GER       3,MENGELE I,A+,4
+S12,Undergraduate,GER       3,MENGELE I,A,7
+S12,Undergraduate,GER       3,MENGELE I,A-,4
+S12,Undergraduate,GER       3,MENGELE I,B+,1
+S12,Undergraduate,GER       3,MENGELE I,B,2
+S12,Undergraduate,GER       3,MENGELE I,B-,2
+S12,Undergraduate,GER       3,WADE E R,A+,5
+S12,Undergraduate,GER       3,WADE E R,A,28
+S12,Undergraduate,GER       3,WADE E R,A-,7
+S12,Undergraduate,GER       3,WADE E R,B+,4
+S12,Undergraduate,GER       3,WADE E R,B,1
+S12,Undergraduate,GER       3,WADE E R,C-,1
+S12,Undergraduate,GER       6,WADE E R,A+,4
+S12,Undergraduate,GER       6,WADE E R,A,21
+S12,Undergraduate,GER       6,WADE E R,A-,3
+S12,Undergraduate,GER       6,WADE E R,B+,4
+S12,Undergraduate,GER       6,WADE E R,B,1
+S12,Undergraduate,GER       6,WADE E R,B-,1
+S12,Undergraduate,GER       6,WADE E R,C-,1
+S12,Undergraduate,GER       6,WADE E R,F,1
+S12,Undergraduate,GER       8C,BOWMAN I K,A+,3
+S12,Undergraduate,GER       8C,BOWMAN I K,A,8
+S12,Undergraduate,GER       8C,BOWMAN I K,A-,10
+S12,Undergraduate,GER     101C,MENGELE I,A+,1
+S12,Undergraduate,GER     101C,MENGELE I,A,16
+S12,Undergraduate,GER     101C,MENGELE I,A-,1
+S12,Undergraduate,GER     101C,MENGELE I,B+,1
+S12,Undergraduate,GER     101C,MENGELE I,B,2
+S12,Undergraduate,GER     101C,MENGELE I,C,1
+S12,Undergraduate,GER     105C,BOWMAN I K,A+,7
+S12,Undergraduate,GER     105C,BOWMAN I K,A,9
+S12,Undergraduate,GER     105C,BOWMAN I K,A-,4
+S12,Undergraduate,GER     105C,BOWMAN I K,B+,1
+S12,Undergraduate,GER     105C,BOWMAN I K,B,2
+S12,Undergraduate,GER     107C,WEBER E,A+,1
+S12,Undergraduate,GER     107C,WEBER E,A,4
+S12,Undergraduate,GER     107C,WEBER E,A-,2
+S12,Undergraduate,GER     107C,WEBER E,B+,1
+S12,Undergraduate,GER     107C,WEBER E,B,1
+S12,Undergraduate,GER     107C,WEBER E,C-,1
+S12,Undergraduate,GER     107C,WEBER E,F,2
+S12,Undergraduate,GER     145,CHUN D M,A,1
+S12,Undergraduate,GER     145,CHUN D M,A-,2
+S12,Undergraduate,GER     145,CHUN D M,B+,1
+S12,Undergraduate,GER     145,CHUN D M,B-,1
+S12,Undergraduate,GER     145,CHUN D M,C,1
+S12,Undergraduate,MATH      8,GERSTEIN L J,A,7
+S12,Undergraduate,MATH      8,GERSTEIN L J,A-,1
+S12,Undergraduate,MATH      8,GERSTEIN L J,B+,2
+S12,Undergraduate,MATH      8,GERSTEIN L J,B,5
+S12,Undergraduate,MATH      8,GERSTEIN L J,B-,4
+S12,Undergraduate,MATH      8,GERSTEIN L J,C+,1
+S12,Undergraduate,MATH      8,GERSTEIN L J,C,5
+S12,Undergraduate,MATH      8,GERSTEIN L J,C-,2
+S12,Undergraduate,MATH      8,GERSTEIN L J,D+,1
+S12,Undergraduate,MATH      8,GERSTEIN L J,F,5
+S12,Undergraduate,MUS A    36,GERVAIS M M,A+,10
+S12,Undergraduate,MUS A    36,GERVAIS M M,A,3
+S12,Undergraduate,MUS A    36,GERVAIS M M,A-,1
+S12,Undergraduate,MUS A    37,GERVAIS M M,A+,7
+S12,Undergraduate,MUS A    37,GERVAIS M M,A,2
+S12,Undergraduate,MUS A    37,GERVAIS M M,A-,4
+S12,Undergraduate,MUS A   136,GERVAIS M M,A+,4
+S12,Undergraduate,MUS A   136,GERVAIS M M,A,2
+S12,Undergraduate,MUS A   136,GERVAIS M M,A-,1
+S12,Undergraduate,MUS A   136,GERVAIS M M,B,1
+S12,Undergraduate,MUS A   137,GERVAIS M M,A+,4
+S12,Undergraduate,MUS A   137,GERVAIS M M,A,5
+S12,Undergraduate,MUS A   137,GERVAIS M M,A-,2
+S12,Graduate,MUS A   236,GERVAIS M M,A+,5
+S12,Graduate,MUS A   236,GERVAIS M M,A,2
+S12,Undergraduate,PSY     145,GERMAN T C M,A+,32
+S12,Undergraduate,PSY     145,GERMAN T C M,A,13
+S12,Undergraduate,PSY     145,GERMAN T C M,A-,8
+S12,Undergraduate,PSY     145,GERMAN T C M,B+,3
+S12,Undergraduate,PSY     145,GERMAN T C M,B,3
+S12,Undergraduate,PSY     145,GERMAN T C M,B-,1
+S12,Undergraduate,PSY     145,GERMAN T C M,C,6
+S12,Undergraduate,PSY     145,GERMAN T C M,F,2
+S12,Undergraduate,PSY     196,GERMAN T C M,A,12
+S12,Undergraduate,PSY     196,GERMAN T C M,C,1

@@ -1,0 +1,91 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,A+,7
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,A,28
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,A-,29
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,B+,18
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,B,27
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,B-,8
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,C+,7
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,C,10
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,C-,2
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,D+,2
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,D,1
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,D-,1
+S13,Undergraduate,FEMST    20,FRANCIKOVA D,F,5
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,A+,1
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,A,1
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,A-,2
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,B+,1
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,B,2
+S13,Undergraduate,FEMST    20H,FRANCIKOVA D,B-,1
+S13,Undergraduate,FEMST    50,CHANG G,A+,11
+S13,Undergraduate,FEMST    50,CHANG G,A,28
+S13,Undergraduate,FEMST    50,CHANG G,A-,13
+S13,Undergraduate,FEMST    50,CHANG G,B+,8
+S13,Undergraduate,FEMST    50,CHANG G,B,11
+S13,Undergraduate,FEMST    50,CHANG G,B-,5
+S13,Undergraduate,FEMST    50,CHANG G,C+,3
+S13,Undergraduate,FEMST    50,CHANG G,C,5
+S13,Undergraduate,FEMST    50,CHANG G,D,1
+S13,Undergraduate,FEMST    50,CHANG G,D-,1
+S13,Undergraduate,FEMST    50,CHANG G,F,2
+S13,Undergraduate,FEMST    50H,CHANG G,A+,3
+S13,Undergraduate,FEMST    50H,CHANG G,A,3
+S13,Undergraduate,FEMST    50H,CHANG G,A-,1
+S13,Undergraduate,FEMST    50H,CHANG G,B+,1
+S13,Undergraduate,FEMST    50H,CHANG G,F,1
+S13,Undergraduate,FEMST   144,BOBO J,A,8
+S13,Undergraduate,FEMST   144,BOBO J,A-,1
+S13,Undergraduate,FEMST   144,BOBO J,B+,1
+S13,Undergraduate,FEMST   144,BOBO J,B,5
+S13,Undergraduate,FEMST   144,BOBO J,C+,1
+S13,Undergraduate,FEMST   144,BOBO J,C,1
+S13,Undergraduate,FEMST   144,BOBO J,D,2
+S13,Undergraduate,FEMST   144,BOBO J,F,1
+S13,Undergraduate,FEMST   150,RUPP L J,A+,20
+S13,Undergraduate,FEMST   150,RUPP L J,A,57
+S13,Undergraduate,FEMST   150,RUPP L J,A-,76
+S13,Undergraduate,FEMST   150,RUPP L J,B+,49
+S13,Undergraduate,FEMST   150,RUPP L J,B,49
+S13,Undergraduate,FEMST   150,RUPP L J,B-,24
+S13,Undergraduate,FEMST   150,RUPP L J,C+,3
+S13,Undergraduate,FEMST   150,RUPP L J,C,1
+S13,Undergraduate,FEMST   150,RUPP L J,D-,2
+S13,Undergraduate,FEMST   150,RUPP L J,F,5
+S13,Undergraduate,FEMST   150H,RUPP L J,A,9
+S13,Undergraduate,FEMST   150H,RUPP L J,A-,2
+S13,Undergraduate,FEMST   150H,RUPP L J,B+,3
+S13,Undergraduate,FEMST   181,HELLER M L,A,4
+S13,Undergraduate,FEMST   181,HELLER M L,A-,2
+S13,Undergraduate,FEMST   181,HELLER M L,B+,5
+S13,Undergraduate,FEMST   181,HELLER M L,B,2
+S13,Undergraduate,FEMST   181,HELLER M L,B-,2
+S13,Undergraduate,FEMST   181,HELLER M L,C+,2
+S13,Undergraduate,FEMST   181,HELLER M L,C,3
+S13,Undergraduate,FEMST   181,HELLER M L,C-,1
+S13,Undergraduate,FEMST   181,HELLER M L,D+,1
+S13,Undergraduate,FEMST   182,OAKS L M,A,5
+S13,Undergraduate,FEMST   182,OAKS L M,A-,3
+S13,Undergraduate,FEMST   182,OAKS L M,B+,5
+S13,Undergraduate,FEMST   182,OAKS L M,B,4
+S13,Undergraduate,FEMST   182,OAKS L M,B-,2
+S13,Undergraduate,FEMST   182,OAKS L M,C+,4
+S13,Undergraduate,FEMST   182,OAKS L M,C,1
+S13,Undergraduate,FEMST   182,OAKS L M,C-,1
+S13,Undergraduate,FEMST   182,OAKS L M,F,2
+S13,Undergraduate,FEMST   186TF,FIGUEROA T,A,4
+S13,Undergraduate,FEMST   186TF,FIGUEROA T,A-,8
+S13,Undergraduate,FEMST   186TF,FIGUEROA T,B+,5
+S13,Undergraduate,FEMST   186TF,FIGUEROA T,B,2
+S13,Undergraduate,FEMST   186TF,FIGUEROA T,B-,2
+S13,Undergraduate,FEMST   190,THOMSEN C A,A+,3
+S13,Undergraduate,FEMST   190,THOMSEN C A,A,11
+S13,Undergraduate,FEMST   190,THOMSEN C A,A-,1
+S13,Undergraduate,FEMST   198,BORIS E C,A+,1
+S13,Undergraduate,FEMST   198,BORIS E C,A-,5
+S13,Undergraduate,FEMST   198,BORIS E C,B+,1
+S13,Graduate,FEMST   250EE,BORIS E C,A,11
+S13,Graduate,FEMST   250EE,BORIS E C,A-,3
+S13,Graduate,FEMST   250EE,BORIS E C,S,1
+S13,Graduate,FEMST   280A,TOMLINSON B M,A,7
+S13,Graduate,FEMST   595,BORIS E C,S,7

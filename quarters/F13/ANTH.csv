@@ -1,0 +1,165 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F13,Undergraduate,ANTH      2,WALSH C,A+,3
+F13,Undergraduate,ANTH      2,WALSH C,A,42
+F13,Undergraduate,ANTH      2,WALSH C,A-,119
+F13,Undergraduate,ANTH      2,WALSH C,B+,134
+F13,Undergraduate,ANTH      2,WALSH C,B,180
+F13,Undergraduate,ANTH      2,WALSH C,B-,134
+F13,Undergraduate,ANTH      2,WALSH C,C+,66
+F13,Undergraduate,ANTH      2,WALSH C,C,39
+F13,Undergraduate,ANTH      2,WALSH C,C-,12
+F13,Undergraduate,ANTH      2,WALSH C,D+,6
+F13,Undergraduate,ANTH      2,WALSH C,D,6
+F13,Undergraduate,ANTH      2,WALSH C,D-,1
+F13,Undergraduate,ANTH      2,WALSH C,F,4
+F13,Undergraduate,ANTH      5,GAULIN S J,A+,29
+F13,Undergraduate,ANTH      5,GAULIN S J,A,52
+F13,Undergraduate,ANTH      5,GAULIN S J,A-,31
+F13,Undergraduate,ANTH      5,GAULIN S J,B+,39
+F13,Undergraduate,ANTH      5,GAULIN S J,B,95
+F13,Undergraduate,ANTH      5,GAULIN S J,B-,39
+F13,Undergraduate,ANTH      5,GAULIN S J,C+,22
+F13,Undergraduate,ANTH      5,GAULIN S J,C,47
+F13,Undergraduate,ANTH      5,GAULIN S J,C-,20
+F13,Undergraduate,ANTH      5,GAULIN S J,D+,11
+F13,Undergraduate,ANTH      5,GAULIN S J,D,25
+F13,Undergraduate,ANTH      5,GAULIN S J,D-,10
+F13,Undergraduate,ANTH      5,GAULIN S J,F,54
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,A+,6
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,A,2
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,A-,14
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,B+,6
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,B,7
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,B-,5
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,C+,1
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,C,1
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,D+,2
+F13,Undergraduate,ANTH    106B,SOLER CRUZ C,D,1
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,A+,15
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,A,9
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,A-,1
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,B+,3
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,B,1
+F13,Undergraduate,ANTH    113,SALDIVAR TANA,C,1
+F13,Undergraduate,ANTH    115,HOELLE J A,A,18
+F13,Undergraduate,ANTH    115,HOELLE J A,A-,12
+F13,Undergraduate,ANTH    115,HOELLE J A,B+,4
+F13,Undergraduate,ANTH    115,HOELLE J A,B,5
+F13,Undergraduate,ANTH    115,HOELLE J A,B-,1
+F13,Undergraduate,ANTH    115,HOELLE J A,C-,1
+F13,Undergraduate,ANTH    115,HOELLE J A,D,1
+F13,Undergraduate,ANTH    116A,HANCOCK M E,A+,7
+F13,Undergraduate,ANTH    116A,HANCOCK M E,A,14
+F13,Undergraduate,ANTH    116A,HANCOCK M E,A-,12
+F13,Undergraduate,ANTH    116A,HANCOCK M E,B+,6
+F13,Undergraduate,ANTH    116A,HANCOCK M E,B,13
+F13,Undergraduate,ANTH    116A,HANCOCK M E,B-,2
+F13,Undergraduate,ANTH    116A,HANCOCK M E,C+,4
+F13,Undergraduate,ANTH    116A,HANCOCK M E,C,14
+F13,Undergraduate,ANTH    116A,HANCOCK M E,C-,2
+F13,Undergraduate,ANTH    116A,HANCOCK M E,D+,1
+F13,Undergraduate,ANTH    116A,HANCOCK M E,D,2
+F13,Undergraduate,ANTH    116A,HANCOCK M E,F,6
+F13,Undergraduate,ANTH    130A,STONICH S C,A,4
+F13,Undergraduate,ANTH    130A,STONICH S C,B+,2
+F13,Undergraduate,ANTH    130A,STONICH S C,B,12
+F13,Undergraduate,ANTH    130A,STONICH S C,C+,3
+F13,Undergraduate,ANTH    130A,STONICH S C,C,1
+F13,Undergraduate,ANTH    130A,STONICH S C,D,1
+F13,Undergraduate,ANTH    130A,STONICH S C,F,1
+F13,Undergraduate,ANTH    133,VANDERWARKER,A+,7
+F13,Undergraduate,ANTH    133,VANDERWARKER,A,18
+F13,Undergraduate,ANTH    133,VANDERWARKER,A-,16
+F13,Undergraduate,ANTH    133,VANDERWARKER,B+,14
+F13,Undergraduate,ANTH    133,VANDERWARKER,B,20
+F13,Undergraduate,ANTH    133,VANDERWARKER,B-,6
+F13,Undergraduate,ANTH    133,VANDERWARKER,C+,8
+F13,Undergraduate,ANTH    133,VANDERWARKER,C,3
+F13,Undergraduate,ANTH    133,VANDERWARKER,C-,1
+F13,Undergraduate,ANTH    133,VANDERWARKER,F,5
+F13,Undergraduate,ANTH    143F,WILSON G D,A,8
+F13,Undergraduate,ANTH    143F,WILSON G D,A-,7
+F13,Undergraduate,ANTH    143F,WILSON G D,B+,3
+F13,Undergraduate,ANTH    143F,WILSON G D,B,1
+F13,Undergraduate,ANTH    143F,WILSON G D,C-,1
+F13,Undergraduate,ANTH    143F,WILSON G D,F,1
+F13,Undergraduate,ANTH    149,CLEVELAND D A,A+,3
+F13,Undergraduate,ANTH    149,CLEVELAND D A,A,6
+F13,Undergraduate,ANTH    149,CLEVELAND D A,A-,7
+F13,Undergraduate,ANTH    149,CLEVELAND D A,B+,2
+F13,Undergraduate,ANTH    149,CLEVELAND D A,B,8
+F13,Undergraduate,ANTH    149,CLEVELAND D A,B-,5
+F13,Undergraduate,ANTH    149,CLEVELAND D A,C+,3
+F13,Undergraduate,ANTH    149,CLEVELAND D A,C,6
+F13,Undergraduate,ANTH    149,CLEVELAND D A,C-,2
+F13,Undergraduate,ANTH    149,CLEVELAND D A,D+,1
+F13,Undergraduate,ANTH    149,CLEVELAND D A,D,1
+F13,Undergraduate,ANTH    149,CLEVELAND D A,F,4
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,A+,1
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,A,7
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,A-,9
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,B+,2
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,B,1
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,C+,1
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,C,1
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,C-,1
+F13,Undergraduate,ANTH    150B,SCHREIBER K J,F,2
+F13,Undergraduate,ANTH    153T,JAEGGI A V,A+,10
+F13,Undergraduate,ANTH    153T,JAEGGI A V,A,6
+F13,Undergraduate,ANTH    153T,JAEGGI A V,A-,15
+F13,Undergraduate,ANTH    153T,JAEGGI A V,B+,6
+F13,Undergraduate,ANTH    153T,JAEGGI A V,B,12
+F13,Undergraduate,ANTH    153T,JAEGGI A V,B-,5
+F13,Undergraduate,ANTH    153T,JAEGGI A V,C+,2
+F13,Undergraduate,ANTH    153T,JAEGGI A V,C,5
+F13,Undergraduate,ANTH    153T,JAEGGI A V,C-,2
+F13,Undergraduate,ANTH    161,BLACKWELL A D,A+,6
+F13,Undergraduate,ANTH    161,BLACKWELL A D,A,20
+F13,Undergraduate,ANTH    161,BLACKWELL A D,A-,13
+F13,Undergraduate,ANTH    161,BLACKWELL A D,B+,6
+F13,Undergraduate,ANTH    161,BLACKWELL A D,B,12
+F13,Undergraduate,ANTH    161,BLACKWELL A D,B-,5
+F13,Undergraduate,ANTH    161,BLACKWELL A D,C+,2
+F13,Undergraduate,ANTH    161,BLACKWELL A D,C,6
+F13,Undergraduate,ANTH    161,BLACKWELL A D,C-,4
+F13,Undergraduate,ANTH    161,BLACKWELL A D,D+,2
+F13,Undergraduate,ANTH    161,BLACKWELL A D,D,1
+F13,Undergraduate,ANTH    178,GAMBLE L H,A,6
+F13,Undergraduate,ANTH    182,VANDERWARKER,A,3
+F13,Undergraduate,ANTH    182,VANDERWARKER,A-,4
+F13,Undergraduate,ANTH    182,VANDERWARKER,B+,2
+F13,Undergraduate,ANTH    182,VANDERWARKER,B,1
+F13,Undergraduate,ANTH    182,VANDERWARKER,B-,2
+F13,Undergraduate,ANTH    182,VANDERWARKER,F,1
+F13,Undergraduate,ANTH    182M,WILSON G D,A,8
+F13,Undergraduate,ANTH    182M,WILSON G D,A-,3
+F13,Undergraduate,ANTH    182M,WILSON G D,B+,9
+F13,Undergraduate,ANTH    182M,WILSON G D,B,1
+F13,Undergraduate,ANTH    182M,WILSON G D,B-,2
+F13,Undergraduate,ANTH    182M,WILSON G D,C+,2
+F13,Undergraduate,ANTH    182M,WILSON G D,F,1
+F13,Undergraduate,ANTH    191,LEWALLEN A,A+,1
+F13,Undergraduate,ANTH    191,LEWALLEN A,A,6
+F13,Undergraduate,ANTH    191,LEWALLEN A,A-,4
+F13,Undergraduate,ANTH    191,LEWALLEN A,B+,2
+F13,Undergraduate,ANTH    191,LEWALLEN A,B,2
+F13,Undergraduate,ANTH    191,LEWALLEN A,B-,1
+F13,Undergraduate,ANTH    191,LEWALLEN A,D+,1
+F13,Undergraduate,ANTH    191,LEWALLEN A,D,1
+F13,Undergraduate,ANTH    194P,GLASSOW M A,A,6
+F13,Undergraduate,ANTH    194P,VANDERWARKER,A+,5
+F13,Graduate,ANTH    201A,JOCHIM M A,A,6
+F13,Graduate,ANTH    234,TOOBY J,A,5
+F13,Graduate,ANTH    239A,SCHREIBER K J,A,4
+F13,Graduate,ANTH    239A,SCHREIBER K J,B+,1
+F13,Graduate,ANTH    240A,STONICH S C,A,5
+F13,Graduate,ANTH    244,GAULIN S J,A+,1
+F13,Graduate,ANTH    244,GAULIN S J,A,6
+F13,Graduate,ANTH    250CW,WALSH C,A,5
+F13,Graduate,ANTH    250DK,KURIN D S,A,1
+F13,Graduate,ANTH    250DK,KURIN D S,A-,4
+F13,Graduate,ANTH    277,WILSON G D,S,6
+F13,Graduate,ANTH    501,GAULIN S J,F,1
+F13,Graduate,ANTH    501,GAULIN S J,S,5
+F13,Graduate,ANTH    501,WALSH C,S,6
+F13,Graduate,ANTH    599,GLASSOW M A,S,6

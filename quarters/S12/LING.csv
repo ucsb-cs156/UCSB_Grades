@@ -1,0 +1,99 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,LING      2G,FRODESEN J M,P,17
+S12,Undergraduate,LING      3B,RIGHTMIRE S R,A+,13
+S12,Undergraduate,LING      3B,RIGHTMIRE S R,A,7
+S12,Undergraduate,LING      3C,GILMAN R L,A,6
+S12,Undergraduate,LING      3C,GILMAN R L,A-,4
+S12,Undergraduate,LING      3C,GILMAN R L,B+,2
+S12,Undergraduate,LING      3C,GILMAN R L,B,1
+S12,Undergraduate,LING      3C,GILMAN R L,B-,3
+S12,Undergraduate,LING      3C,GILMAN R L,C+,1
+S12,Undergraduate,LING      3C,RIGHTMIRE S R,A,16
+S12,Undergraduate,LING      3C,RIGHTMIRE S R,B+,3
+S12,Undergraduate,LING      3G,GILMAN R L,P,10
+S12,Undergraduate,LING      4,HANSON J L,P,15
+S12,Undergraduate,LING     12,GOUGH J D,A,4
+S12,Undergraduate,LING     12,GOUGH J D,A-,8
+S12,Undergraduate,LING     12,GOUGH J D,B+,4
+S12,Undergraduate,LING     12,GOUGH J D,B,1
+S12,Undergraduate,LING     12,GOUGH J D,C+,1
+S12,Undergraduate,LING     70,KENNEDY R A,A+,32
+S12,Undergraduate,LING     70,KENNEDY R A,A,22
+S12,Undergraduate,LING     70,KENNEDY R A,A-,19
+S12,Undergraduate,LING     70,KENNEDY R A,B+,9
+S12,Undergraduate,LING     70,KENNEDY R A,B,6
+S12,Undergraduate,LING     70,KENNEDY R A,B-,4
+S12,Undergraduate,LING     70,KENNEDY R A,C+,2
+S12,Undergraduate,LING     70,KENNEDY R A,C,5
+S12,Undergraduate,LING     70,KENNEDY R A,C-,2
+S12,Undergraduate,LING     70,KENNEDY R A,D+,1
+S12,Undergraduate,LING     70,KENNEDY R A,F,1
+S12,Undergraduate,LING    108,MITHUN M,A+,1
+S12,Undergraduate,LING    108,MITHUN M,A,14
+S12,Undergraduate,LING    108,MITHUN M,A-,8
+S12,Undergraduate,LING    108,MITHUN M,B+,1
+S12,Undergraduate,LING    108,MITHUN M,B,11
+S12,Undergraduate,LING    108,MITHUN M,B-,2
+S12,Undergraduate,LING    108,MITHUN M,C+,2
+S12,Undergraduate,LING    108,MITHUN M,C,1
+S12,Undergraduate,LING    108,MITHUN M,C-,5
+S12,Undergraduate,LING    108,MITHUN M,D-,1
+S12,Undergraduate,LING    115,MUNOZ LEDO YA,A+,7
+S12,Undergraduate,LING    115,MUNOZ LEDO YA,A,10
+S12,Undergraduate,LING    115,MUNOZ LEDO YA,B,3
+S12,Undergraduate,LING    115,MUNOZ LEDO YA,C,4
+S12,Undergraduate,LING    115,MUNOZ LEDO YA,D,2
+S12,Undergraduate,LING    136,BUCHOLTZ M H,A+,2
+S12,Undergraduate,LING    136,BUCHOLTZ M H,A,13
+S12,Undergraduate,LING    136,BUCHOLTZ M H,A-,8
+S12,Undergraduate,LING    136,BUCHOLTZ M H,B+,11
+S12,Undergraduate,LING    136,BUCHOLTZ M H,B,8
+S12,Undergraduate,LING    136,BUCHOLTZ M H,B-,4
+S12,Undergraduate,LING    136,BUCHOLTZ M H,C+,2
+S12,Undergraduate,LING    136,BUCHOLTZ M H,C,2
+S12,Undergraduate,LING    136,BUCHOLTZ M H,C-,3
+S12,Undergraduate,LING    136,BUCHOLTZ M H,D+,2
+S12,Undergraduate,LING    136,BUCHOLTZ M H,D,1
+S12,Undergraduate,LING    136,BUCHOLTZ M H,F,2
+S12,Undergraduate,LING    140,FRODESEN J M,A+,5
+S12,Undergraduate,LING    140,FRODESEN J M,A,7
+S12,Undergraduate,LING    140,FRODESEN J M,A-,4
+S12,Undergraduate,LING    140,FRODESEN J M,B+,3
+S12,Undergraduate,LING    140,FRODESEN J M,B,6
+S12,Undergraduate,LING    140,FRODESEN J M,B-,1
+S12,Undergraduate,LING    140,FRODESEN J M,C,1
+S12,Undergraduate,LING    141,CHUN D M,A+,2
+S12,Undergraduate,LING    141,CHUN D M,A,7
+S12,Undergraduate,LING    141,CHUN D M,A-,7
+S12,Undergraduate,LING    141,CHUN D M,B+,2
+S12,Undergraduate,LING    141,CHUN D M,B,2
+S12,Undergraduate,LING    141,CHUN D M,C+,1
+S12,Undergraduate,LING    141,CHUN D M,C,3
+S12,Undergraduate,LING    141,CHUN D M,C-,1
+S12,Undergraduate,LING    141,CHUN D M,D,1
+S12,Undergraduate,LING    160,KENNEDY R A,A+,2
+S12,Undergraduate,LING    160,KENNEDY R A,A,5
+S12,Undergraduate,LING    160,KENNEDY R A,A-,3
+S12,Undergraduate,LING    160,KENNEDY R A,B+,3
+S12,Undergraduate,LING    160,KENNEDY R A,B,6
+S12,Undergraduate,LING    160,KENNEDY R A,B-,2
+S12,Undergraduate,LING    160,KENNEDY R A,C+,2
+S12,Undergraduate,LING    160,KENNEDY R A,C,2
+S12,Undergraduate,LING    160,KENNEDY R A,D+,1
+S12,Undergraduate,LING    191,BUCHOLTZ M H,A+,3
+S12,Undergraduate,LING    191,BUCHOLTZ M H,A,2
+S12,Graduate,LING    208,MITHUN M,A,5
+S12,Graduate,LING    226,CLANCY P M,A,11
+S12,Graduate,LING    230,BUCHOLTZ M H,A,6
+S12,Graduate,LING    230,BUCHOLTZ M H,A-,1
+S12,Graduate,LING    234,MITHUN M,A,10
+S12,Graduate,LING    235,GORDON M K,A,3
+S12,Graduate,LING    235,GORDON M K,B,1
+S12,Graduate,LING    235,GORDON M K,S,1
+S12,Graduate,LING    258B,BUCHOLTZ M H,A,4
+S12,Graduate,LING    258B,BUCHOLTZ M H,A-,1
+S12,Graduate,LING    270A,MITHUN M,A,9
+S12,Graduate,LING    270B,MITHUN M,A,8
+S12,Graduate,LING    272,MITHUN M,S,11
+S12,Graduate,LING    292,BUCHOLTZ M H,A+,2
+S12,Graduate,LING    292,BUCHOLTZ M H,A,4

@@ -1,0 +1,96 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,GLOBL     1,MCCARTY P C,A+,2
+S12,Undergraduate,GLOBL     1,MCCARTY P C,A,159
+S12,Undergraduate,GLOBL     1,MCCARTY P C,A-,48
+S12,Undergraduate,GLOBL     1,MCCARTY P C,B+,31
+S12,Undergraduate,GLOBL     1,MCCARTY P C,B,33
+S12,Undergraduate,GLOBL     1,MCCARTY P C,C+,2
+S12,Undergraduate,GLOBL     1,MCCARTY P C,C,2
+S12,Undergraduate,GLOBL     1,MCCARTY P C,C-,1
+S12,Undergraduate,GLOBL     1,MCCARTY P C,F,2
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,A+,21
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,A,47
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,A-,58
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,B+,36
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,B,37
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,B-,25
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,C+,7
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,C,8
+S12,Undergraduate,GLOBL     2,JUERGENSMEYER,F,3
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,A+,9
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,A,12
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,A-,21
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,B+,17
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,B,18
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,B-,2
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,C+,3
+S12,Undergraduate,GLOBL   102,JUERGENSMEYER,F,1
+S12,Undergraduate,GLOBL   111,BRYSK A,A,15
+S12,Undergraduate,GLOBL   111,BRYSK A,A-,3
+S12,Undergraduate,GLOBL   111,BRYSK A,B+,2
+S12,Undergraduate,GLOBL   111,BRYSK A,B,6
+S12,Undergraduate,GLOBL   111,BRYSK A,B-,4
+S12,Undergraduate,GLOBL   111,BRYSK A,C+,1
+S12,Undergraduate,GLOBL   111,BRYSK A,C,1
+S12,Undergraduate,GLOBL   120,BRYSK A,A+,7
+S12,Undergraduate,GLOBL   120,BRYSK A,A,63
+S12,Undergraduate,GLOBL   120,BRYSK A,A-,19
+S12,Undergraduate,GLOBL   120,BRYSK A,B+,13
+S12,Undergraduate,GLOBL   120,BRYSK A,B,26
+S12,Undergraduate,GLOBL   120,BRYSK A,B-,11
+S12,Undergraduate,GLOBL   120,BRYSK A,C+,3
+S12,Undergraduate,GLOBL   120,BRYSK A,C,1
+S12,Undergraduate,GLOBL   120,BRYSK A,C-,4
+S12,Undergraduate,GLOBL   120,BRYSK A,D,1
+S12,Undergraduate,GLOBL   120,BRYSK A,F,1
+S12,Undergraduate,GLOBL   130,MEHTA A S,A+,12
+S12,Undergraduate,GLOBL   130,MEHTA A S,A,18
+S12,Undergraduate,GLOBL   130,MEHTA A S,A-,14
+S12,Undergraduate,GLOBL   130,MEHTA A S,B+,19
+S12,Undergraduate,GLOBL   130,MEHTA A S,B,14
+S12,Undergraduate,GLOBL   130,MEHTA A S,B-,16
+S12,Undergraduate,GLOBL   130,MEHTA A S,C+,10
+S12,Undergraduate,GLOBL   130,MEHTA A S,C,14
+S12,Undergraduate,GLOBL   130,MEHTA A S,C-,4
+S12,Undergraduate,GLOBL   130,MEHTA A S,D,9
+S12,Undergraduate,GLOBL   130,MEHTA A S,F,4
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,A,22
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,A-,7
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,B+,3
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,B,1
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,C+,2
+S12,Undergraduate,GLOBL   152,DARIAN-SMITH,F,2
+S12,Undergraduate,GLOBL   157,MCCARTY P C,A+,3
+S12,Undergraduate,GLOBL   157,MCCARTY P C,A,18
+S12,Undergraduate,GLOBL   157,MCCARTY P C,A-,4
+S12,Undergraduate,GLOBL   157,MCCARTY P C,B+,4
+S12,Undergraduate,GLOBL   157,MCCARTY P C,B,4
+S12,Undergraduate,GLOBL   157,MCCARTY P C,C,1
+S12,Undergraduate,GLOBL   170,ELVER H,A+,1
+S12,Undergraduate,GLOBL   170,ELVER H,A,8
+S12,Undergraduate,GLOBL   170,ELVER H,A-,3
+S12,Undergraduate,GLOBL   170,ELVER H,C+,1
+S12,Undergraduate,GLOBL   180A,BHAVNANI K,A,4
+S12,Undergraduate,GLOBL   180A,BHAVNANI K,A-,3
+S12,Undergraduate,GLOBL   180A,BHAVNANI K,B,1
+S12,Undergraduate,GLOBL   180A,BHAVNANI K,B-,1
+S12,Undergraduate,GLOBL   191,DARIAN-SMITH,A,9
+S12,Undergraduate,GLOBL   194,ORFALEA P J,A,25
+S12,Undergraduate,GLOBL   194,ORFALEA P J,B,1
+S12,Undergraduate,GLOBL   197,MEHTA A S,A+,4
+S12,Undergraduate,GLOBL   197,MEHTA A S,A,8
+S12,Undergraduate,GLOBL   197,MEHTA A S,A-,8
+S12,Undergraduate,GLOBL   197,MEHTA A S,B+,1
+S12,Undergraduate,GLOBL   197,MEHTA A S,B,3
+S12,Undergraduate,GLOBL   197,MEHTA A S,F,2
+S12,Graduate,GLOBL   225,DARIAN-SMITH,A,15
+S12,Graduate,GLOBL   225,DARIAN-SMITH,A-,1
+S12,Graduate,GLOBL   225,DARIAN-SMITH,F,1
+S12,Graduate,GLOBL   226B,APPELBAUM R,S,16
+S12,Graduate,GLOBL   237,CLEMENCON R,A,1
+S12,Graduate,GLOBL   237,CLEMENCON R,A-,3
+S12,Graduate,GLOBL   237,CLEMENCON R,B+,2
+S12,Graduate,GLOBL   270,ELVER H,A,4
+S12,Graduate,GLOBL   270,ELVER H,A-,3
+S12,Graduate,GLOBL   270,ELVER H,B+,1
+S12,Graduate,GLOBL   596,APPELBAUM R,A,9

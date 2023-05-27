@@ -1,0 +1,173 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,CMPSC     8,BUONI M J,A+,14
+S11,Undergraduate,CMPSC     8,BUONI M J,A,23
+S11,Undergraduate,CMPSC     8,BUONI M J,A-,10
+S11,Undergraduate,CMPSC     8,BUONI M J,B+,14
+S11,Undergraduate,CMPSC     8,BUONI M J,B,11
+S11,Undergraduate,CMPSC     8,BUONI M J,B-,9
+S11,Undergraduate,CMPSC     8,BUONI M J,C+,1
+S11,Undergraduate,CMPSC     8,BUONI M J,C,7
+S11,Undergraduate,CMPSC     8,BUONI M J,C-,4
+S11,Undergraduate,CMPSC     8,BUONI M J,D,2
+S11,Undergraduate,CMPSC     8,BUONI M J,F,3
+S11,Undergraduate,CMPSC    16,COSTANZO C,A+,2
+S11,Undergraduate,CMPSC    16,COSTANZO C,A,16
+S11,Undergraduate,CMPSC    16,COSTANZO C,A-,13
+S11,Undergraduate,CMPSC    16,COSTANZO C,B+,8
+S11,Undergraduate,CMPSC    16,COSTANZO C,B,17
+S11,Undergraduate,CMPSC    16,COSTANZO C,B-,11
+S11,Undergraduate,CMPSC    16,COSTANZO C,C+,5
+S11,Undergraduate,CMPSC    16,COSTANZO C,C,6
+S11,Undergraduate,CMPSC    16,COSTANZO C,C-,1
+S11,Undergraduate,CMPSC    16,COSTANZO C,D-,1
+S11,Undergraduate,CMPSC    24,COSTANZO C,A+,7
+S11,Undergraduate,CMPSC    24,COSTANZO C,A,26
+S11,Undergraduate,CMPSC    24,COSTANZO C,A-,9
+S11,Undergraduate,CMPSC    24,COSTANZO C,B+,6
+S11,Undergraduate,CMPSC    24,COSTANZO C,B,23
+S11,Undergraduate,CMPSC    24,COSTANZO C,B-,8
+S11,Undergraduate,CMPSC    24,COSTANZO C,C+,3
+S11,Undergraduate,CMPSC    24,COSTANZO C,C,9
+S11,Undergraduate,CMPSC    24,COSTANZO C,C-,7
+S11,Undergraduate,CMPSC    24,COSTANZO C,D,4
+S11,Undergraduate,CMPSC    24,COSTANZO C,D-,1
+S11,Undergraduate,CMPSC    32,KRINTZ C,A,27
+S11,Undergraduate,CMPSC    32,KRINTZ C,A-,4
+S11,Undergraduate,CMPSC    32,KRINTZ C,B,23
+S11,Undergraduate,CMPSC    32,KRINTZ C,B-,2
+S11,Undergraduate,CMPSC    32,KRINTZ C,C,13
+S11,Undergraduate,CMPSC    32,KRINTZ C,C-,3
+S11,Undergraduate,CMPSC    32,KRINTZ C,F,7
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,A+,2
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,A,7
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,A-,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,B+,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,B,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,B-,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,C+,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,C,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,C-,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,D+,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,D,4
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,D-,2
+S11,Undergraduate,CMPSC    40,CAPPELLO P R,F,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,A+,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,A,15
+S11,Undergraduate,CMPSC    56,CONRAD P T,B+,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,B,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,C,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,D,2
+S11,Undergraduate,CMPSC    56,CONRAD P T,F,2
+S11,Undergraduate,CMPSC    64,ZHENG H,A+,5
+S11,Undergraduate,CMPSC    64,ZHENG H,A,8
+S11,Undergraduate,CMPSC    64,ZHENG H,A-,5
+S11,Undergraduate,CMPSC    64,ZHENG H,B,13
+S11,Undergraduate,CMPSC    64,ZHENG H,B-,1
+S11,Undergraduate,CMPSC    64,ZHENG H,C+,5
+S11,Undergraduate,CMPSC    64,ZHENG H,C,3
+S11,Undergraduate,CMPSC    64,ZHENG H,C-,2
+S11,Undergraduate,CMPSC    64,ZHENG H,D,3
+S11,Undergraduate,CMPSC    64,ZHENG H,D-,1
+S11,Undergraduate,CMPSC    64,ZHENG H,F,3
+S11,Undergraduate,CMPSC   130B,SURI S,A+,4
+S11,Undergraduate,CMPSC   130B,SURI S,A,14
+S11,Undergraduate,CMPSC   130B,SURI S,A-,5
+S11,Undergraduate,CMPSC   130B,SURI S,B+,6
+S11,Undergraduate,CMPSC   130B,SURI S,B,13
+S11,Undergraduate,CMPSC   130B,SURI S,B-,4
+S11,Undergraduate,CMPSC   130B,SURI S,C,15
+S11,Undergraduate,CMPSC   130B,SURI S,D,4
+S11,Undergraduate,CMPSC   138,IBARRA O H,A+,1
+S11,Undergraduate,CMPSC   138,IBARRA O H,A,10
+S11,Undergraduate,CMPSC   138,IBARRA O H,A-,1
+S11,Undergraduate,CMPSC   138,IBARRA O H,B+,12
+S11,Undergraduate,CMPSC   138,IBARRA O H,B,6
+S11,Undergraduate,CMPSC   138,IBARRA O H,C+,6
+S11,Undergraduate,CMPSC   138,IBARRA O H,C,1
+S11,Undergraduate,CMPSC   138,IBARRA O H,D,2
+S11,Undergraduate,CMPSC   138,IBARRA O H,F,1
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,A+,2
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,A,7
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,A-,7
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,B+,6
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,B,7
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,B-,5
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,C+,2
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,C,3
+S11,Undergraduate,CMPSC   154,SHERWOOD T P,F,1
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,A+,3
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,A,6
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,A-,4
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,B+,4
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,B,3
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,B-,1
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,C+,2
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,C,1
+S11,Undergraduate,CMPSC   162,HARDEKOPF B C,F,1
+S11,Undergraduate,CMPSC   170,ZHAO B Y,A,5
+S11,Undergraduate,CMPSC   170,ZHAO B Y,A-,4
+S11,Undergraduate,CMPSC   170,ZHAO B Y,B,8
+S11,Undergraduate,CMPSC   170,ZHAO B Y,B-,2
+S11,Undergraduate,CMPSC   170,ZHAO B Y,C,5
+S11,Undergraduate,CMPSC   170,ZHAO B Y,D+,1
+S11,Undergraduate,CMPSC   170,ZHAO B Y,D,5
+S11,Undergraduate,CMPSC   170,ZHAO B Y,D-,1
+S11,Undergraduate,CMPSC   185,HOLLERER T,A,9
+S11,Undergraduate,CMPSC   185,HOLLERER T,A-,5
+S11,Undergraduate,CMPSC   185,HOLLERER T,B+,5
+S11,Undergraduate,CMPSC   185,HOLLERER T,B,5
+S11,Undergraduate,CMPSC   185,HOLLERER T,B-,2
+S11,Undergraduate,CMPSC   185,HOLLERER T,C+,3
+S11,Undergraduate,CMPSC   185,HOLLERER T,C,4
+S11,Undergraduate,CMPSC   185,HOLLERER T,D,2
+S11,Undergraduate,CMPSC   185,HOLLERER T,F,1
+S11,Undergraduate,CMPSC   189B,WOLSKI R M,A+,7
+S11,Undergraduate,CMPSC   189B,WOLSKI R M,A,5
+S11,Undergraduate,CMPSC   189B,WOLSKI R M,A-,12
+S11,Undergraduate,CMPSC   189B,WOLSKI R M,B+,4
+S11,Graduate,CMPSC   230,GONZALEZ T F,A+,2
+S11,Graduate,CMPSC   230,GONZALEZ T F,A,5
+S11,Graduate,CMPSC   230,GONZALEZ T F,A-,5
+S11,Graduate,CMPSC   230,GONZALEZ T F,B+,1
+S11,Graduate,CMPSC   240A,GILBERT J R,A+,3
+S11,Graduate,CMPSC   240A,GILBERT J R,A,15
+S11,Graduate,CMPSC   240A,GILBERT J R,A-,5
+S11,Graduate,CMPSC   267,BULTAN T,A,3
+S11,Graduate,CMPSC   267,BULTAN T,A-,2
+S11,Graduate,CMPSC   267,BULTAN T,B,1
+S11,Graduate,CMPSC   270,YANG T,A+,1
+S11,Graduate,CMPSC   270,YANG T,A,17
+S11,Graduate,CMPSC   270,YANG T,A-,2
+S11,Graduate,CMPSC   270,YANG T,B+,2
+S11,Graduate,CMPSC   274,AGRAWAL D,A+,2
+S11,Graduate,CMPSC   274,AGRAWAL D,A,8
+S11,Graduate,CMPSC   274,AGRAWAL D,A-,2
+S11,Graduate,CMPSC   290A,VAN DAM W,A,5
+S11,Graduate,CMPSC   290A,VAN DAM W,A-,5
+S11,Graduate,CMPSC   290A,VAN DAM W,B+,1
+S11,Graduate,CMPSC   290D,SU J,A,6
+S11,Graduate,CMPSC   290D,YAN X,A+,3
+S11,Graduate,CMPSC   290D,YAN X,A,6
+S11,Graduate,CMPSC   290D,YAN X,A-,8
+S11,Graduate,CMPSC   290G,KRUEGEL C I,A+,3
+S11,Graduate,CMPSC   290G,KRUEGEL C I,A,4
+S11,Graduate,CMPSC   290G,KRUEGEL C I,A-,1
+S11,Graduate,CMPSC   290G,KRUEGEL C I,B,1
+S11,Graduate,CMPSC   290G,KRUEGEL C I,C-,1
+S11,Graduate,CMPSC   502,EL ABBADI A,S,27
+S11,Graduate,CMPSC   595N,PETZOLD L,S,11
+S11,Graduate,CMPSC   595N,PETZOLD L,U,2
+S11,Graduate,CMPSC   596,AGRAWAL D,A+,3
+S11,Graduate,CMPSC   596,AGRAWAL D,A,2
+S11,Graduate,CMPSC   596,HOLLERER T,A,11
+S11,Graduate,CMPSC   596,KRINTZ C,S,5
+S11,Graduate,CMPSC   596,KRUEGEL C I,A,6
+S11,Graduate,CMPSC   596,KRUEGEL C I,S,1
+S11,Graduate,CMPSC   596,PETZOLD L,A+,1
+S11,Graduate,CMPSC   596,PETZOLD L,A,7
+S11,Graduate,CMPSC   596,SINGH A K,A,8
+S11,Graduate,CMPSC   596,VIGNA G,A+,6
+S11,Graduate,CMPSC   596,YAN X,A,5
+S11,Graduate,CMPSC   596,YAN X,S,1
+S11,Undergraduate,CMPSCCS 130A,KARAORMAN M,P,5
+S11,Undergraduate,CMPSCCS 130H,KOC C K,P,11

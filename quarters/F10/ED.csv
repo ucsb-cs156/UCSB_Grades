@@ -1,0 +1,142 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F10,Undergraduate,ED        4A,FELDWINN D L,A,6
+F10,Undergraduate,ED        4A,FELDWINN D L,A-,2
+F10,Undergraduate,ED        4A,FELDWINN D L,B+,2
+F10,Undergraduate,ED        4A,FELDWINN D L,B,2
+F10,Undergraduate,ED        4A,FELDWINN D L,B-,1
+F10,Undergraduate,ED        4A,FELDWINN D L,C+,2
+F10,Undergraduate,ED        4A,FELDWINN D L,F,1
+F10,Undergraduate,ED        4A,JOHNSON S K,A,6
+F10,Undergraduate,ED        4A,JOHNSON S K,A-,2
+F10,Undergraduate,ED        4A,JOHNSON S K,B+,2
+F10,Undergraduate,ED        4A,JOHNSON S K,B,2
+F10,Undergraduate,ED        4A,JOHNSON S K,B-,1
+F10,Undergraduate,ED        4A,JOHNSON S K,C+,2
+F10,Undergraduate,ED        4A,JOHNSON S K,F,1
+F10,Undergraduate,ED       10,LUBACH D W,P,256
+F10,Undergraduate,ED       10,LUBACH D W,NP,4
+F10,Undergraduate,ED      103,COPELAND W D,A,12
+F10,Undergraduate,ED      103,COPELAND W D,A-,9
+F10,Undergraduate,ED      103,COPELAND W D,B+,1
+F10,Undergraduate,ED      103,COPELAND W D,B,3
+F10,Undergraduate,ED      118,LUBACH D W,A,5
+F10,Undergraduate,ED      118,LUBACH D W,A-,2
+F10,Undergraduate,ED      118,LUBACH D W,B,1
+F10,Undergraduate,ED      121,HEADLEY J A,A+,1
+F10,Undergraduate,ED      121,HEADLEY J A,A,18
+F10,Undergraduate,ED      121,HEADLEY J A,A-,1
+F10,Undergraduate,ED      122,HEADLEY J A,P,48
+F10,Undergraduate,ED      122,HEADLEY J A,NP,1
+F10,Undergraduate,ED      131,FELDWINN D L,A+,1
+F10,Undergraduate,ED      131,FELDWINN D L,A,6
+F10,Undergraduate,ED      131,FELDWINN D L,A-,1
+F10,Undergraduate,ED      131,FELDWINN D L,B+,2
+F10,Undergraduate,ED      131,FELDWINN D L,B,5
+F10,Undergraduate,ED      131,FELDWINN D L,B-,1
+F10,Undergraduate,ED      131,FELDWINN D L,C-,2
+F10,Undergraduate,ED      131,JOHNSON S K,A+,1
+F10,Undergraduate,ED      131,JOHNSON S K,A,6
+F10,Undergraduate,ED      131,JOHNSON S K,A-,1
+F10,Undergraduate,ED      131,JOHNSON S K,B+,2
+F10,Undergraduate,ED      131,JOHNSON S K,B,5
+F10,Undergraduate,ED      131,JOHNSON S K,B-,1
+F10,Undergraduate,ED      131,JOHNSON S K,C-,2
+F10,Undergraduate,ED      173,LUBACH D W,A,24
+F10,Undergraduate,ED      173,LUBACH D W,A-,10
+F10,Undergraduate,ED      173,LUBACH D W,B+,5
+F10,Undergraduate,ED      173,LUBACH D W,B,6
+F10,Undergraduate,ED      173,LUBACH D W,B-,2
+F10,Undergraduate,ED      173,LUBACH D W,D+,1
+F10,Undergraduate,ED      176B,GERBER M M,A+,11
+F10,Undergraduate,ED      176B,GERBER M M,A,4
+F10,Undergraduate,ED      191A,WHITE S A,A,4
+F10,Undergraduate,ED      191A,WHITE S A,A-,3
+F10,Undergraduate,ED      191A,WHITE S A,B+,1
+F10,Undergraduate,ED      191A,WHITE S A,B,6
+F10,Undergraduate,ED      191A,WHITE S A,B-,1
+F10,Undergraduate,ED      191A,WHITE S A,C+,2
+F10,Undergraduate,ED      191A,WHITE S A,C,2
+F10,Undergraduate,ED      191A,WHITE S A,D+,1
+F10,Undergraduate,ED      191C,WHITE S A,A,5
+F10,Undergraduate,ED      191C,WHITE S A,A-,5
+F10,Undergraduate,ED      191C,WHITE S A,B,7
+F10,Undergraduate,ED      191C,WHITE S A,C+,2
+F10,Undergraduate,ED      191D,WHITE S A,P,52
+F10,Undergraduate,ED      191W,WHITE S A,A,2
+F10,Undergraduate,ED      191W,WHITE S A,A-,4
+F10,Undergraduate,ED      191W,WHITE S A,B+,6
+F10,Undergraduate,ED      191W,WHITE S A,B,6
+F10,Undergraduate,ED      191W,WHITE S A,C+,1
+F10,Undergraduate,ED      191W,WHITE S A,C,1
+F10,Undergraduate,ED      199,GERBER M M,A,11
+F10,Undergraduate,ED      199,ROMO L F,A,7
+F10,Undergraduate,ED      199RA,GERBER M M,A,13
+F10,Undergraduate,ED      199RA,GERBER M M,F,1
+F10,Undergraduate,ED      199RA,KOEGEL R L,A,5
+F10,Undergraduate,ED      199RA,KOEGEL R L,A-,1
+F10,Undergraduate,ED      199RA,KOEGEL R L,B,1
+F10,Undergraduate,ED      199RA,KOEGEL R L,B-,1
+F10,Undergraduate,ED      199RA,KOEGEL R L,C,4
+F10,Undergraduate,ED      199RA,ROMO L F,A,14
+F10,Graduate,ED      209B,HUDLEY C,A,2
+F10,Graduate,ED      209B,HUDLEY C,A-,4
+F10,Graduate,ED      209D,ROMO L F,S,9
+F10,Graduate,ED      211B,KYRATZIS A,A+,1
+F10,Graduate,ED      211B,KYRATZIS A,A,5
+F10,Graduate,ED      214A,YUN J T,A,31
+F10,Graduate,ED      214A,YUN J T,A-,6
+F10,Graduate,ED      214A,YUN J T,B+,3
+F10,Graduate,ED      214A,YUN J T,B,5
+F10,Graduate,ED      214A,YUN J T,B-,1
+F10,Graduate,ED      214A,YUN J T,C+,1
+F10,Graduate,ED      214A,YUN J T,C,1
+F10,Graduate,ED      221A,HARLOW D B,A,15
+F10,Graduate,ED      221A,HARLOW D B,F,1
+F10,Graduate,ED      221A,RALEY J D,A,20
+F10,Graduate,ED      228D,SINGER G H S,A,19
+F10,Graduate,ED      229C,SINGER J,S,18
+F10,Graduate,ED      265A,RALEY J D,A,105
+F10,Graduate,ED      265A,SCALZO J N,A,105
+F10,Graduate,ED      270H,LEE J S,A,13
+F10,Graduate,ED      270H,LEE J S,A-,2
+F10,Graduate,ED      291,KOEGEL R L,A,4
+F10,Graduate,ED      291,KOEGEL R L,A-,2
+F10,Graduate,ED      323F,KOK O N,S,22
+F10,Graduate,ED      324,COPELAND W D,A,21
+F10,Graduate,ED      324,COPELAND W D,A-,1
+F10,Graduate,ED      324,COPELAND W D,B,1
+F10,Graduate,ED      325,COPELAND W D,A,40
+F10,Graduate,ED      325,COPELAND W D,A-,4
+F10,Graduate,ED      325,COPELAND W D,B,1
+F10,Graduate,ED      340,SLOAN T F,S,48
+F10,Graduate,ED      343,LIPPINCOTT A,S,45
+F10,Graduate,ED      370,SLOAN T F,S,18
+F10,Graduate,ED      407,BLOCK J H,S,6
+F10,Graduate,ED      596,GREEN J L,S,6
+F10,Graduate,ED      598,DURAN R P,S,5
+F10,Graduate,ED      598,GERBER M M,S,5
+F10,Graduate,ED      598,SINGER G H S,F,1
+F10,Graduate,ED      598,SINGER G H S,S,4
+F10,Graduate,ED      599,BRENNER M E,S,6
+F10,Graduate,ED      599,GREEN J L,S,7
+F10,Graduate,ED   E  321F,DEWAR T J,A,12
+F10,Graduate,ED   E  341,SLOAN T F,S,12
+F10,Graduate,ED   E  371,DEWAR T J,S,12
+F10,Graduate,ED   HSS341,SLOAN T F,S,9
+F10,Graduate,ED   L  321F,CONVERSE C W,S,23
+F10,Graduate,ED   LA 320F,ELLIS D,S,37
+F10,Graduate,ED   LA 320F,HOOSON T L,S,37
+F10,Graduate,ED   LA 320F,LIPPINCOTT A,S,37
+F10,Graduate,ED   M  341,SLOAN T F,S,14
+F10,Graduate,ED   S  321F,JOHNSON S K,A,7
+F10,Undergraduate,HIST      4C,EDGAR A L,A+,1
+F10,Undergraduate,HIST      4C,EDGAR A L,A,24
+F10,Undergraduate,HIST      4C,EDGAR A L,A-,37
+F10,Undergraduate,HIST      4C,EDGAR A L,B+,55
+F10,Undergraduate,HIST      4C,EDGAR A L,B,58
+F10,Undergraduate,HIST      4C,EDGAR A L,B-,48
+F10,Undergraduate,HIST      4C,EDGAR A L,C+,27
+F10,Undergraduate,HIST      4C,EDGAR A L,C,30
+F10,Undergraduate,HIST      4C,EDGAR A L,C-,13
+F10,Undergraduate,HIST      4C,EDGAR A L,F,9
+F10,Graduate,HIST    500,EDGAR A L,S,9

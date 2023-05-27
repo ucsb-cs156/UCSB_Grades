@@ -1,0 +1,128 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,A+,4
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,A,7
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,A-,3
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,B+,3
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,B,4
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,B-,6
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,C+,1
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,C,3
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,C-,5
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,D+,1
+S10,Undergraduate,CMPSC    30,FRANKLIN D M,D,1
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,A+,3
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,A,6
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,A-,5
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,B+,5
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,B,2
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,B-,5
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,C+,3
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,C,3
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,D,4
+S10,Undergraduate,CMPSC   154,FRANKLIN D M,F,1
+S10,Undergraduate,ENGL    152B,FRADENBURG L,A,8
+S10,Undergraduate,ENGL    152B,FRADENBURG L,A-,10
+S10,Undergraduate,ENGL    152B,FRADENBURG L,B+,13
+S10,Undergraduate,ENGL    152B,FRADENBURG L,B-,1
+S10,Undergraduate,ENGL    152B,FRADENBURG L,C,1
+S10,Undergraduate,ENGL    152B,FRADENBURG L,F,1
+S10,Graduate,ESM     263,FREW J E,A+,4
+S10,Graduate,ESM     263,FREW J E,A,14
+S10,Graduate,ESM     263,FREW J E,A-,18
+S10,Graduate,ESM     263,FREW J E,B+,11
+S10,Graduate,ESM     263,FREW J E,B,10
+S10,Undergraduate,FR        3,SCHULTZ J M,A,5
+S10,Undergraduate,FR        3,SCHULTZ J M,A-,6
+S10,Undergraduate,FR        3,SCHULTZ J M,B+,4
+S10,Undergraduate,FR        3,SCHULTZ J M,B,5
+S10,Undergraduate,FR        3,SCHULTZ J M,B-,1
+S10,Undergraduate,FR        3,SCHULTZ J M,C+,1
+S10,Undergraduate,FR        3,SCHULTZ J M,C,3
+S10,Undergraduate,FR        3,SCHULTZ J M,D+,1
+S10,Undergraduate,FR        3,SCHULTZ J M,F,1
+S10,Undergraduate,FR       26,ENDERS J,A,3
+S10,Undergraduate,FR       26,ENDERS J,A-,2
+S10,Undergraduate,FR       26,ENDERS J,B+,2
+S10,Undergraduate,FR       26,ENDERS J,B,2
+S10,Undergraduate,FR       26,ENDERS J,B-,2
+S10,Undergraduate,FR       26,ENDERS J,F,1
+S10,Undergraduate,FR      101C,PRIETO E,A,6
+S10,Undergraduate,FR      101C,PRIETO E,A-,4
+S10,Undergraduate,FR      101C,PRIETO E,B+,8
+S10,Undergraduate,FR      101C,PRIETO E,B,2
+S10,Undergraduate,FR      101C,PRIETO E,B-,3
+S10,Undergraduate,FR      101C,PRIETO E,C+,1
+S10,Undergraduate,FR      101C,PRIETO E,C,2
+S10,Undergraduate,FR      101C,PRIETO E,D,1
+S10,Undergraduate,FR      147D,STURM E,A+,1
+S10,Undergraduate,FR      147D,STURM E,A,6
+S10,Undergraduate,FR      147D,STURM E,A-,5
+S10,Undergraduate,FR      147D,STURM E,B+,4
+S10,Undergraduate,FR      147D,STURM E,B,1
+S10,Undergraduate,FR      147D,STURM E,B-,1
+S10,Undergraduate,FR      149A,MAURSETH A B,A+,2
+S10,Undergraduate,FR      149A,MAURSETH A B,A-,7
+S10,Undergraduate,FR      149A,MAURSETH A B,B+,3
+S10,Undergraduate,FR      149A,MAURSETH A B,B,1
+S10,Undergraduate,FR      153A,BROWN C J,A,3
+S10,Undergraduate,FR      153A,BROWN C J,A-,1
+S10,Undergraduate,FR      153A,BROWN C J,B+,8
+S10,Undergraduate,FR      153A,BROWN C J,B,6
+S10,Undergraduate,FR      153A,BROWN C J,B-,4
+S10,Undergraduate,FR      153A,BROWN C J,C+,9
+S10,Undergraduate,FR      153A,BROWN C J,D+,1
+S10,Undergraduate,FR      153F,STURM E,A+,5
+S10,Undergraduate,FR      153F,STURM E,A,10
+S10,Undergraduate,FR      153F,STURM E,A-,15
+S10,Undergraduate,FR      153F,STURM E,B+,13
+S10,Undergraduate,FR      153F,STURM E,B,18
+S10,Undergraduate,FR      153F,STURM E,B-,18
+S10,Undergraduate,FR      153F,STURM E,C+,5
+S10,Undergraduate,FR      153F,STURM E,C,1
+S10,Undergraduate,FR      153F,STURM E,C-,2
+S10,Undergraduate,FR      153F,STURM E,F,1
+S10,Graduate,FR      228E,MAURSETH A B,A,5
+S10,Graduate,FR      500,SCHULTZ J M,S,9
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,A+,3
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,A,1
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,A-,3
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,B+,1
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,B,2
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,B-,1
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,C+,2
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,C,2
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,C-,3
+S10,Undergraduate,JAPAN   164,FRUHSTUCK S,F,1
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,A,77
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,A-,12
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,B+,8
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,B,32
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,B-,3
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,C+,2
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,C,3
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,C-,1
+S10,Undergraduate,JAPAN   165,FRUHSTUCK S,F,1
+S10,Undergraduate,LIT  CS 112,FRADENBURG L,P,19
+S10,Undergraduate,PSY     103,FRIDLUND A J,A+,1
+S10,Undergraduate,PSY     103,FRIDLUND A J,A,162
+S10,Undergraduate,PSY     103,FRIDLUND A J,A-,29
+S10,Undergraduate,PSY     103,FRIDLUND A J,B+,39
+S10,Undergraduate,PSY     103,FRIDLUND A J,B,342
+S10,Undergraduate,PSY     103,FRIDLUND A J,B-,21
+S10,Undergraduate,PSY     103,FRIDLUND A J,C+,20
+S10,Undergraduate,PSY     103,FRIDLUND A J,C,119
+S10,Undergraduate,PSY     103,FRIDLUND A J,C-,6
+S10,Undergraduate,PSY     103,FRIDLUND A J,D+,6
+S10,Undergraduate,PSY     103,FRIDLUND A J,D,35
+S10,Undergraduate,PSY     103,FRIDLUND A J,D-,1
+S10,Undergraduate,PSY     103,FRIDLUND A J,F,18
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A+,2
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,A-,10
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B+,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B,9
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,B-,4
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C+,6
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C,8
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,C-,7
+S10,Undergraduate,SOC     185C,FRIEDLAND R O,F,3

@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S22,Undergraduate,ESS       2,SLADE A M,A,18
+S22,Undergraduate,ESS       2,SLADE A M,A-,12
+S22,Undergraduate,ESS       2,SLADE A M,A+,1
+S22,Undergraduate,ESS       2,SLADE A M,B,10
+S22,Undergraduate,ESS       2,SLADE A M,B-,4
+S22,Undergraduate,ESS       2,SLADE A M,B+,7
+S22,Undergraduate,ESS       2,SLADE A M,C,1
+S22,Undergraduate,ESS       2,SLADE A M,F,3
+S22,Undergraduate,ESS       9,SLADE A M,A,23
+S22,Undergraduate,ESS       9,SLADE A M,A-,7
+S22,Undergraduate,ESS       9,SLADE A M,A+,12
+S22,Undergraduate,ESS       9,SLADE A M,B,3
+S22,Undergraduate,ESS       9,SLADE A M,B-,1
+S22,Undergraduate,ESS       9,SLADE A M,B+,1
+S22,Undergraduate,ESS       9,SLADE A M,C,1
+S22,Undergraduate,ESS       9,SLADE A M,D-,1
+S22,Undergraduate,ESS       9,SLADE A M,F,4
+S22,Undergraduate,ESS     100,ORLANDO M D,A,19
+S22,Undergraduate,ESS     100,ORLANDO M D,A-,17
+S22,Undergraduate,ESS     100,ORLANDO M D,A+,10
+S22,Undergraduate,ESS     100,ORLANDO M D,B,9
+S22,Undergraduate,ESS     100,ORLANDO M D,B-,2
+S22,Undergraduate,ESS     100,ORLANDO M D,B+,10
+S22,Undergraduate,ESS     100,ORLANDO M D,C+,3
+S22,Undergraduate,ESS     130,ORLANDO M D,A,33
+S22,Undergraduate,ESS     130,ORLANDO M D,A-,8
+S22,Undergraduate,ESS     130,ORLANDO M D,A+,24
+S22,Undergraduate,ESS     130,ORLANDO M D,B,2
+S22,Undergraduate,ESS     130,ORLANDO M D,B+,1
+S22,Undergraduate,ESS     130,ORLANDO M D,C+,2
+S22,Undergraduate,ESS     131,SLADE A M,A,13
+S22,Undergraduate,ESS     131,SLADE A M,A-,6
+S22,Undergraduate,ESS     131,SLADE A M,B,9
+S22,Undergraduate,ESS     131,SLADE A M,B-,8
+S22,Undergraduate,ESS     131,SLADE A M,B+,11
+S22,Undergraduate,ESS     131,SLADE A M,C,4
+S22,Undergraduate,ESS     131,SLADE A M,C+,2
+S22,Undergraduate,ESS     131,SLADE A M,F,1
+S22,Undergraduate,ESS     132,HATCHER K L,A,20
+S22,Undergraduate,ESS     132,HATCHER K L,A-,15
+S22,Undergraduate,ESS     132,HATCHER K L,B,8
+S22,Undergraduate,ESS     132,HATCHER K L,B-,2
+S22,Undergraduate,ESS     132,HATCHER K L,B+,14
+S22,Undergraduate,ESS     132,HATCHER K L,C-,2
+S22,Undergraduate,ESS     132,HATCHER K L,C+,3
+S22,Undergraduate,ESS     132,HATCHER K L,D,1
+S22,Undergraduate,ESS     132,HATCHER K L,D+,1
+S22,Undergraduate,ESS     140,HATCHER K L,A,45
+S22,Undergraduate,ESS     140,HATCHER K L,A-,5
+S22,Undergraduate,ESS     140,HATCHER K L,B,2
+S22,Undergraduate,ESS     140,HATCHER K L,B-,4
+S22,Undergraduate,ESS     140,HATCHER K L,B+,5
+S22,Undergraduate,ESS     140,HATCHER K L,C,2
+S22,Undergraduate,ESS     140,HATCHER K L,C+,2
+S22,Undergraduate,ESS     140,HATCHER K L,F,1
+S22,Undergraduate,ESS     150,JAMIESON A E,A,26
+S22,Undergraduate,ESS     150,JAMIESON A E,A-,10
+S22,Undergraduate,ESS     150,JAMIESON A E,B,9
+S22,Undergraduate,ESS     150,JAMIESON A E,B-,1
+S22,Undergraduate,ESS     150,JAMIESON A E,B+,4
+S22,Undergraduate,ESS     150,JAMIESON A E,C,2
+S22,Undergraduate,ESS     150,JAMIESON A E,C-,1
+S22,Undergraduate,ESS     150,JAMIESON A E,C+,2
+S22,Undergraduate,ESS     150,JAMIESON A E,D+,1
+S22,Undergraduate,ESS     150,JAMIESON A E,F,2
+S22,Undergraduate,ESS     160,HATCHER K L,A,7
+S22,Undergraduate,ESS     160,HATCHER K L,A-,4
+S22,Undergraduate,ESS     160,HATCHER K L,B,6
+S22,Undergraduate,ESS     160,HATCHER K L,B+,6
+S22,Undergraduate,ESS     160,HATCHER K L,C,6
+S22,Undergraduate,ESS     160,HATCHER K L,C-,2
+S22,Undergraduate,ESS     160,HATCHER K L,C+,4
+S22,Undergraduate,ESS     160,HATCHER K L,D-,3
+S22,Undergraduate,ESS     160,ORLANDO M D,A,30
+S22,Undergraduate,ESS     160,ORLANDO M D,A-,20
+S22,Undergraduate,ESS     160,ORLANDO M D,A+,7
+S22,Undergraduate,ESS     160,ORLANDO M D,B,2
+S22,Undergraduate,ESS     160,ORLANDO M D,B+,11
+S22,Undergraduate,ESS  W    3,JAMIESON A E,A,49
+S22,Undergraduate,ESS  W    3,JAMIESON A E,A-,29
+S22,Undergraduate,ESS  W    3,JAMIESON A E,B,25
+S22,Undergraduate,ESS  W    3,JAMIESON A E,B-,13
+S22,Undergraduate,ESS  W    3,JAMIESON A E,B+,27
+S22,Undergraduate,ESS  W    3,JAMIESON A E,C,8
+S22,Undergraduate,ESS  W    3,JAMIESON A E,C-,4
+S22,Undergraduate,ESS  W    3,JAMIESON A E,C+,8
+S22,Undergraduate,ESS  W    3,JAMIESON A E,D,6
+S22,Undergraduate,ESS  W    3,JAMIESON A E,D+,2
+S22,Undergraduate,ESS  W    3,JAMIESON A E,F,11

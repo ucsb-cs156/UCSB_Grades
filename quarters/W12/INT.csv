@@ -1,0 +1,85 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W12,Undergraduate,INT       1,COLMENAR G A,P,20
+W12,Undergraduate,INT       1,IM SU,P,23
+W12,Undergraduate,INT       1,LABONTE K B,P,16
+W12,Undergraduate,INT       1,LABONTE K B,NP,1
+W12,Undergraduate,INT       1,NISEN H K,P,18
+W12,Undergraduate,INT      75,PRYSTOWSKY J,P,105
+W12,Undergraduate,INT      75,PRYSTOWSKY J,NP,1
+W12,Undergraduate,INT      84IT,TALAMANTEZ I,A,6
+W12,Undergraduate,INT      84IT,TALAMANTEZ I,A-,1
+W12,Undergraduate,INT      84IT,TALAMANTEZ I,B+,1
+W12,Undergraduate,INT      84VS,SCOTT V,A+,2
+W12,Undergraduate,INT      84VS,SCOTT V,A,35
+W12,Undergraduate,INT      84VS,SCOTT V,A-,3
+W12,Undergraduate,INT      94BZ,CHRISTOFFERSE,P,19
+W12,Undergraduate,INT      94EI,REICH N O,P,16
+W12,Undergraduate,INT      94FW,WHITE D G,P,14
+W12,Undergraduate,INT      94HG,ADAMS A J,P,10
+W12,Undergraduate,INT      94HZ,KING W D,P,16
+W12,Undergraduate,INT      94JK,MCCRACKEN E,P,18
+W12,Undergraduate,INT      94JK,MCCRACKEN E,NP,1
+W12,Undergraduate,INT      94JS,STILL C J,P,14
+W12,Undergraduate,INT      94JZ,RAYMOND G,P,15
+W12,Undergraduate,INT      94KN,REVLIN R,P,18
+W12,Undergraduate,INT      94LH,BERMUDEZ S,P,14
+W12,Undergraduate,INT      94LT,MORRISON D R,P,17
+W12,Undergraduate,INT      94MD,AFIFI W A,P,13
+W12,Undergraduate,INT      94ME,HANSER M F,P,19
+W12,Undergraduate,INT      94MO,ROQUE RAMIREZ,P,17
+W12,Undergraduate,INT      94MW,DEVRIES M S,P,19
+W12,Undergraduate,INT      94MZ,AFIFI T D,P,21
+W12,Undergraduate,INT      94NH,SALTZMAN-LI K,P,9
+W12,Undergraduate,INT      94NU,GARCIA M T,P,18
+W12,Undergraduate,INT      94NU,GARCIA M T,NP,2
+W12,Undergraduate,INT      94NW,MARTIN R M,P,17
+W12,Undergraduate,INT      94NX,JACOBS G H,P,20
+W12,Undergraduate,INT      94NX,JACOBS G H,NP,1
+W12,Undergraduate,INT      94OK,ALDANA G V,P,19
+W12,Undergraduate,INT      94OL,DUFFY A E,P,16
+W12,Undergraduate,INT      94OP,SCHNEIDER B E,P,16
+W12,Undergraduate,INT      94OP,SCHNEIDER B E,NP,1
+W12,Undergraduate,INT      94OR,HOFMANN G E,P,20
+W12,Undergraduate,INT      94OS,BOSCAGLI M,P,11
+W12,Undergraduate,INT      94OT,BARVOSA E,P,18
+W12,Undergraduate,INT      94OU,BRAININ R,P,17
+W12,Undergraduate,INT      94OV,MATTHYS E F,P,11
+W12,Undergraduate,INT      94OV,MATTHYS E F,NP,3
+W12,Undergraduate,INT      94OX,GHOSH B,P,17
+W12,Undergraduate,INT      94OY,DIGESER E D,P,12
+W12,Undergraduate,INT      94OY,DIGESER E D,NP,1
+W12,Undergraduate,INT      94PC,NOVAK D E,P,15
+W12,Undergraduate,INT      94PC,NOVAK D E,NP,1
+W12,Undergraduate,INT      94PD,GAUTIER C H,P,13
+W12,Undergraduate,INT      94PD,GAUTIER C H,NP,2
+W12,Undergraduate,INT     100WS,BARNES S L,A,2
+W12,Undergraduate,INT     100WS,BARNES S L,A-,1
+W12,Undergraduate,INT     100WS,BARNES S L,B+,1
+W12,Undergraduate,INT     100WS,BARNES S L,D-,1
+W12,Undergraduate,INT     156BE,JARRETT G C,A,11
+W12,Undergraduate,INT     156BE,JARRETT G C,A-,3
+W12,Undergraduate,INT     156BE,JARRETT G C,B+,2
+W12,Undergraduate,INT     156BE,JARRETT G C,B,1
+W12,Undergraduate,INT     156BE,JARRETT G C,C+,1
+W12,Undergraduate,INT     156BE,JARRETT G C,C,2
+W12,Undergraduate,INT     184AL,LINDEMANN A S,A,5
+W12,Undergraduate,INT     184AL,LINDEMANN A S,A-,5
+W12,Undergraduate,INT     184AL,LINDEMANN A S,B+,1
+W12,Undergraduate,INT     184AL,LINDEMANN A S,B,2
+W12,Undergraduate,INT     184AL,LINDEMANN A S,B-,1
+W12,Undergraduate,INT     184DC,CHAPMAN D J,A+,1
+W12,Undergraduate,INT     184DC,CHAPMAN D J,A,14
+W12,Undergraduate,INT     184DC,CHAPMAN D J,A-,5
+W12,Undergraduate,INT     184ES,DARIAN-SMITH,A,23
+W12,Undergraduate,INT     184ES,DARIAN-SMITH,A-,1
+W12,Undergraduate,INT     185ST,ANDERSON E K,A+,1
+W12,Undergraduate,INT     185ST,ANDERSON E K,A,22
+W12,Undergraduate,INT     185ST,ANDERSON E K,F,1
+W12,Undergraduate,INT     190MA,SCHNEIDER B E,P,6
+W12,Undergraduate,INT     192DC,CAIN B E,P,18
+W12,Undergraduate,INT     199DC,CAIN B E,A,7
+W12,Undergraduate,INT     199DC,CAIN B E,A-,6
+W12,Undergraduate,INT     199DC,CAIN B E,B+,5
+W12,Graduate,INT     200B,HEGARTY M,S,6
+W12,Graduate,INT     201GW,MIKAL J P,S,12
+W12,Undergraduate,INT  CS 120,VAN DER VEEN,P,7

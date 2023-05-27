@@ -1,0 +1,84 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,CH E    102,ISRAELACHVILI,A+,2
+S16,Undergraduate,CH E    102,ISRAELACHVILI,A,3
+S16,Undergraduate,CH E    102,ISRAELACHVILI,A-,3
+S16,Undergraduate,CH E    102,ISRAELACHVILI,B+,1
+S16,Undergraduate,CH E    102,ISRAELACHVILI,B,1
+S16,Undergraduate,CH E    110B,HAN SONGI,A+,1
+S16,Undergraduate,CH E    110B,HAN SONGI,A,16
+S16,Undergraduate,CH E    110B,HAN SONGI,A-,11
+S16,Undergraduate,CH E    110B,HAN SONGI,B+,12
+S16,Undergraduate,CH E    110B,HAN SONGI,B,7
+S16,Undergraduate,CH E    110B,HAN SONGI,B-,2
+S16,Undergraduate,CH E    110B,HAN SONGI,C,2
+S16,Undergraduate,CH E    120C,SQUIRES T M,A+,1
+S16,Undergraduate,CH E    120C,SQUIRES T M,A,24
+S16,Undergraduate,CH E    120C,SQUIRES T M,A-,7
+S16,Undergraduate,CH E    120C,SQUIRES T M,B+,3
+S16,Undergraduate,CH E    120C,SQUIRES T M,B,11
+S16,Undergraduate,CH E    120C,SQUIRES T M,B-,4
+S16,Undergraduate,CH E    120C,SQUIRES T M,C,2
+S16,Undergraduate,CH E    125,MITRAGOTRI S,A,9
+S16,Undergraduate,CH E    125,MITRAGOTRI S,B,14
+S16,Undergraduate,CH E    125,MITRAGOTRI S,B-,7
+S16,Undergraduate,CH E    126,SQUIRES T M,A+,2
+S16,Undergraduate,CH E    126,SQUIRES T M,A,10
+S16,Undergraduate,CH E    126,SQUIRES T M,A-,4
+S16,Undergraduate,CH E    126,SQUIRES T M,B+,6
+S16,Undergraduate,CH E    126,SQUIRES T M,B,3
+S16,Undergraduate,CH E    126,SQUIRES T M,B-,1
+S16,Undergraduate,CH E    126,SQUIRES T M,C,1
+S16,Undergraduate,CH E    140A,MCFARLAND E W,A,2
+S16,Undergraduate,CH E    140A,MCFARLAND E W,A-,2
+S16,Undergraduate,CH E    140A,MCFARLAND E W,B+,8
+S16,Undergraduate,CH E    140A,MCFARLAND E W,B,13
+S16,Undergraduate,CH E    140A,MCFARLAND E W,B-,15
+S16,Undergraduate,CH E    140A,MCFARLAND E W,C+,5
+S16,Undergraduate,CH E    140A,MCFARLAND E W,C,2
+S16,Undergraduate,CH E    140A,MCFARLAND E W,C-,3
+S16,Undergraduate,CH E    140A,MCFARLAND E W,D,1
+S16,Undergraduate,CH E    171,O'MALLEY M A,A+,2
+S16,Undergraduate,CH E    171,O'MALLEY M A,A,8
+S16,Undergraduate,CH E    180A,GORDON M J,A+,6
+S16,Undergraduate,CH E    180A,GORDON M J,A,15
+S16,Undergraduate,CH E    180A,GORDON M J,A-,3
+S16,Undergraduate,CH E    180A,GORDON M J,B+,15
+S16,Undergraduate,CH E    180A,GORDON M J,B,6
+S16,Undergraduate,CH E    180A,GORDON M J,C+,4
+S16,Undergraduate,CH E    180A,GORDON M J,C-,1
+S16,Undergraduate,CH E    180A,HELGESON M E,A+,6
+S16,Undergraduate,CH E    180A,HELGESON M E,A,15
+S16,Undergraduate,CH E    180A,HELGESON M E,A-,3
+S16,Undergraduate,CH E    180A,HELGESON M E,B+,15
+S16,Undergraduate,CH E    180A,HELGESON M E,B,6
+S16,Undergraduate,CH E    180A,HELGESON M E,C+,4
+S16,Undergraduate,CH E    180A,HELGESON M E,C-,1
+S16,Undergraduate,CH E    184B,DOHERTY M F,A,3
+S16,Undergraduate,CH E    184B,DOHERTY M F,A-,18
+S16,Undergraduate,CH E    184B,DOHERTY M F,B+,20
+S16,Undergraduate,CH E    184B,DOHERTY M F,B,3
+S16,Undergraduate,CH E    184B,DOHERTY M F,B-,6
+S16,Undergraduate,CH E    184B,DOHERTY M F,C,3
+S16,Undergraduate,CH E    184B,SHELL M S,A,3
+S16,Undergraduate,CH E    184B,SHELL M S,A-,18
+S16,Undergraduate,CH E    184B,SHELL M S,B+,20
+S16,Undergraduate,CH E    184B,SHELL M S,B,3
+S16,Undergraduate,CH E    184B,SHELL M S,B-,6
+S16,Undergraduate,CH E    184B,SHELL M S,C,3
+S16,Graduate,CH E    216A,CHMELKA B F,A,17
+S16,Graduate,CH E    248,PETERS B G,A+,1
+S16,Graduate,CH E    248,PETERS B G,A,4
+S16,Graduate,CH E    248,PETERS B G,A-,1
+S16,Graduate,CH E    290,SHELL M S,S,66
+S16,Graduate,CH E    291,CHMELKA B F,S,6
+S16,Graduate,CH E    291,DOHERTY M F,S,5
+S16,Graduate,CH E    291,FREDRICKSON G,S,5
+S16,Graduate,CH E    291,HELGESON M E,S,6
+S16,Graduate,CH E    291,ISRAELACHVILI,S,5
+S16,Graduate,CH E    291,LEAL L G,S,7
+S16,Graduate,CH E    291,O'MALLEY M A,S,8
+S16,Graduate,CH E    291,SEGALMAN R A,S,5
+S16,Graduate,CH E    291,SHELL M S,S,5
+S16,Graduate,CH E    596,HELGESON M E,S,5
+S16,Graduate,CH E    599,DOHERTY M F,S,5
+S16,Graduate,CH E    599,LEAL L G,S,5

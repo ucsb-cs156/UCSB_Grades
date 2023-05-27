@@ -1,0 +1,178 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,ECE       1B,PARHAMI B,NP,3
+S21,Undergraduate,ECE       1B,PARHAMI B,P,76
+S21,Undergraduate,ECE      10B,CAMSARI K Y,A,1
+S21,Undergraduate,ECE      10B,CAMSARI K Y,A-,7
+S21,Undergraduate,ECE      10B,CAMSARI K Y,A+,5
+S21,Undergraduate,ECE      10B,CAMSARI K Y,B+,3
+S21,Undergraduate,ECE      10B,CAMSARI K Y,C,1
+S21,Undergraduate,ECE      10B,CAMSARI K Y,F,4
+S21,Undergraduate,ECE      10BL,CAMSARI K Y,A,3
+S21,Undergraduate,ECE      10BL,CAMSARI K Y,A-,3
+S21,Undergraduate,ECE      10BL,CAMSARI K Y,B,1
+S21,Undergraduate,ECE      10BL,CAMSARI K Y,B+,2
+S21,Undergraduate,ECE      10BL,CAMSARI K Y,F,4
+S21,Undergraduate,ECE      10C,ALIZADEH M,A,32
+S21,Undergraduate,ECE      10C,ALIZADEH M,A-,16
+S21,Undergraduate,ECE      10C,ALIZADEH M,A+,15
+S21,Undergraduate,ECE      10C,ALIZADEH M,B,13
+S21,Undergraduate,ECE      10C,ALIZADEH M,B-,8
+S21,Undergraduate,ECE      10C,ALIZADEH M,B+,11
+S21,Undergraduate,ECE      10C,ALIZADEH M,C,12
+S21,Undergraduate,ECE      10C,ALIZADEH M,C+,6
+S21,Undergraduate,ECE      10C,ALIZADEH M,F,2
+S21,Undergraduate,ECE      10CL,ALIZADEH M,A,75
+S21,Undergraduate,ECE      10CL,ALIZADEH M,A-,5
+S21,Undergraduate,ECE      10CL,ALIZADEH M,A+,24
+S21,Undergraduate,ECE      10CL,ALIZADEH M,B,3
+S21,Undergraduate,ECE      10CL,ALIZADEH M,B+,1
+S21,Undergraduate,ECE      10CL,ALIZADEH M,C,1
+S21,Undergraduate,ECE      10CL,ALIZADEH M,C-,1
+S21,Undergraduate,ECE      10CL,ALIZADEH M,C+,1
+S21,Undergraduate,ECE      10CL,ALIZADEH M,F,3
+S21,Undergraduate,ECE     120B,BEN-YAACOV I,A,3
+S21,Undergraduate,ECE     120B,BEN-YAACOV I,A-,4
+S21,Undergraduate,ECE     120B,BEN-YAACOV I,A+,4
+S21,Undergraduate,ECE     120B,BEN-YAACOV I,C+,1
+S21,Undergraduate,ECE     130B,SEN P,A,2
+S21,Undergraduate,ECE     130B,SEN P,A-,1
+S21,Undergraduate,ECE     130B,SEN P,A+,2
+S21,Undergraduate,ECE     130B,SEN P,B-,5
+S21,Undergraduate,ECE     130B,SEN P,B+,1
+S21,Undergraduate,ECE     130B,SEN P,C,1
+S21,Undergraduate,ECE     130C,BYL K A,A,6
+S21,Undergraduate,ECE     130C,BYL K A,A-,3
+S21,Undergraduate,ECE     130C,BYL K A,A+,5
+S21,Undergraduate,ECE     130C,BYL K A,B-,2
+S21,Undergraduate,ECE     130C,BYL K A,B+,2
+S21,Undergraduate,ECE     130C,BYL K A,C,3
+S21,Undergraduate,ECE     130C,BYL K A,C-,1
+S21,Undergraduate,ECE     130C,BYL K A,D+,3
+S21,Undergraduate,ECE     135,DAGLI N,A,3
+S21,Undergraduate,ECE     135,DAGLI N,A-,3
+S21,Undergraduate,ECE     135,DAGLI N,A+,3
+S21,Undergraduate,ECE     135,DAGLI N,B,3
+S21,Undergraduate,ECE     135,DAGLI N,B+,3
+S21,Undergraduate,ECE     135,DAGLI N,C,1
+S21,Undergraduate,ECE     135,DAGLI N,D,1
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,A,2
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,A-,8
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,A+,2
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,B,7
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,B-,6
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,B+,11
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,C,16
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,C-,5
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,C+,7
+S21,Undergraduate,ECE     137B,THEOGARAJAN L,D+,1
+S21,Undergraduate,ECE     139,ROSE K,A,52
+S21,Undergraduate,ECE     139,ROSE K,A-,5
+S21,Undergraduate,ECE     139,ROSE K,A+,6
+S21,Undergraduate,ECE     139,ROSE K,B,8
+S21,Undergraduate,ECE     139,ROSE K,B-,9
+S21,Undergraduate,ECE     139,ROSE K,B+,8
+S21,Undergraduate,ECE     139,ROSE K,C,3
+S21,Undergraduate,ECE     139,ROSE K,C-,2
+S21,Undergraduate,ECE     139,ROSE K,C+,6
+S21,Undergraduate,ECE     139,ROSE K,F,3
+S21,Undergraduate,ECE     142,MISHRA U,A,11
+S21,Undergraduate,ECE     142,MISHRA U,A-,3
+S21,Undergraduate,ECE     142,MISHRA U,A+,15
+S21,Undergraduate,ECE     142,MISHRA U,B,2
+S21,Undergraduate,ECE     142,MISHRA U,B+,1
+S21,Undergraduate,ECE     142,MISHRA U,C+,1
+S21,Undergraduate,ECE     142,SALEM L G,A,11
+S21,Undergraduate,ECE     142,SALEM L G,A-,3
+S21,Undergraduate,ECE     142,SALEM L G,A+,15
+S21,Undergraduate,ECE     142,SALEM L G,B,2
+S21,Undergraduate,ECE     142,SALEM L G,B+,1
+S21,Undergraduate,ECE     142,SALEM L G,C+,1
+S21,Undergraduate,ECE     147C,HESPANHA J P,A,1
+S21,Undergraduate,ECE     147C,HESPANHA J P,A-,2
+S21,Undergraduate,ECE     147C,HESPANHA J P,A+,2
+S21,Undergraduate,ECE     147C,HESPANHA J P,B+,1
+S21,Undergraduate,ECE     148,LEE H,A,14
+S21,Undergraduate,ECE     148,LEE H,B,1
+S21,Undergraduate,ECE     148,LEE H,B-,2
+S21,Undergraduate,ECE     148,LEE H,F,2
+S21,Undergraduate,ECE     152A,KIM B,A,21
+S21,Undergraduate,ECE     152A,KIM B,A-,12
+S21,Undergraduate,ECE     152A,KIM B,A+,7
+S21,Undergraduate,ECE     152A,KIM B,B,17
+S21,Undergraduate,ECE     152A,KIM B,B-,14
+S21,Undergraduate,ECE     152A,KIM B,B+,22
+S21,Undergraduate,ECE     152A,KIM B,C,8
+S21,Undergraduate,ECE     152A,KIM B,C-,1
+S21,Undergraduate,ECE     152A,KIM B,C+,11
+S21,Undergraduate,ECE     152A,KIM B,F,2
+S21,Undergraduate,ECE     154B,STRUKOV D B,A,8
+S21,Undergraduate,ECE     154B,STRUKOV D B,A+,3
+S21,Undergraduate,ECE     154B,STRUKOV D B,B,1
+S21,Undergraduate,ECE     154B,STRUKOV D B,B+,3
+S21,Undergraduate,ECE     154B,STRUKOV D B,C,1
+S21,Undergraduate,ECE     154B,STRUKOV D B,D,2
+S21,Undergraduate,ECE     180,MANJUNATH B S,A,22
+S21,Undergraduate,ECE     180,MANJUNATH B S,A-,14
+S21,Undergraduate,ECE     180,MANJUNATH B S,B,12
+S21,Undergraduate,ECE     180,MANJUNATH B S,B-,10
+S21,Undergraduate,ECE     180,MANJUNATH B S,B+,11
+S21,Undergraduate,ECE     180,MANJUNATH B S,C,2
+S21,Undergraduate,ECE     180,MANJUNATH B S,C+,1
+S21,Undergraduate,ECE     180,MANJUNATH B S,D,2
+S21,Undergraduate,ECE     188C,ABDOLEE R,A,15
+S21,Undergraduate,ECE     188C,ABDOLEE R,A-,6
+S21,Undergraduate,ECE     188C,ABDOLEE R,A+,19
+S21,Undergraduate,ECE     188C,ABDOLEE R,B,8
+S21,Undergraduate,ECE     188C,ABDOLEE R,B-,5
+S21,Undergraduate,ECE     188C,ABDOLEE R,B+,9
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,A,15
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,A-,6
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,A+,19
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,B,8
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,B-,5
+S21,Undergraduate,ECE     188C,BEN-YAACOV I,B+,9
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,A,19
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,A-,7
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,A+,2
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,B,1
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,B-,3
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,B+,3
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,C,1
+S21,Undergraduate,ECE     189C,ISUKAPALLI Y,C+,3
+S21,Undergraduate,ECE     194E,PEDARSANI R,A,4
+S21,Undergraduate,ECE     194E,PEDARSANI R,A-,4
+S21,Undergraduate,ECE     194E,PEDARSANI R,A+,2
+S21,Undergraduate,ECE     194E,PEDARSANI R,B+,1
+S21,Undergraduate,ECE     194E,PEDARSANI R,C+,1
+S21,Undergraduate,ECE     194E,PEDARSANI R,F,1
+S21,Graduate,ECE     221B,MISHRA U,A,2
+S21,Graduate,ECE     221B,MISHRA U,B,1
+S21,Graduate,ECE     221B,MISHRA U,B+,2
+S21,Graduate,ECE     221B,MISHRA U,F,1
+S21,Graduate,ECE     224A,BREWER F,A,3
+S21,Graduate,ECE     224A,BREWER F,A-,2
+S21,Graduate,ECE     224A,BREWER F,A+,1
+S21,Graduate,ECE     227B,KLAMKIN J,A,8
+S21,Graduate,ECE     227B,KLAMKIN J,A-,7
+S21,Graduate,ECE     227B,KLAMKIN J,B,1
+S21,Graduate,ECE     252B,PARHAMI B,A,2
+S21,Graduate,ECE     252B,PARHAMI B,A+,1
+S21,Graduate,ECE     252B,PARHAMI B,B,4
+S21,Graduate,ECE     252B,PARHAMI B,B+,2
+S21,Graduate,ECE     271C,MARDEN J R,A,5
+S21,Graduate,ECE     271C,MARDEN J R,A-,2
+S21,Graduate,ECE     271C,MARDEN J R,B+,1
+S21,Graduate,ECE     271C,MARDEN J R,F,1
+S21,Graduate,ECE     283,MADHOW U,A,12
+S21,Graduate,ECE     502,SCHOW C L,S,21
+S21,Graduate,ECE     594BB,LI P,A,5
+S21,Graduate,ECE     594BB,LI P,A+,4
+S21,Graduate,ECE     594BB,ZHANG Z,A,2
+S21,Graduate,ECE     594BB,ZHANG Z,A+,1
+S21,Graduate,ECE     594BB,ZHANG Z,B+,1
+S21,Graduate,ECE     594BB,ZHANG Z,F,1
+S21,Graduate,ECE     594Q,SMITH S L,A,6
+S21,Graduate,ECE     594Q,SMITH S L,A-,1
+S21,Graduate,ECE     594Q,SMITH S L,B,1
+S21,Graduate,ECE     595E,MANJUNATH B S,S,6
+S21,Graduate,ECE     595F,BOWERS J E,S,5

@@ -1,0 +1,96 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,GEOL      2,GANS P B,A+,3
+S10,Undergraduate,GEOL      2,GANS P B,A,6
+S10,Undergraduate,GEOL      2,GANS P B,A-,5
+S10,Undergraduate,GEOL      2,GANS P B,B+,11
+S10,Undergraduate,GEOL      2,GANS P B,B,15
+S10,Undergraduate,GEOL      2,GANS P B,B-,6
+S10,Undergraduate,GEOL      2,GANS P B,C+,7
+S10,Undergraduate,GEOL      2,GANS P B,C,11
+S10,Undergraduate,GEOL      2,GANS P B,C-,5
+S10,Undergraduate,GEOL      2,GANS P B,D,1
+S10,Undergraduate,GEOL      2,GANS P B,F,6
+S10,Undergraduate,GEOL      3,AWRAMIK S M,A,2
+S10,Undergraduate,GEOL      3,AWRAMIK S M,A-,3
+S10,Undergraduate,GEOL      3,AWRAMIK S M,B+,2
+S10,Undergraduate,GEOL      3,AWRAMIK S M,B,3
+S10,Undergraduate,GEOL      3,AWRAMIK S M,B-,3
+S10,Undergraduate,GEOL      3,AWRAMIK S M,C+,4
+S10,Undergraduate,GEOL      3,AWRAMIK S M,C,4
+S10,Undergraduate,GEOL      3,AWRAMIK S M,F,3
+S10,Undergraduate,GEOL      7,PORTER S M,A+,2
+S10,Undergraduate,GEOL      7,PORTER S M,A,87
+S10,Undergraduate,GEOL      7,PORTER S M,A-,78
+S10,Undergraduate,GEOL      7,PORTER S M,B+,77
+S10,Undergraduate,GEOL      7,PORTER S M,B,95
+S10,Undergraduate,GEOL      7,PORTER S M,B-,55
+S10,Undergraduate,GEOL      7,PORTER S M,C+,54
+S10,Undergraduate,GEOL      7,PORTER S M,C,88
+S10,Undergraduate,GEOL      7,PORTER S M,D+,13
+S10,Undergraduate,GEOL      7,PORTER S M,D,13
+S10,Undergraduate,GEOL      7,PORTER S M,D-,6
+S10,Undergraduate,GEOL      7,PORTER S M,F,19
+S10,Undergraduate,GEOL     18,GANS P B,P,34
+S10,Undergraduate,GEOL     19,KELLER E A,P,32
+S10,Undergraduate,GEOL    100,JI C,A+,1
+S10,Undergraduate,GEOL    100,JI C,A,3
+S10,Undergraduate,GEOL    100,JI C,B+,2
+S10,Undergraduate,GEOL    100,JI C,B,5
+S10,Undergraduate,GEOL    100,JI C,C,1
+S10,Undergraduate,GEOL    100,JI C,C-,1
+S10,Undergraduate,GEOL    100,JI C,D-,1
+S10,Undergraduate,GEOL    100,JI C,F,1
+S10,Undergraduate,GEOL    104B,HACKER B R,A,4
+S10,Undergraduate,GEOL    104B,HACKER B R,A-,2
+S10,Undergraduate,GEOL    104B,HACKER B R,B+,4
+S10,Undergraduate,GEOL    104B,HACKER B R,B,4
+S10,Undergraduate,GEOL    104B,HACKER B R,B-,4
+S10,Undergraduate,GEOL    104B,HACKER B R,C+,2
+S10,Undergraduate,GEOL    104B,HACKER B R,C,1
+S10,Undergraduate,GEOL    115,MATTINSON J M,A,4
+S10,Undergraduate,GEOL    115,MATTINSON J M,A-,7
+S10,Undergraduate,GEOL    115,MATTINSON J M,B+,5
+S10,Undergraduate,GEOL    115,MATTINSON J M,B,2
+S10,Undergraduate,GEOL    122,BUSBY C,A+,3
+S10,Undergraduate,GEOL    122,BUSBY C,A-,2
+S10,Undergraduate,GEOL    122,BUSBY C,B+,1
+S10,Undergraduate,GEOL    122,BUSBY C,B,2
+S10,Undergraduate,GEOL    122,BUSBY C,C,2
+S10,Undergraduate,GEOL    130,LEA D W,A+,4
+S10,Undergraduate,GEOL    130,LEA D W,A,19
+S10,Undergraduate,GEOL    130,LEA D W,A-,10
+S10,Undergraduate,GEOL    130,LEA D W,B+,9
+S10,Undergraduate,GEOL    130,LEA D W,B,14
+S10,Undergraduate,GEOL    130,LEA D W,B-,5
+S10,Undergraduate,GEOL    130,LEA D W,C+,4
+S10,Undergraduate,GEOL    130,LEA D W,C,3
+S10,Undergraduate,GEOL    130,LEA D W,C-,6
+S10,Undergraduate,GEOL    130,LEA D W,D,5
+S10,Undergraduate,GEOL    130,LEA D W,F,8
+S10,Undergraduate,GEOL    149,WYSS A R,A+,1
+S10,Undergraduate,GEOL    149,WYSS A R,A,2
+S10,Undergraduate,GEOL    149,WYSS A R,A-,4
+S10,Undergraduate,GEOL    149,WYSS A R,B-,2
+S10,Undergraduate,GEOL    149,WYSS A R,C+,4
+S10,Undergraduate,GEOL    149,WYSS A R,C,3
+S10,Undergraduate,GEOL    149,WYSS A R,F,2
+S10,Undergraduate,GEOL    160,TANIMOTO T,P,26
+S10,Undergraduate,GEOL    164A,HAYMON R M,A,3
+S10,Undergraduate,GEOL    164A,HAYMON R M,A-,2
+S10,Undergraduate,GEOL    164A,HAYMON R M,B+,2
+S10,Undergraduate,GEOL    164A,HAYMON R M,B,1
+S10,Undergraduate,GEOL    164A,HAYMON R M,B-,2
+S10,Undergraduate,GEOL    164A,HAYMON R M,C+,3
+S10,Undergraduate,GEOL    164A,HAYMON R M,C,2
+S10,Undergraduate,GEOL    194,MATTINSON J M,A,4
+S10,Undergraduate,GEOL    194,MATTINSON J M,A-,7
+S10,Undergraduate,GEOL    194,MATTINSON J M,B+,5
+S10,Undergraduate,GEOL    194,MATTINSON J M,B,2
+S10,Undergraduate,GEOL    199RA,COTTLE J,A,6
+S10,Graduate,GEOL    270,TANIMOTO T,S,5
+S10,Graduate,GEOL    276,WELDEAB S,A+,1
+S10,Graduate,GEOL    276,WELDEAB S,A,5
+S10,Graduate,GEOL    276,WELDEAB S,A-,4
+S10,Graduate,GEOL    276,WELDEAB S,B+,2
+S10,Graduate,GEOL    276,WELDEAB S,B,2
+S10,Graduate,GEOL    596,HACKER B R,A,5

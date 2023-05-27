@@ -1,0 +1,211 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S18,Undergraduate,EARTH     2,RIOUX M E,A+,3
+S18,Undergraduate,EARTH     2,RIOUX M E,A,28
+S18,Undergraduate,EARTH     2,RIOUX M E,A-,22
+S18,Undergraduate,EARTH     2,RIOUX M E,B+,28
+S18,Undergraduate,EARTH     2,RIOUX M E,B,31
+S18,Undergraduate,EARTH     2,RIOUX M E,B-,10
+S18,Undergraduate,EARTH     2,RIOUX M E,C+,13
+S18,Undergraduate,EARTH     2,RIOUX M E,C,12
+S18,Undergraduate,EARTH     2,RIOUX M E,C-,4
+S18,Undergraduate,EARTH     2,RIOUX M E,D+,4
+S18,Undergraduate,EARTH     2,RIOUX M E,D,2
+S18,Undergraduate,EARTH     2,RIOUX M E,F,1
+S18,Undergraduate,EARTH     3,AWRAMIK S M,A+,2
+S18,Undergraduate,EARTH     3,AWRAMIK S M,A,2
+S18,Undergraduate,EARTH     3,AWRAMIK S M,A-,3
+S18,Undergraduate,EARTH     3,AWRAMIK S M,B+,6
+S18,Undergraduate,EARTH     3,AWRAMIK S M,B,5
+S18,Undergraduate,EARTH     3,AWRAMIK S M,B-,5
+S18,Undergraduate,EARTH     3,AWRAMIK S M,C+,6
+S18,Undergraduate,EARTH     3,AWRAMIK S M,C,4
+S18,Undergraduate,EARTH     3,AWRAMIK S M,C-,4
+S18,Undergraduate,EARTH     3,AWRAMIK S M,F,5
+S18,Undergraduate,EARTH     3H,AWRAMIK S M,A,5
+S18,Undergraduate,EARTH     3H,AWRAMIK S M,F,1
+S18,Undergraduate,EARTH     4,PAK D K,A+,18
+S18,Undergraduate,EARTH     4,PAK D K,A,44
+S18,Undergraduate,EARTH     4,PAK D K,A-,30
+S18,Undergraduate,EARTH     4,PAK D K,B+,31
+S18,Undergraduate,EARTH     4,PAK D K,B,34
+S18,Undergraduate,EARTH     4,PAK D K,B-,26
+S18,Undergraduate,EARTH     4,PAK D K,C+,25
+S18,Undergraduate,EARTH     4,PAK D K,C,23
+S18,Undergraduate,EARTH     4,PAK D K,C-,11
+S18,Undergraduate,EARTH     4,PAK D K,D+,9
+S18,Undergraduate,EARTH     4,PAK D K,D,6
+S18,Undergraduate,EARTH     4,PAK D K,D-,1
+S18,Undergraduate,EARTH     4,PAK D K,F,9
+S18,Undergraduate,EARTH     7,LUNA D A,A+,10
+S18,Undergraduate,EARTH     7,LUNA D A,A,16
+S18,Undergraduate,EARTH     7,LUNA D A,A-,21
+S18,Undergraduate,EARTH     7,LUNA D A,B+,14
+S18,Undergraduate,EARTH     7,LUNA D A,B,26
+S18,Undergraduate,EARTH     7,LUNA D A,B-,11
+S18,Undergraduate,EARTH     7,LUNA D A,C+,19
+S18,Undergraduate,EARTH     7,LUNA D A,C,15
+S18,Undergraduate,EARTH     7,LUNA D A,C-,12
+S18,Undergraduate,EARTH     7,LUNA D A,D+,6
+S18,Undergraduate,EARTH     7,LUNA D A,D,5
+S18,Undergraduate,EARTH     7,LUNA D A,D-,4
+S18,Undergraduate,EARTH     7,LUNA D A,F,12
+S18,Undergraduate,EARTH    10,PRICE A A,A+,8
+S18,Undergraduate,EARTH    10,PRICE A A,A,21
+S18,Undergraduate,EARTH    10,PRICE A A,A-,35
+S18,Undergraduate,EARTH    10,PRICE A A,B+,15
+S18,Undergraduate,EARTH    10,PRICE A A,B,23
+S18,Undergraduate,EARTH    10,PRICE A A,B-,12
+S18,Undergraduate,EARTH    10,PRICE A A,C+,10
+S18,Undergraduate,EARTH    10,PRICE A A,C,7
+S18,Undergraduate,EARTH    10,PRICE A A,C-,2
+S18,Undergraduate,EARTH    10,PRICE A A,D,1
+S18,Undergraduate,EARTH    10,PRICE A A,F,3
+S18,Undergraduate,EARTH    18,WYSS A R,P,42
+S18,Undergraduate,EARTH    20,LUNA D A,A+,8
+S18,Undergraduate,EARTH    20,LUNA D A,A,29
+S18,Undergraduate,EARTH    20,LUNA D A,A-,19
+S18,Undergraduate,EARTH    20,LUNA D A,B+,40
+S18,Undergraduate,EARTH    20,LUNA D A,B,38
+S18,Undergraduate,EARTH    20,LUNA D A,B-,22
+S18,Undergraduate,EARTH    20,LUNA D A,C+,22
+S18,Undergraduate,EARTH    20,LUNA D A,C,21
+S18,Undergraduate,EARTH    20,LUNA D A,C-,10
+S18,Undergraduate,EARTH    20,LUNA D A,D+,10
+S18,Undergraduate,EARTH    20,LUNA D A,D,4
+S18,Undergraduate,EARTH    20,LUNA D A,D-,1
+S18,Undergraduate,EARTH    20,LUNA D A,F,6
+S18,Undergraduate,EARTH   104A,WROBEL A J,A,1
+S18,Undergraduate,EARTH   104A,WROBEL A J,A-,3
+S18,Undergraduate,EARTH   104A,WROBEL A J,B+,7
+S18,Undergraduate,EARTH   104A,WROBEL A J,B,7
+S18,Undergraduate,EARTH   104A,WROBEL A J,B-,2
+S18,Undergraduate,EARTH   104A,WROBEL A J,C+,2
+S18,Undergraduate,EARTH   104A,WROBEL A J,C,3
+S18,Undergraduate,EARTH   104A,WROBEL A J,D,1
+S18,Undergraduate,EARTH   104B,HACKER B R,A,3
+S18,Undergraduate,EARTH   104B,HACKER B R,A-,1
+S18,Undergraduate,EARTH   104B,HACKER B R,B+,5
+S18,Undergraduate,EARTH   104B,HACKER B R,B,5
+S18,Undergraduate,EARTH   104B,HACKER B R,B-,4
+S18,Undergraduate,EARTH   104B,HACKER B R,C+,1
+S18,Undergraduate,EARTH   113,ALESSIO P A,A+,2
+S18,Undergraduate,EARTH   113,ALESSIO P A,A-,4
+S18,Undergraduate,EARTH   113,ALESSIO P A,B+,4
+S18,Undergraduate,EARTH   113,ALESSIO P A,B,11
+S18,Undergraduate,EARTH   113,ALESSIO P A,B-,6
+S18,Undergraduate,EARTH   113,ALESSIO P A,C+,2
+S18,Undergraduate,EARTH   113,ALESSIO P A,C,3
+S18,Undergraduate,EARTH   113,ALESSIO P A,D-,1
+S18,Undergraduate,EARTH   114,PRICE A A,A,5
+S18,Undergraduate,EARTH   114,PRICE A A,A-,4
+S18,Undergraduate,EARTH   114,PRICE A A,B+,6
+S18,Undergraduate,EARTH   114,PRICE A A,B,6
+S18,Undergraduate,EARTH   114,PRICE A A,B-,3
+S18,Undergraduate,EARTH   114,PRICE A A,C+,4
+S18,Undergraduate,EARTH   114,PRICE A A,D-,1
+S18,Undergraduate,EARTH   114,PRICE A A,F,2
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,A+,1
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,A,1
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,A-,1
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,B,4
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,B-,5
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,C,2
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,C-,2
+S18,Undergraduate,EARTH   124IG,RUDNICK R L,F,2
+S18,Undergraduate,EARTH   126,SPERA F J,A+,3
+S18,Undergraduate,EARTH   126,SPERA F J,A,2
+S18,Undergraduate,EARTH   126,SPERA F J,B,2
+S18,Undergraduate,EARTH   136,MATOZA R S,A+,2
+S18,Undergraduate,EARTH   136,MATOZA R S,A,4
+S18,Undergraduate,EARTH   136,MATOZA R S,A-,1
+S18,Undergraduate,EARTH   136,MATOZA R S,B+,4
+S18,Undergraduate,EARTH   136,MATOZA R S,B-,1
+S18,Undergraduate,EARTH   136,MATOZA R S,F,1
+S18,Undergraduate,EARTH   141,TIFFNEY B H,A+,1
+S18,Undergraduate,EARTH   141,TIFFNEY B H,A,1
+S18,Undergraduate,EARTH   141,TIFFNEY B H,B+,2
+S18,Undergraduate,EARTH   141,TIFFNEY B H,B,4
+S18,Undergraduate,EARTH   141,TIFFNEY B H,B-,2
+S18,Undergraduate,EARTH   141,TIFFNEY B H,C+,3
+S18,Undergraduate,EARTH   141,TIFFNEY B H,C,2
+S18,Undergraduate,EARTH   141,TIFFNEY B H,C-,1
+S18,Undergraduate,EARTH   141L,TIFFNEY B H,A,1
+S18,Undergraduate,EARTH   141L,TIFFNEY B H,B,1
+S18,Undergraduate,EARTH   141L,TIFFNEY B H,B-,2
+S18,Undergraduate,EARTH   141L,TIFFNEY B H,C,1
+S18,Undergraduate,EARTH   143,PORTER S M,A,1
+S18,Undergraduate,EARTH   143,PORTER S M,A-,2
+S18,Undergraduate,EARTH   143,PORTER S M,B+,1
+S18,Undergraduate,EARTH   143,PORTER S M,B,2
+S18,Undergraduate,EARTH   143,PORTER S M,B-,4
+S18,Undergraduate,EARTH   143,PORTER S M,C,1
+S18,Undergraduate,EARTH   143,PORTER S M,C-,2
+S18,Undergraduate,EARTH   149,WYSS A R,A,2
+S18,Undergraduate,EARTH   149,WYSS A R,B+,2
+S18,Undergraduate,EARTH   149,WYSS A R,B,3
+S18,Undergraduate,EARTH   149,WYSS A R,B-,2
+S18,Undergraduate,EARTH   149,WYSS A R,C+,2
+S18,Undergraduate,EARTH   149,WYSS A R,C,3
+S18,Undergraduate,EARTH   149,WYSS A R,C-,5
+S18,Undergraduate,EARTH   149,WYSS A R,F,3
+S18,Undergraduate,EARTH   160,PORTER S M,P,53
+S18,Undergraduate,EARTH   160,PORTER S M,NP,7
+S18,Undergraduate,EARTH   164B,VALENTINE D L,A+,1
+S18,Undergraduate,EARTH   164B,VALENTINE D L,A,12
+S18,Undergraduate,EARTH   164B,VALENTINE D L,A-,2
+S18,Undergraduate,EARTH   164B,VALENTINE D L,B+,6
+S18,Undergraduate,EARTH   164B,VALENTINE D L,B,7
+S18,Undergraduate,EARTH   164B,VALENTINE D L,B-,3
+S18,Undergraduate,EARTH   164B,VALENTINE D L,C+,3
+S18,Undergraduate,EARTH   164B,VALENTINE D L,C,1
+S18,Undergraduate,EARTH   164B,VALENTINE D L,D,1
+S18,Undergraduate,EARTH   168,CLARK J,A+,1
+S18,Undergraduate,EARTH   168,CLARK J,A,1
+S18,Undergraduate,EARTH   168,CLARK J,A-,3
+S18,Undergraduate,EARTH   168,CLARK J,B+,5
+S18,Undergraduate,EARTH   168,CLARK J,B,6
+S18,Undergraduate,EARTH   168,CLARK J,B-,4
+S18,Undergraduate,EARTH   168,CLARK J,C+,4
+S18,Undergraduate,EARTH   168,CLARK J,C,4
+S18,Undergraduate,EARTH   168,CLARK J,D+,2
+S18,Undergraduate,EARTH   176,MORELL K D,A,3
+S18,Undergraduate,EARTH   176,MORELL K D,A-,4
+S18,Undergraduate,EARTH   176,MORELL K D,B+,5
+S18,Undergraduate,EARTH   176,MORELL K D,B,5
+S18,Undergraduate,EARTH   176,MORELL K D,B-,3
+S18,Undergraduate,EARTH   176,MORELL K D,C,2
+S18,Undergraduate,EARTH   176,MORELL K D,D,1
+S18,Undergraduate,EARTH   176,MORELL K D,D-,2
+S18,Undergraduate,EARTH   177,COTTLE J,A+,3
+S18,Undergraduate,EARTH   177,COTTLE J,A,2
+S18,Undergraduate,EARTH   177,COTTLE J,A-,3
+S18,Undergraduate,EARTH   177,COTTLE J,B+,3
+S18,Undergraduate,EARTH   177,COTTLE J,B,4
+S18,Undergraduate,EARTH   177,COTTLE J,B-,4
+S18,Undergraduate,EARTH   177,COTTLE J,C+,3
+S18,Undergraduate,EARTH   177,COTTLE J,C,2
+S18,Undergraduate,EARTH   177,COTTLE J,D-,1
+S18,Undergraduate,EARTH   177,COTTLE J,F,1
+S18,Undergraduate,EARTH   177,GANS P B,A+,3
+S18,Undergraduate,EARTH   177,GANS P B,A,2
+S18,Undergraduate,EARTH   177,GANS P B,A-,3
+S18,Undergraduate,EARTH   177,GANS P B,B+,3
+S18,Undergraduate,EARTH   177,GANS P B,B,4
+S18,Undergraduate,EARTH   177,GANS P B,B-,4
+S18,Undergraduate,EARTH   177,GANS P B,C+,3
+S18,Undergraduate,EARTH   177,GANS P B,C,2
+S18,Undergraduate,EARTH   177,GANS P B,D-,1
+S18,Undergraduate,EARTH   177,GANS P B,F,1
+S18,Undergraduate,EARTH   199,VALENTINE D L,A,5
+S18,Graduate,EARTH   201C,LISIECKI L E,A+,3
+S18,Graduate,EARTH   201C,LISIECKI L E,A,5
+S18,Graduate,EARTH   202,LISIECKI L E,A,5
+S18,Graduate,EARTH   202,LISIECKI L E,S,2
+S18,Graduate,EARTH   254,TANIMOTO T,S,5
+S18,Graduate,EARTH   260,PORTER S M,S,33
+S18,Graduate,EARTH   266,LEA D W,A+,1
+S18,Graduate,EARTH   266,LEA D W,A,1
+S18,Graduate,EARTH   266,LEA D W,A-,3
+S18,Graduate,EARTH   266,LEA D W,B+,2
+S18,Graduate,EARTH   266,LEA D W,B,1
+S18,Graduate,EARTH   268,PORTER S M,S,8

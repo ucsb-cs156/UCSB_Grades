@@ -1,0 +1,100 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M13,Undergraduate,ARTHI   107A,MEADOW M A,A+,3
+M13,Undergraduate,ARTHI   107A,MEADOW M A,A,3
+M13,Undergraduate,ARTHI   107A,MEADOW M A,A-,1
+M13,Undergraduate,ARTHI   107A,MEADOW M A,B+,4
+M13,Undergraduate,ARTHI   107A,MEADOW M A,B,1
+M13,Undergraduate,ARTHI   107A,MEADOW M A,F,2
+M13,Undergraduate,COMM    170,METZGER M J,A,4
+M13,Undergraduate,COMM    170,METZGER M J,A-,3
+M13,Undergraduate,COMM    170,METZGER M J,B+,4
+M13,Undergraduate,COMM    170,METZGER M J,B,3
+M13,Undergraduate,COMM    170,METZGER M J,B-,3
+M13,Undergraduate,COMM    170,METZGER M J,C+,3
+M13,Undergraduate,COMM    170,METZGER M J,C,5
+M13,Undergraduate,COMM    170,METZGER M J,C-,3
+M13,Undergraduate,COMM    170,METZGER M J,D+,2
+M13,Undergraduate,COMM    170,METZGER M J,D,1
+M13,Undergraduate,COMM    170,METZGER M J,D-,1
+M13,Undergraduate,COMM    170,METZGER M J,F,2
+M13,Undergraduate,EARTH     2,MENDES S D,A,7
+M13,Undergraduate,EARTH     2,MENDES S D,A-,5
+M13,Undergraduate,EARTH     2,MENDES S D,B+,1
+M13,Undergraduate,EARTH     2,MENDES S D,B,3
+M13,Undergraduate,EARTH     2,MENDES S D,B-,3
+M13,Undergraduate,EARTH     2,MENDES S D,C+,1
+M13,Undergraduate,EARTH     2,MENDES S D,C,3
+M13,Undergraduate,EARTH     2,MENDES S D,C-,1
+M13,Undergraduate,ENGL     10,MEYER S R,A,4
+M13,Undergraduate,ENGL     10,MEYER S R,A-,2
+M13,Undergraduate,ENGL     10,MEYER S R,B+,1
+M13,Undergraduate,ENGL     10,MEYER S R,B,10
+M13,Undergraduate,ENGL     10,MEYER S R,C+,1
+M13,Undergraduate,ENGL     15,MEGNA P J,A+,1
+M13,Undergraduate,ENGL     15,MEGNA P J,A,6
+M13,Undergraduate,ENGL     15,MEGNA P J,A-,8
+M13,Undergraduate,ENGL     15,MEGNA P J,B+,5
+M13,Undergraduate,ENGL     15,MEGNA P J,B,5
+M13,Undergraduate,ENGL     15,MEGNA P J,B-,3
+M13,Undergraduate,ENGL     15,MEGNA P J,F,1
+M13,Undergraduate,GEOG W   12,MEDRANO F A,A+,3
+M13,Undergraduate,GEOG W   12,MEDRANO F A,A,6
+M13,Undergraduate,GEOG W   12,MEDRANO F A,A-,1
+M13,Undergraduate,GEOG W   12,MEDRANO F A,B+,3
+M13,Undergraduate,GEOG W   12,MEDRANO F A,B,4
+M13,Undergraduate,GEOG W   12,MEDRANO F A,B-,2
+M13,Undergraduate,GEOG W   12,MEDRANO F A,F,1
+M13,Undergraduate,ME       14,QALANDAR K R,A+,1
+M13,Undergraduate,ME       14,QALANDAR K R,A,3
+M13,Undergraduate,ME       14,QALANDAR K R,A-,3
+M13,Undergraduate,ME       14,QALANDAR K R,B+,1
+M13,Undergraduate,ME       14,QALANDAR K R,B,2
+M13,Undergraduate,ME       14,QALANDAR K R,C,2
+M13,Undergraduate,ME       14,QALANDAR K R,C-,1
+M13,Undergraduate,ME       14,QALANDAR K R,F,1
+M13,Undergraduate,ME       15,BELTZ G,A+,4
+M13,Undergraduate,ME       15,BELTZ G,A,4
+M13,Undergraduate,ME       15,BELTZ G,A-,2
+M13,Undergraduate,ME       15,BELTZ G,B,4
+M13,Undergraduate,ME       15,BELTZ G,C,1
+M13,Undergraduate,ME       15,BELTZ G,F,1
+M13,Undergraduate,ME       16,KIM L,A,4
+M13,Undergraduate,ME       16,KIM L,A-,3
+M13,Undergraduate,ME       16,KIM L,B+,2
+M13,Undergraduate,ME       16,KIM L,B,2
+M13,Undergraduate,ME       16,KIM L,B-,1
+M13,Undergraduate,ME       16,KIM L,C+,2
+M13,Undergraduate,ME       16,KIM L,C,4
+M13,Undergraduate,ME       16,KIM L,F,1
+M13,Undergraduate,ME      179L,HARE C,A+,1
+M13,Undergraduate,ME      179L,HARE C,A,10
+M13,Undergraduate,ME      179L,HARE C,A-,4
+M13,Undergraduate,ME      179L,HARE C,B+,4
+M13,Undergraduate,ME      179L,HARE C,B,1
+M13,Undergraduate,PSY     102,METZ M A,A+,1
+M13,Undergraduate,PSY     102,METZ M A,A,6
+M13,Undergraduate,PSY     102,METZ M A,A-,18
+M13,Undergraduate,PSY     102,METZ M A,B+,14
+M13,Undergraduate,PSY     102,METZ M A,B,21
+M13,Undergraduate,PSY     102,METZ M A,B-,20
+M13,Undergraduate,PSY     102,METZ M A,C+,16
+M13,Undergraduate,PSY     102,METZ M A,C,15
+M13,Undergraduate,PSY     102,METZ M A,C-,2
+M13,Undergraduate,PSY     102,METZ M A,D+,7
+M13,Undergraduate,PSY     102,METZ M A,D,5
+M13,Undergraduate,PSY     102,METZ M A,F,7
+M13,Undergraduate,PSY     120L,METZ M A,A,6
+M13,Undergraduate,PSY     120L,METZ M A,A-,2
+M13,Undergraduate,PSY     120L,METZ M A,B+,7
+M13,Undergraduate,PSY     120L,METZ M A,B,10
+M13,Undergraduate,PSY     120L,METZ M A,B-,8
+M13,Undergraduate,PSY     120L,METZ M A,C+,2
+M13,Undergraduate,PSY     120L,METZ M A,C,2
+M13,Undergraduate,PSY     120L,METZ M A,D+,3
+M13,Undergraduate,PSY     120L,METZ M A,D,1
+M13,Undergraduate,WRIT      2,METCALF S M,A,2
+M13,Undergraduate,WRIT      2,METCALF S M,A-,5
+M13,Undergraduate,WRIT      2,METCALF S M,B+,6
+M13,Undergraduate,WRIT      2,METCALF S M,B,4
+M13,Undergraduate,WRIT      2,METCALF S M,B-,1
+M13,Undergraduate,WRIT      2,METCALF S M,C+,2

@@ -1,0 +1,135 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,PSTAT     5A,LUO W,A+,2
+M17,Undergraduate,PSTAT     5A,LUO W,A,24
+M17,Undergraduate,PSTAT     5A,LUO W,A-,3
+M17,Undergraduate,PSTAT     5A,LUO W,B+,5
+M17,Undergraduate,PSTAT     5A,LUO W,B,20
+M17,Undergraduate,PSTAT     5A,LUO W,B-,3
+M17,Undergraduate,PSTAT     5A,LUO W,C+,6
+M17,Undergraduate,PSTAT     5A,LUO W,C,4
+M17,Undergraduate,PSTAT     5A,LUO W,F,2
+M17,Undergraduate,PSTAT     5A,SWENSON J S,A+,1
+M17,Undergraduate,PSTAT     5A,SWENSON J S,A,9
+M17,Undergraduate,PSTAT     5A,SWENSON J S,A-,9
+M17,Undergraduate,PSTAT     5A,SWENSON J S,B+,12
+M17,Undergraduate,PSTAT     5A,SWENSON J S,B,8
+M17,Undergraduate,PSTAT     5A,SWENSON J S,B-,2
+M17,Undergraduate,PSTAT     5A,SWENSON J S,C+,8
+M17,Undergraduate,PSTAT     5A,SWENSON J S,C,4
+M17,Undergraduate,PSTAT     5A,SWENSON J S,C-,3
+M17,Undergraduate,PSTAT     5A,SWENSON J S,D+,2
+M17,Undergraduate,PSTAT     5A,SWENSON J S,F,4
+M17,Undergraduate,PSTAT   109,NAVA M M,A+,2
+M17,Undergraduate,PSTAT   109,NAVA M M,A,7
+M17,Undergraduate,PSTAT   109,NAVA M M,A-,3
+M17,Undergraduate,PSTAT   109,NAVA M M,B+,2
+M17,Undergraduate,PSTAT   109,NAVA M M,B,6
+M17,Undergraduate,PSTAT   109,NAVA M M,C+,2
+M17,Undergraduate,PSTAT   109,NAVA M M,C,3
+M17,Undergraduate,PSTAT   109,NAVA M M,D,4
+M17,Undergraduate,PSTAT   109,OLAFSSON S,A+,3
+M17,Undergraduate,PSTAT   109,OLAFSSON S,A,14
+M17,Undergraduate,PSTAT   109,OLAFSSON S,A-,7
+M17,Undergraduate,PSTAT   109,OLAFSSON S,B+,5
+M17,Undergraduate,PSTAT   109,OLAFSSON S,B,8
+M17,Undergraduate,PSTAT   109,OLAFSSON S,B-,2
+M17,Undergraduate,PSTAT   109,OLAFSSON S,C,1
+M17,Undergraduate,PSTAT   109,OLAFSSON S,C-,1
+M17,Undergraduate,PSTAT   109,OLAFSSON S,D,1
+M17,Undergraduate,PSTAT   109,OLAFSSON S,F,2
+M17,Undergraduate,PSTAT   109,SERUP J L,A+,3
+M17,Undergraduate,PSTAT   109,SERUP J L,A,6
+M17,Undergraduate,PSTAT   109,SERUP J L,A-,4
+M17,Undergraduate,PSTAT   109,SERUP J L,B+,7
+M17,Undergraduate,PSTAT   109,SERUP J L,B,6
+M17,Undergraduate,PSTAT   109,SERUP J L,B-,4
+M17,Undergraduate,PSTAT   109,SERUP J L,C+,5
+M17,Undergraduate,PSTAT   109,SERUP J L,C,4
+M17,Undergraduate,PSTAT   109,SERUP J L,F,1
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,A+,5
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,A,9
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,A-,7
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,B+,6
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,B,11
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,B-,8
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,C+,10
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,C,14
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,C-,2
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,D+,5
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,D,6
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,D-,1
+M17,Undergraduate,PSTAT   120A,GOFFARD P M,F,10
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,A+,6
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,A,17
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,A-,7
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,B+,4
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,B,1
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,C+,6
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,C,8
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,D,5
+M17,Undergraduate,PSTAT   120B,HOLLADAY B A,F,9
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,A+,3
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,A,2
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,A-,3
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,B+,6
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,B,3
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,B-,13
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,C+,4
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,C,4
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,C-,2
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,D+,1
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,D,2
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,D-,3
+M17,Undergraduate,PSTAT   120B,MEINTANIS S,F,6
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,A+,3
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,A,5
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,A-,3
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,B+,4
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,B,14
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,B-,9
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,C+,9
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,C,7
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,C-,5
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,D,2
+M17,Undergraduate,PSTAT   120C,SHATSKIKH E,F,3
+M17,Undergraduate,PSTAT   130,HOLMES D E,A,14
+M17,Undergraduate,PSTAT   130,HOLMES D E,A-,4
+M17,Undergraduate,PSTAT   130,HOLMES D E,B+,9
+M17,Undergraduate,PSTAT   130,HOLMES D E,B,11
+M17,Undergraduate,PSTAT   130,HOLMES D E,C,12
+M17,Undergraduate,PSTAT   130,HOLMES D E,F,1
+M17,Undergraduate,PSTAT   130,QIU J,A+,2
+M17,Undergraduate,PSTAT   130,QIU J,A,3
+M17,Undergraduate,PSTAT   130,QIU J,A-,4
+M17,Undergraduate,PSTAT   130,QIU J,B+,11
+M17,Undergraduate,PSTAT   130,QIU J,B,5
+M17,Undergraduate,PSTAT   130,QIU J,B-,5
+M17,Undergraduate,PSTAT   130,QIU J,C+,9
+M17,Undergraduate,PSTAT   130,QIU J,C,5
+M17,Undergraduate,PSTAT   130,QIU J,C-,3
+M17,Undergraduate,PSTAT   130,QIU J,D,1
+M17,Undergraduate,PSTAT   171,DUNCAN I,A+,3
+M17,Undergraduate,PSTAT   171,DUNCAN I,A,2
+M17,Undergraduate,PSTAT   171,DUNCAN I,A-,5
+M17,Undergraduate,PSTAT   171,DUNCAN I,B+,3
+M17,Undergraduate,PSTAT   171,DUNCAN I,B,7
+M17,Undergraduate,PSTAT   171,DUNCAN I,B-,8
+M17,Undergraduate,PSTAT   171,DUNCAN I,C+,4
+M17,Undergraduate,PSTAT   171,DUNCAN I,C,4
+M17,Undergraduate,PSTAT   171,DUNCAN I,C-,7
+M17,Undergraduate,PSTAT   171,DUNCAN I,D,2
+M17,Undergraduate,PSTAT   171,DUNCAN I,F,1
+M17,Undergraduate,PSTATW  120A,NING N,A+,1
+M17,Undergraduate,PSTATW  120A,NING N,A,7
+M17,Undergraduate,PSTATW  120A,NING N,A-,3
+M17,Undergraduate,PSTATW  120A,NING N,B+,7
+M17,Undergraduate,PSTATW  120A,NING N,B,4
+M17,Undergraduate,PSTATW  120A,NING N,B-,4
+M17,Undergraduate,PSTATW  120A,NING N,C+,8
+M17,Undergraduate,PSTATW  120A,NING N,C,4
+M17,Undergraduate,PSTATW  120A,NING N,C-,4
+M17,Undergraduate,PSTATW  120A,NING N,D+,4
+M17,Undergraduate,PSTATW  120A,NING N,D,1
+M17,Undergraduate,PSTATW  120A,NING N,D-,2
+M17,Undergraduate,PSTATW  182T,ZHANG Z,P,12
+M17,Undergraduate,PSTATW  182T,ZHANG Z,NP,6

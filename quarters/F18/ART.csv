@@ -1,0 +1,394 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Undergraduate,ART       1A,TASCHIAN H J,A,16
+F18,Undergraduate,ART       1A,TASCHIAN H J,A-,16
+F18,Undergraduate,ART       1A,TASCHIAN H J,B+,9
+F18,Undergraduate,ART       1A,TASCHIAN H J,B,16
+F18,Undergraduate,ART       1A,TASCHIAN H J,B-,8
+F18,Undergraduate,ART       1A,TASCHIAN H J,C,3
+F18,Undergraduate,ART       1A,TASCHIAN H J,C-,1
+F18,Undergraduate,ART       1A,TASCHIAN H J,D+,1
+F18,Undergraduate,ART       1A,TASCHIAN H J,D-,2
+F18,Undergraduate,ART       1A,TASCHIAN H J,F,5
+F18,Undergraduate,ART       1C,GRIFFITH D K,A+,1
+F18,Undergraduate,ART       1C,GRIFFITH D K,A,175
+F18,Undergraduate,ART       1C,GRIFFITH D K,A-,17
+F18,Undergraduate,ART       1C,GRIFFITH D K,B+,9
+F18,Undergraduate,ART       1C,GRIFFITH D K,B,10
+F18,Undergraduate,ART       1C,GRIFFITH D K,F,5
+F18,Undergraduate,ART       1C,HEBDIGE R W,A+,1
+F18,Undergraduate,ART       1C,HEBDIGE R W,A,175
+F18,Undergraduate,ART       1C,HEBDIGE R W,A-,17
+F18,Undergraduate,ART       1C,HEBDIGE R W,B+,9
+F18,Undergraduate,ART       1C,HEBDIGE R W,B,10
+F18,Undergraduate,ART       1C,HEBDIGE R W,F,5
+F18,Undergraduate,ART       7B,ELLIS C M,A+,4
+F18,Undergraduate,ART       7B,ELLIS C M,A,18
+F18,Undergraduate,ART       7B,ELLIS C M,A-,30
+F18,Undergraduate,ART       7B,ELLIS C M,B+,7
+F18,Undergraduate,ART       7B,ELLIS C M,B,8
+F18,Undergraduate,ART       7B,ELLIS C M,B-,3
+F18,Undergraduate,ART       7B,ELLIS C M,C+,1
+F18,Undergraduate,ART       7B,ELLIS C M,C,4
+F18,Undergraduate,ART       7B,ELLIS C M,F,1
+F18,Undergraduate,ART      10,ARGENT P,A+,1
+F18,Undergraduate,ART      10,ARGENT P,A,6
+F18,Undergraduate,ART      10,ARGENT P,A-,3
+F18,Undergraduate,ART      10,ARGENT P,B+,5
+F18,Undergraduate,ART      10,ARGENT P,B,1
+F18,Undergraduate,ART      10,ARGENT P,C+,1
+F18,Undergraduate,ART      10,ARGENT P,C-,1
+F18,Undergraduate,ART      10,KOTH M,A+,1
+F18,Undergraduate,ART      10,KOTH M,A,6
+F18,Undergraduate,ART      10,KOTH M,A-,3
+F18,Undergraduate,ART      10,KOTH M,B+,5
+F18,Undergraduate,ART      10,KOTH M,B,1
+F18,Undergraduate,ART      10,KOTH M,C+,1
+F18,Undergraduate,ART      10,KOTH M,C-,1
+F18,Undergraduate,ART      12,MULFINGER J,A+,1
+F18,Undergraduate,ART      12,MULFINGER J,A,4
+F18,Undergraduate,ART      12,MULFINGER J,A-,5
+F18,Undergraduate,ART      12,MULFINGER J,B+,4
+F18,Undergraduate,ART      12,MULFINGER J,B,5
+F18,Undergraduate,ART      12,MULFINGER J,B-,1
+F18,Undergraduate,ART      12,ORTEGA MONTIL,A+,1
+F18,Undergraduate,ART      12,ORTEGA MONTIL,A,4
+F18,Undergraduate,ART      12,ORTEGA MONTIL,A-,5
+F18,Undergraduate,ART      12,ORTEGA MONTIL,B+,4
+F18,Undergraduate,ART      12,ORTEGA MONTIL,B,5
+F18,Undergraduate,ART      12,ORTEGA MONTIL,B-,1
+F18,Undergraduate,ART      14,BRICCETTI R E,A,5
+F18,Undergraduate,ART      14,BRICCETTI R E,A-,7
+F18,Undergraduate,ART      14,BRICCETTI R E,B+,4
+F18,Undergraduate,ART      14,BRICCETTI R E,B,2
+F18,Undergraduate,ART      14,BRICCETTI R E,B-,2
+F18,Undergraduate,ART      14,THEOHAR E S,A,5
+F18,Undergraduate,ART      14,THEOHAR E S,A-,7
+F18,Undergraduate,ART      14,THEOHAR E S,B+,4
+F18,Undergraduate,ART      14,THEOHAR E S,B,2
+F18,Undergraduate,ART      14,THEOHAR E S,B-,2
+F18,Undergraduate,ART      18,BELTZ E A,A+,1
+F18,Undergraduate,ART      18,BELTZ E A,A,7
+F18,Undergraduate,ART      18,BELTZ E A,A-,2
+F18,Undergraduate,ART      18,BELTZ E A,B+,3
+F18,Undergraduate,ART      18,BELTZ E A,B,4
+F18,Undergraduate,ART      18,BELTZ E A,B-,1
+F18,Undergraduate,ART      18,BELTZ E A,C-,1
+F18,Undergraduate,ART      18,BELTZ E A,F,1
+F18,Undergraduate,ART      18,SHARPE D M,A+,1
+F18,Undergraduate,ART      18,SHARPE D M,A,7
+F18,Undergraduate,ART      18,SHARPE D M,A-,2
+F18,Undergraduate,ART      18,SHARPE D M,B+,3
+F18,Undergraduate,ART      18,SHARPE D M,B,4
+F18,Undergraduate,ART      18,SHARPE D M,B-,1
+F18,Undergraduate,ART      18,SHARPE D M,C-,1
+F18,Undergraduate,ART      18,SHARPE D M,F,1
+F18,Undergraduate,ART      19,BRICCETTI R E,A+,1
+F18,Undergraduate,ART      19,BRICCETTI R E,A,14
+F18,Undergraduate,ART      19,BRICCETTI R E,A-,14
+F18,Undergraduate,ART      19,BRICCETTI R E,B+,5
+F18,Undergraduate,ART      19,BRICCETTI R E,B,2
+F18,Undergraduate,ART      19,BRICCETTI R E,B-,6
+F18,Undergraduate,ART      19,BRICCETTI R E,C+,1
+F18,Undergraduate,ART      19,BRICCETTI R E,C-,2
+F18,Undergraduate,ART      19,BRICCETTI R E,F,1
+F18,Undergraduate,ART      22,DE JESUS ESCA,A+,4
+F18,Undergraduate,ART      22,DE JESUS ESCA,A,6
+F18,Undergraduate,ART      22,DE JESUS ESCA,A-,7
+F18,Undergraduate,ART      22,DE JESUS ESCA,B+,2
+F18,Undergraduate,ART      22,DE JESUS ESCA,B,1
+F18,Undergraduate,ART      22,DE JESUS ESCA,F,2
+F18,Undergraduate,ART      22,ZHANG WEIDI,A+,4
+F18,Undergraduate,ART      22,ZHANG WEIDI,A,6
+F18,Undergraduate,ART      22,ZHANG WEIDI,A-,7
+F18,Undergraduate,ART      22,ZHANG WEIDI,B+,2
+F18,Undergraduate,ART      22,ZHANG WEIDI,B,1
+F18,Undergraduate,ART      22,ZHANG WEIDI,F,2
+F18,Undergraduate,ART      32,FISCHBECK S R,A+,1
+F18,Undergraduate,ART      32,FISCHBECK S R,A,8
+F18,Undergraduate,ART      32,FISCHBECK S R,A-,3
+F18,Undergraduate,ART      32,FISCHBECK S R,B-,1
+F18,Undergraduate,ART      32,JAHNKE A,A+,1
+F18,Undergraduate,ART      32,JAHNKE A,A,8
+F18,Undergraduate,ART      32,JAHNKE A,A-,3
+F18,Undergraduate,ART      32,JAHNKE A,B-,1
+F18,Undergraduate,ART     100,CALLISTER J,A+,2
+F18,Undergraduate,ART     100,CALLISTER J,A,6
+F18,Undergraduate,ART     100,CALLISTER J,A-,5
+F18,Undergraduate,ART     100,CALLISTER J,B+,1
+F18,Undergraduate,ART     100,CALLISTER J,B,6
+F18,Undergraduate,ART     102MM,JEVBRATT L V,A,3
+F18,Undergraduate,ART     102MM,JEVBRATT L V,A-,2
+F18,Undergraduate,ART     102MM,JEVBRATT L V,B+,3
+F18,Undergraduate,ART     102MM,JEVBRATT L V,B,4
+F18,Undergraduate,ART     105PP,MULFINGER J,A+,4
+F18,Undergraduate,ART     105PP,MULFINGER J,A,3
+F18,Undergraduate,ART     105PP,MULFINGER J,A-,4
+F18,Undergraduate,ART     105PP,MULFINGER J,B+,1
+F18,Undergraduate,ART     105PP,MULFINGER J,B,2
+F18,Undergraduate,ART     117,BELTZ E A,A,10
+F18,Undergraduate,ART     117,BELTZ E A,A-,5
+F18,Undergraduate,ART     117,BELTZ E A,B+,2
+F18,Undergraduate,ART     117,BELTZ E A,B,2
+F18,Undergraduate,ART     117,BELTZ E A,F,1
+F18,Undergraduate,ART     122PC,LUO JIELIANG,A+,3
+F18,Undergraduate,ART     122PC,LUO JIELIANG,A,3
+F18,Undergraduate,ART     122PC,LUO JIELIANG,A-,2
+F18,Undergraduate,ART     122PC,LUO JIELIANG,B+,1
+F18,Undergraduate,ART     122PC,LUO JIELIANG,C-,1
+F18,Undergraduate,ART     122PC,LUO JIELIANG,F,1
+F18,Undergraduate,ART     126,GARDNER C,A+,5
+F18,Undergraduate,ART     126,GARDNER C,A,8
+F18,Undergraduate,ART     126,GARDNER C,A-,1
+F18,Undergraduate,ART     126,GARDNER C,B+,2
+F18,Undergraduate,ART     126,GARDNER C,B,1
+F18,Undergraduate,ART     126,GARDNER C,F,1
+F18,Undergraduate,ART     136,FULBECK L K,A,4
+F18,Undergraduate,ART     136,FULBECK L K,A-,1
+F18,Undergraduate,ART     136,FULBECK L K,B+,2
+F18,Undergraduate,ART     136,FULBECK L K,B,2
+F18,Undergraduate,ART     136,FULBECK L K,B-,1
+F18,Undergraduate,ART     136,FULBECK L K,C+,1
+F18,Undergraduate,ART     136,FULBECK L K,C,1
+F18,Undergraduate,ART     192ES,ARGENT P,P,1
+F18,Undergraduate,ART     192ES,CALLISTER J,P,3
+F18,Undergraduate,ART     192ES,TASCHIAN H J,P,1
+F18,Undergraduate,ART     192IA,HEBDIGE R W,P,1
+F18,Undergraduate,ART     194,MORRISON A G,A,8
+F18,Undergraduate,ART     194,MORRISON A G,A-,3
+F18,Undergraduate,ART     194,MORRISON A G,B+,7
+F18,Undergraduate,ART     194,MORRISON A G,B,2
+F18,Undergraduate,ART     194,YASUDA K,A,8
+F18,Undergraduate,ART     194,YASUDA K,A-,3
+F18,Undergraduate,ART     194,YASUDA K,B+,7
+F18,Undergraduate,ART     194,YASUDA K,B,2
+F18,Undergraduate,ART     196,ELLIS C M,A,6
+F18,Undergraduate,ART     196,ELLIS C M,B,1
+F18,Undergraduate,ART     196,ELLIS C M,B-,1
+F18,Undergraduate,ART     199,BRICCETTI R E,A+,1
+F18,Undergraduate,ART     199,BRICCETTI R E,A,1
+F18,Undergraduate,ART     199,CALLISTER J,A,1
+F18,Undergraduate,ART     199,FULBECK L K,A,1
+F18,Undergraduate,ART     199,HEBDIGE R W,A,1
+F18,Undergraduate,ART     199,MULFINGER J,A+,1
+F18,Undergraduate,ART     199RA,BAKER E A,A,1
+F18,Undergraduate,ART     199RA,BELTZ E A,A,1
+F18,Undergraduate,ART     199RA,BRICCETTI R E,A,1
+F18,Undergraduate,ART     199RA,CALLISTER J,A,2
+F18,Undergraduate,ART     199RA,FULBECK L K,A,1
+F18,Undergraduate,ART     199RA,HEBDIGE R W,A,1
+F18,Undergraduate,ART     199RA,MIRACLE J W,A+,1
+F18,Undergraduate,ART     199RA,MULFINGER J,A,1
+F18,Undergraduate,ART     199RA,REESE H,A,1
+F18,Graduate,ART     244,HEBDIGE R W,A,14
+F18,Graduate,ART     260,FULBECK L K,A,6
+F18,Graduate,ART     261,HEBDIGE R W,A,6
+F18,Graduate,ART     501,ARGENT P,S,1
+F18,Graduate,ART     501,BELTZ E A,S,1
+F18,Graduate,ART     501,BRICCETTI R E,S,1
+F18,Graduate,ART     501,CALLISTER J,S,1
+F18,Graduate,ART     501,ELLIS C M,S,3
+F18,Graduate,ART     501,FISCHBECK S R,S,1
+F18,Graduate,ART     501,MULFINGER J,S,1
+F18,Graduate,ART     501,TASCHIAN H J,S,2
+F18,Graduate,ART     591A,CALLISTER J,A+,1
+F18,Graduate,ART     591A,CALLISTER J,B,1
+F18,Graduate,ART     591A,GARDNER C,A,3
+F18,Graduate,ART     591A,HEBDIGE R W,A,3
+F18,Graduate,ART     591A,JEVBRATT L V,A,1
+F18,Graduate,ART     591A,MULFINGER J,A+,1
+F18,Graduate,ART     591A,MULFINGER J,A,3
+F18,Graduate,ART     591A,TASCHIAN H J,A,1
+F18,Graduate,ART     591A,YASUDA K,A,1
+F18,Graduate,ART     593MS,HEBDIGE R W,A,1
+F18,Graduate,ART     593MS,TASCHIAN H J,A,1
+F18,Graduate,ART     595,FULBECK L K,A,1
+F18,Undergraduate,ART  CS  15,ALLEN C E,P,7
+F18,Undergraduate,ART  CS  15,EKSTROM L,P,9
+F18,Undergraduate,ART  CS 101,PITCHER H,P,9
+F18,Undergraduate,ART  CS 102,CONNALLY D E,P,8
+F18,Undergraduate,ART  CS 102,MIRACLE J W,P,11
+F18,Undergraduate,ART  CS 102,PITCHER H,P,12
+F18,Undergraduate,ART  CS 105,EKSTROM L,P,11
+F18,Undergraduate,ART  CS 112,CONNALLY D E,P,9
+F18,Undergraduate,ART  CS 199,BAKER E A,P,1
+F18,Undergraduate,ART  CS 199,CONNALLY D E,P,1
+F18,Undergraduate,ART  CS 199,EKSTROM L,P,4
+F18,Undergraduate,ART  CS 199,MULFINGER J,P,2
+F18,Undergraduate,ART  CS 199,TYLER C M,P,1
+F18,Undergraduate,ART  CS 199,WANG R K,P,1
+F18,Undergraduate,ART  CS 199,YASUDA K,P,1
+F18,Undergraduate,ARTHI     5A,WELTER V W,A+,2
+F18,Undergraduate,ARTHI     5A,WELTER V W,A,15
+F18,Undergraduate,ARTHI     5A,WELTER V W,A-,21
+F18,Undergraduate,ARTHI     5A,WELTER V W,B+,20
+F18,Undergraduate,ARTHI     5A,WELTER V W,B,29
+F18,Undergraduate,ARTHI     5A,WELTER V W,B-,22
+F18,Undergraduate,ARTHI     5A,WELTER V W,C+,16
+F18,Undergraduate,ARTHI     5A,WELTER V W,C,3
+F18,Undergraduate,ARTHI     5A,WELTER V W,C-,4
+F18,Undergraduate,ARTHI     5A,WELTER V W,D-,1
+F18,Undergraduate,ARTHI     5A,WELTER V W,F,5
+F18,Undergraduate,ARTHI     5AH,WELTER V W,A+,3
+F18,Undergraduate,ARTHI     5AH,WELTER V W,A,3
+F18,Undergraduate,ARTHI     5AH,WELTER V W,A-,2
+F18,Undergraduate,ARTHI     5AH,WELTER V W,B,2
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,A+,6
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,A,28
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,A-,18
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,B+,27
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,B,13
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,B-,10
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,C+,4
+F18,Undergraduate,ARTHI     5B,ROBERTSON E B,C,2
+F18,Undergraduate,ARTHI     6A,WHITE J S,A+,31
+F18,Undergraduate,ARTHI     6A,WHITE J S,A,177
+F18,Undergraduate,ARTHI     6A,WHITE J S,A-,66
+F18,Undergraduate,ARTHI     6A,WHITE J S,B+,54
+F18,Undergraduate,ARTHI     6A,WHITE J S,B,48
+F18,Undergraduate,ARTHI     6A,WHITE J S,B-,19
+F18,Undergraduate,ARTHI     6A,WHITE J S,C+,18
+F18,Undergraduate,ARTHI     6A,WHITE J S,C,8
+F18,Undergraduate,ARTHI     6A,WHITE J S,C-,4
+F18,Undergraduate,ARTHI     6A,WHITE J S,D+,1
+F18,Undergraduate,ARTHI     6A,WHITE J S,D,2
+F18,Undergraduate,ARTHI     6A,WHITE J S,D-,2
+F18,Undergraduate,ARTHI     6A,WHITE J S,F,5
+F18,Undergraduate,ARTHI     6K,KHOURY N N,A+,1
+F18,Undergraduate,ARTHI     6K,KHOURY N N,A,13
+F18,Undergraduate,ARTHI     6K,KHOURY N N,A-,13
+F18,Undergraduate,ARTHI     6K,KHOURY N N,B+,14
+F18,Undergraduate,ARTHI     6K,KHOURY N N,B,9
+F18,Undergraduate,ARTHI     6K,KHOURY N N,B-,23
+F18,Undergraduate,ARTHI     6K,KHOURY N N,C+,2
+F18,Undergraduate,ARTHI     6K,KHOURY N N,C,2
+F18,Undergraduate,ARTHI     6K,KHOURY N N,C-,2
+F18,Undergraduate,ARTHI     6K,KHOURY N N,F,5
+F18,Undergraduate,ARTHI   107A,FAUST M R,A,18
+F18,Undergraduate,ARTHI   107A,FAUST M R,A-,9
+F18,Undergraduate,ARTHI   107A,FAUST M R,B+,9
+F18,Undergraduate,ARTHI   107A,FAUST M R,B,4
+F18,Undergraduate,ARTHI   107A,FAUST M R,B-,3
+F18,Undergraduate,ARTHI   107A,FAUST M R,C+,1
+F18,Undergraduate,ARTHI   107A,FAUST M R,C,2
+F18,Undergraduate,ARTHI   107A,FAUST M R,F,3
+F18,Undergraduate,ARTHI   111B,ADAMS A J,A,12
+F18,Undergraduate,ARTHI   111B,ADAMS A J,A-,1
+F18,Undergraduate,ARTHI   111B,ADAMS A J,B+,3
+F18,Undergraduate,ARTHI   111B,ADAMS A J,B,6
+F18,Undergraduate,ARTHI   111B,ADAMS A J,B-,3
+F18,Undergraduate,ARTHI   111B,ADAMS A J,C+,3
+F18,Undergraduate,ARTHI   111B,ADAMS A J,C,1
+F18,Undergraduate,ARTHI   111B,ADAMS A J,C-,3
+F18,Undergraduate,ARTHI   111B,ADAMS A J,D+,1
+F18,Undergraduate,ARTHI   111B,ADAMS A J,D,1
+F18,Undergraduate,ARTHI   111B,ADAMS A J,F,1
+F18,Undergraduate,ARTHI   113A,PAUL C,A,11
+F18,Undergraduate,ARTHI   113A,PAUL C,A-,10
+F18,Undergraduate,ARTHI   113A,PAUL C,B+,8
+F18,Undergraduate,ARTHI   113A,PAUL C,B,9
+F18,Undergraduate,ARTHI   113A,PAUL C,B-,1
+F18,Undergraduate,ARTHI   113A,PAUL C,C+,1
+F18,Undergraduate,ARTHI   113A,PAUL C,C,1
+F18,Undergraduate,ARTHI   113A,PAUL C,F,1
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,A+,7
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,A,28
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,A-,2
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,B+,3
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,B,10
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,C+,1
+F18,Undergraduate,ARTHI   121A,GARFINKLE C G,F,2
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,A+,3
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,A,21
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,A-,3
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,B+,6
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,B,19
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,B-,2
+F18,Undergraduate,ARTHI   121B,GARFINKLE C G,C,3
+F18,Undergraduate,ARTHI   134D,STURMAN P C,A,8
+F18,Undergraduate,ARTHI   134D,STURMAN P C,A-,9
+F18,Undergraduate,ARTHI   134D,STURMAN P C,B+,8
+F18,Undergraduate,ARTHI   134D,STURMAN P C,B,5
+F18,Undergraduate,ARTHI   134D,STURMAN P C,B-,1
+F18,Undergraduate,ARTHI   141B,PAUL C,P,3
+F18,Undergraduate,ARTHI   141B,ROBERTSON E B,P,2
+F18,Undergraduate,ARTHI   141B,WHITE J S,P,1
+F18,Undergraduate,ARTHI   141E,GIMENEZ S L,A,13
+F18,Undergraduate,ARTHI   141E,GIMENEZ S L,A-,3
+F18,Undergraduate,ARTHI   141E,ROBERTSON E B,A,13
+F18,Undergraduate,ARTHI   141E,ROBERTSON E B,A-,3
+F18,Undergraduate,ARTHI   141E,SIMON O,A,13
+F18,Undergraduate,ARTHI   141E,SIMON O,A-,3
+F18,Undergraduate,ARTHI   141F,GIMENEZ S L,A,2
+F18,Undergraduate,ARTHI   141F,ROBERTSON E B,A,2
+F18,Undergraduate,ARTHI   141G,WELTER V W,A+,1
+F18,Undergraduate,ARTHI   141G,WELTER V W,A,9
+F18,Undergraduate,ARTHI   141G,WELTER V W,A-,9
+F18,Undergraduate,ARTHI   141G,WELTER V W,B+,8
+F18,Undergraduate,ARTHI   141G,WELTER V W,B,5
+F18,Undergraduate,ARTHI   141G,WELTER V W,B-,7
+F18,Undergraduate,ARTHI   141G,WELTER V W,C+,3
+F18,Undergraduate,ARTHI   141G,WELTER V W,C,2
+F18,Undergraduate,ARTHI   141G,WELTER V W,C-,1
+F18,Undergraduate,ARTHI   141G,WELTER V W,D,1
+F18,Undergraduate,ARTHI   141G,WELTER V W,F,2
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,A,16
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,A-,7
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,B+,4
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,B,7
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,B-,6
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,C+,1
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,C,2
+F18,Undergraduate,ARTHI   141MH,MCLEMORE E L,C-,2
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,A,3
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,A-,7
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,B+,9
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,B,10
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,B-,4
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,C+,4
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,C,2
+F18,Undergraduate,ARTHI   142B,WITTMAN R K,F,4
+F18,Undergraduate,ARTHI   186A,BACIU D C,A+,3
+F18,Undergraduate,ARTHI   186A,BACIU D C,D,1
+F18,Undergraduate,ARTHI   186H,PAUL C,A,8
+F18,Undergraduate,ARTHI   186H,PAUL C,A-,3
+F18,Undergraduate,ARTHI   186H,PAUL C,B+,2
+F18,Undergraduate,ARTHI   186SR,WITTMAN R K,A,2
+F18,Undergraduate,ARTHI   186SR,WITTMAN R K,A-,3
+F18,Undergraduate,ARTHI   186SR,WITTMAN R K,B+,3
+F18,Undergraduate,ARTHI   186SR,WITTMAN R K,B-,1
+F18,Undergraduate,ARTHI   199,BADAMO H A,A,1
+F18,Undergraduate,ARTHI   199,KHOURY N N,A,1
+F18,Undergraduate,ARTHI   199,MCLEMORE E L,A,1
+F18,Undergraduate,ARTHI   199,SORKIN JENNI,A-,1
+F18,Graduate,ARTHI   200A,ROBERTSON E B,A,5
+F18,Graduate,ARTHI   257A,ADAMS A J,A,3
+F18,Graduate,ARTHI   257A,ADAMS A J,A-,1
+F18,Graduate,ARTHI   257A,ADAMS A J,S,1
+F18,Graduate,ARTHI   282A,STURMAN P C,A,2
+F18,Graduate,ARTHI   282A,STURMAN P C,A-,1
+F18,Graduate,ARTHI   293D,BACIU D C,A+,3
+F18,Graduate,ARTHI   500,KHOURY N N,S,2
+F18,Graduate,ARTHI   500,MEADOW M A,S,1
+F18,Graduate,ARTHI   500,ROBERTSON E B,S,3
+F18,Graduate,ARTHI   500,WELTER V W,S,2
+F18,Graduate,ARTHI   500,WHITE J S,S,5
+F18,Graduate,ARTHI   500,WHITE J S,U,1
+F18,Graduate,ARTHI   596,CHATTOPADHYAY,A,1
+F18,Graduate,ARTHI   596,SPIEKER S,A,1
+F18,Graduate,ARTHI   596,WITTMAN R K,A,1
+F18,Graduate,ARTHI   597,KHOURY N N,S,1
+F18,Graduate,ARTHI   597,MEADOW M A,S,2
+F18,Graduate,ARTHI   597,MONAHAN L,S,2
+F18,Graduate,ARTHI   597,ROBERTSON E B,S,3
+F18,Graduate,ARTHI   597,SORKIN JENNI,S,2
+F18,Graduate,ARTHI   597,WELTER V W,S,1
+F18,Graduate,ARTHI   598,STURMAN P C,S,1
+F18,Graduate,ARTHI   599,ADAMS A J,S,1
+F18,Graduate,ARTHI   599,BADAMO H A,S,1
+F18,Graduate,ARTHI   599,MEADOW M A,S,5
+F18,Graduate,ARTHI   599,MONAHAN L,S,1
+F18,Graduate,ARTHI   599,OGBECHIE S O,S,1
+F18,Graduate,ARTHI   599,ROBERTSON E B,S,4
+F18,Graduate,ARTHI   599,SORKIN JENNI,S,3
+F18,Graduate,ARTHI   599,STURMAN P C,S,1
+F18,Graduate,ARTHI   599,WITTMAN R K,S,1

@@ -1,0 +1,120 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,INT       1,CALDWELL R C,P,24
+F16,Undergraduate,INT       1,COLMENAR G A,P,23
+F16,Undergraduate,INT       1,COLMENAR G A,NP,1
+F16,Undergraduate,INT       1,DUDA A L,P,20
+F16,Undergraduate,INT       1,DUDA A L,NP,2
+F16,Undergraduate,INT       1,FAULKNER J P,P,22
+F16,Undergraduate,INT       1,FAULKNER J P,NP,1
+F16,Undergraduate,INT       1,GANNETT L A,P,24
+F16,Undergraduate,INT       1,HUBER C F,P,19
+F16,Undergraduate,INT       1,HUBER C F,NP,2
+F16,Undergraduate,INT      84JC,CLARK J,A+,1
+F16,Undergraduate,INT      84JC,CLARK J,A,2
+F16,Undergraduate,INT      84JC,CLARK J,A-,2
+F16,Undergraduate,INT      84JC,CLARK J,B,1
+F16,Undergraduate,INT      84SB,BERMUDEZ S,A,7
+F16,Undergraduate,INT      84ZB,SIMMS A R,A,7
+F16,Undergraduate,INT      84ZC,STOPPLE J,A,25
+F16,Undergraduate,INT      85,ZHAO X,P,73
+F16,Undergraduate,INT      94BJ,DEVRIES M S,P,15
+F16,Undergraduate,INT      94FH,SINGER G H S,P,18
+F16,Undergraduate,INT      94GG,FULBECK L K,P,16
+F16,Undergraduate,INT      94GQ,GARCIA M T,P,19
+F16,Undergraduate,INT      94HG,ADAMS A J,P,8
+F16,Undergraduate,INT      94HG,ADAMS A J,NP,1
+F16,Undergraduate,INT      94HI,REESE B E,P,18
+F16,Undergraduate,INT      94HZ,KING W D,P,16
+F16,Undergraduate,INT      94HZ,KING W D,NP,2
+F16,Undergraduate,INT      94JK,MCCRACKEN E,P,18
+F16,Undergraduate,INT      94JV,COOPER D,P,19
+F16,Undergraduate,INT      94LQ,BARLOW C F,P,14
+F16,Undergraduate,INT      94ME,HANSER M F,P,17
+F16,Undergraduate,INT      94NF,ERICKSON B L,P,10
+F16,Undergraduate,INT      94OT,BARVOSA E,P,20
+F16,Undergraduate,INT      94PO,SCOTT V,P,18
+F16,Undergraduate,INT      94PO,SCOTT V,NP,1
+F16,Undergraduate,INT      94QJ,BOSCAGLI M,P,19
+F16,Undergraduate,INT      94QV,CORTIJO A,P,18
+F16,Undergraduate,INT      94RK,JAEGER L A,P,18
+F16,Undergraduate,INT      94RK,JAEGER L A,NP,1
+F16,Undergraduate,INT      94SH,JAMIESON A E,P,18
+F16,Undergraduate,INT      94SP,BRADLEY N D,P,18
+F16,Undergraduate,INT      94SR,NORRIS A,P,17
+F16,Undergraduate,INT      94SW,DONELAN J H,P,16
+F16,Undergraduate,INT      94SX,FRUHSTUCK S,P,15
+F16,Undergraduate,INT      94SY,SMITH S R,P,12
+F16,Undergraduate,INT      94TB,MORALES H L,P,18
+F16,Undergraduate,INT      94TC,GOULIAS K,P,19
+F16,Undergraduate,INT      94TD,ZETZER H A,P,18
+F16,Undergraduate,INT      94TE,CASTILLO J L,F,2
+F16,Undergraduate,INT      94TE,CASTILLO J L,P,15
+F16,Undergraduate,INT      94TF,GENOVA G L,P,14
+F16,Undergraduate,INT      94TG,REICH N O,P,15
+F16,Undergraduate,INT      94TH,EGECIOGLU O,P,20
+F16,Undergraduate,INT      94TI,FELBER J,P,10
+F16,Undergraduate,INT      94TJ,DUFFY A E,P,13
+F16,Undergraduate,INT      94TK,STUART D D,P,18
+F16,Undergraduate,INT      94TL,RICHMAN J D,P,15
+F16,Undergraduate,INT      94TM,MORSTEIN-MARX,P,17
+F16,Undergraduate,INT      94TN,PARHAMI B,P,20
+F16,Undergraduate,INT      94TO,KRYDER E A,P,9
+F16,Undergraduate,INT      94TP,CASILLAS D I,P,13
+F16,Undergraduate,INT      94TP,CASILLAS D I,NP,1
+F16,Undergraduate,INT     156EE,JARRETT G C,A+,1
+F16,Undergraduate,INT     156EE,JARRETT G C,A,5
+F16,Undergraduate,INT     156EE,JARRETT G C,B,3
+F16,Undergraduate,INT     156EE,JARRETT G C,C,1
+F16,Undergraduate,INT     156EE,JARRETT G C,F,1
+F16,Undergraduate,INT     184PD,BLAIN S M,A+,4
+F16,Undergraduate,INT     184PD,BLAIN S M,A,6
+F16,Undergraduate,INT     184PD,BLAIN S M,C+,1
+F16,Undergraduate,INT     184ZC,SPERA F J,A,18
+F16,Undergraduate,INT     184ZL,HILTNER K C,A,13
+F16,Undergraduate,INT     184ZL,HILTNER K C,A-,4
+F16,Undergraduate,INT     184ZN,COWHIG F Y,A,3
+F16,Undergraduate,INT     184ZN,COWHIG F Y,B+,2
+F16,Undergraduate,INT     184ZO,MOSCOSO DEL P,A+,3
+F16,Undergraduate,INT     184ZO,MOSCOSO DEL P,A,6
+F16,Undergraduate,INT     184ZO,MOSCOSO DEL P,C,1
+F16,Undergraduate,INT     184ZO,MOSCOSO DEL P,C-,2
+F16,Undergraduate,INT     184ZP,FOLTZ K R,A+,2
+F16,Undergraduate,INT     184ZP,FOLTZ K R,A,22
+F16,Undergraduate,INT     184ZQ,WITTMAN R K,A,11
+F16,Undergraduate,INT     185CT,BENJAMIN R,A,11
+F16,Undergraduate,INT     185CW,DONNELLY B,A-,4
+F16,Undergraduate,INT     185CW,DONNELLY B,C,16
+F16,Undergraduate,INT     185FT,WELD S P,P,22
+F16,Undergraduate,INT     185FT,WELD S P,NP,1
+F16,Undergraduate,INT     185LL,OCHOA F J,A+,2
+F16,Undergraduate,INT     185LL,OCHOA F J,A,3
+F16,Undergraduate,INT     185LL,OCHOA F J,A-,8
+F16,Undergraduate,INT     185LL,OCHOA F J,B+,4
+F16,Undergraduate,INT     185LL,OCHOA F J,B,1
+F16,Undergraduate,INT     185LL,OCHOA F J,B-,2
+F16,Undergraduate,INT     185LL,OCHOA F J,C,1
+F16,Undergraduate,INT     185LL,OCHOA F J,F,1
+F16,Undergraduate,INT     185MT,GENOVA G L,P,22
+F16,Undergraduate,INT     185PP,BENJAMIN R,A,7
+F16,Undergraduate,INT     185PP,BENJAMIN R,B,1
+F16,Undergraduate,INT     185PP,BENJAMIN R,F,1
+F16,Undergraduate,INT     185ST,ZINN E R,A+,2
+F16,Undergraduate,INT     185ST,ZINN E R,A,5
+F16,Undergraduate,INT     185ST,ZINN E R,A-,4
+F16,Undergraduate,INT     185UA,YASUDA K,A,15
+F16,Undergraduate,INT     185VW,DERWIN S,A,2
+F16,Undergraduate,INT     185VW,DERWIN S,A-,2
+F16,Undergraduate,INT     185VW,DERWIN S,B,1
+F16,Undergraduate,INT     190MA,SCHNEIDER B E,P,5
+F16,Undergraduate,INT     192DC,ADLER-KASSNER,P,33
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,A+,1
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,A,4
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,A-,16
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,B+,4
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,B,6
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,B-,1
+F16,Undergraduate,INT     199DC,ADLER-KASSNER,F,1
+F16,Undergraduate,INT     199H,BLAIN S M,A,5
+F16,Graduate,INT     594CC,DERWIN S,A,5
+F16,Graduate,INT     594ST,DERWIN S,A,4
+F16,Graduate,INT     594ST,DERWIN S,S,1

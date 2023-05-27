@@ -1,0 +1,95 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,PSTAT     5A,PHAM B S,A+,17
+S11,Undergraduate,PSTAT     5A,PHAM B S,A,53
+S11,Undergraduate,PSTAT     5A,PHAM B S,A-,34
+S11,Undergraduate,PSTAT     5A,PHAM B S,B+,37
+S11,Undergraduate,PSTAT     5A,PHAM B S,B,33
+S11,Undergraduate,PSTAT     5A,PHAM B S,B-,19
+S11,Undergraduate,PSTAT     5A,PHAM B S,C+,35
+S11,Undergraduate,PSTAT     5A,PHAM B S,C,32
+S11,Undergraduate,PSTAT     5A,PHAM B S,C-,6
+S11,Undergraduate,PSTAT     5A,PHAM B S,D+,4
+S11,Undergraduate,PSTAT     5A,PHAM B S,D,6
+S11,Undergraduate,PSTAT     5A,PHAM B S,D-,3
+S11,Undergraduate,PSTAT     5A,PHAM B S,F,8
+S11,Undergraduate,PSTAT     5E,PHAM B S,A+,1
+S11,Undergraduate,PSTAT     5E,PHAM B S,A,21
+S11,Undergraduate,PSTAT     5E,PHAM B S,A-,36
+S11,Undergraduate,PSTAT     5E,PHAM B S,B+,26
+S11,Undergraduate,PSTAT     5E,PHAM B S,B,32
+S11,Undergraduate,PSTAT     5E,PHAM B S,B-,24
+S11,Undergraduate,PSTAT     5E,PHAM B S,C+,44
+S11,Undergraduate,PSTAT     5E,PHAM B S,C,30
+S11,Undergraduate,PSTAT     5E,PHAM B S,C-,13
+S11,Undergraduate,PSTAT     5E,PHAM B S,D+,5
+S11,Undergraduate,PSTAT     5E,PHAM B S,D,10
+S11,Undergraduate,PSTAT     5E,PHAM B S,D-,4
+S11,Undergraduate,PSTAT     5E,PHAM B S,F,1
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,A+,7
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,A,11
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,A-,20
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,B+,15
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,B,22
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,B-,25
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,C+,28
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,C,15
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,C-,19
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,D,1
+S11,Undergraduate,PSTAT     5LS,WANG Y-D,F,1
+S11,Undergraduate,PSTAT   120A,IYER S K,A+,1
+S11,Undergraduate,PSTAT   120A,IYER S K,A-,1
+S11,Undergraduate,PSTAT   120A,IYER S K,B+,4
+S11,Undergraduate,PSTAT   120A,IYER S K,B,6
+S11,Undergraduate,PSTAT   120A,IYER S K,B-,9
+S11,Undergraduate,PSTAT   120A,IYER S K,C+,8
+S11,Undergraduate,PSTAT   120A,IYER S K,C,4
+S11,Undergraduate,PSTAT   120A,IYER S K,C-,19
+S11,Undergraduate,PSTAT   120A,IYER S K,D+,1
+S11,Undergraduate,PSTAT   120A,IYER S K,D,9
+S11,Undergraduate,PSTAT   120A,IYER S K,D-,2
+S11,Undergraduate,PSTAT   120A,IYER S K,F,14
+S11,Undergraduate,PSTAT   120B,BENNETT N A,A+,2
+S11,Undergraduate,PSTAT   120B,BENNETT N A,A,5
+S11,Undergraduate,PSTAT   120B,BENNETT N A,A-,1
+S11,Undergraduate,PSTAT   120B,BENNETT N A,B+,2
+S11,Undergraduate,PSTAT   120B,BENNETT N A,B,6
+S11,Undergraduate,PSTAT   120B,BENNETT N A,B-,4
+S11,Undergraduate,PSTAT   120B,BENNETT N A,C+,3
+S11,Undergraduate,PSTAT   120B,BENNETT N A,C,13
+S11,Undergraduate,PSTAT   120B,BENNETT N A,D+,1
+S11,Undergraduate,PSTAT   120B,BENNETT N A,D,8
+S11,Undergraduate,PSTAT   120B,BENNETT N A,F,4
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,A+,3
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,A,2
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,A-,1
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,B+,2
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,B,1
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,C+,6
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,C,2
+S11,Undergraduate,PSTAT   170,LUDKOVSKI M,F,3
+S11,Undergraduate,PSTAT   172B,DUNCAN I,A+,2
+S11,Undergraduate,PSTAT   172B,DUNCAN I,A,5
+S11,Undergraduate,PSTAT   172B,DUNCAN I,B+,1
+S11,Undergraduate,PSTAT   172B,DUNCAN I,B,3
+S11,Undergraduate,PSTAT   172B,DUNCAN I,C+,3
+S11,Undergraduate,PSTAT   172B,DUNCAN I,C,4
+S11,Undergraduate,PSTAT   172B,DUNCAN I,D,1
+S11,Undergraduate,PSTAT   172B,DUNCAN I,F,1
+S11,Undergraduate,PSTAT   182T,ICHIBA T,P,22
+S11,Graduate,PSTAT   207C,HINKLEY D,A+,1
+S11,Graduate,PSTAT   207C,HINKLEY D,A,1
+S11,Graduate,PSTAT   207C,HINKLEY D,B+,2
+S11,Graduate,PSTAT   207C,HINKLEY D,B,2
+S11,Graduate,PSTAT   207C,HINKLEY D,F,1
+S11,Graduate,PSTAT   220C,JAMMALAMADAKA,A+,11
+S11,Graduate,PSTAT   220C,JAMMALAMADAKA,A,4
+S11,Graduate,PSTAT   220C,JAMMALAMADAKA,A-,1
+S11,Graduate,PSTAT   220C,JAMMALAMADAKA,F,1
+S11,Graduate,PSTAT   230,NIEMI J B,A,10
+S11,Graduate,PSTAT   230,NIEMI J B,A-,3
+S11,Graduate,PSTAT   230,NIEMI J B,B+,1
+S11,Graduate,PSTAT   232,MEIRING W,A,7
+S11,Graduate,PSTAT   232,MEIRING W,B+,1
+S11,Graduate,PSTAT   596,FOUQUE J-P,S,5
+S11,Graduate,PSTAT   596,FOUQUE J-P,U,1
+S11,Graduate,PSTAT   596,WANG Y-D,S,5

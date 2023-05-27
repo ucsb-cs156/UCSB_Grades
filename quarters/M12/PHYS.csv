@@ -1,0 +1,92 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,PHYS      2,FREUND E G,A+,2
+M12,Undergraduate,PHYS      2,FREUND E G,A,8
+M12,Undergraduate,PHYS      2,FREUND E G,A-,4
+M12,Undergraduate,PHYS      2,FREUND E G,B+,9
+M12,Undergraduate,PHYS      2,FREUND E G,B,10
+M12,Undergraduate,PHYS      2,FREUND E G,B-,4
+M12,Undergraduate,PHYS      2,FREUND E G,C+,2
+M12,Undergraduate,PHYS      2,FREUND E G,C,2
+M12,Undergraduate,PHYS      2,FREUND E G,C-,4
+M12,Undergraduate,PHYS      2,FREUND E G,D-,2
+M12,Undergraduate,PHYS      6A,DOBLER G G,A+,9
+M12,Undergraduate,PHYS      6A,DOBLER G G,A,15
+M12,Undergraduate,PHYS      6A,DOBLER G G,A-,22
+M12,Undergraduate,PHYS      6A,DOBLER G G,B+,19
+M12,Undergraduate,PHYS      6A,DOBLER G G,B,16
+M12,Undergraduate,PHYS      6A,DOBLER G G,B-,22
+M12,Undergraduate,PHYS      6A,DOBLER G G,C+,14
+M12,Undergraduate,PHYS      6A,DOBLER G G,C,9
+M12,Undergraduate,PHYS      6A,DOBLER G G,C-,8
+M12,Undergraduate,PHYS      6A,DOBLER G G,D+,1
+M12,Undergraduate,PHYS      6A,DOBLER G G,D,1
+M12,Undergraduate,PHYS      6A,DOBLER G G,D-,1
+M12,Undergraduate,PHYS      6A,DOBLER G G,F,8
+M12,Undergraduate,PHYS      6AL,DOBLER G G,A+,13
+M12,Undergraduate,PHYS      6AL,DOBLER G G,A,39
+M12,Undergraduate,PHYS      6AL,DOBLER G G,A-,37
+M12,Undergraduate,PHYS      6AL,DOBLER G G,B+,23
+M12,Undergraduate,PHYS      6AL,DOBLER G G,B,25
+M12,Undergraduate,PHYS      6AL,DOBLER G G,B-,9
+M12,Undergraduate,PHYS      6AL,DOBLER G G,C,1
+M12,Undergraduate,PHYS      6AL,DOBLER G G,C-,1
+M12,Undergraduate,PHYS      6AL,DOBLER G G,F,3
+M12,Undergraduate,PHYS      6B,BARGE D M,A+,4
+M12,Undergraduate,PHYS      6B,BARGE D M,A,8
+M12,Undergraduate,PHYS      6B,BARGE D M,A-,5
+M12,Undergraduate,PHYS      6B,BARGE D M,B+,7
+M12,Undergraduate,PHYS      6B,BARGE D M,B,30
+M12,Undergraduate,PHYS      6B,BARGE D M,B-,15
+M12,Undergraduate,PHYS      6B,BARGE D M,C+,6
+M12,Undergraduate,PHYS      6B,BARGE D M,C,9
+M12,Undergraduate,PHYS      6B,BARGE D M,C-,6
+M12,Undergraduate,PHYS      6B,BARGE D M,D+,1
+M12,Undergraduate,PHYS      6B,BARGE D M,D,1
+M12,Undergraduate,PHYS      6B,BARGE D M,F,4
+M12,Undergraduate,PHYS      6BL,BARGE D M,A+,22
+M12,Undergraduate,PHYS      6BL,BARGE D M,A,40
+M12,Undergraduate,PHYS      6BL,BARGE D M,A-,27
+M12,Undergraduate,PHYS      6BL,BARGE D M,B+,8
+M12,Undergraduate,PHYS      6BL,BARGE D M,B,5
+M12,Undergraduate,PHYS      6C,ROSSIN R,A+,7
+M12,Undergraduate,PHYS      6C,ROSSIN R,A,7
+M12,Undergraduate,PHYS      6C,ROSSIN R,A-,8
+M12,Undergraduate,PHYS      6C,ROSSIN R,B+,18
+M12,Undergraduate,PHYS      6C,ROSSIN R,B,16
+M12,Undergraduate,PHYS      6C,ROSSIN R,B-,16
+M12,Undergraduate,PHYS      6C,ROSSIN R,C+,17
+M12,Undergraduate,PHYS      6C,ROSSIN R,C,16
+M12,Undergraduate,PHYS      6C,ROSSIN R,C-,11
+M12,Undergraduate,PHYS      6C,ROSSIN R,D,8
+M12,Undergraduate,PHYS      6C,ROSSIN R,F,9
+M12,Undergraduate,PHYS      6CL,ROSSIN R,A+,9
+M12,Undergraduate,PHYS      6CL,ROSSIN R,A,56
+M12,Undergraduate,PHYS      6CL,ROSSIN R,A-,22
+M12,Undergraduate,PHYS      6CL,ROSSIN R,B+,20
+M12,Undergraduate,PHYS      6CL,ROSSIN R,B,9
+M12,Undergraduate,PHYS      6CL,ROSSIN R,B-,1
+M12,Undergraduate,PHYS      6CL,ROSSIN R,F,1
+M12,Undergraduate,PHYS    103,QUETIN E L,A+,1
+M12,Undergraduate,PHYS    103,QUETIN E L,A,1
+M12,Undergraduate,PHYS    103,QUETIN E L,A-,3
+M12,Undergraduate,PHYS    103,QUETIN E L,B,1
+M12,Undergraduate,PHYS    103,QUETIN E L,C+,1
+M12,Undergraduate,PHYS    103,QUETIN E L,C-,1
+M12,Undergraduate,PHYS    103,QUETIN E L,D,1
+M12,Undergraduate,PHYS    103,QUETIN E L,F,1
+M12,Undergraduate,PHYS    115C,FOLSOM D P,A,6
+M12,Undergraduate,PHYS    115C,FOLSOM D P,A-,3
+M12,Undergraduate,PHYS    115C,FOLSOM D P,B+,7
+M12,Undergraduate,PHYS    115C,FOLSOM D P,B,4
+M12,Undergraduate,PHYS    115C,FOLSOM D P,B-,4
+M12,Undergraduate,PHYS    115C,FOLSOM D P,C+,4
+M12,Undergraduate,PHYS    115C,FOLSOM D P,C,1
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,A+,2
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,A,13
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,A-,1
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,B+,4
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,B,7
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,B-,1
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,C+,3
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,C,1
+M12,Undergraduate,PHYS    127AL,EL-SOUSSI M,F,1

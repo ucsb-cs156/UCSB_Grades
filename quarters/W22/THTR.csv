@@ -1,0 +1,104 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W22,Undergraduate,THTR      1,KING W D,A,12
+W22,Undergraduate,THTR      1,KING W D,A-,7
+W22,Undergraduate,THTR      1,KING W D,A+,36
+W22,Undergraduate,THTR      1,KING W D,B,4
+W22,Undergraduate,THTR      1,KING W D,B-,2
+W22,Undergraduate,THTR      1,KING W D,B+,9
+W22,Undergraduate,THTR      1,KING W D,C,1
+W22,Undergraduate,THTR      1,KING W D,C-,1
+W22,Undergraduate,THTR      1,KING W D,C+,3
+W22,Undergraduate,THTR      1,KING W D,D,1
+W22,Undergraduate,THTR      1,KING W D,F,5
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,A,20
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,A-,4
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,A+,10
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,B,7
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,B-,1
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,B+,2
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,C,1
+W22,Undergraduate,THTR      2C,GARCIA DAHAN,C-,1
+W22,Undergraduate,THTR      5,FISHELL J K,A,74
+W22,Undergraduate,THTR      5,FISHELL J K,A-,9
+W22,Undergraduate,THTR      5,FISHELL J K,A+,38
+W22,Undergraduate,THTR      5,FISHELL J K,B,2
+W22,Undergraduate,THTR      5,FISHELL J K,B-,2
+W22,Undergraduate,THTR      5,FISHELL J K,B+,2
+W22,Undergraduate,THTR      5,FISHELL J K,C+,1
+W22,Undergraduate,THTR      5,KRUKOWSKI J P,A,18
+W22,Undergraduate,THTR      5,KRUKOWSKI J P,A-,1
+W22,Undergraduate,THTR      5,KRUKOWSKI J P,A+,10
+W22,Undergraduate,THTR     10B,STEIN D A,A,8
+W22,Undergraduate,THTR     10B,STEIN D A,B,1
+W22,Undergraduate,THTR     11B,MORGAN M,A,4
+W22,Undergraduate,THTR     11B,MORGAN M,A-,2
+W22,Undergraduate,THTR     11B,MORGAN M,B-,1
+W22,Undergraduate,THTR     11B,MORGAN M,B+,2
+W22,Undergraduate,THTR     15B,BRAININ R,A,5
+W22,Undergraduate,THTR     15B,BRAININ R,A+,1
+W22,Undergraduate,THTR     15B,BRAININ R,B-,1
+W22,Undergraduate,THTR     15B,BRAININ R,B+,1
+W22,Undergraduate,THTR     15B,BRAININ R,C+,1
+W22,Undergraduate,THTR     25,BUMROONGCHART,A,8
+W22,Undergraduate,THTR     25,BUMROONGCHART,A-,1
+W22,Undergraduate,THTR     25,BUMROONGCHART,A+,3
+W22,Undergraduate,THTR     25,BUMROONGCHART,B+,1
+W22,Undergraduate,THTR     25,BUMROONGCHART,C-,1
+W22,Undergraduate,THTR     25,BUMROONGCHART,C+,1
+W22,Undergraduate,THTR    104C,BERNARD M A,A,13
+W22,Undergraduate,THTR    104C,BERNARD M A,B-,1
+W22,Undergraduate,THTR    110B,STEIN D A,A,9
+W22,Undergraduate,THTR    110B,STEIN D A,A-,4
+W22,Undergraduate,THTR    110B,STEIN D A,B+,1
+W22,Undergraduate,THTR    111B,MORGAN M,A,5
+W22,Undergraduate,THTR    111B,MORGAN M,A-,5
+W22,Undergraduate,THTR    111B,MORGAN M,B,2
+W22,Undergraduate,THTR    111B,MORGAN M,B+,2
+W22,Undergraduate,THTR    122,MITCHELL G M,A,4
+W22,Undergraduate,THTR    122,MITCHELL G M,A-,2
+W22,Undergraduate,THTR    122,MITCHELL G M,B,3
+W22,Undergraduate,THTR    122,MITCHELL G M,D-,1
+W22,Undergraduate,THTR    130,SCOTT V,A,2
+W22,Undergraduate,THTR    130,SCOTT V,A-,4
+W22,Undergraduate,THTR    130,SCOTT V,A+,1
+W22,Undergraduate,THTR    130,SCOTT V,B-,1
+W22,Undergraduate,THTR    130,SCOTT V,B+,1
+W22,Undergraduate,THTR    130,SCOTT V,C,1
+W22,Undergraduate,THTR    130,SCOTT V,C+,1
+W22,Undergraduate,THTR    130,SCOTT V,F,2
+W22,Undergraduate,THTR    151B,FISHELL J K,A,8
+W22,Undergraduate,THTR    151B,FISHELL J K,A-,2
+W22,Undergraduate,THTR    151B,FISHELL J K,B+,4
+W22,Undergraduate,THTR    151D,BRAININ R,A,9
+W22,Undergraduate,THTR    151D,BRAININ R,A+,1
+W22,Undergraduate,THTR    151D,BRAININ R,B+,2
+W22,Undergraduate,THTR    151S,STEIN D A,A,9
+W22,Undergraduate,THTR    151S,STEIN D A,A-,3
+W22,Undergraduate,THTR    152B,FISHELL J K,A,4
+W22,Undergraduate,THTR    152B,FISHELL J K,A-,1
+W22,Undergraduate,THTR    152B,FISHELL J K,B+,2
+W22,Undergraduate,THTR    160C,MORGAN M,A,5
+W22,Undergraduate,THTR    160C,MORGAN M,B,2
+W22,Undergraduate,THTR    160C,MORGAN M,B-,1
+W22,Undergraduate,THTR    160C,MORGAN M,B+,1
+W22,Undergraduate,THTR    180E,MORTON C,A,31
+W22,Undergraduate,THTR    180E,MORTON C,A-,5
+W22,Undergraduate,THTR    180E,MORTON C,B,4
+W22,Undergraduate,THTR    180E,MORTON C,B-,3
+W22,Undergraduate,THTR    180E,MORTON C,C,3
+W22,Undergraduate,THTR    180E,MORTON C,C-,2
+W22,Undergraduate,THTR    180E,MORTON C,C+,3
+W22,Undergraduate,THTR    180E,MORTON C,F,1
+W22,Undergraduate,THTR    183EA,NAKAMURA J C,A,28
+W22,Undergraduate,THTR    183EA,NAKAMURA J C,A-,2
+W22,Undergraduate,THTR    183EA,NAKAMURA J C,B,2
+W22,Undergraduate,THTR    183EA,NAKAMURA J C,B+,2
+W22,Undergraduate,THTR    194D,SHEFFIELD C A,A,5
+W22,Undergraduate,THTR    194D,SHEFFIELD C A,A-,3
+W22,Undergraduate,THTR    194D,SHEFFIELD C A,B,1
+W22,Undergraduate,THTR    194D,SHEFFIELD C A,B+,2
+W22,Undergraduate,THTR    194D,SHEFFIELD C A,F,1
+W22,Undergraduate,THTR    195P,HERRERA D J,A,5
+W22,Graduate,THTR    232,CABRANES-GRAN,A,8
+W22,Graduate,THTR    255,BENNAHUM D,A,4
+W22,Graduate,THTR    255,BENNAHUM D,A-,1

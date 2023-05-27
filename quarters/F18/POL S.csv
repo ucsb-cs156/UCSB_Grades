@@ -1,0 +1,199 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Undergraduate,POL S     1,MILLER C R,A+,1
+F18,Undergraduate,POL S     1,MILLER C R,A,5
+F18,Undergraduate,POL S     1,MILLER C R,A-,12
+F18,Undergraduate,POL S     1,MILLER C R,B+,23
+F18,Undergraduate,POL S     1,MILLER C R,B,39
+F18,Undergraduate,POL S     1,MILLER C R,B-,39
+F18,Undergraduate,POL S     1,MILLER C R,C+,23
+F18,Undergraduate,POL S     1,MILLER C R,C,15
+F18,Undergraduate,POL S     1,MILLER C R,C-,9
+F18,Undergraduate,POL S     1,MILLER C R,D,1
+F18,Undergraduate,POL S     1,MILLER C R,F,10
+F18,Undergraduate,POL S     6,ALLEN G,A+,1
+F18,Undergraduate,POL S     6,ALLEN G,A,17
+F18,Undergraduate,POL S     6,ALLEN G,A-,23
+F18,Undergraduate,POL S     6,ALLEN G,B+,16
+F18,Undergraduate,POL S     6,ALLEN G,B,45
+F18,Undergraduate,POL S     6,ALLEN G,B-,24
+F18,Undergraduate,POL S     6,ALLEN G,C+,10
+F18,Undergraduate,POL S     6,ALLEN G,C,11
+F18,Undergraduate,POL S     6,ALLEN G,C-,9
+F18,Undergraduate,POL S     6,ALLEN G,D+,1
+F18,Undergraduate,POL S     6,ALLEN G,D,3
+F18,Undergraduate,POL S     6,ALLEN G,D-,2
+F18,Undergraduate,POL S     6,ALLEN G,F,6
+F18,Undergraduate,POL S     7,COGGINS B L,A,19
+F18,Undergraduate,POL S     7,COGGINS B L,A-,18
+F18,Undergraduate,POL S     7,COGGINS B L,B+,28
+F18,Undergraduate,POL S     7,COGGINS B L,B,32
+F18,Undergraduate,POL S     7,COGGINS B L,B-,6
+F18,Undergraduate,POL S     7,COGGINS B L,C+,9
+F18,Undergraduate,POL S     7,COGGINS B L,C,5
+F18,Undergraduate,POL S     7,COGGINS B L,C-,1
+F18,Undergraduate,POL S     7,COGGINS B L,D,1
+F18,Undergraduate,POL S     7,COGGINS B L,D-,1
+F18,Undergraduate,POL S     7,COGGINS B L,F,2
+F18,Undergraduate,POL S    15,NOMIKOS G G,A+,1
+F18,Undergraduate,POL S    15,NOMIKOS G G,A,13
+F18,Undergraduate,POL S    15,NOMIKOS G G,A-,19
+F18,Undergraduate,POL S    15,NOMIKOS G G,B+,17
+F18,Undergraduate,POL S    15,NOMIKOS G G,B,26
+F18,Undergraduate,POL S    15,NOMIKOS G G,B-,4
+F18,Undergraduate,POL S    15,NOMIKOS G G,C+,2
+F18,Undergraduate,POL S    15,NOMIKOS G G,C,3
+F18,Undergraduate,POL S    15,NOMIKOS G G,C-,2
+F18,Undergraduate,POL S    15,NOMIKOS G G,D,3
+F18,Undergraduate,POL S    15,NOMIKOS G G,D-,1
+F18,Undergraduate,POL S    15,NOMIKOS G G,F,1
+F18,Undergraduate,POL S    99,WOOLLEY J T,A,2
+F18,Undergraduate,POL S   106EP,STOKES L C,A+,8
+F18,Undergraduate,POL S   106EP,STOKES L C,A,12
+F18,Undergraduate,POL S   106EP,STOKES L C,A-,10
+F18,Undergraduate,POL S   106EP,STOKES L C,B+,25
+F18,Undergraduate,POL S   106EP,STOKES L C,B,27
+F18,Undergraduate,POL S   106EP,STOKES L C,B-,7
+F18,Undergraduate,POL S   106EP,STOKES L C,C+,2
+F18,Undergraduate,POL S   106EP,STOKES L C,C,9
+F18,Undergraduate,POL S   106EP,STOKES L C,C-,3
+F18,Undergraduate,POL S   106EP,STOKES L C,D+,2
+F18,Undergraduate,POL S   106EP,STOKES L C,D,2
+F18,Undergraduate,POL S   106EP,STOKES L C,D-,2
+F18,Undergraduate,POL S   106EP,STOKES L C,F,2
+F18,Undergraduate,POL S   110AM,NORRIS A,A,3
+F18,Undergraduate,POL S   110AM,NORRIS A,A-,4
+F18,Undergraduate,POL S   110AM,NORRIS A,B+,2
+F18,Undergraduate,POL S   110AM,NORRIS A,B,1
+F18,Undergraduate,POL S   110AM,NORRIS A,B-,2
+F18,Undergraduate,POL S   110AM,NORRIS A,C+,5
+F18,Undergraduate,POL S   110DT,MILLER C R,A+,1
+F18,Undergraduate,POL S   110DT,MILLER C R,A,11
+F18,Undergraduate,POL S   110DT,MILLER C R,A-,9
+F18,Undergraduate,POL S   110DT,MILLER C R,B+,15
+F18,Undergraduate,POL S   110DT,MILLER C R,B,11
+F18,Undergraduate,POL S   110DT,MILLER C R,B-,7
+F18,Undergraduate,POL S   110DT,MILLER C R,C+,1
+F18,Undergraduate,POL S   110DT,MILLER C R,C,3
+F18,Undergraduate,POL S   110DT,MILLER C R,F,1
+F18,Undergraduate,POL S   114,BENSLEY W B,A+,1
+F18,Undergraduate,POL S   114,BENSLEY W B,A,3
+F18,Undergraduate,POL S   114,BENSLEY W B,A-,7
+F18,Undergraduate,POL S   114,BENSLEY W B,B+,6
+F18,Undergraduate,POL S   114,BENSLEY W B,B,7
+F18,Undergraduate,POL S   114,BENSLEY W B,B-,2
+F18,Undergraduate,POL S   114,BENSLEY W B,C+,4
+F18,Undergraduate,POL S   114,BENSLEY W B,C,1
+F18,Undergraduate,POL S   114,BENSLEY W B,C-,1
+F18,Undergraduate,POL S   114,BENSLEY W B,D+,1
+F18,Undergraduate,POL S   114,BENSLEY W B,D,1
+F18,Undergraduate,POL S   114,BENSLEY W B,F,1
+F18,Undergraduate,POL S   118,KAPLAN C S,A,1
+F18,Undergraduate,POL S   118,KAPLAN C S,A-,5
+F18,Undergraduate,POL S   118,KAPLAN C S,B+,6
+F18,Undergraduate,POL S   118,KAPLAN C S,B,10
+F18,Undergraduate,POL S   118,KAPLAN C S,B-,4
+F18,Undergraduate,POL S   118,KAPLAN C S,C+,5
+F18,Undergraduate,POL S   118,KAPLAN C S,C,4
+F18,Undergraduate,POL S   118,KAPLAN C S,F,1
+F18,Undergraduate,POL S   121,STRATHMAN B A,A+,2
+F18,Undergraduate,POL S   121,STRATHMAN B A,A,21
+F18,Undergraduate,POL S   121,STRATHMAN B A,A-,20
+F18,Undergraduate,POL S   121,STRATHMAN B A,B+,17
+F18,Undergraduate,POL S   121,STRATHMAN B A,B,37
+F18,Undergraduate,POL S   121,STRATHMAN B A,B-,26
+F18,Undergraduate,POL S   121,STRATHMAN B A,C+,16
+F18,Undergraduate,POL S   121,STRATHMAN B A,C,20
+F18,Undergraduate,POL S   121,STRATHMAN B A,C-,7
+F18,Undergraduate,POL S   121,STRATHMAN B A,D+,4
+F18,Undergraduate,POL S   121,STRATHMAN B A,D,3
+F18,Undergraduate,POL S   121,STRATHMAN B A,D-,2
+F18,Undergraduate,POL S   121,STRATHMAN B A,F,4
+F18,Undergraduate,POL S   126,STRATHMAN B A,A,8
+F18,Undergraduate,POL S   126,STRATHMAN B A,A-,12
+F18,Undergraduate,POL S   126,STRATHMAN B A,B+,9
+F18,Undergraduate,POL S   126,STRATHMAN B A,B,24
+F18,Undergraduate,POL S   126,STRATHMAN B A,B-,6
+F18,Undergraduate,POL S   126,STRATHMAN B A,C+,3
+F18,Undergraduate,POL S   126,STRATHMAN B A,C,3
+F18,Undergraduate,POL S   126,STRATHMAN B A,F,1
+F18,Undergraduate,POL S   138,ALLEN G,A,9
+F18,Undergraduate,POL S   138,ALLEN G,A-,23
+F18,Undergraduate,POL S   138,ALLEN G,B+,20
+F18,Undergraduate,POL S   138,ALLEN G,B,45
+F18,Undergraduate,POL S   138,ALLEN G,B-,16
+F18,Undergraduate,POL S   138,ALLEN G,C+,1
+F18,Undergraduate,POL S   138,ALLEN G,C,1
+F18,Undergraduate,POL S   138,ALLEN G,D+,1
+F18,Undergraduate,POL S   138,ALLEN G,F,1
+F18,Undergraduate,POL S   160,LIEN P,A,10
+F18,Undergraduate,POL S   160,LIEN P,A-,17
+F18,Undergraduate,POL S   160,LIEN P,B+,10
+F18,Undergraduate,POL S   160,LIEN P,B,10
+F18,Undergraduate,POL S   160,LIEN P,B-,12
+F18,Undergraduate,POL S   160,LIEN P,C+,8
+F18,Undergraduate,POL S   160,LIEN P,C,4
+F18,Undergraduate,POL S   160,LIEN P,C-,2
+F18,Undergraduate,POL S   160,LIEN P,D-,1
+F18,Undergraduate,POL S   160,LIEN P,F,1
+F18,Undergraduate,POL S   192,KELEHER A,P,3
+F18,Undergraduate,POL S   196,LIEN P,A,5
+F18,Undergraduate,POL S   196,LIEN P,A-,3
+F18,Undergraduate,POL S   196,NORRIS A,A,2
+F18,Undergraduate,POL S   197A,STOLL H M,A+,4
+F18,Undergraduate,POL S   197A,STOLL H M,A,12
+F18,Undergraduate,POL S   197A,STOLL H M,A-,1
+F18,Undergraduate,POL S   197A,STOLL H M,F,2
+F18,Undergraduate,POL S   199,STOLL H M,A,1
+F18,Undergraduate,POL S   199RA,KELEHER A,A,2
+F18,Undergraduate,POL S   199RA,KELEHER A,A-,1
+F18,Undergraduate,POL S   199RA,MILDENBERGER,A,2
+F18,Undergraduate,POL S   199RA,NOMIKOS G G,A,3
+F18,Undergraduate,POL S   199RA,RIVAS PINEDA,A+,3
+F18,Undergraduate,POL S   199RA,STOKES L C,A,8
+F18,Graduate,POL S   205,STOLL H M,A,4
+F18,Graduate,POL S   205,STOLL H M,A-,4
+F18,Graduate,POL S   205,STOLL H M,B+,1
+F18,Graduate,POL S   225,COGGINS B L,A,1
+F18,Graduate,POL S   225,COGGINS B L,A-,1
+F18,Graduate,POL S   225,COGGINS B L,B+,1
+F18,Graduate,POL S   225,COGGINS B L,F,1
+F18,Graduate,POL S   273,COHEN B J,A,1
+F18,Graduate,POL S   273,COHEN B J,A-,2
+F18,Graduate,POL S   273,COHEN B J,B+,1
+F18,Graduate,POL S   281,KAPLAN C S,A,1
+F18,Graduate,POL S   281,KAPLAN C S,A-,3
+F18,Graduate,POL S   281,KAPLAN C S,B+,1
+F18,Graduate,POL S   294,SMITH E R,A+,1
+F18,Graduate,POL S   294,SMITH E R,A,4
+F18,Graduate,POL S   294,SMITH E R,A-,1
+F18,Graduate,POL S   294,SMITH E R,F,1
+F18,Graduate,POL S   500,LIEN P,S,1
+F18,Graduate,POL S   500,MILLER C R,S,2
+F18,Graduate,POL S   500,NORRIS A,S,1
+F18,Graduate,POL S   500,STRATHMAN B A,S,1
+F18,Graduate,POL S   501,KELEHER A,S,7
+F18,Graduate,POL S   501,SMITH E R,S,7
+F18,Graduate,POL S   594IG,STOKES L C,A,4
+F18,Graduate,POL S   594IG,STOKES L C,B,2
+F18,Graduate,POL S   594MP,NORRIS A,A,2
+F18,Graduate,POL S   594MP,NORRIS A,F,1
+F18,Graduate,POL S   596,SMITH E R,A,5
+F18,Graduate,POL S   597,AHUJA A,S,1
+F18,Graduate,POL S   597,BIMBER B,S,1
+F18,Graduate,POL S   597,BRUHN K,S,1
+F18,Graduate,POL S   597,COHEN B J,S,1
+F18,Graduate,POL S   597,DIGESER P,S,1
+F18,Graduate,POL S   597,KAPLAN C S,S,1
+F18,Graduate,POL S   597,SMITH E R,S,2
+F18,Graduate,POL S   597,WOOLLEY J T,S,1
+F18,Graduate,POL S   599,AHUJA A,S,1
+F18,Graduate,POL S   599,BIMBER B,S,1
+F18,Graduate,POL S   599,BRUHN K,S,1
+F18,Graduate,POL S   599,COGGINS B L,S,1
+F18,Graduate,POL S   599,COHEN B J,S,3
+F18,Graduate,POL S   599,DIGESER P,S,2
+F18,Graduate,POL S   599,HAN H C,S,1
+F18,Graduate,POL S   599,JENNINGS M K,S,2
+F18,Graduate,POL S   599,LIEN P,S,1
+F18,Graduate,POL S   599,NORRIS A,S,1
+F18,Graduate,POL S   599,SMITH E R,S,1

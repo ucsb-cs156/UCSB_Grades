@@ -1,0 +1,69 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W11,Undergraduate,GLOBL     1,GUNN G B,A+,8
+W11,Undergraduate,GLOBL     1,GUNN G B,A,29
+W11,Undergraduate,GLOBL     1,GUNN G B,A-,38
+W11,Undergraduate,GLOBL     1,GUNN G B,B+,17
+W11,Undergraduate,GLOBL     1,GUNN G B,B,16
+W11,Undergraduate,GLOBL     1,GUNN G B,B-,4
+W11,Undergraduate,GLOBL     1,GUNN G B,C+,3
+W11,Undergraduate,GLOBL     1,GUNN G B,C-,1
+W11,Undergraduate,GLOBL     1,GUNN G B,D+,1
+W11,Undergraduate,GLOBL     1,GUNN G B,F,2
+W11,Undergraduate,GLOBL   110,GUNN G B,A+,12
+W11,Undergraduate,GLOBL   110,GUNN G B,A,20
+W11,Undergraduate,GLOBL   110,GUNN G B,A-,7
+W11,Undergraduate,GLOBL   110,GUNN G B,B+,1
+W11,Undergraduate,GLOBL   110,GUNN G B,B,6
+W11,Undergraduate,GLOBL   110,GUNN G B,F,1
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,A-,2
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,B+,2
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,B,8
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,B-,10
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,C+,2
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,C,10
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,C-,1
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,D+,1
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,D,1
+W11,Undergraduate,GLOBL   120,NEDERVEEN PIE,F,4
+W11,Undergraduate,GLOBL   130,MEHTA A S,A+,3
+W11,Undergraduate,GLOBL   130,MEHTA A S,A,4
+W11,Undergraduate,GLOBL   130,MEHTA A S,A-,2
+W11,Undergraduate,GLOBL   130,MEHTA A S,B+,4
+W11,Undergraduate,GLOBL   130,MEHTA A S,B,3
+W11,Undergraduate,GLOBL   130,MEHTA A S,B-,5
+W11,Undergraduate,GLOBL   130,MEHTA A S,C+,4
+W11,Undergraduate,GLOBL   130,MEHTA A S,C,5
+W11,Undergraduate,GLOBL   130,MEHTA A S,C-,6
+W11,Undergraduate,GLOBL   130,MEHTA A S,D+,1
+W11,Undergraduate,GLOBL   130,MEHTA A S,D,1
+W11,Undergraduate,GLOBL   130,MEHTA A S,F,3
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,A,5
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,A-,4
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,B+,3
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,B,2
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,C,1
+W11,Undergraduate,GLOBL   180A,BHAVNANI K,F,2
+W11,Undergraduate,GLOBL   194,ORFALEA P J,A,26
+W11,Undergraduate,GLOBL   197,BRYSK A,A+,12
+W11,Undergraduate,GLOBL   197,BRYSK A,A,28
+W11,Undergraduate,GLOBL   197,BRYSK A,A-,5
+W11,Undergraduate,GLOBL   197,BRYSK A,B+,6
+W11,Undergraduate,GLOBL   197,BRYSK A,B,7
+W11,Undergraduate,GLOBL   197,BRYSK A,B-,2
+W11,Graduate,GLOBL   223,FALK R A,A+,4
+W11,Graduate,GLOBL   223,FALK R A,A,7
+W11,Graduate,GLOBL   223,FALK R A,A-,2
+W11,Graduate,GLOBL   223,FALK R A,B+,2
+W11,Graduate,GLOBL   223,FALK R A,B,1
+W11,Graduate,GLOBL   223,FALK R A,B-,1
+W11,Graduate,GLOBL   224,MCCARTY P C,A,12
+W11,Graduate,GLOBL   226A,APPELBAUM R,S,23
+W11,Graduate,GLOBL   292GC,NEDERVEEN PIE,A,4
+W11,Graduate,GLOBL   292GC,NEDERVEEN PIE,B+,1
+W11,Graduate,GLOBL   292GC,NEDERVEEN PIE,B,2
+W11,Graduate,GLOBL   292GC,NEDERVEEN PIE,C,1
+W11,Graduate,GLOBL   292MD,KAROFF H,A,7
+W11,Graduate,GLOBL   292MD,KAROFF H,A-,6
+W11,Graduate,GLOBL   596,APPELBAUM R,A,5
+W11,Graduate,GLOBL   596,APPELBAUM R,S,1
+W11,Graduate,GLOBL   596,JUERGENSMEYER,A,5

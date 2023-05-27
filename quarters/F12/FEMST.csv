@@ -1,0 +1,89 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F12,Undergraduate,FEMST    20,OAKS L M,A+,2
+F12,Undergraduate,FEMST    20,OAKS L M,A,25
+F12,Undergraduate,FEMST    20,OAKS L M,A-,31
+F12,Undergraduate,FEMST    20,OAKS L M,B+,37
+F12,Undergraduate,FEMST    20,OAKS L M,B,60
+F12,Undergraduate,FEMST    20,OAKS L M,B-,26
+F12,Undergraduate,FEMST    20,OAKS L M,C+,7
+F12,Undergraduate,FEMST    20,OAKS L M,C,13
+F12,Undergraduate,FEMST    20,OAKS L M,C-,3
+F12,Undergraduate,FEMST    20,OAKS L M,D+,1
+F12,Undergraduate,FEMST    20,OAKS L M,D-,1
+F12,Undergraduate,FEMST    20,OAKS L M,F,5
+F12,Undergraduate,FEMST    20H,OAKS L M,A,4
+F12,Undergraduate,FEMST    20H,OAKS L M,A-,3
+F12,Undergraduate,FEMST    20H,OAKS L M,B+,1
+F12,Undergraduate,FEMST    20H,OAKS L M,B,1
+F12,Undergraduate,FEMST    20H,OAKS L M,C,2
+F12,Undergraduate,FEMST    20H,OAKS L M,F,1
+F12,Undergraduate,FEMST    40,BOBO J,A,18
+F12,Undergraduate,FEMST    40,BOBO J,A-,42
+F12,Undergraduate,FEMST    40,BOBO J,B+,37
+F12,Undergraduate,FEMST    40,BOBO J,B,30
+F12,Undergraduate,FEMST    40,BOBO J,B-,36
+F12,Undergraduate,FEMST    40,BOBO J,C+,12
+F12,Undergraduate,FEMST    40,BOBO J,C,11
+F12,Undergraduate,FEMST    40,BOBO J,C-,5
+F12,Undergraduate,FEMST    40,BOBO J,D+,1
+F12,Undergraduate,FEMST    40,BOBO J,D,2
+F12,Undergraduate,FEMST    40,BOBO J,D-,2
+F12,Undergraduate,FEMST    40,BOBO J,F,4
+F12,Undergraduate,FEMST    40H,BOBO J,A,4
+F12,Undergraduate,FEMST    40H,BOBO J,A-,2
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,A+,2
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,A,15
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,A-,32
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,B+,27
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,B,33
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,B-,23
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,C+,9
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,C,12
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,C-,4
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,D+,2
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,D,2
+F12,Undergraduate,FEMST    80,HERNANDEZ E D,F,3
+F12,Undergraduate,FEMST    80H,HERNANDEZ E D,A,2
+F12,Undergraduate,FEMST    80H,HERNANDEZ E D,A-,2
+F12,Undergraduate,FEMST    80H,HERNANDEZ E D,B+,2
+F12,Undergraduate,FEMST    80H,HERNANDEZ E D,C,1
+F12,Undergraduate,FEMST   143,BOBO J,A,8
+F12,Undergraduate,FEMST   143,BOBO J,A-,5
+F12,Undergraduate,FEMST   143,BOBO J,B,6
+F12,Undergraduate,FEMST   143,BOBO J,B-,3
+F12,Undergraduate,FEMST   143,BOBO J,C,2
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,A+,4
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,A,5
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,A-,4
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,B+,1
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,B,3
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,B-,1
+F12,Undergraduate,FEMST   151AE,MILLER-YOUNG,F,2
+F12,Undergraduate,FEMST   180,TOMLINSON B M,A,7
+F12,Undergraduate,FEMST   180,TOMLINSON B M,A-,7
+F12,Undergraduate,FEMST   180,TOMLINSON B M,B+,4
+F12,Undergraduate,FEMST   180,TOMLINSON B M,B,4
+F12,Undergraduate,FEMST   180,TOMLINSON B M,B-,2
+F12,Undergraduate,FEMST   180,TOMLINSON B M,C+,1
+F12,Undergraduate,FEMST   180,TOMLINSON B M,C-,2
+F12,Undergraduate,FEMST   180,TOMLINSON B M,F,1
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,A,4
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,A-,2
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,B+,1
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,B,5
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,D,1
+F12,Undergraduate,FEMST   182,MILLER-YOUNG,F,1
+F12,Undergraduate,FEMST   185FE,HELLER M L,A,7
+F12,Undergraduate,FEMST   185FE,HELLER M L,A-,2
+F12,Undergraduate,FEMST   185FE,HELLER M L,B+,1
+F12,Undergraduate,FEMST   185FE,HELLER M L,B,5
+F12,Undergraduate,FEMST   185FE,HELLER M L,B-,3
+F12,Undergraduate,FEMST   185FE,HELLER M L,C+,1
+F12,Undergraduate,FEMST   185FE,HELLER M L,C,1
+F12,Undergraduate,FEMST   185FE,HELLER M L,D+,1
+F12,Undergraduate,FEMST   185FE,HELLER M L,F,1
+F12,Graduate,FEMST   250DD,BARVOSA E,A+,2
+F12,Graduate,FEMST   250DD,BARVOSA E,A,12
+F12,Graduate,FEMST   270,BORIS E C,A,11
+F12,Graduate,FEMST   270,BORIS E C,A-,3
+F12,Graduate,FEMST   595,BORIS E C,S,9

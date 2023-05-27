@@ -1,0 +1,87 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W18,Undergraduate,ITAL      1,ARNOLD L B,A+,5
+W18,Undergraduate,ITAL      1,ARNOLD L B,A,16
+W18,Undergraduate,ITAL      1,BORROMEO C,A,16
+W18,Undergraduate,ITAL      1,BORROMEO C,A-,15
+W18,Undergraduate,ITAL      1,BORROMEO C,B+,5
+W18,Undergraduate,ITAL      1,BORROMEO C,B,2
+W18,Undergraduate,ITAL      1,BORROMEO C,C+,1
+W18,Undergraduate,ITAL      1,BORROMEO C,C,2
+W18,Undergraduate,ITAL      1,BORROMEO C,F,2
+W18,Undergraduate,ITAL      1,CRICKETTE M E,A+,8
+W18,Undergraduate,ITAL      1,CRICKETTE M E,A,10
+W18,Undergraduate,ITAL      1,CRICKETTE M E,B+,2
+W18,Undergraduate,ITAL      1,CRICKETTE M E,B-,1
+W18,Undergraduate,ITAL      1,FIORINA C P,A,20
+W18,Undergraduate,ITAL      1,FIORINA C P,A-,7
+W18,Undergraduate,ITAL      1,FIORINA C P,B+,1
+W18,Undergraduate,ITAL      1,FIORINA C P,B,1
+W18,Undergraduate,ITAL      1,FIORINA C P,B-,1
+W18,Undergraduate,ITAL      2,ARNOLD L B,A+,2
+W18,Undergraduate,ITAL      2,ARNOLD L B,A,4
+W18,Undergraduate,ITAL      2,ARNOLD L B,B+,3
+W18,Undergraduate,ITAL      2,ARNOLD L B,C+,1
+W18,Undergraduate,ITAL      2,DE SIMONE T,A+,1
+W18,Undergraduate,ITAL      2,DE SIMONE T,A,18
+W18,Undergraduate,ITAL      2,DE SIMONE T,A-,6
+W18,Undergraduate,ITAL      2,DE SIMONE T,B+,10
+W18,Undergraduate,ITAL      2,DE SIMONE T,B,3
+W18,Undergraduate,ITAL      2,DE SIMONE T,B-,4
+W18,Undergraduate,ITAL      2,DE SIMONE T,C+,1
+W18,Undergraduate,ITAL      2,DE SIMONE T,C-,1
+W18,Undergraduate,ITAL      2,DE SIMONE T,F,1
+W18,Undergraduate,ITAL      2,PADULA V,A+,9
+W18,Undergraduate,ITAL      2,PADULA V,A,17
+W18,Undergraduate,ITAL      2,PADULA V,A-,3
+W18,Undergraduate,ITAL      2,PADULA V,B+,6
+W18,Undergraduate,ITAL      2,PADULA V,B,6
+W18,Undergraduate,ITAL      3,CRICKETTE M E,A+,1
+W18,Undergraduate,ITAL      3,CRICKETTE M E,A,6
+W18,Undergraduate,ITAL      3,CRICKETTE M E,B+,2
+W18,Undergraduate,ITAL      3,CRICKETTE M E,B,4
+W18,Undergraduate,ITAL      3,CRICKETTE M E,B-,3
+W18,Undergraduate,ITAL      3,CRICKETTE M E,C,2
+W18,Undergraduate,ITAL      4,PADULA V,A,2
+W18,Undergraduate,ITAL      4,PADULA V,A-,3
+W18,Undergraduate,ITAL      4,PADULA V,B+,1
+W18,Undergraduate,ITAL      4,PADULA V,B-,2
+W18,Undergraduate,ITAL      4,PADULA V,C,2
+W18,Undergraduate,ITAL      4,PADULA V,F,1
+W18,Undergraduate,ITAL      5,BORROMEO C,A,5
+W18,Undergraduate,ITAL      5,BORROMEO C,A-,5
+W18,Undergraduate,ITAL      5,BORROMEO C,B+,3
+W18,Undergraduate,ITAL      5,BORROMEO C,B,5
+W18,Undergraduate,ITAL      5,BORROMEO C,B-,1
+W18,Undergraduate,ITAL      5,BORROMEO C,C+,1
+W18,Undergraduate,ITAL      5,BORROMEO C,C-,1
+W18,Undergraduate,ITAL      5,BORROMEO C,D+,1
+W18,Undergraduate,ITAL      5,DE SIMONE T,A,3
+W18,Undergraduate,ITAL      5,DE SIMONE T,A-,3
+W18,Undergraduate,ITAL      5,DE SIMONE T,B+,1
+W18,Undergraduate,ITAL      5,DE SIMONE T,C+,1
+W18,Undergraduate,ITAL     16A,PATTONE C F,A+,4
+W18,Undergraduate,ITAL     16A,PATTONE C F,A,15
+W18,Undergraduate,ITAL     16A,PATTONE C F,A-,1
+W18,Undergraduate,ITAL     16A,PATTONE C F,B+,1
+W18,Undergraduate,ITAL     16A,PATTONE C F,B,1
+W18,Undergraduate,ITAL     16A,PATTONE C F,C-,1
+W18,Undergraduate,ITAL     20X,FOGU C,A+,4
+W18,Undergraduate,ITAL     20X,FOGU C,A,17
+W18,Undergraduate,ITAL     20X,FOGU C,A-,30
+W18,Undergraduate,ITAL     20X,FOGU C,B+,21
+W18,Undergraduate,ITAL     20X,FOGU C,B,11
+W18,Undergraduate,ITAL     20X,FOGU C,B-,8
+W18,Undergraduate,ITAL     20X,FOGU C,C+,5
+W18,Undergraduate,ITAL     20X,FOGU C,C,1
+W18,Undergraduate,ITAL     20X,FOGU C,C-,2
+W18,Undergraduate,ITAL     20X,FOGU C,D+,2
+W18,Undergraduate,ITAL    102,FIORINA C P,A,5
+W18,Undergraduate,ITAL    102,FIORINA C P,A-,2
+W18,Undergraduate,ITAL    102,FIORINA C P,B+,2
+W18,Undergraduate,ITAL    102,FIORINA C P,B,2
+W18,Undergraduate,ITAL    102,FIORINA C P,B-,1
+W18,Undergraduate,ITAL    102,FIORINA C P,F,2
+W18,Undergraduate,ITAL    119B,DAHL SARNELLI,A+,6
+W18,Undergraduate,ITAL    119B,DAHL SARNELLI,A,4
+W18,Undergraduate,ITAL    119B,DAHL SARNELLI,A-,3
+W18,Undergraduate,ITAL    119B,DAHL SARNELLI,B-,1

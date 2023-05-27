@@ -1,0 +1,96 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,FLMST    46MS,BRUSUTTI A,A,5
+S10,Undergraduate,FLMST    46MS,BRUSUTTI A,A-,4
+S10,Undergraduate,FLMST    46MS,BRUSUTTI A,B+,6
+S10,Undergraduate,FLMST    46MS,BRUSUTTI A,B,6
+S10,Undergraduate,FLMST    46MS,BRUSUTTI A,B-,1
+S10,Undergraduate,FLMST   101T,HOLT J,A,6
+S10,Undergraduate,FLMST   101T,HOLT J,A-,8
+S10,Undergraduate,FLMST   101T,HOLT J,B+,20
+S10,Undergraduate,FLMST   101T,HOLT J,B,31
+S10,Undergraduate,FLMST   101T,HOLT J,B-,15
+S10,Undergraduate,FLMST   101T,HOLT J,C+,13
+S10,Undergraduate,FLMST   101T,HOLT J,C,6
+S10,Undergraduate,FLMST   101T,HOLT J,C-,1
+S10,Undergraduate,FLMST   101T,HOLT J,D+,4
+S10,Undergraduate,FLMST   101T,HOLT J,F,4
+S10,Undergraduate,FLMST   107S,DRISKEL D B,A-,5
+S10,Undergraduate,FLMST   107S,DRISKEL D B,B+,1
+S10,Undergraduate,FLMST   107S,DRISKEL D B,B,3
+S10,Undergraduate,FLMST   107S,DRISKEL D B,B-,3
+S10,Undergraduate,FLMST   119ML,PARKS L A,A+,3
+S10,Undergraduate,FLMST   119ML,PARKS L A,A,1
+S10,Undergraduate,FLMST   119ML,PARKS L A,A-,2
+S10,Undergraduate,FLMST   119ML,PARKS L A,B+,2
+S10,Undergraduate,FLMST   119ML,PARKS L A,B,3
+S10,Undergraduate,FLMST   119ML,PARKS L A,B-,2
+S10,Undergraduate,FLMST   119ML,PARKS L A,C+,1
+S10,Undergraduate,FLMST   119ML,PARKS L A,C-,1
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,A,6
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,A-,3
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,B+,9
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,B,13
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,B-,9
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,C+,4
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,C,6
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,C-,3
+S10,Undergraduate,FLMST   122AD,MENICUCCI G P,F,4
+S10,Undergraduate,FLMST   150PG,PENLEY C,A,31
+S10,Undergraduate,FLMST   150PG,PENLEY C,A-,2
+S10,Undergraduate,FLMST   150PG,PENLEY C,B+,6
+S10,Undergraduate,FLMST   150PG,PENLEY C,B,2
+S10,Undergraduate,FLMST   150PG,PENLEY C,C,1
+S10,Undergraduate,FLMST   150PG,PENLEY C,F,2
+S10,Undergraduate,FLMST   150VG,EVERETT A,A+,3
+S10,Undergraduate,FLMST   150VG,EVERETT A,A,4
+S10,Undergraduate,FLMST   150VG,EVERETT A,A-,6
+S10,Undergraduate,FLMST   150VG,EVERETT A,B+,8
+S10,Undergraduate,FLMST   150VG,EVERETT A,B,5
+S10,Undergraduate,FLMST   150VG,EVERETT A,B-,1
+S10,Undergraduate,FLMST   150VG,EVERETT A,F,2
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,A,2
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,A-,9
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,B+,8
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,B,6
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,B-,2
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,C+,2
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,C,1
+S10,Undergraduate,FLMST   165CM,BRUSUTTI A,F,2
+S10,Undergraduate,FLMST   188TV,STEINKELLNER,A,6
+S10,Undergraduate,FLMST   188TV,STEINKELLNER,A-,5
+S10,Undergraduate,FLMST   188TV,STEINKELLNER,B+,2
+S10,Undergraduate,FLMST   188TV,STEINKELLNER,B,1
+S10,Undergraduate,FLMST   188TV,STEINKELLNER,B-,2
+S10,Undergraduate,FLMST   190VA,PARKS L A,A,2
+S10,Undergraduate,FLMST   190VA,PARKS L A,A-,2
+S10,Undergraduate,FLMST   190VA,PARKS L A,B+,5
+S10,Undergraduate,FLMST   190VA,PARKS L A,B,2
+S10,Undergraduate,FLMST   190VA,PARKS L A,B-,4
+S10,Undergraduate,FLMST   190VA,PARKS L A,C,1
+S10,Undergraduate,FLMST   192B,SARKAR B,A+,2
+S10,Undergraduate,FLMST   192B,SARKAR B,A,8
+S10,Undergraduate,FLMST   192B,SARKAR B,A-,15
+S10,Undergraduate,FLMST   192B,SARKAR B,B+,27
+S10,Undergraduate,FLMST   192B,SARKAR B,B,30
+S10,Undergraduate,FLMST   192B,SARKAR B,B-,12
+S10,Undergraduate,FLMST   192B,SARKAR B,C+,7
+S10,Undergraduate,FLMST   192B,SARKAR B,C,6
+S10,Undergraduate,FLMST   192B,SARKAR B,C-,5
+S10,Undergraduate,FLMST   192B,SARKAR B,D,2
+S10,Undergraduate,FLMST   192B,SARKAR B,D-,1
+S10,Undergraduate,FLMST   192B,SARKAR B,F,2
+S10,Undergraduate,FLMST   195I,PARKS L A,P,9
+S10,Undergraduate,FLMST   199,PARKS L A,A,5
+S10,Undergraduate,FLMST   199,PARKS L A,A-,1
+S10,Undergraduate,FLMST   199,PARKS L A,B,1
+S10,Undergraduate,FLMST   199,PARKS L A,F,1
+S10,Undergraduate,FLMST   199,PENLEY C,A,16
+S10,Undergraduate,FLMST   199,PENLEY C,A-,3
+S10,Undergraduate,FLMST   199,PENLEY C,B,2
+S10,Undergraduate,FLMST   199,PENLEY C,C,1
+S10,Graduate,FLMST   230,WOLFE C C,A,5
+S10,Graduate,FLMST   230,WOLFE C C,A-,3
+S10,Graduate,FLMST   230,WOLFE C C,B+,1
+S10,Graduate,FLMST   230,WOLFE C C,B,1
+S10,Graduate,FLMST   242AC,BRANIGAN E R,A,7
+S10,Graduate,FLMST   598,BLOOM P J,A,6

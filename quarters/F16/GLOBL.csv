@@ -1,0 +1,102 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,A+,4
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,A,71
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,A-,65
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,B+,33
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,B,60
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,B-,11
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,C+,4
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,C,10
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,C-,3
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,D+,1
+F16,Undergraduate,GLOBL     1,DARIAN-SMITH,F,4
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,A+,43
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,A,52
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,A-,43
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,B+,52
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,B,35
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,B-,42
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,C+,12
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,C,6
+F16,Undergraduate,GLOBL     2,JUERGENSMEYER,F,2
+F16,Undergraduate,GLOBL   104,THANDI S,A+,9
+F16,Undergraduate,GLOBL   104,THANDI S,A,13
+F16,Undergraduate,GLOBL   104,THANDI S,A-,20
+F16,Undergraduate,GLOBL   104,THANDI S,B+,27
+F16,Undergraduate,GLOBL   104,THANDI S,B,14
+F16,Undergraduate,GLOBL   104,THANDI S,B-,3
+F16,Undergraduate,GLOBL   104,THANDI S,F,3
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,A+,2
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,A,17
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,A-,16
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,B+,6
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,B,29
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,B-,5
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,C+,2
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,C,9
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,C-,2
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,D+,2
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,D,4
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,D-,1
+F16,Undergraduate,GLOBL   111,DARIAN-SMITH,F,1
+F16,Undergraduate,GLOBL   120,BRYSK A,A,18
+F16,Undergraduate,GLOBL   120,BRYSK A,A-,34
+F16,Undergraduate,GLOBL   120,BRYSK A,B+,15
+F16,Undergraduate,GLOBL   120,BRYSK A,B,49
+F16,Undergraduate,GLOBL   120,BRYSK A,B-,14
+F16,Undergraduate,GLOBL   120,BRYSK A,C+,1
+F16,Undergraduate,GLOBL   120,BRYSK A,C,8
+F16,Undergraduate,GLOBL   120,BRYSK A,C-,2
+F16,Undergraduate,GLOBL   120,BRYSK A,F,1
+F16,Undergraduate,GLOBL   123,COHEN B J,A-,5
+F16,Undergraduate,GLOBL   123,COHEN B J,B+,7
+F16,Undergraduate,GLOBL   123,COHEN B J,B,8
+F16,Undergraduate,GLOBL   123,COHEN B J,B-,10
+F16,Undergraduate,GLOBL   123,COHEN B J,C+,7
+F16,Undergraduate,GLOBL   123,COHEN B J,C,4
+F16,Undergraduate,GLOBL   123,COHEN B J,C-,2
+F16,Undergraduate,GLOBL   123,COHEN B J,D+,1
+F16,Undergraduate,GLOBL   123,COHEN B J,F,1
+F16,Undergraduate,GLOBL   130,MCCARTY P C,A+,5
+F16,Undergraduate,GLOBL   130,MCCARTY P C,A,60
+F16,Undergraduate,GLOBL   130,MCCARTY P C,A-,33
+F16,Undergraduate,GLOBL   130,MCCARTY P C,B+,14
+F16,Undergraduate,GLOBL   130,MCCARTY P C,B,21
+F16,Undergraduate,GLOBL   130,MCCARTY P C,B-,1
+F16,Undergraduate,GLOBL   130,MCCARTY P C,C+,1
+F16,Undergraduate,GLOBL   130,MCCARTY P C,C,4
+F16,Undergraduate,GLOBL   130,MCCARTY P C,C-,1
+F16,Undergraduate,GLOBL   130,MCCARTY P C,D,1
+F16,Undergraduate,GLOBL   130,MCCARTY P C,F,2
+F16,Undergraduate,GLOBL   155,MCCARTY P C,A+,2
+F16,Undergraduate,GLOBL   155,MCCARTY P C,A,27
+F16,Undergraduate,GLOBL   155,MCCARTY P C,A-,6
+F16,Undergraduate,GLOBL   155,MCCARTY P C,B+,17
+F16,Undergraduate,GLOBL   155,MCCARTY P C,B,23
+F16,Undergraduate,GLOBL   155,MCCARTY P C,B-,4
+F16,Undergraduate,GLOBL   155,MCCARTY P C,C,1
+F16,Undergraduate,GLOBL   155,MCCARTY P C,C-,1
+F16,Undergraduate,GLOBL   155,MCCARTY P C,F,3
+F16,Undergraduate,GLOBL   161,CLEMENCON R,A+,1
+F16,Undergraduate,GLOBL   161,CLEMENCON R,A,7
+F16,Undergraduate,GLOBL   161,CLEMENCON R,A-,3
+F16,Undergraduate,GLOBL   161,CLEMENCON R,B+,2
+F16,Undergraduate,GLOBL   161,CLEMENCON R,B,5
+F16,Undergraduate,GLOBL   161,CLEMENCON R,B-,1
+F16,Undergraduate,GLOBL   161,CLEMENCON R,C+,2
+F16,Undergraduate,GLOBL   161,CLEMENCON R,C,2
+F16,Undergraduate,GLOBL   161,CLEMENCON R,C-,1
+F16,Undergraduate,GLOBL   161,CLEMENCON R,D,3
+F16,Undergraduate,GLOBL   161,CLEMENCON R,F,2
+F16,Undergraduate,GLOBL   162,AMAR P E,A,12
+F16,Undergraduate,GLOBL   162,AMAR P E,A-,13
+F16,Undergraduate,GLOBL   162,AMAR P E,B+,7
+F16,Undergraduate,GLOBL   162,AMAR P E,B,5
+F16,Graduate,GLOBL   201,AMAR P E,A,6
+F16,Graduate,GLOBL   220,AMAR P E,A,12
+F16,Graduate,GLOBL   220,AMAR P E,A-,1
+F16,Graduate,GLOBL   222,LEZRA E M,A+,3
+F16,Graduate,GLOBL   222,LEZRA E M,A,9
+F16,Graduate,GLOBL   224,DARIAN-SMITH,A,12
+F16,Graduate,GLOBL   224,DARIAN-SMITH,B+,1
+F16,Graduate,GLOBL   232A,JUERGENSMEYER,S,8

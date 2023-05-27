@@ -1,0 +1,143 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M21,Undergraduate,ECON      1,BEDARD K L,A+,1
+M21,Undergraduate,ECON      1,BEDARD K L,A,32
+M21,Undergraduate,ECON      1,BEDARD K L,A-,9
+M21,Undergraduate,ECON      1,BEDARD K L,B+,6
+M21,Undergraduate,ECON      1,BEDARD K L,B,3
+M21,Undergraduate,ECON      1,BEDARD K L,B-,4
+M21,Undergraduate,ECON      1,BEDARD K L,C+,2
+M21,Undergraduate,ECON      1,BEDARD K L,C,5
+M21,Undergraduate,ECON      1,BEDARD K L,F,1
+M21,Undergraduate,ECON      3A,HARMON C J,A,12
+M21,Undergraduate,ECON      3A,HARMON C J,A-,12
+M21,Undergraduate,ECON      3A,HARMON C J,B+,4
+M21,Undergraduate,ECON      3A,HARMON C J,B,2
+M21,Undergraduate,ECON      3A,HARMON C J,B-,6
+M21,Undergraduate,ECON      3A,HARMON C J,C+,11
+M21,Undergraduate,ECON      3A,HARMON C J,C,3
+M21,Undergraduate,ECON      3A,HARMON C J,C-,1
+M21,Undergraduate,ECON      3A,HARMON C J,F,2
+M21,Undergraduate,ECON      3B,FULKERSON S D,A+,1
+M21,Undergraduate,ECON      3B,FULKERSON S D,A,7
+M21,Undergraduate,ECON      3B,FULKERSON S D,A-,7
+M21,Undergraduate,ECON      3B,FULKERSON S D,B+,5
+M21,Undergraduate,ECON      3B,FULKERSON S D,B,7
+M21,Undergraduate,ECON      3B,FULKERSON S D,B-,5
+M21,Undergraduate,ECON      3B,FULKERSON S D,C+,1
+M21,Undergraduate,ECON      3B,FULKERSON S D,C,3
+M21,Undergraduate,ECON      3B,FULKERSON S D,C-,1
+M21,Undergraduate,ECON      3B,FULKERSON S D,D,1
+M21,Undergraduate,ECON      3B,FULKERSON S D,F,1
+M21,Undergraduate,ECON     10A,HARTMAN J L,A+,2
+M21,Undergraduate,ECON     10A,HARTMAN J L,A,11
+M21,Undergraduate,ECON     10A,HARTMAN J L,A-,31
+M21,Undergraduate,ECON     10A,HARTMAN J L,B+,37
+M21,Undergraduate,ECON     10A,HARTMAN J L,B,37
+M21,Undergraduate,ECON     10A,HARTMAN J L,B-,25
+M21,Undergraduate,ECON     10A,HARTMAN J L,C+,14
+M21,Undergraduate,ECON     10A,HARTMAN J L,C,13
+M21,Undergraduate,ECON     10A,HARTMAN J L,C-,14
+M21,Undergraduate,ECON     10A,HARTMAN J L,D+,3
+M21,Undergraduate,ECON     10A,HARTMAN J L,D,4
+M21,Undergraduate,ECON     10A,HARTMAN J L,F,6
+M21,Undergraduate,ECON    100B,QIN C Z,A+,1
+M21,Undergraduate,ECON    100B,QIN C Z,A,25
+M21,Undergraduate,ECON    100B,QIN C Z,A-,11
+M21,Undergraduate,ECON    100B,QIN C Z,B+,9
+M21,Undergraduate,ECON    100B,QIN C Z,B,7
+M21,Undergraduate,ECON    100B,QIN C Z,B-,7
+M21,Undergraduate,ECON    100B,QIN C Z,C+,4
+M21,Undergraduate,ECON    100B,QIN C Z,C,7
+M21,Undergraduate,ECON    100B,QIN C Z,C-,2
+M21,Undergraduate,ECON    100B,QIN C Z,D+,2
+M21,Undergraduate,ECON    100B,QIN C Z,D,1
+M21,Undergraduate,ECON    101,BIRCHENALL J,A,30
+M21,Undergraduate,ECON    101,BIRCHENALL J,A-,45
+M21,Undergraduate,ECON    101,BIRCHENALL J,B+,25
+M21,Undergraduate,ECON    101,BIRCHENALL J,B,12
+M21,Undergraduate,ECON    101,BIRCHENALL J,C-,2
+M21,Undergraduate,ECON    118,FULKERSON S D,A,9
+M21,Undergraduate,ECON    118,FULKERSON S D,A-,7
+M21,Undergraduate,ECON    118,FULKERSON S D,B+,7
+M21,Undergraduate,ECON    118,FULKERSON S D,B,15
+M21,Undergraduate,ECON    118,FULKERSON S D,B-,6
+M21,Undergraduate,ECON    118,FULKERSON S D,C+,7
+M21,Undergraduate,ECON    118,FULKERSON S D,C,2
+M21,Undergraduate,ECON    118,FULKERSON S D,C-,2
+M21,Undergraduate,ECON    134A,HARTMAN J L,A+,7
+M21,Undergraduate,ECON    134A,HARTMAN J L,A,26
+M21,Undergraduate,ECON    134A,HARTMAN J L,A-,18
+M21,Undergraduate,ECON    134A,HARTMAN J L,B+,19
+M21,Undergraduate,ECON    134A,HARTMAN J L,B,30
+M21,Undergraduate,ECON    134A,HARTMAN J L,B-,15
+M21,Undergraduate,ECON    134A,HARTMAN J L,C+,9
+M21,Undergraduate,ECON    134A,HARTMAN J L,C,5
+M21,Undergraduate,ECON    134A,HARTMAN J L,C-,3
+M21,Undergraduate,ECON    134A,HARTMAN J L,D+,1
+M21,Undergraduate,ECON    134A,HARTMAN J L,F,1
+M21,Undergraduate,ECON    135,BOHN H,A,10
+M21,Undergraduate,ECON    135,BOHN H,A-,5
+M21,Undergraduate,ECON    135,BOHN H,B+,1
+M21,Undergraduate,ECON    135,BOHN H,B,5
+M21,Undergraduate,ECON    135,BOHN H,B-,1
+M21,Undergraduate,ECON    135,BOHN H,C+,4
+M21,Undergraduate,ECON    135,BOHN H,C-,1
+M21,Undergraduate,ECON    135,BOHN H,D,3
+M21,Undergraduate,ECON    135,BOHN H,F,9
+M21,Undergraduate,ECON    135,GARRATT R J,A+,2
+M21,Undergraduate,ECON    135,GARRATT R J,A,11
+M21,Undergraduate,ECON    135,GARRATT R J,A-,12
+M21,Undergraduate,ECON    135,GARRATT R J,B+,10
+M21,Undergraduate,ECON    135,GARRATT R J,B,7
+M21,Undergraduate,ECON    135,GARRATT R J,B-,4
+M21,Undergraduate,ECON    135,GARRATT R J,C+,3
+M21,Undergraduate,ECON    135,GARRATT R J,C-,1
+M21,Undergraduate,ECON    135,GARRATT R J,D+,1
+M21,Undergraduate,ECON    135,GARRATT R J,D-,1
+M21,Undergraduate,ECON    136A,GROVER S R,A,10
+M21,Undergraduate,ECON    136A,GROVER S R,B+,10
+M21,Undergraduate,ECON    136A,GROVER S R,B,11
+M21,Undergraduate,ECON    136A,GROVER S R,B-,3
+M21,Undergraduate,ECON    136A,GROVER S R,C+,1
+M21,Undergraduate,ECON    136A,GROVER S R,C-,1
+M21,Undergraduate,ECON    136C,HARMON C J,A,8
+M21,Undergraduate,ECON    136C,HARMON C J,A-,5
+M21,Undergraduate,ECON    136C,HARMON C J,B+,3
+M21,Undergraduate,ECON    136C,HARMON C J,B-,9
+M21,Undergraduate,ECON    136C,HARMON C J,C+,6
+M21,Undergraduate,ECON    136C,HARMON C J,C,5
+M21,Undergraduate,ECON    136C,HARMON C J,C-,1
+M21,Undergraduate,ECON    136C,HARMON C J,F,2
+M21,Undergraduate,ECON    137A,GROVER S R,A,14
+M21,Undergraduate,ECON    137A,GROVER S R,A-,5
+M21,Undergraduate,ECON    137A,GROVER S R,B+,5
+M21,Undergraduate,ECON    137A,GROVER S R,B,5
+M21,Undergraduate,ECON    137A,GROVER S R,B-,4
+M21,Undergraduate,ECON    137A,GROVER S R,C+,1
+M21,Undergraduate,ECON    137A,GROVER S R,C-,1
+M21,Undergraduate,ECON    137A,GROVER S R,F,2
+M21,Undergraduate,ECON    140A,STEIGERWALD D,A,26
+M21,Undergraduate,ECON    140A,STEIGERWALD D,A-,16
+M21,Undergraduate,ECON    140A,STEIGERWALD D,B+,10
+M21,Undergraduate,ECON    140A,STEIGERWALD D,B,10
+M21,Undergraduate,ECON    140A,STEIGERWALD D,B-,9
+M21,Undergraduate,ECON    140A,STEIGERWALD D,C+,8
+M21,Undergraduate,ECON    140A,STEIGERWALD D,C,11
+M21,Undergraduate,ECON    140A,STEIGERWALD D,F,1
+M21,Undergraduate,ECON    140B,STEIGERWALD D,A,6
+M21,Undergraduate,ECON    140B,STEIGERWALD D,A-,12
+M21,Undergraduate,ECON    140B,STEIGERWALD D,B+,5
+M21,Undergraduate,ECON    140B,STEIGERWALD D,B-,1
+M21,Undergraduate,ECON    140B,STEIGERWALD D,C+,2
+M21,Undergraduate,ECON    140B,STEIGERWALD D,C,8
+M21,Undergraduate,ECON    140B,STEIGERWALD D,F,2
+M21,Undergraduate,ECON    150B,RUPERT P,A+,2
+M21,Undergraduate,ECON    150B,RUPERT P,A,13
+M21,Undergraduate,ECON    150B,RUPERT P,A-,3
+M21,Undergraduate,ECON    150B,RUPERT P,B+,10
+M21,Undergraduate,ECON    150B,RUPERT P,B,8
+M21,Undergraduate,ECON    150B,RUPERT P,B-,7
+M21,Undergraduate,ECON    150B,RUPERT P,C+,3
+M21,Undergraduate,ECON    150B,RUPERT P,C,6
+M21,Undergraduate,ECON    150B,RUPERT P,C-,4
+M21,Undergraduate,ECON    193,ROYER H N,P,9

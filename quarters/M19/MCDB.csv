@@ -1,0 +1,108 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,A+,25
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,A,18
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,A-,7
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,B+,11
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,B,40
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,B-,17
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,C+,26
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,C,34
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,C-,20
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,D,24
+M19,Undergraduate,MCDB      1A,GONZALEZ NINO,F,12
+M19,Undergraduate,MCDB      1B,LOW S H,A+,1
+M19,Undergraduate,MCDB      1B,LOW S H,A,5
+M19,Undergraduate,MCDB      1B,LOW S H,A-,9
+M19,Undergraduate,MCDB      1B,LOW S H,B+,10
+M19,Undergraduate,MCDB      1B,LOW S H,B,29
+M19,Undergraduate,MCDB      1B,LOW S H,B-,20
+M19,Undergraduate,MCDB      1B,LOW S H,C+,18
+M19,Undergraduate,MCDB      1B,LOW S H,C,28
+M19,Undergraduate,MCDB      1B,LOW S H,C-,18
+M19,Undergraduate,MCDB      1B,LOW S H,D,15
+M19,Undergraduate,MCDB      1B,LOW S H,F,8
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,A+,7
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,A,18
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,A-,13
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,B+,14
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,B,14
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,B-,5
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,C+,4
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,C,10
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,C-,3
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,D,1
+M19,Undergraduate,MCDB      1LL,CHRISTOFFERSE,F,1
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,A+,7
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,A,18
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,A-,13
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,B+,14
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,B,14
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,B-,5
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,C+,4
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,C,10
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,C-,3
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,D,1
+M19,Undergraduate,MCDB      1LL,FINKELSTEIN R,F,1
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,A+,7
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,A,18
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,A-,13
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,B+,14
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,B,14
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,B-,5
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,C+,4
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,C,10
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,C-,3
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,D,1
+M19,Undergraduate,MCDB      1LL,NGUYEN A T,F,1
+M19,Undergraduate,MCDB    101A,THROWER D A,A+,2
+M19,Undergraduate,MCDB    101A,THROWER D A,A,37
+M19,Undergraduate,MCDB    101A,THROWER D A,B+,2
+M19,Undergraduate,MCDB    101A,THROWER D A,B,21
+M19,Undergraduate,MCDB    101A,THROWER D A,B-,3
+M19,Undergraduate,MCDB    101A,THROWER D A,C,28
+M19,Undergraduate,MCDB    101A,THROWER D A,C-,2
+M19,Undergraduate,MCDB    101A,THROWER D A,D+,1
+M19,Undergraduate,MCDB    101A,THROWER D A,D,7
+M19,Undergraduate,MCDB    101A,THROWER D A,D-,1
+M19,Undergraduate,MCDB    101A,THROWER D A,F,8
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,A+,5
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,A,8
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,A-,2
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,B+,2
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,B,7
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,B-,5
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,C+,2
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,C,8
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,C-,2
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,D,1
+M19,Undergraduate,MCDB    101B,CHRISTOFFERSE,F,3
+M19,Undergraduate,MCDB    111,THROWER D A,A+,4
+M19,Undergraduate,MCDB    111,THROWER D A,A,61
+M19,Undergraduate,MCDB    111,THROWER D A,A-,5
+M19,Undergraduate,MCDB    111,THROWER D A,B+,15
+M19,Undergraduate,MCDB    111,THROWER D A,B,33
+M19,Undergraduate,MCDB    111,THROWER D A,B-,6
+M19,Undergraduate,MCDB    111,THROWER D A,C+,2
+M19,Undergraduate,MCDB    111,THROWER D A,C,11
+M19,Undergraduate,MCDB    111,THROWER D A,C-,5
+M19,Undergraduate,MCDB    111,THROWER D A,D+,2
+M19,Undergraduate,MCDB    111,THROWER D A,D,5
+M19,Undergraduate,MCDB    111,THROWER D A,F,11
+M19,Undergraduate,MCDB    161L,GUZMAN E B,A+,1
+M19,Undergraduate,MCDB    161L,GUZMAN E B,A,10
+M19,Undergraduate,MCDB    161L,GUZMAN E B,A-,2
+M19,Undergraduate,MCDB W  108A,SEARS D W,A+,1
+M19,Undergraduate,MCDB W  108A,SEARS D W,A,6
+M19,Undergraduate,MCDB W  108A,SEARS D W,A-,3
+M19,Undergraduate,MCDB W  108A,SEARS D W,B,6
+M19,Undergraduate,MCDB W  108A,SEARS D W,B-,3
+M19,Undergraduate,MCDB W  108A,SEARS D W,C+,2
+M19,Undergraduate,MCDB W  108A,SEARS D W,C,9
+M19,Undergraduate,MCDB W  138,SEARS D W,A+,1
+M19,Undergraduate,MCDB W  138,SEARS D W,A,3
+M19,Undergraduate,MCDB W  138,SEARS D W,B+,1
+M19,Undergraduate,MCDB W  138,SEARS D W,B,8
+M19,Undergraduate,MCDB W  138,SEARS D W,C+,1
+M19,Undergraduate,MCDB W  138,SEARS D W,C,6
+M19,Undergraduate,MCDB W  138,SEARS D W,D,1
+M19,Undergraduate,MCDB W  138,SEARS D W,F,1

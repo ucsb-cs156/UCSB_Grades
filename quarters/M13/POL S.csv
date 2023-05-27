@@ -1,0 +1,110 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M13,Undergraduate,POL S     1,HUGHES T,A,2
+M13,Undergraduate,POL S     1,HUGHES T,A-,7
+M13,Undergraduate,POL S     1,HUGHES T,B+,14
+M13,Undergraduate,POL S     1,HUGHES T,B,13
+M13,Undergraduate,POL S     1,HUGHES T,B-,5
+M13,Undergraduate,POL S     1,HUGHES T,C+,5
+M13,Undergraduate,POL S     1,HUGHES T,C,3
+M13,Undergraduate,POL S     1,HUGHES T,C-,1
+M13,Undergraduate,POL S     1,HUGHES T,F,2
+M13,Undergraduate,POL S     6,OLEINIKOV P,A+,1
+M13,Undergraduate,POL S     6,OLEINIKOV P,A,3
+M13,Undergraduate,POL S     6,OLEINIKOV P,A-,2
+M13,Undergraduate,POL S     6,OLEINIKOV P,B+,10
+M13,Undergraduate,POL S     6,OLEINIKOV P,B,17
+M13,Undergraduate,POL S     6,OLEINIKOV P,B-,9
+M13,Undergraduate,POL S     6,OLEINIKOV P,C,4
+M13,Undergraduate,POL S     6,OLEINIKOV P,C-,5
+M13,Undergraduate,POL S     6,OLEINIKOV P,D,2
+M13,Undergraduate,POL S     6,OLEINIKOV P,F,1
+M13,Undergraduate,POL S     7,SANTORI G C,A,13
+M13,Undergraduate,POL S     7,SANTORI G C,A-,11
+M13,Undergraduate,POL S     7,SANTORI G C,B+,5
+M13,Undergraduate,POL S     7,SANTORI G C,B,4
+M13,Undergraduate,POL S     7,SANTORI G C,B-,1
+M13,Undergraduate,POL S     7,SANTORI G C,F,1
+M13,Undergraduate,POL S     7,SPRECHER C M,A,3
+M13,Undergraduate,POL S     7,SPRECHER C M,A-,6
+M13,Undergraduate,POL S     7,SPRECHER C M,B+,8
+M13,Undergraduate,POL S     7,SPRECHER C M,B,8
+M13,Undergraduate,POL S     7,SPRECHER C M,B-,4
+M13,Undergraduate,POL S     7,SPRECHER C M,C+,4
+M13,Undergraduate,POL S     7,SPRECHER C M,C,1
+M13,Undergraduate,POL S     7,SPRECHER C M,C-,1
+M13,Undergraduate,POL S     7,SPRECHER C M,D-,1
+M13,Undergraduate,POL S     7,SPRECHER C M,F,1
+M13,Undergraduate,POL S    12,WIENER S L,A,1
+M13,Undergraduate,POL S    12,WIENER S L,A-,8
+M13,Undergraduate,POL S    12,WIENER S L,B+,6
+M13,Undergraduate,POL S    12,WIENER S L,B,18
+M13,Undergraduate,POL S    12,WIENER S L,B-,6
+M13,Undergraduate,POL S    12,WIENER S L,C+,7
+M13,Undergraduate,POL S    12,WIENER S L,C,4
+M13,Undergraduate,POL S    12,WIENER S L,F,3
+M13,Undergraduate,POL S   110,SANTORI G C,A,14
+M13,Undergraduate,POL S   110,SANTORI G C,A-,8
+M13,Undergraduate,POL S   110,SANTORI G C,B+,9
+M13,Undergraduate,POL S   110,SANTORI G C,B,7
+M13,Undergraduate,POL S   110,SANTORI G C,B-,1
+M13,Undergraduate,POL S   110,SANTORI G C,C+,3
+M13,Undergraduate,POL S   110,SANTORI G C,C-,1
+M13,Undergraduate,POL S   110,SANTORI G C,F,5
+M13,Undergraduate,POL S   121,ENGLUND S H,A,5
+M13,Undergraduate,POL S   121,ENGLUND S H,A-,8
+M13,Undergraduate,POL S   121,ENGLUND S H,B+,6
+M13,Undergraduate,POL S   121,ENGLUND S H,B,2
+M13,Undergraduate,POL S   121,ENGLUND S H,B-,3
+M13,Undergraduate,POL S   121,ENGLUND S H,C+,1
+M13,Undergraduate,POL S   121,ENGLUND S H,C,2
+M13,Undergraduate,POL S   127,SPRECHER C M,A,30
+M13,Undergraduate,POL S   127,SPRECHER C M,A-,7
+M13,Undergraduate,POL S   127,SPRECHER C M,C,1
+M13,Undergraduate,POL S   143,KAPLAN C S,A,1
+M13,Undergraduate,POL S   143,KAPLAN C S,A-,2
+M13,Undergraduate,POL S   143,KAPLAN C S,B+,2
+M13,Undergraduate,POL S   143,KAPLAN C S,B,12
+M13,Undergraduate,POL S   143,KAPLAN C S,B-,1
+M13,Undergraduate,POL S   143,KAPLAN C S,C+,1
+M13,Undergraduate,POL S   143,KAPLAN C S,C,4
+M13,Undergraduate,POL S   150A,NASH M B,A,3
+M13,Undergraduate,POL S   150A,NASH M B,A-,4
+M13,Undergraduate,POL S   150A,NASH M B,B+,10
+M13,Undergraduate,POL S   150A,NASH M B,B,9
+M13,Undergraduate,POL S   150A,NASH M B,B-,12
+M13,Undergraduate,POL S   150A,NASH M B,C+,9
+M13,Undergraduate,POL S   150A,NASH M B,C,1
+M13,Undergraduate,POL S   158,WIENER S L,A+,1
+M13,Undergraduate,POL S   158,WIENER S L,A,3
+M13,Undergraduate,POL S   158,WIENER S L,A-,6
+M13,Undergraduate,POL S   158,WIENER S L,B+,10
+M13,Undergraduate,POL S   158,WIENER S L,B,12
+M13,Undergraduate,POL S   158,WIENER S L,B-,6
+M13,Undergraduate,POL S   158,WIENER S L,C+,3
+M13,Undergraduate,POL S   158,WIENER S L,C,2
+M13,Undergraduate,POL S   158,WIENER S L,F,4
+M13,Undergraduate,POL S   162,SANTORI G C,A+,1
+M13,Undergraduate,POL S   162,SANTORI G C,A,10
+M13,Undergraduate,POL S   162,SANTORI G C,A-,6
+M13,Undergraduate,POL S   162,SANTORI G C,B+,5
+M13,Undergraduate,POL S   162,SANTORI G C,B,4
+M13,Undergraduate,POL S   162,SANTORI G C,B-,1
+M13,Undergraduate,POL S   162,SANTORI G C,D,1
+M13,Undergraduate,POL S   162,SANTORI G C,F,2
+M13,Undergraduate,POL S   171,GOTTLIEB J,A+,1
+M13,Undergraduate,POL S   171,GOTTLIEB J,A,3
+M13,Undergraduate,POL S   171,GOTTLIEB J,A-,7
+M13,Undergraduate,POL S   171,GOTTLIEB J,B+,5
+M13,Undergraduate,POL S   171,GOTTLIEB J,B,10
+M13,Undergraduate,POL S   171,GOTTLIEB J,B-,4
+M13,Undergraduate,POL S   171,GOTTLIEB J,C+,1
+M13,Undergraduate,POL S   171,GOTTLIEB J,C-,1
+M13,Undergraduate,POL S   171,GOTTLIEB J,F,3
+M13,Undergraduate,POL S   189,NORRIS A,B+,1
+M13,Undergraduate,POL S   189,NORRIS A,B,1
+M13,Undergraduate,POL S   189,NORRIS A,B-,1
+M13,Undergraduate,POL S   189,NORRIS A,C+,5
+M13,Undergraduate,POL S   189,NORRIS A,C-,1
+M13,Undergraduate,POL S   189,NORRIS A,D+,2
+M13,Undergraduate,POL S   189,NORRIS A,D,1
+M13,Undergraduate,POL S   189,NORRIS A,F,3

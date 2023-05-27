@@ -1,0 +1,121 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Undergraduate,COMM    134,METZGER M J,A,2
+M11,Undergraduate,COMM    134,METZGER M J,A-,4
+M11,Undergraduate,COMM    134,METZGER M J,B+,1
+M11,Undergraduate,COMM    134,METZGER M J,B,4
+M11,Undergraduate,COMM    134,METZGER M J,B-,4
+M11,Undergraduate,COMM    134,METZGER M J,C+,3
+M11,Undergraduate,COMM    134,METZGER M J,C,3
+M11,Undergraduate,COMM    134,METZGER M J,C-,2
+M11,Undergraduate,COMM    134,METZGER M J,D+,2
+M11,Undergraduate,COMM    134,METZGER M J,D,1
+M11,Undergraduate,COMM    134,METZGER M J,D-,1
+M11,Undergraduate,COMM    134,METZGER M J,F,3
+M11,Undergraduate,COMM    170,METZGER M J,A,2
+M11,Undergraduate,COMM    170,METZGER M J,A-,4
+M11,Undergraduate,COMM    170,METZGER M J,B+,6
+M11,Undergraduate,COMM    170,METZGER M J,B,4
+M11,Undergraduate,COMM    170,METZGER M J,B-,4
+M11,Undergraduate,COMM    170,METZGER M J,C+,2
+M11,Undergraduate,COMM    170,METZGER M J,C,4
+M11,Undergraduate,COMM    170,METZGER M J,C-,6
+M11,Undergraduate,COMM    170,METZGER M J,D+,1
+M11,Undergraduate,COMM    170,METZGER M J,D,1
+M11,Undergraduate,COMM    170,METZGER M J,D-,1
+M11,Undergraduate,ENGL    101,MEGNA P J,A,3
+M11,Undergraduate,ENGL    101,MEGNA P J,A-,10
+M11,Undergraduate,ENGL    101,MEGNA P J,B+,6
+M11,Undergraduate,ENGL    101,MEGNA P J,B,5
+M11,Undergraduate,ENGL    101,MEGNA P J,B-,1
+M11,Undergraduate,ENGL    101,MEGNA P J,C+,1
+M11,Undergraduate,ENGL    101,MEGNA P J,C,1
+M11,Undergraduate,ENGL    101,MEGNA P J,F,1
+M11,Undergraduate,ENGL    105B,MEYER S R,A,5
+M11,Undergraduate,ENGL    105B,MEYER S R,A-,1
+M11,Undergraduate,ENGL    105B,MEYER S R,B+,2
+M11,Undergraduate,ENGL    105B,MEYER S R,B,8
+M11,Undergraduate,ENGL    105B,MEYER S R,B-,1
+M11,Undergraduate,ENGL    105B,MEYER S R,C,2
+M11,Undergraduate,ENGL    105B,MEYER S R,C-,2
+M11,Undergraduate,ENGL    105B,MEYER S R,F,1
+M11,Undergraduate,GLOBL   130,MEHTA A S,A+,5
+M11,Undergraduate,GLOBL   130,MEHTA A S,A,10
+M11,Undergraduate,GLOBL   130,MEHTA A S,A-,5
+M11,Undergraduate,GLOBL   130,MEHTA A S,B+,9
+M11,Undergraduate,GLOBL   130,MEHTA A S,B,9
+M11,Undergraduate,GLOBL   130,MEHTA A S,B-,4
+M11,Undergraduate,GLOBL   130,MEHTA A S,C+,4
+M11,Undergraduate,GLOBL   130,MEHTA A S,C,4
+M11,Undergraduate,GLOBL   130,MEHTA A S,D,3
+M11,Undergraduate,ME       14,KIM L,A+,1
+M11,Undergraduate,ME       14,KIM L,A,6
+M11,Undergraduate,ME       14,KIM L,A-,3
+M11,Undergraduate,ME       14,KIM L,B+,1
+M11,Undergraduate,ME       14,KIM L,B,3
+M11,Undergraduate,ME       14,KIM L,B-,3
+M11,Undergraduate,ME       14,KIM L,C+,1
+M11,Undergraduate,ME       14,KIM L,C,1
+M11,Undergraduate,ME       14,KIM L,D,1
+M11,Undergraduate,ME       14,KIM L,F,1
+M11,Undergraduate,ME       15,BELTZ G,A+,1
+M11,Undergraduate,ME       15,BELTZ G,A,6
+M11,Undergraduate,ME       15,BELTZ G,A-,1
+M11,Undergraduate,ME       15,BELTZ G,B+,2
+M11,Undergraduate,ME       15,BELTZ G,B,2
+M11,Undergraduate,ME       15,BELTZ G,B-,1
+M11,Undergraduate,ME       15,BELTZ G,C+,1
+M11,Undergraduate,ME       16,KIM L,A,1
+M11,Undergraduate,ME       16,KIM L,B,1
+M11,Undergraduate,ME       16,KIM L,B-,2
+M11,Undergraduate,ME       16,KIM L,C+,1
+M11,Undergraduate,ME       16,KIM L,C,5
+M11,Undergraduate,ME       16,KIM L,C-,1
+M11,Undergraduate,ME       16,KIM L,D,4
+M11,Undergraduate,ME       16,KIM L,F,2
+M11,Undergraduate,ME       17,BUONI M J,A+,1
+M11,Undergraduate,ME       17,BUONI M J,A,1
+M11,Undergraduate,ME       17,BUONI M J,B+,1
+M11,Undergraduate,ME       17,BUONI M J,B,1
+M11,Undergraduate,ME       17,BUONI M J,B-,1
+M11,Undergraduate,ME       17,BUONI M J,C+,2
+M11,Undergraduate,ME      170C,HARE C,A,4
+M11,Undergraduate,ME      170C,HARE C,A-,1
+M11,Undergraduate,ME      170C,HARE C,B+,1
+M11,Undergraduate,ME      170C,HARE C,B,1
+M11,Undergraduate,MUS      15,METCALF S M,A+,5
+M11,Undergraduate,MUS      15,METCALF S M,A,10
+M11,Undergraduate,MUS      15,METCALF S M,A-,6
+M11,Undergraduate,MUS      15,METCALF S M,B+,5
+M11,Undergraduate,MUS      15,METCALF S M,B,13
+M11,Undergraduate,MUS      15,METCALF S M,B-,3
+M11,Undergraduate,MUS      15,METCALF S M,C+,3
+M11,Undergraduate,MUS      15,METCALF S M,C,7
+M11,Undergraduate,MUS      15,METCALF S M,C-,1
+M11,Undergraduate,MUS      15,METCALF S M,D+,1
+M11,Undergraduate,MUS      15,METCALF S M,D,4
+M11,Undergraduate,MUS      15,METCALF S M,F,1
+M11,Undergraduate,SOC     185S,MEDRANO C R,A+,6
+M11,Undergraduate,SOC     185S,MEDRANO C R,A,21
+M11,Undergraduate,SOC     185S,MEDRANO C R,A-,7
+M11,Undergraduate,SOC     185S,MEDRANO C R,B+,5
+M11,Undergraduate,SOC     185S,MEDRANO C R,B,4
+M11,Undergraduate,SOC     185S,MEDRANO C R,B-,2
+M11,Undergraduate,SOC     185S,MEDRANO C R,C+,1
+M11,Undergraduate,SOC     185S,MEDRANO C R,F,2
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,A,4
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,A-,2
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,B+,4
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,B,3
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,C+,2
+M11,Undergraduate,SPAN     16B,MEJIA-PEREZ,C,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,A,7
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,A-,3
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,B+,3
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,B,8
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,B-,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,C+,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,C,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,C-,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,D,2
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,D-,1
+M11,Undergraduate,SPAN    111B,MEJIA-PEREZ,F,4

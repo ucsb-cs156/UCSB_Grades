@@ -1,0 +1,92 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,GLOBL     1,MOAK D,A,140
+S21,Undergraduate,GLOBL     1,MOAK D,A-,67
+S21,Undergraduate,GLOBL     1,MOAK D,A+,5
+S21,Undergraduate,GLOBL     1,MOAK D,B,39
+S21,Undergraduate,GLOBL     1,MOAK D,B-,19
+S21,Undergraduate,GLOBL     1,MOAK D,B+,36
+S21,Undergraduate,GLOBL     1,MOAK D,C,4
+S21,Undergraduate,GLOBL     1,MOAK D,C-,3
+S21,Undergraduate,GLOBL     1,MOAK D,C+,9
+S21,Undergraduate,GLOBL     1,MOAK D,D+,3
+S21,Undergraduate,GLOBL     1,MOAK D,F,8
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,A,20
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,A-,17
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,A+,14
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,B,8
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,B-,3
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,B+,18
+S21,Undergraduate,GLOBL   102,JUERGENSMEYER,C+,5
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,A,15
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,A-,11
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,A+,3
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,B,6
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,B-,5
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,B+,17
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,C,3
+S21,Undergraduate,GLOBL   110,HAMED-TROYANS,F,3
+S21,Undergraduate,GLOBL   120,AMAR P E,A,17
+S21,Undergraduate,GLOBL   120,AMAR P E,A-,10
+S21,Undergraduate,GLOBL   120,AMAR P E,A+,7
+S21,Undergraduate,GLOBL   120,AMAR P E,B,1
+S21,Undergraduate,GLOBL   120,AMAR P E,B-,2
+S21,Undergraduate,GLOBL   120,AMAR P E,B+,3
+S21,Undergraduate,GLOBL   120,AMAR P E,C+,1
+S21,Undergraduate,GLOBL   120,AMAR P E,F,2
+S21,Undergraduate,GLOBL   130,MEHTA A S,A,10
+S21,Undergraduate,GLOBL   130,MEHTA A S,A-,17
+S21,Undergraduate,GLOBL   130,MEHTA A S,A+,42
+S21,Undergraduate,GLOBL   130,MEHTA A S,B,6
+S21,Undergraduate,GLOBL   130,MEHTA A S,B-,1
+S21,Undergraduate,GLOBL   130,MEHTA A S,B+,15
+S21,Undergraduate,GLOBL   130,MEHTA A S,C,4
+S21,Undergraduate,GLOBL   130,MEHTA A S,C+,3
+S21,Undergraduate,GLOBL   130,MEHTA A S,F,4
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,A,10
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,A-,4
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,A+,6
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,B-,2
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,B+,2
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,C,2
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,C-,2
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,D-,1
+S21,Undergraduate,GLOBL   147,CLITANDRE N T,F,1
+S21,Undergraduate,GLOBL   157,GHOSH B,A,6
+S21,Undergraduate,GLOBL   157,GHOSH B,A-,8
+S21,Undergraduate,GLOBL   157,GHOSH B,A+,6
+S21,Undergraduate,GLOBL   157,GHOSH B,B,1
+S21,Undergraduate,GLOBL   157,GHOSH B,B+,13
+S21,Undergraduate,GLOBL   157,GHOSH B,C,1
+S21,Undergraduate,GLOBL   157,GHOSH B,F,2
+S21,Undergraduate,GLOBL   162,AMAR P E,A,7
+S21,Undergraduate,GLOBL   162,AMAR P E,A-,10
+S21,Undergraduate,GLOBL   162,AMAR P E,A+,4
+S21,Undergraduate,GLOBL   162,AMAR P E,B,5
+S21,Undergraduate,GLOBL   162,AMAR P E,B+,9
+S21,Undergraduate,GLOBL   162,AMAR P E,F,3
+S21,Undergraduate,GLOBL   174,JACOBS R E,A,2
+S21,Undergraduate,GLOBL   174,JACOBS R E,A-,13
+S21,Undergraduate,GLOBL   174,JACOBS R E,B,4
+S21,Undergraduate,GLOBL   174,JACOBS R E,B-,1
+S21,Undergraduate,GLOBL   174,JACOBS R E,B+,9
+S21,Undergraduate,GLOBL   174,JACOBS R E,F,3
+S21,Undergraduate,GLOBL   177SJ,NOWAK J J,A,6
+S21,Undergraduate,GLOBL   177SJ,NOWAK J J,A-,1
+S21,Undergraduate,GLOBL   194,DUNNE S C,A,8
+S21,Undergraduate,GLOBL   194,DUNNE S C,A-,3
+S21,Undergraduate,GLOBL   194,DUNNE S C,A+,3
+S21,Undergraduate,GLOBL   194,DUNNE S C,B,1
+S21,Undergraduate,GLOBL   194,DUNNE S C,B+,2
+S21,Undergraduate,GLOBL   196,FAESSEL V A,A,1
+S21,Undergraduate,GLOBL   196,FAESSEL V A,A+,1
+S21,Undergraduate,GLOBL   196,FAESSEL V A,B,3
+S21,Undergraduate,GLOBL   196,FAESSEL V A,C+,1
+S21,Undergraduate,GLOBL   196,FAESSEL V A,F,1
+S21,Undergraduate,GLOBL   197,JACOBS R E,A,3
+S21,Undergraduate,GLOBL   197,JACOBS R E,A-,4
+S21,Undergraduate,GLOBL   197,JACOBS R E,B,4
+S21,Undergraduate,GLOBL   197,JACOBS R E,B-,2
+S21,Undergraduate,GLOBL   197,JACOBS R E,B+,8
+S21,Undergraduate,GLOBL   197,JACOBS R E,C-,1
+S21,Undergraduate,GLOBL   197,JACOBS R E,C+,1
+S21,Undergraduate,GLOBL   197,JACOBS R E,F,3

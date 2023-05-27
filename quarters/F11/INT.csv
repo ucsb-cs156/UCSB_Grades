@@ -1,0 +1,76 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F11,Undergraduate,INT       1,CALDWELL R C,P,24
+F11,Undergraduate,INT       1,FAULKNER J P,P,20
+F11,Undergraduate,INT       1,FAULKNER J P,NP,1
+F11,Undergraduate,INT       1,HUBER C F,P,23
+F11,Undergraduate,INT       1,MARTORANA J V,P,22
+F11,Undergraduate,INT       1,NISEN H K,P,22
+F11,Undergraduate,INT       1,WEIMER S W,P,22
+F11,Undergraduate,INT       1,WEIMER S W,NP,1
+F11,Undergraduate,INT      84IT,TALAMANTEZ I,A+,1
+F11,Undergraduate,INT      84IT,TALAMANTEZ I,A,4
+F11,Undergraduate,INT      84IT,TALAMANTEZ I,A-,2
+F11,Undergraduate,INT      84IT,TALAMANTEZ I,B,2
+F11,Undergraduate,INT      84JC,CLARK J,A,4
+F11,Undergraduate,INT      84JC,CLARK J,A-,5
+F11,Undergraduate,INT      84JC,CLARK J,B+,1
+F11,Undergraduate,INT      84JC,CLARK J,B,1
+F11,Undergraduate,INT      84VS,SCOTT V,A,8
+F11,Undergraduate,INT      84VS,SCOTT V,A-,11
+F11,Undergraduate,INT      84VS,SCOTT V,B,1
+F11,Undergraduate,INT      84VS,SCOTT V,B-,1
+F11,Undergraduate,INT      94ES,CARLSON C A,P,36
+F11,Undergraduate,INT      94ES,CARLSON C A,NP,1
+F11,Undergraduate,INT      94ES,POOLE S J,P,36
+F11,Undergraduate,INT      94ES,POOLE S J,NP,1
+F11,Undergraduate,INT      94GG,FULBECK L K,P,20
+F11,Undergraduate,INT      94GQ,GARCIA M T,P,17
+F11,Undergraduate,INT      94HG,ADAMS A J,P,11
+F11,Undergraduate,INT      94HI,REESE B E,P,11
+F11,Undergraduate,INT      94HI,REESE B E,NP,6
+F11,Undergraduate,INT      94IX,MORTON C,P,13
+F11,Undergraduate,INT      94IX,MORTON C,NP,2
+F11,Undergraduate,INT      94JM,AWRAMIK S M,P,17
+F11,Undergraduate,INT      94LQ,BARLOW C F,P,13
+F11,Undergraduate,INT      94LQ,BARLOW C F,NP,1
+F11,Undergraduate,INT      94LR,MAZER S J,P,11
+F11,Undergraduate,INT      94MB,MYERS K K,P,17
+F11,Undergraduate,INT      94MB,MYERS K K,NP,3
+F11,Undergraduate,INT      94MC,SALTZMAN-LI K,P,17
+F11,Undergraduate,INT      94MW,DEVRIES M S,P,16
+F11,Undergraduate,INT      94MZ,AFIFI T D,P,20
+F11,Undergraduate,INT      94NE,COLLINS P M,P,23
+F11,Undergraduate,INT      94NE,COLLINS P M,NP,2
+F11,Undergraduate,INT      94OB,DERWIN S,P,18
+F11,Undergraduate,INT      94OC,MOHR J,P,13
+F11,Undergraduate,INT      94OD,LUPI J P,P,19
+F11,Undergraduate,INT      94OI,BLAIN S M,P,21
+F11,Undergraduate,INT      94OJ,FORAN J F,P,20
+F11,Undergraduate,INT      94OO,CABRANES-GRAN,P,18
+F11,Undergraduate,INT      94OQ,SIEGEL G D,P,14
+F11,Undergraduate,INT      94OV,MATTHYS E F,P,14
+F11,Undergraduate,INT      94OV,MATTHYS E F,NP,5
+F11,Undergraduate,INT      94OW,BERMUDEZ S,P,14
+F11,Undergraduate,INT      94OZ,KLEIN S B,P,15
+F11,Undergraduate,INT      94PA,BLURTON H F,P,16
+F11,Undergraduate,INT      94PB,RALEY J D,P,23
+F11,Undergraduate,INT     156EE,JARRETT G C,A,4
+F11,Undergraduate,INT     156EE,JARRETT G C,A-,1
+F11,Undergraduate,INT     156EE,JARRETT G C,B+,2
+F11,Undergraduate,INT     156EE,JARRETT G C,B,1
+F11,Undergraduate,INT     156EE,JARRETT G C,C,1
+F11,Undergraduate,INT     156EE,JARRETT G C,C-,1
+F11,Undergraduate,INT     156EE,JARRETT G C,F,1
+F11,Undergraduate,INT     184AL,LINDEMANN A S,A,10
+F11,Undergraduate,INT     184AL,LINDEMANN A S,A-,1
+F11,Undergraduate,INT     184AL,LINDEMANN A S,B+,4
+F11,Undergraduate,INT     184AL,LINDEMANN A S,B-,1
+F11,Undergraduate,INT     184KM,MILLETT K C,A+,5
+F11,Undergraduate,INT     185ST,ANDERSON E K,A,15
+F11,Undergraduate,INT     185ST,ANDERSON E K,A-,1
+F11,Undergraduate,INT     185ST,ANDERSON E K,B+,1
+F11,Undergraduate,INT     185ST,ANDERSON E K,B,1
+F11,Undergraduate,INT     190MA,SCHNEIDER B E,P,7
+F11,Undergraduate,INT     190MB,SCHNEIDER B E,P,7
+F11,Graduate,INT     594ST,BERMINGHAM A,A,2
+F11,Graduate,INT     594ST,BERMINGHAM A,S,4

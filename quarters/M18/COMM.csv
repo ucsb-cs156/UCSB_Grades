@@ -1,0 +1,185 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,COMM      1,MULLIN D I,A+,1
+M18,Undergraduate,COMM      1,MULLIN D I,A,5
+M18,Undergraduate,COMM      1,MULLIN D I,A-,14
+M18,Undergraduate,COMM      1,MULLIN D I,B+,8
+M18,Undergraduate,COMM      1,MULLIN D I,B,8
+M18,Undergraduate,COMM      1,MULLIN D I,B-,12
+M18,Undergraduate,COMM      1,MULLIN D I,C+,2
+M18,Undergraduate,COMM      1,MULLIN D I,C,4
+M18,Undergraduate,COMM      1,MULLIN D I,C-,4
+M18,Undergraduate,COMM      1,MULLIN D I,D+,2
+M18,Undergraduate,COMM      1,MULLIN D I,D-,1
+M18,Undergraduate,COMM      1,MULLIN D I,F,9
+M18,Undergraduate,COMM     88,LONERGAN C A,A+,2
+M18,Undergraduate,COMM     88,LONERGAN C A,A,8
+M18,Undergraduate,COMM     88,LONERGAN C A,A-,7
+M18,Undergraduate,COMM     88,LONERGAN C A,B+,3
+M18,Undergraduate,COMM     88,LONERGAN C A,B,14
+M18,Undergraduate,COMM     88,LONERGAN C A,B-,5
+M18,Undergraduate,COMM     88,LONERGAN C A,C+,4
+M18,Undergraduate,COMM     88,LONERGAN C A,C,2
+M18,Undergraduate,COMM     88,LONERGAN C A,D+,1
+M18,Undergraduate,COMM     88,LONERGAN C A,D,1
+M18,Undergraduate,COMM     88,ZAMANZADEH N,A+,1
+M18,Undergraduate,COMM     88,ZAMANZADEH N,A,6
+M18,Undergraduate,COMM     88,ZAMANZADEH N,A-,12
+M18,Undergraduate,COMM     88,ZAMANZADEH N,B+,17
+M18,Undergraduate,COMM     88,ZAMANZADEH N,B,14
+M18,Undergraduate,COMM     88,ZAMANZADEH N,B-,5
+M18,Undergraduate,COMM     88,ZAMANZADEH N,C+,5
+M18,Undergraduate,COMM     88,ZAMANZADEH N,C,2
+M18,Undergraduate,COMM     88,ZAMANZADEH N,C-,2
+M18,Undergraduate,COMM     88,ZAMANZADEH N,D+,1
+M18,Undergraduate,COMM     88,ZAMANZADEH N,F,3
+M18,Undergraduate,COMM     89,HARRISON K E,A,1
+M18,Undergraduate,COMM     89,HARRISON K E,A-,9
+M18,Undergraduate,COMM     89,HARRISON K E,B+,9
+M18,Undergraduate,COMM     89,HARRISON K E,B,14
+M18,Undergraduate,COMM     89,HARRISON K E,B-,4
+M18,Undergraduate,COMM     89,HARRISON K E,C+,2
+M18,Undergraduate,COMM     89,HARRISON K E,C,2
+M18,Undergraduate,COMM     89,HARRISON K E,D+,1
+M18,Undergraduate,COMM     89,HARRISON K E,F,1
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,A,5
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,A-,6
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,B+,10
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,B,8
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,B-,3
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,C+,1
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,C,2
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,D,1
+M18,Undergraduate,COMM     89,MCCLELLAND-CO,F,2
+M18,Undergraduate,COMM    107,PINES R L,A+,5
+M18,Undergraduate,COMM    107,PINES R L,A,10
+M18,Undergraduate,COMM    107,PINES R L,A-,13
+M18,Undergraduate,COMM    107,PINES R L,B+,2
+M18,Undergraduate,COMM    107,PINES R L,B,4
+M18,Undergraduate,COMM    107,PINES R L,B-,1
+M18,Undergraduate,COMM    107,PINES R L,C+,1
+M18,Undergraduate,COMM    107,PINES R L,C,1
+M18,Undergraduate,COMM    111,MEROLLA A J,A,18
+M18,Undergraduate,COMM    111,MEROLLA A J,A-,2
+M18,Undergraduate,COMM    111,MEROLLA A J,B+,8
+M18,Undergraduate,COMM    111,MEROLLA A J,B,4
+M18,Undergraduate,COMM    111,MEROLLA A J,B-,2
+M18,Undergraduate,COMM    111,MEROLLA A J,C+,4
+M18,Undergraduate,COMM    111,MEROLLA A J,C,2
+M18,Undergraduate,COMM    111,MEROLLA A J,C-,2
+M18,Undergraduate,COMM    111,MEROLLA A J,D,1
+M18,Undergraduate,COMM    111,MEROLLA A J,F,1
+M18,Undergraduate,COMM    117,PEREZ TORRES,A+,2
+M18,Undergraduate,COMM    117,PEREZ TORRES,A,1
+M18,Undergraduate,COMM    117,PEREZ TORRES,A-,5
+M18,Undergraduate,COMM    117,PEREZ TORRES,B+,6
+M18,Undergraduate,COMM    117,PEREZ TORRES,B,6
+M18,Undergraduate,COMM    117,PEREZ TORRES,B-,4
+M18,Undergraduate,COMM    117,PEREZ TORRES,C+,3
+M18,Undergraduate,COMM    117,PEREZ TORRES,C,2
+M18,Undergraduate,COMM    117,PEREZ TORRES,F,3
+M18,Undergraduate,COMM    123,REID S A,A,3
+M18,Undergraduate,COMM    123,REID S A,A-,4
+M18,Undergraduate,COMM    123,REID S A,B+,9
+M18,Undergraduate,COMM    123,REID S A,B,2
+M18,Undergraduate,COMM    123,REID S A,B-,4
+M18,Undergraduate,COMM    123,REID S A,C+,6
+M18,Undergraduate,COMM    123,REID S A,C,1
+M18,Undergraduate,COMM    123,REID S A,F,3
+M18,Undergraduate,COMM    124,BERNHOLD Q S,A+,1
+M18,Undergraduate,COMM    124,BERNHOLD Q S,A,4
+M18,Undergraduate,COMM    124,BERNHOLD Q S,A-,7
+M18,Undergraduate,COMM    124,BERNHOLD Q S,B+,7
+M18,Undergraduate,COMM    124,BERNHOLD Q S,B,5
+M18,Undergraduate,COMM    124,BERNHOLD Q S,B-,9
+M18,Undergraduate,COMM    124,BERNHOLD Q S,C,2
+M18,Undergraduate,COMM    124,BERNHOLD Q S,C-,2
+M18,Undergraduate,COMM    124,BERNHOLD Q S,D+,1
+M18,Undergraduate,COMM    124,BERNHOLD Q S,D-,2
+M18,Undergraduate,COMM    124,BERNHOLD Q S,F,1
+M18,Undergraduate,COMM    126,WHITESTONE S,A+,1
+M18,Undergraduate,COMM    126,WHITESTONE S,A,4
+M18,Undergraduate,COMM    126,WHITESTONE S,A-,6
+M18,Undergraduate,COMM    126,WHITESTONE S,B+,5
+M18,Undergraduate,COMM    126,WHITESTONE S,B,4
+M18,Undergraduate,COMM    126,WHITESTONE S,B-,9
+M18,Undergraduate,COMM    126,WHITESTONE S,C+,2
+M18,Undergraduate,COMM    126,WHITESTONE S,C,3
+M18,Undergraduate,COMM    126,WHITESTONE S,C-,2
+M18,Undergraduate,COMM    126,WHITESTONE S,D+,1
+M18,Undergraduate,COMM    133,WEBER R,A+,1
+M18,Undergraduate,COMM    133,WEBER R,A,4
+M18,Undergraduate,COMM    133,WEBER R,A-,11
+M18,Undergraduate,COMM    133,WEBER R,B+,9
+M18,Undergraduate,COMM    133,WEBER R,B,10
+M18,Undergraduate,COMM    133,WEBER R,B-,1
+M18,Undergraduate,COMM    133,WEBER R,C+,4
+M18,Undergraduate,COMM    133,WEBER R,C,5
+M18,Undergraduate,COMM    133,WEBER R,C-,1
+M18,Undergraduate,COMM    133,WEBER R,D+,1
+M18,Undergraduate,COMM    133,WEBER R,F,2
+M18,Undergraduate,COMM    145,MULLIN C R,A,10
+M18,Undergraduate,COMM    145,MULLIN C R,A-,3
+M18,Undergraduate,COMM    145,MULLIN C R,B+,4
+M18,Undergraduate,COMM    145,MULLIN C R,B,8
+M18,Undergraduate,COMM    145,MULLIN C R,B-,6
+M18,Undergraduate,COMM    145,MULLIN C R,C,3
+M18,Undergraduate,COMM    145,MULLIN C R,F,1
+M18,Undergraduate,COMM    151,AFIFI T D,A,5
+M18,Undergraduate,COMM    151,AFIFI T D,A-,12
+M18,Undergraduate,COMM    151,AFIFI T D,B+,4
+M18,Undergraduate,COMM    151,AFIFI T D,B,3
+M18,Undergraduate,COMM    151,AFIFI T D,B-,4
+M18,Undergraduate,COMM    151,AFIFI T D,C+,1
+M18,Undergraduate,COMM    151,AFIFI T D,C,1
+M18,Undergraduate,COMM    151,AFIFI T D,C-,1
+M18,Undergraduate,COMM    151,AFIFI T D,D+,2
+M18,Undergraduate,COMM    151,AFIFI T D,F,2
+M18,Undergraduate,COMM    152,MYERS K K,A,4
+M18,Undergraduate,COMM    152,MYERS K K,A-,3
+M18,Undergraduate,COMM    152,MYERS K K,B+,11
+M18,Undergraduate,COMM    152,MYERS K K,B,9
+M18,Undergraduate,COMM    152,MYERS K K,B-,2
+M18,Undergraduate,COMM    152,MYERS K K,C+,5
+M18,Undergraduate,COMM    152,MYERS K K,C,2
+M18,Undergraduate,COMM    152,MYERS K K,C-,1
+M18,Undergraduate,COMM    152,MYERS K K,F,2
+M18,Undergraduate,COMM    154,WEBER R,A,9
+M18,Undergraduate,COMM    154,WEBER R,A-,4
+M18,Undergraduate,COMM    154,WEBER R,B+,10
+M18,Undergraduate,COMM    154,WEBER R,B,5
+M18,Undergraduate,COMM    154,WEBER R,B-,7
+M18,Undergraduate,COMM    154,WEBER R,C+,5
+M18,Undergraduate,COMM    154,WEBER R,C,3
+M18,Undergraduate,COMM    154,WEBER R,D+,1
+M18,Undergraduate,COMM    154,WEBER R,D,1
+M18,Undergraduate,COMM    154,WEBER R,F,2
+M18,Undergraduate,COMM    166,MYERS K K,A,7
+M18,Undergraduate,COMM    166,MYERS K K,A-,8
+M18,Undergraduate,COMM    166,MYERS K K,B+,6
+M18,Undergraduate,COMM    166,MYERS K K,B,5
+M18,Undergraduate,COMM    166,MYERS K K,B-,4
+M18,Undergraduate,COMM    166,MYERS K K,C+,4
+M18,Undergraduate,COMM    166,MYERS K K,C,1
+M18,Undergraduate,COMM    166,MYERS K K,C-,2
+M18,Undergraduate,COMM    166,MYERS K K,F,1
+M18,Undergraduate,COMM    178,ALDEIS M D,A,1
+M18,Undergraduate,COMM    178,ALDEIS M D,A-,9
+M18,Undergraduate,COMM    178,ALDEIS M D,B+,15
+M18,Undergraduate,COMM    178,ALDEIS M D,B,9
+M18,Undergraduate,COMM    178,ALDEIS M D,B-,25
+M18,Undergraduate,COMM    178,ALDEIS M D,C+,10
+M18,Undergraduate,COMM    178,ALDEIS M D,C,10
+M18,Undergraduate,COMM    178,ALDEIS M D,C-,8
+M18,Undergraduate,COMM    178,ALDEIS M D,D+,7
+M18,Undergraduate,COMM    178,ALDEIS M D,D,2
+M18,Undergraduate,COMM    178,ALDEIS M D,D-,4
+M18,Undergraduate,COMM    178,ALDEIS M D,F,4
+M18,Undergraduate,COMM    179,MULLIN C R,A+,1
+M18,Undergraduate,COMM    179,MULLIN C R,A,6
+M18,Undergraduate,COMM    179,MULLIN C R,A-,4
+M18,Undergraduate,COMM    179,MULLIN C R,B+,2
+M18,Undergraduate,COMM    179,MULLIN C R,B,7
+M18,Undergraduate,COMM    179,MULLIN C R,B-,1
+M18,Undergraduate,COMM    179,MULLIN C R,C,2
+M18,Undergraduate,COMM    179,MULLIN C R,F,1
+M18,Undergraduate,COMM    197,MULLIN C R,P,8

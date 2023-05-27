@@ -1,0 +1,199 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W21,Undergraduate,RG ST     1,HILLIS G A,A+,1
+W21,Undergraduate,RG ST     1,HILLIS G A,A,28
+W21,Undergraduate,RG ST     1,HILLIS G A,A-,26
+W21,Undergraduate,RG ST     1,HILLIS G A,B+,13
+W21,Undergraduate,RG ST     1,HILLIS G A,B,16
+W21,Undergraduate,RG ST     1,HILLIS G A,B-,10
+W21,Undergraduate,RG ST     1,HILLIS G A,C+,6
+W21,Undergraduate,RG ST     1,HILLIS G A,C,3
+W21,Undergraduate,RG ST     1,HILLIS G A,C-,2
+W21,Undergraduate,RG ST     1,HILLIS G A,D+,2
+W21,Undergraduate,RG ST     1,HILLIS G A,D,1
+W21,Undergraduate,RG ST     1,HILLIS G A,F,4
+W21,Undergraduate,RG ST     4,HILLIS G A,A+,36
+W21,Undergraduate,RG ST     4,HILLIS G A,A,34
+W21,Undergraduate,RG ST     4,HILLIS G A,A-,14
+W21,Undergraduate,RG ST     4,HILLIS G A,B+,8
+W21,Undergraduate,RG ST     4,HILLIS G A,B,8
+W21,Undergraduate,RG ST     4,HILLIS G A,B-,7
+W21,Undergraduate,RG ST     4,HILLIS G A,C,1
+W21,Undergraduate,RG ST     4,HILLIS G A,D+,1
+W21,Undergraduate,RG ST     4,HILLIS G A,F,2
+W21,Undergraduate,RG ST     7,WALKER D S,A+,32
+W21,Undergraduate,RG ST     7,WALKER D S,A,38
+W21,Undergraduate,RG ST     7,WALKER D S,A-,11
+W21,Undergraduate,RG ST     7,WALKER D S,B+,11
+W21,Undergraduate,RG ST     7,WALKER D S,B,2
+W21,Undergraduate,RG ST     7,WALKER D S,B-,4
+W21,Undergraduate,RG ST     7,WALKER D S,C+,1
+W21,Undergraduate,RG ST     7,WALKER D S,C,3
+W21,Undergraduate,RG ST     7,WALKER D S,D-,1
+W21,Undergraduate,RG ST     7,WALKER D S,F,5
+W21,Undergraduate,RG ST    10,AMIHAY A,A+,3
+W21,Undergraduate,RG ST    10,AMIHAY A,A,19
+W21,Undergraduate,RG ST    10,AMIHAY A,A-,1
+W21,Undergraduate,RG ST    10,AMIHAY A,B+,6
+W21,Undergraduate,RG ST    10,AMIHAY A,B,3
+W21,Undergraduate,RG ST    10,AMIHAY A,B-,8
+W21,Undergraduate,RG ST    10,AMIHAY A,F,3
+W21,Undergraduate,RG ST    10B,CAMPO M,A+,10
+W21,Undergraduate,RG ST    10B,CAMPO M,A,8
+W21,Undergraduate,RG ST    10B,CAMPO M,A-,1
+W21,Undergraduate,RG ST    10B,CAMPO M,B+,1
+W21,Undergraduate,RG ST    10B,CAMPO M,B,1
+W21,Undergraduate,RG ST    10B,CAMPO M,C,2
+W21,Undergraduate,RG ST    10B,CAMPO M,F,1
+W21,Undergraduate,RG ST    10E,CAMPO M,A+,6
+W21,Undergraduate,RG ST    10E,CAMPO M,A,1
+W21,Undergraduate,RG ST    10E,CAMPO M,B+,1
+W21,Undergraduate,RG ST    10E,CAMPO M,B,5
+W21,Undergraduate,RG ST    10E,CAMPO M,C+,2
+W21,Undergraduate,RG ST    10E,CAMPO M,D+,1
+W21,Undergraduate,RG ST    10E,CAMPO M,D,1
+W21,Undergraduate,RG ST    11B,VYAS M M,A,2
+W21,Undergraduate,RG ST    11B,VYAS M M,A-,1
+W21,Undergraduate,RG ST    11B,VYAS M M,B+,1
+W21,Undergraduate,RG ST    11B,VYAS M M,B-,1
+W21,Undergraduate,RG ST    12,WHITE D G,A+,45
+W21,Undergraduate,RG ST    12,WHITE D G,A,111
+W21,Undergraduate,RG ST    12,WHITE D G,A-,84
+W21,Undergraduate,RG ST    12,WHITE D G,B+,81
+W21,Undergraduate,RG ST    12,WHITE D G,B,44
+W21,Undergraduate,RG ST    12,WHITE D G,B-,31
+W21,Undergraduate,RG ST    12,WHITE D G,C+,20
+W21,Undergraduate,RG ST    12,WHITE D G,C,11
+W21,Undergraduate,RG ST    12,WHITE D G,C-,4
+W21,Undergraduate,RG ST    12,WHITE D G,D+,8
+W21,Undergraduate,RG ST    12,WHITE D G,D-,2
+W21,Undergraduate,RG ST    12,WHITE D G,F,33
+W21,Undergraduate,RG ST    24,THOMAS C M,A+,11
+W21,Undergraduate,RG ST    24,THOMAS C M,A,9
+W21,Undergraduate,RG ST    24,THOMAS C M,A-,2
+W21,Undergraduate,RG ST    24,THOMAS C M,B+,4
+W21,Undergraduate,RG ST    24,THOMAS C M,B,6
+W21,Undergraduate,RG ST    24,THOMAS C M,B-,1
+W21,Undergraduate,RG ST    24,THOMAS C M,C+,1
+W21,Undergraduate,RG ST    24,THOMAS C M,D,1
+W21,Undergraduate,RG ST    24,THOMAS C M,F,7
+W21,Undergraduate,RG ST    27,WOLFSON E R,A+,9
+W21,Undergraduate,RG ST    27,WOLFSON E R,A,10
+W21,Undergraduate,RG ST    27,WOLFSON E R,A-,3
+W21,Undergraduate,RG ST    27,WOLFSON E R,B+,7
+W21,Undergraduate,RG ST    27,WOLFSON E R,B,2
+W21,Undergraduate,RG ST    27,WOLFSON E R,B-,1
+W21,Undergraduate,RG ST    27,WOLFSON E R,C,1
+W21,Undergraduate,RG ST    27,WOLFSON E R,C-,1
+W21,Undergraduate,RG ST    27,WOLFSON E R,D,1
+W21,Undergraduate,RG ST    27,WOLFSON E R,F,10
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,A+,3
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,A,11
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,A-,2
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,B+,1
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,B,1
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,C-,1
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,D,1
+W21,Undergraduate,RG ST    47,STEAVU-BALINT,F,1
+W21,Undergraduate,RG ST    57B,FEIZMOHAMMADP,A+,16
+W21,Undergraduate,RG ST    57B,FEIZMOHAMMADP,A,1
+W21,Undergraduate,RG ST    57B,FEIZMOHAMMADP,A-,1
+W21,Undergraduate,RG ST    57B,FEIZMOHAMMADP,B-,1
+W21,Undergraduate,RG ST    58B,RIAZI T,A,1
+W21,Undergraduate,RG ST    58B,RIAZI T,A-,1
+W21,Undergraduate,RG ST    58B,RIAZI T,B,2
+W21,Undergraduate,RG ST    58B,RIAZI T,B-,1
+W21,Undergraduate,RG ST    65B,RAMBELLI F,A+,1
+W21,Undergraduate,RG ST    65B,RAMBELLI F,A,4
+W21,Undergraduate,RG ST    65B,RAMBELLI F,A-,1
+W21,Undergraduate,RG ST   104,JOHNSON G B,A+,3
+W21,Undergraduate,RG ST   104,JOHNSON G B,A,8
+W21,Undergraduate,RG ST   104,JOHNSON G B,A-,1
+W21,Undergraduate,RG ST   104,JOHNSON G B,B+,1
+W21,Undergraduate,RG ST   115G,GARR W R,A+,1
+W21,Undergraduate,RG ST   115G,GARR W R,A,5
+W21,Undergraduate,RG ST   115G,GARR W R,A-,3
+W21,Undergraduate,RG ST   115G,GARR W R,B+,1
+W21,Undergraduate,RG ST   115G,GARR W R,B,2
+W21,Undergraduate,RG ST   127A,EVANS M M,A,6
+W21,Undergraduate,RG ST   127A,EVANS M M,A-,2
+W21,Undergraduate,RG ST   127A,EVANS M M,B+,1
+W21,Undergraduate,RG ST   127A,EVANS M M,B,2
+W21,Undergraduate,RG ST   127A,EVANS M M,C,2
+W21,Undergraduate,RG ST   127B,MORALES C T,A+,2
+W21,Undergraduate,RG ST   127B,MORALES C T,A,2
+W21,Undergraduate,RG ST   127B,MORALES C T,A-,3
+W21,Undergraduate,RG ST   127B,MORALES C T,B+,4
+W21,Undergraduate,RG ST   127B,MORALES C T,B,3
+W21,Undergraduate,RG ST   127B,MORALES C T,B-,1
+W21,Undergraduate,RG ST   127B,MORALES C T,C,1
+W21,Undergraduate,RG ST   127B,MORALES C T,F,2
+W21,Undergraduate,RG ST   131F,HECHT R,A+,2
+W21,Undergraduate,RG ST   131F,HECHT R,A,71
+W21,Undergraduate,RG ST   131F,HECHT R,A-,12
+W21,Undergraduate,RG ST   131F,HECHT R,B+,5
+W21,Undergraduate,RG ST   131F,HECHT R,B,5
+W21,Undergraduate,RG ST   131F,HECHT R,B-,4
+W21,Undergraduate,RG ST   131F,HECHT R,C,2
+W21,Undergraduate,RG ST   131F,HECHT R,F,4
+W21,Undergraduate,RG ST   131H,HECHT R,A,32
+W21,Undergraduate,RG ST   131H,HECHT R,A-,6
+W21,Undergraduate,RG ST   131H,HECHT R,B+,1
+W21,Undergraduate,RG ST   131H,HECHT R,B,5
+W21,Undergraduate,RG ST   131H,HECHT R,B-,3
+W21,Undergraduate,RG ST   131H,HECHT R,C,2
+W21,Undergraduate,RG ST   131H,HECHT R,C-,1
+W21,Undergraduate,RG ST   131H,HECHT R,F,5
+W21,Undergraduate,RG ST   131J,AMIHAY A,A,7
+W21,Undergraduate,RG ST   131J,AMIHAY A,A-,6
+W21,Undergraduate,RG ST   131J,AMIHAY A,B+,6
+W21,Undergraduate,RG ST   131J,AMIHAY A,B,1
+W21,Undergraduate,RG ST   140A,TUNC E,A+,1
+W21,Undergraduate,RG ST   140A,TUNC E,A,13
+W21,Undergraduate,RG ST   140A,TUNC E,A-,5
+W21,Undergraduate,RG ST   140A,TUNC E,B+,5
+W21,Undergraduate,RG ST   140A,TUNC E,B,1
+W21,Undergraduate,RG ST   140A,TUNC E,B-,5
+W21,Undergraduate,RG ST   140A,TUNC E,C-,1
+W21,Undergraduate,RG ST   148B,REYNOLDS D F,A+,2
+W21,Undergraduate,RG ST   148B,REYNOLDS D F,A,6
+W21,Undergraduate,RG ST   148B,REYNOLDS D F,A-,1
+W21,Undergraduate,RG ST   150B,WALKER D S,A+,2
+W21,Undergraduate,RG ST   150B,WALKER D S,A,9
+W21,Undergraduate,RG ST   150B,WALKER D S,B+,1
+W21,Undergraduate,RG ST   150B,WALKER D S,B-,1
+W21,Undergraduate,RG ST   156BE,JARRETT G C,A+,2
+W21,Undergraduate,RG ST   156BE,JARRETT G C,A,10
+W21,Undergraduate,RG ST   156BE,JARRETT G C,A-,6
+W21,Undergraduate,RG ST   156BE,JARRETT G C,B+,9
+W21,Undergraduate,RG ST   156BE,JARRETT G C,B,2
+W21,Undergraduate,RG ST   156BE,JARRETT G C,C+,3
+W21,Undergraduate,RG ST   158E,FEIZMOHAMMADP,A+,10
+W21,Undergraduate,RG ST   158E,FEIZMOHAMMADP,A,2
+W21,Undergraduate,RG ST   158E,FEIZMOHAMMADP,C,1
+W21,Undergraduate,RG ST   159B,HILLIS G A,A+,3
+W21,Undergraduate,RG ST   159B,HILLIS G A,A,3
+W21,Undergraduate,RG ST   179B,WOLFSON E R,A,3
+W21,Undergraduate,RG ST   179B,WOLFSON E R,A-,1
+W21,Undergraduate,RG ST   179B,WOLFSON E R,B+,2
+W21,Undergraduate,RG ST   179B,WOLFSON E R,B,1
+W21,Undergraduate,RG ST   179B,WOLFSON E R,B-,1
+W21,Undergraduate,RG ST   179B,WOLFSON E R,C+,1
+W21,Undergraduate,RG ST   179B,WOLFSON E R,F,4
+W21,Undergraduate,RG ST   185,CAMPO J E,A+,1
+W21,Undergraduate,RG ST   185,CAMPO J E,A,12
+W21,Undergraduate,RG ST   185,CAMPO J E,A-,3
+W21,Undergraduate,RG ST   185,CAMPO J E,B+,2
+W21,Undergraduate,RG ST   185,CAMPO J E,B,9
+W21,Undergraduate,RG ST   185,CAMPO J E,B-,2
+W21,Undergraduate,RG ST   185,CAMPO J E,C,5
+W21,Undergraduate,RG ST   185,CAMPO J E,D,2
+W21,Undergraduate,RG ST   190NV,DICKSTEIN J H,A,6
+W21,Undergraduate,RG ST   190NV,DICKSTEIN J H,A-,3
+W21,Undergraduate,RG ST   190NV,DICKSTEIN J H,B+,4
+W21,Undergraduate,RG ST   190NV,DICKSTEIN J H,B,1
+W21,Undergraduate,RG ST   190TC,CARLSON T A,A,4
+W21,Undergraduate,RG ST   190TC,CARLSON T A,C+,1
+W21,Undergraduate,RG ST   198IS,AFARY J,A,14
+W21,Graduate,RG ST   200B,CARLSON T A,A,6
+W21,Graduate,RG ST   599,CABEZON J I,S,5
+W21,Graduate,RG ST   599,CABEZON J I,U,1

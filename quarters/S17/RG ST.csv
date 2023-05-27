@@ -1,0 +1,289 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S17,Undergraduate,RG ST     1,CAMPO J E,A+,3
+S17,Undergraduate,RG ST     1,CAMPO J E,A,14
+S17,Undergraduate,RG ST     1,CAMPO J E,A-,18
+S17,Undergraduate,RG ST     1,CAMPO J E,B+,15
+S17,Undergraduate,RG ST     1,CAMPO J E,B,44
+S17,Undergraduate,RG ST     1,CAMPO J E,B-,9
+S17,Undergraduate,RG ST     1,CAMPO J E,C+,12
+S17,Undergraduate,RG ST     1,CAMPO J E,C,7
+S17,Undergraduate,RG ST     1,CAMPO J E,D,2
+S17,Undergraduate,RG ST     1,CAMPO J E,F,4
+S17,Undergraduate,RG ST     3,HILLIS G A,A+,3
+S17,Undergraduate,RG ST     3,HILLIS G A,A,21
+S17,Undergraduate,RG ST     3,HILLIS G A,A-,13
+S17,Undergraduate,RG ST     3,HILLIS G A,B+,6
+S17,Undergraduate,RG ST     3,HILLIS G A,B,5
+S17,Undergraduate,RG ST     3,HILLIS G A,B-,3
+S17,Undergraduate,RG ST     3,HILLIS G A,C+,4
+S17,Undergraduate,RG ST     3,HILLIS G A,C,2
+S17,Undergraduate,RG ST     3,HILLIS G A,C-,1
+S17,Undergraduate,RG ST     3,HILLIS G A,F,2
+S17,Undergraduate,RG ST    10C,CAMPO M,A+,2
+S17,Undergraduate,RG ST    10C,CAMPO M,A,5
+S17,Undergraduate,RG ST    10C,CAMPO M,A-,5
+S17,Undergraduate,RG ST    10C,CAMPO M,B+,8
+S17,Undergraduate,RG ST    10C,CAMPO M,B,2
+S17,Undergraduate,RG ST    10C,CAMPO M,B-,1
+S17,Undergraduate,RG ST    10C,CAMPO M,C+,1
+S17,Undergraduate,RG ST    10C,CAMPO M,C,3
+S17,Undergraduate,RG ST    10C,CAMPO M,D,2
+S17,Undergraduate,RG ST    10C,CAMPO M,D-,3
+S17,Undergraduate,RG ST    10C,CAMPO M,F,1
+S17,Undergraduate,RG ST    10F,EL OMARI R M,A+,4
+S17,Undergraduate,RG ST    10F,EL OMARI R M,A,4
+S17,Undergraduate,RG ST    10F,EL OMARI R M,A-,3
+S17,Undergraduate,RG ST    10F,EL OMARI R M,B+,1
+S17,Undergraduate,RG ST    10F,EL OMARI R M,B-,3
+S17,Undergraduate,RG ST    10F,EL OMARI R M,C+,1
+S17,Undergraduate,RG ST    11C,FOWLER D S,A+,2
+S17,Undergraduate,RG ST    11C,FOWLER D S,A,2
+S17,Undergraduate,RG ST    11C,FOWLER D S,B+,1
+S17,Undergraduate,RG ST    11C,FOWLER D S,B,1
+S17,Undergraduate,RG ST    11C,FOWLER D S,B-,1
+S17,Undergraduate,RG ST    19,HOLDREGE B A,A,38
+S17,Undergraduate,RG ST    19,HOLDREGE B A,A-,45
+S17,Undergraduate,RG ST    19,HOLDREGE B A,B+,18
+S17,Undergraduate,RG ST    19,HOLDREGE B A,B,11
+S17,Undergraduate,RG ST    19,HOLDREGE B A,B-,7
+S17,Undergraduate,RG ST    19,HOLDREGE B A,C+,8
+S17,Undergraduate,RG ST    19,HOLDREGE B A,C,4
+S17,Undergraduate,RG ST    19,HOLDREGE B A,C-,1
+S17,Undergraduate,RG ST    19,HOLDREGE B A,D,1
+S17,Undergraduate,RG ST    19,HOLDREGE B A,F,16
+S17,Undergraduate,RG ST    20,FOWLER D S,A+,4
+S17,Undergraduate,RG ST    20,FOWLER D S,A,10
+S17,Undergraduate,RG ST    20,FOWLER D S,A-,13
+S17,Undergraduate,RG ST    20,FOWLER D S,B+,6
+S17,Undergraduate,RG ST    20,FOWLER D S,B,10
+S17,Undergraduate,RG ST    20,FOWLER D S,B-,3
+S17,Undergraduate,RG ST    20,FOWLER D S,C+,4
+S17,Undergraduate,RG ST    20,FOWLER D S,C,3
+S17,Undergraduate,RG ST    20,FOWLER D S,D+,1
+S17,Undergraduate,RG ST    20,FOWLER D S,D-,2
+S17,Undergraduate,RG ST    20,FOWLER D S,F,1
+S17,Undergraduate,RG ST    57D,FEIZMOHAMMADP,A+,18
+S17,Undergraduate,RG ST    62,PEREZ E,A+,2
+S17,Undergraduate,RG ST    62,PEREZ E,A,7
+S17,Undergraduate,RG ST    62,PEREZ E,A-,11
+S17,Undergraduate,RG ST    62,PEREZ E,B+,7
+S17,Undergraduate,RG ST    62,PEREZ E,B,10
+S17,Undergraduate,RG ST    62,PEREZ E,B-,4
+S17,Undergraduate,RG ST    62,PEREZ E,C-,1
+S17,Undergraduate,RG ST    62,PEREZ E,D+,1
+S17,Undergraduate,RG ST    71,BUSTO R V,A,6
+S17,Undergraduate,RG ST    71,BUSTO R V,A-,17
+S17,Undergraduate,RG ST    71,BUSTO R V,B+,16
+S17,Undergraduate,RG ST    71,BUSTO R V,B,15
+S17,Undergraduate,RG ST    71,BUSTO R V,B-,16
+S17,Undergraduate,RG ST    71,BUSTO R V,C+,9
+S17,Undergraduate,RG ST    71,BUSTO R V,C,8
+S17,Undergraduate,RG ST    71,BUSTO R V,C-,4
+S17,Undergraduate,RG ST    71,BUSTO R V,D+,3
+S17,Undergraduate,RG ST    71,BUSTO R V,D-,1
+S17,Undergraduate,RG ST    71,BUSTO R V,F,3
+S17,Undergraduate,RG ST    80C,WISEMAN W A,A,13
+S17,Undergraduate,RG ST    80C,WISEMAN W A,A-,3
+S17,Undergraduate,RG ST    80C,WISEMAN W A,B+,9
+S17,Undergraduate,RG ST    80C,WISEMAN W A,B,9
+S17,Undergraduate,RG ST    80C,WISEMAN W A,B-,5
+S17,Undergraduate,RG ST    80C,WISEMAN W A,C+,4
+S17,Undergraduate,RG ST    80C,WISEMAN W A,C,19
+S17,Undergraduate,RG ST    80C,WISEMAN W A,D+,1
+S17,Undergraduate,RG ST    80C,WISEMAN W A,D,1
+S17,Undergraduate,RG ST    80C,WISEMAN W A,F,21
+S17,Undergraduate,RG ST    81,AFARY J,A,4
+S17,Undergraduate,RG ST    81,AFARY J,A-,14
+S17,Undergraduate,RG ST    81,AFARY J,B+,6
+S17,Undergraduate,RG ST    81,AFARY J,B,3
+S17,Undergraduate,RG ST    81,AFARY J,B-,2
+S17,Undergraduate,RG ST    81,AFARY J,C+,1
+S17,Undergraduate,RG ST    81,AFARY J,C,2
+S17,Undergraduate,RG ST    81,AFARY J,D,1
+S17,Undergraduate,RG ST    81,AFARY J,F,1
+S17,Undergraduate,RG ST    84,EL OMARI R M,A+,3
+S17,Undergraduate,RG ST    84,EL OMARI R M,A,6
+S17,Undergraduate,RG ST    84,EL OMARI R M,A-,7
+S17,Undergraduate,RG ST    84,EL OMARI R M,B+,3
+S17,Undergraduate,RG ST    84,EL OMARI R M,B-,1
+S17,Undergraduate,RG ST    84,EL OMARI R M,C+,2
+S17,Undergraduate,RG ST    84,EL OMARI R M,C-,2
+S17,Undergraduate,RG ST    84,EL OMARI R M,F,3
+S17,Undergraduate,RG ST    90AC,MOORE K M,A,3
+S17,Undergraduate,RG ST    90AC,MOORE K M,B,2
+S17,Undergraduate,RG ST   102A,MOORE K M,A+,1
+S17,Undergraduate,RG ST   102A,MOORE K M,A,10
+S17,Undergraduate,RG ST   102A,MOORE K M,A-,4
+S17,Undergraduate,RG ST   102A,MOORE K M,B+,1
+S17,Undergraduate,RG ST   102A,MOORE K M,B,1
+S17,Undergraduate,RG ST   108,MOORE K M,A+,3
+S17,Undergraduate,RG ST   108,MOORE K M,A,22
+S17,Undergraduate,RG ST   108,MOORE K M,A-,29
+S17,Undergraduate,RG ST   108,MOORE K M,B+,19
+S17,Undergraduate,RG ST   108,MOORE K M,B,5
+S17,Undergraduate,RG ST   108,MOORE K M,B-,3
+S17,Undergraduate,RG ST   108,MOORE K M,F,1
+S17,Undergraduate,RG ST   110G,AMIHAY O,A+,2
+S17,Undergraduate,RG ST   110G,AMIHAY O,A,6
+S17,Undergraduate,RG ST   110G,AMIHAY O,A-,3
+S17,Undergraduate,RG ST   110G,AMIHAY O,B+,6
+S17,Undergraduate,RG ST   110G,AMIHAY O,B,4
+S17,Undergraduate,RG ST   110G,AMIHAY O,B-,2
+S17,Undergraduate,RG ST   110G,AMIHAY O,C+,1
+S17,Undergraduate,RG ST   110G,AMIHAY O,C,1
+S17,Undergraduate,RG ST   111,AFARY J,A+,3
+S17,Undergraduate,RG ST   111,AFARY J,A,3
+S17,Undergraduate,RG ST   111,AFARY J,A-,5
+S17,Undergraduate,RG ST   111,AFARY J,B+,6
+S17,Undergraduate,RG ST   111,AFARY J,D,1
+S17,Undergraduate,RG ST   111,AFARY J,F,2
+S17,Undergraduate,RG ST   115A,AMIHAY A,A+,1
+S17,Undergraduate,RG ST   115A,AMIHAY A,A,5
+S17,Undergraduate,RG ST   115A,AMIHAY A,A-,5
+S17,Undergraduate,RG ST   115A,AMIHAY A,B+,6
+S17,Undergraduate,RG ST   115A,AMIHAY A,B,10
+S17,Undergraduate,RG ST   115A,AMIHAY A,B-,3
+S17,Undergraduate,RG ST   115A,AMIHAY A,C+,1
+S17,Undergraduate,RG ST   115A,AMIHAY A,C,2
+S17,Undergraduate,RG ST   116C,THOMAS C M,A+,6
+S17,Undergraduate,RG ST   116C,THOMAS C M,A,10
+S17,Undergraduate,RG ST   116C,THOMAS C M,A-,6
+S17,Undergraduate,RG ST   116C,THOMAS C M,B+,5
+S17,Undergraduate,RG ST   116C,THOMAS C M,B,3
+S17,Undergraduate,RG ST   116C,THOMAS C M,B-,1
+S17,Undergraduate,RG ST   116C,THOMAS C M,F,1
+S17,Undergraduate,RG ST   119A,AHMAD A A,A,3
+S17,Undergraduate,RG ST   119A,AHMAD A A,A-,7
+S17,Undergraduate,RG ST   119A,AHMAD A A,B+,2
+S17,Undergraduate,RG ST   119A,AHMAD A A,B,3
+S17,Undergraduate,RG ST   119A,AHMAD A A,B-,3
+S17,Undergraduate,RG ST   119A,AHMAD A A,C+,3
+S17,Undergraduate,RG ST   119A,AHMAD A A,D+,1
+S17,Undergraduate,RG ST   119B,AHMAD A A,A,7
+S17,Undergraduate,RG ST   119B,AHMAD A A,A-,3
+S17,Undergraduate,RG ST   119B,AHMAD A A,B+,2
+S17,Undergraduate,RG ST   119B,AHMAD A A,B,4
+S17,Undergraduate,RG ST   119B,AHMAD A A,B-,4
+S17,Undergraduate,RG ST   119B,AHMAD A A,C-,1
+S17,Undergraduate,RG ST   119B,AHMAD A A,D+,1
+S17,Undergraduate,RG ST   124G,PEREZ E,A,4
+S17,Undergraduate,RG ST   124G,PEREZ E,A-,5
+S17,Undergraduate,RG ST   124G,PEREZ E,B+,7
+S17,Undergraduate,RG ST   124G,PEREZ E,B,8
+S17,Undergraduate,RG ST   124G,PEREZ E,B-,5
+S17,Undergraduate,RG ST   124G,PEREZ E,C+,1
+S17,Undergraduate,RG ST   124G,PEREZ E,C,1
+S17,Undergraduate,RG ST   124G,PEREZ E,D+,1
+S17,Undergraduate,RG ST   127B,WISEMAN W A,A,3
+S17,Undergraduate,RG ST   127B,WISEMAN W A,A-,3
+S17,Undergraduate,RG ST   127B,WISEMAN W A,B+,6
+S17,Undergraduate,RG ST   127B,WISEMAN W A,B,1
+S17,Undergraduate,RG ST   127B,WISEMAN W A,F,2
+S17,Undergraduate,RG ST   131D,HECHT R,A,11
+S17,Undergraduate,RG ST   131D,HECHT R,A-,14
+S17,Undergraduate,RG ST   131D,HECHT R,B+,1
+S17,Undergraduate,RG ST   131D,HECHT R,B,2
+S17,Undergraduate,RG ST   131D,HECHT R,B-,3
+S17,Undergraduate,RG ST   131D,HECHT R,C+,3
+S17,Undergraduate,RG ST   131D,HECHT R,C,11
+S17,Undergraduate,RG ST   131D,HECHT R,C-,1
+S17,Undergraduate,RG ST   131D,HECHT R,D,3
+S17,Undergraduate,RG ST   131D,HECHT R,F,5
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,A,5
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,A-,3
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,B+,2
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,B,3
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,B-,1
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,C+,1
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,C,1
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,D+,1
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,D,1
+S17,Undergraduate,RG ST   131J,HOLDREGE B A,F,3
+S17,Undergraduate,RG ST   138D,KNIGHT K T,A,7
+S17,Undergraduate,RG ST   138D,KNIGHT K T,A-,2
+S17,Undergraduate,RG ST   138D,KNIGHT K T,B+,1
+S17,Undergraduate,RG ST   138D,KNIGHT K T,B,6
+S17,Undergraduate,RG ST   138D,KNIGHT K T,B-,1
+S17,Undergraduate,RG ST   138D,KNIGHT K T,C+,1
+S17,Undergraduate,RG ST   138D,KNIGHT K T,C-,1
+S17,Undergraduate,RG ST   138D,KNIGHT K T,F,1
+S17,Undergraduate,RG ST   141,COLEMAN K A,A,23
+S17,Undergraduate,RG ST   141,COLEMAN K A,A-,2
+S17,Undergraduate,RG ST   141,COLEMAN K A,B+,2
+S17,Undergraduate,RG ST   141,COLEMAN K A,B,1
+S17,Undergraduate,RG ST   141,COLEMAN K A,B-,3
+S17,Undergraduate,RG ST   141,COLEMAN K A,C,1
+S17,Undergraduate,RG ST   141,COLEMAN K A,F,2
+S17,Undergraduate,RG ST   154,HARRIS L S,A,8
+S17,Undergraduate,RG ST   154,HARRIS L S,A-,3
+S17,Undergraduate,RG ST   154,HARRIS L S,B+,3
+S17,Undergraduate,RG ST   154,HARRIS L S,B,1
+S17,Undergraduate,RG ST   154,HARRIS L S,B-,1
+S17,Undergraduate,RG ST   154,HARRIS L S,D+,1
+S17,Undergraduate,RG ST   154,HECHT R,A,8
+S17,Undergraduate,RG ST   154,HECHT R,A-,3
+S17,Undergraduate,RG ST   154,HECHT R,B+,3
+S17,Undergraduate,RG ST   154,HECHT R,B,1
+S17,Undergraduate,RG ST   154,HECHT R,B-,1
+S17,Undergraduate,RG ST   154,HECHT R,D+,1
+S17,Undergraduate,RG ST   156CI,HAMILTON N C,A+,1
+S17,Undergraduate,RG ST   156CI,HAMILTON N C,A,9
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,A,10
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,A-,3
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,B+,4
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,B-,1
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,C,4
+S17,Undergraduate,RG ST   156DJ,JARRETT G C,F,3
+S17,Undergraduate,RG ST   157PP,FEIZMOHAMMADP,A+,20
+S17,Undergraduate,RG ST   157PP,FEIZMOHAMMADP,A,1
+S17,Undergraduate,RG ST   157PP,FEIZMOHAMMADP,A-,1
+S17,Undergraduate,RG ST   157PP,FEIZMOHAMMADP,F,1
+S17,Undergraduate,RG ST   159M,WHITE D G,A,3
+S17,Undergraduate,RG ST   159M,WHITE D G,A-,5
+S17,Undergraduate,RG ST   161B,WALLACE V A,A,5
+S17,Undergraduate,RG ST   161B,WALLACE V A,A-,4
+S17,Undergraduate,RG ST   161B,WALLACE V A,B+,8
+S17,Undergraduate,RG ST   161B,WALLACE V A,B,6
+S17,Undergraduate,RG ST   161B,WALLACE V A,B-,1
+S17,Undergraduate,RG ST   161B,WALLACE V A,F,3
+S17,Undergraduate,RG ST   162G,ELISON W N,A,2
+S17,Undergraduate,RG ST   162G,ELISON W N,A-,3
+S17,Undergraduate,RG ST   162G,ELISON W N,B-,3
+S17,Undergraduate,RG ST   162I,ELISON W N,A,3
+S17,Undergraduate,RG ST   162I,ELISON W N,B+,1
+S17,Undergraduate,RG ST   162I,ELISON W N,B,1
+S17,Undergraduate,RG ST   162I,ELISON W N,F,1
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,A+,2
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,A,7
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,A-,5
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,B+,3
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,B,1
+S17,Undergraduate,RG ST   175A,CASTIGLIONI A,F,1
+S17,Undergraduate,RG ST   177,AMIHAY A,A+,1
+S17,Undergraduate,RG ST   177,AMIHAY A,A,3
+S17,Undergraduate,RG ST   177,AMIHAY A,A-,6
+S17,Undergraduate,RG ST   177,AMIHAY A,B+,6
+S17,Undergraduate,RG ST   177,AMIHAY A,B,5
+S17,Undergraduate,RG ST   177,AMIHAY A,B-,2
+S17,Undergraduate,RG ST   177,AMIHAY A,C+,1
+S17,Undergraduate,RG ST   177,AMIHAY A,C,1
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,A+,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,A,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,A-,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,B,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,B-,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,C+,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,C,3
+S17,Undergraduate,RG ST   190EI,KAUFFMAN M E,C-,1
+S17,Graduate,RG ST   200C,HECHT R,A,7
+S17,Graduate,RG ST   206E,WHITE D G,A+,1
+S17,Graduate,RG ST   206E,WHITE D G,A,3
+S17,Graduate,RG ST   206E,WHITE D G,A-,2
+S17,Graduate,RG ST   206E,WHITE D G,B+,1
+S17,Graduate,RG ST   206E,WHITE D G,C+,1
+S17,Graduate,RG ST   223,CARLSON T A,A,2
+S17,Graduate,RG ST   223,CARLSON T A,F,1
+S17,Graduate,RG ST   223,CARLSON T A,S,4
+S17,Graduate,RG ST   289C,REYNOLDS D F,A+,1
+S17,Graduate,RG ST   289C,REYNOLDS D F,A,6
+S17,Graduate,RG ST   594A,LOPEZ F R,A,7

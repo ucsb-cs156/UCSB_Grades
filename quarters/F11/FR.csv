@@ -1,0 +1,227 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F11,Undergraduate,CH E    132B,FREDRICKSON G,A+,1
+F11,Undergraduate,CH E    132B,FREDRICKSON G,A,5
+F11,Undergraduate,CH E    132B,FREDRICKSON G,A-,8
+F11,Undergraduate,CH E    132B,FREDRICKSON G,B+,11
+F11,Undergraduate,CH E    132B,FREDRICKSON G,B,15
+F11,Undergraduate,CH E    132B,FREDRICKSON G,C,4
+F11,Undergraduate,CH E    132B,FREDRICKSON G,C-,2
+F11,Undergraduate,CH E    132B,FREDRICKSON G,D,1
+F11,Undergraduate,CH E    132B,FREDRICKSON G,F,2
+F11,Graduate,CH E    599,FREDRICKSON G,S,5
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,A+,3
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,A,12
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,A-,8
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,B+,10
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,B,6
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,B-,12
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,C+,3
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,C,3
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,D,3
+F11,Undergraduate,CMPSC    24,FRANKLIN D M,F,3
+F11,Graduate,EACS    215,FRUHSTUCK S,A+,5
+F11,Graduate,EACS    215,FRUHSTUCK S,A,3
+F11,Graduate,EACS    215,FRUHSTUCK S,A-,2
+F11,Undergraduate,ECON    116A,FRECH H E,A+,3
+F11,Undergraduate,ECON    116A,FRECH H E,A,5
+F11,Undergraduate,ECON    116A,FRECH H E,A-,3
+F11,Undergraduate,ECON    116A,FRECH H E,B+,5
+F11,Undergraduate,ECON    116A,FRECH H E,B,10
+F11,Undergraduate,ECON    116A,FRECH H E,B-,12
+F11,Undergraduate,ECON    116A,FRECH H E,C+,3
+F11,Undergraduate,ECON    116A,FRECH H E,C,3
+F11,Undergraduate,ECON    116A,FRECH H E,C-,2
+F11,Undergraduate,ECON    116A,FRECH H E,F,1
+F11,Undergraduate,ECON    117A,FRECH H E,A+,1
+F11,Undergraduate,ECON    117A,FRECH H E,A,2
+F11,Undergraduate,ECON    117A,FRECH H E,A-,5
+F11,Undergraduate,ECON    117A,FRECH H E,B+,4
+F11,Undergraduate,ECON    117A,FRECH H E,B,1
+F11,Undergraduate,ECON    117A,FRECH H E,B-,2
+F11,Undergraduate,ECON    117A,FRECH H E,C+,5
+F11,Undergraduate,ECON    117A,FRECH H E,C-,2
+F11,Undergraduate,ECON    117A,FRECH H E,F,2
+F11,Undergraduate,ENGL    101,FRADENBURG L,A,19
+F11,Undergraduate,ENGL    101,FRADENBURG L,A-,28
+F11,Undergraduate,ENGL    101,FRADENBURG L,B+,28
+F11,Undergraduate,ENGL    101,FRADENBURG L,B,60
+F11,Undergraduate,ENGL    101,FRADENBURG L,B-,27
+F11,Undergraduate,ENGL    101,FRADENBURG L,C+,12
+F11,Undergraduate,ENGL    101,FRADENBURG L,C,11
+F11,Undergraduate,ENGL    101,FRADENBURG L,D+,2
+F11,Undergraduate,ENGL    101,FRADENBURG L,D,5
+F11,Undergraduate,ENGL    101,FRADENBURG L,D-,1
+F11,Undergraduate,ENGL    101,FRADENBURG L,F,3
+F11,Undergraduate,ENGL    101S,FRADENBURG L,A+,2
+F11,Undergraduate,ENGL    101S,FRADENBURG L,A,3
+F11,Undergraduate,ENGL    101S,FRADENBURG L,A-,2
+F11,Graduate,ENGL    230,FRADENBURG L,A+,1
+F11,Graduate,ENGL    230,FRADENBURG L,A,5
+F11,Graduate,ESM     261,FREW J E,A-,8
+F11,Graduate,ESM     261,FREW J E,B+,2
+F11,Graduate,ESM     261,FREW J E,B,1
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,A,26
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,A-,24
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,B+,17
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,B,26
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,B-,4
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,C+,2
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,C,2
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,D+,1
+F11,Undergraduate,FEMST    50,FRANCIKOVA D,D,1
+F11,Undergraduate,FEMST    50H,FRANCIKOVA D,A,2
+F11,Undergraduate,FEMST    50H,FRANCIKOVA D,A-,4
+F11,Undergraduate,FR        1,KOLZOW ART E,A,7
+F11,Undergraduate,FR        1,KOLZOW ART E,A-,4
+F11,Undergraduate,FR        1,KOLZOW ART E,B+,5
+F11,Undergraduate,FR        1,KOLZOW ART E,B-,1
+F11,Undergraduate,FR        1,KOLZOW ART E,F,1
+F11,Undergraduate,FR        1,LABATUT M A,A+,2
+F11,Undergraduate,FR        1,LABATUT M A,A,2
+F11,Undergraduate,FR        1,LABATUT M A,A-,4
+F11,Undergraduate,FR        1,LABATUT M A,B+,4
+F11,Undergraduate,FR        1,LABATUT M A,B,4
+F11,Undergraduate,FR        1,LABATUT M A,B-,1
+F11,Undergraduate,FR        1,LABATUT M A,C+,1
+F11,Undergraduate,FR        1,ROBERTS S C,A+,6
+F11,Undergraduate,FR        1,ROBERTS S C,A,21
+F11,Undergraduate,FR        1,ROBERTS S C,A-,14
+F11,Undergraduate,FR        1,ROBERTS S C,B+,8
+F11,Undergraduate,FR        1,ROBERTS S C,B,4
+F11,Undergraduate,FR        1,ROBERTS S C,B-,4
+F11,Undergraduate,FR        1,ROBERTS S C,C+,1
+F11,Undergraduate,FR        1,ROBERTS S C,C,7
+F11,Undergraduate,FR        1,ROBERTS S C,C-,3
+F11,Undergraduate,FR        1,ROBERTS S C,D+,2
+F11,Undergraduate,FR        1,ROBERTS S C,F,3
+F11,Undergraduate,FR        2,KOLZOW ART E,A,9
+F11,Undergraduate,FR        2,KOLZOW ART E,A-,3
+F11,Undergraduate,FR        2,KOLZOW ART E,B+,2
+F11,Undergraduate,FR        2,KOLZOW ART E,B,3
+F11,Undergraduate,FR        2,KOLZOW ART E,B-,2
+F11,Undergraduate,FR        2,KOLZOW ART E,C+,1
+F11,Undergraduate,FR        2,KOLZOW ART E,C,1
+F11,Undergraduate,FR        2,KOLZOW ART E,F,2
+F11,Undergraduate,FR        2,ROBERTS S C,A+,1
+F11,Undergraduate,FR        2,ROBERTS S C,A,11
+F11,Undergraduate,FR        2,ROBERTS S C,A-,4
+F11,Undergraduate,FR        2,ROBERTS S C,B+,4
+F11,Undergraduate,FR        2,ROBERTS S C,B,4
+F11,Undergraduate,FR        2,ROBERTS S C,C,1
+F11,Undergraduate,FR        2,ROBERTS S C,D+,2
+F11,Undergraduate,FR        2,ROBERTS S C,D,1
+F11,Undergraduate,FR        3,ROBERTS S C,A,7
+F11,Undergraduate,FR        3,ROBERTS S C,A-,11
+F11,Undergraduate,FR        3,ROBERTS S C,B+,8
+F11,Undergraduate,FR        3,ROBERTS S C,B,9
+F11,Undergraduate,FR        3,ROBERTS S C,B-,6
+F11,Undergraduate,FR        3,ROBERTS S C,C,1
+F11,Undergraduate,FR        3,ROBERTS S C,C-,1
+F11,Undergraduate,FR        3,ROBERTS S C,F,1
+F11,Undergraduate,FR        4,LABATUT M A,A,1
+F11,Undergraduate,FR        4,LABATUT M A,A-,4
+F11,Undergraduate,FR        4,LABATUT M A,B+,6
+F11,Undergraduate,FR        4,LABATUT M A,B,8
+F11,Undergraduate,FR        4,LABATUT M A,B-,6
+F11,Undergraduate,FR        4,LABATUT M A,C+,1
+F11,Undergraduate,FR        4,LABATUT M A,C,2
+F11,Undergraduate,FR        4,ROBERTS S C,A+,2
+F11,Undergraduate,FR        4,ROBERTS S C,A,8
+F11,Undergraduate,FR        4,ROBERTS S C,A-,7
+F11,Undergraduate,FR        4,ROBERTS S C,B+,7
+F11,Undergraduate,FR        4,ROBERTS S C,B,6
+F11,Undergraduate,FR        4,ROBERTS S C,B-,1
+F11,Undergraduate,FR        4,ROBERTS S C,C+,1
+F11,Undergraduate,FR        4,ROBERTS S C,C,1
+F11,Undergraduate,FR        4,ROBERTS S C,F,1
+F11,Undergraduate,FR        5,ROBERTS S C,A+,2
+F11,Undergraduate,FR        5,ROBERTS S C,A,4
+F11,Undergraduate,FR        5,ROBERTS S C,A-,6
+F11,Undergraduate,FR        5,ROBERTS S C,B+,3
+F11,Undergraduate,FR        5,ROBERTS S C,B,5
+F11,Undergraduate,FR        5,ROBERTS S C,C+,1
+F11,Undergraduate,FR        5,ROBERTS S C,C,1
+F11,Undergraduate,FR        6,KOLZOW ART E,A,7
+F11,Undergraduate,FR        6,KOLZOW ART E,A-,3
+F11,Undergraduate,FR        6,KOLZOW ART E,B+,1
+F11,Undergraduate,FR        6,KOLZOW ART E,B,2
+F11,Undergraduate,FR        6,KOLZOW ART E,B-,2
+F11,Undergraduate,FR        6,KOLZOW ART E,C+,1
+F11,Undergraduate,FR        6,KOLZOW ART E,C,1
+F11,Undergraduate,FR        6,KOLZOW ART E,F,1
+F11,Undergraduate,FR       26,NESCI C,A+,3
+F11,Undergraduate,FR       26,NESCI C,A,5
+F11,Undergraduate,FR       26,NESCI C,A-,9
+F11,Undergraduate,FR       26,NESCI C,B+,2
+F11,Undergraduate,FR       26,NESCI C,B,5
+F11,Undergraduate,FR       26,NESCI C,C,1
+F11,Undergraduate,FR       26,NESCI C,F,1
+F11,Undergraduate,FR      101A,SKENAZI E C,A,9
+F11,Undergraduate,FR      101A,SKENAZI E C,A-,8
+F11,Undergraduate,FR      101A,SKENAZI E C,B+,3
+F11,Undergraduate,FR      101A,SKENAZI E C,B,2
+F11,Undergraduate,FR      101A,SKENAZI E C,B-,3
+F11,Undergraduate,FR      101A,SKENAZI E C,F,1
+F11,Undergraduate,FR      101B,JULLIEN D M,A,3
+F11,Undergraduate,FR      101B,JULLIEN D M,A-,1
+F11,Undergraduate,FR      101B,JULLIEN D M,B+,4
+F11,Undergraduate,FR      101B,JULLIEN D M,B,4
+F11,Undergraduate,FR      101B,JULLIEN D M,B-,2
+F11,Undergraduate,FR      101B,JULLIEN D M,C+,1
+F11,Undergraduate,FR      101B,JULLIEN D M,D-,1
+F11,Undergraduate,FR      147B,ENDERS J,A,4
+F11,Undergraduate,FR      147B,ENDERS J,A-,2
+F11,Undergraduate,FR      147B,ENDERS J,B,2
+F11,Undergraduate,FR      147B,ENDERS J,B-,1
+F11,Undergraduate,FR      153D,JULLIEN D M,A+,3
+F11,Undergraduate,FR      153D,JULLIEN D M,A,15
+F11,Undergraduate,FR      153D,JULLIEN D M,A-,14
+F11,Undergraduate,FR      153D,JULLIEN D M,B+,15
+F11,Undergraduate,FR      153D,JULLIEN D M,B,3
+F11,Undergraduate,FR      153D,JULLIEN D M,B-,9
+F11,Undergraduate,FR      153D,JULLIEN D M,C+,3
+F11,Undergraduate,FR      153D,JULLIEN D M,C,1
+F11,Undergraduate,FR      153D,JULLIEN D M,D+,1
+F11,Undergraduate,FR      153D,JULLIEN D M,D,1
+F11,Undergraduate,FR      153D,JULLIEN D M,F,2
+F11,Undergraduate,FR      153E,STURM E,A+,1
+F11,Undergraduate,FR      153E,STURM E,A,11
+F11,Undergraduate,FR      153E,STURM E,A-,25
+F11,Undergraduate,FR      153E,STURM E,B+,21
+F11,Undergraduate,FR      153E,STURM E,B,16
+F11,Undergraduate,FR      153E,STURM E,B-,9
+F11,Undergraduate,FR      153E,STURM E,C+,7
+F11,Undergraduate,FR      153E,STURM E,C,2
+F11,Undergraduate,FR      154B,SKENAZI E C,A,7
+F11,Undergraduate,FR      154B,SKENAZI E C,A-,5
+F11,Undergraduate,FR      154B,SKENAZI E C,B+,3
+F11,Undergraduate,FR      154B,SKENAZI E C,B,2
+F11,Undergraduate,FR      154B,SKENAZI E C,B-,2
+F11,Undergraduate,FR      156C,BROWN C J,A+,1
+F11,Undergraduate,FR      156C,BROWN C J,A,1
+F11,Undergraduate,FR      156C,BROWN C J,A-,4
+F11,Undergraduate,FR      156C,BROWN C J,B+,6
+F11,Undergraduate,FR      156C,BROWN C J,B,8
+F11,Undergraduate,FR      156C,BROWN C J,B-,5
+F11,Graduate,FR      500,ROBERTS S C,S,8
+F11,Undergraduate,PSY       1,FRIDLUND A J,A+,1
+F11,Undergraduate,PSY       1,FRIDLUND A J,A,72
+F11,Undergraduate,PSY       1,FRIDLUND A J,A-,12
+F11,Undergraduate,PSY       1,FRIDLUND A J,B+,21
+F11,Undergraduate,PSY       1,FRIDLUND A J,B,301
+F11,Undergraduate,PSY       1,FRIDLUND A J,B-,34
+F11,Undergraduate,PSY       1,FRIDLUND A J,C+,28
+F11,Undergraduate,PSY       1,FRIDLUND A J,C,189
+F11,Undergraduate,PSY       1,FRIDLUND A J,C-,18
+F11,Undergraduate,PSY       1,FRIDLUND A J,D+,13
+F11,Undergraduate,PSY       1,FRIDLUND A J,D,66
+F11,Undergraduate,PSY       1,FRIDLUND A J,D-,6
+F11,Undergraduate,PSY       1,FRIDLUND A J,F,36
+F11,Undergraduate,SOC     146,FRIEDKIN N E,A+,33
+F11,Undergraduate,SOC     146,FRIEDKIN N E,A,19
+F11,Undergraduate,SOC     146,FRIEDKIN N E,A-,3
+F11,Undergraduate,SOC     146,FRIEDKIN N E,F,2
+F11,Undergraduate,SOC     148MA,FRIEDKIN N E,A,14
+F11,Undergraduate,SOC     148MA,FRIEDKIN N E,A-,3
+F11,Graduate,SOC     248MA,FRIEDKIN N E,A+,5
+F11,Graduate,SOC     248MA,FRIEDKIN N E,A,2

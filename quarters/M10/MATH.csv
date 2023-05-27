@@ -1,0 +1,120 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M10,Undergraduate,MATH      3A,AFAGA M T,A+,4
+M10,Undergraduate,MATH      3A,AFAGA M T,A,3
+M10,Undergraduate,MATH      3A,AFAGA M T,A-,1
+M10,Undergraduate,MATH      3A,AFAGA M T,B+,3
+M10,Undergraduate,MATH      3A,AFAGA M T,B,3
+M10,Undergraduate,MATH      3A,AFAGA M T,B-,1
+M10,Undergraduate,MATH      3A,AFAGA M T,C+,6
+M10,Undergraduate,MATH      3A,AFAGA M T,C,2
+M10,Undergraduate,MATH      3A,AFAGA M T,C-,2
+M10,Undergraduate,MATH      3A,AFAGA M T,D+,1
+M10,Undergraduate,MATH      3A,AFAGA M T,D,1
+M10,Undergraduate,MATH      3A,AFAGA M T,F,3
+M10,Undergraduate,MATH      3A,KABBABE T,A+,1
+M10,Undergraduate,MATH      3A,KABBABE T,A-,1
+M10,Undergraduate,MATH      3A,KABBABE T,B+,1
+M10,Undergraduate,MATH      3A,KABBABE T,B,1
+M10,Undergraduate,MATH      3A,KABBABE T,B-,1
+M10,Undergraduate,MATH      3A,KABBABE T,C,1
+M10,Undergraduate,MATH      3A,KABBABE T,C-,1
+M10,Undergraduate,MATH      3A,KABBABE T,D,1
+M10,Undergraduate,MATH      3A,KABBABE T,F,2
+M10,Undergraduate,MATH      3B,ACKERMANN R J,A+,1
+M10,Undergraduate,MATH      3B,ACKERMANN R J,A,15
+M10,Undergraduate,MATH      3B,ACKERMANN R J,B+,6
+M10,Undergraduate,MATH      3B,ACKERMANN R J,B,13
+M10,Undergraduate,MATH      3B,ACKERMANN R J,C+,1
+M10,Undergraduate,MATH      3B,ACKERMANN R J,C,22
+M10,Undergraduate,MATH      3B,ACKERMANN R J,D+,2
+M10,Undergraduate,MATH      3B,ACKERMANN R J,D,9
+M10,Undergraduate,MATH      3B,ACKERMANN R J,D-,2
+M10,Undergraduate,MATH      3B,ACKERMANN R J,F,6
+M10,Undergraduate,MATH      3C,ZIRBEL L K,A,26
+M10,Undergraduate,MATH      3C,ZIRBEL L K,A-,10
+M10,Undergraduate,MATH      3C,ZIRBEL L K,B+,4
+M10,Undergraduate,MATH      3C,ZIRBEL L K,B,13
+M10,Undergraduate,MATH      3C,ZIRBEL L K,B-,3
+M10,Undergraduate,MATH      3C,ZIRBEL L K,C+,5
+M10,Undergraduate,MATH      3C,ZIRBEL L K,C,13
+M10,Undergraduate,MATH      3C,ZIRBEL L K,C-,3
+M10,Undergraduate,MATH      3C,ZIRBEL L K,D+,3
+M10,Undergraduate,MATH      3C,ZIRBEL L K,D,3
+M10,Undergraduate,MATH      3C,ZIRBEL L K,F,1
+M10,Undergraduate,MATH      5A,HOWARD T T,A+,3
+M10,Undergraduate,MATH      5A,HOWARD T T,A,1
+M10,Undergraduate,MATH      5A,HOWARD T T,A-,2
+M10,Undergraduate,MATH      5A,HOWARD T T,B+,5
+M10,Undergraduate,MATH      5A,HOWARD T T,B,4
+M10,Undergraduate,MATH      5A,HOWARD T T,B-,7
+M10,Undergraduate,MATH      5A,HOWARD T T,C+,2
+M10,Undergraduate,MATH      5A,HOWARD T T,C,2
+M10,Undergraduate,MATH      5A,HOWARD T T,C-,1
+M10,Undergraduate,MATH      5A,HOWARD T T,F,1
+M10,Undergraduate,MATH      5C,WIRTS S S,A+,2
+M10,Undergraduate,MATH      5C,WIRTS S S,A,6
+M10,Undergraduate,MATH      5C,WIRTS S S,A-,1
+M10,Undergraduate,MATH      5C,WIRTS S S,B+,2
+M10,Undergraduate,MATH      5C,WIRTS S S,B,2
+M10,Undergraduate,MATH      5C,WIRTS S S,B-,3
+M10,Undergraduate,MATH      5C,WIRTS S S,C+,2
+M10,Undergraduate,MATH      5C,WIRTS S S,C,3
+M10,Undergraduate,MATH      5C,WIRTS S S,C-,1
+M10,Undergraduate,MATH      5C,WIRTS S S,D+,1
+M10,Undergraduate,MATH      5C,WIRTS S S,D,1
+M10,Undergraduate,MATH      5C,WIRTS S S,D-,1
+M10,Undergraduate,MATH      5C,WIRTS S S,F,7
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,A+,4
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,A,4
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,A-,3
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,B+,5
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,B,5
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,B-,3
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,C+,9
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,C,6
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,C-,3
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,D,1
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,D-,2
+M10,Undergraduate,MATH     34A,YOSHIZAWA M M,F,1
+M10,Undergraduate,MATH     34B,CASS J G,A+,5
+M10,Undergraduate,MATH     34B,CASS J G,A,4
+M10,Undergraduate,MATH     34B,CASS J G,A-,5
+M10,Undergraduate,MATH     34B,CASS J G,B+,8
+M10,Undergraduate,MATH     34B,CASS J G,B,14
+M10,Undergraduate,MATH     34B,CASS J G,B-,12
+M10,Undergraduate,MATH     34B,CASS J G,C+,7
+M10,Undergraduate,MATH     34B,CASS J G,C,10
+M10,Undergraduate,MATH     34B,CASS J G,C-,1
+M10,Undergraduate,MATH     34B,CASS J G,D+,3
+M10,Undergraduate,MATH     34B,CASS J G,D,2
+M10,Undergraduate,MATH     34B,CASS J G,F,6
+M10,Undergraduate,MATH     34B,ZIRBEL L K,A+,4
+M10,Undergraduate,MATH     34B,ZIRBEL L K,A,9
+M10,Undergraduate,MATH     34B,ZIRBEL L K,A-,3
+M10,Undergraduate,MATH     34B,ZIRBEL L K,B+,4
+M10,Undergraduate,MATH     34B,ZIRBEL L K,B,20
+M10,Undergraduate,MATH     34B,ZIRBEL L K,B-,3
+M10,Undergraduate,MATH     34B,ZIRBEL L K,C+,3
+M10,Undergraduate,MATH     34B,ZIRBEL L K,C,7
+M10,Undergraduate,MATH     34B,ZIRBEL L K,C-,1
+M10,Undergraduate,MATH     34B,ZIRBEL L K,D,2
+M10,Undergraduate,MATH     34B,ZIRBEL L K,F,5
+M10,Undergraduate,MATH    100A,JACOB W B,P,29
+M10,Undergraduate,MATH    100B,JACOB W B,P,31
+M10,Undergraduate,MATH    108A,STOPPLE J,A+,1
+M10,Undergraduate,MATH    108A,STOPPLE J,A,2
+M10,Undergraduate,MATH    108A,STOPPLE J,B,3
+M10,Undergraduate,MATH    108A,STOPPLE J,C,1
+M10,Undergraduate,MATH    108A,STOPPLE J,F,2
+M10,Undergraduate,MATH    116,WILLIAMS M J,A+,6
+M10,Undergraduate,MATH    116,WILLIAMS M J,A,6
+M10,Undergraduate,MATH    116,WILLIAMS M J,B,10
+M10,Undergraduate,MATH    116,WILLIAMS M J,C,7
+M10,Undergraduate,MATH    116,WILLIAMS M J,C-,1
+M10,Undergraduate,MATH    122A,WEI G,A,6
+M10,Undergraduate,MATH    122A,WEI G,A-,1
+M10,Undergraduate,MATH    122A,WEI G,B+,2
+M10,Undergraduate,MATH    122A,WEI G,B,6
+M10,Undergraduate,MATH    122A,WEI G,C,11
+M10,Undergraduate,MATH    122A,WEI G,D,1
+M10,Undergraduate,MATH    122A,WEI G,F,4

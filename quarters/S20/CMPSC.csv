@@ -1,0 +1,215 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,CMPSC     8,MIRZA D,A+,50
+S20,Undergraduate,CMPSC     8,MIRZA D,A,57
+S20,Undergraduate,CMPSC     8,MIRZA D,A-,9
+S20,Undergraduate,CMPSC     8,MIRZA D,B+,6
+S20,Undergraduate,CMPSC     8,MIRZA D,B,1
+S20,Undergraduate,CMPSC     8,MIRZA D,B-,3
+S20,Undergraduate,CMPSC     8,MIRZA D,C+,2
+S20,Undergraduate,CMPSC     8,MIRZA D,C,4
+S20,Undergraduate,CMPSC     8,MIRZA D,C-,1
+S20,Undergraduate,CMPSC     8,MIRZA D,D,2
+S20,Undergraduate,CMPSC     8,MIRZA D,F,2
+S20,Undergraduate,CMPSC    16,NICHOLS L H,A+,28
+S20,Undergraduate,CMPSC    16,NICHOLS L H,A,78
+S20,Undergraduate,CMPSC    16,NICHOLS L H,A-,12
+S20,Undergraduate,CMPSC    16,NICHOLS L H,B+,4
+S20,Undergraduate,CMPSC    16,NICHOLS L H,B,2
+S20,Undergraduate,CMPSC    16,NICHOLS L H,B-,3
+S20,Undergraduate,CMPSC    16,NICHOLS L H,C+,1
+S20,Undergraduate,CMPSC    16,NICHOLS L H,C,2
+S20,Undergraduate,CMPSC    16,NICHOLS L H,C-,1
+S20,Undergraduate,CMPSC    16,NICHOLS L H,D,2
+S20,Undergraduate,CMPSC    16,NICHOLS L H,F,3
+S20,Undergraduate,CMPSC    24,MIRZA D,A+,11
+S20,Undergraduate,CMPSC    24,MIRZA D,A,54
+S20,Undergraduate,CMPSC    24,MIRZA D,A-,15
+S20,Undergraduate,CMPSC    24,MIRZA D,B+,7
+S20,Undergraduate,CMPSC    24,MIRZA D,B,4
+S20,Undergraduate,CMPSC    24,MIRZA D,B-,2
+S20,Undergraduate,CMPSC    24,MIRZA D,C+,3
+S20,Undergraduate,CMPSC    24,MIRZA D,D+,2
+S20,Undergraduate,CMPSC    24,MIRZA D,F,4
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,A+,33
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,A,70
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,A-,5
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,B+,2
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,B,2
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,B-,1
+S20,Undergraduate,CMPSC    32,KOZERAWSKI J,C,1
+S20,Undergraduate,CMPSC    48,CONRAD P T,A,64
+S20,Undergraduate,CMPSC    48,CONRAD P T,A-,16
+S20,Undergraduate,CMPSC   111,MATNI Z A,A+,13
+S20,Undergraduate,CMPSC   111,MATNI Z A,A,42
+S20,Undergraduate,CMPSC   111,MATNI Z A,A-,8
+S20,Undergraduate,CMPSC   111,MATNI Z A,B+,4
+S20,Undergraduate,CMPSC   111,MATNI Z A,B,4
+S20,Undergraduate,CMPSC   111,MATNI Z A,B-,2
+S20,Undergraduate,CMPSC   111,MATNI Z A,C+,5
+S20,Undergraduate,CMPSC   111,MATNI Z A,C,2
+S20,Undergraduate,CMPSC   111,MATNI Z A,D,1
+S20,Undergraduate,CMPSC   111,MATNI Z A,D-,1
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,A+,25
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,A,31
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,B+,7
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,B,4
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,C+,1
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,C,2
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,C-,2
+S20,Undergraduate,CMPSC   130A,AGRAWAL D,F,3
+S20,Undergraduate,CMPSC   130B,SINGH A K,A+,2
+S20,Undergraduate,CMPSC   130B,SINGH A K,A,6
+S20,Undergraduate,CMPSC   130B,SINGH A K,A-,5
+S20,Undergraduate,CMPSC   130B,SINGH A K,B+,7
+S20,Undergraduate,CMPSC   130B,SINGH A K,B,8
+S20,Undergraduate,CMPSC   130B,SINGH A K,B-,1
+S20,Undergraduate,CMPSC   130B,SINGH A K,C+,2
+S20,Undergraduate,CMPSC   130B,SINGH A K,C,4
+S20,Undergraduate,CMPSC   130B,SINGH A K,D,4
+S20,Undergraduate,CMPSC   130B,SINGH A K,F,4
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,A+,5
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,A,40
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,A-,13
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,B+,6
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,B,11
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,B-,6
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,C+,4
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,C,5
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,C-,2
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,D,1
+S20,Undergraduate,CMPSC   138,LOKSHTANOV D,F,7
+S20,Undergraduate,CMPSC   154,MATNI Z A,A+,20
+S20,Undergraduate,CMPSC   154,MATNI Z A,A,66
+S20,Undergraduate,CMPSC   154,MATNI Z A,A-,10
+S20,Undergraduate,CMPSC   154,MATNI Z A,B+,10
+S20,Undergraduate,CMPSC   154,MATNI Z A,B,3
+S20,Undergraduate,CMPSC   154,MATNI Z A,B-,4
+S20,Undergraduate,CMPSC   154,MATNI Z A,C+,2
+S20,Undergraduate,CMPSC   154,MATNI Z A,C,1
+S20,Undergraduate,CMPSC   154,MATNI Z A,D+,1
+S20,Undergraduate,CMPSC   154,MATNI Z A,F,2
+S20,Undergraduate,CMPSC   160,HARDEKOPF B C,A,43
+S20,Undergraduate,CMPSC   160,HARDEKOPF B C,B,18
+S20,Undergraduate,CMPSC   160,HARDEKOPF B C,D-,4
+S20,Undergraduate,CMPSC   160,HARDEKOPF B C,F,4
+S20,Undergraduate,CMPSC   165A,YAN X,A+,19
+S20,Undergraduate,CMPSC   165A,YAN X,A,37
+S20,Undergraduate,CMPSC   165A,YAN X,A-,10
+S20,Undergraduate,CMPSC   165A,YAN X,B+,6
+S20,Undergraduate,CMPSC   165A,YAN X,B,3
+S20,Undergraduate,CMPSC   165A,YAN X,B-,1
+S20,Undergraduate,CMPSC   165A,YAN X,C+,5
+S20,Undergraduate,CMPSC   165A,YAN X,C,1
+S20,Undergraduate,CMPSC   165A,YAN X,C-,1
+S20,Undergraduate,CMPSC   165A,YAN X,F,7
+S20,Undergraduate,CMPSC   165B,YAN X,A+,10
+S20,Undergraduate,CMPSC   165B,YAN X,A,31
+S20,Undergraduate,CMPSC   165B,YAN X,A-,17
+S20,Undergraduate,CMPSC   165B,YAN X,B+,5
+S20,Undergraduate,CMPSC   165B,YAN X,B,1
+S20,Undergraduate,CMPSC   165B,YAN X,B-,2
+S20,Undergraduate,CMPSC   165B,YAN X,C,1
+S20,Undergraduate,CMPSC   165B,YAN X,D,3
+S20,Undergraduate,CMPSC   165B,YAN X,F,5
+S20,Undergraduate,CMPSC   170,GUPTA T,A+,11
+S20,Undergraduate,CMPSC   170,GUPTA T,A,18
+S20,Undergraduate,CMPSC   170,GUPTA T,A-,17
+S20,Undergraduate,CMPSC   170,GUPTA T,B+,18
+S20,Undergraduate,CMPSC   170,GUPTA T,B,11
+S20,Undergraduate,CMPSC   170,GUPTA T,B-,3
+S20,Undergraduate,CMPSC   170,GUPTA T,C+,3
+S20,Undergraduate,CMPSC   170,GUPTA T,C,1
+S20,Undergraduate,CMPSC   170,GUPTA T,D,1
+S20,Undergraduate,CMPSC   171,EL ABBADI A,A+,22
+S20,Undergraduate,CMPSC   171,EL ABBADI A,A,32
+S20,Undergraduate,CMPSC   171,EL ABBADI A,A-,7
+S20,Undergraduate,CMPSC   171,EL ABBADI A,B+,10
+S20,Undergraduate,CMPSC   171,EL ABBADI A,B,3
+S20,Undergraduate,CMPSC   171,EL ABBADI A,B-,3
+S20,Undergraduate,CMPSC   171,EL ABBADI A,F,1
+S20,Undergraduate,CMPSC   174B,SU J,A,20
+S20,Undergraduate,CMPSC   174B,SU J,B,3
+S20,Undergraduate,CMPSC   174B,SU J,C+,1
+S20,Undergraduate,CMPSC   174B,SU J,F,1
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,A,34
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,A-,8
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,B+,5
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,B,15
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,B-,2
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,C,8
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,C-,1
+S20,Undergraduate,CMPSC   176A,ALMEROTH K C,F,4
+S20,Undergraduate,CMPSC   176C,GUPTA A,A+,20
+S20,Undergraduate,CMPSC   176C,GUPTA A,A,15
+S20,Undergraduate,CMPSC   176C,GUPTA A,A-,4
+S20,Undergraduate,CMPSC   176C,GUPTA A,B+,6
+S20,Undergraduate,CMPSC   176C,GUPTA A,C+,1
+S20,Undergraduate,CMPSC   176C,GUPTA A,F,1
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,A+,16
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,A,26
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,B+,3
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,B,9
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,B-,2
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,C,7
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,D,2
+S20,Undergraduate,CMPSC   177,KRUEGEL C I,F,1
+S20,Undergraduate,CMPSC   185,SRA M,A+,46
+S20,Undergraduate,CMPSC   185,SRA M,A,3
+S20,Undergraduate,CMPSC   185,SRA M,A-,3
+S20,Undergraduate,CMPSC   185,SRA M,B+,1
+S20,Undergraduate,CMPSC   185,SRA M,B,2
+S20,Undergraduate,CMPSC   185,SRA M,B-,2
+S20,Undergraduate,CMPSC   185,SRA M,C+,3
+S20,Undergraduate,CMPSC   185,SRA M,C,6
+S20,Undergraduate,CMPSC   185,SRA M,D,1
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,A,9
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,A-,1
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,B+,1
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,B,1
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,B-,1
+S20,Undergraduate,CMPSC   190D,KHARITONOVA Y,F,1
+S20,Undergraduate,CMPSC   196,BULTAN T,A,5
+S20,Undergraduate,CMPSC   196,SHERWOOD T P,A,5
+S20,Undergraduate,CMPSC   196,WANG Y W,A+,4
+S20,Undergraduate,CMPSC   196,WANG Y W,A,1
+S20,Graduate,CMPSC   263,KRINTZ C,A,34
+S20,Graduate,CMPSC   263,KRINTZ C,A-,1
+S20,Graduate,CMPSC   291A,HOLLERER T,A,14
+S20,Graduate,CMPSC   291A,HOLLERER T,A-,1
+S20,Graduate,CMPSC   291A,HOLLERER T,B+,2
+S20,Graduate,CMPSC   291A,YAN L,A,6
+S20,Graduate,CMPSC   291A,YAN L,A-,4
+S20,Graduate,CMPSC   291A,YAN L,B+,1
+S20,Graduate,CMPSC   291A,YAN L,B,1
+S20,Graduate,CMPSC   291A,YAN L,B-,2
+S20,Graduate,CMPSC   292F,WANG YUXIANG,A+,3
+S20,Graduate,CMPSC   292F,WANG YUXIANG,A,11
+S20,Graduate,CMPSC   292F,WANG YUXIANG,A-,7
+S20,Graduate,CMPSC   292F,WANG YUXIANG,B+,2
+S20,Graduate,CMPSC   292F,WANG YUXIANG,B,1
+S20,Graduate,CMPSC   293B,WOLSKI R M,A+,6
+S20,Graduate,CMPSC   293B,WOLSKI R M,A,14
+S20,Graduate,CMPSC   293B,WOLSKI R M,A-,3
+S20,Graduate,CMPSC   293S,YANG T,A+,3
+S20,Graduate,CMPSC   293S,YANG T,A,9
+S20,Graduate,CMPSC   293S,YANG T,A-,2
+S20,Graduate,CMPSC   293S,YANG T,B+,1
+S20,Graduate,CMPSC   502,BULTAN T,S,30
+S20,Graduate,CMPSC   595A,ANANTH P V,S,10
+S20,Graduate,CMPSC   595J,SINGH A K,S,10
+S20,Graduate,CMPSC   596,HARDEKOPF B C,S,5
+S20,Graduate,CMPSC   596,HOLLERER T,A,6
+S20,Graduate,CMPSC   596,KRINTZ C,A,2
+S20,Graduate,CMPSC   596,KRINTZ C,S,4
+S20,Graduate,CMPSC   596,KRUEGEL C I,A,5
+S20,Graduate,CMPSC   596,SINGH A K,A,6
+S20,Graduate,CMPSC   596,SRA M,A+,2
+S20,Graduate,CMPSC   596,SRA M,A,1
+S20,Graduate,CMPSC   596,SRA M,A-,3
+S20,Graduate,CMPSC   596,VIGNA G,A+,11
+S20,Graduate,CMPSC   596,WANG Y W,A+,1
+S20,Graduate,CMPSC   596,WANG Y W,A,5
+S20,Graduate,CMPSC   596,WANG Y W,A-,1
+S20,Graduate,CMPSC   596,WANG YUXIANG,S,6
+S20,Graduate,CMPSC   596,YAN X,A+,3
+S20,Graduate,CMPSC   596,YAN X,A,5

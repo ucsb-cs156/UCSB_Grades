@@ -1,0 +1,107 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W22,Undergraduate,GLOBL     1,GHOSH B,A,92
+W22,Undergraduate,GLOBL     1,GHOSH B,A-,44
+W22,Undergraduate,GLOBL     1,GHOSH B,A+,40
+W22,Undergraduate,GLOBL     1,GHOSH B,B,31
+W22,Undergraduate,GLOBL     1,GHOSH B,B-,16
+W22,Undergraduate,GLOBL     1,GHOSH B,B+,21
+W22,Undergraduate,GLOBL     1,GHOSH B,C,8
+W22,Undergraduate,GLOBL     1,GHOSH B,C-,5
+W22,Undergraduate,GLOBL     1,GHOSH B,C+,8
+W22,Undergraduate,GLOBL     1,GHOSH B,D,1
+W22,Undergraduate,GLOBL     1,GHOSH B,F,5
+W22,Undergraduate,GLOBL     2,BRYSK A,A,141
+W22,Undergraduate,GLOBL     2,BRYSK A,A-,34
+W22,Undergraduate,GLOBL     2,BRYSK A,A+,2
+W22,Undergraduate,GLOBL     2,BRYSK A,B,28
+W22,Undergraduate,GLOBL     2,BRYSK A,B-,3
+W22,Undergraduate,GLOBL     2,BRYSK A,B+,22
+W22,Undergraduate,GLOBL     2,BRYSK A,C,3
+W22,Undergraduate,GLOBL     2,BRYSK A,C-,6
+W22,Undergraduate,GLOBL     2,BRYSK A,C+,3
+W22,Undergraduate,GLOBL     2,BRYSK A,F,9
+W22,Undergraduate,GLOBL   110,LEZRA E M,A,14
+W22,Undergraduate,GLOBL   110,LEZRA E M,A-,1
+W22,Undergraduate,GLOBL   110,LEZRA E M,A+,7
+W22,Undergraduate,GLOBL   110,LEZRA E M,B,6
+W22,Undergraduate,GLOBL   110,LEZRA E M,B-,2
+W22,Undergraduate,GLOBL   110,LEZRA E M,B+,3
+W22,Undergraduate,GLOBL   110,LEZRA E M,C,1
+W22,Undergraduate,GLOBL   110,LEZRA E M,D,1
+W22,Undergraduate,GLOBL   110,LEZRA E M,F,1
+W22,Undergraduate,GLOBL   120,THALER K M,A,17
+W22,Undergraduate,GLOBL   120,THALER K M,A-,7
+W22,Undergraduate,GLOBL   120,THALER K M,A+,11
+W22,Undergraduate,GLOBL   120,THALER K M,B,5
+W22,Undergraduate,GLOBL   120,THALER K M,B-,1
+W22,Undergraduate,GLOBL   120,THALER K M,B+,4
+W22,Undergraduate,GLOBL   120,THALER K M,F,1
+W22,Undergraduate,GLOBL   124,THALER K M,A,12
+W22,Undergraduate,GLOBL   124,THALER K M,A-,7
+W22,Undergraduate,GLOBL   124,THALER K M,A+,7
+W22,Undergraduate,GLOBL   124,THALER K M,B,1
+W22,Undergraduate,GLOBL   124,THALER K M,B-,1
+W22,Undergraduate,GLOBL   124,THALER K M,B+,4
+W22,Undergraduate,GLOBL   124,THALER K M,C,2
+W22,Undergraduate,GLOBL   124,THALER K M,C-,1
+W22,Undergraduate,GLOBL   124,THALER K M,F,1
+W22,Undergraduate,GLOBL   130,MEHTA A S,A,10
+W22,Undergraduate,GLOBL   130,MEHTA A S,A-,5
+W22,Undergraduate,GLOBL   130,MEHTA A S,A+,6
+W22,Undergraduate,GLOBL   130,MEHTA A S,B,5
+W22,Undergraduate,GLOBL   130,MEHTA A S,B-,3
+W22,Undergraduate,GLOBL   130,MEHTA A S,B+,6
+W22,Undergraduate,GLOBL   130,MEHTA A S,C+,4
+W22,Undergraduate,GLOBL   130,MEHTA A S,F,2
+W22,Undergraduate,GLOBL   142,MALHOTRA A,A,4
+W22,Undergraduate,GLOBL   142,MALHOTRA A,A-,3
+W22,Undergraduate,GLOBL   142,MALHOTRA A,B-,1
+W22,Undergraduate,GLOBL   142,MALHOTRA A,B+,1
+W22,Undergraduate,GLOBL   142,MALHOTRA A,C,1
+W22,Undergraduate,GLOBL   142,MALHOTRA A,C+,1
+W22,Undergraduate,GLOBL   142,MALHOTRA A,F,4
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,A,6
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,A-,3
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,A+,6
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,B,3
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,B-,6
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,B+,1
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,C,1
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,C-,1
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,C+,1
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,D,1
+W22,Undergraduate,GLOBL   147,CLITANDRE N T,F,1
+W22,Undergraduate,GLOBL   155,CHUA C S,A,13
+W22,Undergraduate,GLOBL   155,CHUA C S,A-,6
+W22,Undergraduate,GLOBL   155,CHUA C S,B,2
+W22,Undergraduate,GLOBL   155,CHUA C S,B-,1
+W22,Undergraduate,GLOBL   155,CHUA C S,B+,8
+W22,Undergraduate,GLOBL   155,CHUA C S,F,3
+W22,Undergraduate,GLOBL   165,LEZRA E M,A,16
+W22,Undergraduate,GLOBL   165,LEZRA E M,A+,4
+W22,Undergraduate,GLOBL   165,LEZRA E M,B+,1
+W22,Undergraduate,GLOBL   165,LEZRA E M,D-,7
+W22,Undergraduate,GLOBL   165,LEZRA E M,D+,1
+W22,Undergraduate,GLOBL   165,LEZRA E M,F,2
+W22,Undergraduate,GLOBL   172,CLEMENCON R,A,14
+W22,Undergraduate,GLOBL   172,CLEMENCON R,A-,11
+W22,Undergraduate,GLOBL   172,CLEMENCON R,A+,5
+W22,Undergraduate,GLOBL   172,CLEMENCON R,B,14
+W22,Undergraduate,GLOBL   172,CLEMENCON R,B-,10
+W22,Undergraduate,GLOBL   172,CLEMENCON R,B+,11
+W22,Undergraduate,GLOBL   172,CLEMENCON R,C,2
+W22,Undergraduate,GLOBL   172,CLEMENCON R,C+,2
+W22,Undergraduate,GLOBL   172,CLEMENCON R,D+,1
+W22,Undergraduate,GLOBL   172,CLEMENCON R,F,5
+W22,Undergraduate,GLOBL   177SJ,NOWAK J J,A,13
+W22,Undergraduate,GLOBL   177SJ,NOWAK J J,A-,1
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,A,7
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,A-,2
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,A+,3
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,B,5
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,B-,1
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,B+,1
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,C+,1
+W22,Undergraduate,GLOBL   197,HAMED-TROYANS,F,4
+W22,Graduate,GLOBL   229,CHUA C S,A,9
+W22,Graduate,GLOBL   229,CHUA C S,A-,3

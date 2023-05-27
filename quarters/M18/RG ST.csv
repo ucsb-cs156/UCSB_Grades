@@ -1,0 +1,86 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,RG ST     1,AMIHAY A,A,5
+M18,Undergraduate,RG ST     1,AMIHAY A,B+,1
+M18,Undergraduate,RG ST     1,AMIHAY A,B,2
+M18,Undergraduate,RG ST     1,AMIHAY A,B-,6
+M18,Undergraduate,RG ST     1,LAMBELET P G,A-,4
+M18,Undergraduate,RG ST     1,LAMBELET P G,B+,7
+M18,Undergraduate,RG ST     1,LAMBELET P G,B,5
+M18,Undergraduate,RG ST     1,LAMBELET P G,B-,1
+M18,Undergraduate,RG ST     1,LAMBELET P G,C+,1
+M18,Undergraduate,RG ST     1,LAMBELET P G,F,1
+M18,Undergraduate,RG ST     3,IUM M H,A,2
+M18,Undergraduate,RG ST     3,IUM M H,B+,1
+M18,Undergraduate,RG ST     3,IUM M H,B,3
+M18,Undergraduate,RG ST     3,IUM M H,B-,1
+M18,Undergraduate,RG ST     3,IUM M H,C,1
+M18,Undergraduate,RG ST     3,IUM M H,C-,1
+M18,Undergraduate,RG ST     3,IUM M H,D+,1
+M18,Undergraduate,RG ST     3,IUM M H,D,1
+M18,Undergraduate,RG ST     3,IUM M H,F,1
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A+,3
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A,5
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A-,2
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B+,1
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B,6
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B-,1
+M18,Undergraduate,RG ST     4,FREDRICKSON N,D,1
+M18,Undergraduate,RG ST     4,TAKKINEN J H,A,5
+M18,Undergraduate,RG ST     4,TAKKINEN J H,A-,3
+M18,Undergraduate,RG ST     4,TAKKINEN J H,B+,5
+M18,Undergraduate,RG ST     4,TAKKINEN J H,B,2
+M18,Undergraduate,RG ST     4,TAKKINEN J H,B-,3
+M18,Undergraduate,RG ST     4,TAKKINEN J H,C,1
+M18,Undergraduate,RG ST     4,TAKKINEN J H,F,2
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,A,3
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,A-,3
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,B+,2
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,B,4
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,C+,1
+M18,Undergraduate,RG ST     5,BRAUNSTEIN E,C,1
+M18,Undergraduate,RG ST     6,CHAVEZ W S,A+,2
+M18,Undergraduate,RG ST     6,CHAVEZ W S,A,4
+M18,Undergraduate,RG ST     6,CHAVEZ W S,A-,2
+M18,Undergraduate,RG ST     6,CHAVEZ W S,F,1
+M18,Undergraduate,RG ST     7,DESLIPPE P R,A,6
+M18,Undergraduate,RG ST     7,DESLIPPE P R,A-,1
+M18,Undergraduate,RG ST     7,DESLIPPE P R,B+,5
+M18,Undergraduate,RG ST     7,DESLIPPE P R,B,2
+M18,Undergraduate,RG ST     7,DESLIPPE P R,C,1
+M18,Undergraduate,RG ST    12,WHITESIDES K,A,5
+M18,Undergraduate,RG ST    12,WHITESIDES K,A-,1
+M18,Undergraduate,RG ST    12,WHITESIDES K,B+,3
+M18,Undergraduate,RG ST    12,WHITESIDES K,B,3
+M18,Undergraduate,RG ST    12,WHITESIDES K,B-,1
+M18,Undergraduate,RG ST    12,WHITESIDES K,D,1
+M18,Undergraduate,RG ST    21,PORATH O,A+,1
+M18,Undergraduate,RG ST    21,PORATH O,A,7
+M18,Undergraduate,RG ST    21,PORATH O,A-,1
+M18,Undergraduate,RG ST    21,PORATH O,B+,1
+M18,Undergraduate,RG ST    21,PORATH O,B,6
+M18,Undergraduate,RG ST    21,PORATH O,C,3
+M18,Undergraduate,RG ST    21,PORATH O,D,1
+M18,Undergraduate,RG ST    21,PORATH O,F,1
+M18,Undergraduate,RG ST    31,ERDENE-OCHIR,A,2
+M18,Undergraduate,RG ST    31,ERDENE-OCHIR,A-,4
+M18,Undergraduate,RG ST    31,ERDENE-OCHIR,B,2
+M18,Undergraduate,RG ST    31,ERDENE-OCHIR,C,3
+M18,Undergraduate,RG ST    31,ERDENE-OCHIR,F,1
+M18,Undergraduate,RG ST   113,CHAVEZ W S,A+,6
+M18,Undergraduate,RG ST   113,CHAVEZ W S,A,3
+M18,Undergraduate,RG ST   113,CHAVEZ W S,A-,6
+M18,Undergraduate,RG ST   113,CHAVEZ W S,B+,7
+M18,Undergraduate,RG ST   113,CHAVEZ W S,B,5
+M18,Undergraduate,RG ST   113,CHAVEZ W S,B-,1
+M18,Undergraduate,RG ST   113,CHAVEZ W S,C+,1
+M18,Undergraduate,RG ST   133B,AMIHAY O,A+,1
+M18,Undergraduate,RG ST   133B,AMIHAY O,A,3
+M18,Undergraduate,RG ST   133B,AMIHAY O,A-,6
+M18,Undergraduate,RG ST   133B,AMIHAY O,B+,2
+M18,Undergraduate,RG ST   133B,AMIHAY O,B,3
+M18,Undergraduate,RG ST   133B,AMIHAY O,B-,1
+M18,Undergraduate,RG ST   133B,AMIHAY O,C,1
+M18,Undergraduate,RG ST   163A,STEAVU-BALINT,A,9
+M18,Undergraduate,RG ST   163A,STEAVU-BALINT,A-,3
+M18,Undergraduate,RG ST   163A,STEAVU-BALINT,B+,2
+M18,Undergraduate,RG ST   163A,STEAVU-BALINT,C+,1

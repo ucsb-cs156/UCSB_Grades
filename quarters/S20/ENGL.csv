@@ -1,0 +1,212 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,ENGL     10,GILMORE T B,A+,8
+S20,Undergraduate,ENGL     10,GILMORE T B,A,74
+S20,Undergraduate,ENGL     10,GILMORE T B,A-,62
+S20,Undergraduate,ENGL     10,GILMORE T B,B+,46
+S20,Undergraduate,ENGL     10,GILMORE T B,B,44
+S20,Undergraduate,ENGL     10,GILMORE T B,B-,22
+S20,Undergraduate,ENGL     10,GILMORE T B,C+,14
+S20,Undergraduate,ENGL     10,GILMORE T B,C,5
+S20,Undergraduate,ENGL     10,GILMORE T B,C-,1
+S20,Undergraduate,ENGL     10,GILMORE T B,D,1
+S20,Undergraduate,ENGL     10,GILMORE T B,D-,1
+S20,Undergraduate,ENGL     10,GILMORE T B,F,12
+S20,Undergraduate,ENGL     25,LIU A Y,A+,6
+S20,Undergraduate,ENGL     25,LIU A Y,A,39
+S20,Undergraduate,ENGL     25,LIU A Y,A-,20
+S20,Undergraduate,ENGL     25,LIU A Y,B+,28
+S20,Undergraduate,ENGL     25,LIU A Y,B,18
+S20,Undergraduate,ENGL     25,LIU A Y,B-,5
+S20,Undergraduate,ENGL     25,LIU A Y,C+,2
+S20,Undergraduate,ENGL     25,LIU A Y,C,5
+S20,Undergraduate,ENGL     25,LIU A Y,C-,1
+S20,Undergraduate,ENGL     25,LIU A Y,D,1
+S20,Undergraduate,ENGL     25,LIU A Y,F,10
+S20,Undergraduate,ENGL     34NA,WAID C J,A+,6
+S20,Undergraduate,ENGL     34NA,WAID C J,A,7
+S20,Undergraduate,ENGL     34NA,WAID C J,A-,2
+S20,Undergraduate,ENGL     34NA,WAID C J,B+,1
+S20,Undergraduate,ENGL     34NA,WAID C J,B,1
+S20,Undergraduate,ENGL     34NA,WAID C J,B-,1
+S20,Undergraduate,ENGL     34NA,WAID C J,C+,1
+S20,Undergraduate,ENGL     34NA,WAID C J,C,2
+S20,Undergraduate,ENGL     34NA,WAID C J,F,3
+S20,Undergraduate,ENGL     50,RANA S,A+,20
+S20,Undergraduate,ENGL     50,RANA S,A,56
+S20,Undergraduate,ENGL     50,RANA S,A-,50
+S20,Undergraduate,ENGL     50,RANA S,B+,23
+S20,Undergraduate,ENGL     50,RANA S,B,24
+S20,Undergraduate,ENGL     50,RANA S,B-,9
+S20,Undergraduate,ENGL     50,RANA S,C+,5
+S20,Undergraduate,ENGL     50,RANA S,C,4
+S20,Undergraduate,ENGL     50,RANA S,F,5
+S20,Undergraduate,ENGL     50S,RANA S,A+,9
+S20,Undergraduate,ENGL     65FM,WICKE J A,A+,162
+S20,Undergraduate,ENGL     65FM,WICKE J A,A,32
+S20,Undergraduate,ENGL     65FM,WICKE J A,A-,7
+S20,Undergraduate,ENGL     65FM,WICKE J A,B,2
+S20,Undergraduate,ENGL     65FM,WICKE J A,B-,2
+S20,Undergraduate,ENGL     65FM,WICKE J A,C,1
+S20,Undergraduate,ENGL     65FM,WICKE J A,C-,1
+S20,Undergraduate,ENGL     65FM,WICKE J A,F,1
+S20,Undergraduate,ENGL    105A,FUMERTON M P,A+,3
+S20,Undergraduate,ENGL    105A,FUMERTON M P,A,48
+S20,Undergraduate,ENGL    105A,FUMERTON M P,A-,39
+S20,Undergraduate,ENGL    105A,FUMERTON M P,B+,30
+S20,Undergraduate,ENGL    105A,FUMERTON M P,B,33
+S20,Undergraduate,ENGL    105A,FUMERTON M P,B-,15
+S20,Undergraduate,ENGL    105A,FUMERTON M P,C+,4
+S20,Undergraduate,ENGL    105A,FUMERTON M P,C,8
+S20,Undergraduate,ENGL    105A,FUMERTON M P,F,11
+S20,Undergraduate,ENGL    105AS,FUMERTON M P,A+,1
+S20,Undergraduate,ENGL    105AS,FUMERTON M P,A,5
+S20,Undergraduate,ENGL    106CW,DONNELLY B,A+,1
+S20,Undergraduate,ENGL    106CW,DONNELLY B,A,27
+S20,Undergraduate,ENGL    108CC,MORAGA C L,A,8
+S20,Undergraduate,ENGL    108CC,MORAGA C L,A-,6
+S20,Undergraduate,ENGL    108CC,MORAGA C L,B+,2
+S20,Undergraduate,ENGL    108CC,MORAGA C L,B,2
+S20,Undergraduate,ENGL    108CC,MORAGA C L,C,1
+S20,Undergraduate,ENGL    115,REEVE D J,A+,8
+S20,Undergraduate,ENGL    115,REEVE D J,A,16
+S20,Undergraduate,ENGL    115,REEVE D J,A-,7
+S20,Undergraduate,ENGL    115,REEVE D J,B+,5
+S20,Undergraduate,ENGL    115,REEVE D J,B,1
+S20,Undergraduate,ENGL    115,REEVE D J,B-,1
+S20,Undergraduate,ENGL    115,REEVE D J,C+,3
+S20,Undergraduate,ENGL    115,REEVE D J,F,2
+S20,Undergraduate,ENGL    122UK,GILMORE T B,A,8
+S20,Undergraduate,ENGL    122UK,GILMORE T B,A-,8
+S20,Undergraduate,ENGL    122UK,GILMORE T B,B+,5
+S20,Undergraduate,ENGL    122UK,GILMORE T B,B-,1
+S20,Undergraduate,ENGL    122UK,GILMORE T B,C-,1
+S20,Undergraduate,ENGL    122UM,GILMORE T B,A,7
+S20,Undergraduate,ENGL    122UM,GILMORE T B,A-,15
+S20,Undergraduate,ENGL    122UM,GILMORE T B,B+,6
+S20,Undergraduate,ENGL    122UM,GILMORE T B,B,3
+S20,Undergraduate,ENGL    122UM,GILMORE T B,B-,2
+S20,Undergraduate,ENGL    122UM,GILMORE T B,C+,1
+S20,Undergraduate,ENGL    122UM,GILMORE T B,F,2
+S20,Undergraduate,ENGL    128AF,SAMOLSKY R E,A,4
+S20,Undergraduate,ENGL    128AF,SAMOLSKY R E,A-,13
+S20,Undergraduate,ENGL    128AF,SAMOLSKY R E,B+,4
+S20,Undergraduate,ENGL    128AF,SAMOLSKY R E,B,1
+S20,Undergraduate,ENGL    128AF,SAMOLSKY R E,F,1
+S20,Undergraduate,ENGL    145,ANDREA B D,A,19
+S20,Undergraduate,ENGL    145,ANDREA B D,A-,2
+S20,Undergraduate,ENGL    145,ANDREA B D,B+,1
+S20,Undergraduate,ENGL    145,ANDREA B D,B,1
+S20,Undergraduate,ENGL    145,ANDREA B D,B-,1
+S20,Undergraduate,ENGL    145,ANDREA B D,C,10
+S20,Undergraduate,ENGL    145,ANDREA B D,F,3
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,A+,2
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,A,13
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,A-,5
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,B+,4
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,B,12
+S20,Undergraduate,ENGL    146GB,DOUGLASS J H,B-,2
+S20,Undergraduate,ENGL    165EE,WAID C J,A+,5
+S20,Undergraduate,ENGL    165EE,WAID C J,A,8
+S20,Undergraduate,ENGL    165EE,WAID C J,A-,7
+S20,Undergraduate,ENGL    165EE,WAID C J,B+,2
+S20,Undergraduate,ENGL    165EE,WAID C J,B,4
+S20,Undergraduate,ENGL    165EE,WAID C J,B-,2
+S20,Undergraduate,ENGL    165EE,WAID C J,C-,1
+S20,Undergraduate,ENGL    165EM,MCCANTS K A,A+,6
+S20,Undergraduate,ENGL    165EM,MCCANTS K A,A,9
+S20,Undergraduate,ENGL    165EM,MCCANTS K A,A-,5
+S20,Undergraduate,ENGL    165EM,MCCANTS K A,B,4
+S20,Undergraduate,ENGL    165EM,MCCANTS K A,F,2
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,A+,17
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,A,5
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,A-,2
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,B,1
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,B-,1
+S20,Undergraduate,ENGL    165IB,JOHNSON AMRAH,F,3
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,A+,6
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,A,6
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,A-,4
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,B+,1
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,B-,3
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,C,2
+S20,Undergraduate,ENGL    165NJ,JOHNSON AMRAH,F,1
+S20,Undergraduate,ENGL    165RC,DROGE A M,A+,34
+S20,Undergraduate,ENGL    165RC,DROGE A M,A,3
+S20,Undergraduate,ENGL    165RC,DROGE A M,F,1
+S20,Undergraduate,ENGL    170MI,MILLER J E,A+,17
+S20,Undergraduate,ENGL    170MI,MILLER J E,A,8
+S20,Undergraduate,ENGL    170MI,MILLER J E,A-,3
+S20,Undergraduate,ENGL    170MI,MILLER J E,B+,2
+S20,Undergraduate,ENGL    170MI,MILLER J E,C-,1
+S20,Undergraduate,ENGL    179,DONELAN J H,A,30
+S20,Undergraduate,ENGL    179,DONELAN J H,A-,2
+S20,Undergraduate,ENGL    179,DONELAN J H,B+,1
+S20,Undergraduate,ENGL    179,DONELAN J H,B,2
+S20,Undergraduate,ENGL    179,DONELAN J H,C-,1
+S20,Undergraduate,ENGL    191,BLAKE F D,A,12
+S20,Undergraduate,ENGL    191,BLAKE F D,A-,30
+S20,Undergraduate,ENGL    191,BLAKE F D,B+,6
+S20,Undergraduate,ENGL    191,BLAKE F D,B,2
+S20,Undergraduate,ENGL    191,BLAKE F D,B-,3
+S20,Undergraduate,ENGL    191,BLAKE F D,F,4
+S20,Undergraduate,ENGL    192DF,DONNELLY B,A+,1
+S20,Undergraduate,ENGL    192DF,DONNELLY B,A,67
+S20,Undergraduate,ENGL    192DF,DONNELLY B,A-,62
+S20,Undergraduate,ENGL    192DF,DONNELLY B,B+,35
+S20,Undergraduate,ENGL    192DF,DONNELLY B,B,16
+S20,Undergraduate,ENGL    192DF,DONNELLY B,B-,2
+S20,Undergraduate,ENGL    192DF,DONNELLY B,C+,3
+S20,Undergraduate,ENGL    192DF,DONNELLY B,C,2
+S20,Undergraduate,ENGL    192DF,DONNELLY B,C-,1
+S20,Undergraduate,ENGL    192DF,DONNELLY B,D+,1
+S20,Undergraduate,ENGL    192DF,DONNELLY B,D,1
+S20,Undergraduate,ENGL    192DF,DONNELLY B,F,8
+S20,Undergraduate,ENGL    192EF,JUE M C,A+,2
+S20,Undergraduate,ENGL    192EF,JUE M C,A,72
+S20,Undergraduate,ENGL    192EF,JUE M C,A-,56
+S20,Undergraduate,ENGL    192EF,JUE M C,B+,26
+S20,Undergraduate,ENGL    192EF,JUE M C,B,23
+S20,Undergraduate,ENGL    192EF,JUE M C,B-,4
+S20,Undergraduate,ENGL    192EF,JUE M C,C+,4
+S20,Undergraduate,ENGL    192EF,JUE M C,C,2
+S20,Undergraduate,ENGL    192EF,JUE M C,C-,2
+S20,Undergraduate,ENGL    192EF,JUE M C,D,1
+S20,Undergraduate,ENGL    192EF,JUE M C,F,7
+S20,Undergraduate,ENGL    195I,YOUNG K,A+,1
+S20,Undergraduate,ENGL    195I,YOUNG K,A,7
+S20,Undergraduate,ENGL    197,ANDREA B D,A+,2
+S20,Undergraduate,ENGL    197,ANDREA B D,A,4
+S20,Undergraduate,ENGL    197,ANDREA B D,A-,1
+S20,Undergraduate,ENGL    197,ANDREA B D,B+,1
+S20,Undergraduate,ENGL    197,ANDREA B D,B,1
+S20,Undergraduate,ENGL    197,ANDREA B D,C,3
+S20,Undergraduate,ENGL    197,ANDREA B D,F,1
+S20,Undergraduate,ENGL    197,BLAKE F D,A,3
+S20,Undergraduate,ENGL    197,BLAKE F D,A-,8
+S20,Undergraduate,ENGL    197,BLAKE F D,B,2
+S20,Undergraduate,ENGL    197,BLAKE F D,B-,2
+S20,Undergraduate,ENGL    197,RANA S,A,5
+S20,Undergraduate,ENGL    197,RANA S,A-,7
+S20,Undergraduate,ENGL    197,RANA S,B+,1
+S20,Undergraduate,ENGL    197,RANA S,B,1
+S20,Undergraduate,ENGL    197,RANA S,F,1
+S20,Undergraduate,ENGL    197,REEVE D J,A+,5
+S20,Undergraduate,ENGL    197,REEVE D J,A,2
+S20,Undergraduate,ENGL    197,REEVE D J,A-,1
+S20,Undergraduate,ENGL    197,REEVE D J,B+,1
+S20,Undergraduate,ENGL    197,REEVE D J,C,1
+S20,Undergraduate,ENGL    197,REEVE D J,C-,2
+S20,Undergraduate,ENGL    197,REEVE D J,F,1
+S20,Undergraduate,ENGL    197,WICKE J A,A+,11
+S20,Undergraduate,ENGL    197,WICKE J A,A,5
+S20,Undergraduate,ENGL    197,WICKE J A,A-,1
+S20,Undergraduate,ENGL    198H,WAID C J,A,12
+S20,Undergraduate,ENGL    199,DONNELLY B,A,5
+S20,Graduate,ENGL    231,FUMERTON M P,A,3
+S20,Graduate,ENGL    231,FUMERTON M P,S,5
+S20,Graduate,ENGL    234,SAMOLSKY R E,A,2
+S20,Graduate,ENGL    234,SAMOLSKY R E,S,4
+S20,Graduate,ENGL    265SF,JUE M C,A,13
+S20,Graduate,ENGL    265SF,JUE M C,S,1
+S20,Graduate,ENGL    591,DUFFY A E,S,5
+S20,Graduate,ENGL    596,MORAGA C L,A,6

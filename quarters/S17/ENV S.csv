@@ -1,0 +1,240 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S17,Undergraduate,ENV S     3,GRAVES G R,A+,8
+S17,Undergraduate,ENV S     3,GRAVES G R,A,101
+S17,Undergraduate,ENV S     3,GRAVES G R,A-,213
+S17,Undergraduate,ENV S     3,GRAVES G R,B+,167
+S17,Undergraduate,ENV S     3,GRAVES G R,B,137
+S17,Undergraduate,ENV S     3,GRAVES G R,B-,38
+S17,Undergraduate,ENV S     3,GRAVES G R,C+,25
+S17,Undergraduate,ENV S     3,GRAVES G R,C,11
+S17,Undergraduate,ENV S     3,GRAVES G R,C-,3
+S17,Undergraduate,ENV S     3,GRAVES G R,D+,2
+S17,Undergraduate,ENV S     3,GRAVES G R,D,5
+S17,Undergraduate,ENV S     3,GRAVES G R,F,12
+S17,Undergraduate,ENV S     3H,GRAVES G R,F,1
+S17,Undergraduate,ENV S     3H,GRAVES G R,P,26
+S17,Undergraduate,ENV S    15B,GARDNER H K,A+,1
+S17,Undergraduate,ENV S    15B,GARDNER H K,A,12
+S17,Undergraduate,ENV S    15B,GARDNER H K,A-,23
+S17,Undergraduate,ENV S    15B,GARDNER H K,B+,18
+S17,Undergraduate,ENV S    15B,GARDNER H K,B,55
+S17,Undergraduate,ENV S    15B,GARDNER H K,B-,8
+S17,Undergraduate,ENV S    15B,GARDNER H K,C+,6
+S17,Undergraduate,ENV S    15B,GARDNER H K,C,9
+S17,Undergraduate,ENV S    15B,GARDNER H K,D,3
+S17,Undergraduate,ENV S    25,GEE Q P,A+,2
+S17,Undergraduate,ENV S    25,GEE Q P,A,24
+S17,Undergraduate,ENV S    25,GEE Q P,A-,10
+S17,Undergraduate,ENV S    25,GEE Q P,B+,11
+S17,Undergraduate,ENV S    25,GEE Q P,B,16
+S17,Undergraduate,ENV S    25,GEE Q P,B-,5
+S17,Undergraduate,ENV S    25,GEE Q P,C+,10
+S17,Undergraduate,ENV S    25,GEE Q P,C,9
+S17,Undergraduate,ENV S    25,GEE Q P,C-,5
+S17,Undergraduate,ENV S    25,GEE Q P,D+,3
+S17,Undergraduate,ENV S    25,GEE Q P,D,2
+S17,Undergraduate,ENV S    25,GEE Q P,F,7
+S17,Undergraduate,ENV S    95,STRATTON E C,P,36
+S17,Undergraduate,ENV S    95,STRATTON E C,NP,1
+S17,Undergraduate,ENV S    96,SELTMANN K,P,5
+S17,Undergraduate,ENV S   103A,GUILLIAMS C M,A,3
+S17,Undergraduate,ENV S   103A,GUILLIAMS C M,A-,2
+S17,Undergraduate,ENV S   103A,GUILLIAMS C M,B+,1
+S17,Undergraduate,ENV S   103A,GUILLIAMS C M,B,1
+S17,Undergraduate,ENV S   103A,GUILLIAMS C M,C-,1
+S17,Undergraduate,ENV S   105,MANALIS M S,A+,1
+S17,Undergraduate,ENV S   105,MANALIS M S,A,21
+S17,Undergraduate,ENV S   105,MANALIS M S,A-,21
+S17,Undergraduate,ENV S   105,MANALIS M S,B+,10
+S17,Undergraduate,ENV S   105,MANALIS M S,B,34
+S17,Undergraduate,ENV S   105,MANALIS M S,B-,19
+S17,Undergraduate,ENV S   105,MANALIS M S,C+,16
+S17,Undergraduate,ENV S   105,MANALIS M S,C,19
+S17,Undergraduate,ENV S   105,MANALIS M S,C-,7
+S17,Undergraduate,ENV S   105,MANALIS M S,D+,2
+S17,Undergraduate,ENV S   105,MANALIS M S,D,2
+S17,Undergraduate,ENV S   105,MANALIS M S,F,2
+S17,Undergraduate,ENV S   114B,BINGHAM N L,A+,3
+S17,Undergraduate,ENV S   114B,BINGHAM N L,A,7
+S17,Undergraduate,ENV S   114B,CHADWICK O A,A+,3
+S17,Undergraduate,ENV S   114B,CHADWICK O A,A,7
+S17,Undergraduate,ENV S   125B,KROP L J,A+,4
+S17,Undergraduate,ENV S   125B,KROP L J,A,10
+S17,Undergraduate,ENV S   125B,KROP L J,A-,4
+S17,Undergraduate,ENV S   125B,KROP L J,B+,7
+S17,Undergraduate,ENV S   125B,KROP L J,B,6
+S17,Undergraduate,ENV S   125B,KROP L J,B-,2
+S17,Undergraduate,ENV S   125B,KROP L J,C+,1
+S17,Undergraduate,ENV S   125B,KROP L J,C,1
+S17,Undergraduate,ENV S   125B,KROP L J,F,1
+S17,Undergraduate,ENV S   127B,LEWIN B A,A+,8
+S17,Undergraduate,ENV S   127B,LEWIN B A,A,10
+S17,Undergraduate,ENV S   127B,LEWIN B A,A-,1
+S17,Undergraduate,ENV S   127B,LEWIN B A,B,1
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,A,9
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,A-,13
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,B+,7
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,B,5
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,B-,3
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,C+,4
+S17,Undergraduate,ENV S   128,AUGUST-SCHMID,C,3
+S17,Undergraduate,ENV S   130C,MARTIN J A,A+,1
+S17,Undergraduate,ENV S   130C,MARTIN J A,A,9
+S17,Undergraduate,ENV S   130C,MARTIN J A,A-,7
+S17,Undergraduate,ENV S   130C,MARTIN J A,B+,8
+S17,Undergraduate,ENV S   130C,MARTIN J A,B,6
+S17,Undergraduate,ENV S   130C,MARTIN J A,B-,4
+S17,Undergraduate,ENV S   130C,MARTIN J A,C+,6
+S17,Undergraduate,ENV S   130C,MARTIN J A,C,2
+S17,Undergraduate,ENV S   130C,MARTIN J A,D+,1
+S17,Undergraduate,ENV S   130C,MARTIN J A,F,1
+S17,Undergraduate,ENV S   134,KELLER E A,A+,2
+S17,Undergraduate,ENV S   134,KELLER E A,A,18
+S17,Undergraduate,ENV S   134,KELLER E A,A-,18
+S17,Undergraduate,ENV S   134,KELLER E A,B+,16
+S17,Undergraduate,ENV S   134,KELLER E A,B,11
+S17,Undergraduate,ENV S   134,KELLER E A,C+,2
+S17,Undergraduate,ENV S   134,KELLER E A,C,3
+S17,Undergraduate,ENV S   135B,STEPHENS C G,A+,1
+S17,Undergraduate,ENV S   135B,STEPHENS C G,A,5
+S17,Undergraduate,ENV S   135B,STEPHENS C G,A-,9
+S17,Undergraduate,ENV S   135B,STEPHENS C G,B+,2
+S17,Undergraduate,ENV S   135B,STEPHENS C G,B,4
+S17,Undergraduate,ENV S   135B,STEPHENS C G,B-,2
+S17,Undergraduate,ENV S   135B,STEPHENS C G,C,1
+S17,Undergraduate,ENV S   135B,STEPHENS C G,C-,2
+S17,Undergraduate,ENV S   135B,STEPHENS C G,D,1
+S17,Undergraduate,ENV S   136,FELDWINN D L,A-,2
+S17,Undergraduate,ENV S   136,FELDWINN D L,B+,1
+S17,Undergraduate,ENV S   136,FELDWINN D L,B,3
+S17,Undergraduate,ENV S   136,FELDWINN D L,C+,2
+S17,Undergraduate,ENV S   143,ADAMS AJ,A,5
+S17,Undergraduate,ENV S   143,ADAMS AJ,A-,8
+S17,Undergraduate,ENV S   143,ADAMS AJ,B+,5
+S17,Undergraduate,ENV S   143,ADAMS AJ,B,12
+S17,Undergraduate,ENV S   143,ADAMS AJ,B-,3
+S17,Undergraduate,ENV S   143,ADAMS AJ,C+,2
+S17,Undergraduate,ENV S   143,ADAMS AJ,C,8
+S17,Undergraduate,ENV S   143,ADAMS AJ,C-,1
+S17,Undergraduate,ENV S   143,ADAMS AJ,F,1
+S17,Undergraduate,ENV S   144,KELLER E A,A,3
+S17,Undergraduate,ENV S   144,KELLER E A,B+,4
+S17,Undergraduate,ENV S   144,KELLER E A,B,4
+S17,Undergraduate,ENV S   144,KELLER E A,C+,2
+S17,Undergraduate,ENV S   144,KELLER E A,C,2
+S17,Undergraduate,ENV S   144,KELLER E A,F,1
+S17,Undergraduate,ENV S   147,GARDNER H K,A,10
+S17,Undergraduate,ENV S   147,GARDNER H K,A-,9
+S17,Undergraduate,ENV S   147,GARDNER H K,B+,3
+S17,Undergraduate,ENV S   147,GARDNER H K,B,19
+S17,Undergraduate,ENV S   147,GARDNER H K,C,4
+S17,Undergraduate,ENV S   147,GARDNER H K,C-,1
+S17,Undergraduate,ENV S   147,GARDNER H K,D,1
+S17,Undergraduate,ENV S   147,GARDNER H K,F,1
+S17,Undergraduate,ENV S   151,HOELLE J A,A,19
+S17,Undergraduate,ENV S   151,HOELLE J A,A-,6
+S17,Undergraduate,ENV S   151,HOELLE J A,B+,3
+S17,Undergraduate,ENV S   151,HOELLE J A,B,2
+S17,Undergraduate,ENV S   151,HOELLE J A,B-,2
+S17,Undergraduate,ENV S   151,HOELLE J A,C+,3
+S17,Undergraduate,ENV S   151,HOELLE J A,F,3
+S17,Undergraduate,ENV S   162,LOAICIGA H,A,2
+S17,Undergraduate,ENV S   162,LOAICIGA H,A-,2
+S17,Undergraduate,ENV S   162,LOAICIGA H,B+,1
+S17,Undergraduate,ENV S   162,LOAICIGA H,B,2
+S17,Undergraduate,ENV S   162,LOAICIGA H,B-,1
+S17,Undergraduate,ENV S   162,LOAICIGA H,C+,1
+S17,Undergraduate,ENV S   162,LOAICIGA H,C,3
+S17,Undergraduate,ENV S   162,LOAICIGA H,C-,3
+S17,Undergraduate,ENV S   162,LOAICIGA H,D+,3
+S17,Undergraduate,ENV S   162,LOAICIGA H,D,1
+S17,Undergraduate,ENV S   167,CAYLOR K K,A+,2
+S17,Undergraduate,ENV S   167,CAYLOR K K,A,8
+S17,Undergraduate,ENV S   167,CAYLOR K K,A-,1
+S17,Undergraduate,ENV S   167,CAYLOR K K,B+,2
+S17,Undergraduate,ENV S   167,CAYLOR K K,B,2
+S17,Undergraduate,ENV S   167,CAYLOR K K,C-,1
+S17,Undergraduate,ENV S   167,CAYLOR K K,F,1
+S17,Undergraduate,ENV S   169,CLARK J,A,4
+S17,Undergraduate,ENV S   169,CLARK J,A-,1
+S17,Undergraduate,ENV S   169,CLARK J,B+,4
+S17,Undergraduate,ENV S   169,CLARK J,B,2
+S17,Undergraduate,ENV S   169,CLARK J,B-,1
+S17,Undergraduate,ENV S   169,CLARK J,C,3
+S17,Undergraduate,ENV S   169,CLARK J,C-,4
+S17,Undergraduate,ENV S   169,CLARK J,D-,1
+S17,Undergraduate,ENV S   169,CLARK J,F,1
+S17,Undergraduate,ENV S   176A,GRAVES G R,A,12
+S17,Undergraduate,ENV S   176A,GRAVES G R,A-,22
+S17,Undergraduate,ENV S   176A,GRAVES G R,B+,24
+S17,Undergraduate,ENV S   176A,GRAVES G R,B,26
+S17,Undergraduate,ENV S   176A,GRAVES G R,B-,10
+S17,Undergraduate,ENV S   176A,GRAVES G R,C+,3
+S17,Undergraduate,ENV S   176A,GRAVES G R,C,3
+S17,Undergraduate,ENV S   176A,GRAVES G R,F,1
+S17,Undergraduate,ENV S   183,MARTIN J A,A+,1
+S17,Undergraduate,ENV S   183,MARTIN J A,A,4
+S17,Undergraduate,ENV S   183,MARTIN J A,A-,10
+S17,Undergraduate,ENV S   183,MARTIN J A,B+,9
+S17,Undergraduate,ENV S   183,MARTIN J A,B,10
+S17,Undergraduate,ENV S   183,MARTIN J A,B-,1
+S17,Undergraduate,ENV S   183,MARTIN J A,C,3
+S17,Undergraduate,ENV S   183,MARTIN J A,D+,3
+S17,Undergraduate,ENV S   183,MARTIN J A,F,2
+S17,Undergraduate,ENV S   185,CREMERS M H,A+,2
+S17,Undergraduate,ENV S   185,CREMERS M H,A,27
+S17,Undergraduate,ENV S   185,CREMERS M H,A-,4
+S17,Undergraduate,ENV S   185,CREMERS M H,B+,3
+S17,Undergraduate,ENV S   185,CREMERS M H,B,2
+S17,Undergraduate,ENV S   185,CREMERS M H,C+,1
+S17,Undergraduate,ENV S   185,CREMERS M H,D+,1
+S17,Undergraduate,ENV S   185,CREMERS M H,F,1
+S17,Undergraduate,ENV S   190,GARDNER H K,P,103
+S17,Undergraduate,ENV S   190,GARDNER H K,NP,8
+S17,Undergraduate,ENV S   192,ZIMMERMAN E D,P,23
+S17,Undergraduate,ENV S   192,ZIMMERMAN E D,NP,1
+S17,Undergraduate,ENV S   193CA,GEE Q P,A+,2
+S17,Undergraduate,ENV S   193CA,GEE Q P,A,7
+S17,Undergraduate,ENV S   193CA,GEE Q P,A-,8
+S17,Undergraduate,ENV S   193CA,GEE Q P,B+,9
+S17,Undergraduate,ENV S   193CA,GEE Q P,B,3
+S17,Undergraduate,ENV S   193CA,GEE Q P,B-,2
+S17,Undergraduate,ENV S   193CA,GEE Q P,C+,3
+S17,Undergraduate,ENV S   193CA,GEE Q P,C,3
+S17,Undergraduate,ENV S   193CP,MORET S L,A+,8
+S17,Undergraduate,ENV S   193CP,MORET S L,A,15
+S17,Undergraduate,ENV S   193CP,MORET S L,A-,4
+S17,Undergraduate,ENV S   193CP,MORET S L,B+,1
+S17,Undergraduate,ENV S   193CP,MORET S L,B,6
+S17,Undergraduate,ENV S   193CP,MORET S L,C+,2
+S17,Undergraduate,ENV S   193CP,MORET S L,C,1
+S17,Undergraduate,ENV S   193CP,MORET S L,D+,1
+S17,Undergraduate,ENV S   193CP,MORET S L,F,1
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,A,26
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,A-,1
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,B+,4
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,B,2
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,B-,2
+S17,Undergraduate,ENV S   193GI,HEILMAYR R F,C+,2
+S17,Undergraduate,ENV S   193HW,MCGINNES J M,A,7
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,A+,5
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,A,16
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,A-,8
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,B+,4
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,B,1
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,C,1
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,C-,1
+S17,Undergraduate,ENV S   193PR,MALDONADO J K,F,3
+S17,Undergraduate,ENV S   193WL,BENJAMIN R,A,10
+S17,Undergraduate,ENV S   193WL,BENJAMIN R,B,1
+S17,Undergraduate,ENV S   193WL,BENJAMIN R,C,1
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,A+,2
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,A,11
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,A-,6
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,B+,3
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,B,2
+S17,Undergraduate,ENV S   194GB,KAYSEN B J,C,1
+S17,Undergraduate,ENV S   196,GEE Q P,A+,2
+S17,Undergraduate,ENV S   196,GEE Q P,A,4
+S17,Undergraduate,ENV S   199RA,D'ANTONIO C M,A,5
+S17,Graduate,ENV S   500,GEE Q P,S,6

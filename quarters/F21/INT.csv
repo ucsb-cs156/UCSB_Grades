@@ -1,0 +1,110 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F21,Undergraduate,INT      10,ROOSE H M,A,106
+F21,Undergraduate,INT      10,ROOSE H M,A-,8
+F21,Undergraduate,INT      10,ROOSE H M,C,7
+F21,Undergraduate,INT      10,ROOSE H M,C-,1
+F21,Undergraduate,INT      10,ROOSE H M,F,2
+F21,Undergraduate,INT      24,WILTON M B,P,52
+F21,Undergraduate,INT      24,WILTON M B,NP,1
+F21,Undergraduate,INT      24,WOODS V E,P,52
+F21,Undergraduate,INT      24,WOODS V E,NP,1
+F21,Undergraduate,INT      36DL,COBO BETANCOU,A,4
+F21,Undergraduate,INT      36DL,COBO BETANCOU,A-,3
+F21,Undergraduate,INT      36DL,COBO BETANCOU,B+,4
+F21,Undergraduate,INT      36DL,COBO BETANCOU,B,7
+F21,Undergraduate,INT      36DL,COBO BETANCOU,B-,2
+F21,Undergraduate,INT      36DL,COBO BETANCOU,C+,1
+F21,Undergraduate,INT      36DL,MOORE K M,A,4
+F21,Undergraduate,INT      36DL,MOORE K M,A-,3
+F21,Undergraduate,INT      36DL,MOORE K M,B+,4
+F21,Undergraduate,INT      36DL,MOORE K M,B,7
+F21,Undergraduate,INT      36DL,MOORE K M,B-,2
+F21,Undergraduate,INT      36DL,MOORE K M,C+,1
+F21,Undergraduate,INT      36MM,BLUMENTHAL,A+,1
+F21,Undergraduate,INT      36MM,BLUMENTHAL,A,9
+F21,Undergraduate,INT      36MM,BLUMENTHAL,A-,6
+F21,Undergraduate,INT      36MM,BLUMENTHAL,B+,5
+F21,Undergraduate,INT      36MM,BLURTON H F,A+,1
+F21,Undergraduate,INT      36MM,BLURTON H F,A,9
+F21,Undergraduate,INT      36MM,BLURTON H F,A-,6
+F21,Undergraduate,INT      36MM,BLURTON H F,B+,5
+F21,Undergraduate,INT      36TS,BRAININ R,A+,3
+F21,Undergraduate,INT      36TS,BRAININ R,A,3
+F21,Undergraduate,INT      36TS,BRAININ R,A-,5
+F21,Undergraduate,INT      36TS,BRAININ R,B+,4
+F21,Undergraduate,INT      36TS,BRAININ R,B,2
+F21,Undergraduate,INT      36TS,BRAININ R,B-,1
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,A+,3
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,A,3
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,A-,5
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,B+,4
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,B,2
+F21,Undergraduate,INT      36TS,SALTZMAN-LI K,B-,1
+F21,Undergraduate,INT      84AE,WELTER V W,A+,5
+F21,Undergraduate,INT      84AE,WELTER V W,A,8
+F21,Undergraduate,INT      84AE,WELTER V W,A-,1
+F21,Undergraduate,INT      84AE,WELTER V W,B+,2
+F21,Undergraduate,INT      84BC,STRONGMAN R D,A+,14
+F21,Undergraduate,INT      84BC,STRONGMAN R D,A-,2
+F21,Undergraduate,INT      84BJ,CORTIJO A,A,16
+F21,Undergraduate,INT      84BK,CAMPAGNARI C,A,14
+F21,Undergraduate,INT      84CC,MITCHELL G M,A,6
+F21,Undergraduate,INT      84CC,MITCHELL G M,B+,1
+F21,Undergraduate,INT      84CE,STEIN D A,A+,1
+F21,Undergraduate,INT      84CE,STEIN D A,A,15
+F21,Undergraduate,INT      84CG,MCCARTHY C R,A,14
+F21,Undergraduate,INT      84CG,MCCARTHY C R,A-,2
+F21,Undergraduate,INT      84ZB,SIMMS A R,A,9
+F21,Undergraduate,INT      84ZR,LEW G J,A,10
+F21,Undergraduate,INT      84ZR,LEW G J,A-,5
+F21,Undergraduate,INT      88AD,STRONGMAN R D,P,10
+F21,Undergraduate,INT      88AE,MORALES H L,P,8
+F21,Undergraduate,INT      89AI,BROWN KARA,P,27
+F21,Undergraduate,INT      89AI,SMITH S R,P,27
+F21,Undergraduate,INT      94GG,FULBECK L K,P,21
+F21,Undergraduate,INT      94TI,FELBER J,P,19
+F21,Undergraduate,INT      94VR,CASTILLO J L,P,18
+F21,Undergraduate,INT      94VW,BIBILASHVILI,P,21
+F21,Undergraduate,INT      94VW,KOUTROULAKIS,P,18
+F21,Undergraduate,INT      94VW,KOUTROULAKIS,NP,2
+F21,Undergraduate,INT      94WF,STEINKELLNER,P,21
+F21,Undergraduate,INT      94WL,LARUE R J,P,18
+F21,Undergraduate,INT      95A,GALLUCCI R,A,23
+F21,Undergraduate,INT      95A,GALLUCCI R,B,2
+F21,Undergraduate,INT      95A,SHISHIM M D,A,23
+F21,Undergraduate,INT      95A,SHISHIM M D,B,2
+F21,Undergraduate,INT      95C,GALLUCCI R,A,63
+F21,Undergraduate,INT      95C,SHISHIM M D,A,63
+F21,Undergraduate,INT      97MA,DAI X Z,P,24
+F21,Undergraduate,INT      97MA,NAGY A,P,24
+F21,Undergraduate,INT     126,BEAUFORT V,P,25
+F21,Undergraduate,INT     136FL,SALTON-COX G,A+,3
+F21,Undergraduate,INT     136FL,SALTON-COX G,A,6
+F21,Undergraduate,INT     136FL,SALTON-COX G,A-,6
+F21,Undergraduate,INT     136FL,SALTON-COX G,B+,4
+F21,Undergraduate,INT     136FL,SALTON-COX G,B,1
+F21,Undergraduate,INT     136FL,YAMAMOTO NAOK,A+,3
+F21,Undergraduate,INT     136FL,YAMAMOTO NAOK,A,6
+F21,Undergraduate,INT     136FL,YAMAMOTO NAOK,A-,6
+F21,Undergraduate,INT     136FL,YAMAMOTO NAOK,B+,4
+F21,Undergraduate,INT     136FL,YAMAMOTO NAOK,B,1
+F21,Undergraduate,INT     136PA,KATSIKA A,A,10
+F21,Undergraduate,INT     136PA,KATSIKA A,A-,4
+F21,Undergraduate,INT     136PA,KATSIKA A,B,3
+F21,Undergraduate,INT     136PA,YASUDA K,A,10
+F21,Undergraduate,INT     136PA,YASUDA K,A-,4
+F21,Undergraduate,INT     136PA,YASUDA K,B,3
+F21,Undergraduate,INT     185ST,JENSEN A K,A+,1
+F21,Undergraduate,INT     185ST,JENSEN A K,A,17
+F21,Undergraduate,INT     185ST,JENSEN A K,A-,2
+F21,Undergraduate,INT     185ST,JENSEN A K,B+,1
+F21,Undergraduate,INT     185ST,JENSEN A K,B,1
+F21,Undergraduate,INT     186AJ,JIMERSON S R,P,17
+F21,Undergraduate,INT     186BC,DOMINGUEZ-WHI,P,19
+F21,Undergraduate,INT     187AN,LOVE-ANDEREGG,P,38
+F21,Undergraduate,INT     187AN,TRUGMAN A T,P,38
+F21,Graduate,INT     201HT,DERWIN S,A,5
+F21,Graduate,INT     201HT,DERWIN S,A-,1
+F21,Undergraduate,INT  CS 120,KURIS A M,P,13
+F21,Undergraduate,INT  CS 120,LAVERMAN L E,P,14
+F21,Undergraduate,INT  CS 120,TYLER C M,P,14

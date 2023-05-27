@@ -1,0 +1,101 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,ED      176B,GERBER M M,A,34
+S16,Undergraduate,ED      176B,GERBER M M,B,3
+S16,Undergraduate,ED      176B,GERBER M M,F,1
+S16,Graduate,ED      222C,GERBER M M,A,6
+S16,Graduate,ED      599,GERBER M M,S,7
+S16,Undergraduate,ES   1-  38A,GERSTENFELD P,P,83
+S16,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,9
+S16,Undergraduate,ES   1-  38B,GERSTENFELD P,P,37
+S16,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,4
+S16,Undergraduate,ES   1-  38C,GERSTENFELD P,P,19
+S16,Undergraduate,ES   1-  99,GERSTENFELD P,P,16
+S16,Undergraduate,ES   1-  99,GERSTENFELD P,NP,1
+S16,Undergraduate,GER       2G,KOMMERELL G,A,3
+S16,Undergraduate,GER       2G,KOMMERELL G,A-,2
+S16,Undergraduate,GER       3,REDER E R,A+,12
+S16,Undergraduate,GER       3,REDER E R,A,39
+S16,Undergraduate,GER       3,REDER E R,A-,8
+S16,Undergraduate,GER       3,REDER E R,B+,8
+S16,Undergraduate,GER       3,REDER E R,B,4
+S16,Undergraduate,GER       3,REDER E R,B-,1
+S16,Undergraduate,GER       3,REDER E R,C+,1
+S16,Undergraduate,GER       3,REDER E R,C,2
+S16,Undergraduate,GER       3,REDER E R,D,1
+S16,Undergraduate,GER       3,STEIN G,A+,2
+S16,Undergraduate,GER       3,STEIN G,A,15
+S16,Undergraduate,GER       3,STEIN G,A-,2
+S16,Undergraduate,GER       3,STEIN G,B,2
+S16,Undergraduate,GER       3,STEIN G,F,1
+S16,Undergraduate,GER       3,WHITE K D,A+,8
+S16,Undergraduate,GER       3,WHITE K D,A,11
+S16,Undergraduate,GER       3,WHITE K D,A-,2
+S16,Undergraduate,GER       3,WHITE K D,B,2
+S16,Undergraduate,GER       3,WHITE K D,C,2
+S16,Undergraduate,GER       6,REDER E R,A+,12
+S16,Undergraduate,GER       6,REDER E R,A,17
+S16,Undergraduate,GER       6,REDER E R,A-,7
+S16,Undergraduate,GER       6,REDER E R,B+,2
+S16,Undergraduate,GER       6,REDER E R,B,7
+S16,Undergraduate,GER       6,REDER E R,C+,1
+S16,Undergraduate,GER       6,WHITE K D,A+,4
+S16,Undergraduate,GER       6,WHITE K D,A,13
+S16,Undergraduate,GER       6,WHITE K D,B+,3
+S16,Undergraduate,GER       6,WHITE K D,B,4
+S16,Undergraduate,GER       6,WHITE K D,B-,2
+S16,Undergraduate,GER       6,WHITE K D,C+,2
+S16,Undergraduate,GER       6,WHITE K D,D,1
+S16,Undergraduate,GER       8C,HOFMANN M J,A+,4
+S16,Undergraduate,GER       8C,HOFMANN M J,A,5
+S16,Undergraduate,GER       8C,HOFMANN M J,A-,2
+S16,Undergraduate,GER       8C,KOMMERELL G,A,19
+S16,Undergraduate,GER       8C,KOMMERELL G,A-,1
+S16,Undergraduate,GER     101C,REDER E R,A+,5
+S16,Undergraduate,GER     101C,REDER E R,A,26
+S16,Undergraduate,GER     101C,REDER E R,B+,1
+S16,Undergraduate,GER     105C,KOMMERELL G,A,20
+S16,Undergraduate,GER     107C,KOMMERELL G,A+,1
+S16,Undergraduate,GER     107C,KOMMERELL G,A,1
+S16,Undergraduate,GER     107C,KOMMERELL G,A-,4
+S16,Undergraduate,GER     107C,KOMMERELL G,B+,4
+S16,Undergraduate,GER     107C,KOMMERELL G,C,1
+S16,Undergraduate,GER     114,HOFMANN M J,A+,5
+S16,Undergraduate,GER     114,HOFMANN M J,A,9
+S16,Undergraduate,GER     114,HOFMANN M J,A-,14
+S16,Undergraduate,GER     114,HOFMANN M J,B+,3
+S16,Undergraduate,GER     114,HOFMANN M J,B,3
+S16,Undergraduate,GER     115B,KITTLER W D,A+,3
+S16,Undergraduate,GER     115B,KITTLER W D,A,1
+S16,Undergraduate,GER     115B,KITTLER W D,A-,1
+S16,Undergraduate,GER     115B,KITTLER W D,B+,2
+S16,Undergraduate,GER     116A,WIDICK R,A,14
+S16,Undergraduate,GER     116A,WIDICK R,A-,12
+S16,Undergraduate,GER     116A,WIDICK R,B+,6
+S16,Undergraduate,GER     116A,WIDICK R,B,9
+S16,Undergraduate,GER     116A,WIDICK R,B-,5
+S16,Undergraduate,INT      94QR,GERMAN T C M,P,19
+S16,Undergraduate,INT      94QR,GERMAN T C M,NP,1
+S16,Undergraduate,MUS A    36,GERVAIS M M,A+,2
+S16,Undergraduate,MUS A    36,GERVAIS M M,A,4
+S16,Undergraduate,MUS A    36,GERVAIS M M,A-,1
+S16,Undergraduate,MUS A    36,GERVAIS M M,B+,1
+S16,Undergraduate,MUS A    37,GERVAIS M M,A+,2
+S16,Undergraduate,MUS A    37,GERVAIS M M,A,5
+S16,Undergraduate,MUS A    37,GERVAIS M M,B+,2
+S16,Undergraduate,MUS A   136,GERVAIS M M,A+,3
+S16,Undergraduate,MUS A   136,GERVAIS M M,A,5
+S16,Undergraduate,MUS A   136,GERVAIS M M,A-,1
+S16,Undergraduate,MUS A   136,GERVAIS M M,B+,1
+S16,Undergraduate,MUS A   137,GERVAIS M M,A+,5
+S16,Undergraduate,MUS A   137,GERVAIS M M,A,2
+S16,Undergraduate,PSY       1,GERMAN T C M,A+,43
+S16,Undergraduate,PSY       1,GERMAN T C M,A,58
+S16,Undergraduate,PSY       1,GERMAN T C M,A-,44
+S16,Undergraduate,PSY       1,GERMAN T C M,B+,55
+S16,Undergraduate,PSY       1,GERMAN T C M,B,52
+S16,Undergraduate,PSY       1,GERMAN T C M,B-,40
+S16,Undergraduate,PSY       1,GERMAN T C M,C+,26
+S16,Undergraduate,PSY       1,GERMAN T C M,C,33
+S16,Undergraduate,PSY       1,GERMAN T C M,C-,5
+S16,Undergraduate,PSY       1,GERMAN T C M,D,13
+S16,Undergraduate,PSY       1,GERMAN T C M,F,13

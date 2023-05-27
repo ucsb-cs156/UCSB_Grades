@@ -1,0 +1,113 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,A+,6
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,A,10
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,A-,10
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,B+,11
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,B,18
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,B-,6
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,C+,9
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,C,14
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,D+,1
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,D,5
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,D-,1
+W10,Undergraduate,GEOL      2,DEVECCHIO D E,F,1
+W10,Undergraduate,GEOL      4,LISIECKI L E,A+,3
+W10,Undergraduate,GEOL      4,LISIECKI L E,A,33
+W10,Undergraduate,GEOL      4,LISIECKI L E,A-,32
+W10,Undergraduate,GEOL      4,LISIECKI L E,B+,40
+W10,Undergraduate,GEOL      4,LISIECKI L E,B,51
+W10,Undergraduate,GEOL      4,LISIECKI L E,B-,35
+W10,Undergraduate,GEOL      4,LISIECKI L E,C+,20
+W10,Undergraduate,GEOL      4,LISIECKI L E,C,28
+W10,Undergraduate,GEOL      4,LISIECKI L E,C-,7
+W10,Undergraduate,GEOL      4,LISIECKI L E,D+,3
+W10,Undergraduate,GEOL      4,LISIECKI L E,D,3
+W10,Undergraduate,GEOL      4,LISIECKI L E,D-,2
+W10,Undergraduate,GEOL      4,LISIECKI L E,F,3
+W10,Undergraduate,GEOL     20,TANIMOTO T,A,66
+W10,Undergraduate,GEOL     20,TANIMOTO T,B,76
+W10,Undergraduate,GEOL     20,TANIMOTO T,C,86
+W10,Undergraduate,GEOL     20,TANIMOTO T,D,13
+W10,Undergraduate,GEOL     20,TANIMOTO T,F,6
+W10,Undergraduate,GEOL     30,AWRAMIK S M,A+,2
+W10,Undergraduate,GEOL     30,AWRAMIK S M,A,9
+W10,Undergraduate,GEOL     30,AWRAMIK S M,A-,8
+W10,Undergraduate,GEOL     30,AWRAMIK S M,B+,20
+W10,Undergraduate,GEOL     30,AWRAMIK S M,B,34
+W10,Undergraduate,GEOL     30,AWRAMIK S M,B-,22
+W10,Undergraduate,GEOL     30,AWRAMIK S M,C+,29
+W10,Undergraduate,GEOL     30,AWRAMIK S M,C,34
+W10,Undergraduate,GEOL     30,AWRAMIK S M,C-,6
+W10,Undergraduate,GEOL     30,AWRAMIK S M,D,8
+W10,Undergraduate,GEOL     30,AWRAMIK S M,F,8
+W10,Undergraduate,GEOL     30H,AWRAMIK S M,A,24
+W10,Undergraduate,GEOL    102A,SPERA F J,A,2
+W10,Undergraduate,GEOL    102A,SPERA F J,A-,1
+W10,Undergraduate,GEOL    102A,SPERA F J,B+,3
+W10,Undergraduate,GEOL    102A,SPERA F J,B,2
+W10,Undergraduate,GEOL    111,TIFFNEY B H,A+,2
+W10,Undergraduate,GEOL    111,TIFFNEY B H,A,1
+W10,Undergraduate,GEOL    111,TIFFNEY B H,A-,1
+W10,Undergraduate,GEOL    111,TIFFNEY B H,B+,4
+W10,Undergraduate,GEOL    111,TIFFNEY B H,B-,5
+W10,Undergraduate,GEOL    111,TIFFNEY B H,C+,6
+W10,Undergraduate,GEOL    111,TIFFNEY B H,C,2
+W10,Undergraduate,GEOL    111,TIFFNEY B H,C-,5
+W10,Undergraduate,GEOL    111,TIFFNEY B H,D+,3
+W10,Undergraduate,GEOL    111,TIFFNEY B H,D-,2
+W10,Undergraduate,GEOL    111,TIFFNEY B H,F,6
+W10,Undergraduate,GEOL    114B,COTTLE J,A+,1
+W10,Undergraduate,GEOL    114B,COTTLE J,A,2
+W10,Undergraduate,GEOL    114B,COTTLE J,A-,13
+W10,Undergraduate,GEOL    114B,COTTLE J,B+,7
+W10,Undergraduate,GEOL    114B,COTTLE J,B,5
+W10,Undergraduate,GEOL    114B,COTTLE J,B-,3
+W10,Undergraduate,GEOL    114B,COTTLE J,D+,1
+W10,Undergraduate,GEOL    121,SWEET S S,A,2
+W10,Undergraduate,GEOL    121,SWEET S S,B-,1
+W10,Undergraduate,GEOL    121,SWEET S S,C,2
+W10,Undergraduate,GEOL    121,SWEET S S,C-,3
+W10,Undergraduate,GEOL    121,SWEET S S,F,1
+W10,Undergraduate,GEOL    134,ARCHULETA R J,A,4
+W10,Undergraduate,GEOL    134,ARCHULETA R J,A-,3
+W10,Undergraduate,GEOL    134,ARCHULETA R J,B+,4
+W10,Undergraduate,GEOL    134,ARCHULETA R J,B,3
+W10,Undergraduate,GEOL    134,ARCHULETA R J,B-,1
+W10,Undergraduate,GEOL    134,ARCHULETA R J,C+,3
+W10,Undergraduate,GEOL    134,ARCHULETA R J,C,4
+W10,Undergraduate,GEOL    134,ARCHULETA R J,C-,1
+W10,Undergraduate,GEOL    134,ARCHULETA R J,F,1
+W10,Undergraduate,GEOL    136,JI C,A,1
+W10,Undergraduate,GEOL    136,JI C,A-,1
+W10,Undergraduate,GEOL    136,JI C,B,2
+W10,Undergraduate,GEOL    136,JI C,C,1
+W10,Undergraduate,GEOL    160,WELDEAB S,P,23
+W10,Undergraduate,GEOL    160,WELDEAB S,NP,3
+W10,Undergraduate,GEOL    164B,VALENTINE D L,A+,1
+W10,Undergraduate,GEOL    164B,VALENTINE D L,A,5
+W10,Undergraduate,GEOL    164B,VALENTINE D L,A-,2
+W10,Undergraduate,GEOL    164B,VALENTINE D L,B+,3
+W10,Undergraduate,GEOL    164B,VALENTINE D L,B,6
+W10,Undergraduate,GEOL    164B,VALENTINE D L,B-,3
+W10,Undergraduate,GEOL    164B,VALENTINE D L,C,2
+W10,Undergraduate,GEOL    164B,VALENTINE D L,C-,1
+W10,Undergraduate,GEOL    164B,VALENTINE D L,D,2
+W10,Undergraduate,GEOL    173,LOAICIGA H,A,2
+W10,Undergraduate,GEOL    173,LOAICIGA H,A-,4
+W10,Undergraduate,GEOL    173,LOAICIGA H,B+,5
+W10,Undergraduate,GEOL    173,LOAICIGA H,B,2
+W10,Undergraduate,GEOL    173,LOAICIGA H,B-,1
+W10,Undergraduate,GEOL    173,LOAICIGA H,C-,1
+W10,Undergraduate,GEOL    173,LOAICIGA H,F,1
+W10,Graduate,GEOL    201B,BURBANK D W,S,9
+W10,Graduate,GEOL    201B,WYSS A R,S,9
+W10,Graduate,GEOL    260,WELDEAB S,F,1
+W10,Graduate,GEOL    260,WELDEAB S,S,33
+W10,Graduate,GEOL    264,HACKER B R,A+,1
+W10,Graduate,GEOL    264,HACKER B R,A,7
+W10,Graduate,GEOL    266,LEA D W,A+,1
+W10,Graduate,GEOL    266,LEA D W,A,3
+W10,Graduate,GEOL    266,LEA D W,B+,3
+W10,Graduate,GEOL    266,LEA D W,B,1
+W10,Graduate,GEOL    270,BUSBY C,A+,6
+W10,Graduate,GEOL    270,VALENTINE D L,A,6

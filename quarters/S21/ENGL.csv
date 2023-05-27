@@ -1,0 +1,232 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,ENGL     10,DONNELLY B,A,72
+S21,Undergraduate,ENGL     10,DONNELLY B,A-,84
+S21,Undergraduate,ENGL     10,DONNELLY B,A+,1
+S21,Undergraduate,ENGL     10,DONNELLY B,B,35
+S21,Undergraduate,ENGL     10,DONNELLY B,B-,18
+S21,Undergraduate,ENGL     10,DONNELLY B,B+,53
+S21,Undergraduate,ENGL     10,DONNELLY B,C,7
+S21,Undergraduate,ENGL     10,DONNELLY B,C-,3
+S21,Undergraduate,ENGL     10,DONNELLY B,C+,4
+S21,Undergraduate,ENGL     10,DONNELLY B,D,2
+S21,Undergraduate,ENGL     10,DONNELLY B,D+,1
+S21,Undergraduate,ENGL     10,DONNELLY B,F,9
+S21,Undergraduate,ENGL     25,LIU A Y,A,31
+S21,Undergraduate,ENGL     25,LIU A Y,A-,15
+S21,Undergraduate,ENGL     25,LIU A Y,A+,7
+S21,Undergraduate,ENGL     25,LIU A Y,B,19
+S21,Undergraduate,ENGL     25,LIU A Y,B-,8
+S21,Undergraduate,ENGL     25,LIU A Y,B+,17
+S21,Undergraduate,ENGL     25,LIU A Y,C,2
+S21,Undergraduate,ENGL     25,LIU A Y,C-,3
+S21,Undergraduate,ENGL     25,LIU A Y,C+,2
+S21,Undergraduate,ENGL     25,LIU A Y,F,17
+S21,Undergraduate,ENGL     25S,LIU A Y,A,5
+S21,Undergraduate,ENGL     50,RANA S,A,54
+S21,Undergraduate,ENGL     50,RANA S,A-,41
+S21,Undergraduate,ENGL     50,RANA S,A+,7
+S21,Undergraduate,ENGL     50,RANA S,B,29
+S21,Undergraduate,ENGL     50,RANA S,B-,6
+S21,Undergraduate,ENGL     50,RANA S,B+,38
+S21,Undergraduate,ENGL     50,RANA S,C+,5
+S21,Undergraduate,ENGL     50,RANA S,F,2
+S21,Undergraduate,ENGL     50S,RANA S,A,11
+S21,Undergraduate,ENGL     50S,RANA S,A-,2
+S21,Undergraduate,ENGL     50S,RANA S,A+,1
+S21,Undergraduate,ENGL     50S,RANA S,B,3
+S21,Undergraduate,ENGL     50S,RANA S,B+,1
+S21,Undergraduate,ENGL     50S,RANA S,C,1
+S21,Undergraduate,ENGL     65FM,WICKE J A,A,136
+S21,Undergraduate,ENGL     65FM,WICKE J A,A-,12
+S21,Undergraduate,ENGL     65FM,WICKE J A,A+,30
+S21,Undergraduate,ENGL     65FM,WICKE J A,B,5
+S21,Undergraduate,ENGL     65FM,WICKE J A,B-,1
+S21,Undergraduate,ENGL     65FM,WICKE J A,B+,6
+S21,Undergraduate,ENGL     65FM,WICKE J A,C,1
+S21,Undergraduate,ENGL     65FM,WICKE J A,F,3
+S21,Undergraduate,ENGL    103B,GILMORE T B,A,49
+S21,Undergraduate,ENGL    103B,GILMORE T B,A-,25
+S21,Undergraduate,ENGL    103B,GILMORE T B,A+,8
+S21,Undergraduate,ENGL    103B,GILMORE T B,B,21
+S21,Undergraduate,ENGL    103B,GILMORE T B,B-,3
+S21,Undergraduate,ENGL    103B,GILMORE T B,B+,26
+S21,Undergraduate,ENGL    103B,GILMORE T B,C,4
+S21,Undergraduate,ENGL    103B,GILMORE T B,C-,1
+S21,Undergraduate,ENGL    103B,GILMORE T B,C+,3
+S21,Undergraduate,ENGL    103B,GILMORE T B,D,1
+S21,Undergraduate,ENGL    103B,GILMORE T B,F,8
+S21,Undergraduate,ENGL    104A,HUANG YU,A,53
+S21,Undergraduate,ENGL    104A,HUANG YU,A-,28
+S21,Undergraduate,ENGL    104A,HUANG YU,A+,17
+S21,Undergraduate,ENGL    104A,HUANG YU,B,19
+S21,Undergraduate,ENGL    104A,HUANG YU,B-,9
+S21,Undergraduate,ENGL    104A,HUANG YU,B+,33
+S21,Undergraduate,ENGL    104A,HUANG YU,C,4
+S21,Undergraduate,ENGL    104A,HUANG YU,C-,2
+S21,Undergraduate,ENGL    104A,HUANG YU,C+,7
+S21,Undergraduate,ENGL    104A,HUANG YU,F,7
+S21,Undergraduate,ENGL    104AS,HUANG YU,A,4
+S21,Undergraduate,ENGL    104AS,HUANG YU,A-,1
+S21,Undergraduate,ENGL    104AS,HUANG YU,A+,2
+S21,Undergraduate,ENGL    105A,FUMERTON M P,A,21
+S21,Undergraduate,ENGL    105A,FUMERTON M P,A-,25
+S21,Undergraduate,ENGL    105A,FUMERTON M P,B,23
+S21,Undergraduate,ENGL    105A,FUMERTON M P,B-,14
+S21,Undergraduate,ENGL    105A,FUMERTON M P,B+,27
+S21,Undergraduate,ENGL    105A,FUMERTON M P,C,4
+S21,Undergraduate,ENGL    105A,FUMERTON M P,C-,3
+S21,Undergraduate,ENGL    105A,FUMERTON M P,C+,12
+S21,Undergraduate,ENGL    105A,FUMERTON M P,D,2
+S21,Undergraduate,ENGL    105A,FUMERTON M P,F,3
+S21,Undergraduate,ENGL    105AS,FUMERTON M P,A,5
+S21,Undergraduate,ENGL    106CW,DONNELLY B,A,19
+S21,Undergraduate,ENGL    122FE,SHEWRY T J,A,21
+S21,Undergraduate,ENGL    122FE,SHEWRY T J,A-,13
+S21,Undergraduate,ENGL    122FE,SHEWRY T J,B+,3
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,A,12
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,A-,4
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,A+,2
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,B,7
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,B+,3
+S21,Undergraduate,ENGL    122RS,SALTON-COX G,D,1
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,A,10
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,A-,7
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,A+,1
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,B,2
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,B+,7
+S21,Undergraduate,ENGL    122UM,SALTON-COX G,C,1
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,A,3
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,A-,10
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,A+,1
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,B,2
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,B+,5
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,C,1
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,C+,1
+S21,Undergraduate,ENGL    128AF,SAMOLSKY R E,F,1
+S21,Undergraduate,ENGL    134RJ,RANA S,A,6
+S21,Undergraduate,ENGL    134RJ,RANA S,A-,6
+S21,Undergraduate,ENGL    134RJ,RANA S,B,4
+S21,Undergraduate,ENGL    134RJ,RANA S,B+,4
+S21,Undergraduate,ENGL    134RJ,RANA S,C,1
+S21,Undergraduate,ENGL    134RJ,RANA S,C+,1
+S21,Undergraduate,ENGL    134RJ,RANA S,F,1
+S21,Undergraduate,ENGL    147GM,GHOSH B,A,7
+S21,Undergraduate,ENGL    147GM,GHOSH B,A-,5
+S21,Undergraduate,ENGL    147GM,GHOSH B,A+,2
+S21,Undergraduate,ENGL    147GM,GHOSH B,B,6
+S21,Undergraduate,ENGL    147GM,GHOSH B,B-,2
+S21,Undergraduate,ENGL    147GM,GHOSH B,B+,5
+S21,Undergraduate,ENGL    147GM,GHOSH B,C,1
+S21,Undergraduate,ENGL    147GM,GHOSH B,C-,1
+S21,Undergraduate,ENGL    147GM,GHOSH B,D,1
+S21,Undergraduate,ENGL    150,DUFFY A E,A,74
+S21,Undergraduate,ENGL    150,DUFFY A E,A-,33
+S21,Undergraduate,ENGL    150,DUFFY A E,A+,6
+S21,Undergraduate,ENGL    150,DUFFY A E,B,12
+S21,Undergraduate,ENGL    150,DUFFY A E,B-,6
+S21,Undergraduate,ENGL    150,DUFFY A E,B+,13
+S21,Undergraduate,ENGL    150,DUFFY A E,C,6
+S21,Undergraduate,ENGL    150,DUFFY A E,C-,1
+S21,Undergraduate,ENGL    150,DUFFY A E,C+,5
+S21,Undergraduate,ENGL    150,DUFFY A E,D,1
+S21,Undergraduate,ENGL    150,DUFFY A E,D-,1
+S21,Undergraduate,ENGL    150,DUFFY A E,D+,4
+S21,Undergraduate,ENGL    150,DUFFY A E,F,6
+S21,Undergraduate,ENGL    150S,DUFFY A E,A,9
+S21,Undergraduate,ENGL    150S,DUFFY A E,A+,7
+S21,Undergraduate,ENGL    151JA,YOUNG K,A,6
+S21,Undergraduate,ENGL    151JA,YOUNG K,A-,7
+S21,Undergraduate,ENGL    151JA,YOUNG K,A+,4
+S21,Undergraduate,ENGL    151JA,YOUNG K,B,2
+S21,Undergraduate,ENGL    151JA,YOUNG K,B-,2
+S21,Undergraduate,ENGL    151JA,YOUNG K,B+,2
+S21,Undergraduate,ENGL    151JA,YOUNG K,F,1
+S21,Undergraduate,ENGL    165AE,SAMOLSKY R E,A,1
+S21,Undergraduate,ENGL    165AE,SAMOLSKY R E,A-,11
+S21,Undergraduate,ENGL    165AE,SAMOLSKY R E,B-,1
+S21,Undergraduate,ENGL    165AE,SAMOLSKY R E,B+,8
+S21,Undergraduate,ENGL    165AE,SAMOLSKY R E,F,2
+S21,Undergraduate,ENGL    165WN,ATNIP L M,A,6
+S21,Undergraduate,ENGL    165WN,ATNIP L M,A-,10
+S21,Undergraduate,ENGL    165WN,ATNIP L M,A+,4
+S21,Undergraduate,ENGL    165WN,ATNIP L M,B,1
+S21,Undergraduate,ENGL    165WN,ATNIP L M,B-,3
+S21,Undergraduate,ENGL    165WN,ATNIP L M,B+,6
+S21,Undergraduate,ENGL    165WN,ATNIP L M,F,2
+S21,Undergraduate,ENGL    170MB,PARK S,A,15
+S21,Undergraduate,ENGL    170MB,PARK S,A-,15
+S21,Undergraduate,ENGL    170MB,PARK S,A+,53
+S21,Undergraduate,ENGL    170MB,PARK S,B,11
+S21,Undergraduate,ENGL    170MB,PARK S,B-,6
+S21,Undergraduate,ENGL    170MB,PARK S,B+,11
+S21,Undergraduate,ENGL    170MB,PARK S,C,2
+S21,Undergraduate,ENGL    170MB,PARK S,C-,1
+S21,Undergraduate,ENGL    170MB,PARK S,C+,7
+S21,Undergraduate,ENGL    170MB,PARK S,D,3
+S21,Undergraduate,ENGL    170MB,PARK S,D-,2
+S21,Undergraduate,ENGL    170MB,PARK S,F,1
+S21,Undergraduate,ENGL    170MT,YOUNG K,A,13
+S21,Undergraduate,ENGL    170MT,YOUNG K,A-,2
+S21,Undergraduate,ENGL    170MT,YOUNG K,A+,3
+S21,Undergraduate,ENGL    170MT,YOUNG K,B,2
+S21,Undergraduate,ENGL    170MT,YOUNG K,B-,1
+S21,Undergraduate,ENGL    170MT,YOUNG K,B+,1
+S21,Undergraduate,ENGL    170MT,YOUNG K,C,2
+S21,Undergraduate,ENGL    183WP,BATISTE S L,A,5
+S21,Undergraduate,ENGL    183WP,BATISTE S L,A-,1
+S21,Undergraduate,ENGL    183WP,BATISTE S L,A+,5
+S21,Undergraduate,ENGL    189,RALEY R M,A,3
+S21,Undergraduate,ENGL    189,RALEY R M,A-,9
+S21,Undergraduate,ENGL    189,RALEY R M,B,5
+S21,Undergraduate,ENGL    189,RALEY R M,B+,11
+S21,Undergraduate,ENGL    189,RALEY R M,C,1
+S21,Undergraduate,ENGL    189,RALEY R M,C-,1
+S21,Undergraduate,ENGL    189,RALEY R M,C+,2
+S21,Undergraduate,ENGL    189,RALEY R M,F,1
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,A,29
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,A-,23
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,A+,8
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,B,18
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,B-,7
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,B+,15
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,C,5
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,C-,3
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,C+,4
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,D,5
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,D-,4
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,D+,2
+S21,Undergraduate,ENGL    192WW,MCCANTS K A,F,5
+S21,Undergraduate,ENGL    195I,REEVE D J,A,11
+S21,Undergraduate,ENGL    195I,REEVE D J,A+,1
+S21,Undergraduate,ENGL    197,PARK S,A,8
+S21,Undergraduate,ENGL    197,PARK S,A+,1
+S21,Undergraduate,ENGL    197,PARK S,B,2
+S21,Undergraduate,ENGL    197,PARK S,B-,1
+S21,Undergraduate,ENGL    197,PARK S,B+,2
+S21,Undergraduate,ENGL    197,PARK S,D-,1
+S21,Undergraduate,ENGL    197,RALEY R M,A,3
+S21,Undergraduate,ENGL    197,RALEY R M,B,2
+S21,Undergraduate,ENGL    197,RALEY R M,B+,3
+S21,Undergraduate,ENGL    197,RALEY R M,C,1
+S21,Undergraduate,ENGL    197,RALEY R M,F,5
+S21,Undergraduate,ENGL    197,SALTON-COX G,A,8
+S21,Undergraduate,ENGL    197,SALTON-COX G,A-,3
+S21,Undergraduate,ENGL    197,SALTON-COX G,A+,1
+S21,Undergraduate,ENGL    197,SALTON-COX G,B,2
+S21,Undergraduate,ENGL    197,SALTON-COX G,B-,1
+S21,Undergraduate,ENGL    197,SALTON-COX G,B+,2
+S21,Undergraduate,ENGL    198H,WAID C J,A,18
+S21,Undergraduate,ENGL    198H,WAID C J,C,1
+S21,Graduate,ENGL    234,SHEWRY T J,A,9
+S21,Graduate,ENGL    235,BATISTE S L,A,3
+S21,Graduate,ENGL    235,BATISTE S L,A-,1
+S21,Graduate,ENGL    235,BATISTE S L,A+,2
+S21,Graduate,ENGL    235,BATISTE S L,S,2
+S21,Graduate,ENGL    235,HUANG YU,A,3
+S21,Graduate,ENGL    235,HUANG YU,A-,1
+S21,Graduate,ENGL    235,HUANG YU,A+,1
+S21,Graduate,ENGL    265BP,PARK S,A-,1
+S21,Graduate,ENGL    265BP,PARK S,A+,7
+S21,Graduate,ENGL    265IS,MORAGA C L,A,4
+S21,Graduate,ENGL    265IS,MORAGA C L,A-,2
+S21,Graduate,ENGL    265IS,MORAGA C L,F,1

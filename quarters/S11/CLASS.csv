@@ -1,0 +1,63 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,CLASS    39,GALLUCCI R,A,16
+S11,Undergraduate,CLASS    39,GALLUCCI R,A-,15
+S11,Undergraduate,CLASS    39,GALLUCCI R,B+,13
+S11,Undergraduate,CLASS    39,GALLUCCI R,B,14
+S11,Undergraduate,CLASS    39,GALLUCCI R,B-,10
+S11,Undergraduate,CLASS    39,GALLUCCI R,C+,2
+S11,Undergraduate,CLASS    39,GALLUCCI R,C,11
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,A+,42
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,A,133
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,A-,98
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,B+,71
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,B,107
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,B-,45
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,C+,23
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,C,25
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,C-,10
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,D+,6
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,D,6
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,D-,2
+S11,Undergraduate,CLASS    40,ATHANASSAKIS,F,9
+S11,Undergraduate,CLASS    80B,HAHN F V,A+,2
+S11,Undergraduate,CLASS    80B,HAHN F V,A,3
+S11,Undergraduate,CLASS    80B,HAHN F V,A-,3
+S11,Undergraduate,CLASS    80B,HAHN F V,B+,18
+S11,Undergraduate,CLASS    80B,HAHN F V,B,7
+S11,Undergraduate,CLASS    80B,HAHN F V,B-,5
+S11,Undergraduate,CLASS    80B,HAHN F V,C+,5
+S11,Undergraduate,CLASS    80B,HAHN F V,C,7
+S11,Undergraduate,CLASS    80B,HAHN F V,D,1
+S11,Undergraduate,CLASS    80B,HAHN F V,F,5
+S11,Undergraduate,CLASS   109,DUNN F M,A+,4
+S11,Undergraduate,CLASS   109,DUNN F M,A,11
+S11,Undergraduate,CLASS   109,DUNN F M,A-,3
+S11,Undergraduate,CLASS   109,DUNN F M,B+,3
+S11,Undergraduate,CLASS   109,DUNN F M,B,9
+S11,Undergraduate,CLASS   109,DUNN F M,B-,5
+S11,Undergraduate,CLASS   109,DUNN F M,C+,9
+S11,Undergraduate,CLASS   109,DUNN F M,C,3
+S11,Undergraduate,CLASS   109,DUNN F M,C-,3
+S11,Undergraduate,CLASS   109,DUNN F M,D+,1
+S11,Undergraduate,CLASS   109,DUNN F M,D,2
+S11,Undergraduate,CLASS   109,DUNN F M,F,4
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,A+,2
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,A,13
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,A-,7
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,B+,8
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,B,16
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,B-,5
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,C+,6
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,C,10
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,C-,1
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,D+,2
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,D,4
+S11,Undergraduate,CLASS   150,MORSTEIN-MARX,F,8
+S11,Undergraduate,CLASS   185AA,DUTSCH D,A,5
+S11,Undergraduate,CLASS   185AA,DUTSCH D,A-,2
+S11,Undergraduate,CLASS   185AA,DUTSCH D,B+,1
+S11,Undergraduate,CLASS   185AA,DUTSCH D,C+,5
+S11,Graduate,CLASS   213,DUTSCH D,A,2
+S11,Graduate,CLASS   213,DUTSCH D,A-,3
+S11,Graduate,CLASS   231,MORALES H L,A+,3
+S11,Graduate,CLASS   231,MORALES H L,A,2

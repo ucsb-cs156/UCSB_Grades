@@ -1,0 +1,104 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,ED      109M,SHISHIM M D,P,58
+M17,Undergraduate,ED      111,HALLOWELL D A,A+,4
+M17,Undergraduate,ED      111,HALLOWELL D A,A,3
+M17,Undergraduate,ED      111,HALLOWELL D A,A-,2
+M17,Undergraduate,ED      111,HALLOWELL D A,B+,2
+M17,Undergraduate,ED      111,HALLOWELL D A,B,3
+M17,Undergraduate,ED      111,HALLOWELL D A,B-,1
+M17,Undergraduate,ED      111,HALLOWELL D A,C+,2
+M17,Undergraduate,ED      111,HALLOWELL D A,C,3
+M17,Undergraduate,ED      111,HALLOWELL D A,F,2
+M17,Undergraduate,ED      111,ROMO L F,A+,4
+M17,Undergraduate,ED      111,ROMO L F,A,18
+M17,Undergraduate,ED      111,ROMO L F,A-,5
+M17,Undergraduate,ED      111,ROMO L F,B+,8
+M17,Undergraduate,ED      111,ROMO L F,C+,1
+M17,Undergraduate,ED      111,ROMO L F,F,1
+M17,Undergraduate,ED      117M,FEMATT V L,P,57
+M17,Undergraduate,ED      123,CLAIRMONT III,A+,6
+M17,Undergraduate,ED      123,CLAIRMONT III,A,7
+M17,Undergraduate,ED      123,CLAIRMONT III,A-,4
+M17,Undergraduate,ED      123,CLAIRMONT III,B-,2
+M17,Undergraduate,ED      123,MEIER V C,A+,3
+M17,Undergraduate,ED      123,MEIER V C,A,16
+M17,Undergraduate,ED      123,MEIER V C,A-,1
+M17,Undergraduate,ED      123,MEIER V C,F,1
+M17,Undergraduate,ED      123,SANDOVAL N I,A,21
+M17,Undergraduate,ED      125,BIGHAM J L,A,6
+M17,Undergraduate,ED      125,BIGHAM J L,A-,3
+M17,Undergraduate,ED      125,BIGHAM J L,B+,2
+M17,Undergraduate,ED      125,BIGHAM J L,B,2
+M17,Undergraduate,ED      125,BIGHAM J L,B-,3
+M17,Undergraduate,ED      125,BIGHAM J L,C+,1
+M17,Undergraduate,ED      125,BIGHAM J L,C,1
+M17,Undergraduate,ED      125,RUDDER-BREED,A+,1
+M17,Undergraduate,ED      125,RUDDER-BREED,A,9
+M17,Undergraduate,ED      125,RUDDER-BREED,A-,4
+M17,Undergraduate,ED      125,RUDDER-BREED,B+,1
+M17,Undergraduate,ED      125,RUDDER-BREED,B,3
+M17,Undergraduate,ED      125,RUDDER-BREED,B-,2
+M17,Undergraduate,ED      125,RUDDER-BREED,C+,1
+M17,Undergraduate,ED      173,HARMON L,A+,3
+M17,Undergraduate,ED      173,HARMON L,A,5
+M17,Undergraduate,ED      173,HARMON L,A-,1
+M17,Undergraduate,ED      173,HARMON L,B+,1
+M17,Undergraduate,ED      173,HARMON L,B,2
+M17,Undergraduate,ED      173,HARMON L,F,1
+M17,Graduate,ED      228A,HOLDREN N R,A,4
+M17,Graduate,ED      228A,HOLDREN N R,A-,1
+M17,Graduate,ED      228B,FEDDERS A,A+,1
+M17,Graduate,ED      228B,FEDDERS A,A,2
+M17,Graduate,ED      228B,FEDDERS A,A-,2
+M17,Graduate,ED      229C,FEDDERS A,S,5
+M17,Graduate,ED      229D,HOLDREN N R,A,5
+M17,Graduate,ED      263,MORAN A S,A,40
+M17,Graduate,ED      264,HARMON L,A+,3
+M17,Graduate,ED      264,HARMON L,A,13
+M17,Graduate,ED      264,HARMON L,A-,3
+M17,Graduate,ED      264,HARMON L,B+,1
+M17,Graduate,ED      264,OXELSON E M,A,17
+M17,Graduate,ED      265D,BIANCHINI J A,A,9
+M17,Graduate,ED      265D,BRENNER M E,A,8
+M17,Graduate,ED      265D,DEWAR T J,A,10
+M17,Graduate,ED      265D,JOHNSON S K,A,10
+M17,Graduate,ED      265D,OXELSON E M,A,10
+M17,Graduate,ED      265D,RALEY J D,A,17
+M17,Graduate,ED      265D,ROBERTS S A,A,9
+M17,Graduate,ED      265D,SCALZO J N,A,9
+M17,Graduate,ED      265D,SLOAN T F,A,10
+M17,Graduate,ED      268,ELLIS B D,A,21
+M17,Graduate,ED      268,HARVEY V A,A,20
+M17,Graduate,ED      268,OXELSON E M,A,18
+M17,Graduate,ED      268,RALEY J D,A,18
+M17,Graduate,ED      291,FEDDERS A,A+,2
+M17,Graduate,ED      291,FEDDERS A,A,3
+M17,Graduate,ED      318,ARYA D J,A,22
+M17,Graduate,ED      318,SCALZO J N,A,19
+M17,Graduate,ED      319,HARMON L,A,17
+M17,Graduate,ED      319,SCALZO J N,A,19
+M17,Graduate,ED      326,WHITAKER D R,S,37
+M17,Graduate,ED      327,GRANGER M,S,36
+M17,Graduate,ED      330,LOWI R S,S,73
+M17,Graduate,ED      340,FEDDERS A,S,38
+M17,Graduate,ED      370,CARLYLE A M,S,7
+M17,Graduate,ED      370,MEYER M N,S,7
+M17,Graduate,ED      370,MORALES E L,S,6
+M17,Graduate,ED      370,NAIMAN D G,S,6
+M17,Graduate,ED      370,OXELSON E M,S,6
+M17,Graduate,ED      370,WHITAKER D R,S,6
+M17,Graduate,ED   E  321M,LOWI R S,S,10
+M17,Graduate,ED   E  341,DEWAR T J,S,10
+M17,Graduate,ED   E  371,DEWAR T J,S,10
+M17,Graduate,ED   HSS321M,ESTABROOK J A,S,11
+M17,Graduate,ED   HSS321M,MULLIN C D,S,11
+M17,Graduate,ED   HSS341,FEDDERS A,S,11
+M17,Graduate,ED   HSS371,ESTABROOK J A,S,11
+M17,Graduate,ED   M  321M,SCHNEIDER C A,S,8
+M17,Graduate,ED   M  341,SLOAN T F,S,8
+M17,Graduate,ED   M  371,ROSS E G,S,8
+M17,Graduate,ED   S  321M,BIANCHINI J A,S,7
+M17,Graduate,ED   S  321M,JOHNSON S K,S,7
+M17,Graduate,ED   S  321M,LUBCHENCO P J,S,7
+M17,Graduate,ED   S  341,RALEY J D,S,7
+M17,Graduate,ED   S  371,LUBCHENCO P J,S,7

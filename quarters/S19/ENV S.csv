@@ -1,0 +1,302 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,ENV S     3,MARTIN J A,A+,5
+S19,Undergraduate,ENV S     3,MARTIN J A,A,74
+S19,Undergraduate,ENV S     3,MARTIN J A,A-,109
+S19,Undergraduate,ENV S     3,MARTIN J A,B+,106
+S19,Undergraduate,ENV S     3,MARTIN J A,B,150
+S19,Undergraduate,ENV S     3,MARTIN J A,B-,110
+S19,Undergraduate,ENV S     3,MARTIN J A,C+,60
+S19,Undergraduate,ENV S     3,MARTIN J A,C,57
+S19,Undergraduate,ENV S     3,MARTIN J A,C-,28
+S19,Undergraduate,ENV S     3,MARTIN J A,D+,9
+S19,Undergraduate,ENV S     3,MARTIN J A,D,11
+S19,Undergraduate,ENV S     3,MARTIN J A,F,28
+S19,Undergraduate,ENV S     3H,MARTIN J A,P,21
+S19,Undergraduate,ENV S    15B,GARDNER H K,A+,3
+S19,Undergraduate,ENV S    15B,GARDNER H K,A,21
+S19,Undergraduate,ENV S    15B,GARDNER H K,A-,7
+S19,Undergraduate,ENV S    15B,GARDNER H K,B+,8
+S19,Undergraduate,ENV S    15B,GARDNER H K,B,67
+S19,Undergraduate,ENV S    15B,GARDNER H K,B-,9
+S19,Undergraduate,ENV S    15B,GARDNER H K,C+,1
+S19,Undergraduate,ENV S    15B,GARDNER H K,C,20
+S19,Undergraduate,ENV S    15B,GARDNER H K,C-,2
+S19,Undergraduate,ENV S    15B,GARDNER H K,D+,2
+S19,Undergraduate,ENV S    15B,GARDNER H K,D,4
+S19,Undergraduate,ENV S    15B,GARDNER H K,D-,1
+S19,Undergraduate,ENV S    15B,GARDNER H K,F,4
+S19,Undergraduate,ENV S    15BL,GARDNER H K,A+,5
+S19,Undergraduate,ENV S    15BL,GARDNER H K,A,83
+S19,Undergraduate,ENV S    15BL,GARDNER H K,A-,14
+S19,Undergraduate,ENV S    15BL,GARDNER H K,B+,3
+S19,Undergraduate,ENV S    15BL,GARDNER H K,B,35
+S19,Undergraduate,ENV S    15BL,GARDNER H K,B-,1
+S19,Undergraduate,ENV S    15BL,GARDNER H K,C+,1
+S19,Undergraduate,ENV S    15BL,GARDNER H K,C,1
+S19,Undergraduate,ENV S    15BL,GARDNER H K,D,3
+S19,Undergraduate,ENV S    15BL,GARDNER H K,F,1
+S19,Undergraduate,ENV S    15BL,GORCHELS M,A+,3
+S19,Undergraduate,ENV S    15BL,GORCHELS M,A,24
+S19,Undergraduate,ENV S    15BL,GORCHELS M,A-,5
+S19,Undergraduate,ENV S    15BL,GORCHELS M,B+,1
+S19,Undergraduate,ENV S    15BL,GORCHELS M,B,13
+S19,Undergraduate,ENV S    15BL,GORCHELS M,C,1
+S19,Undergraduate,ENV S    15BL,GORCHELS M,F,1
+S19,Undergraduate,ENV S    15BL,SWALEC C M,A,21
+S19,Undergraduate,ENV S    15BL,SWALEC C M,A-,7
+S19,Undergraduate,ENV S    15BL,SWALEC C M,B+,2
+S19,Undergraduate,ENV S    15BL,SWALEC C M,B,15
+S19,Undergraduate,ENV S    15BL,SWALEC C M,C+,1
+S19,Undergraduate,ENV S    15BL,SWALEC C M,D,2
+S19,Undergraduate,ENV S    15BL,ZHANG Y,A+,2
+S19,Undergraduate,ENV S    15BL,ZHANG Y,A,38
+S19,Undergraduate,ENV S    15BL,ZHANG Y,A-,2
+S19,Undergraduate,ENV S    15BL,ZHANG Y,B,7
+S19,Undergraduate,ENV S    15BL,ZHANG Y,B-,1
+S19,Undergraduate,ENV S    15BL,ZHANG Y,D,1
+S19,Undergraduate,ENV S    25,GEE Q P,A+,3
+S19,Undergraduate,ENV S    25,GEE Q P,A,11
+S19,Undergraduate,ENV S    25,GEE Q P,A-,15
+S19,Undergraduate,ENV S    25,GEE Q P,B+,18
+S19,Undergraduate,ENV S    25,GEE Q P,B,20
+S19,Undergraduate,ENV S    25,GEE Q P,B-,13
+S19,Undergraduate,ENV S    25,GEE Q P,C+,12
+S19,Undergraduate,ENV S    25,GEE Q P,C,14
+S19,Undergraduate,ENV S    25,GEE Q P,C-,5
+S19,Undergraduate,ENV S    25,GEE Q P,D+,2
+S19,Undergraduate,ENV S    25,GEE Q P,F,2
+S19,Undergraduate,ENV S    50,GEE Q P,A,12
+S19,Undergraduate,ENV S    50,GEE Q P,A-,17
+S19,Undergraduate,ENV S    50,GEE Q P,B+,6
+S19,Undergraduate,ENV S    50,GEE Q P,B,4
+S19,Undergraduate,ENV S    50,GEE Q P,C+,1
+S19,Undergraduate,ENV S    50,GEE Q P,F,1
+S19,Undergraduate,ENV S    95,STRATTON E C,P,34
+S19,Undergraduate,ENV S    95,STRATTON E C,NP,4
+S19,Undergraduate,ENV S    96,SELTMANN K,P,4
+S19,Undergraduate,ENV S    99,D'ANTONIO C M,A,1
+S19,Undergraduate,ENV S    99,GRAY S M,A,1
+S19,Undergraduate,ENV S    99,MACDONALD A J,A,1
+S19,Undergraduate,ENV S   105,DESHMUKH R A,A+,2
+S19,Undergraduate,ENV S   105,DESHMUKH R A,A,27
+S19,Undergraduate,ENV S   105,DESHMUKH R A,A-,23
+S19,Undergraduate,ENV S   105,DESHMUKH R A,B+,23
+S19,Undergraduate,ENV S   105,DESHMUKH R A,B,20
+S19,Undergraduate,ENV S   105,DESHMUKH R A,B-,23
+S19,Undergraduate,ENV S   105,DESHMUKH R A,C+,13
+S19,Undergraduate,ENV S   105,DESHMUKH R A,C,3
+S19,Undergraduate,ENV S   105,DESHMUKH R A,D+,1
+S19,Undergraduate,ENV S   105,DESHMUKH R A,F,4
+S19,Undergraduate,ENV S   108W,ALAGONA P S,A+,5
+S19,Undergraduate,ENV S   108W,ALAGONA P S,A,10
+S19,Undergraduate,ENV S   108W,ALAGONA P S,A-,11
+S19,Undergraduate,ENV S   108W,ALAGONA P S,B+,5
+S19,Undergraduate,ENV S   108W,ALAGONA P S,B,2
+S19,Undergraduate,ENV S   108W,ALAGONA P S,B-,5
+S19,Undergraduate,ENV S   108W,ALAGONA P S,C+,1
+S19,Undergraduate,ENV S   108W,ALAGONA P S,C,2
+S19,Undergraduate,ENV S   108W,ALAGONA P S,C-,1
+S19,Undergraduate,ENV S   113,ALESSIO P A,A,3
+S19,Undergraduate,ENV S   113,ALESSIO P A,A-,2
+S19,Undergraduate,ENV S   113,ALESSIO P A,B+,2
+S19,Undergraduate,ENV S   113,ALESSIO P A,B,3
+S19,Undergraduate,ENV S   113,ALESSIO P A,B-,2
+S19,Undergraduate,ENV S   113,ALESSIO P A,C+,1
+S19,Undergraduate,ENV S   113,ALESSIO P A,C-,1
+S19,Undergraduate,ENV S   121,GARDNER H K,A,13
+S19,Undergraduate,ENV S   121,GARDNER H K,A-,1
+S19,Undergraduate,ENV S   121,GARDNER H K,B+,3
+S19,Undergraduate,ENV S   121,GARDNER H K,B,2
+S19,Undergraduate,ENV S   121,GARDNER H K,B-,2
+S19,Undergraduate,ENV S   121,GARDNER H K,C,3
+S19,Undergraduate,ENV S   121,GARDNER H K,D-,1
+S19,Undergraduate,ENV S   121,GARDNER H K,F,1
+S19,Undergraduate,ENV S   125B,KROP L J,A+,12
+S19,Undergraduate,ENV S   125B,KROP L J,A,8
+S19,Undergraduate,ENV S   125B,KROP L J,A-,6
+S19,Undergraduate,ENV S   125B,KROP L J,B+,4
+S19,Undergraduate,ENV S   125B,KROP L J,B,2
+S19,Undergraduate,ENV S   125B,KROP L J,B-,2
+S19,Undergraduate,ENV S   125B,KROP L J,C+,4
+S19,Undergraduate,ENV S   125B,KROP L J,D,1
+S19,Undergraduate,ENV S   127B,LEWIN B A,A+,8
+S19,Undergraduate,ENV S   127B,LEWIN B A,A,13
+S19,Undergraduate,ENV S   127B,LEWIN B A,A-,3
+S19,Undergraduate,ENV S   127B,LEWIN B A,B-,1
+S19,Undergraduate,ENV S   128,NOLAN M P,A,1
+S19,Undergraduate,ENV S   128,NOLAN M P,A-,3
+S19,Undergraduate,ENV S   128,NOLAN M P,B+,2
+S19,Undergraduate,ENV S   128,NOLAN M P,B,8
+S19,Undergraduate,ENV S   128,NOLAN M P,B-,3
+S19,Undergraduate,ENV S   128,NOLAN M P,C+,1
+S19,Undergraduate,ENV S   128,NOLAN M P,C,3
+S19,Undergraduate,ENV S   128,NOLAN M P,D+,1
+S19,Undergraduate,ENV S   130SD,FORAN J F,A+,22
+S19,Undergraduate,ENV S   130SD,FORAN J F,A,91
+S19,Undergraduate,ENV S   130SD,FORAN J F,A-,14
+S19,Undergraduate,ENV S   130SD,FORAN J F,B+,2
+S19,Undergraduate,ENV S   130SD,FORAN J F,B,3
+S19,Undergraduate,ENV S   130SD,FORAN J F,C,1
+S19,Undergraduate,ENV S   130SD,FORAN J F,C-,1
+S19,Undergraduate,ENV S   130SD,FORAN J F,F,2
+S19,Undergraduate,ENV S   130SD,KING Z T,A+,22
+S19,Undergraduate,ENV S   130SD,KING Z T,A,91
+S19,Undergraduate,ENV S   130SD,KING Z T,A-,14
+S19,Undergraduate,ENV S   130SD,KING Z T,B+,2
+S19,Undergraduate,ENV S   130SD,KING Z T,B,3
+S19,Undergraduate,ENV S   130SD,KING Z T,C,1
+S19,Undergraduate,ENV S   130SD,KING Z T,C-,1
+S19,Undergraduate,ENV S   130SD,KING Z T,F,2
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,A+,22
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,A,91
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,A-,14
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,B+,2
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,B,3
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,C,1
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,C-,1
+S19,Undergraduate,ENV S   130SD,MCCUMBER A H,F,2
+S19,Undergraduate,ENV S   134,ADAMAITIS C,A,6
+S19,Undergraduate,ENV S   134,ADAMAITIS C,A-,2
+S19,Undergraduate,ENV S   134,ADAMAITIS C,B+,7
+S19,Undergraduate,ENV S   134,ADAMAITIS C,B,34
+S19,Undergraduate,ENV S   134,ADAMAITIS C,B-,7
+S19,Undergraduate,ENV S   134,ADAMAITIS C,C+,8
+S19,Undergraduate,ENV S   134,ADAMAITIS C,C,7
+S19,Undergraduate,ENV S   134,ADAMAITIS C,F,1
+S19,Undergraduate,ENV S   134,KELLER E A,A,6
+S19,Undergraduate,ENV S   134,KELLER E A,A-,2
+S19,Undergraduate,ENV S   134,KELLER E A,B+,7
+S19,Undergraduate,ENV S   134,KELLER E A,B,34
+S19,Undergraduate,ENV S   134,KELLER E A,B-,7
+S19,Undergraduate,ENV S   134,KELLER E A,C+,8
+S19,Undergraduate,ENV S   134,KELLER E A,C,7
+S19,Undergraduate,ENV S   134,KELLER E A,F,1
+S19,Undergraduate,ENV S   135B,STEPHENS C G,A,9
+S19,Undergraduate,ENV S   135B,STEPHENS C G,A-,10
+S19,Undergraduate,ENV S   135B,STEPHENS C G,B+,2
+S19,Undergraduate,ENV S   135B,STEPHENS C G,B,5
+S19,Undergraduate,ENV S   135B,STEPHENS C G,B-,2
+S19,Undergraduate,ENV S   135B,STEPHENS C G,C+,1
+S19,Undergraduate,ENV S   135B,STEPHENS C G,F,1
+S19,Undergraduate,ENV S   136,FELDWINN D L,B+,1
+S19,Undergraduate,ENV S   136,FELDWINN D L,B,1
+S19,Undergraduate,ENV S   136,FELDWINN D L,C,1
+S19,Undergraduate,ENV S   136,FELDWINN D L,D,2
+S19,Undergraduate,ENV S   143,ADAMS AJ,A+,3
+S19,Undergraduate,ENV S   143,ADAMS AJ,A,7
+S19,Undergraduate,ENV S   143,ADAMS AJ,A-,10
+S19,Undergraduate,ENV S   143,ADAMS AJ,B+,7
+S19,Undergraduate,ENV S   143,ADAMS AJ,B,7
+S19,Undergraduate,ENV S   143,ADAMS AJ,B-,4
+S19,Undergraduate,ENV S   143,ADAMS AJ,C+,1
+S19,Undergraduate,ENV S   143,ADAMS AJ,C,2
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,A,22
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,A-,7
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,B+,6
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,B,2
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,B-,4
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,C+,2
+S19,Undergraduate,ENV S   146,DICKSTEIN J H,F,1
+S19,Undergraduate,ENV S   154,BEST B D,A+,12
+S19,Undergraduate,ENV S   154,BEST B D,A,21
+S19,Undergraduate,ENV S   154,BEST B D,A-,5
+S19,Undergraduate,ENV S   154,BEST B D,B,4
+S19,Undergraduate,ENV S   154,BEST B D,D,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,A+,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,A,2
+S19,Undergraduate,ENV S   162,LOAICIGA H,A-,2
+S19,Undergraduate,ENV S   162,LOAICIGA H,B+,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,B-,2
+S19,Undergraduate,ENV S   162,LOAICIGA H,C+,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,C,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,C-,1
+S19,Undergraduate,ENV S   162,LOAICIGA H,D+,2
+S19,Undergraduate,ENV S   162,LOAICIGA H,F,1
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,A+,2
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,A,37
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,A-,17
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,B+,5
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,B,6
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,B-,2
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,C+,2
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,C,3
+S19,Undergraduate,ENV S   166DC,MEISTERLING K,D,1
+S19,Undergraduate,ENV S   169,CLARK J,A-,1
+S19,Undergraduate,ENV S   169,CLARK J,B+,1
+S19,Undergraduate,ENV S   169,CLARK J,B,1
+S19,Undergraduate,ENV S   169,CLARK J,B-,1
+S19,Undergraduate,ENV S   169,CLARK J,C+,1
+S19,Undergraduate,ENV S   169,CLARK J,C,3
+S19,Undergraduate,ENV S   169,CLARK J,C-,2
+S19,Undergraduate,ENV S   169,CLARK J,D+,2
+S19,Undergraduate,ENV S   173,MARTIN J A,A,6
+S19,Undergraduate,ENV S   173,MARTIN J A,A-,4
+S19,Undergraduate,ENV S   173,MARTIN J A,B+,3
+S19,Undergraduate,ENV S   173,MARTIN J A,B,8
+S19,Undergraduate,ENV S   173,MARTIN J A,B-,3
+S19,Undergraduate,ENV S   173,MARTIN J A,C+,6
+S19,Undergraduate,ENV S   173,MARTIN J A,C,1
+S19,Undergraduate,ENV S   173,MARTIN J A,F,1
+S19,Undergraduate,ENV S   185,CREMERS M H,A,18
+S19,Undergraduate,ENV S   185,CREMERS M H,A-,7
+S19,Undergraduate,ENV S   185,CREMERS M H,B+,10
+S19,Undergraduate,ENV S   185,CREMERS M H,B,3
+S19,Undergraduate,ENV S   185,CREMERS M H,C+,2
+S19,Undergraduate,ENV S   190,GEE Q P,P,101
+S19,Undergraduate,ENV S   190,GEE Q P,NP,4
+S19,Undergraduate,ENV S   192,ZIMMERMAN E D,P,39
+S19,Undergraduate,ENV S   192,ZIMMERMAN E D,NP,2
+S19,Undergraduate,ENV S   193CP,MORET S L,A+,15
+S19,Undergraduate,ENV S   193CP,MORET S L,A,31
+S19,Undergraduate,ENV S   193CP,MORET S L,A-,10
+S19,Undergraduate,ENV S   193CP,MORET S L,B+,3
+S19,Undergraduate,ENV S   193CR,GRAY S M,A+,3
+S19,Undergraduate,ENV S   193CR,GRAY S M,A,16
+S19,Undergraduate,ENV S   193CR,GRAY S M,B+,2
+S19,Undergraduate,ENV S   193CR,GRAY S M,C+,1
+S19,Undergraduate,ENV S   193CR,GRAY S M,F,2
+S19,Undergraduate,ENV S   193EB,WAHLERT G A,A,13
+S19,Undergraduate,ENV S   193EB,WAHLERT G A,A-,6
+S19,Undergraduate,ENV S   193EB,WAHLERT G A,B+,2
+S19,Undergraduate,ENV S   193EB,WAHLERT G A,B,6
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,A,28
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,A-,9
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,B+,14
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,B,1
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,C,1
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,C-,1
+S19,Undergraduate,ENV S   193GB,KAYSEN B J,F,1
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,A+,5
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,A,25
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,A-,5
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,B+,3
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,B,3
+S19,Undergraduate,ENV S   193PR,MALDONADO J K,B-,2
+S19,Undergraduate,ENV S   193WL,BENJAMIN R,A,9
+S19,Undergraduate,ENV S   194EJ,PELLOW D N,A+,3
+S19,Undergraduate,ENV S   194EJ,PELLOW D N,A,5
+S19,Undergraduate,ENV S   194EJ,PELLOW D N,A-,1
+S19,Undergraduate,ENV S   195,PULVER S,A,9
+S19,Undergraduate,ENV S   195,PULVER S,A-,6
+S19,Undergraduate,ENV S   195,PULVER S,B+,3
+S19,Undergraduate,ENV S   196,GEE Q P,A+,2
+S19,Undergraduate,ENV S   196,GEE Q P,A,3
+S19,Undergraduate,ENV S   199,D'ANTONIO C M,A,1
+S19,Undergraduate,ENV S   199,FORAN J F,A+,1
+S19,Undergraduate,ENV S   199,GARDNER H K,A,1
+S19,Undergraduate,ENV S   199,GRAY S M,A,1
+S19,Undergraduate,ENV S   199,MALDONADO J K,A,2
+S19,Undergraduate,ENV S   199,PELLOW D N,A,2
+S19,Undergraduate,ENV S   199RA,ALAGONA P S,A+,1
+S19,Undergraduate,ENV S   199RA,D'ANTONIO C M,A,1
+S19,Undergraduate,ENV S   199RA,DUDLEY T L,A,2
+S19,Undergraduate,ENV S   199RA,GRAY S M,A,7
+S19,Undergraduate,ENV S   199RA,MALDONADO J K,A,1
+S19,Undergraduate,ENV S   199RA,PELLOW D N,A,1
+S19,Undergraduate,ENV S   199RA,SCHIMEL J P,A,2
+S19,Undergraduate,ENV S   199RA,SELTMANN K,A+,2
+S19,Undergraduate,ENV S   199RA,SELTMANN K,A,1
+S19,Undergraduate,ENV S   199RA,ZIMMERMAN E D,A,1
+S19,Graduate,ENV S   293EJ,PELLOW D N,A,8
+S19,Graduate,ENV S   500,GEE Q P,S,17
+S19,Graduate,ENV S   596,ALAGONA P S,S,1

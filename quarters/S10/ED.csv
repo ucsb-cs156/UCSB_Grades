@@ -1,0 +1,150 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ED      111,OKAMOTO Y,A+,13
+S10,Undergraduate,ED      111,OKAMOTO Y,A,32
+S10,Undergraduate,ED      111,OKAMOTO Y,B+,6
+S10,Undergraduate,ED      111,OKAMOTO Y,B,4
+S10,Undergraduate,ED      111,ROMO L F,A+,13
+S10,Undergraduate,ED      111,ROMO L F,A,32
+S10,Undergraduate,ED      111,ROMO L F,B+,6
+S10,Undergraduate,ED      111,ROMO L F,B,4
+S10,Undergraduate,ED      122,HEADLEY J A,F,1
+S10,Undergraduate,ED      122,HEADLEY J A,P,67
+S10,Undergraduate,ED      124,BRENNER M E,A,22
+S10,Undergraduate,ED      124,BRENNER M E,B,4
+S10,Undergraduate,ED      124,BRENNER M E,C,1
+S10,Undergraduate,ED      124,BRENNER M E,F,1
+S10,Undergraduate,ED      140,KYRATZIS A,A+,4
+S10,Undergraduate,ED      140,KYRATZIS A,A,7
+S10,Undergraduate,ED      140,KYRATZIS A,B,1
+S10,Undergraduate,ED      140,KYRATZIS A,F,1
+S10,Undergraduate,ED      176B,GERBER M M,A,13
+S10,Undergraduate,ED      176B,GERBER M M,A-,1
+S10,Undergraduate,ED      191A,WHITE S A,A,5
+S10,Undergraduate,ED      191A,WHITE S A,A-,8
+S10,Undergraduate,ED      191A,WHITE S A,B+,2
+S10,Undergraduate,ED      191A,WHITE S A,B,2
+S10,Undergraduate,ED      191A,WHITE S A,B-,2
+S10,Undergraduate,ED      191A,WHITE S A,F,1
+S10,Undergraduate,ED      191B,WHITE S A,A,4
+S10,Undergraduate,ED      191B,WHITE S A,A-,3
+S10,Undergraduate,ED      191B,WHITE S A,B+,1
+S10,Undergraduate,ED      191B,WHITE S A,B,8
+S10,Undergraduate,ED      191B,WHITE S A,B-,2
+S10,Undergraduate,ED      191B,WHITE S A,C,1
+S10,Undergraduate,ED      191B,WHITE S A,F,1
+S10,Undergraduate,ED      191C,WHITE S A,A+,1
+S10,Undergraduate,ED      191C,WHITE S A,A,13
+S10,Undergraduate,ED      191C,WHITE S A,A-,3
+S10,Undergraduate,ED      191C,WHITE S A,B+,2
+S10,Undergraduate,ED      191C,WHITE S A,B,1
+S10,Undergraduate,ED      191C,WHITE S A,B-,1
+S10,Undergraduate,ED      191D,WHITE S A,P,54
+S10,Undergraduate,ED      191W,WHITE S A,A,4
+S10,Undergraduate,ED      191W,WHITE S A,A-,6
+S10,Undergraduate,ED      191W,WHITE S A,B+,3
+S10,Undergraduate,ED      191W,WHITE S A,B,3
+S10,Undergraduate,ED      191W,WHITE S A,B-,2
+S10,Undergraduate,ED      191W,WHITE S A,C,2
+S10,Undergraduate,ED      199,DURAN R P,A,7
+S10,Undergraduate,ED      199,DURAN R P,B,1
+S10,Undergraduate,ED      199,GERBER M M,A,11
+S10,Undergraduate,ED      199,GERBER M M,B,1
+S10,Undergraduate,ED      199RA,GERBER M M,A,21
+S10,Undergraduate,ED      199RA,GERBER M M,B,2
+S10,Undergraduate,ED      199RA,GERBER M M,B-,1
+S10,Undergraduate,ED      199RA,HARLOW D B,A,6
+S10,Undergraduate,ED      199RA,KOEGEL R L,A,10
+S10,Undergraduate,ED      199RA,KOEGEL R L,A-,5
+S10,Undergraduate,ED      199RA,KOEGEL R L,B,1
+S10,Undergraduate,ED      199RA,KOEGEL R L,B-,1
+S10,Undergraduate,ED      199RA,KOEGEL R L,C+,1
+S10,Undergraduate,ED      199RA,KOEGEL R L,C,5
+S10,Undergraduate,ED      199RA,LEE J S,A,7
+S10,Graduate,ED      202A,KYRATZIS A,A+,3
+S10,Graduate,ED      202A,KYRATZIS A,A,1
+S10,Graduate,ED      202A,KYRATZIS A,S,7
+S10,Graduate,ED      202F,LUNSFORD K J,A,9
+S10,Graduate,ED      202F,LUNSFORD K J,F,1
+S10,Graduate,ED      209D,OKAMOTO Y,S,5
+S10,Graduate,ED      209E,HO H-Z,A,6
+S10,Graduate,ED      209E,HO H-Z,S,3
+S10,Graduate,ED      209H,ROMO L F,A,12
+S10,Graduate,ED      210G,HO H-Z,A,14
+S10,Graduate,ED      214C,KIA-KEATING B,A,18
+S10,Graduate,ED      214C,KIA-KEATING B,A-,2
+S10,Graduate,ED      214C,KIA-KEATING B,B+,1
+S10,Graduate,ED      214C,KIA-KEATING B,B-,1
+S10,Graduate,ED      214C,WANG M,A+,1
+S10,Graduate,ED      214C,WANG M,A,4
+S10,Graduate,ED      214C,WANG M,A-,2
+S10,Graduate,ED      214C,WANG M,B+,1
+S10,Graduate,ED      214C,WANG M,B,1
+S10,Graduate,ED      221D,GREEN J L,A,14
+S10,Graduate,ED      224B,COOK-GUMPERZ,A+,5
+S10,Graduate,ED      224B,COOK-GUMPERZ,A,15
+S10,Graduate,ED      228H,SINGER G H S,A+,4
+S10,Graduate,ED      228H,SINGER G H S,A,13
+S10,Graduate,ED      229C,SINGER J,S,13
+S10,Graduate,ED      229D,SINGER J,A+,8
+S10,Graduate,ED      229D,SINGER J,A,3
+S10,Graduate,ED      229D,SINGER J,S,1
+S10,Graduate,ED      240A,RUMBERGER R W,A,5
+S10,Graduate,ED      240A,RUMBERGER R W,A-,3
+S10,Graduate,ED      240A,RUMBERGER R W,B+,7
+S10,Graduate,ED      240A,RUMBERGER R W,B,3
+S10,Graduate,ED      240A,RUMBERGER R W,F,2
+S10,Graduate,ED      250C,YUN J T,A,3
+S10,Graduate,ED      250C,YUN J T,B+,2
+S10,Graduate,ED      253D,MCSHANE K F,A+,1
+S10,Graduate,ED      253D,MCSHANE K F,A,1
+S10,Graduate,ED      253D,MCSHANE K F,A-,3
+S10,Graduate,ED      253D,MCSHANE K F,B+,1
+S10,Graduate,ED      253D,RALEY J D,S,95
+S10,Graduate,ED      289,RALEY J D,S,6
+S10,Graduate,ED      291,KOEGEL R L,A+,1
+S10,Graduate,ED      291,KOEGEL R L,A,4
+S10,Graduate,ED      291,KOEGEL R L,A-,1
+S10,Graduate,ED      317,KOK O N,A,8
+S10,Graduate,ED      403,GENTILUCCI J,A,8
+S10,Graduate,ED      403,GENTILUCCI J,A-,1
+S10,Graduate,ED      596,GERBER M M,S,5
+S10,Graduate,ED      596,GREEN J L,S,6
+S10,Graduate,ED      596,WANG M,S,5
+S10,Graduate,ED      598,BRENNER M E,S,5
+S10,Graduate,ED      598,SINGER G H S,S,5
+S10,Graduate,ED      599,BRENNER M E,S,5
+S10,Graduate,ED      599,GREEN J L,S,5
+S10,Graduate,ED   E  391BS,HARLOW D B,A,39
+S10,Graduate,ED   E  391BS,HARLOW D B,A-,4
+S10,Graduate,ED   E  391BS,HARLOW D B,B+,2
+S10,Graduate,ED   E  391BS,HARLOW D B,B,1
+S10,Graduate,ED   E  391CS,KOK O N,A,46
+S10,Graduate,ED   E  391G,BAULER C V,A,40
+S10,Graduate,ED   E  391G,BAULER C V,B+,1
+S10,Graduate,ED   E  391HS,HILL-BONNET L,A+,3
+S10,Graduate,ED   E  391HS,HILL-BONNET L,A,20
+S10,Graduate,ED   E  391HS,HILL-BONNET L,A-,8
+S10,Graduate,ED   E  391HS,HILL-BONNET L,B+,1
+S10,Graduate,ED   E  391HS,HILL-BONNET L,B,2
+S10,Graduate,ED   E  391HS,SCALZO J N,A,24
+S10,Graduate,ED   E  392S,SLOAN T F,S,44
+S10,Graduate,ED   E  393S,CARLYLE A M,S,10
+S10,Graduate,ED   E  393S,HONNOLD M,S,7
+S10,Graduate,ED   E  393S,SLOAN T F,S,14
+S10,Graduate,ED   R  390AS,LIPPINCOTT A,A+,23
+S10,Graduate,ED   R  390AS,LIPPINCOTT A,A,14
+S10,Graduate,ED   R  390AS,LIPPINCOTT A,B+,2
+S10,Graduate,ED   R  390AS,LIPPINCOTT A,B,2
+S10,Graduate,ED   R  392C,SLOAN T F,S,41
+S10,Graduate,ED   S  395S,KOK O N,S,41
+S10,Graduate,ED   SC 392,SLOAN T F,S,12
+S10,Graduate,ED   SC 393S,CONVERSE C W,S,12
+S10,Graduate,ED   SL 392,SLOAN T F,S,5
+S10,Graduate,ED   SL 393S,BAULER C V,S,5
+S10,Graduate,ED   SM 392,SLOAN T F,S,6
+S10,Graduate,ED   SM 393S,ROSS E G,S,6
+S10,Graduate,ED   SS 390S,KOK O N,A,8
+S10,Graduate,ED   SS 392,SLOAN T F,S,8
+S10,Graduate,ED   SS 393S,KOK O N,S,8
+S10,Graduate,ED   ST 392,SLOAN T F,S,10
+S10,Graduate,ED   ST 393S,SLOAN T F,S,10

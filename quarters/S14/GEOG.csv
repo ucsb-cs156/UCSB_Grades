@@ -1,0 +1,112 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,GEOG      3B,NIBLETT T J,A,11
+S14,Undergraduate,GEOG      3B,NIBLETT T J,A-,13
+S14,Undergraduate,GEOG      3B,NIBLETT T J,B+,17
+S14,Undergraduate,GEOG      3B,NIBLETT T J,B,23
+S14,Undergraduate,GEOG      3B,NIBLETT T J,B-,33
+S14,Undergraduate,GEOG      3B,NIBLETT T J,C+,33
+S14,Undergraduate,GEOG      3B,NIBLETT T J,C,25
+S14,Undergraduate,GEOG      3B,NIBLETT T J,C-,14
+S14,Undergraduate,GEOG      3B,NIBLETT T J,D,11
+S14,Undergraduate,GEOG      3B,NIBLETT T J,F,9
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,A+,12
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,A,41
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,A-,36
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,B+,32
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,B,40
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,B-,14
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,C+,18
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,C,7
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,C-,4
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,D+,3
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,D,2
+S14,Undergraduate,GEOG      5,LOPEZ-CARR D,F,8
+S14,Undergraduate,GEOG      8,DEUTSCH K E,A+,1
+S14,Undergraduate,GEOG      8,DEUTSCH K E,A,9
+S14,Undergraduate,GEOG      8,DEUTSCH K E,A-,16
+S14,Undergraduate,GEOG      8,DEUTSCH K E,B+,9
+S14,Undergraduate,GEOG      8,DEUTSCH K E,B,7
+S14,Undergraduate,GEOG      8,DEUTSCH K E,B-,3
+S14,Undergraduate,GEOG      8,DEUTSCH K E,C+,1
+S14,Undergraduate,GEOG      8,DEUTSCH K E,C,5
+S14,Undergraduate,GEOG      8,DEUTSCH K E,C-,1
+S14,Undergraduate,GEOG      8,DEUTSCH K E,D+,2
+S14,Undergraduate,GEOG      8,DEUTSCH K E,F,3
+S14,Undergraduate,GEOG    111B,GOULIAS K,A+,1
+S14,Undergraduate,GEOG    111B,GOULIAS K,A,8
+S14,Undergraduate,GEOG    115C,BOOKHAGEN B,A,12
+S14,Undergraduate,GEOG    115C,BOOKHAGEN B,A-,12
+S14,Undergraduate,GEOG    115C,BOOKHAGEN B,B+,1
+S14,Undergraduate,GEOG    115C,BOOKHAGEN B,C-,1
+S14,Undergraduate,GEOG    117,MONTELLO D R,A,4
+S14,Undergraduate,GEOG    117,MONTELLO D R,A-,1
+S14,Undergraduate,GEOG    117,MONTELLO D R,B+,2
+S14,Undergraduate,GEOG    117,MONTELLO D R,B,6
+S14,Undergraduate,GEOG    117,MONTELLO D R,B-,3
+S14,Undergraduate,GEOG    117,MONTELLO D R,C+,1
+S14,Undergraduate,GEOG    117,MONTELLO D R,C,11
+S14,Undergraduate,GEOG    117,MONTELLO D R,C-,3
+S14,Undergraduate,GEOG    117,MONTELLO D R,D,4
+S14,Undergraduate,GEOG    117,MONTELLO D R,F,2
+S14,Undergraduate,GEOG    144,KELLER E A,A,5
+S14,Undergraduate,GEOG    144,KELLER E A,A-,4
+S14,Undergraduate,GEOG    144,KELLER E A,B+,2
+S14,Undergraduate,GEOG    144,KELLER E A,B,2
+S14,Undergraduate,GEOG    144,KELLER E A,B-,2
+S14,Undergraduate,GEOG    148,PRENTICE S E,A,14
+S14,Undergraduate,GEOG    148,PRENTICE S E,A-,10
+S14,Undergraduate,GEOG    148,PRENTICE S E,B+,4
+S14,Undergraduate,GEOG    148,PRENTICE S E,B,30
+S14,Undergraduate,GEOG    148,PRENTICE S E,B-,4
+S14,Undergraduate,GEOG    148,PRENTICE S E,C+,8
+S14,Undergraduate,GEOG    148,PRENTICE S E,C,8
+S14,Undergraduate,GEOG    148,PRENTICE S E,C-,3
+S14,Undergraduate,GEOG    148,PRENTICE S E,D,5
+S14,Undergraduate,GEOG    148,PRENTICE S E,F,2
+S14,Undergraduate,GEOG    162,LOAICIGA H,A+,1
+S14,Undergraduate,GEOG    162,LOAICIGA H,A,5
+S14,Undergraduate,GEOG    162,LOAICIGA H,A-,4
+S14,Undergraduate,GEOG    162,LOAICIGA H,B+,3
+S14,Undergraduate,GEOG    162,LOAICIGA H,B,2
+S14,Undergraduate,GEOG    162,LOAICIGA H,B-,3
+S14,Undergraduate,GEOG    162,LOAICIGA H,C+,3
+S14,Undergraduate,GEOG    162,LOAICIGA H,C,3
+S14,Undergraduate,GEOG    162,LOAICIGA H,C-,3
+S14,Undergraduate,GEOG    162,LOAICIGA H,D+,2
+S14,Undergraduate,GEOG    162,LOAICIGA H,F,3
+S14,Undergraduate,GEOG    176C,JANOWICZ K W,A,30
+S14,Undergraduate,GEOG    176C,JANOWICZ K W,A-,11
+S14,Undergraduate,GEOG    176C,JANOWICZ K W,B+,6
+S14,Undergraduate,GEOG    176C,JANOWICZ K W,B,2
+S14,Undergraduate,GEOG    176C,JANOWICZ K W,C+,1
+S14,Undergraduate,GEOG    190,CHURCH R L,A+,1
+S14,Undergraduate,GEOG    190,CHURCH R L,A,2
+S14,Undergraduate,GEOG    190,CHURCH R L,A-,1
+S14,Undergraduate,GEOG    190,CHURCH R L,B+,1
+S14,Undergraduate,GEOG    190,CHURCH R L,B,3
+S14,Undergraduate,GEOG    190,CHURCH R L,C+,4
+S14,Undergraduate,GEOG    190,CHURCH R L,C,2
+S14,Graduate,GEOG    201,GOULIAS K,S,38
+S14,Graduate,GEOG    210C,KYRIAKIDIS P,A+,6
+S14,Graduate,GEOG    210C,KYRIAKIDIS P,A,10
+S14,Graduate,GEOG    210C,KYRIAKIDIS P,B+,1
+S14,Graduate,GEOG    263,WASHBURN L,A,5
+S14,Graduate,GEOG    263,WASHBURN L,A-,2
+S14,Graduate,GEOG    263,WASHBURN L,B+,1
+S14,Graduate,GEOG    263,WASHBURN L,B,1
+S14,Graduate,GEOG    288BB,BOOKHAGEN B,A,11
+S14,Graduate,GEOG    288DC,LOPEZ-CARR D,A,10
+S14,Graduate,GEOG    288LC,DE CARVALHO L,A+,1
+S14,Graduate,GEOG    288LC,DE CARVALHO L,A,5
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,A+,1
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,A,18
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,A-,16
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,B+,13
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,B,16
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,B-,2
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,C+,4
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,C,5
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,C-,2
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,D+,2
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,D,3
+S14,Undergraduate,GEOG W   12,JANOWICZ K W,F,5

@@ -1,0 +1,109 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S18,Undergraduate,INT      80AS,NOVAK M J,A+,2
+S18,Undergraduate,INT      80AS,NOVAK M J,A,13
+S18,Undergraduate,INT      80AS,NOVAK M J,A-,11
+S18,Undergraduate,INT      80AS,NOVAK M J,B+,8
+S18,Undergraduate,INT      80AS,NOVAK M J,B,5
+S18,Undergraduate,INT      80AS,NOVAK M J,B-,6
+S18,Undergraduate,INT      80AS,NOVAK M J,F,5
+S18,Undergraduate,INT      84AJ,DIGESER E D,A+,5
+S18,Undergraduate,INT      84AJ,DIGESER E D,A,12
+S18,Undergraduate,INT      84ZA,CLARK J,A+,1
+S18,Undergraduate,INT      84ZA,CLARK J,A,6
+S18,Undergraduate,INT      84ZA,CLARK J,A-,3
+S18,Undergraduate,INT      84ZA,CLARK J,B+,1
+S18,Undergraduate,INT      84ZI,MAZER S J,A,10
+S18,Undergraduate,INT      84ZK,PONCE G,A,14
+S18,Undergraduate,INT      84ZN,TURNER T L,A,11
+S18,Undergraduate,INT      84ZP,BROWN M,A,10
+S18,Undergraduate,INT      84ZP,BROWN M,A-,2
+S18,Undergraduate,INT      84ZR,LEW G J,A,10
+S18,Undergraduate,INT      84ZR,LEW G J,A-,7
+S18,Undergraduate,INT      84ZR,LEW G J,B+,1
+S18,Undergraduate,INT      84ZR,LEW G J,B,3
+S18,Undergraduate,INT      84ZW,WELDEAB S,A,15
+S18,Undergraduate,INT      84ZY,CORTIJO A,A+,3
+S18,Undergraduate,INT      84ZY,CORTIJO A,A,10
+S18,Undergraduate,INT      89AE,DUNBAR N E,F,1
+S18,Undergraduate,INT      89AE,DUNBAR N E,P,31
+S18,Undergraduate,INT      89AE,DUNBAR N E,NP,1
+S18,Undergraduate,INT      89AE,FREW J E,F,1
+S18,Undergraduate,INT      89AE,FREW J E,P,31
+S18,Undergraduate,INT      89AE,FREW J E,NP,1
+S18,Undergraduate,INT      89AE,MOORE K C,F,1
+S18,Undergraduate,INT      89AE,MOORE K C,P,31
+S18,Undergraduate,INT      89AE,MOORE K C,NP,1
+S18,Undergraduate,INT      89AF,DIGESER P,P,29
+S18,Undergraduate,INT      89AF,MORALES H L,P,29
+S18,Undergraduate,INT      89AG,CASTILLO J L,F,2
+S18,Undergraduate,INT      89AG,CASTILLO J L,P,36
+S18,Undergraduate,INT      89AG,LEVINE S,F,2
+S18,Undergraduate,INT      89AG,LEVINE S,P,36
+S18,Undergraduate,INT      89AH,BIBILASHVILI,P,27
+S18,Undergraduate,INT      89AH,BIBILASHVILI,NP,4
+S18,Undergraduate,INT      89AH,FYGENSON D K,P,27
+S18,Undergraduate,INT      89AH,FYGENSON D K,NP,4
+S18,Undergraduate,INT      94FH,SINGER G H S,P,17
+S18,Undergraduate,INT      94GG,FULBECK L K,P,21
+S18,Undergraduate,INT      94HZ,KING W D,P,18
+S18,Undergraduate,INT      94JK,MCCRACKEN E,P,12
+S18,Undergraduate,INT      94JK,MCCRACKEN E,NP,1
+S18,Undergraduate,INT      94JV,COOPER D,P,20
+S18,Undergraduate,INT      94KC,DUNN F M,P,15
+S18,Undergraduate,INT      94NU,GARCIA M T,P,17
+S18,Undergraduate,INT      94PN,KUHN W,P,16
+S18,Undergraduate,INT      94QD,CAMPO J E,P,25
+S18,Undergraduate,INT      94RU,LEWALLEN A,P,14
+S18,Undergraduate,INT      94SH,JAMIESON A E,P,21
+S18,Undergraduate,INT      94TG,REICH N O,P,12
+S18,Undergraduate,INT      94TI,FELBER J,P,11
+S18,Undergraduate,INT      94UA,GENOVA G L,P,24
+S18,Undergraduate,INT      94UI,DONELAN J H,P,16
+S18,Undergraduate,INT      94UO,SAMUELS R D,P,16
+S18,Undergraduate,INT      94UP,PATTERSON K A,P,4
+S18,Undergraduate,INT      94UP,PATTERSON K A,NP,1
+S18,Undergraduate,INT      94UR,HELLIER-TINOC,P,12
+S18,Undergraduate,INT      94US,GALLUCCI R,P,7
+S18,Undergraduate,INT      94UT,ALVES FERREIR,F,1
+S18,Undergraduate,INT      94UT,ALVES FERREIR,P,11
+S18,Undergraduate,INT      94UV,BOSCAGLI M,P,12
+S18,Undergraduate,INT      94UV,BOSCAGLI M,NP,1
+S18,Undergraduate,INT     101,ZHAO X,P,70
+S18,Undergraduate,INT     175,JACONETTE P R,P,102
+S18,Undergraduate,INT     175,JACONETTE P R,NP,2
+S18,Undergraduate,INT     184PD,BLAIN S M,A+,2
+S18,Undergraduate,INT     184PD,BLAIN S M,A,8
+S18,Undergraduate,INT     185AM,WOODS V E,P,12
+S18,Undergraduate,INT     185CT,BENJAMIN R,A+,1
+S18,Undergraduate,INT     185CT,BENJAMIN R,A,13
+S18,Undergraduate,INT     185CW,DONNELLY B,A,3
+S18,Undergraduate,INT     185CW,DONNELLY B,C,15
+S18,Undergraduate,INT     185CW,DONNELLY B,C-,1
+S18,Undergraduate,INT     185ST,ANDERSON E K,A+,1
+S18,Undergraduate,INT     185ST,ANDERSON E K,A,16
+S18,Undergraduate,INT     185ST,ANDERSON E K,A-,3
+S18,Undergraduate,INT     185ST,ANDERSON E K,B+,1
+S18,Undergraduate,INT     185VW,DERWIN S,A,3
+S18,Undergraduate,INT     185VW,DERWIN S,A-,1
+S18,Undergraduate,INT     185VW,DERWIN S,B,1
+S18,Undergraduate,INT     185VW,DERWIN S,F,2
+S18,Undergraduate,INT     186AE,THROWER D A,P,18
+S18,Undergraduate,INT     186AE,THROWER D A,NP,1
+S18,Undergraduate,INT     186AF,GERMAN T C M,P,17
+S18,Undergraduate,INT     186AH,MIGLIO V G,P,16
+S18,Undergraduate,INT     186AH,MIGLIO V G,NP,1
+S18,Undergraduate,INT     186AI,DEVRIES M S,P,14
+S18,Undergraduate,INT     190MA,SCHNEIDER B E,P,6
+S18,Undergraduate,INT     192DC,ADLER-KASSNER,P,19
+S18,Undergraduate,INT     199DC,ADLER-KASSNER,A,10
+S18,Undergraduate,INT     199DC,ADLER-KASSNER,A-,7
+S18,Undergraduate,INT     199DC,ADLER-KASSNER,B+,1
+S18,Undergraduate,INT     199DC,ADLER-KASSNER,B,1
+S18,Graduate,INT     200,METZGER M J,A+,1
+S18,Graduate,INT     200,METZGER M J,A,4
+S18,Graduate,INT     200,METZGER M J,B,1
+S18,Graduate,INT     200,WALTHER J B,A+,1
+S18,Graduate,INT     200,WALTHER J B,A,4
+S18,Graduate,INT     200,WALTHER J B,B,1
+S18,Graduate,INT     200C,TAVES A,S,11
+S18,Graduate,INT     594CC,DERWIN S,S,5

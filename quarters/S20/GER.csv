@@ -1,0 +1,78 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,ES   1-  38A,GERSTENFELD P,P,6
+S20,Undergraduate,ES   1-  38B,GERSTENFELD P,P,7
+S20,Undergraduate,ES   1-  38C,GERSTENFELD P,P,10
+S20,Undergraduate,ES   1-  38C,GERSTENFELD P,NP,2
+S20,Undergraduate,GER       2G,KOMMERELL G,A+,5
+S20,Undergraduate,GER       2G,KOMMERELL G,A,7
+S20,Undergraduate,GER       3,GABRIEL V,A+,8
+S20,Undergraduate,GER       3,GABRIEL V,A,17
+S20,Undergraduate,GER       3,GABRIEL V,A-,5
+S20,Undergraduate,GER       3,GABRIEL V,B+,2
+S20,Undergraduate,GER       3,GABRIEL V,B,3
+S20,Undergraduate,GER       3,GABRIEL V,C,2
+S20,Undergraduate,GER       3,GABRIEL V,D+,1
+S20,Undergraduate,GER       3,GABRIEL V,F,1
+S20,Undergraduate,GER       3,HOFMANN M J,A+,5
+S20,Undergraduate,GER       3,HOFMANN M J,A,8
+S20,Undergraduate,GER       3,HOFMANN M J,A-,2
+S20,Undergraduate,GER       3,HOFMANN M J,B,1
+S20,Undergraduate,GER       3,HOFMANN M J,B-,1
+S20,Undergraduate,GER       3,REDER E R,A+,15
+S20,Undergraduate,GER       3,REDER E R,A,27
+S20,Undergraduate,GER       3,REDER E R,A-,3
+S20,Undergraduate,GER       3,REDER E R,B+,3
+S20,Undergraduate,GER       3,REDER E R,B-,1
+S20,Undergraduate,GER       3,SHEEDY M A,A+,5
+S20,Undergraduate,GER       3,SHEEDY M A,A,16
+S20,Undergraduate,GER       3,SHEEDY M A,B,1
+S20,Undergraduate,GER       3,SHEEDY M A,C,1
+S20,Undergraduate,GER       3,SHEEDY M A,D,1
+S20,Undergraduate,GER       6,REDER E R,A+,5
+S20,Undergraduate,GER       6,REDER E R,A,17
+S20,Undergraduate,GER       6,REDER E R,A-,1
+S20,Undergraduate,GER       6,REDER E R,B,1
+S20,Undergraduate,GER       6,SHEEDY M A,A+,7
+S20,Undergraduate,GER       6,SHEEDY M A,A,25
+S20,Undergraduate,GER       6,SHEEDY M A,A-,2
+S20,Undergraduate,GER       6,SHEEDY M A,B+,1
+S20,Undergraduate,GER       6,SHEEDY M A,C,2
+S20,Undergraduate,GER       8C,HOFMANN M J,A+,7
+S20,Undergraduate,GER       8C,HOFMANN M J,A,31
+S20,Undergraduate,GER       8C,HOFMANN M J,A-,2
+S20,Undergraduate,GER       8C,HOFMANN M J,F,1
+S20,Undergraduate,GER     101C,WHITE K D,A+,20
+S20,Undergraduate,GER     101C,WHITE K D,A,14
+S20,Undergraduate,GER     101C,WHITE K D,A-,1
+S20,Undergraduate,GER     101C,WHITE K D,C,1
+S20,Undergraduate,GER     101C,WHITE K D,F,1
+S20,Undergraduate,GER     105C,KOMMERELL G,A+,4
+S20,Undergraduate,GER     105C,KOMMERELL G,A,10
+S20,Undergraduate,GER     108,VAGT C,A+,6
+S20,Undergraduate,GER     108,VAGT C,A,12
+S20,Undergraduate,GER     108,VAGT C,B+,1
+S20,Undergraduate,GER     108,VAGT C,F,1
+S20,Undergraduate,GER     113,GABRIEL V,A+,6
+S20,Undergraduate,GER     113,GABRIEL V,A,6
+S20,Undergraduate,GER     113,GABRIEL V,A-,1
+S20,Undergraduate,GER     113,GABRIEL V,C,2
+S20,Undergraduate,GER     113,GABRIEL V,F,2
+S20,Undergraduate,GER     114,HOFMANN M J,A+,4
+S20,Undergraduate,GER     114,HOFMANN M J,A,12
+S20,Undergraduate,GER     114,HOFMANN M J,A-,6
+S20,Undergraduate,GER     114,HOFMANN M J,B+,2
+S20,Undergraduate,GER     114,HOFMANN M J,B,1
+S20,Undergraduate,GER     114,HOFMANN M J,B-,1
+S20,Undergraduate,GER     114,HOFMANN M J,C+,1
+S20,Undergraduate,GER     114,HOFMANN M J,F,2
+S20,Undergraduate,PSY       1,GERMAN T C M,A+,19
+S20,Undergraduate,PSY       1,GERMAN T C M,A,50
+S20,Undergraduate,PSY       1,GERMAN T C M,A-,49
+S20,Undergraduate,PSY       1,GERMAN T C M,B+,37
+S20,Undergraduate,PSY       1,GERMAN T C M,B,47
+S20,Undergraduate,PSY       1,GERMAN T C M,B-,26
+S20,Undergraduate,PSY       1,GERMAN T C M,C+,27
+S20,Undergraduate,PSY       1,GERMAN T C M,C,47
+S20,Undergraduate,PSY       1,GERMAN T C M,C-,9
+S20,Undergraduate,PSY       1,GERMAN T C M,D,23
+S20,Undergraduate,PSY       1,GERMAN T C M,F,28

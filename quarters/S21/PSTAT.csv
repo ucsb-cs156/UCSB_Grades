@@ -1,0 +1,289 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,PSTAT     5A,SWENSON J S,A,39
+S21,Undergraduate,PSTAT     5A,SWENSON J S,A-,31
+S21,Undergraduate,PSTAT     5A,SWENSON J S,A+,4
+S21,Undergraduate,PSTAT     5A,SWENSON J S,B,38
+S21,Undergraduate,PSTAT     5A,SWENSON J S,B-,28
+S21,Undergraduate,PSTAT     5A,SWENSON J S,B+,31
+S21,Undergraduate,PSTAT     5A,SWENSON J S,C,34
+S21,Undergraduate,PSTAT     5A,SWENSON J S,C-,20
+S21,Undergraduate,PSTAT     5A,SWENSON J S,C+,31
+S21,Undergraduate,PSTAT     5A,SWENSON J S,D,4
+S21,Undergraduate,PSTAT     5A,SWENSON J S,D-,3
+S21,Undergraduate,PSTAT     5A,SWENSON J S,D+,4
+S21,Undergraduate,PSTAT     5A,SWENSON J S,F,10
+S21,Undergraduate,PSTAT     5H,HE J,P,5
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,A,85
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,B,83
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,B+,25
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,C,23
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,C+,12
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,D,5
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,D+,1
+S21,Undergraduate,PSTAT     5LS,WAINWRIGHT B,F,5
+S21,Undergraduate,PSTAT    10,HOLMES D E,A,57
+S21,Undergraduate,PSTAT    10,HOLMES D E,A-,19
+S21,Undergraduate,PSTAT    10,HOLMES D E,A+,3
+S21,Undergraduate,PSTAT    10,HOLMES D E,B,33
+S21,Undergraduate,PSTAT    10,HOLMES D E,B-,21
+S21,Undergraduate,PSTAT    10,HOLMES D E,B+,14
+S21,Undergraduate,PSTAT    10,HOLMES D E,C,30
+S21,Undergraduate,PSTAT    10,HOLMES D E,C-,13
+S21,Undergraduate,PSTAT    10,HOLMES D E,C+,25
+S21,Undergraduate,PSTAT    10,HOLMES D E,F,23
+S21,Undergraduate,PSTAT   100,RUIZ T D,A,71
+S21,Undergraduate,PSTAT   100,RUIZ T D,A-,11
+S21,Undergraduate,PSTAT   100,RUIZ T D,A+,1
+S21,Undergraduate,PSTAT   100,RUIZ T D,B,2
+S21,Undergraduate,PSTAT   100,RUIZ T D,B+,2
+S21,Undergraduate,PSTAT   100,RUIZ T D,C+,1
+S21,Undergraduate,PSTAT   100,RUIZ T D,D,1
+S21,Undergraduate,PSTAT   100,RUIZ T D,F,1
+S21,Undergraduate,PSTAT   115,SUN Y,A,11
+S21,Undergraduate,PSTAT   115,SUN Y,A-,12
+S21,Undergraduate,PSTAT   115,SUN Y,A+,8
+S21,Undergraduate,PSTAT   115,SUN Y,B,5
+S21,Undergraduate,PSTAT   115,SUN Y,B-,4
+S21,Undergraduate,PSTAT   115,SUN Y,B+,14
+S21,Undergraduate,PSTAT   115,SUN Y,C,5
+S21,Undergraduate,PSTAT   115,SUN Y,C-,3
+S21,Undergraduate,PSTAT   115,SUN Y,C+,5
+S21,Undergraduate,PSTAT   115,SUN Y,D,1
+S21,Undergraduate,PSTAT   115,SUN Y,D-,2
+S21,Undergraduate,PSTAT   115,SUN Y,D+,1
+S21,Undergraduate,PSTAT   115,SUN Y,F,5
+S21,Undergraduate,PSTAT   120A,RAVAT U V,A,22
+S21,Undergraduate,PSTAT   120A,RAVAT U V,A-,31
+S21,Undergraduate,PSTAT   120A,RAVAT U V,B,22
+S21,Undergraduate,PSTAT   120A,RAVAT U V,B-,18
+S21,Undergraduate,PSTAT   120A,RAVAT U V,B+,20
+S21,Undergraduate,PSTAT   120A,RAVAT U V,C,36
+S21,Undergraduate,PSTAT   120A,RAVAT U V,C-,17
+S21,Undergraduate,PSTAT   120A,RAVAT U V,C+,34
+S21,Undergraduate,PSTAT   120A,RAVAT U V,D,4
+S21,Undergraduate,PSTAT   120A,RAVAT U V,D+,3
+S21,Undergraduate,PSTAT   120A,RAVAT U V,F,18
+S21,Undergraduate,PSTAT   120B,HE J,A,59
+S21,Undergraduate,PSTAT   120B,HE J,A-,26
+S21,Undergraduate,PSTAT   120B,HE J,A+,9
+S21,Undergraduate,PSTAT   120B,HE J,B,22
+S21,Undergraduate,PSTAT   120B,HE J,B-,11
+S21,Undergraduate,PSTAT   120B,HE J,B+,24
+S21,Undergraduate,PSTAT   120B,HE J,C,17
+S21,Undergraduate,PSTAT   120B,HE J,C-,3
+S21,Undergraduate,PSTAT   120B,HE J,C+,12
+S21,Undergraduate,PSTAT   120B,HE J,D,2
+S21,Undergraduate,PSTAT   120B,HE J,F,4
+S21,Undergraduate,PSTAT   120B,MISRA N,A,10
+S21,Undergraduate,PSTAT   120B,MISRA N,A-,12
+S21,Undergraduate,PSTAT   120B,MISRA N,A+,3
+S21,Undergraduate,PSTAT   120B,MISRA N,B,6
+S21,Undergraduate,PSTAT   120B,MISRA N,B-,13
+S21,Undergraduate,PSTAT   120B,MISRA N,B+,21
+S21,Undergraduate,PSTAT   120B,MISRA N,C,4
+S21,Undergraduate,PSTAT   120B,MISRA N,C-,3
+S21,Undergraduate,PSTAT   120B,MISRA N,C+,2
+S21,Undergraduate,PSTAT   120B,MISRA N,D,5
+S21,Undergraduate,PSTAT   120B,MISRA N,D+,2
+S21,Undergraduate,PSTAT   120B,MISRA N,F,3
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,A,28
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,A-,12
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,A+,44
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,B,4
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,B-,2
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,B+,5
+S21,Undergraduate,PSTAT   120C,JAMMALAMADAKA,F,1
+S21,Undergraduate,PSTAT   123,MISRA N,A,6
+S21,Undergraduate,PSTAT   123,MISRA N,A-,14
+S21,Undergraduate,PSTAT   123,MISRA N,A+,3
+S21,Undergraduate,PSTAT   123,MISRA N,B,14
+S21,Undergraduate,PSTAT   123,MISRA N,B-,4
+S21,Undergraduate,PSTAT   123,MISRA N,B+,10
+S21,Undergraduate,PSTAT   123,MISRA N,C,4
+S21,Undergraduate,PSTAT   123,MISRA N,C-,1
+S21,Undergraduate,PSTAT   123,MISRA N,C+,7
+S21,Undergraduate,PSTAT   123,MISRA N,D,2
+S21,Undergraduate,PSTAT   123,MISRA N,F,1
+S21,Undergraduate,PSTAT   126,ZANGER D,A,43
+S21,Undergraduate,PSTAT   126,ZANGER D,A-,23
+S21,Undergraduate,PSTAT   126,ZANGER D,A+,6
+S21,Undergraduate,PSTAT   126,ZANGER D,B,27
+S21,Undergraduate,PSTAT   126,ZANGER D,B-,22
+S21,Undergraduate,PSTAT   126,ZANGER D,B+,23
+S21,Undergraduate,PSTAT   126,ZANGER D,C,10
+S21,Undergraduate,PSTAT   126,ZANGER D,C-,2
+S21,Undergraduate,PSTAT   126,ZANGER D,C+,10
+S21,Undergraduate,PSTAT   126,ZANGER D,D,7
+S21,Undergraduate,PSTAT   126,ZANGER D,F,1
+S21,Undergraduate,PSTAT   130,HE J,A,28
+S21,Undergraduate,PSTAT   130,HE J,A-,13
+S21,Undergraduate,PSTAT   130,HE J,A+,3
+S21,Undergraduate,PSTAT   130,HE J,B,13
+S21,Undergraduate,PSTAT   130,HE J,B-,8
+S21,Undergraduate,PSTAT   130,HE J,B+,11
+S21,Undergraduate,PSTAT   130,HE J,C,6
+S21,Undergraduate,PSTAT   130,HE J,C-,3
+S21,Undergraduate,PSTAT   130,HE J,C+,4
+S21,Undergraduate,PSTAT   130,HE J,F,3
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,A,27
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,A-,15
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,A+,12
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,B,4
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,B-,2
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,B+,20
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,C-,1
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,C+,1
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,D+,1
+S21,Undergraduate,PSTAT   131,LI ZHIJIAN,F,2
+S21,Undergraduate,PSTAT   131,RUIZ T D,A,52
+S21,Undergraduate,PSTAT   131,RUIZ T D,A-,9
+S21,Undergraduate,PSTAT   131,RUIZ T D,B,5
+S21,Undergraduate,PSTAT   131,RUIZ T D,B-,4
+S21,Undergraduate,PSTAT   131,RUIZ T D,B+,11
+S21,Undergraduate,PSTAT   131,RUIZ T D,C,1
+S21,Undergraduate,PSTAT   131,RUIZ T D,C-,1
+S21,Undergraduate,PSTAT   131,RUIZ T D,D,1
+S21,Undergraduate,PSTAT   131,RUIZ T D,F,4
+S21,Undergraduate,PSTAT   134,SUN Y,A,22
+S21,Undergraduate,PSTAT   134,SUN Y,A-,18
+S21,Undergraduate,PSTAT   134,SUN Y,A+,10
+S21,Undergraduate,PSTAT   134,SUN Y,B,1
+S21,Undergraduate,PSTAT   134,SUN Y,B-,3
+S21,Undergraduate,PSTAT   134,SUN Y,B+,17
+S21,Undergraduate,PSTAT   134,SUN Y,C-,1
+S21,Undergraduate,PSTAT   134,SUN Y,C+,3
+S21,Undergraduate,PSTAT   134,SUN Y,D,1
+S21,Undergraduate,PSTAT   134,SUN Y,F,3
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,A,6
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,A-,10
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,A+,5
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,B,14
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,B-,7
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,B+,9
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,C,9
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,C-,7
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,C+,7
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,D,7
+S21,Undergraduate,PSTAT   160A,LUDKOVSKI M,F,3
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,A,72
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,A-,8
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,A+,3
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,B,9
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,B-,6
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,B+,11
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,C,8
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,C-,1
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,C+,5
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,D-,2
+S21,Undergraduate,PSTAT   160B,FOUQUE J-P,F,3
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,A,11
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,A-,18
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,A+,8
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,B,13
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,B-,8
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,B+,20
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,C,2
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,C+,3
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,D,1
+S21,Undergraduate,PSTAT   170,PEDERSEN H W,F,6
+S21,Undergraduate,PSTAT   171,DUNCAN I,A,7
+S21,Undergraduate,PSTAT   171,DUNCAN I,A-,7
+S21,Undergraduate,PSTAT   171,DUNCAN I,A+,7
+S21,Undergraduate,PSTAT   171,DUNCAN I,B,13
+S21,Undergraduate,PSTAT   171,DUNCAN I,B-,10
+S21,Undergraduate,PSTAT   171,DUNCAN I,B+,14
+S21,Undergraduate,PSTAT   171,DUNCAN I,C,4
+S21,Undergraduate,PSTAT   171,DUNCAN I,C-,1
+S21,Undergraduate,PSTAT   171,DUNCAN I,C+,17
+S21,Undergraduate,PSTAT   171,DUNCAN I,D,1
+S21,Undergraduate,PSTAT   171,DUNCAN I,F,6
+S21,Undergraduate,PSTAT   172B,DUNCAN I,A,7
+S21,Undergraduate,PSTAT   172B,DUNCAN I,A-,6
+S21,Undergraduate,PSTAT   172B,DUNCAN I,A+,5
+S21,Undergraduate,PSTAT   172B,DUNCAN I,B,4
+S21,Undergraduate,PSTAT   172B,DUNCAN I,B-,2
+S21,Undergraduate,PSTAT   172B,DUNCAN I,B+,4
+S21,Undergraduate,PSTAT   172B,DUNCAN I,C,3
+S21,Undergraduate,PSTAT   172B,DUNCAN I,C-,1
+S21,Undergraduate,PSTAT   172B,DUNCAN I,C+,1
+S21,Undergraduate,PSTAT   172B,DUNCAN I,F,3
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,A,7
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,A-,6
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,A+,6
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,B,7
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,B-,5
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,B+,12
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,C,3
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,C+,3
+S21,Undergraduate,PSTAT   173,PEDERSEN H W,F,3
+S21,Undergraduate,PSTAT   174,FELDMAN R,A,19
+S21,Undergraduate,PSTAT   174,FELDMAN R,A-,12
+S21,Undergraduate,PSTAT   174,FELDMAN R,A+,6
+S21,Undergraduate,PSTAT   174,FELDMAN R,B,12
+S21,Undergraduate,PSTAT   174,FELDMAN R,B-,10
+S21,Undergraduate,PSTAT   174,FELDMAN R,B+,6
+S21,Undergraduate,PSTAT   174,FELDMAN R,C,7
+S21,Undergraduate,PSTAT   174,FELDMAN R,C-,5
+S21,Undergraduate,PSTAT   174,FELDMAN R,C+,4
+S21,Undergraduate,PSTAT   174,FELDMAN R,F,3
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,A,2
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,A-,2
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,B,3
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,B-,3
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,B+,2
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,C,1
+S21,Undergraduate,PSTAT   176,LUDKOVSKI M,D,1
+S21,Undergraduate,PSTAT   182T,LUDKOVSKI M,NP,2
+S21,Undergraduate,PSTAT   182T,LUDKOVSKI M,P,4
+S21,Undergraduate,PSTAT   183,DUNCAN J E,A,15
+S21,Undergraduate,PSTAT   183,DUNCAN J E,A-,9
+S21,Undergraduate,PSTAT   183,DUNCAN J E,A+,3
+S21,Undergraduate,PSTAT   183,DUNCAN J E,B,10
+S21,Undergraduate,PSTAT   183,DUNCAN J E,B-,5
+S21,Undergraduate,PSTAT   183,DUNCAN J E,B+,6
+S21,Undergraduate,PSTAT   183,DUNCAN J E,C,2
+S21,Undergraduate,PSTAT   183,DUNCAN J E,C-,4
+S21,Undergraduate,PSTAT   183,DUNCAN J E,C+,2
+S21,Undergraduate,PSTAT   183,DUNCAN J E,D+,4
+S21,Undergraduate,PSTAT   197C,FRANKS A,A,19
+S21,Undergraduate,PSTAT   197C,OH SANG-YUN,A,19
+S21,Graduate,PSTAT   207C,JAMMALAMADAKA,A,1
+S21,Graduate,PSTAT   207C,JAMMALAMADAKA,A+,14
+S21,Graduate,PSTAT   213C,FELDMAN R,A,6
+S21,Graduate,PSTAT   213C,FELDMAN R,A-,1
+S21,Graduate,PSTAT   213C,FELDMAN R,A+,3
+S21,Graduate,PSTAT   220C,GU M,A,15
+S21,Graduate,PSTAT   220C,GU M,A-,4
+S21,Graduate,PSTAT   220C,GU M,F,2
+S21,Graduate,PSTAT   223C,FOUQUE J-P,A,6
+S21,Graduate,PSTAT   223C,LUDKOVSKI M,A,6
+S21,Graduate,PSTAT   226,CARTER A V,A,2
+S21,Graduate,PSTAT   226,CARTER A V,A-,3
+S21,Graduate,PSTAT   226,CARTER A V,A+,1
+S21,Graduate,PSTAT   226,CARTER A V,F,1
+S21,Graduate,PSTAT   226,CARTER A V,U,1
+S21,Graduate,PSTAT   230,MEIRING W,A,2
+S21,Graduate,PSTAT   230,MEIRING W,A-,4
+S21,Graduate,PSTAT   230,MEIRING W,A+,1
+S21,Graduate,PSTAT   230,MEIRING W,B-,1
+S21,Graduate,PSTAT   230,MEIRING W,B+,1
+S21,Graduate,PSTAT   230,MEIRING W,F,1
+S21,Graduate,PSTAT   230,MEIRING W,U,1
+S21,Graduate,PSTAT   231,RUIZ T D,A,8
+S21,Graduate,PSTAT   231,RUIZ T D,B,1
+S21,Graduate,PSTAT   234,OH SANG-YUN,A,23
+S21,Graduate,PSTAT   234,OH SANG-YUN,A-,1
+S21,Graduate,PSTAT   234,OH SANG-YUN,B+,2
+S21,Graduate,PSTAT   263,GU M,S,18
+S21,Graduate,PSTAT   263,GU M,U,1
+S21,Graduate,PSTAT   263,SHKOLNIK A D,S,18
+S21,Graduate,PSTAT   263,SHKOLNIK A D,U,1
+S21,Graduate,PSTAT   274,FELDMAN R,A,3
+S21,Graduate,PSTAT   274,FELDMAN R,A-,4
+S21,Graduate,PSTAT   274,FELDMAN R,B+,2
+S21,Graduate,PSTAT   274,FELDMAN R,C+,2
+S21,Graduate,PSTAT   276,LUDKOVSKI M,A,2
+S21,Graduate,PSTAT   276,LUDKOVSKI M,A-,5
+S21,Graduate,PSTAT   276,LUDKOVSKI M,A+,2
+S21,Graduate,PSTAT   276,LUDKOVSKI M,B,2
+S21,Graduate,PSTAT   276,LUDKOVSKI M,B+,2

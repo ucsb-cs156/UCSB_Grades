@@ -1,0 +1,273 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,PSY       1,SCHOOLER J W,A,2
+S12,Undergraduate,PSY       1,SCHOOLER J W,A-,9
+S12,Undergraduate,PSY       1,SCHOOLER J W,B+,25
+S12,Undergraduate,PSY       1,SCHOOLER J W,B,68
+S12,Undergraduate,PSY       1,SCHOOLER J W,B-,89
+S12,Undergraduate,PSY       1,SCHOOLER J W,C+,67
+S12,Undergraduate,PSY       1,SCHOOLER J W,C,87
+S12,Undergraduate,PSY       1,SCHOOLER J W,C-,9
+S12,Undergraduate,PSY       1,SCHOOLER J W,D+,16
+S12,Undergraduate,PSY       1,SCHOOLER J W,D,15
+S12,Undergraduate,PSY       1,SCHOOLER J W,D-,8
+S12,Undergraduate,PSY       1,SCHOOLER J W,F,10
+S12,Undergraduate,PSY       3,JANUSONIS S,A+,8
+S12,Undergraduate,PSY       3,JANUSONIS S,A,106
+S12,Undergraduate,PSY       3,JANUSONIS S,A-,27
+S12,Undergraduate,PSY       3,JANUSONIS S,B+,28
+S12,Undergraduate,PSY       3,JANUSONIS S,B,62
+S12,Undergraduate,PSY       3,JANUSONIS S,B-,20
+S12,Undergraduate,PSY       3,JANUSONIS S,C+,24
+S12,Undergraduate,PSY       3,JANUSONIS S,C,25
+S12,Undergraduate,PSY       3,JANUSONIS S,C-,6
+S12,Undergraduate,PSY       3,JANUSONIS S,D+,1
+S12,Undergraduate,PSY       3,JANUSONIS S,D,4
+S12,Undergraduate,PSY       3,JANUSONIS S,D-,1
+S12,Undergraduate,PSY       3,JANUSONIS S,F,11
+S12,Undergraduate,PSY       5,GIESBRECHT B,A+,2
+S12,Undergraduate,PSY       5,GIESBRECHT B,A,4
+S12,Undergraduate,PSY       5,GIESBRECHT B,A-,9
+S12,Undergraduate,PSY       5,GIESBRECHT B,B+,4
+S12,Undergraduate,PSY       5,GIESBRECHT B,B,11
+S12,Undergraduate,PSY       5,GIESBRECHT B,B-,14
+S12,Undergraduate,PSY       5,GIESBRECHT B,C+,16
+S12,Undergraduate,PSY       5,GIESBRECHT B,C,17
+S12,Undergraduate,PSY       5,GIESBRECHT B,C-,7
+S12,Undergraduate,PSY       5,GIESBRECHT B,D+,1
+S12,Undergraduate,PSY       5,GIESBRECHT B,D,4
+S12,Undergraduate,PSY       5,GIESBRECHT B,F,5
+S12,Undergraduate,PSY       7,JUANG L P,A,6
+S12,Undergraduate,PSY       7,JUANG L P,A-,23
+S12,Undergraduate,PSY       7,JUANG L P,B+,28
+S12,Undergraduate,PSY       7,JUANG L P,B,47
+S12,Undergraduate,PSY       7,JUANG L P,B-,36
+S12,Undergraduate,PSY       7,JUANG L P,C+,25
+S12,Undergraduate,PSY       7,JUANG L P,C,35
+S12,Undergraduate,PSY       7,JUANG L P,C-,26
+S12,Undergraduate,PSY       7,JUANG L P,D+,10
+S12,Undergraduate,PSY       7,JUANG L P,D,17
+S12,Undergraduate,PSY       7,JUANG L P,D-,9
+S12,Undergraduate,PSY       7,JUANG L P,F,19
+S12,Undergraduate,PSY      90C,MACKIE D M,A+,4
+S12,Undergraduate,PSY      90C,MACKIE D M,A,6
+S12,Undergraduate,PSY      90C,MACKIE D M,A-,4
+S12,Undergraduate,PSY     103,FRIDLUND A J,A+,3
+S12,Undergraduate,PSY     103,FRIDLUND A J,A,158
+S12,Undergraduate,PSY     103,FRIDLUND A J,A-,29
+S12,Undergraduate,PSY     103,FRIDLUND A J,B+,28
+S12,Undergraduate,PSY     103,FRIDLUND A J,B,311
+S12,Undergraduate,PSY     103,FRIDLUND A J,B-,38
+S12,Undergraduate,PSY     103,FRIDLUND A J,C+,23
+S12,Undergraduate,PSY     103,FRIDLUND A J,C,169
+S12,Undergraduate,PSY     103,FRIDLUND A J,C-,6
+S12,Undergraduate,PSY     103,FRIDLUND A J,D+,7
+S12,Undergraduate,PSY     103,FRIDLUND A J,D,43
+S12,Undergraduate,PSY     103,FRIDLUND A J,D-,2
+S12,Undergraduate,PSY     103,FRIDLUND A J,F,14
+S12,Undergraduate,PSY     104,GABLE S,A+,6
+S12,Undergraduate,PSY     104,GABLE S,A,46
+S12,Undergraduate,PSY     104,GABLE S,A-,30
+S12,Undergraduate,PSY     104,GABLE S,B+,28
+S12,Undergraduate,PSY     104,GABLE S,B,71
+S12,Undergraduate,PSY     104,GABLE S,B-,10
+S12,Undergraduate,PSY     104,GABLE S,C+,8
+S12,Undergraduate,PSY     104,GABLE S,C,11
+S12,Undergraduate,PSY     104,GABLE S,C-,1
+S12,Undergraduate,PSY     104,GABLE S,D+,1
+S12,Undergraduate,PSY     104,GABLE S,D,3
+S12,Undergraduate,PSY     104,GABLE S,F,3
+S12,Undergraduate,PSY     108,REVLIN R,A,34
+S12,Undergraduate,PSY     108,REVLIN R,B+,29
+S12,Undergraduate,PSY     108,REVLIN R,B,56
+S12,Undergraduate,PSY     108,REVLIN R,B-,16
+S12,Undergraduate,PSY     108,REVLIN R,C+,27
+S12,Undergraduate,PSY     108,REVLIN R,C,25
+S12,Undergraduate,PSY     108,REVLIN R,C-,12
+S12,Undergraduate,PSY     108,REVLIN R,D,24
+S12,Undergraduate,PSY     108,REVLIN R,D-,1
+S12,Undergraduate,PSY     108,REVLIN R,F,13
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,A,24
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,A-,24
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,B+,22
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,B,26
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,B-,12
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,C+,5
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,C-,2
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,D,1
+S12,Undergraduate,PSY     110A,ECKSTEIN M P,F,1
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,A+,1
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,A,7
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,A-,3
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,B+,5
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,B,5
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,B-,3
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,C+,6
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,C,2
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,C-,2
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,D,2
+S12,Undergraduate,PSY     111L,BEN-SHAHAR O,F,1
+S12,Undergraduate,PSY     116,ETTENBERG A,A+,18
+S12,Undergraduate,PSY     116,ETTENBERG A,A,17
+S12,Undergraduate,PSY     116,ETTENBERG A,A-,18
+S12,Undergraduate,PSY     116,ETTENBERG A,B+,26
+S12,Undergraduate,PSY     116,ETTENBERG A,B,24
+S12,Undergraduate,PSY     116,ETTENBERG A,B-,15
+S12,Undergraduate,PSY     116,ETTENBERG A,C+,27
+S12,Undergraduate,PSY     116,ETTENBERG A,C,20
+S12,Undergraduate,PSY     116,ETTENBERG A,C-,11
+S12,Undergraduate,PSY     116,ETTENBERG A,D,9
+S12,Undergraduate,PSY     116,ETTENBERG A,F,8
+S12,Undergraduate,PSY     117,KLEIN S B,A,11
+S12,Undergraduate,PSY     117,KLEIN S B,A-,24
+S12,Undergraduate,PSY     117,KLEIN S B,B+,26
+S12,Undergraduate,PSY     117,KLEIN S B,B,56
+S12,Undergraduate,PSY     117,KLEIN S B,B-,38
+S12,Undergraduate,PSY     117,KLEIN S B,C+,38
+S12,Undergraduate,PSY     117,KLEIN S B,C,29
+S12,Undergraduate,PSY     117,KLEIN S B,C-,15
+S12,Undergraduate,PSY     117,KLEIN S B,D+,4
+S12,Undergraduate,PSY     117,KLEIN S B,D,6
+S12,Undergraduate,PSY     117,KLEIN S B,D-,2
+S12,Undergraduate,PSY     117,KLEIN S B,F,8
+S12,Undergraduate,PSY     117L,HEGARTY M,A+,1
+S12,Undergraduate,PSY     117L,HEGARTY M,A,7
+S12,Undergraduate,PSY     117L,HEGARTY M,A-,5
+S12,Undergraduate,PSY     117L,HEGARTY M,B+,6
+S12,Undergraduate,PSY     117L,HEGARTY M,B,10
+S12,Undergraduate,PSY     117L,HEGARTY M,B-,3
+S12,Undergraduate,PSY     117L,HEGARTY M,C,1
+S12,Undergraduate,PSY     117L,HEGARTY M,F,2
+S12,Undergraduate,PSY     120L,JUANG L P,A,9
+S12,Undergraduate,PSY     120L,JUANG L P,A-,19
+S12,Undergraduate,PSY     120L,JUANG L P,B+,18
+S12,Undergraduate,PSY     120L,JUANG L P,B,22
+S12,Undergraduate,PSY     120L,JUANG L P,B-,12
+S12,Undergraduate,PSY     120L,JUANG L P,C+,5
+S12,Undergraduate,PSY     120L,JUANG L P,C,4
+S12,Undergraduate,PSY     120L,JUANG L P,F,3
+S12,Undergraduate,PSY     128,MAYER R E,A+,1
+S12,Undergraduate,PSY     128,MAYER R E,A,47
+S12,Undergraduate,PSY     128,MAYER R E,A-,32
+S12,Undergraduate,PSY     128,MAYER R E,B+,30
+S12,Undergraduate,PSY     128,MAYER R E,B,27
+S12,Undergraduate,PSY     128,MAYER R E,B-,13
+S12,Undergraduate,PSY     128,MAYER R E,C+,9
+S12,Undergraduate,PSY     128,MAYER R E,C,8
+S12,Undergraduate,PSY     128,MAYER R E,C-,6
+S12,Undergraduate,PSY     128,MAYER R E,D+,2
+S12,Undergraduate,PSY     128,MAYER R E,D,2
+S12,Undergraduate,PSY     128,MAYER R E,F,2
+S12,Undergraduate,PSY     143P,BUGENTAL D E,P,9
+S12,Undergraduate,PSY     143P,BUGENTAL D E,NP,1
+S12,Undergraduate,PSY     143S,BUGENTAL D E,A+,2
+S12,Undergraduate,PSY     143S,BUGENTAL D E,A,4
+S12,Undergraduate,PSY     143S,BUGENTAL D E,A-,3
+S12,Undergraduate,PSY     143S,BUGENTAL D E,F,1
+S12,Undergraduate,PSY     145,GERMAN T C M,A+,32
+S12,Undergraduate,PSY     145,GERMAN T C M,A,13
+S12,Undergraduate,PSY     145,GERMAN T C M,A-,8
+S12,Undergraduate,PSY     145,GERMAN T C M,B+,3
+S12,Undergraduate,PSY     145,GERMAN T C M,B,3
+S12,Undergraduate,PSY     145,GERMAN T C M,B-,1
+S12,Undergraduate,PSY     145,GERMAN T C M,C,6
+S12,Undergraduate,PSY     145,GERMAN T C M,F,2
+S12,Undergraduate,PSY     147,HAMILTON D L,A,11
+S12,Undergraduate,PSY     147,HAMILTON D L,A-,8
+S12,Undergraduate,PSY     147,HAMILTON D L,B+,9
+S12,Undergraduate,PSY     147,HAMILTON D L,B,12
+S12,Undergraduate,PSY     147,HAMILTON D L,B-,3
+S12,Undergraduate,PSY     147,HAMILTON D L,C+,8
+S12,Undergraduate,PSY     147,HAMILTON D L,C,14
+S12,Undergraduate,PSY     147,HAMILTON D L,D,8
+S12,Undergraduate,PSY     147,HAMILTON D L,F,4
+S12,Undergraduate,PSY     148,KLEIN S B,A+,6
+S12,Undergraduate,PSY     148,KLEIN S B,A,28
+S12,Undergraduate,PSY     148,KLEIN S B,A-,38
+S12,Undergraduate,PSY     148,KLEIN S B,B+,42
+S12,Undergraduate,PSY     148,KLEIN S B,B,46
+S12,Undergraduate,PSY     148,KLEIN S B,B-,31
+S12,Undergraduate,PSY     148,KLEIN S B,C+,23
+S12,Undergraduate,PSY     148,KLEIN S B,C,15
+S12,Undergraduate,PSY     148,KLEIN S B,C-,3
+S12,Undergraduate,PSY     148,KLEIN S B,D+,2
+S12,Undergraduate,PSY     148,KLEIN S B,D,3
+S12,Undergraduate,PSY     148,KLEIN S B,D-,1
+S12,Undergraduate,PSY     148,KLEIN S B,F,5
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,A+,7
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,A,1
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,A-,5
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,B,2
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,C+,2
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,C-,1
+S12,Undergraduate,PSY     163KS,SZUMLINSKI K,F,1
+S12,Undergraduate,PSY     164,JANUSONIS S,A+,3
+S12,Undergraduate,PSY     164,JANUSONIS S,A,17
+S12,Undergraduate,PSY     164,JANUSONIS S,B+,1
+S12,Undergraduate,PSY     171,REESE B E,A+,2
+S12,Undergraduate,PSY     171,REESE B E,A,3
+S12,Undergraduate,PSY     171,REESE B E,A-,2
+S12,Undergraduate,PSY     171,REESE B E,B+,5
+S12,Undergraduate,PSY     171,REESE B E,B,4
+S12,Undergraduate,PSY     171,REESE B E,B-,7
+S12,Undergraduate,PSY     171,REESE B E,C+,2
+S12,Undergraduate,PSY     171,REESE B E,C,5
+S12,Undergraduate,PSY     171,REESE B E,C-,3
+S12,Undergraduate,PSY     171,REESE B E,D+,3
+S12,Undergraduate,PSY     171,REESE B E,D,2
+S12,Undergraduate,PSY     171,REESE B E,D-,2
+S12,Undergraduate,PSY     171,REESE B E,F,3
+S12,Undergraduate,PSY     196,GERMAN T C M,A,12
+S12,Undergraduate,PSY     196,GERMAN T C M,C,1
+S12,Undergraduate,PSY     199,ASHBY F G,A,5
+S12,Undergraduate,PSY     199,ASHBY F G,A-,1
+S12,Undergraduate,PSY     199,BLASCOVICH J,A,7
+S12,Undergraduate,PSY     199,COLLINS N L,A+,2
+S12,Undergraduate,PSY     199,COLLINS N L,A,3
+S12,Undergraduate,PSY     199,COSMIDES L,A,8
+S12,Undergraduate,PSY     199,ECKSTEIN M P,A+,2
+S12,Undergraduate,PSY     199,ECKSTEIN M P,A,12
+S12,Undergraduate,PSY     199,GABLE S,A,16
+S12,Undergraduate,PSY     199,GIESBRECHT B,A+,2
+S12,Undergraduate,PSY     199,GIESBRECHT B,A,9
+S12,Undergraduate,PSY     199,GIESBRECHT B,B+,1
+S12,Undergraduate,PSY     199,GIESBRECHT B,B,2
+S12,Undergraduate,PSY     199,GIESBRECHT B,C,1
+S12,Undergraduate,PSY     199,HAMILTON D L,A,5
+S12,Undergraduate,PSY     199,KIM H S,A,8
+S12,Undergraduate,PSY     199,KIPPIN T E,A+,1
+S12,Undergraduate,PSY     199,KIPPIN T E,A,3
+S12,Undergraduate,PSY     199,KIPPIN T E,A-,1
+S12,Undergraduate,PSY     199,MAJOR B N,A,7
+S12,Undergraduate,PSY     199,SZUMLINSKI K,A+,3
+S12,Undergraduate,PSY     199,SZUMLINSKI K,A-,2
+S12,Undergraduate,PSY     199P,COLLINS N L,P,6
+S12,Undergraduate,PSY     199P,COSMIDES L,P,12
+S12,Undergraduate,PSY     199P,ECKSTEIN M P,P,13
+S12,Undergraduate,PSY     199P,GAZZANIGA M,P,5
+S12,Undergraduate,PSY     199P,GIESBRECHT B,P,15
+S12,Undergraduate,PSY     199P,HAMILTON D L,P,5
+S12,Undergraduate,PSY     199P,SHERMAN D A,P,5
+S12,Graduate,PSY     221C,COLLINS N L,A+,2
+S12,Graduate,PSY     221C,COLLINS N L,A,20
+S12,Graduate,PSY     221C,COLLINS N L,A-,1
+S12,Graduate,PSY     221C,COLLINS N L,B+,1
+S12,Graduate,PSY     221C,COLLINS N L,B,1
+S12,Graduate,PSY     231,MILLER M B,A+,6
+S12,Graduate,PSY     231,MILLER M B,A,10
+S12,Graduate,PSY     231,MILLER M B,A-,2
+S12,Graduate,PSY     231,MILLER M B,B+,1
+S12,Graduate,PSY     235,KIPPIN T E,A+,1
+S12,Graduate,PSY     235,KIPPIN T E,A,3
+S12,Graduate,PSY     235,KIPPIN T E,A-,2
+S12,Graduate,PSY     235,KIPPIN T E,B+,1
+S12,Graduate,PSY     258,MAJOR B N,A,8
+S12,Graduate,PSY     258,MAJOR B N,A-,1
+S12,Graduate,PSY     258,MAJOR B N,B,1
+S12,Graduate,PSY     258,MAJOR B N,S,1
+S12,Graduate,PSY     592AF,FRIDLUND A J,S,7
+S12,Graduate,PSY     592DH,HAMILTON D L,S,18
+S12,Graduate,PSY     592RM,MAYER R E,S,21
+S12,Graduate,PSY     592RR,REVLIN R,S,6
+S12,Graduate,PSY     592SN,GABLE S,S,18
+S12,Graduate,PSY     592TK,KIPPIN T E,S,8
+S12,Graduate,PSY     594LN,GAZZANIGA M,A,13

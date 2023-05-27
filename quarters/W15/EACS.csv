@@ -1,0 +1,74 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W15,Undergraduate,EACS      3,HILLIS G A,A+,3
+W15,Undergraduate,EACS      3,HILLIS G A,A,3
+W15,Undergraduate,EACS      3,HILLIS G A,A-,16
+W15,Undergraduate,EACS      3,HILLIS G A,B+,10
+W15,Undergraduate,EACS      3,HILLIS G A,B,8
+W15,Undergraduate,EACS      3,HILLIS G A,B-,11
+W15,Undergraduate,EACS      3,HILLIS G A,C+,2
+W15,Undergraduate,EACS      3,HILLIS G A,C,2
+W15,Undergraduate,EACS      3,HILLIS G A,C-,2
+W15,Undergraduate,EACS      3,HILLIS G A,D+,1
+W15,Undergraduate,EACS      3,HILLIS G A,D,1
+W15,Undergraduate,EACS      3,HILLIS G A,F,2
+W15,Undergraduate,EACS      4A,LI X,A+,6
+W15,Undergraduate,EACS      4A,LI X,A,32
+W15,Undergraduate,EACS      4A,LI X,A-,28
+W15,Undergraduate,EACS      4A,LI X,B+,15
+W15,Undergraduate,EACS      4A,LI X,B,25
+W15,Undergraduate,EACS      4A,LI X,B-,11
+W15,Undergraduate,EACS      4A,LI X,C+,4
+W15,Undergraduate,EACS      4A,LI X,C,12
+W15,Undergraduate,EACS      4A,LI X,C-,1
+W15,Undergraduate,EACS      4A,LI X,D,1
+W15,Undergraduate,EACS      4A,LI X,D-,1
+W15,Undergraduate,EACS      4A,LI X,F,9
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,A+,6
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,A,32
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,A-,28
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,B+,15
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,B,25
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,B-,11
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,C+,4
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,C,12
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,C-,1
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,D,1
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,D-,1
+W15,Undergraduate,EACS      4A,SALTZMAN-LI K,F,9
+W15,Undergraduate,EACS     80,JI X,A,1
+W15,Undergraduate,EACS     80,JI X,A-,13
+W15,Undergraduate,EACS     80,JI X,B+,12
+W15,Undergraduate,EACS     80,JI X,B,10
+W15,Undergraduate,EACS     80,JI X,B-,9
+W15,Undergraduate,EACS     80,JI X,C+,1
+W15,Undergraduate,EACS     80,JI X,C,4
+W15,Undergraduate,EACS     80,JI X,D,1
+W15,Undergraduate,EACS     80,JI X,F,2
+W15,Undergraduate,EACS    103B,LEWALLEN A,A,4
+W15,Undergraduate,EACS    103B,LEWALLEN A,A-,4
+W15,Undergraduate,EACS    103B,LEWALLEN A,B+,4
+W15,Undergraduate,EACS    103B,LEWALLEN A,B,4
+W15,Undergraduate,EACS    103B,LEWALLEN A,B-,1
+W15,Undergraduate,EACS    103B,LEWALLEN A,C+,1
+W15,Undergraduate,EACS    103B,LEWALLEN A,C,5
+W15,Undergraduate,EACS    103B,LEWALLEN A,C-,1
+W15,Undergraduate,EACS    179,RAMBELLI F,A,1
+W15,Undergraduate,EACS    179,RAMBELLI F,A-,1
+W15,Undergraduate,EACS    179,RAMBELLI F,B+,5
+W15,Undergraduate,EACS    179,RAMBELLI F,B,8
+W15,Undergraduate,EACS    179,RAMBELLI F,B-,4
+W15,Undergraduate,EACS    179,RAMBELLI F,C+,1
+W15,Undergraduate,EACS    179,RAMBELLI F,C,1
+W15,Undergraduate,EACS    179,RAMBELLI F,F,2
+W15,Undergraduate,EACS    186,PAI H I,A+,2
+W15,Undergraduate,EACS    186,PAI H I,A,2
+W15,Undergraduate,EACS    186,PAI H I,A-,5
+W15,Undergraduate,EACS    186,PAI H I,B+,10
+W15,Undergraduate,EACS    186,PAI H I,B,10
+W15,Undergraduate,EACS    186,PAI H I,B-,4
+W15,Undergraduate,EACS    186,PAI H I,C+,2
+W15,Undergraduate,EACS    186,PAI H I,C,2
+W15,Undergraduate,EACS    186,PAI H I,F,1
+W15,Graduate,EACS    212,SALTZMAN-LI K,A,6
+W15,Graduate,EACS    212,SALTZMAN-LI K,A-,1
+W15,Graduate,EACS    212,SALTZMAN-LI K,B,2

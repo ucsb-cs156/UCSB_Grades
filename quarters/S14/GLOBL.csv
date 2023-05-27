@@ -1,0 +1,112 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,GLOBL     1,MCCARTY P C,A+,5
+S14,Undergraduate,GLOBL     1,MCCARTY P C,A,155
+S14,Undergraduate,GLOBL     1,MCCARTY P C,A-,38
+S14,Undergraduate,GLOBL     1,MCCARTY P C,B+,26
+S14,Undergraduate,GLOBL     1,MCCARTY P C,B,32
+S14,Undergraduate,GLOBL     1,MCCARTY P C,B-,1
+S14,Undergraduate,GLOBL     1,MCCARTY P C,C+,6
+S14,Undergraduate,GLOBL     1,MCCARTY P C,C,11
+S14,Undergraduate,GLOBL     1,MCCARTY P C,C-,1
+S14,Undergraduate,GLOBL     1,MCCARTY P C,D+,1
+S14,Undergraduate,GLOBL     1,MCCARTY P C,F,1
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,A+,33
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,A,61
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,A-,56
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,B+,47
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,B,52
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,B-,20
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,C+,22
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,C,9
+S14,Undergraduate,GLOBL     2,JUERGENSMEYER,F,2
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,A+,16
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,A,19
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,A-,10
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,B+,10
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,B,6
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,B-,5
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,C+,5
+S14,Undergraduate,GLOBL   102,JUERGENSMEYER,F,1
+S14,Undergraduate,GLOBL   110,LEZRA E M,A+,1
+S14,Undergraduate,GLOBL   110,LEZRA E M,A,16
+S14,Undergraduate,GLOBL   110,LEZRA E M,A-,36
+S14,Undergraduate,GLOBL   110,LEZRA E M,B+,21
+S14,Undergraduate,GLOBL   110,LEZRA E M,B,23
+S14,Undergraduate,GLOBL   110,LEZRA E M,B-,13
+S14,Undergraduate,GLOBL   110,LEZRA E M,C+,5
+S14,Undergraduate,GLOBL   110,LEZRA E M,C,3
+S14,Undergraduate,GLOBL   110,LEZRA E M,C-,7
+S14,Undergraduate,GLOBL   110,LEZRA E M,D,1
+S14,Undergraduate,GLOBL   110,LEZRA E M,D-,1
+S14,Undergraduate,GLOBL   110,LEZRA E M,F,2
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,A,15
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,A-,22
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,B+,26
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,B,15
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,B-,12
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,C+,9
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,C,8
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,C-,3
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,D+,2
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,D,2
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,D-,3
+S14,Undergraduate,GLOBL   120,DARIAN-SMITH,F,4
+S14,Undergraduate,GLOBL   130,MEHTA A S,A+,6
+S14,Undergraduate,GLOBL   130,MEHTA A S,A,21
+S14,Undergraduate,GLOBL   130,MEHTA A S,A-,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,B+,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,B,13
+S14,Undergraduate,GLOBL   130,MEHTA A S,B-,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,C+,12
+S14,Undergraduate,GLOBL   130,MEHTA A S,C,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,C-,10
+S14,Undergraduate,GLOBL   130,MEHTA A S,D,5
+S14,Undergraduate,GLOBL   130,MEHTA A S,F,7
+S14,Undergraduate,GLOBL   136,MEHTA A S,A+,2
+S14,Undergraduate,GLOBL   136,MEHTA A S,A,13
+S14,Undergraduate,GLOBL   136,MEHTA A S,A-,9
+S14,Undergraduate,GLOBL   136,MEHTA A S,B+,1
+S14,Undergraduate,GLOBL   136,MEHTA A S,B,1
+S14,Undergraduate,GLOBL   136,MEHTA A S,B-,3
+S14,Undergraduate,GLOBL   136,MEHTA A S,C+,2
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,A+,1
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,A,7
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,A-,14
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,B+,3
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,B,4
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,B-,2
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,C-,1
+S14,Undergraduate,GLOBL   147,CLITANDRE N T,F,1
+S14,Undergraduate,GLOBL   157,MCCARTY P C,A+,6
+S14,Undergraduate,GLOBL   157,MCCARTY P C,A,88
+S14,Undergraduate,GLOBL   157,MCCARTY P C,A-,19
+S14,Undergraduate,GLOBL   157,MCCARTY P C,B+,10
+S14,Undergraduate,GLOBL   157,MCCARTY P C,B,11
+S14,Undergraduate,GLOBL   157,MCCARTY P C,B-,1
+S14,Undergraduate,GLOBL   157,MCCARTY P C,C,1
+S14,Undergraduate,GLOBL   163,LEZRA E M,A+,5
+S14,Undergraduate,GLOBL   163,LEZRA E M,A,8
+S14,Undergraduate,GLOBL   163,LEZRA E M,A-,8
+S14,Undergraduate,GLOBL   163,LEZRA E M,B+,1
+S14,Undergraduate,GLOBL   163,LEZRA E M,C+,1
+S14,Undergraduate,GLOBL   163,LEZRA E M,C,1
+S14,Undergraduate,GLOBL   163,LEZRA E M,C-,1
+S14,Undergraduate,GLOBL   163,LEZRA E M,D-,1
+S14,Undergraduate,GLOBL   165,LEZRA E M,A+,6
+S14,Undergraduate,GLOBL   165,LEZRA E M,A,14
+S14,Undergraduate,GLOBL   165,LEZRA E M,A-,1
+S14,Undergraduate,GLOBL   165,LEZRA E M,B+,1
+S14,Undergraduate,GLOBL   165,LEZRA E M,B,3
+S14,Undergraduate,GLOBL   165,LEZRA E M,C,1
+S14,Undergraduate,GLOBL   165,LEZRA E M,F,1
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,A+,2
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,A,10
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,A-,4
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,B+,6
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,B,1
+S14,Undergraduate,GLOBL   197,BARANDIARAN J,F,2
+S14,Undergraduate,GLOBL   199,APPELBAUM R,A+,4
+S14,Undergraduate,GLOBL   199,APPELBAUM R,A,3
+S14,Undergraduate,GLOBL   199,APPELBAUM R,A-,1
+S14,Graduate,GLOBL   225,DARIAN-SMITH,A,12
+S14,Graduate,GLOBL   292HH,CLITANDRE N T,A,6

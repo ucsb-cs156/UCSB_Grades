@@ -1,0 +1,132 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M10,Undergraduate,HIST      2A,VALENTE J M,A+,1
+M10,Undergraduate,HIST      2A,VALENTE J M,A,12
+M10,Undergraduate,HIST      2A,VALENTE J M,A-,9
+M10,Undergraduate,HIST      2A,VALENTE J M,B+,8
+M10,Undergraduate,HIST      2A,VALENTE J M,B,22
+M10,Undergraduate,HIST      2A,VALENTE J M,B-,21
+M10,Undergraduate,HIST      2A,VALENTE J M,C+,9
+M10,Undergraduate,HIST      2A,VALENTE J M,C,8
+M10,Undergraduate,HIST      2A,VALENTE J M,C-,4
+M10,Undergraduate,HIST      2A,VALENTE J M,D+,1
+M10,Undergraduate,HIST      2A,VALENTE J M,D,2
+M10,Undergraduate,HIST      2A,VALENTE J M,F,2
+M10,Undergraduate,HIST      2B,DUTRA F A,A+,1
+M10,Undergraduate,HIST      2B,DUTRA F A,A,44
+M10,Undergraduate,HIST      2B,DUTRA F A,A-,18
+M10,Undergraduate,HIST      2B,DUTRA F A,B+,13
+M10,Undergraduate,HIST      2B,DUTRA F A,B,5
+M10,Undergraduate,HIST      2C,SPICKARD P R,A,9
+M10,Undergraduate,HIST      2C,SPICKARD P R,A-,10
+M10,Undergraduate,HIST      2C,SPICKARD P R,B+,16
+M10,Undergraduate,HIST      2C,SPICKARD P R,B,20
+M10,Undergraduate,HIST      2C,SPICKARD P R,B-,10
+M10,Undergraduate,HIST      2C,SPICKARD P R,C+,6
+M10,Undergraduate,HIST      2C,SPICKARD P R,C,4
+M10,Undergraduate,HIST      2C,SPICKARD P R,C-,2
+M10,Undergraduate,HIST      2C,SPICKARD P R,D+,1
+M10,Undergraduate,HIST      2C,SPICKARD P R,D,1
+M10,Undergraduate,HIST      2C,SPICKARD P R,F,9
+M10,Undergraduate,HIST      8,ROCK D P,A,7
+M10,Undergraduate,HIST      8,ROCK D P,A-,11
+M10,Undergraduate,HIST      8,ROCK D P,B+,14
+M10,Undergraduate,HIST      8,ROCK D P,B,20
+M10,Undergraduate,HIST      8,ROCK D P,B-,13
+M10,Undergraduate,HIST      8,ROCK D P,C+,8
+M10,Undergraduate,HIST      8,ROCK D P,C,11
+M10,Undergraduate,HIST      8,ROCK D P,C-,1
+M10,Undergraduate,HIST      8,ROCK D P,D,2
+M10,Undergraduate,HIST      8,ROCK D P,F,4
+M10,Undergraduate,HIST     80,BARBIERI-LOW,A,11
+M10,Undergraduate,HIST     80,BARBIERI-LOW,A-,18
+M10,Undergraduate,HIST     80,BARBIERI-LOW,B+,12
+M10,Undergraduate,HIST     80,BARBIERI-LOW,B,22
+M10,Undergraduate,HIST     80,BARBIERI-LOW,B-,3
+M10,Undergraduate,HIST     80,BARBIERI-LOW,C+,8
+M10,Undergraduate,HIST     80,BARBIERI-LOW,C,5
+M10,Undergraduate,HIST     80,BARBIERI-LOW,D,1
+M10,Undergraduate,HIST     80,BARBIERI-LOW,F,1
+M10,Undergraduate,HIST    114C,LUDOLPH P K,A,2
+M10,Undergraduate,HIST    114C,LUDOLPH P K,A-,2
+M10,Undergraduate,HIST    114C,LUDOLPH P K,B+,1
+M10,Undergraduate,HIST    114C,LUDOLPH P K,B,1
+M10,Undergraduate,HIST    114C,LUDOLPH P K,B-,2
+M10,Undergraduate,HIST    114C,LUDOLPH P K,F,1
+M10,Undergraduate,HIST    133D,HARRIS B M,A+,13
+M10,Undergraduate,HIST    133D,HARRIS B M,A,9
+M10,Undergraduate,HIST    133D,HARRIS B M,A-,3
+M10,Undergraduate,HIST    133D,HARRIS B M,B+,1
+M10,Undergraduate,HIST    133D,HARRIS B M,B,1
+M10,Undergraduate,HIST    133D,HARRIS B M,C-,1
+M10,Undergraduate,HIST    133D,HARRIS B M,F,2
+M10,Undergraduate,HIST    140A,PERRY N W,A,1
+M10,Undergraduate,HIST    140A,PERRY N W,B+,3
+M10,Undergraduate,HIST    140A,PERRY N W,B,7
+M10,Undergraduate,HIST    140A,PERRY N W,B-,3
+M10,Undergraduate,HIST    140A,PERRY N W,C,4
+M10,Undergraduate,HIST    140A,PERRY N W,C-,1
+M10,Undergraduate,HIST    140A,PERRY N W,F,2
+M10,Undergraduate,HIST    151C,PACINO N L,A,1
+M10,Undergraduate,HIST    151C,PACINO N L,A-,2
+M10,Undergraduate,HIST    151C,PACINO N L,B+,6
+M10,Undergraduate,HIST    151C,PACINO N L,B,4
+M10,Undergraduate,HIST    151C,PACINO N L,B-,3
+M10,Undergraduate,HIST    151C,PACINO N L,C+,2
+M10,Undergraduate,HIST    151C,PACINO N L,C,1
+M10,Undergraduate,HIST    151C,PACINO N L,F,1
+M10,Undergraduate,HIST    159B,BOWMAN M P,A,4
+M10,Undergraduate,HIST    159B,BOWMAN M P,A-,5
+M10,Undergraduate,HIST    159B,BOWMAN M P,B+,2
+M10,Undergraduate,HIST    159B,BOWMAN M P,B,3
+M10,Undergraduate,HIST    159B,BOWMAN M P,B-,3
+M10,Undergraduate,HIST    159B,BOWMAN M P,C,1
+M10,Undergraduate,HIST    159B,BOWMAN M P,F,2
+M10,Undergraduate,HIST    164IA,SPICKARD P R,A,1
+M10,Undergraduate,HIST    164IA,SPICKARD P R,A-,4
+M10,Undergraduate,HIST    164IA,SPICKARD P R,B+,5
+M10,Undergraduate,HIST    164IA,SPICKARD P R,B,6
+M10,Undergraduate,HIST    164IA,SPICKARD P R,B-,5
+M10,Undergraduate,HIST    164IA,SPICKARD P R,C+,4
+M10,Undergraduate,HIST    164IA,SPICKARD P R,C,2
+M10,Undergraduate,HIST    164IA,SPICKARD P R,C-,1
+M10,Undergraduate,HIST    164IA,SPICKARD P R,F,1
+M10,Undergraduate,HIST    166C,DELGADILLO C,A,4
+M10,Undergraduate,HIST    166C,DELGADILLO C,A-,2
+M10,Undergraduate,HIST    166C,DELGADILLO C,B+,5
+M10,Undergraduate,HIST    166C,DELGADILLO C,B,6
+M10,Undergraduate,HIST    166C,DELGADILLO C,B-,4
+M10,Undergraduate,HIST    166C,DELGADILLO C,C+,2
+M10,Undergraduate,HIST    166C,DELGADILLO C,C,4
+M10,Undergraduate,HIST    166C,DELGADILLO C,C-,1
+M10,Undergraduate,HIST    166C,DELGADILLO C,F,2
+M10,Undergraduate,HIST    168B,FERNANDEZ L,A+,4
+M10,Undergraduate,HIST    168B,FERNANDEZ L,A,3
+M10,Undergraduate,HIST    168B,FERNANDEZ L,A-,5
+M10,Undergraduate,HIST    168B,FERNANDEZ L,B+,2
+M10,Undergraduate,HIST    168B,FERNANDEZ L,B,7
+M10,Undergraduate,HIST    168B,FERNANDEZ L,B-,4
+M10,Undergraduate,HIST    168B,FERNANDEZ L,C,1
+M10,Undergraduate,HIST    168B,FERNANDEZ L,F,1
+M10,Undergraduate,HIST    169AR,DANIELS D H,A,2
+M10,Undergraduate,HIST    169AR,DANIELS D H,A-,1
+M10,Undergraduate,HIST    169AR,DANIELS D H,B,3
+M10,Undergraduate,HIST    169AR,DANIELS D H,B-,1
+M10,Undergraduate,HIST    169AR,DANIELS D H,C+,5
+M10,Undergraduate,HIST    169AR,DANIELS D H,D,1
+M10,Undergraduate,HIST    169AR,DANIELS D H,F,1
+M10,Undergraduate,HIST    177,GRAVES G R,A,1
+M10,Undergraduate,HIST    177,GRAVES G R,A-,11
+M10,Undergraduate,HIST    177,GRAVES G R,B+,15
+M10,Undergraduate,HIST    177,GRAVES G R,B,21
+M10,Undergraduate,HIST    177,GRAVES G R,B-,10
+M10,Undergraduate,HIST    177,GRAVES G R,C+,14
+M10,Undergraduate,HIST    177,GRAVES G R,C,4
+M10,Undergraduate,HIST    177,GRAVES G R,F,2
+M10,Undergraduate,HIST    191C,AKULOV D A,A,2
+M10,Undergraduate,HIST    191C,AKULOV D A,A-,4
+M10,Undergraduate,HIST    191C,AKULOV D A,B+,4
+M10,Undergraduate,HIST    191C,AKULOV D A,B,7
+M10,Undergraduate,HIST    191C,AKULOV D A,B-,2
+M10,Undergraduate,HIST    191C,AKULOV D A,C+,1
+M10,Undergraduate,HIST    191C,AKULOV D A,C,3
+M10,Undergraduate,HIST    191C,AKULOV D A,F,3

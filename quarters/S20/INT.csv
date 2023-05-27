@@ -1,0 +1,109 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,A,8
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,A-,5
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,B+,3
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,B,1
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,B-,1
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,C,2
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,D+,1
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,D,3
+S20,Undergraduate,INT      80AS,CRAWSHAW A S,F,5
+S20,Undergraduate,INT      80AS,NOVAK M J,A,8
+S20,Undergraduate,INT      80AS,NOVAK M J,A-,5
+S20,Undergraduate,INT      80AS,NOVAK M J,B+,3
+S20,Undergraduate,INT      80AS,NOVAK M J,B,1
+S20,Undergraduate,INT      80AS,NOVAK M J,B-,1
+S20,Undergraduate,INT      80AS,NOVAK M J,C,2
+S20,Undergraduate,INT      80AS,NOVAK M J,D+,1
+S20,Undergraduate,INT      80AS,NOVAK M J,D,3
+S20,Undergraduate,INT      80AS,NOVAK M J,F,5
+S20,Undergraduate,INT      84BB,GRAFTON S T,A+,19
+S20,Undergraduate,INT      84BC,STRONGMAN R D,A+,13
+S20,Undergraduate,INT      84BC,STRONGMAN R D,A,1
+S20,Undergraduate,INT      84BJ,CORTIJO A,A+,3
+S20,Undergraduate,INT      84BJ,CORTIJO A,A,14
+S20,Undergraduate,INT      84BM,REICH N O,A,12
+S20,Undergraduate,INT      84BN,DUFFY A E,A+,6
+S20,Undergraduate,INT      84BN,DUFFY A E,A,10
+S20,Undergraduate,INT      84BO,BERMUDEZ S,A+,5
+S20,Undergraduate,INT      84BO,BERMUDEZ S,A,8
+S20,Undergraduate,INT      84BP,PONCE G,A,13
+S20,Undergraduate,INT      84BQ,DONELAN J H,A+,1
+S20,Undergraduate,INT      84BQ,DONELAN J H,A,9
+S20,Undergraduate,INT      84BT,SONNINO P M,A,6
+S20,Undergraduate,INT      84BT,SONNINO P M,F,1
+S20,Undergraduate,INT      84ZB,SIMMS A R,A,11
+S20,Undergraduate,INT      89AG,CASTILLO J L,P,37
+S20,Undergraduate,INT      89AG,GRASSET MOREL,P,37
+S20,Undergraduate,INT      89AK,POWERS R T,P,34
+S20,Undergraduate,INT      89AK,POWERS R T,NP,2
+S20,Undergraduate,INT      89AO,HOGAN L A,P,21
+S20,Undergraduate,INT      89AO,TYLER C M,P,21
+S20,Undergraduate,INT      94GG,FULBECK L K,P,19
+S20,Undergraduate,INT      94JV,COOPER D,P,28
+S20,Undergraduate,INT      94QD,CAMPO J E,P,27
+S20,Undergraduate,INT      94SQ,LARUE R J,P,9
+S20,Undergraduate,INT      94SQ,LARUE R J,NP,1
+S20,Undergraduate,INT      94SU,HILTNER K C,P,17
+S20,Undergraduate,INT      94TI,FELBER J,P,19
+S20,Undergraduate,INT      94TK,STUART D D,P,16
+S20,Undergraduate,INT      94UO,SAMUELS R D,P,17
+S20,Undergraduate,INT      94UX,BOSCAGLI M,P,18
+S20,Undergraduate,INT      94VA,SORAPURE M I,P,18
+S20,Undergraduate,INT      94VT,COTICH C,P,9
+S20,Undergraduate,INT      94VT,COTICH C,NP,1
+S20,Undergraduate,INT      94VU,JIMERSON S R,P,19
+S20,Undergraduate,INT      94VV,BRIDGES T S,P,13
+S20,Undergraduate,INT      94VV,BRIDGES T S,NP,1
+S20,Undergraduate,INT      94VX,HEY M V,P,17
+S20,Undergraduate,INT      94VY,HELLIER-TINOC,P,10
+S20,Undergraduate,INT      94VZ,GRAY S M,P,12
+S20,Undergraduate,INT      94WB,AFIFI W A,P,28
+S20,Undergraduate,INT     101,ZHAO X,P,80
+S20,Undergraduate,INT     137RP,MARCUSE H,A+,7
+S20,Undergraduate,INT     137RP,MARCUSE H,A,31
+S20,Undergraduate,INT     137RP,MARCUSE H,A-,5
+S20,Undergraduate,INT     137RP,MARCUSE H,B+,7
+S20,Undergraduate,INT     137RP,MARCUSE H,B,8
+S20,Undergraduate,INT     137RP,MARCUSE H,B-,4
+S20,Undergraduate,INT     137RP,MARCUSE H,C+,5
+S20,Undergraduate,INT     137RP,MARCUSE H,C,2
+S20,Undergraduate,INT     137RP,MARCUSE H,D,1
+S20,Undergraduate,INT     137RP,MARCUSE H,D-,1
+S20,Undergraduate,INT     137RP,MARCUSE H,F,7
+S20,Undergraduate,INT     137RP,RAMBELLI F,A+,7
+S20,Undergraduate,INT     137RP,RAMBELLI F,A,31
+S20,Undergraduate,INT     137RP,RAMBELLI F,A-,5
+S20,Undergraduate,INT     137RP,RAMBELLI F,B+,7
+S20,Undergraduate,INT     137RP,RAMBELLI F,B,8
+S20,Undergraduate,INT     137RP,RAMBELLI F,B-,4
+S20,Undergraduate,INT     137RP,RAMBELLI F,C+,5
+S20,Undergraduate,INT     137RP,RAMBELLI F,C,2
+S20,Undergraduate,INT     137RP,RAMBELLI F,D,1
+S20,Undergraduate,INT     137RP,RAMBELLI F,D-,1
+S20,Undergraduate,INT     137RP,RAMBELLI F,F,7
+S20,Undergraduate,INT     175,JACONETTE P R,P,111
+S20,Undergraduate,INT     175,JACONETTE P R,NP,2
+S20,Undergraduate,INT     185AM,ADLER-KASSNER,P,28
+S20,Undergraduate,INT     185AM,WOODS V E,P,28
+S20,Undergraduate,INT     185ST,DERWIN S,A,15
+S20,Undergraduate,INT     185ST,JENSEN A K,A,15
+S20,Undergraduate,INT     186AS,JAMIESON A E,P,18
+S20,Undergraduate,INT     186AS,JAMIESON A E,NP,2
+S20,Undergraduate,INT     186AW,KING W D,F,2
+S20,Undergraduate,INT     186AW,KING W D,P,12
+S20,Undergraduate,INT     187AI,BOULEY B A,P,16
+S20,Undergraduate,INT     187AI,BOULEY B A,NP,1
+S20,Undergraduate,INT     187AI,MCHUGH P,P,16
+S20,Undergraduate,INT     187AI,MCHUGH P,NP,1
+S20,Undergraduate,INT     187AJ,BUCHOLTZ M H,P,31
+S20,Undergraduate,INT     187AJ,ZIMMAN L,P,31
+S20,Undergraduate,INT     190MB,SCHNEIDER B E,P,7
+S20,Undergraduate,INT     197HC,STOPPLE J,P,99
+S20,Undergraduate,INT     197HC,STOPPLE J,NP,1
+S20,Undergraduate,INT  CS  10,PATTERSON D S,P,15
+S20,Undergraduate,INT  CS 120,MULFINGER J,P,33
+S20,Graduate,INT     201SP,NERSTAD E L,A,12
+S20,Graduate,INT     236,SALMINEN E M,S,11
+S20,Graduate,INT     594CC,DERWIN S,S,5
+S20,Graduate,INT     594EJ,DAMLUJI M N,S,8

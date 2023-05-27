@@ -1,0 +1,301 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,ART       1A,TASCHIAN H J,A,9
+S16,Undergraduate,ART       1A,TASCHIAN H J,A-,15
+S16,Undergraduate,ART       1A,TASCHIAN H J,B+,11
+S16,Undergraduate,ART       1A,TASCHIAN H J,B,12
+S16,Undergraduate,ART       1A,TASCHIAN H J,B-,10
+S16,Undergraduate,ART       1A,TASCHIAN H J,C+,12
+S16,Undergraduate,ART       1A,TASCHIAN H J,C,2
+S16,Undergraduate,ART       1A,TASCHIAN H J,C-,3
+S16,Undergraduate,ART       1A,TASCHIAN H J,F,14
+S16,Undergraduate,ART       1C,YASUDA K,A,208
+S16,Undergraduate,ART       1C,YASUDA K,A-,19
+S16,Undergraduate,ART       1C,YASUDA K,B+,2
+S16,Undergraduate,ART       1C,YASUDA K,B,7
+S16,Undergraduate,ART       1C,YASUDA K,B-,5
+S16,Undergraduate,ART       1C,YASUDA K,C,1
+S16,Undergraduate,ART       1C,YASUDA K,F,5
+S16,Undergraduate,ART       7A,FULBECK L K,A+,5
+S16,Undergraduate,ART       7A,FULBECK L K,A,22
+S16,Undergraduate,ART       7A,FULBECK L K,A-,32
+S16,Undergraduate,ART       7A,FULBECK L K,B+,31
+S16,Undergraduate,ART       7A,FULBECK L K,B,27
+S16,Undergraduate,ART       7A,FULBECK L K,B-,13
+S16,Undergraduate,ART       7A,FULBECK L K,C+,7
+S16,Undergraduate,ART       7A,FULBECK L K,C,2
+S16,Undergraduate,ART       7A,FULBECK L K,F,1
+S16,Undergraduate,ART      10,WASHBURN S,A,4
+S16,Undergraduate,ART      10,WASHBURN S,A-,4
+S16,Undergraduate,ART      10,WASHBURN S,B+,6
+S16,Undergraduate,ART      10,WASHBURN S,B,3
+S16,Undergraduate,ART      10,WASHBURN S,B-,3
+S16,Undergraduate,ART      10,WASHBURN S,C-,1
+S16,Undergraduate,ART      14,ELLIS C M,A+,3
+S16,Undergraduate,ART      14,ELLIS C M,A,3
+S16,Undergraduate,ART      14,ELLIS C M,A-,8
+S16,Undergraduate,ART      14,ELLIS C M,B+,1
+S16,Undergraduate,ART      14,ELLIS C M,D+,1
+S16,Undergraduate,ART      14,ELLIS C M,F,1
+S16,Undergraduate,ART      19,GILBERT P R,A+,2
+S16,Undergraduate,ART      19,GILBERT P R,A,21
+S16,Undergraduate,ART      19,GILBERT P R,A-,8
+S16,Undergraduate,ART      19,GILBERT P R,B+,9
+S16,Undergraduate,ART      19,GILBERT P R,B,3
+S16,Undergraduate,ART      19,GILBERT P R,F,1
+S16,Undergraduate,ART      22,KIRATLI DICIC,A+,3
+S16,Undergraduate,ART      22,KIRATLI DICIC,A,8
+S16,Undergraduate,ART      22,KIRATLI DICIC,A-,2
+S16,Undergraduate,ART      22,KIRATLI DICIC,B+,2
+S16,Undergraduate,ART      22,KIRATLI DICIC,B,1
+S16,Undergraduate,ART      22,KIRATLI DICIC,B-,2
+S16,Undergraduate,ART      22,KIRATLI DICIC,C+,1
+S16,Undergraduate,ART      22,KIRATLI DICIC,C,1
+S16,Undergraduate,ART      22,KIRATLI DICIC,F,2
+S16,Undergraduate,ART     100,ARGENT P,A,5
+S16,Undergraduate,ART     100,ARGENT P,A-,7
+S16,Undergraduate,ART     100,ARGENT P,B+,3
+S16,Undergraduate,ART     100,ARGENT P,B,2
+S16,Undergraduate,ART     101,CALLISTER J,A,5
+S16,Undergraduate,ART     101,CALLISTER J,A-,3
+S16,Undergraduate,ART     101,CALLISTER J,B,4
+S16,Undergraduate,ART     102MM,JEVBRATT L V,A,6
+S16,Undergraduate,ART     102MM,JEVBRATT L V,A-,2
+S16,Undergraduate,ART     102MM,JEVBRATT L V,B+,2
+S16,Undergraduate,ART     102MM,JEVBRATT L V,B,1
+S16,Undergraduate,ART     102MM,JEVBRATT L V,F,6
+S16,Undergraduate,ART     106IV,YASUDA K,A,24
+S16,Undergraduate,ART     113,BECKMAN L B,A+,1
+S16,Undergraduate,ART     113,BECKMAN L B,A,2
+S16,Undergraduate,ART     113,BECKMAN L B,B+,3
+S16,Undergraduate,ART     113,BECKMAN L B,B,3
+S16,Undergraduate,ART     113,BECKMAN L B,B-,2
+S16,Undergraduate,ART     113,BECKMAN L B,F,1
+S16,Undergraduate,ART     117,BELTZ E A,A+,1
+S16,Undergraduate,ART     117,BELTZ E A,A,6
+S16,Undergraduate,ART     117,BELTZ E A,A-,4
+S16,Undergraduate,ART     117,BELTZ E A,B+,3
+S16,Undergraduate,ART     117,BELTZ E A,B,2
+S16,Undergraduate,ART     117,BELTZ E A,B-,2
+S16,Undergraduate,ART     117,BELTZ E A,C,2
+S16,Undergraduate,ART     118,BELTZ E A,A+,1
+S16,Undergraduate,ART     118,BELTZ E A,A,5
+S16,Undergraduate,ART     118,BELTZ E A,A-,6
+S16,Undergraduate,ART     118,BELTZ E A,B+,5
+S16,Undergraduate,ART     118,BELTZ E A,B,1
+S16,Undergraduate,ART     118,BELTZ E A,B-,1
+S16,Undergraduate,ART     118,BELTZ E A,C+,1
+S16,Undergraduate,ART     120SE,ROSS R H,A+,2
+S16,Undergraduate,ART     120SE,ROSS R H,A,4
+S16,Undergraduate,ART     120SE,ROSS R H,B+,1
+S16,Undergraduate,ART     120SE,ROSS R H,B,1
+S16,Undergraduate,ART     120SE,ROSS R H,C,1
+S16,Undergraduate,ART     120SE,ROSS R H,D,1
+S16,Undergraduate,ART     120SE,ROSS R H,F,3
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,A+,5
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,A,2
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,A-,4
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,B+,1
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,B,3
+S16,Undergraduate,ART     122PC,WAN ROSLI M B,F,1
+S16,Undergraduate,ART     123,REESE H,A,10
+S16,Undergraduate,ART     123,REESE H,A-,2
+S16,Undergraduate,ART     123,REESE H,B,5
+S16,Undergraduate,ART     130,VANDERPOOL J,A+,3
+S16,Undergraduate,ART     130,VANDERPOOL J,A,2
+S16,Undergraduate,ART     130,VANDERPOOL J,A-,7
+S16,Undergraduate,ART     130,VANDERPOOL J,B+,1
+S16,Undergraduate,ART     130,VANDERPOOL J,B,6
+S16,Undergraduate,ART     130,VANDERPOOL J,B-,4
+S16,Undergraduate,ART     130,VANDERPOOL J,C,2
+S16,Undergraduate,ART     130,VANDERPOOL J,F,1
+S16,Undergraduate,ART     137,FULBECK L K,A,3
+S16,Undergraduate,ART     137,FULBECK L K,A-,2
+S16,Undergraduate,ART     137,FULBECK L K,B+,2
+S16,Undergraduate,ART     137,FULBECK L K,B,3
+S16,Undergraduate,ART     137,FULBECK L K,B-,1
+S16,Undergraduate,ART     137,FULBECK L K,C+,4
+S16,Undergraduate,ART     137,FULBECK L K,C,3
+S16,Undergraduate,ART     192ES,GARDNER C,P,6
+S16,Undergraduate,ART     196,GURANTZ M,A+,5
+S16,Undergraduate,ART     196,GURANTZ M,A,4
+S16,Undergraduate,ART     196,GURANTZ M,A-,1
+S16,Undergraduate,ART     199,YASUDA K,A+,1
+S16,Undergraduate,ART     199,YASUDA K,A,10
+S16,Graduate,ART     245,GARDNER C,A+,3
+S16,Graduate,ART     245,GARDNER C,A,5
+S16,Graduate,ART     260,GARDNER C,A,5
+S16,Graduate,ART     261,YASUDA K,A,6
+S16,Graduate,ART     501,FULBECK L K,S,5
+S16,Undergraduate,ART  CS 101,CONNALLY D E,P,9
+S16,Undergraduate,ART  CS 101,PITCHER H,P,11
+S16,Undergraduate,ART  CS 102,PITCHER H,P,9
+S16,Undergraduate,ART  CS 104,REESE H,P,13
+S16,Undergraduate,ART  CS 105,EKSTROM L,P,10
+S16,Undergraduate,ART  CS 112,CONNALLY D E,P,7
+S16,Undergraduate,ART  CS 120,GILBERT P R,P,15
+S16,Undergraduate,ARTHI     5B,PAUL C,A+,3
+S16,Undergraduate,ARTHI     5B,PAUL C,A,19
+S16,Undergraduate,ARTHI     5B,PAUL C,A-,11
+S16,Undergraduate,ARTHI     5B,PAUL C,B+,17
+S16,Undergraduate,ARTHI     5B,PAUL C,B,11
+S16,Undergraduate,ARTHI     5B,PAUL C,B-,16
+S16,Undergraduate,ARTHI     5B,PAUL C,C+,5
+S16,Undergraduate,ARTHI     5B,PAUL C,C,11
+S16,Undergraduate,ARTHI     5B,PAUL C,C-,2
+S16,Undergraduate,ARTHI     5B,PAUL C,D+,2
+S16,Undergraduate,ARTHI     5B,PAUL C,D,1
+S16,Undergraduate,ARTHI     5B,PAUL C,F,6
+S16,Undergraduate,ARTHI     6C,MONAHAN L,A+,2
+S16,Undergraduate,ARTHI     6C,MONAHAN L,A,73
+S16,Undergraduate,ARTHI     6C,MONAHAN L,A-,81
+S16,Undergraduate,ARTHI     6C,MONAHAN L,B+,83
+S16,Undergraduate,ARTHI     6C,MONAHAN L,B,94
+S16,Undergraduate,ARTHI     6C,MONAHAN L,B-,60
+S16,Undergraduate,ARTHI     6C,MONAHAN L,C+,36
+S16,Undergraduate,ARTHI     6C,MONAHAN L,C,17
+S16,Undergraduate,ARTHI     6C,MONAHAN L,C-,5
+S16,Undergraduate,ARTHI     6C,MONAHAN L,D+,2
+S16,Undergraduate,ARTHI     6C,MONAHAN L,F,10
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,A+,6
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,A,16
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,A-,20
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,B+,18
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,B,11
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,B-,6
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,C+,9
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,C,3
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,D,1
+S16,Undergraduate,ARTHI     6E,OGBECHIE S O,F,1
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,A+,17
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,A,28
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,A-,17
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,B+,11
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,B,10
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,B-,4
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,C+,4
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,C,4
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,C-,1
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,D+,1
+S16,Undergraduate,ARTHI     6H,SPIVAK D E,F,3
+S16,Undergraduate,ARTHI     6J,WHITE J S,A,23
+S16,Undergraduate,ARTHI     6J,WHITE J S,A-,16
+S16,Undergraduate,ARTHI     6J,WHITE J S,B+,11
+S16,Undergraduate,ARTHI     6J,WHITE J S,B,12
+S16,Undergraduate,ARTHI     6J,WHITE J S,B-,10
+S16,Undergraduate,ARTHI     6J,WHITE J S,C+,6
+S16,Undergraduate,ARTHI     6J,WHITE J S,C,2
+S16,Undergraduate,ARTHI     6J,WHITE J S,C-,1
+S16,Undergraduate,ARTHI     6J,WHITE J S,D,4
+S16,Undergraduate,ARTHI     6J,WHITE J S,F,3
+S16,Undergraduate,ARTHI   103C,YEGUL F K,A,3
+S16,Undergraduate,ARTHI   103C,YEGUL F K,A-,5
+S16,Undergraduate,ARTHI   103C,YEGUL F K,B+,8
+S16,Undergraduate,ARTHI   103C,YEGUL F K,B,6
+S16,Undergraduate,ARTHI   103C,YEGUL F K,B-,5
+S16,Undergraduate,ARTHI   103C,YEGUL F K,C+,5
+S16,Undergraduate,ARTHI   103C,YEGUL F K,C,7
+S16,Undergraduate,ARTHI   103C,YEGUL F K,C-,2
+S16,Undergraduate,ARTHI   103C,YEGUL F K,D-,2
+S16,Undergraduate,ARTHI   103C,YEGUL F K,F,3
+S16,Undergraduate,ARTHI   107C,MEADOW M A,A+,3
+S16,Undergraduate,ARTHI   107C,MEADOW M A,A,15
+S16,Undergraduate,ARTHI   107C,MEADOW M A,A-,10
+S16,Undergraduate,ARTHI   107C,MEADOW M A,B+,6
+S16,Undergraduate,ARTHI   107C,MEADOW M A,B,4
+S16,Undergraduate,ARTHI   107C,MEADOW M A,B-,3
+S16,Undergraduate,ARTHI   107C,MEADOW M A,C+,1
+S16,Undergraduate,ARTHI   107C,MEADOW M A,C,1
+S16,Undergraduate,ARTHI   107C,MEADOW M A,F,3
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,A+,4
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,A,9
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,A-,16
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,B+,3
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,B,10
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,B-,4
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,C+,3
+S16,Undergraduate,ARTHI   109C,WILLIAMS R J,C,2
+S16,Undergraduate,ARTHI   111C,ADAMS A J,A,11
+S16,Undergraduate,ARTHI   111C,ADAMS A J,A-,11
+S16,Undergraduate,ARTHI   111C,ADAMS A J,B+,11
+S16,Undergraduate,ARTHI   111C,ADAMS A J,B,5
+S16,Undergraduate,ARTHI   111C,ADAMS A J,B-,1
+S16,Undergraduate,ARTHI   111C,ADAMS A J,C+,2
+S16,Undergraduate,ARTHI   111C,ADAMS A J,C-,1
+S16,Undergraduate,ARTHI   111C,ADAMS A J,D-,1
+S16,Undergraduate,ARTHI   111C,ADAMS A J,F,1
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,A,17
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,A-,22
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,B+,20
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,B,35
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,B-,6
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,C+,1
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,C,1
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,D+,2
+S16,Undergraduate,ARTHI   120AA,SORKIN JENNI,D,1
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,A+,1
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,A,5
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,A-,11
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,B+,6
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,B,6
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,B-,6
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,C+,5
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,C,5
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,C-,1
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,D+,1
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,D,1
+S16,Undergraduate,ARTHI   121C,LIEBERMAN S M,F,2
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,A+,2
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,A,12
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,A-,9
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,B+,7
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,B,7
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,B-,3
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,D,1
+S16,Undergraduate,ARTHI   127B,OGBECHIE S O,F,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,A+,1
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,A,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,A-,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,B+,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,B,2
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,B-,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,C+,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,C,3
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,D+,1
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,D,1
+S16,Undergraduate,ARTHI   133DD,KHOURY N N,F,3
+S16,Undergraduate,ARTHI   136O,WELTER V W,A,1
+S16,Undergraduate,ARTHI   136O,WELTER V W,A-,7
+S16,Undergraduate,ARTHI   136O,WELTER V W,B+,3
+S16,Undergraduate,ARTHI   136O,WELTER V W,B,5
+S16,Undergraduate,ARTHI   136O,WELTER V W,B-,4
+S16,Undergraduate,ARTHI   136O,WELTER V W,C+,2
+S16,Undergraduate,ARTHI   136O,WELTER V W,C-,1
+S16,Undergraduate,ARTHI   136O,WELTER V W,D,1
+S16,Undergraduate,ARTHI   136O,WELTER V W,D-,1
+S16,Undergraduate,ARTHI   136O,WELTER V W,F,1
+S16,Undergraduate,ARTHI   137AA,YAN W,A+,1
+S16,Undergraduate,ARTHI   137AA,YAN W,A,4
+S16,Undergraduate,ARTHI   137AA,YAN W,B+,2
+S16,Undergraduate,ARTHI   137AA,YAN W,B,5
+S16,Undergraduate,ARTHI   137AA,YAN W,B-,2
+S16,Undergraduate,ARTHI   137AA,YAN W,C+,4
+S16,Undergraduate,ARTHI   137AA,YAN W,C,5
+S16,Undergraduate,ARTHI   137AA,YAN W,F,3
+S16,Undergraduate,ARTHI   141E,ROBERTSON E B,A,7
+S16,Undergraduate,ARTHI   141E,ROBERTSON E B,A-,1
+S16,Undergraduate,ARTHI   186B,YEGUL F K,A+,1
+S16,Undergraduate,ARTHI   186B,YEGUL F K,B+,4
+S16,Undergraduate,ARTHI   186B,YEGUL F K,B,3
+S16,Undergraduate,ARTHI   186SJ,WHITE J S,A,2
+S16,Undergraduate,ARTHI   186SJ,WHITE J S,A-,2
+S16,Undergraduate,ARTHI   186SJ,WHITE J S,B,2
+S16,Undergraduate,ARTHI   186SJ,WHITE J S,C+,1
+S16,Undergraduate,ARTHI   186SS,YAN W,A,1
+S16,Undergraduate,ARTHI   186SS,YAN W,A-,2
+S16,Undergraduate,ARTHI   186SS,YAN W,B+,1
+S16,Undergraduate,ARTHI   186SS,YAN W,B,1
+S16,Graduate,ARTHI   255A,WILLIAMS R J,A,6
+S16,Graduate,ARTHI   255A,WILLIAMS R J,A-,2
+S16,Graduate,ARTHI   275B,KHOURY N N,A,2
+S16,Graduate,ARTHI   275B,KHOURY N N,A-,3
+S16,Graduate,ARTHI   500,MONAHAN L,S,8

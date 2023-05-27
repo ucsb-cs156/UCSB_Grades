@@ -1,0 +1,226 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,ARTHI   107B,MEADOW M A,A+,6
+S14,Undergraduate,ARTHI   107B,MEADOW M A,A,19
+S14,Undergraduate,ARTHI   107B,MEADOW M A,A-,7
+S14,Undergraduate,ARTHI   107B,MEADOW M A,B+,5
+S14,Undergraduate,ARTHI   107B,MEADOW M A,B,3
+S14,Undergraduate,ARTHI   107B,MEADOW M A,B-,3
+S14,Undergraduate,ARTHI   107B,MEADOW M A,C+,1
+S14,Undergraduate,ARTHI   107B,MEADOW M A,C,5
+S14,Undergraduate,ARTHI   107B,MEADOW M A,D,2
+S14,Undergraduate,ARTHI   107B,MEADOW M A,F,1
+S14,Graduate,ARTHI   255D,MEADOW M A,A,3
+S14,Graduate,ARTHI   255D,MEADOW M A,S,2
+S14,Undergraduate,CHEM    115C,METIU H I,A,5
+S14,Undergraduate,CHEM    115C,METIU H I,B-,1
+S14,Graduate,CNCSP   214,MEIER L R,A,8
+S14,Undergraduate,COMM    174,METZGER M J,A,2
+S14,Undergraduate,COMM    174,METZGER M J,A-,4
+S14,Undergraduate,COMM    174,METZGER M J,B+,6
+S14,Undergraduate,COMM    174,METZGER M J,B,1
+S14,Undergraduate,COMM    174,METZGER M J,B-,3
+S14,Undergraduate,COMM    174,METZGER M J,C+,5
+S14,Undergraduate,COMM    174,METZGER M J,C,2
+S14,Undergraduate,COMM    174,METZGER M J,D+,1
+S14,Graduate,COMM    595,METZGER M J,S,7
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,A+,10
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,A,4
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,A-,10
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,B+,13
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,B,12
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,B-,16
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,C+,15
+S14,Undergraduate,ECE     160,MELLIAR-SMITH,C,10
+S14,Undergraduate,FLMST   101C,MELNICK R D,A,11
+S14,Undergraduate,FLMST   101C,MELNICK R D,A-,10
+S14,Undergraduate,FLMST   101C,MELNICK R D,B+,8
+S14,Undergraduate,FLMST   101C,MELNICK R D,B,8
+S14,Undergraduate,FLMST   101C,MELNICK R D,B-,3
+S14,Undergraduate,FLMST   101C,MELNICK R D,C+,4
+S14,Undergraduate,FLMST   101C,MELNICK R D,C,1
+S14,Undergraduate,FLMST   101C,MELNICK R D,D,2
+S14,Undergraduate,FLMST   101C,MELNICK R D,F,2
+S14,Undergraduate,GLOBL   130,MEHTA A S,A+,6
+S14,Undergraduate,GLOBL   130,MEHTA A S,A,21
+S14,Undergraduate,GLOBL   130,MEHTA A S,A-,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,B+,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,B,13
+S14,Undergraduate,GLOBL   130,MEHTA A S,B-,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,C+,12
+S14,Undergraduate,GLOBL   130,MEHTA A S,C,11
+S14,Undergraduate,GLOBL   130,MEHTA A S,C-,10
+S14,Undergraduate,GLOBL   130,MEHTA A S,D,5
+S14,Undergraduate,GLOBL   130,MEHTA A S,F,7
+S14,Undergraduate,GLOBL   136,MEHTA A S,A+,2
+S14,Undergraduate,GLOBL   136,MEHTA A S,A,13
+S14,Undergraduate,GLOBL   136,MEHTA A S,A-,9
+S14,Undergraduate,GLOBL   136,MEHTA A S,B+,1
+S14,Undergraduate,GLOBL   136,MEHTA A S,B,1
+S14,Undergraduate,GLOBL   136,MEHTA A S,B-,3
+S14,Undergraduate,GLOBL   136,MEHTA A S,C+,2
+S14,Undergraduate,HIST    151DR,MENDEZ S C,A-,1
+S14,Undergraduate,HIST    151DR,MENDEZ S C,B+,2
+S14,Undergraduate,HIST    151DR,MENDEZ S C,B,1
+S14,Undergraduate,HIST    151DR,MENDEZ S C,C+,1
+S14,Undergraduate,HIST    151DR,MENDEZ S C,C,1
+S14,Undergraduate,HIST    154LB,MENDEZ S C,A-,6
+S14,Undergraduate,HIST    154LB,MENDEZ S C,B,3
+S14,Undergraduate,HIST    154LB,MENDEZ S C,B-,3
+S14,Undergraduate,HIST    154LB,MENDEZ S C,C+,4
+S14,Undergraduate,HIST    154LB,MENDEZ S C,C-,1
+S14,Undergraduate,HIST    154LB,MENDEZ S C,D+,2
+S14,Undergraduate,HIST    154LB,MENDEZ S C,D,2
+S14,Undergraduate,HIST    154LB,MENDEZ S C,F,1
+S14,Undergraduate,INT     184MM,MEADOW M A,A,8
+S14,Undergraduate,ME       10,SPRANKLE M,A+,1
+S14,Undergraduate,ME       10,SPRANKLE M,A,36
+S14,Undergraduate,ME       10,SPRANKLE M,A-,17
+S14,Undergraduate,ME       10,SPRANKLE M,B+,6
+S14,Undergraduate,ME       10,SPRANKLE M,B,12
+S14,Undergraduate,ME       10,SPRANKLE M,B-,11
+S14,Undergraduate,ME       10,SPRANKLE M,C+,4
+S14,Undergraduate,ME       10,SPRANKLE M,C,3
+S14,Undergraduate,ME       10,SPRANKLE M,C-,4
+S14,Undergraduate,ME       10,SPRANKLE M,F,3
+S14,Undergraduate,ME       12,BOTHMAN D,A+,1
+S14,Undergraduate,ME       12,BOTHMAN D,A,10
+S14,Undergraduate,ME       12,BOTHMAN D,A-,3
+S14,Undergraduate,ME       12,BOTHMAN D,B,3
+S14,Undergraduate,ME       12,BOTHMAN D,C,1
+S14,Undergraduate,ME       12,BOTHMAN D,F,1
+S14,Undergraduate,ME       12S,CLARK J J,A+,1
+S14,Undergraduate,ME       12S,CLARK J J,A,27
+S14,Undergraduate,ME       12S,CLARK J J,A-,3
+S14,Undergraduate,ME       12S,CLARK J J,B+,1
+S14,Undergraduate,ME       12S,CLARK J J,B,1
+S14,Undergraduate,ME       12S,CLARK J J,B-,1
+S14,Undergraduate,ME       12S,CLARK J J,C+,3
+S14,Undergraduate,ME       12S,CLARK J J,C-,2
+S14,Undergraduate,ME       12S,CLARK J J,F,1
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,A+,3
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,A,6
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,A-,8
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,B+,10
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,B,12
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,B-,9
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,C+,9
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,C,4
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,C-,4
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,D+,4
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,D,1
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,D-,1
+S14,Undergraduate,ME       16,CAMPAS-RIGAU,F,1
+S14,Undergraduate,ME       17,GIBOU F G,A+,14
+S14,Undergraduate,ME       17,GIBOU F G,A,19
+S14,Undergraduate,ME       17,GIBOU F G,A-,18
+S14,Undergraduate,ME       17,GIBOU F G,B+,6
+S14,Undergraduate,ME       17,GIBOU F G,B,8
+S14,Undergraduate,ME       17,GIBOU F G,B-,3
+S14,Undergraduate,ME       17,GIBOU F G,C+,6
+S14,Undergraduate,ME       17,GIBOU F G,C-,2
+S14,Undergraduate,ME       17,GIBOU F G,D+,4
+S14,Undergraduate,ME       17,GIBOU F G,F,3
+S14,Undergraduate,ME      100,GIBOU F G,P,25
+S14,Undergraduate,ME      105,VALENTINE M T,A+,2
+S14,Undergraduate,ME      105,VALENTINE M T,A,6
+S14,Undergraduate,ME      105,VALENTINE M T,A-,18
+S14,Undergraduate,ME      105,VALENTINE M T,B+,12
+S14,Undergraduate,ME      105,VALENTINE M T,B,21
+S14,Undergraduate,ME      105,VALENTINE M T,B-,8
+S14,Undergraduate,ME      105,VALENTINE M T,C+,4
+S14,Undergraduate,ME      105,VALENTINE M T,C,7
+S14,Undergraduate,ME      105,VALENTINE M T,C-,1
+S14,Undergraduate,ME      105,VALENTINE M T,D+,1
+S14,Undergraduate,ME      105,VALENTINE M T,D,2
+S14,Undergraduate,ME      105,VALENTINE M T,F,1
+S14,Undergraduate,ME      125CM,MEINHART C,A+,1
+S14,Undergraduate,ME      125CM,MEINHART C,A,8
+S14,Undergraduate,ME      125CM,MEINHART C,A-,1
+S14,Undergraduate,ME      125CM,MEINHART C,B+,1
+S14,Undergraduate,ME      125CM,MEINHART C,B,5
+S14,Undergraduate,ME      125CM,MEINHART C,B-,1
+S14,Undergraduate,ME      125CM,MEINHART C,C,2
+S14,Undergraduate,ME      140B,MEIBURG E H,A,1
+S14,Undergraduate,ME      140B,MEIBURG E H,A-,1
+S14,Undergraduate,ME      140B,MEIBURG E H,B+,1
+S14,Undergraduate,ME      140B,MEIBURG E H,B-,1
+S14,Undergraduate,ME      140B,MEIBURG E H,C,1
+S14,Undergraduate,ME      141B,PENNATHUR S,A+,1
+S14,Undergraduate,ME      141B,PENNATHUR S,A,3
+S14,Undergraduate,ME      141B,PENNATHUR S,A-,1
+S14,Undergraduate,ME      141B,PENNATHUR S,B,1
+S14,Undergraduate,ME      141B,PENNATHUR S,B-,1
+S14,Undergraduate,ME      151C,BENNETT T D,A+,6
+S14,Undergraduate,ME      151C,BENNETT T D,A,9
+S14,Undergraduate,ME      151C,BENNETT T D,A-,9
+S14,Undergraduate,ME      151C,BENNETT T D,B+,7
+S14,Undergraduate,ME      151C,BENNETT T D,B,9
+S14,Undergraduate,ME      151C,BENNETT T D,B-,11
+S14,Undergraduate,ME      151C,BENNETT T D,C+,7
+S14,Undergraduate,ME      151C,BENNETT T D,C,8
+S14,Undergraduate,ME      151C,BENNETT T D,C-,7
+S14,Undergraduate,ME      151C,BENNETT T D,D+,7
+S14,Undergraduate,ME      151C,BENNETT T D,D,5
+S14,Undergraduate,ME      151C,BENNETT T D,F,3
+S14,Undergraduate,ME      153,LAGUETTE S W,A,40
+S14,Undergraduate,ME      153,LAGUETTE S W,A-,16
+S14,Undergraduate,ME      153,LAGUETTE S W,B+,15
+S14,Undergraduate,ME      153,LAGUETTE S W,B,10
+S14,Undergraduate,ME      153,LAGUETTE S W,F,1
+S14,Undergraduate,ME      155A,PADEN B,A+,4
+S14,Undergraduate,ME      155A,PADEN B,A,6
+S14,Undergraduate,ME      155A,PADEN B,A-,9
+S14,Undergraduate,ME      155A,PADEN B,B+,3
+S14,Undergraduate,ME      155A,PADEN B,B,28
+S14,Undergraduate,ME      155A,PADEN B,B-,5
+S14,Undergraduate,ME      155A,PADEN B,C+,8
+S14,Undergraduate,ME      155A,PADEN B,C,11
+S14,Undergraduate,ME      155A,PADEN B,C-,6
+S14,Undergraduate,ME      155A,PADEN B,F,1
+S14,Undergraduate,ME      169,BIBILASHVILI,A-,1
+S14,Undergraduate,ME      169,BIBILASHVILI,B-,4
+S14,Undergraduate,ME      169,BIBILASHVILI,C+,2
+S14,Undergraduate,ME      169,BIBILASHVILI,D+,1
+S14,Undergraduate,ME      169,BIBILASHVILI,F,1
+S14,Undergraduate,ME      179D,BYL K A,A+,1
+S14,Undergraduate,ME      179D,BYL K A,A,4
+S14,Undergraduate,ME      179D,BYL K A,A-,1
+S14,Undergraduate,ME      179D,BYL K A,B,1
+S14,Undergraduate,ME      179P,BULLO F,A+,1
+S14,Undergraduate,ME      179P,BULLO F,A,1
+S14,Undergraduate,ME      179P,BULLO F,A-,4
+S14,Undergraduate,ME      179P,BULLO F,B+,3
+S14,Undergraduate,ME      179P,BULLO F,B,2
+S14,Undergraduate,ME      179P,BULLO F,B-,1
+S14,Undergraduate,ME      179P,BULLO F,C+,2
+S14,Undergraduate,ME      179P,BULLO F,C-,1
+S14,Undergraduate,ME      189C,LAGUETTE S W,A,46
+S14,Undergraduate,ME      189C,LAGUETTE S W,A-,2
+S14,Undergraduate,ME      189C,LAGUETTE S W,B+,8
+S14,Undergraduate,ME      189C,LAGUETTE S W,B,3
+S14,Undergraduate,ME      189C,LAGUETTE S W,B-,1
+S14,Undergraduate,ME      197,BELTZ G,A+,9
+S14,Graduate,ME      200,GIBOU F G,S,11
+S14,Graduate,ME      225BB,BAMIEH B A,A+,1
+S14,Graduate,ME      225BB,BAMIEH B A,A,5
+S14,Graduate,ME      295,TEEL A R,S,7
+S14,Graduate,ME      503,TURNER K L,S,5
+S14,Graduate,ME      596,BULLO F,S,7
+S14,Graduate,ME      596,GIBOU F G,S,5
+S14,Graduate,ME      596,MEIBURG E H,S,5
+S14,Undergraduate,PSTAT     5LS,MEIRING W,A+,17
+S14,Undergraduate,PSTAT     5LS,MEIRING W,A,44
+S14,Undergraduate,PSTAT     5LS,MEIRING W,A-,10
+S14,Undergraduate,PSTAT     5LS,MEIRING W,B+,19
+S14,Undergraduate,PSTAT     5LS,MEIRING W,B,31
+S14,Undergraduate,PSTAT     5LS,MEIRING W,B-,12
+S14,Undergraduate,PSTAT     5LS,MEIRING W,C+,4
+S14,Undergraduate,PSTAT     5LS,MEIRING W,C,14
+S14,Undergraduate,PSTAT     5LS,MEIRING W,C-,8
+S14,Undergraduate,PSTAT     5LS,MEIRING W,D,1
+S14,Undergraduate,PSTAT     5LS,MEIRING W,F,1
+S14,Undergraduate,WRIT      2,METCALF S M,A,10
+S14,Undergraduate,WRIT      2,METCALF S M,A-,10
+S14,Undergraduate,WRIT      2,METCALF S M,B+,2
+S14,Undergraduate,WRIT      2,METCALF S M,B,2
+S14,Undergraduate,WRIT      2,METCALF S M,C,1

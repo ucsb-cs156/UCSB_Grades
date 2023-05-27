@@ -1,0 +1,142 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,THTR      2C,WILLIAMS S,A+,8
+S16,Undergraduate,THTR      2C,WILLIAMS S,A,15
+S16,Undergraduate,THTR      2C,WILLIAMS S,A-,17
+S16,Undergraduate,THTR      2C,WILLIAMS S,B+,28
+S16,Undergraduate,THTR      2C,WILLIAMS S,B,18
+S16,Undergraduate,THTR      2C,WILLIAMS S,B-,21
+S16,Undergraduate,THTR      2C,WILLIAMS S,C+,10
+S16,Undergraduate,THTR      2C,WILLIAMS S,C,5
+S16,Undergraduate,THTR      2C,WILLIAMS S,C-,1
+S16,Undergraduate,THTR      2C,WILLIAMS S,D+,4
+S16,Undergraduate,THTR      2C,WILLIAMS S,D-,1
+S16,Undergraduate,THTR      2C,WILLIAMS S,F,11
+S16,Undergraduate,THTR      5,BRAININ R,A+,15
+S16,Undergraduate,THTR      5,BRAININ R,A,99
+S16,Undergraduate,THTR      5,BRAININ R,A-,62
+S16,Undergraduate,THTR      5,BRAININ R,B+,23
+S16,Undergraduate,THTR      5,BRAININ R,B,18
+S16,Undergraduate,THTR      5,BRAININ R,B-,15
+S16,Undergraduate,THTR      5,BRAININ R,C+,3
+S16,Undergraduate,THTR      5,BRAININ R,C,6
+S16,Undergraduate,THTR      5,BRAININ R,C-,3
+S16,Undergraduate,THTR      5,BRAININ R,D,1
+S16,Undergraduate,THTR      5,BRAININ R,F,1
+S16,Undergraduate,THTR     10C,MILLS J S,A,5
+S16,Undergraduate,THTR     10C,MILLS J S,A-,9
+S16,Undergraduate,THTR     10C,MILLS J S,B+,1
+S16,Undergraduate,THTR     11C,MORGAN M,A,6
+S16,Undergraduate,THTR     11C,MORGAN M,A-,2
+S16,Undergraduate,THTR     11C,MORGAN M,B+,3
+S16,Undergraduate,THTR     11C,MORGAN M,B,4
+S16,Undergraduate,THTR     15C,APPEL I J,A,1
+S16,Undergraduate,THTR     15C,APPEL I J,A-,10
+S16,Undergraduate,THTR     15C,APPEL I J,B+,2
+S16,Undergraduate,THTR     15C,APPEL I J,B,2
+S16,Undergraduate,THTR     15C,TORSIGLIERI A,A,1
+S16,Undergraduate,THTR     15C,TORSIGLIERI A,A-,10
+S16,Undergraduate,THTR     15C,TORSIGLIERI A,B+,2
+S16,Undergraduate,THTR     15C,TORSIGLIERI A,B,2
+S16,Undergraduate,THTR     23D,SZIGETI S L,A+,2
+S16,Undergraduate,THTR     23D,SZIGETI S L,A,4
+S16,Undergraduate,THTR     23D,SZIGETI S L,A-,5
+S16,Undergraduate,THTR     23D,SZIGETI S L,B+,1
+S16,Undergraduate,THTR     23D,SZIGETI S L,B,1
+S16,Undergraduate,THTR     23D,SZIGETI S L,B-,1
+S16,Undergraduate,THTR     29B,SCOTT V,A+,1
+S16,Undergraduate,THTR     29B,SCOTT V,A,9
+S16,Undergraduate,THTR     29C,SCOTT V,A+,2
+S16,Undergraduate,THTR     29C,SCOTT V,A,12
+S16,Undergraduate,THTR     29D,SCOTT V,A+,2
+S16,Undergraduate,THTR     29D,SCOTT V,A,24
+S16,Undergraduate,THTR     42,,A+,2
+S16,Undergraduate,THTR     42,,A,3
+S16,Undergraduate,THTR     42,,A-,2
+S16,Undergraduate,THTR     42,,B+,1
+S16,Undergraduate,THTR     94,BRUICE A M,A,7
+S16,Undergraduate,THTR     94,BRUICE A M,B,1
+S16,Undergraduate,THTR    104C,COWHIG F Y,A,11
+S16,Undergraduate,THTR    104C,COWHIG F Y,A-,5
+S16,Undergraduate,THTR    104C,COWHIG F Y,B+,1
+S16,Undergraduate,THTR    104C,COWHIG F Y,F,1
+S16,Undergraduate,THTR    104E,COWHIG F Y,A,5
+S16,Undergraduate,THTR    104E,COWHIG F Y,A-,1
+S16,Undergraduate,THTR    104E,COWHIG F Y,B+,3
+S16,Undergraduate,THTR    110C,MILLS J S,A,6
+S16,Undergraduate,THTR    110C,MILLS J S,A-,3
+S16,Undergraduate,THTR    110D,MILLS J S,A,13
+S16,Undergraduate,THTR    110E,MILLS J S,A,2
+S16,Undergraduate,THTR    110E,MILLS J S,A-,8
+S16,Undergraduate,THTR    110E,MILLS J S,B+,4
+S16,Undergraduate,THTR    110E,MILLS J S,B,2
+S16,Undergraduate,THTR    110E,MILLS J S,C+,1
+S16,Undergraduate,THTR    111C,MORGAN M,A,3
+S16,Undergraduate,THTR    111C,MORGAN M,A-,1
+S16,Undergraduate,THTR    111C,MORGAN M,B,5
+S16,Undergraduate,THTR    113E,MORGAN M,A,3
+S16,Undergraduate,THTR    113E,MORGAN M,A-,5
+S16,Undergraduate,THTR    113E,MORGAN M,B+,2
+S16,Undergraduate,THTR    113E,MORGAN M,B,1
+S16,Undergraduate,THTR    113E,MORGAN M,B-,3
+S16,Undergraduate,THTR    125,BRUICE A M,A+,2
+S16,Undergraduate,THTR    125,BRUICE A M,A,7
+S16,Undergraduate,THTR    125,BRUICE A M,A-,2
+S16,Undergraduate,THTR    132,BRUICE A M,A+,1
+S16,Undergraduate,THTR    132,BRUICE A M,A,5
+S16,Undergraduate,THTR    132,BRUICE A M,A-,4
+S16,Undergraduate,THTR    132,BRUICE A M,B+,1
+S16,Undergraduate,THTR    132,BRUICE A M,B,1
+S16,Undergraduate,THTR    132,BRUICE A M,C+,3
+S16,Undergraduate,THTR    132,BRUICE A M,C,1
+S16,Undergraduate,THTR    140A,BERNARD M A,A+,1
+S16,Undergraduate,THTR    140A,BERNARD M A,A,4
+S16,Undergraduate,THTR    140A,BERNARD M A,A-,1
+S16,Undergraduate,THTR    140A,BERNARD M A,B+,4
+S16,Undergraduate,THTR    140A,BERNARD M A,B,2
+S16,Undergraduate,THTR    142,,A+,1
+S16,Undergraduate,THTR    142,,A,3
+S16,Undergraduate,THTR    142,,A-,1
+S16,Undergraduate,THTR    142,,C+,1
+S16,Undergraduate,THTR    149,BRAININ R,A,13
+S16,Undergraduate,THTR    149,BRAININ R,A-,1
+S16,Undergraduate,THTR    149,MERCEIN J A,A+,2
+S16,Undergraduate,THTR    149,MERCEIN J A,A,12
+S16,Undergraduate,THTR    149,MITCHELL G M,A+,1
+S16,Undergraduate,THTR    149,MITCHELL G M,A,4
+S16,Undergraduate,THTR    149,SCOTT V,A+,2
+S16,Undergraduate,THTR    149,SCOTT V,A,10
+S16,Undergraduate,THTR    149,TORSIGLIERI A,A,12
+S16,Undergraduate,THTR    149,WHITAKER T O,A,14
+S16,Undergraduate,THTR    151C,STANFORD H S,A+,1
+S16,Undergraduate,THTR    151C,STANFORD H S,A,2
+S16,Undergraduate,THTR    151C,STANFORD H S,A-,4
+S16,Undergraduate,THTR    151C,STANFORD H S,B-,1
+S16,Undergraduate,THTR    151C,STANFORD H S,C+,1
+S16,Undergraduate,THTR    151G,APPEL I J,A+,1
+S16,Undergraduate,THTR    151G,APPEL I J,A,12
+S16,Undergraduate,THTR    152C,TORSIGLIERI A,A,4
+S16,Undergraduate,THTR    152C,TORSIGLIERI A,A-,1
+S16,Undergraduate,THTR    152C,TORSIGLIERI A,B+,1
+S16,Undergraduate,THTR    182A,KING W D,A+,1
+S16,Undergraduate,THTR    182A,KING W D,A,9
+S16,Undergraduate,THTR    182A,KING W D,A-,13
+S16,Undergraduate,THTR    182A,KING W D,B+,15
+S16,Undergraduate,THTR    182A,KING W D,B,8
+S16,Undergraduate,THTR    182A,KING W D,B-,4
+S16,Undergraduate,THTR    182A,KING W D,C+,2
+S16,Undergraduate,THTR    182A,KING W D,C-,2
+S16,Undergraduate,THTR    182A,KING W D,F,1
+S16,Undergraduate,THTR    185MX,HELLIER-TINOC,A+,5
+S16,Undergraduate,THTR    185MX,HELLIER-TINOC,A,10
+S16,Undergraduate,THTR    187TB,MORTON C,A,12
+S16,Undergraduate,THTR    187TB,MORTON C,A-,2
+S16,Undergraduate,THTR    194A,HANSEN G E,A+,6
+S16,Undergraduate,THTR    194A,HANSEN G E,A,9
+S16,Undergraduate,THTR    194A,HANSEN G E,A-,1
+S16,Undergraduate,THTR    194A,HANSEN G E,B+,2
+S16,Undergraduate,THTR    194D,SAJADEIH S,A-,2
+S16,Undergraduate,THTR    194D,SAJADEIH S,B+,1
+S16,Undergraduate,THTR    194D,SAJADEIH S,B,2
+S16,Graduate,THTR    210A,MCMAHON C S,A,6
+S16,Graduate,THTR    210A,MCMAHON C S,A-,1
+S16,Graduate,THTR    500,BRAININ R,S,8

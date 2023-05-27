@@ -1,0 +1,190 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M20,Undergraduate,PSTAT     5A,LI C Y,A+,1
+M20,Undergraduate,PSTAT     5A,LI C Y,A,14
+M20,Undergraduate,PSTAT     5A,LI C Y,A-,7
+M20,Undergraduate,PSTAT     5A,LI C Y,B+,16
+M20,Undergraduate,PSTAT     5A,LI C Y,B,9
+M20,Undergraduate,PSTAT     5A,LI C Y,B-,7
+M20,Undergraduate,PSTAT     5A,LI C Y,C+,8
+M20,Undergraduate,PSTAT     5A,LI C Y,C,2
+M20,Undergraduate,PSTAT     5A,LI C Y,D,1
+M20,Undergraduate,PSTAT     5A,LI C Y,F,5
+M20,Undergraduate,PSTAT     5A,SWENSON J S,A+,1
+M20,Undergraduate,PSTAT     5A,SWENSON J S,A,11
+M20,Undergraduate,PSTAT     5A,SWENSON J S,A-,7
+M20,Undergraduate,PSTAT     5A,SWENSON J S,B+,6
+M20,Undergraduate,PSTAT     5A,SWENSON J S,B,9
+M20,Undergraduate,PSTAT     5A,SWENSON J S,B-,5
+M20,Undergraduate,PSTAT     5A,SWENSON J S,C+,5
+M20,Undergraduate,PSTAT     5A,SWENSON J S,C,7
+M20,Undergraduate,PSTAT     5A,SWENSON J S,C-,5
+M20,Undergraduate,PSTAT     5A,SWENSON J S,D+,2
+M20,Undergraduate,PSTAT     5A,SWENSON J S,D,3
+M20,Undergraduate,PSTAT     5A,SWENSON J S,F,2
+M20,Undergraduate,PSTAT     5LS,DUAN S,A+,8
+M20,Undergraduate,PSTAT     5LS,DUAN S,A,9
+M20,Undergraduate,PSTAT     5LS,DUAN S,A-,2
+M20,Undergraduate,PSTAT     5LS,DUAN S,B+,2
+M20,Undergraduate,PSTAT     5LS,DUAN S,B,8
+M20,Undergraduate,PSTAT     5LS,DUAN S,B-,5
+M20,Undergraduate,PSTAT     5LS,DUAN S,C+,5
+M20,Undergraduate,PSTAT     5LS,DUAN S,C,10
+M20,Undergraduate,PSTAT     5LS,DUAN S,C-,4
+M20,Undergraduate,PSTAT     5LS,DUAN S,D+,1
+M20,Undergraduate,PSTAT     5LS,DUAN S,F,5
+M20,Undergraduate,PSTAT    10,HOLMES D E,A,22
+M20,Undergraduate,PSTAT    10,HOLMES D E,A-,12
+M20,Undergraduate,PSTAT    10,HOLMES D E,B+,5
+M20,Undergraduate,PSTAT    10,HOLMES D E,B,1
+M20,Undergraduate,PSTAT    10,HOLMES D E,C+,1
+M20,Undergraduate,PSTAT    10,HOLMES D E,C,2
+M20,Undergraduate,PSTAT    10,HOLMES D E,F,2
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,A,13
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,A-,3
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,B+,5
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,B,13
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,B-,2
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,C+,1
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,C,5
+M20,Undergraduate,PSTAT    10,WAINWRIGHT B,D,2
+M20,Undergraduate,PSTAT   109,BAPAT S R,A,36
+M20,Undergraduate,PSTAT   109,BAPAT S R,A-,17
+M20,Undergraduate,PSTAT   109,BAPAT S R,B+,8
+M20,Undergraduate,PSTAT   109,BAPAT S R,B,4
+M20,Undergraduate,PSTAT   109,BAPAT S R,B-,3
+M20,Undergraduate,PSTAT   109,LEE Y,A+,2
+M20,Undergraduate,PSTAT   109,LEE Y,A,7
+M20,Undergraduate,PSTAT   109,LEE Y,A-,15
+M20,Undergraduate,PSTAT   109,LEE Y,B+,8
+M20,Undergraduate,PSTAT   109,LEE Y,B,19
+M20,Undergraduate,PSTAT   109,LEE Y,B-,6
+M20,Undergraduate,PSTAT   109,LEE Y,C+,10
+M20,Undergraduate,PSTAT   109,LEE Y,C,2
+M20,Undergraduate,PSTAT   109,LEE Y,C-,2
+M20,Undergraduate,PSTAT   109,LEE Y,F,1
+M20,Undergraduate,PSTAT   120A,JIN Z,A+,3
+M20,Undergraduate,PSTAT   120A,JIN Z,A,7
+M20,Undergraduate,PSTAT   120A,JIN Z,A-,6
+M20,Undergraduate,PSTAT   120A,JIN Z,B+,7
+M20,Undergraduate,PSTAT   120A,JIN Z,B,4
+M20,Undergraduate,PSTAT   120A,JIN Z,B-,6
+M20,Undergraduate,PSTAT   120A,JIN Z,C+,25
+M20,Undergraduate,PSTAT   120A,JIN Z,F,10
+M20,Undergraduate,PSTAT   120A,LIU M,A+,1
+M20,Undergraduate,PSTAT   120A,LIU M,A,10
+M20,Undergraduate,PSTAT   120A,LIU M,A-,4
+M20,Undergraduate,PSTAT   120A,LIU M,B+,4
+M20,Undergraduate,PSTAT   120A,LIU M,B,6
+M20,Undergraduate,PSTAT   120A,LIU M,B-,3
+M20,Undergraduate,PSTAT   120A,LIU M,C+,3
+M20,Undergraduate,PSTAT   120A,LIU M,C,3
+M20,Undergraduate,PSTAT   120A,LIU M,C-,5
+M20,Undergraduate,PSTAT   120A,LIU M,D,1
+M20,Undergraduate,PSTAT   120A,LIU M,F,1
+M20,Undergraduate,PSTAT   120A,PARK M,A+,1
+M20,Undergraduate,PSTAT   120A,PARK M,A,14
+M20,Undergraduate,PSTAT   120A,PARK M,A-,18
+M20,Undergraduate,PSTAT   120A,PARK M,B+,12
+M20,Undergraduate,PSTAT   120A,PARK M,B,5
+M20,Undergraduate,PSTAT   120A,PARK M,B-,5
+M20,Undergraduate,PSTAT   120A,PARK M,C+,4
+M20,Undergraduate,PSTAT   120A,PARK M,C,9
+M20,Undergraduate,PSTAT   120A,PARK M,C-,2
+M20,Undergraduate,PSTAT   120A,PARK M,F,1
+M20,Undergraduate,PSTAT   120B,HU M,A,6
+M20,Undergraduate,PSTAT   120B,HU M,A-,6
+M20,Undergraduate,PSTAT   120B,HU M,B+,10
+M20,Undergraduate,PSTAT   120B,HU M,B,13
+M20,Undergraduate,PSTAT   120B,HU M,B-,6
+M20,Undergraduate,PSTAT   120B,HU M,C+,4
+M20,Undergraduate,PSTAT   120B,HU M,C,6
+M20,Undergraduate,PSTAT   120B,HU M,C-,2
+M20,Undergraduate,PSTAT   120B,HU M,F,3
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,A+,2
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,A,12
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,A-,6
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,B+,6
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,B,10
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,B-,5
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,C+,2
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,C,11
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,C-,4
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,D,3
+M20,Undergraduate,PSTAT   120B,MARQUIS S M,F,5
+M20,Undergraduate,PSTAT   120C,BANG S,A,6
+M20,Undergraduate,PSTAT   120C,BANG S,A-,6
+M20,Undergraduate,PSTAT   120C,BANG S,B+,6
+M20,Undergraduate,PSTAT   120C,BANG S,B,2
+M20,Undergraduate,PSTAT   120C,BANG S,B-,7
+M20,Undergraduate,PSTAT   120C,BANG S,C+,8
+M20,Undergraduate,PSTAT   120C,BANG S,C,2
+M20,Undergraduate,PSTAT   120C,BANG S,C-,2
+M20,Undergraduate,PSTAT   120C,BANG S,D,2
+M20,Undergraduate,PSTAT   120C,BANG S,F,3
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,A,1
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,A-,3
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,B+,9
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,B,10
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,B-,9
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,C+,5
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,C,1
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,D+,1
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,D,1
+M20,Undergraduate,PSTAT   126,LI ZHIJIAN,F,2
+M20,Undergraduate,PSTAT   126,ZANGER D,A,14
+M20,Undergraduate,PSTAT   126,ZANGER D,A-,4
+M20,Undergraduate,PSTAT   126,ZANGER D,B+,4
+M20,Undergraduate,PSTAT   126,ZANGER D,B,7
+M20,Undergraduate,PSTAT   126,ZANGER D,B-,4
+M20,Undergraduate,PSTAT   126,ZANGER D,C+,3
+M20,Undergraduate,PSTAT   126,ZANGER D,C,1
+M20,Undergraduate,PSTAT   126,ZANGER D,C-,3
+M20,Undergraduate,PSTAT   126,ZANGER D,D,2
+M20,Undergraduate,PSTAT   126,ZANGER D,F,1
+M20,Undergraduate,PSTAT   130,KLOKE J,A,12
+M20,Undergraduate,PSTAT   130,KLOKE J,A-,8
+M20,Undergraduate,PSTAT   130,KLOKE J,B+,5
+M20,Undergraduate,PSTAT   130,KLOKE J,B,27
+M20,Undergraduate,PSTAT   130,KLOKE J,B-,11
+M20,Undergraduate,PSTAT   130,KLOKE J,C+,2
+M20,Undergraduate,PSTAT   130,KLOKE J,C,10
+M20,Undergraduate,PSTAT   130,KLOKE J,C-,6
+M20,Undergraduate,PSTAT   130,KLOKE J,D,4
+M20,Undergraduate,PSTAT   130,KLOKE J,F,6
+M20,Undergraduate,PSTAT   130,SWENSON J S,A+,1
+M20,Undergraduate,PSTAT   130,SWENSON J S,A,18
+M20,Undergraduate,PSTAT   130,SWENSON J S,A-,10
+M20,Undergraduate,PSTAT   130,SWENSON J S,B+,9
+M20,Undergraduate,PSTAT   130,SWENSON J S,B,13
+M20,Undergraduate,PSTAT   130,SWENSON J S,B-,10
+M20,Undergraduate,PSTAT   130,SWENSON J S,C+,10
+M20,Undergraduate,PSTAT   130,SWENSON J S,C,11
+M20,Undergraduate,PSTAT   130,SWENSON J S,C-,10
+M20,Undergraduate,PSTAT   130,SWENSON J S,D+,2
+M20,Undergraduate,PSTAT   130,SWENSON J S,F,1
+M20,Undergraduate,PSTAT   140,HOLMES D E,A,59
+M20,Undergraduate,PSTAT   140,HOLMES D E,A-,7
+M20,Undergraduate,PSTAT   140,HOLMES D E,B+,12
+M20,Undergraduate,PSTAT   140,HOLMES D E,C+,14
+M20,Undergraduate,PSTAT   140,HOLMES D E,F,3
+M20,Undergraduate,PSTAT   171,DUNCAN I,A+,15
+M20,Undergraduate,PSTAT   171,DUNCAN I,A,10
+M20,Undergraduate,PSTAT   171,DUNCAN I,A-,9
+M20,Undergraduate,PSTAT   171,DUNCAN I,B+,4
+M20,Undergraduate,PSTAT   171,DUNCAN I,B,4
+M20,Undergraduate,PSTAT   171,DUNCAN I,B-,8
+M20,Undergraduate,PSTAT   171,DUNCAN I,C+,4
+M20,Undergraduate,PSTAT   171,DUNCAN I,C,1
+M20,Undergraduate,PSTAT   171,DUNCAN I,D,1
+M20,Undergraduate,PSTAT   171,DUNCAN I,F,1
+M20,Undergraduate,PSTATW  120A,FENG Y,A+,4
+M20,Undergraduate,PSTATW  120A,FENG Y,A,8
+M20,Undergraduate,PSTATW  120A,FENG Y,A-,11
+M20,Undergraduate,PSTATW  120A,FENG Y,B+,11
+M20,Undergraduate,PSTATW  120A,FENG Y,B,11
+M20,Undergraduate,PSTATW  120A,FENG Y,B-,6
+M20,Undergraduate,PSTATW  120A,FENG Y,C+,10
+M20,Undergraduate,PSTATW  120A,FENG Y,C,6
+M20,Undergraduate,PSTATW  120A,FENG Y,C-,7
+M20,Undergraduate,PSTATW  182T,GHOSAL A,P,9
+M20,Undergraduate,PSTATW  182T,GHOSAL A,NP,2

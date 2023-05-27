@@ -1,0 +1,157 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W15,Undergraduate,LING      2G,RIGHTMIRE S R,P,10
+W15,Undergraduate,LING      3A,MCGOWAN E J,P,17
+W15,Undergraduate,LING      3A,MCGOWAN E J,NP,1
+W15,Undergraduate,LING      3B,BOWMAN I K,A+,2
+W15,Undergraduate,LING      3B,BOWMAN I K,A,2
+W15,Undergraduate,LING      3B,BOWMAN I K,A-,1
+W15,Undergraduate,LING      3B,BOWMAN I K,B+,3
+W15,Undergraduate,LING      3B,BOWMAN I K,B,1
+W15,Undergraduate,LING      3B,BOWMAN I K,B-,1
+W15,Undergraduate,LING      3B,BOWMAN I K,C+,2
+W15,Undergraduate,LING      3B,THIBAULT J A,A,18
+W15,Undergraduate,LING      3B,THIBAULT J A,A-,9
+W15,Undergraduate,LING      3B,THIBAULT J A,B+,4
+W15,Undergraduate,LING      3B,THIBAULT J A,B,6
+W15,Undergraduate,LING      3B,THIBAULT J A,C+,1
+W15,Undergraduate,LING      3B,WESTMACOTT B,A,24
+W15,Undergraduate,LING      3B,WESTMACOTT B,A-,13
+W15,Undergraduate,LING      3B,WESTMACOTT B,B+,3
+W15,Undergraduate,LING      3B,WESTMACOTT B,B,6
+W15,Undergraduate,LING      3B,WESTMACOTT B,B-,5
+W15,Undergraduate,LING      3B,WESTMACOTT B,C,1
+W15,Undergraduate,LING      3C,NAUGHTON S J,A,6
+W15,Undergraduate,LING      3C,NAUGHTON S J,A-,8
+W15,Undergraduate,LING      3C,NAUGHTON S J,B+,2
+W15,Undergraduate,LING      3C,NAUGHTON S J,B-,1
+W15,Undergraduate,LING      3C,NAUGHTON S J,C,1
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,A,10
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,A-,11
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,B+,6
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,B,5
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,B-,3
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,C+,1
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,C,2
+W15,Undergraduate,LING      3C,RIGHTMIRE S R,D+,1
+W15,Undergraduate,LING      3C,ROBERTSON J L,A,10
+W15,Undergraduate,LING      3C,ROBERTSON J L,A-,2
+W15,Undergraduate,LING      3C,ROBERTSON J L,B+,2
+W15,Undergraduate,LING      3C,ROBERTSON J L,B,1
+W15,Undergraduate,LING      3C,ROBERTSON J L,C,1
+W15,Undergraduate,LING      3C,ROBERTSON J L,C-,1
+W15,Undergraduate,LING      3C,THIBAULT J A,A,9
+W15,Undergraduate,LING      3C,THIBAULT J A,A-,4
+W15,Undergraduate,LING      3C,THIBAULT J A,B+,2
+W15,Undergraduate,LING      4,GOUGH J D,P,15
+W15,Undergraduate,LING      6,HANSON J L,P,12
+W15,Undergraduate,LING     12,BOWMAN I K,A+,1
+W15,Undergraduate,LING     12,BOWMAN I K,A,12
+W15,Undergraduate,LING     12,BOWMAN I K,A-,6
+W15,Undergraduate,LING     12,BOWMAN I K,B+,4
+W15,Undergraduate,LING     12,BOWMAN I K,B,3
+W15,Undergraduate,LING     12,GOUGH J D,A,11
+W15,Undergraduate,LING     12,GOUGH J D,A-,9
+W15,Undergraduate,LING     12,GOUGH J D,B+,5
+W15,Undergraduate,LING     12,GOUGH J D,B,2
+W15,Undergraduate,LING     12,GOUGH J D,B-,4
+W15,Undergraduate,LING     12,NAUGHTON S J,A,10
+W15,Undergraduate,LING     12,NAUGHTON S J,A-,4
+W15,Undergraduate,LING     12,NAUGHTON S J,B+,1
+W15,Undergraduate,LING     12,NAUGHTON S J,B,2
+W15,Undergraduate,LING     20,SIMPSON H E,A+,8
+W15,Undergraduate,LING     20,SIMPSON H E,A,11
+W15,Undergraduate,LING     20,SIMPSON H E,A-,9
+W15,Undergraduate,LING     20,SIMPSON H E,B+,16
+W15,Undergraduate,LING     20,SIMPSON H E,B,20
+W15,Undergraduate,LING     20,SIMPSON H E,B-,13
+W15,Undergraduate,LING     20,SIMPSON H E,C+,4
+W15,Undergraduate,LING     20,SIMPSON H E,C,6
+W15,Undergraduate,LING     20,SIMPSON H E,C-,4
+W15,Undergraduate,LING     20,SIMPSON H E,D,1
+W15,Undergraduate,LING     20,SIMPSON H E,D-,3
+W15,Undergraduate,LING     20,SIMPSON H E,F,5
+W15,Undergraduate,LING     70,KENNEDY R A,A+,15
+W15,Undergraduate,LING     70,KENNEDY R A,A,41
+W15,Undergraduate,LING     70,KENNEDY R A,A-,30
+W15,Undergraduate,LING     70,KENNEDY R A,B+,24
+W15,Undergraduate,LING     70,KENNEDY R A,B,17
+W15,Undergraduate,LING     70,KENNEDY R A,B-,11
+W15,Undergraduate,LING     70,KENNEDY R A,C+,7
+W15,Undergraduate,LING     70,KENNEDY R A,C,8
+W15,Undergraduate,LING     70,KENNEDY R A,C-,2
+W15,Undergraduate,LING     70,KENNEDY R A,D,2
+W15,Undergraduate,LING     70,KENNEDY R A,F,2
+W15,Undergraduate,LING    107,CAMPBELL E W,A,12
+W15,Undergraduate,LING    107,CAMPBELL E W,A-,5
+W15,Undergraduate,LING    107,CAMPBELL E W,B+,13
+W15,Undergraduate,LING    107,CAMPBELL E W,B,17
+W15,Undergraduate,LING    107,CAMPBELL E W,B-,6
+W15,Undergraduate,LING    107,CAMPBELL E W,C+,5
+W15,Undergraduate,LING    107,CAMPBELL E W,C,2
+W15,Undergraduate,LING    107,CAMPBELL E W,C-,2
+W15,Undergraduate,LING    107,CAMPBELL E W,F,2
+W15,Undergraduate,LING    109,COMRIE B S,A+,1
+W15,Undergraduate,LING    109,COMRIE B S,A,10
+W15,Undergraduate,LING    109,COMRIE B S,A-,14
+W15,Undergraduate,LING    109,COMRIE B S,B+,9
+W15,Undergraduate,LING    109,COMRIE B S,B,8
+W15,Undergraduate,LING    109,COMRIE B S,B-,6
+W15,Undergraduate,LING    109,COMRIE B S,C+,2
+W15,Undergraduate,LING    109,COMRIE B S,D,2
+W15,Undergraduate,LING    109,COMRIE B S,F,1
+W15,Undergraduate,LING    110,MOSCOSO DEL P,A+,6
+W15,Undergraduate,LING    110,MOSCOSO DEL P,A,2
+W15,Undergraduate,LING    110,MOSCOSO DEL P,A-,1
+W15,Undergraduate,LING    110,MOSCOSO DEL P,B+,8
+W15,Undergraduate,LING    110,MOSCOSO DEL P,B,5
+W15,Undergraduate,LING    110,MOSCOSO DEL P,C,2
+W15,Undergraduate,LING    110,MOSCOSO DEL P,D+,1
+W15,Undergraduate,LING    110,MOSCOSO DEL P,D,4
+W15,Undergraduate,LING    110,MOSCOSO DEL P,F,1
+W15,Undergraduate,LING    117,KENNEDY R A,A+,4
+W15,Undergraduate,LING    117,KENNEDY R A,A,6
+W15,Undergraduate,LING    117,KENNEDY R A,A-,5
+W15,Undergraduate,LING    117,KENNEDY R A,B+,9
+W15,Undergraduate,LING    117,KENNEDY R A,B,7
+W15,Undergraduate,LING    117,KENNEDY R A,B-,3
+W15,Undergraduate,LING    117,KENNEDY R A,C+,7
+W15,Undergraduate,LING    117,KENNEDY R A,C,4
+W15,Undergraduate,LING    117,KENNEDY R A,D-,1
+W15,Undergraduate,LING    117,KENNEDY R A,F,2
+W15,Undergraduate,LING    139,FRODESEN J M,A+,3
+W15,Undergraduate,LING    139,FRODESEN J M,A,13
+W15,Undergraduate,LING    139,FRODESEN J M,A-,4
+W15,Undergraduate,LING    139,FRODESEN J M,B+,3
+W15,Undergraduate,LING    139,FRODESEN J M,B,1
+W15,Undergraduate,LING    139,FRODESEN J M,C+,1
+W15,Undergraduate,LING    170,DU BOIS J W,A+,3
+W15,Undergraduate,LING    170,DU BOIS J W,A,19
+W15,Undergraduate,LING    170,DU BOIS J W,A-,9
+W15,Undergraduate,LING    170,DU BOIS J W,B+,6
+W15,Undergraduate,LING    170,DU BOIS J W,B,1
+W15,Undergraduate,LING    170,DU BOIS J W,B-,1
+W15,Undergraduate,LING    170,DU BOIS J W,D,2
+W15,Undergraduate,LING    170,DU BOIS J W,F,3
+W15,Undergraduate,LING    192,BUCHOLTZ M H,A+,2
+W15,Undergraduate,LING    192,BUCHOLTZ M H,A,8
+W15,Undergraduate,LING    194,CURTIN M L,A+,2
+W15,Undergraduate,LING    194,CURTIN M L,A,9
+W15,Undergraduate,LING    194,CURTIN M L,A-,2
+W15,Undergraduate,LING    194,CURTIN M L,B+,3
+W15,Undergraduate,LING    194,CURTIN M L,B,5
+W15,Undergraduate,LING    194,CURTIN M L,B-,1
+W15,Undergraduate,LING    194,CURTIN M L,C,1
+W15,Undergraduate,LING    194,CURTIN M L,F,1
+W15,Graduate,LING    202,GRIES S T,A+,2
+W15,Graduate,LING    202,GRIES S T,A,5
+W15,Graduate,LING    214,CLANCY P M,A+,2
+W15,Graduate,LING    214,CLANCY P M,A,7
+W15,Graduate,LING    225,GRIES S T,A+,4
+W15,Graduate,LING    225,GRIES S T,A,10
+W15,Graduate,LING    230,BUCHOLTZ M H,A+,1
+W15,Graduate,LING    230,BUCHOLTZ M H,A,10
+W15,Graduate,LING    235,GORDON M K,A,11
+W15,Graduate,LING    252A,MITHUN M,A,10
+W15,Graduate,LING    272,MITHUN M,S,14
+W15,Graduate,LING    292,BUCHOLTZ M H,A,8
+W15,Graduate,LING    592,BUCHOLTZ M H,A,5

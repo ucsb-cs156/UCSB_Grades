@@ -1,0 +1,95 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,FEMST    50,CHANG G,A,27
+S19,Undergraduate,FEMST    50,CHANG G,A-,18
+S19,Undergraduate,FEMST    50,CHANG G,B+,24
+S19,Undergraduate,FEMST    50,CHANG G,B,12
+S19,Undergraduate,FEMST    50,CHANG G,B-,3
+S19,Undergraduate,FEMST    50,CHANG G,C+,2
+S19,Undergraduate,FEMST    50,CHANG G,C,3
+S19,Undergraduate,FEMST    50,CHANG G,C-,2
+S19,Undergraduate,FEMST    50,CHANG G,F,8
+S19,Undergraduate,FEMST    99,BORIS E C,A+,1
+S19,Undergraduate,FEMST   131,TANNER L C,A+,1
+S19,Undergraduate,FEMST   131,TANNER L C,A,8
+S19,Undergraduate,FEMST   131,TANNER L C,A-,3
+S19,Undergraduate,FEMST   131,TANNER L C,B+,3
+S19,Undergraduate,FEMST   131,TANNER L C,B,3
+S19,Undergraduate,FEMST   131,TANNER L C,C,3
+S19,Undergraduate,FEMST   131,TANNER L C,F,2
+S19,Undergraduate,FEMST   139,CHANG G,A+,4
+S19,Undergraduate,FEMST   139,CHANG G,A,4
+S19,Undergraduate,FEMST   139,CHANG G,A-,4
+S19,Undergraduate,FEMST   139,CHANG G,B+,4
+S19,Undergraduate,FEMST   139,CHANG G,F,1
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,A+,83
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,A,129
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,A-,34
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,B+,11
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,B,12
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,B-,8
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,C+,4
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,C,3
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,C-,1
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,D,1
+S19,Undergraduate,FEMST   150,MILLER-YOUNG,F,9
+S19,Undergraduate,FEMST   161,BARVOSA E,A+,2
+S19,Undergraduate,FEMST   161,BARVOSA E,A,16
+S19,Undergraduate,FEMST   161,BARVOSA E,A-,6
+S19,Undergraduate,FEMST   161,BARVOSA E,B+,2
+S19,Undergraduate,FEMST   161,BARVOSA E,B,1
+S19,Undergraduate,FEMST   162,TYBURCZY J L,A+,15
+S19,Undergraduate,FEMST   162,TYBURCZY J L,A,6
+S19,Undergraduate,FEMST   162,TYBURCZY J L,A-,1
+S19,Undergraduate,FEMST   162,TYBURCZY J L,B+,1
+S19,Undergraduate,FEMST   162,TYBURCZY J L,B,3
+S19,Undergraduate,FEMST   162,TYBURCZY J L,C,1
+S19,Undergraduate,FEMST   162,TYBURCZY J L,D,1
+S19,Undergraduate,FEMST   162,TYBURCZY J L,F,1
+S19,Undergraduate,FEMST   181,BARVOSA E,A+,2
+S19,Undergraduate,FEMST   181,BARVOSA E,A,16
+S19,Undergraduate,FEMST   181,BARVOSA E,A-,7
+S19,Undergraduate,FEMST   181,BARVOSA E,B+,3
+S19,Undergraduate,FEMST   181,BARVOSA E,F,1
+S19,Undergraduate,FEMST   182,TYBURCZY J L,A+,11
+S19,Undergraduate,FEMST   182,TYBURCZY J L,A,13
+S19,Undergraduate,FEMST   182,TYBURCZY J L,A-,1
+S19,Undergraduate,FEMST   182,TYBURCZY J L,B+,2
+S19,Undergraduate,FEMST   182,TYBURCZY J L,B,1
+S19,Undergraduate,FEMST   182,TYBURCZY J L,F,1
+S19,Undergraduate,FEMST   185BD,JONES C E,A+,2
+S19,Undergraduate,FEMST   185BD,JONES C E,A,18
+S19,Undergraduate,FEMST   185BD,JONES C E,A-,2
+S19,Undergraduate,FEMST   185BD,JONES C E,B+,1
+S19,Undergraduate,FEMST   185BD,JONES C E,B,1
+S19,Undergraduate,FEMST   185BD,JONES C E,D+,1
+S19,Undergraduate,FEMST   185BD,JONES C E,F,1
+S19,Undergraduate,FEMST   186AI,STAHL A,A+,7
+S19,Undergraduate,FEMST   186AI,STAHL A,A,12
+S19,Undergraduate,FEMST   186AI,STAHL A,A-,4
+S19,Undergraduate,FEMST   186AI,STAHL A,B+,2
+S19,Undergraduate,FEMST   186AI,STAHL A,B,3
+S19,Undergraduate,FEMST   186AI,STAHL A,B-,1
+S19,Undergraduate,FEMST   186AI,STAHL A,C+,1
+S19,Undergraduate,FEMST   195HC,OAKS L M,A+,5
+S19,Undergraduate,FEMST   195HC,OAKS L M,F,1
+S19,Undergraduate,FEMST   199,CHANG G,A,1
+S19,Undergraduate,FEMST   199,MILLER-YOUNG,A,1
+S19,Undergraduate,FEMST   199,OAKS L M,A+,3
+S19,Undergraduate,FEMST   199,OAKS L M,A,1
+S19,Undergraduate,FEMST   199,RUPP L J,A,1
+S19,Undergraduate,FEMST   199,TYBURCZY J L,A,1
+S19,Undergraduate,FEMST   199RA,MILLER-YOUNG,P,2
+S19,Graduate,FEMST   210,BORIS E C,A,11
+S19,Graduate,FEMST   280B,RUPP L J,A,8
+S19,Graduate,FEMST   501,CHANG G,S,1
+S19,Graduate,FEMST   501,MILLER-YOUNG,S,5
+S19,Graduate,FEMST   596,BORIS E C,A,1
+S19,Graduate,FEMST   596,CHANG G,A+,1
+S19,Graduate,FEMST   596,RUPP L J,A,1
+S19,Graduate,FEMST   597,RUPP L J,S,1
+S19,Graduate,FEMST   597,TYBURCZY J L,S,1
+S19,Graduate,FEMST   598,MILLER-YOUNG,S,2
+S19,Graduate,FEMST   599,BORIS E C,S,1
+S19,Graduate,FEMST   599,MILLER-YOUNG,S,1
+S19,Graduate,FEMST   599,OAKS L M,S,3
+S19,Graduate,FEMST   599,RUPP L J,S,1

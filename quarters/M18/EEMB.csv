@@ -1,0 +1,123 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,EEMB      2,EVEN T J,A+,2
+M18,Undergraduate,EEMB      2,EVEN T J,A,34
+M18,Undergraduate,EEMB      2,EVEN T J,A-,5
+M18,Undergraduate,EEMB      2,EVEN T J,B+,7
+M18,Undergraduate,EEMB      2,EVEN T J,B,86
+M18,Undergraduate,EEMB      2,EVEN T J,B-,13
+M18,Undergraduate,EEMB      2,EVEN T J,C+,7
+M18,Undergraduate,EEMB      2,EVEN T J,C,78
+M18,Undergraduate,EEMB      2,EVEN T J,D+,2
+M18,Undergraduate,EEMB      2,EVEN T J,D,23
+M18,Undergraduate,EEMB      2,EVEN T J,D-,2
+M18,Undergraduate,EEMB      2,EVEN T J,F,19
+M18,Undergraduate,EEMB      2L,NGUYEN A T,A+,3
+M18,Undergraduate,EEMB      2L,NGUYEN A T,A,4
+M18,Undergraduate,EEMB      2L,NGUYEN A T,A-,6
+M18,Undergraduate,EEMB      2L,NGUYEN A T,B+,4
+M18,Undergraduate,EEMB      2L,NGUYEN A T,B,8
+M18,Undergraduate,EEMB      2L,NGUYEN A T,B-,3
+M18,Undergraduate,EEMB      2L,NGUYEN A T,C,1
+M18,Undergraduate,EEMB      2L,NGUYEN A T,F,1
+M18,Undergraduate,EEMB      4FS,FENTRESS M K,P,60
+M18,Undergraduate,EEMB     40,LATTO J G,A+,3
+M18,Undergraduate,EEMB     40,LATTO J G,A,5
+M18,Undergraduate,EEMB     40,LATTO J G,A-,6
+M18,Undergraduate,EEMB     40,LATTO J G,B+,5
+M18,Undergraduate,EEMB     40,LATTO J G,B,6
+M18,Undergraduate,EEMB     40,LATTO J G,B-,6
+M18,Undergraduate,EEMB     40,LATTO J G,C+,3
+M18,Undergraduate,EEMB     40,LATTO J G,C,3
+M18,Undergraduate,EEMB     40,LATTO J G,C-,1
+M18,Undergraduate,EEMB     40,LATTO J G,D,1
+M18,Undergraduate,EEMB     40,LATTO J G,F,2
+M18,Undergraduate,EEMB    102,CANNON J T,A+,1
+M18,Undergraduate,EEMB    102,CANNON J T,A,17
+M18,Undergraduate,EEMB    102,CANNON J T,A-,10
+M18,Undergraduate,EEMB    102,CANNON J T,B+,3
+M18,Undergraduate,EEMB    102,CANNON J T,B,5
+M18,Undergraduate,EEMB    102,CANNON J T,B-,3
+M18,Undergraduate,EEMB    102,CANNON J T,C+,1
+M18,Undergraduate,EEMB    102,CANNON J T,C,3
+M18,Undergraduate,EEMB    102,CANNON J T,C-,2
+M18,Undergraduate,EEMB    118,LAMBERT A M,A+,10
+M18,Undergraduate,EEMB    118,LAMBERT A M,A,2
+M18,Undergraduate,EEMB    118,LAMBERT A M,B,1
+M18,Undergraduate,EEMB    118,LAMBERT A M,D+,1
+M18,Undergraduate,EEMB    118,LAMBERT A M,F,1
+M18,Undergraduate,EEMB    118,SELTMANN K,A+,10
+M18,Undergraduate,EEMB    118,SELTMANN K,A,2
+M18,Undergraduate,EEMB    118,SELTMANN K,B,1
+M18,Undergraduate,EEMB    118,SELTMANN K,D+,1
+M18,Undergraduate,EEMB    118,SELTMANN K,F,1
+M18,Undergraduate,EEMB    120,YOUNG H S,A+,3
+M18,Undergraduate,EEMB    120,YOUNG H S,A,7
+M18,Undergraduate,EEMB    120,YOUNG H S,A-,4
+M18,Undergraduate,EEMB    120,YOUNG H S,B+,9
+M18,Undergraduate,EEMB    120,YOUNG H S,B,3
+M18,Undergraduate,EEMB    120,YOUNG H S,B-,4
+M18,Undergraduate,EEMB    120,YOUNG H S,C+,6
+M18,Undergraduate,EEMB    120,YOUNG H S,C,4
+M18,Undergraduate,EEMB    120,YOUNG H S,C-,5
+M18,Undergraduate,EEMB    120,YOUNG H S,D+,1
+M18,Undergraduate,EEMB    120,YOUNG H S,D,2
+M18,Undergraduate,EEMB    120,YOUNG H S,D-,2
+M18,Undergraduate,EEMB    120,YOUNG H S,F,1
+M18,Undergraduate,EEMB    127,PEACH K,A+,4
+M18,Undergraduate,EEMB    127,PEACH K,A,8
+M18,Undergraduate,EEMB    127,PEACH K,A-,12
+M18,Undergraduate,EEMB    127,PEACH K,B+,8
+M18,Undergraduate,EEMB    127,PEACH K,B,6
+M18,Undergraduate,EEMB    127,PEACH K,B-,1
+M18,Undergraduate,EEMB    127,PEACH K,C+,1
+M18,Undergraduate,EEMB    127,PEACH K,C,2
+M18,Undergraduate,EEMB    127,PEACH K,D,1
+M18,Undergraduate,EEMB    127L,ROSSINGTON N,A,1
+M18,Undergraduate,EEMB    127L,ROSSINGTON N,A-,2
+M18,Undergraduate,EEMB    127L,ROSSINGTON N,B,3
+M18,Undergraduate,EEMB    127L,ROSSINGTON N,B-,1
+M18,Undergraduate,EEMB    127L,ROSSINGTON N,C,1
+M18,Undergraduate,EEMB    146,BARTKO L,A+,1
+M18,Undergraduate,EEMB    146,BARTKO L,A,3
+M18,Undergraduate,EEMB    146,BARTKO L,A-,3
+M18,Undergraduate,EEMB    146,BARTKO L,B+,1
+M18,Undergraduate,EEMB    146,BARTKO L,B,8
+M18,Undergraduate,EEMB    146,BARTKO L,C+,3
+M18,Undergraduate,EEMB    146,BARTKO L,C,1
+M18,Undergraduate,EEMB    146,BARTKO L,C-,2
+M18,Undergraduate,EEMB    146,BARTKO L,F,3
+M18,Undergraduate,EEMB    156,COLLINS P M,A+,1
+M18,Undergraduate,EEMB    156,COLLINS P M,A,4
+M18,Undergraduate,EEMB    156,COLLINS P M,A-,5
+M18,Undergraduate,EEMB    156,COLLINS P M,B+,9
+M18,Undergraduate,EEMB    156,COLLINS P M,B,4
+M18,Undergraduate,EEMB    156,COLLINS P M,C+,10
+M18,Undergraduate,EEMB    156,COLLINS P M,C,5
+M18,Undergraduate,EEMB    156,COLLINS P M,C-,3
+M18,Undergraduate,EEMB    156,COLLINS P M,D,2
+M18,Undergraduate,EEMB    156,COLLINS P M,F,1
+M18,Undergraduate,EEMB    159,EVEN T J,A+,1
+M18,Undergraduate,EEMB    159,EVEN T J,A,17
+M18,Undergraduate,EEMB    159,EVEN T J,A-,1
+M18,Undergraduate,EEMB    159,EVEN T J,B,13
+M18,Undergraduate,EEMB    159,EVEN T J,B-,2
+M18,Undergraduate,EEMB    159,EVEN T J,C+,2
+M18,Undergraduate,EEMB    159,EVEN T J,C,7
+M18,Undergraduate,EEMB    159,EVEN T J,D+,1
+M18,Undergraduate,EEMB    159,EVEN T J,F,1
+M18,Undergraduate,EEMB    170,MILLER R J,A,3
+M18,Undergraduate,EEMB    170,MILLER R J,A-,2
+M18,Undergraduate,EEMB    170,MILLER R J,B+,2
+M18,Undergraduate,EEMB    170,MILLER R J,B,5
+M18,Undergraduate,EEMB    170,MILLER R J,B-,2
+M18,Undergraduate,EEMB    170,MILLER R J,C+,3
+M18,Undergraduate,EEMB    170,MILLER R J,C,2
+M18,Undergraduate,EEMB    170,MILLER R J,D,1
+M18,Undergraduate,EEMB    170,PAGE H M,A,3
+M18,Undergraduate,EEMB    170,PAGE H M,A-,2
+M18,Undergraduate,EEMB    170,PAGE H M,B+,2
+M18,Undergraduate,EEMB    170,PAGE H M,B,5
+M18,Undergraduate,EEMB    170,PAGE H M,B-,2
+M18,Undergraduate,EEMB    170,PAGE H M,C+,3
+M18,Undergraduate,EEMB    170,PAGE H M,C,2
+M18,Undergraduate,EEMB    170,PAGE H M,D,1

@@ -1,0 +1,75 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,FEMST    20,BUDESA J M,A+,9
+F16,Undergraduate,FEMST    20,BUDESA J M,A,74
+F16,Undergraduate,FEMST    20,BUDESA J M,A-,46
+F16,Undergraduate,FEMST    20,BUDESA J M,B+,35
+F16,Undergraduate,FEMST    20,BUDESA J M,B,32
+F16,Undergraduate,FEMST    20,BUDESA J M,B-,6
+F16,Undergraduate,FEMST    20,BUDESA J M,C+,7
+F16,Undergraduate,FEMST    20,BUDESA J M,C,3
+F16,Undergraduate,FEMST    20,BUDESA J M,C-,3
+F16,Undergraduate,FEMST    20,BUDESA J M,D+,3
+F16,Undergraduate,FEMST    20,BUDESA J M,D,2
+F16,Undergraduate,FEMST    20,BUDESA J M,F,6
+F16,Undergraduate,FEMST    40,BOBO J,A,45
+F16,Undergraduate,FEMST    40,BOBO J,A-,46
+F16,Undergraduate,FEMST    40,BOBO J,B+,41
+F16,Undergraduate,FEMST    40,BOBO J,B,52
+F16,Undergraduate,FEMST    40,BOBO J,B-,16
+F16,Undergraduate,FEMST    40,BOBO J,C+,9
+F16,Undergraduate,FEMST    40,BOBO J,C,8
+F16,Undergraduate,FEMST    40,BOBO J,C-,3
+F16,Undergraduate,FEMST    40,BOBO J,D+,2
+F16,Undergraduate,FEMST    40,BOBO J,D-,1
+F16,Undergraduate,FEMST    40,BOBO J,F,3
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,A+,18
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,A,78
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,A-,35
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,B+,25
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,B,12
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,B-,4
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,C+,1
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,C,1
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,C-,2
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,D,1
+F16,Undergraduate,FEMST    60,MILLER-YOUNG,F,2
+F16,Undergraduate,FEMST   120,SMEMO K O,A,21
+F16,Undergraduate,FEMST   120,SMEMO K O,A-,14
+F16,Undergraduate,FEMST   120,SMEMO K O,B+,6
+F16,Undergraduate,FEMST   120,SMEMO K O,B,4
+F16,Undergraduate,FEMST   120,SMEMO K O,B-,1
+F16,Undergraduate,FEMST   120,SMEMO K O,C+,3
+F16,Undergraduate,FEMST   120,SMEMO K O,C,1
+F16,Undergraduate,FEMST   120,SMEMO K O,F,4
+F16,Undergraduate,FEMST   159B,CASE S H,B,3
+F16,Undergraduate,FEMST   159B,CASE S H,B-,2
+F16,Undergraduate,FEMST   159B,CASE S H,C+,4
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,A,7
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,A-,6
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,B+,5
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,B,3
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,C+,1
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,C,1
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,C-,1
+F16,Undergraduate,FEMST   180,DIAMOND-LENOW,F,1
+F16,Undergraduate,FEMST   182,BUDESA J M,A+,2
+F16,Undergraduate,FEMST   182,BUDESA J M,A,5
+F16,Undergraduate,FEMST   182,BUDESA J M,A-,2
+F16,Undergraduate,FEMST   182,BUDESA J M,B+,1
+F16,Undergraduate,FEMST   182,BUDESA J M,B,2
+F16,Undergraduate,FEMST   182,BUDESA J M,B-,2
+F16,Undergraduate,FEMST   182,BUDESA J M,C+,1
+F16,Undergraduate,FEMST   185BA,RYS R A,A+,2
+F16,Undergraduate,FEMST   185BA,RYS R A,A,5
+F16,Undergraduate,FEMST   185BA,RYS R A,A-,5
+F16,Undergraduate,FEMST   185BA,RYS R A,B+,1
+F16,Undergraduate,FEMST   185BA,RYS R A,D,1
+F16,Undergraduate,FEMST   185BA,RYS R A,F,1
+F16,Undergraduate,FEMST   186AC,ARROWSMITH A,A+,3
+F16,Undergraduate,FEMST   186AC,ARROWSMITH A,A-,6
+F16,Undergraduate,FEMST   186AC,ARROWSMITH A,B+,7
+F16,Undergraduate,FEMST   186AC,ARROWSMITH A,B-,2
+F16,Graduate,FEMST   215,BARVOSA E,A,6
+F16,Graduate,FEMST   270,BORIS E C,A,7
+F16,Graduate,FEMST   270,BORIS E C,A-,5
+F16,Graduate,FEMST   595,MILLER-YOUNG,S,10

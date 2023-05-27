@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W18,Undergraduate,AS AM     1,PARK L S,A+,21
+W18,Undergraduate,AS AM     1,PARK L S,A,39
+W18,Undergraduate,AS AM     1,PARK L S,A-,23
+W18,Undergraduate,AS AM     1,PARK L S,B+,26
+W18,Undergraduate,AS AM     1,PARK L S,B,32
+W18,Undergraduate,AS AM     1,PARK L S,B-,19
+W18,Undergraduate,AS AM     1,PARK L S,C+,9
+W18,Undergraduate,AS AM     1,PARK L S,C,15
+W18,Undergraduate,AS AM     1,PARK L S,C-,4
+W18,Undergraduate,AS AM     1,PARK L S,D+,2
+W18,Undergraduate,AS AM     1,PARK L S,D,2
+W18,Undergraduate,AS AM     1,PARK L S,F,6
+W18,Undergraduate,AS AM     4,PANDYA S P,A+,2
+W18,Undergraduate,AS AM     4,PANDYA S P,A,10
+W18,Undergraduate,AS AM     4,PANDYA S P,A-,40
+W18,Undergraduate,AS AM     4,PANDYA S P,B+,42
+W18,Undergraduate,AS AM     4,PANDYA S P,B,60
+W18,Undergraduate,AS AM     4,PANDYA S P,B-,14
+W18,Undergraduate,AS AM     4,PANDYA S P,C+,17
+W18,Undergraduate,AS AM     4,PANDYA S P,C,11
+W18,Undergraduate,AS AM     4,PANDYA S P,C-,1
+W18,Undergraduate,AS AM     4,PANDYA S P,D,1
+W18,Undergraduate,AS AM     4,PANDYA S P,D-,1
+W18,Undergraduate,AS AM     4,PANDYA S P,F,3
+W18,Undergraduate,AS AM     5,NINH E K,A+,3
+W18,Undergraduate,AS AM     5,NINH E K,A,7
+W18,Undergraduate,AS AM     5,NINH E K,A-,28
+W18,Undergraduate,AS AM     5,NINH E K,B+,37
+W18,Undergraduate,AS AM     5,NINH E K,B,28
+W18,Undergraduate,AS AM     5,NINH E K,B-,22
+W18,Undergraduate,AS AM     5,NINH E K,C+,17
+W18,Undergraduate,AS AM     5,NINH E K,C,5
+W18,Undergraduate,AS AM     5,NINH E K,C-,4
+W18,Undergraduate,AS AM     5,NINH E K,D+,2
+W18,Undergraduate,AS AM     5,NINH E K,D-,1
+W18,Undergraduate,AS AM     5,NINH E K,F,5
+W18,Undergraduate,AS AM     9,FUJINO D C,A+,1
+W18,Undergraduate,AS AM     9,FUJINO D C,A,18
+W18,Undergraduate,AS AM     9,FUJINO D C,A-,49
+W18,Undergraduate,AS AM     9,FUJINO D C,B+,43
+W18,Undergraduate,AS AM     9,FUJINO D C,B,56
+W18,Undergraduate,AS AM     9,FUJINO D C,B-,16
+W18,Undergraduate,AS AM     9,FUJINO D C,C+,2
+W18,Undergraduate,AS AM     9,FUJINO D C,C,11
+W18,Undergraduate,AS AM     9,FUJINO D C,D,1
+W18,Undergraduate,AS AM     9,FUJINO D C,F,3
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,A,2
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,A-,2
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,B+,1
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,B,16
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,B-,5
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,C+,7
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,C,4
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,C-,1
+W18,Undergraduate,AS AM   100CC,ZULUETA B C,D+,2
+W18,Undergraduate,AS AM   100DD,PARK J S W,A,3
+W18,Undergraduate,AS AM   100DD,PARK J S W,A-,5
+W18,Undergraduate,AS AM   100DD,PARK J S W,B+,2
+W18,Undergraduate,AS AM   100DD,PARK J S W,B,5
+W18,Undergraduate,AS AM   100DD,PARK J S W,C+,9
+W18,Undergraduate,AS AM   100DD,PARK J S W,C,6
+W18,Undergraduate,AS AM   100DD,PARK J S W,C-,1
+W18,Undergraduate,AS AM   122,NINH E K,A+,1
+W18,Undergraduate,AS AM   122,NINH E K,A,5
+W18,Undergraduate,AS AM   122,NINH E K,A-,8
+W18,Undergraduate,AS AM   122,NINH E K,B+,9
+W18,Undergraduate,AS AM   122,NINH E K,B,5
+W18,Undergraduate,AS AM   122,NINH E K,B-,8
+W18,Undergraduate,AS AM   122,NINH E K,C+,4
+W18,Undergraduate,AS AM   122,NINH E K,C,1
+W18,Undergraduate,AS AM   122,NINH E K,C-,2
+W18,Undergraduate,AS AM   122,NINH E K,F,1
+W18,Undergraduate,AS AM   137,ZULUETA B C,A,8
+W18,Undergraduate,AS AM   137,ZULUETA B C,A-,14
+W18,Undergraduate,AS AM   137,ZULUETA B C,B+,9
+W18,Undergraduate,AS AM   137,ZULUETA B C,B,12
+W18,Undergraduate,AS AM   137,ZULUETA B C,B-,4
+W18,Undergraduate,AS AM   137,ZULUETA B C,C+,1
+W18,Undergraduate,AS AM   137,ZULUETA B C,C,2
+W18,Undergraduate,AS AM   137,ZULUETA B C,D+,1
+W18,Undergraduate,AS AM   137,ZULUETA B C,F,2
+W18,Undergraduate,AS AM   141,PANDYA S P,A,6
+W18,Undergraduate,AS AM   141,PANDYA S P,A-,11
+W18,Undergraduate,AS AM   141,PANDYA S P,C,2
+W18,Undergraduate,AS AM   141,PANDYA S P,F,1
+W18,Undergraduate,AS AM   156,PARK J S W,A,4
+W18,Undergraduate,AS AM   156,PARK J S W,A-,6
+W18,Undergraduate,AS AM   156,PARK J S W,B+,7
+W18,Undergraduate,AS AM   156,PARK J S W,B,6
+W18,Undergraduate,AS AM   156,PARK J S W,B-,12
+W18,Undergraduate,AS AM   156,PARK J S W,C,2
+W18,Undergraduate,AS AM   161,BUSTO R V,A,15
+W18,Undergraduate,AS AM   161,BUSTO R V,A-,6
+W18,Undergraduate,AS AM   161,BUSTO R V,B+,5
+W18,Undergraduate,AS AM   161,BUSTO R V,B,1
+W18,Undergraduate,AS AM   161,BUSTO R V,B-,1
+W18,Undergraduate,AS AM   161,BUSTO R V,C,1
+W18,Undergraduate,AS AM   163,GOMEZ J D,A+,1
+W18,Undergraduate,AS AM   163,GOMEZ J D,A,10
+W18,Undergraduate,AS AM   163,GOMEZ J D,A-,6
+W18,Undergraduate,AS AM   163,GOMEZ J D,B+,3
+W18,Undergraduate,AS AM   163,GOMEZ J D,B,1

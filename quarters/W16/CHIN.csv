@@ -1,0 +1,91 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,CHIN      2,HSU C-C,A,14
+W16,Undergraduate,CHIN      2,HSU C-C,A-,14
+W16,Undergraduate,CHIN      2,HSU C-C,B+,6
+W16,Undergraduate,CHIN      2,HSU C-C,B,5
+W16,Undergraduate,CHIN      2,HSU C-C,B-,5
+W16,Undergraduate,CHIN      2,HSU C-C,C+,1
+W16,Undergraduate,CHIN      2,HSU C-C,C,1
+W16,Undergraduate,CHIN      2,XIAO X,A+,5
+W16,Undergraduate,CHIN      2,XIAO X,A,4
+W16,Undergraduate,CHIN      2,XIAO X,A-,9
+W16,Undergraduate,CHIN      2,XIAO X,B+,2
+W16,Undergraduate,CHIN      2,XIAO X,B,2
+W16,Undergraduate,CHIN      2,XIAO X,B-,3
+W16,Undergraduate,CHIN      2,XIAO X,C,2
+W16,Undergraduate,CHIN      2NH,CHEN S C,A,18
+W16,Undergraduate,CHIN      2NH,CHEN S C,A-,7
+W16,Undergraduate,CHIN      2NH,CHEN S C,B+,6
+W16,Undergraduate,CHIN      2NH,CHEN S C,B,5
+W16,Undergraduate,CHIN      2NH,CHEN S C,B-,2
+W16,Undergraduate,CHIN      2NH,CHEN S C,C+,2
+W16,Undergraduate,CHIN      2NH,CHEN S C,F,1
+W16,Undergraduate,CHIN      5,GUAN D,A+,3
+W16,Undergraduate,CHIN      5,GUAN D,A,14
+W16,Undergraduate,CHIN      5,GUAN D,A-,7
+W16,Undergraduate,CHIN      5,GUAN D,B+,3
+W16,Undergraduate,CHIN      5,GUAN D,B,3
+W16,Undergraduate,CHIN      5,GUAN D,B-,1
+W16,Undergraduate,CHIN      5,GUAN D,C+,1
+W16,Undergraduate,CHIN      5NH,GUAN D,A+,3
+W16,Undergraduate,CHIN      5NH,GUAN D,A,8
+W16,Undergraduate,CHIN      5NH,GUAN D,A-,3
+W16,Undergraduate,CHIN      5NH,GUAN D,B+,4
+W16,Undergraduate,CHIN      5NH,GUAN D,B,3
+W16,Undergraduate,CHIN      8A,XIAO X,A+,5
+W16,Undergraduate,CHIN      8A,XIAO X,A,6
+W16,Undergraduate,CHIN      8A,XIAO X,C+,1
+W16,Undergraduate,CHIN      8A,XIAO X,F,1
+W16,Undergraduate,CHIN     26,YU H-J,A+,3
+W16,Undergraduate,CHIN     26,YU H-J,A,23
+W16,Undergraduate,CHIN     26,YU H-J,A-,28
+W16,Undergraduate,CHIN     26,YU H-J,B+,14
+W16,Undergraduate,CHIN     26,YU H-J,B,9
+W16,Undergraduate,CHIN     26,YU H-J,B-,6
+W16,Undergraduate,CHIN     26,YU H-J,C+,3
+W16,Undergraduate,CHIN     26,YU H-J,C,1
+W16,Undergraduate,CHIN     26,YU H-J,D,1
+W16,Undergraduate,CHIN    101A,STEAVU-BALINT,A+,2
+W16,Undergraduate,CHIN    101A,STEAVU-BALINT,A,18
+W16,Undergraduate,CHIN    101A,STEAVU-BALINT,A-,7
+W16,Undergraduate,CHIN    101A,STEAVU-BALINT,B+,1
+W16,Undergraduate,CHIN    122B,CHEN S C,A+,1
+W16,Undergraduate,CHIN    122B,CHEN S C,A,5
+W16,Undergraduate,CHIN    122B,CHEN S C,A-,1
+W16,Undergraduate,CHIN    122B,CHEN S C,B+,1
+W16,Undergraduate,CHIN    122B,CHEN S C,B,2
+W16,Undergraduate,CHIN    122B,CHEN S C,B-,1
+W16,Undergraduate,CHIN    122B,CHEN S C,C-,2
+W16,Undergraduate,CHIN    122B,CHEN S C,F,1
+W16,Undergraduate,CHIN    127B,LI X,A,6
+W16,Undergraduate,CHIN    133,TU K-C,A,5
+W16,Undergraduate,CHIN    133,TU K-C,A-,8
+W16,Undergraduate,CHIN    133,TU K-C,B+,10
+W16,Undergraduate,CHIN    133,TU K-C,B,6
+W16,Undergraduate,CHIN    133,TU K-C,B-,8
+W16,Undergraduate,CHIN    133,TU K-C,C+,6
+W16,Undergraduate,CHIN    133,TU K-C,C,8
+W16,Undergraduate,CHIN    138B,TU K-C,A,9
+W16,Undergraduate,CHIN    138B,TU K-C,A-,6
+W16,Undergraduate,CHIN    138B,TU K-C,B+,6
+W16,Undergraduate,CHIN    138B,TU K-C,B,11
+W16,Undergraduate,CHIN    138B,TU K-C,B-,6
+W16,Undergraduate,CHIN    138B,TU K-C,C+,1
+W16,Undergraduate,CHIN    138B,TU K-C,C,11
+W16,Undergraduate,CHIN    150,YU H-J,A+,1
+W16,Undergraduate,CHIN    150,YU H-J,A,9
+W16,Undergraduate,CHIN    150,YU H-J,A-,5
+W16,Undergraduate,CHIN    150,YU H-J,B+,5
+W16,Undergraduate,CHIN    150,YU H-J,B,5
+W16,Undergraduate,CHIN    150,YU H-J,B-,1
+W16,Undergraduate,CHIN    150,YU H-J,C,1
+W16,Undergraduate,CHIN    150,YU H-J,F,1
+W16,Undergraduate,CHIN    185B,ZHENG X,A,2
+W16,Undergraduate,CHIN    185B,ZHENG X,A-,5
+W16,Undergraduate,CHIN    185B,ZHENG X,B+,5
+W16,Undergraduate,CHIN    185B,ZHENG X,B,1
+W16,Undergraduate,CHIN    185B,ZHENG X,B-,1
+W16,Undergraduate,CHIN    185B,ZHENG X,C+,3
+W16,Undergraduate,CHIN    185B,ZHENG X,C,2
+W16,Graduate,CHIN    241,YANG M,A,6
+W16,Graduate,CHIN    241,YANG M,A-,1

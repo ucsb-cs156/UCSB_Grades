@@ -1,0 +1,122 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,A+,1
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,A,8
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,A-,6
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,B+,10
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,B,6
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,C+,3
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,C,2
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,C-,1
+M18,Undergraduate,ANTH      3SS,FRIBERG C M,F,1
+M18,Undergraduate,FR        1,DESGENS-MARTI,A,1
+M18,Undergraduate,FR        1,DESGENS-MARTI,A-,1
+M18,Undergraduate,FR        1,DESGENS-MARTI,B+,2
+M18,Undergraduate,FR        1,DESGENS-MARTI,B,5
+M18,Undergraduate,FR        1,DESGENS-MARTI,B-,2
+M18,Undergraduate,FR        1,DESGENS-MARTI,C,1
+M18,Undergraduate,FR        2,TYBJERG D M,A,1
+M18,Undergraduate,FR        2,TYBJERG D M,A-,1
+M18,Undergraduate,FR        2,TYBJERG D M,B+,1
+M18,Undergraduate,FR        2,TYBJERG D M,B,2
+M18,Undergraduate,FR        2,TYBJERG D M,B-,2
+M18,Undergraduate,FR        2,TYBJERG D M,C+,1
+M18,Undergraduate,FR        2,TYBJERG D M,C,2
+M18,Undergraduate,FR        3,TUDISCO J J,A+,1
+M18,Undergraduate,FR        3,TUDISCO J J,A,4
+M18,Undergraduate,FR        3,TUDISCO J J,A-,2
+M18,Undergraduate,FR        3,TUDISCO J J,B-,2
+M18,Undergraduate,FR        3,TUDISCO J J,C+,1
+M18,Undergraduate,FR        3,TUDISCO J J,C,2
+M18,Undergraduate,FR        3,TUDISCO J J,F,1
+M18,Undergraduate,FR      153D,RALEIGH T C,A,9
+M18,Undergraduate,FR      153D,RALEIGH T C,B,2
+M18,Undergraduate,FR      153D,RALEIGH T C,B-,1
+M18,Undergraduate,FR      153D,RALEIGH T C,C+,2
+M18,Undergraduate,FR      154F,NESCI C,A+,3
+M18,Undergraduate,FR      154F,NESCI C,A,9
+M18,Undergraduate,FR      154F,NESCI C,A-,4
+M18,Undergraduate,FR      154F,NESCI C,B+,3
+M18,Undergraduate,FR      154F,NESCI C,B,2
+M18,Undergraduate,FR      154F,NESCI C,B-,2
+M18,Undergraduate,FR      154F,NESCI C,F,2
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,A+,15
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,A,15
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,A-,16
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,B+,4
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,B,11
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,B-,8
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,C+,4
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,C,5
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,C-,4
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,D,5
+M18,Undergraduate,JAPAN   165,FRUHSTUCK S,F,1
+M18,Undergraduate,MATH      6A,FROST G A,A+,7
+M18,Undergraduate,MATH      6A,FROST G A,A,46
+M18,Undergraduate,MATH      6A,FROST G A,B,27
+M18,Undergraduate,MATH      6A,FROST G A,C,3
+M18,Undergraduate,MATH      6A,FROST G A,F,2
+M18,Undergraduate,MATH      6B,FROST G A,A+,7
+M18,Undergraduate,MATH      6B,FROST G A,A,10
+M18,Undergraduate,MATH      6B,FROST G A,B,2
+M18,Undergraduate,MATH      6B,FROST G A,C,2
+M18,Undergraduate,MATH      6B,FROST G A,D,1
+M18,Undergraduate,PHYS      6A,FREUND E G,A,23
+M18,Undergraduate,PHYS      6A,FREUND E G,A-,27
+M18,Undergraduate,PHYS      6A,FREUND E G,B+,21
+M18,Undergraduate,PHYS      6A,FREUND E G,B,27
+M18,Undergraduate,PHYS      6A,FREUND E G,B-,22
+M18,Undergraduate,PHYS      6A,FREUND E G,C+,26
+M18,Undergraduate,PHYS      6A,FREUND E G,C,25
+M18,Undergraduate,PHYS      6A,FREUND E G,C-,23
+M18,Undergraduate,PHYS      6A,FREUND E G,D+,9
+M18,Undergraduate,PHYS      6A,FREUND E G,D,6
+M18,Undergraduate,PHYS      6A,FREUND E G,D-,5
+M18,Undergraduate,PHYS      6A,FREUND E G,F,3
+M18,Undergraduate,PHYS      6AL,FREUND E G,A+,24
+M18,Undergraduate,PHYS      6AL,FREUND E G,A,48
+M18,Undergraduate,PHYS      6AL,FREUND E G,A-,33
+M18,Undergraduate,PHYS      6AL,FREUND E G,B+,28
+M18,Undergraduate,PHYS      6AL,FREUND E G,B,41
+M18,Undergraduate,PHYS      6AL,FREUND E G,B-,13
+M18,Undergraduate,PHYS      6AL,FREUND E G,C,1
+M18,Undergraduate,PHYS      6AL,FREUND E G,F,1
+M18,Undergraduate,PHYS      6C,FREUND E G,A+,6
+M18,Undergraduate,PHYS      6C,FREUND E G,A,35
+M18,Undergraduate,PHYS      6C,FREUND E G,A-,20
+M18,Undergraduate,PHYS      6C,FREUND E G,B+,10
+M18,Undergraduate,PHYS      6C,FREUND E G,B,10
+M18,Undergraduate,PHYS      6C,FREUND E G,B-,17
+M18,Undergraduate,PHYS      6C,FREUND E G,C+,17
+M18,Undergraduate,PHYS      6C,FREUND E G,C,9
+M18,Undergraduate,PHYS      6C,FREUND E G,C-,3
+M18,Undergraduate,PHYS      6C,FREUND E G,D+,5
+M18,Undergraduate,PHYS      6C,FREUND E G,D,1
+M18,Undergraduate,PHYS      6C,FREUND E G,F,1
+M18,Undergraduate,PHYS      6CL,FREUND E G,A+,11
+M18,Undergraduate,PHYS      6CL,FREUND E G,A,29
+M18,Undergraduate,PHYS      6CL,FREUND E G,A-,24
+M18,Undergraduate,PHYS      6CL,FREUND E G,B+,24
+M18,Undergraduate,PHYS      6CL,FREUND E G,B,27
+M18,Undergraduate,PHYS      6CL,FREUND E G,B-,14
+M18,Undergraduate,PHYS      6CL,FREUND E G,F,2
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A+,3
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A,5
+M18,Undergraduate,RG ST     4,FREDRICKSON N,A-,2
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B+,1
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B,6
+M18,Undergraduate,RG ST     4,FREDRICKSON N,B-,1
+M18,Undergraduate,RG ST     4,FREDRICKSON N,D,1
+M18,Undergraduate,WRIT      2,FREDRICKSON N,A,6
+M18,Undergraduate,WRIT      2,FREDRICKSON N,A-,5
+M18,Undergraduate,WRIT      2,FREDRICKSON N,B+,4
+M18,Undergraduate,WRIT      2,FREDRICKSON N,B,1
+M18,Undergraduate,WRIT      2,FREDRICKSON N,B-,1
+M18,Undergraduate,WRIT      2,FREDRICKSON N,C+,1
+M18,Undergraduate,WRIT      2,FREDRICKSON N,C,1
+M18,Undergraduate,WRIT      2,FREDRICKSON N,F,2
+M18,Undergraduate,WRIT    109ST,FRANK D M,A+,9
+M18,Undergraduate,WRIT    109ST,FRANK D M,A,3
+M18,Undergraduate,WRIT    109ST,FRANK D M,B+,1
+M18,Undergraduate,WRIT    109ST,FRANK D M,B,1
+M18,Undergraduate,WRIT    109ST,FRANK D M,C,1
+M18,Undergraduate,WRIT    109ST,FRANK D M,C-,1

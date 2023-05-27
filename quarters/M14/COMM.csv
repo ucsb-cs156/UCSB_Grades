@@ -1,0 +1,177 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M14,Undergraduate,COMM      1,MULLIN D I,A+,1
+M14,Undergraduate,COMM      1,MULLIN D I,A,14
+M14,Undergraduate,COMM      1,MULLIN D I,A-,11
+M14,Undergraduate,COMM      1,MULLIN D I,B+,5
+M14,Undergraduate,COMM      1,MULLIN D I,B,9
+M14,Undergraduate,COMM      1,MULLIN D I,B-,8
+M14,Undergraduate,COMM      1,MULLIN D I,C+,5
+M14,Undergraduate,COMM      1,MULLIN D I,C,3
+M14,Undergraduate,COMM      1,MULLIN D I,C-,3
+M14,Undergraduate,COMM      1,MULLIN D I,D-,1
+M14,Undergraduate,COMM      1,MULLIN D I,F,4
+M14,Undergraduate,COMM     88,MULLIN D I,A,6
+M14,Undergraduate,COMM     88,MULLIN D I,A-,8
+M14,Undergraduate,COMM     88,MULLIN D I,B+,10
+M14,Undergraduate,COMM     88,MULLIN D I,B,9
+M14,Undergraduate,COMM     88,MULLIN D I,B-,7
+M14,Undergraduate,COMM     88,MULLIN D I,C+,6
+M14,Undergraduate,COMM     88,MULLIN D I,C,3
+M14,Undergraduate,COMM     88,MULLIN D I,C-,2
+M14,Undergraduate,COMM     88,MULLIN D I,D,1
+M14,Undergraduate,COMM     89,JANSMA L L,A,7
+M14,Undergraduate,COMM     89,JANSMA L L,A-,9
+M14,Undergraduate,COMM     89,JANSMA L L,B+,11
+M14,Undergraduate,COMM     89,JANSMA L L,B,8
+M14,Undergraduate,COMM     89,JANSMA L L,B-,4
+M14,Undergraduate,COMM     89,JANSMA L L,C+,3
+M14,Undergraduate,COMM     89,JANSMA L L,C,2
+M14,Undergraduate,COMM     89,JANSMA L L,C-,3
+M14,Undergraduate,COMM     89,JANSMA L L,D,1
+M14,Undergraduate,COMM     89,JANSMA L L,F,1
+M14,Undergraduate,COMM    103,MASTRO D E,A,6
+M14,Undergraduate,COMM    103,MASTRO D E,A-,9
+M14,Undergraduate,COMM    103,MASTRO D E,B+,3
+M14,Undergraduate,COMM    103,MASTRO D E,B,10
+M14,Undergraduate,COMM    103,MASTRO D E,B-,3
+M14,Undergraduate,COMM    103,MASTRO D E,C+,1
+M14,Undergraduate,COMM    103,MASTRO D E,C,2
+M14,Undergraduate,COMM    104,REID S A,A-,1
+M14,Undergraduate,COMM    104,REID S A,B+,2
+M14,Undergraduate,COMM    104,REID S A,B,2
+M14,Undergraduate,COMM    104,REID S A,B-,1
+M14,Undergraduate,COMM    104,REID S A,C+,1
+M14,Undergraduate,COMM    104,REID S A,C,2
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,A+,2
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,A,11
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,A-,1
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,B+,6
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,B,8
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,B-,2
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,C+,2
+M14,Undergraduate,COMM    107,DRAGOJEVIC M,C,3
+M14,Undergraduate,COMM    111,GANGI K E,A,4
+M14,Undergraduate,COMM    111,GANGI K E,A-,5
+M14,Undergraduate,COMM    111,GANGI K E,B+,2
+M14,Undergraduate,COMM    111,GANGI K E,B,4
+M14,Undergraduate,COMM    111,GANGI K E,B-,7
+M14,Undergraduate,COMM    111,GANGI K E,C+,3
+M14,Undergraduate,COMM    111,GANGI K E,C,1
+M14,Undergraduate,COMM    111,GANGI K E,C-,3
+M14,Undergraduate,COMM    113,MASTRO D E,A+,7
+M14,Undergraduate,COMM    113,MASTRO D E,A,6
+M14,Undergraduate,COMM    113,MASTRO D E,A-,6
+M14,Undergraduate,COMM    113,MASTRO D E,B,5
+M14,Undergraduate,COMM    113,MASTRO D E,B-,8
+M14,Undergraduate,COMM    113,MASTRO D E,C+,2
+M14,Undergraduate,COMM    113,MASTRO D E,C-,1
+M14,Undergraduate,COMM    113,MASTRO D E,D-,1
+M14,Undergraduate,COMM    114,MULLIN C R,A+,2
+M14,Undergraduate,COMM    114,MULLIN C R,A,6
+M14,Undergraduate,COMM    114,MULLIN C R,A-,1
+M14,Undergraduate,COMM    114,MULLIN C R,B+,5
+M14,Undergraduate,COMM    114,MULLIN C R,B,5
+M14,Undergraduate,COMM    114,MULLIN C R,B-,4
+M14,Undergraduate,COMM    114,MULLIN C R,C+,2
+M14,Undergraduate,COMM    114,MULLIN C R,C,3
+M14,Undergraduate,COMM    114,MULLIN C R,D,1
+M14,Undergraduate,COMM    114,MULLIN C R,D-,1
+M14,Undergraduate,COMM    114,MULLIN C R,F,3
+M14,Undergraduate,COMM    116,HARTSELL E H,A,13
+M14,Undergraduate,COMM    116,HARTSELL E H,A-,6
+M14,Undergraduate,COMM    116,HARTSELL E H,B+,6
+M14,Undergraduate,COMM    116,HARTSELL E H,B,2
+M14,Undergraduate,COMM    116,HARTSELL E H,C,2
+M14,Undergraduate,COMM    116,HARTSELL E H,D,1
+M14,Undergraduate,COMM    117,NABI R L,A,1
+M14,Undergraduate,COMM    117,NABI R L,A-,3
+M14,Undergraduate,COMM    117,NABI R L,B+,4
+M14,Undergraduate,COMM    117,NABI R L,B,6
+M14,Undergraduate,COMM    117,NABI R L,B-,2
+M14,Undergraduate,COMM    117,NABI R L,C+,6
+M14,Undergraduate,COMM    117,NABI R L,C,4
+M14,Undergraduate,COMM    117,NABI R L,C-,7
+M14,Undergraduate,COMM    117,NABI R L,D,1
+M14,Undergraduate,COMM    117,NABI R L,D-,1
+M14,Undergraduate,COMM    117,NABI R L,F,2
+M14,Undergraduate,COMM    123,REID S A,A,1
+M14,Undergraduate,COMM    123,REID S A,B+,4
+M14,Undergraduate,COMM    123,REID S A,B,8
+M14,Undergraduate,COMM    123,REID S A,B-,3
+M14,Undergraduate,COMM    123,REID S A,C+,2
+M14,Undergraduate,COMM    124,ALDEIS M D,A+,3
+M14,Undergraduate,COMM    124,ALDEIS M D,A,17
+M14,Undergraduate,COMM    124,ALDEIS M D,A-,10
+M14,Undergraduate,COMM    124,ALDEIS M D,B+,4
+M14,Undergraduate,COMM    124,ALDEIS M D,B,4
+M14,Undergraduate,COMM    124,ALDEIS M D,B-,6
+M14,Undergraduate,COMM    126,JANSMA L L,A,9
+M14,Undergraduate,COMM    126,JANSMA L L,A-,17
+M14,Undergraduate,COMM    126,JANSMA L L,B+,1
+M14,Undergraduate,COMM    126,JANSMA L L,B,2
+M14,Undergraduate,COMM    126,JANSMA L L,B-,1
+M14,Undergraduate,COMM    126,JANSMA L L,C+,2
+M14,Undergraduate,COMM    133,WEBER R,A,6
+M14,Undergraduate,COMM    133,WEBER R,A-,11
+M14,Undergraduate,COMM    133,WEBER R,B+,10
+M14,Undergraduate,COMM    133,WEBER R,B,10
+M14,Undergraduate,COMM    133,WEBER R,B-,4
+M14,Undergraduate,COMM    133,WEBER R,C+,2
+M14,Undergraduate,COMM    133,WEBER R,C,2
+M14,Undergraduate,COMM    133,WEBER R,D-,1
+M14,Undergraduate,COMM    134,HASELL A A,A,4
+M14,Undergraduate,COMM    134,HASELL A A,A-,10
+M14,Undergraduate,COMM    134,HASELL A A,B+,1
+M14,Undergraduate,COMM    134,HASELL A A,B,8
+M14,Undergraduate,COMM    134,HASELL A A,B-,4
+M14,Undergraduate,COMM    134,HASELL A A,C+,1
+M14,Undergraduate,COMM    134,HASELL A A,C,1
+M14,Undergraduate,COMM    134,HASELL A A,C-,1
+M14,Undergraduate,COMM    134,HASELL A A,F,1
+M14,Undergraduate,COMM    139,NABI R L,A+,1
+M14,Undergraduate,COMM    139,NABI R L,A,4
+M14,Undergraduate,COMM    139,NABI R L,A-,3
+M14,Undergraduate,COMM    139,NABI R L,B+,3
+M14,Undergraduate,COMM    139,NABI R L,B,4
+M14,Undergraduate,COMM    139,NABI R L,B-,2
+M14,Undergraduate,COMM    139,NABI R L,C+,2
+M14,Undergraduate,COMM    139,NABI R L,C,5
+M14,Undergraduate,COMM    139,NABI R L,D+,2
+M14,Undergraduate,COMM    139,NABI R L,D,1
+M14,Undergraduate,COMM    139,NABI R L,F,1
+M14,Undergraduate,COMM    145,MULLIN C R,A+,2
+M14,Undergraduate,COMM    145,MULLIN C R,A,4
+M14,Undergraduate,COMM    145,MULLIN C R,B+,7
+M14,Undergraduate,COMM    145,MULLIN C R,B,3
+M14,Undergraduate,COMM    145,MULLIN C R,B-,6
+M14,Undergraduate,COMM    145,MULLIN C R,C,4
+M14,Undergraduate,COMM    145,MULLIN C R,C-,2
+M14,Undergraduate,COMM    145,MULLIN C R,F,2
+M14,Undergraduate,COMM    151,ALDEIS M D,A+,6
+M14,Undergraduate,COMM    151,ALDEIS M D,A,5
+M14,Undergraduate,COMM    151,ALDEIS M D,A-,9
+M14,Undergraduate,COMM    151,ALDEIS M D,B+,1
+M14,Undergraduate,COMM    151,ALDEIS M D,B,8
+M14,Undergraduate,COMM    151,ALDEIS M D,B-,3
+M14,Undergraduate,COMM    151,ALDEIS M D,C+,2
+M14,Undergraduate,COMM    151,ALDEIS M D,C,1
+M14,Undergraduate,COMM    151,ALDEIS M D,D+,1
+M14,Undergraduate,COMM    154,WEBER R,A+,1
+M14,Undergraduate,COMM    154,WEBER R,A,4
+M14,Undergraduate,COMM    154,WEBER R,A-,7
+M14,Undergraduate,COMM    154,WEBER R,B+,5
+M14,Undergraduate,COMM    154,WEBER R,B,11
+M14,Undergraduate,COMM    154,WEBER R,B-,5
+M14,Undergraduate,COMM    154,WEBER R,C+,3
+M14,Undergraduate,COMM    154,WEBER R,C,3
+M14,Undergraduate,COMM    154,WEBER R,D+,1
+M14,Undergraduate,COMM    154,WEBER R,F,1
+M14,Undergraduate,COMM    170,LINZ D G,A+,4
+M14,Undergraduate,COMM    170,LINZ D G,A,4
+M14,Undergraduate,COMM    170,LINZ D G,A-,2
+M14,Undergraduate,COMM    170,LINZ D G,B+,2
+M14,Undergraduate,COMM    170,LINZ D G,B,3
+M14,Undergraduate,COMM    170,LINZ D G,B-,3
+M14,Undergraduate,COMM    170,LINZ D G,C+,1
+M14,Undergraduate,COMM    170,LINZ D G,C,1
+M14,Undergraduate,COMM    170,LINZ D G,F,3

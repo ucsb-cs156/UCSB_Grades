@@ -1,0 +1,177 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W20,Undergraduate,FR       11A,PHILLIPS M E,A,8
+W20,Undergraduate,FR       11A,PHILLIPS M E,A-,1
+W20,Undergraduate,FR       11A,PHILLIPS M E,A+,2
+W20,Undergraduate,FR      104E,PHILLIPS M E,A,16
+W20,Undergraduate,FR      104E,PHILLIPS M E,A-,4
+W20,Undergraduate,FR      104E,PHILLIPS M E,A+,1
+W20,Undergraduate,FR      104E,PHILLIPS M E,B,1
+W20,Undergraduate,FR      104E,PHILLIPS M E,B-,2
+W20,Undergraduate,FR      104E,PHILLIPS M E,B+,2
+W20,Undergraduate,FR      104E,PHILLIPS M E,F,1
+W20,Undergraduate,PHIL      1,MOKRISKI D A,A,26
+W20,Undergraduate,PHIL      1,MOKRISKI D A,A-,58
+W20,Undergraduate,PHIL      1,MOKRISKI D A,A+,2
+W20,Undergraduate,PHIL      1,MOKRISKI D A,B,59
+W20,Undergraduate,PHIL      1,MOKRISKI D A,B-,15
+W20,Undergraduate,PHIL      1,MOKRISKI D A,B+,49
+W20,Undergraduate,PHIL      1,MOKRISKI D A,C,1
+W20,Undergraduate,PHIL      1,MOKRISKI D A,C+,9
+W20,Undergraduate,PHIL      1,MOKRISKI D A,D+,1
+W20,Undergraduate,PHIL      1,MOKRISKI D A,F,5
+W20,Undergraduate,PHIL      3,BARRETT T W,A,179
+W20,Undergraduate,PHIL      3,BARRETT T W,A-,19
+W20,Undergraduate,PHIL      3,BARRETT T W,A+,109
+W20,Undergraduate,PHIL      3,BARRETT T W,B,21
+W20,Undergraduate,PHIL      3,BARRETT T W,B-,8
+W20,Undergraduate,PHIL      3,BARRETT T W,B+,8
+W20,Undergraduate,PHIL      3,BARRETT T W,C,7
+W20,Undergraduate,PHIL      3,BARRETT T W,C+,4
+W20,Undergraduate,PHIL      3,BARRETT T W,D-,1
+W20,Undergraduate,PHIL      4,BAGWELL J N,A,16
+W20,Undergraduate,PHIL      4,BAGWELL J N,A-,30
+W20,Undergraduate,PHIL      4,BAGWELL J N,B,38
+W20,Undergraduate,PHIL      4,BAGWELL J N,B-,21
+W20,Undergraduate,PHIL      4,BAGWELL J N,B+,21
+W20,Undergraduate,PHIL      4,BAGWELL J N,C,16
+W20,Undergraduate,PHIL      4,BAGWELL J N,C-,3
+W20,Undergraduate,PHIL      4,BAGWELL J N,C+,13
+W20,Undergraduate,PHIL      4,BAGWELL J N,D,1
+W20,Undergraduate,PHIL      4,BAGWELL J N,D+,1
+W20,Undergraduate,PHIL      4,BAGWELL J N,F,3
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,A,13
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,A-,17
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,A+,11
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,B,26
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,B-,12
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,B+,24
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,C,2
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,C-,1
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,C+,6
+W20,Undergraduate,PHIL     20B,ZYLSTRA S J,D+,2
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,A,6
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,A-,17
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,A+,2
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,B,15
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,B-,15
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,B+,13
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,C-,3
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,C+,11
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,D,1
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,D-,2
+W20,Undergraduate,PHIL    100A,FERNANDEZ P A,F,2
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,A,8
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,A-,13
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,B,26
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,B-,18
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,B+,14
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,C,15
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,C-,4
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,C+,6
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,D+,1
+W20,Undergraduate,PHIL    100D,ZIMMERMAN A Z,F,5
+W20,Undergraduate,PHIL    100E,FALVEY K T,A,4
+W20,Undergraduate,PHIL    100E,FALVEY K T,A-,4
+W20,Undergraduate,PHIL    100E,FALVEY K T,B,8
+W20,Undergraduate,PHIL    100E,FALVEY K T,B-,14
+W20,Undergraduate,PHIL    100E,FALVEY K T,B+,6
+W20,Undergraduate,PHIL    100E,FALVEY K T,C,3
+W20,Undergraduate,PHIL    100E,FALVEY K T,C-,1
+W20,Undergraduate,PHIL    100E,FALVEY K T,C+,6
+W20,Undergraduate,PHIL    100E,FALVEY K T,D,2
+W20,Undergraduate,PHIL    100E,FALVEY K T,D+,2
+W20,Undergraduate,PHIL    116,ROBERTSON T,A,2
+W20,Undergraduate,PHIL    116,ROBERTSON T,A-,4
+W20,Undergraduate,PHIL    116,ROBERTSON T,B,6
+W20,Undergraduate,PHIL    116,ROBERTSON T,B-,4
+W20,Undergraduate,PHIL    116,ROBERTSON T,B+,5
+W20,Undergraduate,PHIL    116,ROBERTSON T,C,6
+W20,Undergraduate,PHIL    116,ROBERTSON T,C+,1
+W20,Undergraduate,PHIL    116,ROBERTSON T,F,2
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,A,3
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,A-,4
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,A+,1
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,B,9
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,B-,1
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,B+,11
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,C,6
+W20,Undergraduate,PHIL    124C,HUMPHREY S F,C-,1
+W20,Undergraduate,PHIL    133,MCMAHON C A,A,7
+W20,Undergraduate,PHIL    133,MCMAHON C A,A-,4
+W20,Undergraduate,PHIL    133,MCMAHON C A,B,6
+W20,Undergraduate,PHIL    133,MCMAHON C A,B-,4
+W20,Undergraduate,PHIL    133,MCMAHON C A,B+,10
+W20,Undergraduate,PHIL    133,MCMAHON C A,C,1
+W20,Undergraduate,PHIL    133,MCMAHON C A,C+,3
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,A,7
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,A-,13
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,B,6
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,B-,1
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,B+,12
+W20,Undergraduate,PHIL    134,ZIMMERMAN A Z,F,1
+W20,Undergraduate,PHIL    139,MCMAHON C A,A,1
+W20,Undergraduate,PHIL    139,MCMAHON C A,A-,3
+W20,Undergraduate,PHIL    139,MCMAHON C A,B,5
+W20,Undergraduate,PHIL    139,MCMAHON C A,B-,8
+W20,Undergraduate,PHIL    139,MCMAHON C A,B+,14
+W20,Undergraduate,PHIL    139,MCMAHON C A,C-,1
+W20,Undergraduate,PHIL    139,MCMAHON C A,C+,3
+W20,Undergraduate,PHIL    139,MCMAHON C A,D+,1
+W20,Undergraduate,PHIL    145,JARRETT G C,A,39
+W20,Undergraduate,PHIL    149,FALVEY K T,A,3
+W20,Undergraduate,PHIL    149,FALVEY K T,A-,6
+W20,Undergraduate,PHIL    149,FALVEY K T,B,7
+W20,Undergraduate,PHIL    149,FALVEY K T,B-,6
+W20,Undergraduate,PHIL    149,FALVEY K T,B+,6
+W20,Undergraduate,PHIL    149,FALVEY K T,C,2
+W20,Undergraduate,PHIL    149,FALVEY K T,C-,1
+W20,Undergraduate,PHIL    149,FALVEY K T,C+,3
+W20,Undergraduate,PHIL    149,FALVEY K T,F,1
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,A,5
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,A-,6
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,B,6
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,B-,4
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,B+,7
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,C,1
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,C-,2
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,C+,1
+W20,Undergraduate,PHIL    153,MCKIRAHAN R D,F,2
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,A,3
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,A-,11
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,A+,3
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,B,5
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,B-,3
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,B+,5
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,C,1
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,C-,1
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,C+,1
+W20,Undergraduate,PHIL    161,ZYLSTRA S J,F,1
+W20,Undergraduate,PHIL    173,SALMON N U,A,1
+W20,Undergraduate,PHIL    173,SALMON N U,A-,5
+W20,Undergraduate,PHIL    173,SALMON N U,B,3
+W20,Undergraduate,PHIL    173,SALMON N U,C,3
+W20,Undergraduate,PHIL    173,SALMON N U,C-,2
+W20,Undergraduate,PHIL    173,SALMON N U,D,1
+W20,Undergraduate,PHIL    173,SALMON N U,F,2
+W20,Undergraduate,PHIL    183,ROBERTSON T,A,13
+W20,Undergraduate,PHIL    183,ROBERTSON T,A-,4
+W20,Undergraduate,PHIL    183,ROBERTSON T,B,1
+W20,Undergraduate,PHIL    183,ROBERTSON T,B-,2
+W20,Undergraduate,PHIL    183,ROBERTSON T,C,3
+W20,Undergraduate,PHIL    183,ROBERTSON T,C-,5
+W20,Undergraduate,PHIL    183,ROBERTSON T,C+,3
+W20,Undergraduate,PHIL    183,ROBERTSON T,D,2
+W20,Undergraduate,PHIL    183,ROBERTSON T,D-,1
+W20,Undergraduate,PHIL    183,ROBERTSON T,D+,2
+W20,Undergraduate,PHIL    183,ROBERTSON T,F,6
+W20,Undergraduate,PHIL    184,SALMON N U,A,6
+W20,Undergraduate,PHIL    184,SALMON N U,B,2
+W20,Undergraduate,PHIL    184,SALMON N U,B+,1
+W20,Undergraduate,PHIL    184,SALMON N U,C,2
+W20,Undergraduate,PHIL    184,SALMON N U,D,1
+W20,Undergraduate,PHIL    184,SALMON N U,D-,1
+W20,Undergraduate,PHIL    184,SALMON N U,F,2
+W20,Graduate,PHIL    296A,HANSER M F,A-,1
+W20,Graduate,PHIL    296A,HANSER M F,A+,1
+W20,Graduate,PHIL    296A,HANSER M F,S,2
+W20,Graduate,PHIL    500,ELIZONDO E S,S,23

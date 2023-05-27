@@ -1,0 +1,42 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,CLASS    40,SHILO A,A+,3
+S16,Undergraduate,CLASS    40,SHILO A,A,72
+S16,Undergraduate,CLASS    40,SHILO A,A-,89
+S16,Undergraduate,CLASS    40,SHILO A,B+,90
+S16,Undergraduate,CLASS    40,SHILO A,B,139
+S16,Undergraduate,CLASS    40,SHILO A,B-,70
+S16,Undergraduate,CLASS    40,SHILO A,C+,39
+S16,Undergraduate,CLASS    40,SHILO A,C,50
+S16,Undergraduate,CLASS    40,SHILO A,C-,17
+S16,Undergraduate,CLASS    40,SHILO A,D+,10
+S16,Undergraduate,CLASS    40,SHILO A,D,15
+S16,Undergraduate,CLASS    40,SHILO A,D-,3
+S16,Undergraduate,CLASS    40,SHILO A,F,42
+S16,Undergraduate,CLASS    99,GALLUCCI R,A+,3
+S16,Undergraduate,CLASS    99,GALLUCCI R,A,2
+S16,Undergraduate,CLASS    99,GALLUCCI R,B+,2
+S16,Undergraduate,CLASS   102,MORALES H L,A+,15
+S16,Undergraduate,CLASS   102,MORALES H L,A,27
+S16,Undergraduate,CLASS   102,MORALES H L,A-,13
+S16,Undergraduate,CLASS   102,MORALES H L,B+,11
+S16,Undergraduate,CLASS   102,MORALES H L,B,3
+S16,Undergraduate,CLASS   102,MORALES H L,B-,7
+S16,Undergraduate,CLASS   102,MORALES H L,C,2
+S16,Undergraduate,CLASS   102,MORALES H L,C-,1
+S16,Undergraduate,CLASS   102,MORALES H L,F,1
+S16,Undergraduate,CLASS   125,GALLUCCI R,A+,4
+S16,Undergraduate,CLASS   125,GALLUCCI R,A,30
+S16,Undergraduate,CLASS   125,GALLUCCI R,A-,16
+S16,Undergraduate,CLASS   125,GALLUCCI R,B+,15
+S16,Undergraduate,CLASS   125,GALLUCCI R,B,17
+S16,Undergraduate,CLASS   125,GALLUCCI R,B-,7
+S16,Undergraduate,CLASS   125,GALLUCCI R,C+,2
+S16,Undergraduate,CLASS   125,GALLUCCI R,C,7
+S16,Undergraduate,CLASS   125,GALLUCCI R,C-,1
+S16,Undergraduate,CLASS   185,MACLEAN R B,A,3
+S16,Undergraduate,CLASS   185,MACLEAN R B,A-,5
+S16,Undergraduate,CLASS   185,MACLEAN R B,B+,1
+S16,Undergraduate,CLASS   185,MACLEAN R B,F,1
+S16,Graduate,CLASS   201,PATTEN G,S,5
+S16,Graduate,CLASS   232,MORALES H L,A,2
+S16,Graduate,CLASS   232,MORALES H L,A-,4

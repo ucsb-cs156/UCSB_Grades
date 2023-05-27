@@ -1,0 +1,99 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ES   1-   2,BRONTSEMA R P,P,19
+S10,Undergraduate,ES   1-   5B,BRONTSEMA R P,P,8
+S10,Undergraduate,ES   1-   5C,BRONTSEMA R P,P,9
+S10,Undergraduate,ES   1-   5C,BRONTSEMA R P,NP,3
+S10,Undergraduate,ES   1-   6A,COLSON G W,P,44
+S10,Undergraduate,ES   1-   6A,COLSON G W,NP,3
+S10,Undergraduate,ES   1-   6B,COLSON G W,P,16
+S10,Undergraduate,ES   1-   6B,COLSON G W,NP,3
+S10,Undergraduate,ES   1-   6C,COLSON G W,P,9
+S10,Undergraduate,ES   1-   7A,JONES D A,P,96
+S10,Undergraduate,ES   1-   7A,JONES D A,NP,10
+S10,Undergraduate,ES   1-   7B,JONES D A,P,10
+S10,Undergraduate,ES   1-   7B,JONES D A,NP,7
+S10,Undergraduate,ES   1-   9A,SHEPARD T J,P,56
+S10,Undergraduate,ES   1-  10A,HARRINGTON R,P,31
+S10,Undergraduate,ES   1-  10A,HARRINGTON R,NP,8
+S10,Undergraduate,ES   1-  10A,WILLIAMS A,P,38
+S10,Undergraduate,ES   1-  10A,WILLIAMS A,NP,7
+S10,Undergraduate,ES   1-  10B,WILLIAMS A,P,39
+S10,Undergraduate,ES   1-  10B,WILLIAMS A,NP,4
+S10,Undergraduate,ES   1-  12A,HARRINGTON R,P,21
+S10,Undergraduate,ES   1-  12A,HARRINGTON R,NP,6
+S10,Undergraduate,ES   1-  13A,ROBINSON T,P,27
+S10,Undergraduate,ES   1-  13B,ROBINSON T,P,13
+S10,Undergraduate,ES   1-  13B,ROBINSON T,NP,1
+S10,Undergraduate,ES   1-  13C,ROBINSON T,P,4
+S10,Undergraduate,ES   1-  13C,ROBINSON T,NP,1
+S10,Undergraduate,ES   1-  24A,RASSENTI D,F,1
+S10,Undergraduate,ES   1-  24A,RASSENTI D,P,29
+S10,Undergraduate,ES   1-  24A,RASSENTI D,NP,3
+S10,Undergraduate,ES   1-  24B,DEHERAS D J,P,16
+S10,Undergraduate,ES   1-  24B,GREEN D L,P,28
+S10,Undergraduate,ES   1-  24B,GREEN D L,NP,1
+S10,Undergraduate,ES   1-  25A,BADULESCU M,P,29
+S10,Undergraduate,ES   1-  25A,BADULESCU M,NP,1
+S10,Undergraduate,ES   1-  25B,BADULESCU M,P,9
+S10,Undergraduate,ES   1-  25C,BADULESCU M,P,5
+S10,Undergraduate,ES   1-  26A,BADULESCU M,P,13
+S10,Undergraduate,ES   1-  26B,BADULESCU M,P,9
+S10,Undergraduate,ES   1-  29A,RASSENTI D,P,27
+S10,Undergraduate,ES   1-  29B,RASSENTI D,P,10
+S10,Undergraduate,ES   1-  29B,RASSENTI D,NP,1
+S10,Undergraduate,ES   1-  30A,BADULESCU M,P,24
+S10,Undergraduate,ES   1-  30B,BADULESCU M,P,35
+S10,Undergraduate,ES   1-  32,GALICINAO B M,P,9
+S10,Undergraduate,ES   1-  33,WILSON G F,P,9
+S10,Undergraduate,ES   1-  34A,FEHR E R,P,21
+S10,Undergraduate,ES   1-  34A,FEHR E R,NP,3
+S10,Undergraduate,ES   1-  34B,FEHR E R,P,18
+S10,Undergraduate,ES   1-  34B,FEHR E R,NP,4
+S10,Undergraduate,ES   1-  34B,WILSON G F,P,42
+S10,Undergraduate,ES   1-  34B,WILSON G F,NP,8
+S10,Undergraduate,ES   1-  36,MYERS T G,P,39
+S10,Undergraduate,ES   1-  38A,DAVIS M J,P,23
+S10,Undergraduate,ES   1-  38A,DAVIS M J,NP,1
+S10,Undergraduate,ES   1-  38A,GERSTENFELD P,P,31
+S10,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,4
+S10,Undergraduate,ES   1-  38A,KIRKWOOD P A,P,22
+S10,Undergraduate,ES   1-  38A,KIRKWOOD P A,NP,2
+S10,Undergraduate,ES   1-  38B,GERSTENFELD P,P,38
+S10,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,3
+S10,Undergraduate,ES   1-  38C,KIRKWOOD P A,P,20
+S10,Undergraduate,ES   1-  38C,KIRKWOOD P A,NP,4
+S10,Undergraduate,ES   1-  43A,MYERS T G,P,43
+S10,Undergraduate,ES   1-  43A,WILLIAMS A,P,27
+S10,Undergraduate,ES   1-  43A,WILLIAMS A,NP,5
+S10,Undergraduate,ES   1-  43B,ECKLUND C D,P,23
+S10,Undergraduate,ES   1-  43B,ECKLUND C D,NP,2
+S10,Undergraduate,ES   1-  43B,JAMIESON A E,P,37
+S10,Undergraduate,ES   1-  43B,JAMIESON A E,NP,4
+S10,Undergraduate,ES   1-  43B,WILLIAMS A,P,37
+S10,Undergraduate,ES   1-  43B,WILLIAMS A,NP,2
+S10,Undergraduate,ES   1-  43D,JAMIESON A E,P,261
+S10,Undergraduate,ES   1-  43E,BRIGHT G C,P,38
+S10,Undergraduate,ES   1-  43E,BRIGHT G C,NP,2
+S10,Undergraduate,ES   1-  43E,MYERS T G,P,39
+S10,Undergraduate,ES   1-  59A,MILES D L,P,15
+S10,Undergraduate,ES   1-  59A,MILES D L,NP,1
+S10,Undergraduate,ES   1-  59B,MILES D L,P,12
+S10,Undergraduate,ES   1-  59B,MILES D L,NP,1
+S10,Undergraduate,ES   1-  99,ALLAIN T S,P,9
+S10,Undergraduate,ES   1-  99,BADULESCU M,P,47
+S10,Undergraduate,ES   1-  99,BRIGHT G C,P,10
+S10,Undergraduate,ES   1-  99,COLSON G W,P,15
+S10,Undergraduate,ES   1-  99,ECKLUND C D,P,4
+S10,Undergraduate,ES   1-  99,ECKLUND C D,NP,1
+S10,Undergraduate,ES   1-  99,FEHR E R,P,5
+S10,Undergraduate,ES   1-  99,GERSTENFELD P,P,6
+S10,Undergraduate,ES   1-  99,GREGORY K M,F,1
+S10,Undergraduate,ES   1-  99,GREGORY K M,P,6
+S10,Undergraduate,ES   1-  99,MILES D L,P,5
+S10,Undergraduate,ES   1-  99,MYERS T G,P,6
+S10,Undergraduate,ES   1-  99,NELSON L F,P,26
+S10,Undergraduate,ES   1-  99,SHEPARD T J,P,15
+S10,Undergraduate,ES   1-  99,WILLIAMS A,P,16
+S10,Undergraduate,ES   1-  99,WILLIAMS A,NP,1
+S10,Undergraduate,ES   1-  99,WILSON G F,P,12
+S10,Undergraduate,ES   1-  99,WILSON G F,NP,1

@@ -1,0 +1,93 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,AS AM     1,PARK L S,A+,20
+S16,Undergraduate,AS AM     1,PARK L S,A,53
+S16,Undergraduate,AS AM     1,PARK L S,A-,21
+S16,Undergraduate,AS AM     1,PARK L S,B+,19
+S16,Undergraduate,AS AM     1,PARK L S,B,27
+S16,Undergraduate,AS AM     1,PARK L S,B-,12
+S16,Undergraduate,AS AM     1,PARK L S,C+,10
+S16,Undergraduate,AS AM     1,PARK L S,C,13
+S16,Undergraduate,AS AM     1,PARK L S,C-,1
+S16,Undergraduate,AS AM     1,PARK L S,D,2
+S16,Undergraduate,AS AM     1,PARK L S,D-,1
+S16,Undergraduate,AS AM     1,PARK L S,F,9
+S16,Undergraduate,AS AM     4,PANDYA S P,A+,3
+S16,Undergraduate,AS AM     4,PANDYA S P,A,20
+S16,Undergraduate,AS AM     4,PANDYA S P,A-,67
+S16,Undergraduate,AS AM     4,PANDYA S P,B+,43
+S16,Undergraduate,AS AM     4,PANDYA S P,B,27
+S16,Undergraduate,AS AM     4,PANDYA S P,B-,29
+S16,Undergraduate,AS AM     4,PANDYA S P,C+,7
+S16,Undergraduate,AS AM     4,PANDYA S P,C,3
+S16,Undergraduate,AS AM     4,PANDYA S P,D+,4
+S16,Undergraduate,AS AM     4,PANDYA S P,D,1
+S16,Undergraduate,AS AM     4,PANDYA S P,D-,1
+S16,Undergraduate,AS AM     4,PANDYA S P,F,1
+S16,Undergraduate,AS AM    71,BUSTO R V,A+,3
+S16,Undergraduate,AS AM    71,BUSTO R V,A,7
+S16,Undergraduate,AS AM    71,BUSTO R V,A-,15
+S16,Undergraduate,AS AM    71,BUSTO R V,B+,14
+S16,Undergraduate,AS AM    71,BUSTO R V,B,20
+S16,Undergraduate,AS AM    71,BUSTO R V,B-,13
+S16,Undergraduate,AS AM    71,BUSTO R V,C+,8
+S16,Undergraduate,AS AM    71,BUSTO R V,C,15
+S16,Undergraduate,AS AM    71,BUSTO R V,D+,1
+S16,Undergraduate,AS AM    71,BUSTO R V,D,2
+S16,Undergraduate,AS AM    71,BUSTO R V,F,9
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,A,12
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,A-,10
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,B+,4
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,B,7
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,B-,9
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,C+,1
+S16,Undergraduate,AS AM   100BB,DEGUZMAN J,C,2
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,A,3
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,A-,3
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,B+,9
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,B,5
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,B-,8
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,C+,7
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,C,3
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,C-,1
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,D+,3
+S16,Undergraduate,AS AM   100CC,ZULUETA B C,F,1
+S16,Undergraduate,AS AM   122,NINH E K,A+,1
+S16,Undergraduate,AS AM   122,NINH E K,A,4
+S16,Undergraduate,AS AM   122,NINH E K,A-,7
+S16,Undergraduate,AS AM   122,NINH E K,B+,2
+S16,Undergraduate,AS AM   122,NINH E K,B,9
+S16,Undergraduate,AS AM   122,NINH E K,B-,10
+S16,Undergraduate,AS AM   122,NINH E K,C+,3
+S16,Undergraduate,AS AM   122,NINH E K,C,3
+S16,Undergraduate,AS AM   122,NINH E K,C-,2
+S16,Undergraduate,AS AM   122,NINH E K,D+,1
+S16,Undergraduate,AS AM   124,NINH E K,A,3
+S16,Undergraduate,AS AM   124,NINH E K,A-,8
+S16,Undergraduate,AS AM   124,NINH E K,B+,6
+S16,Undergraduate,AS AM   124,NINH E K,B,7
+S16,Undergraduate,AS AM   124,NINH E K,B-,6
+S16,Undergraduate,AS AM   124,NINH E K,C+,5
+S16,Undergraduate,AS AM   124,NINH E K,C,3
+S16,Undergraduate,AS AM   124,NINH E K,D+,1
+S16,Undergraduate,AS AM   133,ZULUETA B C,A-,3
+S16,Undergraduate,AS AM   133,ZULUETA B C,B+,4
+S16,Undergraduate,AS AM   133,ZULUETA B C,B,4
+S16,Undergraduate,AS AM   133,ZULUETA B C,B-,5
+S16,Undergraduate,AS AM   133,ZULUETA B C,C+,2
+S16,Undergraduate,AS AM   133,ZULUETA B C,C,3
+S16,Undergraduate,AS AM   133,ZULUETA B C,C-,4
+S16,Undergraduate,AS AM   133,ZULUETA B C,F,1
+S16,Undergraduate,AS AM   155,DEGUZMAN J,A,26
+S16,Undergraduate,AS AM   155,DEGUZMAN J,A-,7
+S16,Undergraduate,AS AM   155,DEGUZMAN J,B+,1
+S16,Undergraduate,AS AM   155,DEGUZMAN J,B,5
+S16,Undergraduate,AS AM   155,DEGUZMAN J,B-,2
+S16,Undergraduate,AS AM   155,DEGUZMAN J,C+,1
+S16,Undergraduate,AS AM   155,DEGUZMAN J,C,1
+S16,Undergraduate,AS AM   158,PANDYA S P,A,4
+S16,Undergraduate,AS AM   158,PANDYA S P,A-,21
+S16,Undergraduate,AS AM   158,PANDYA S P,B+,12
+S16,Undergraduate,AS AM   158,PANDYA S P,B,1
+S16,Undergraduate,AS AM   158,PANDYA S P,B-,2
+S16,Undergraduate,AS AM   158,PANDYA S P,F,1
+S16,Undergraduate,AS AM   197,FUJINO D C,P,14

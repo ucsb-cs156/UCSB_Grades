@@ -1,0 +1,91 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W14,Undergraduate,INT       1,DUDA A L,P,17
+W14,Undergraduate,INT       1,DUDA A L,NP,3
+W14,Undergraduate,INT       1,PLATOFF A M,P,19
+W14,Undergraduate,INT       1,PLATOFF A M,NP,1
+W14,Undergraduate,INT       1,SILVA S,P,18
+W14,Undergraduate,INT       1,SILVA S,NP,2
+W14,Undergraduate,INT       1,THOMPSON J K,P,19
+W14,Undergraduate,INT       1,THOMPSON J K,NP,1
+W14,Undergraduate,INT      75,PRYSTOWSKY J,P,182
+W14,Undergraduate,INT      75,PRYSTOWSKY J,NP,4
+W14,Undergraduate,INT      84PD,WEIMBS T,A,25
+W14,Undergraduate,INT      94BZ,CHRISTOFFERSE,P,20
+W14,Undergraduate,INT      94GQ,GARCIA M T,P,13
+W14,Undergraduate,INT      94GQ,GARCIA M T,NP,1
+W14,Undergraduate,INT      94HG,ADAMS A J,P,6
+W14,Undergraduate,INT      94HG,ADAMS A J,NP,2
+W14,Undergraduate,INT      94HZ,KING W D,P,17
+W14,Undergraduate,INT      94IE,FUJINO D C,P,18
+W14,Undergraduate,INT      94JK,MCCRACKEN E,P,10
+W14,Undergraduate,INT      94JK,MCCRACKEN E,NP,3
+W14,Undergraduate,INT      94JM,AWRAMIK S M,P,17
+W14,Undergraduate,INT      94KN,REVLIN R,P,21
+W14,Undergraduate,INT      94LQ,BARLOW C F,P,17
+W14,Undergraduate,INT      94LV,THROWER D A,P,11
+W14,Undergraduate,INT      94LY,SPIEKER S,P,11
+W14,Undergraduate,INT      94ME,HANSER M F,P,16
+W14,Undergraduate,INT      94ME,HANSER M F,NP,3
+W14,Undergraduate,INT      94MW,DEVRIES M S,P,14
+W14,Undergraduate,INT      94NE,COLLINS P M,P,10
+W14,Undergraduate,INT      94NX,JACOBS G H,P,19
+W14,Undergraduate,INT      94OJ,FORAN J F,F,1
+W14,Undergraduate,INT      94OJ,FORAN J F,P,13
+W14,Undergraduate,INT      94OS,BOSCAGLI M,P,11
+W14,Undergraduate,INT      94OU,BRAININ R,P,18
+W14,Undergraduate,INT      94OU,BRAININ R,NP,1
+W14,Undergraduate,INT      94OZ,KLEIN S B,P,20
+W14,Undergraduate,INT      94PO,SCOTT V,P,17
+W14,Undergraduate,INT      94PO,SCOTT V,NP,1
+W14,Undergraduate,INT      94PQ,BERMUDEZ S,P,20
+W14,Undergraduate,INT      94QP,MCMAHON C S,P,14
+W14,Undergraduate,INT      94QR,GERMAN T C M,P,16
+W14,Undergraduate,INT      94QT,DIGESER E D,P,8
+W14,Undergraduate,INT      94QU,SIEGEL G D,P,7
+W14,Undergraduate,INT      94QU,SIEGEL G D,NP,1
+W14,Undergraduate,INT      94QV,CORTIJO A,P,20
+W14,Undergraduate,INT      94QW,MARCUSE H,P,13
+W14,Undergraduate,INT      94RA,NORRIS A,P,8
+W14,Undergraduate,INT      94RD,STEWART-OATEN,P,13
+W14,Undergraduate,INT      94RE,PENLEY C,F,1
+W14,Undergraduate,INT      94RE,PENLEY C,P,6
+W14,Undergraduate,INT     156BE,JARRETT G C,A,5
+W14,Undergraduate,INT     156BE,JARRETT G C,A-,1
+W14,Undergraduate,INT     156BE,JARRETT G C,B,7
+W14,Undergraduate,INT     156BE,JARRETT G C,B-,1
+W14,Undergraduate,INT     156BE,JARRETT G C,C,2
+W14,Undergraduate,INT     184AL,LINDEMANN A S,A,10
+W14,Undergraduate,INT     184AL,LINDEMANN A S,A-,2
+W14,Undergraduate,INT     184AL,LINDEMANN A S,B+,4
+W14,Undergraduate,INT     184AL,LINDEMANN A S,B,1
+W14,Undergraduate,INT     184AL,LINDEMANN A S,B-,1
+W14,Undergraduate,INT     184DC,CHAPMAN D J,A+,4
+W14,Undergraduate,INT     184DC,CHAPMAN D J,A,8
+W14,Undergraduate,INT     184JP,PARK J S W,A,9
+W14,Undergraduate,INT     184JP,PARK J S W,A-,5
+W14,Undergraduate,INT     184JP,PARK J S W,B+,2
+W14,Undergraduate,INT     184KF,FOLTZ K R,A,13
+W14,Undergraduate,INT     184KF,FOLTZ K R,A-,4
+W14,Undergraduate,INT     184KF,FOLTZ K R,B+,1
+W14,Undergraduate,INT     184PD,BLAIN S M,A+,3
+W14,Undergraduate,INT     184PD,BLAIN S M,A,10
+W14,Undergraduate,INT     184PD,BLAIN S M,A-,1
+W14,Undergraduate,INT     184VW,WELTER V W,A+,4
+W14,Undergraduate,INT     184VW,WELTER V W,A,7
+W14,Undergraduate,INT     184VW,WELTER V W,A-,3
+W14,Undergraduate,INT     184VW,WELTER V W,B+,1
+W14,Undergraduate,INT     185ST,ZINN E R,A+,1
+W14,Undergraduate,INT     185ST,ZINN E R,A,16
+W14,Undergraduate,INT     185ST,ZINN E R,A-,5
+W14,Undergraduate,INT     185ST,ZINN E R,C,1
+W14,Undergraduate,INT     185VW,DERWIN S,P,8
+W14,Undergraduate,INT     192DC,HOLMES D E,P,16
+W14,Undergraduate,INT     199DC,HOLMES D E,A,4
+W14,Undergraduate,INT     199DC,HOLMES D E,A-,8
+W14,Undergraduate,INT     199DC,HOLMES D E,B+,1
+W14,Undergraduate,INT     199DC,HOLMES D E,B,2
+W14,Undergraduate,INT     199DC,HOLMES D E,B-,1
+W14,Graduate,INT     200B,HEGARTY M,S,7
+W14,Graduate,INT     201GW,WALKER B L,S,9
+W14,Undergraduate,INT  CS  10,VAN DER VEEN,P,12
+W14,Undergraduate,INT  CS  20,LATTO J G,P,9

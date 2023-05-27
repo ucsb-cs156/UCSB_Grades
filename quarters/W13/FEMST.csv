@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W13,Undergraduate,FEMST    30,FIGUEROA T,A+,1
+W13,Undergraduate,FEMST    30,FIGUEROA T,A,27
+W13,Undergraduate,FEMST    30,FIGUEROA T,A-,21
+W13,Undergraduate,FEMST    30,FIGUEROA T,B+,13
+W13,Undergraduate,FEMST    30,FIGUEROA T,B,24
+W13,Undergraduate,FEMST    30,FIGUEROA T,B-,8
+W13,Undergraduate,FEMST    30,FIGUEROA T,C+,3
+W13,Undergraduate,FEMST    30,FIGUEROA T,C,1
+W13,Undergraduate,FEMST    30,FIGUEROA T,D,1
+W13,Undergraduate,FEMST    30,FIGUEROA T,F,1
+W13,Undergraduate,FEMST    30H,FIGUEROA T,A+,2
+W13,Undergraduate,FEMST    30H,FIGUEROA T,A,3
+W13,Undergraduate,FEMST    30H,FIGUEROA T,A-,3
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,A+,46
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,A,62
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,A-,28
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,B+,15
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,B,11
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,B-,1
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,C+,2
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,C-,1
+W13,Undergraduate,FEMST    60,MILLER-YOUNG,D+,1
+W13,Undergraduate,FEMST    60H,MILLER-YOUNG,A+,4
+W13,Undergraduate,FEMST    60H,MILLER-YOUNG,A,8
+W13,Undergraduate,FEMST    60H,MILLER-YOUNG,A-,1
+W13,Undergraduate,FEMST    60H,MILLER-YOUNG,C+,1
+W13,Undergraduate,FEMST   100WS,BARNES S L,A,3
+W13,Undergraduate,FEMST   100WS,BARNES S L,A-,2
+W13,Undergraduate,FEMST   100WS,BARNES S L,B+,1
+W13,Undergraduate,FEMST   100WS,BARNES S L,F,1
+W13,Undergraduate,FEMST   142,BOBO J,A,5
+W13,Undergraduate,FEMST   142,BOBO J,A-,3
+W13,Undergraduate,FEMST   142,BOBO J,B+,1
+W13,Undergraduate,FEMST   142,BOBO J,B,7
+W13,Undergraduate,FEMST   142,BOBO J,B-,1
+W13,Undergraduate,FEMST   142,BOBO J,C,2
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,A+,1
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,A,6
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,A-,5
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,B+,3
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,B,2
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,B-,2
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,C+,2
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,C-,1
+W13,Undergraduate,FEMST   151AF,DIAMOND-LENOW,D+,1
+W13,Undergraduate,FEMST   162,THOMSEN C A,A+,2
+W13,Undergraduate,FEMST   162,THOMSEN C A,A,5
+W13,Undergraduate,FEMST   162,THOMSEN C A,A-,2
+W13,Undergraduate,FEMST   162,THOMSEN C A,B+,7
+W13,Undergraduate,FEMST   162,THOMSEN C A,B,3
+W13,Undergraduate,FEMST   162,THOMSEN C A,C+,1
+W13,Undergraduate,FEMST   162,THOMSEN C A,C,1
+W13,Undergraduate,FEMST   162,THOMSEN C A,C-,3
+W13,Undergraduate,FEMST   162,THOMSEN C A,F,2
+W13,Undergraduate,FEMST   180,TOMLINSON B M,A,4
+W13,Undergraduate,FEMST   180,TOMLINSON B M,A-,3
+W13,Undergraduate,FEMST   180,TOMLINSON B M,B+,7
+W13,Undergraduate,FEMST   180,TOMLINSON B M,B,3
+W13,Undergraduate,FEMST   180,TOMLINSON B M,B-,3
+W13,Undergraduate,FEMST   180,TOMLINSON B M,C+,2
+W13,Undergraduate,FEMST   180,TOMLINSON B M,C-,1
+W13,Undergraduate,FEMST   180,TOMLINSON B M,F,2
+W13,Undergraduate,FEMST   181,DODSON L E,A+,2
+W13,Undergraduate,FEMST   181,DODSON L E,A,10
+W13,Undergraduate,FEMST   181,DODSON L E,A-,6
+W13,Undergraduate,FEMST   181,DODSON L E,B+,2
+W13,Undergraduate,FEMST   181,DODSON L E,B,3
+W13,Undergraduate,FEMST   181,DODSON L E,B-,2
+W13,Undergraduate,FEMST   181,DODSON L E,C+,1
+W13,Undergraduate,FEMST   181,DODSON L E,F,1
+W13,Undergraduate,FEMST   186GD,BARVOSA E,A-,1
+W13,Undergraduate,FEMST   186GD,BARVOSA E,B,2
+W13,Undergraduate,FEMST   186GD,BARVOSA E,B-,2
+W13,Undergraduate,FEMST   186GD,BARVOSA E,D+,2
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,A+,2
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,A,9
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,A-,4
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,B+,1
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,B,1
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,B-,1
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,D+,1
+W13,Undergraduate,FEMST   186HH,HARTHORN B H,F,1
+W13,Graduate,FEMST   220,MILLER-YOUNG,A,10
+W13,Graduate,FEMST   220,MILLER-YOUNG,A-,2
+W13,Graduate,FEMST   260,OAKS L M,A,3
+W13,Graduate,FEMST   260,OAKS L M,A-,3
+W13,Graduate,FEMST   260,OAKS L M,B+,1
+W13,Graduate,FEMST   260,OAKS L M,F,1
+W13,Graduate,FEMST   595,BORIS E C,S,8

@@ -1,0 +1,88 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M15,Undergraduate,ARTHI     1,BELL M F,A+,2
+M15,Undergraduate,ARTHI     1,BELL M F,A,5
+M15,Undergraduate,ARTHI     1,BELL M F,A-,3
+M15,Undergraduate,ARTHI     1,BELL M F,B+,4
+M15,Undergraduate,ARTHI     1,BELL M F,B,2
+M15,Undergraduate,ARTHI     1,BELL M F,B-,4
+M15,Undergraduate,ARTHI     1,BELL M F,C,2
+M15,Undergraduate,ARTHI     1,BELL M F,C-,1
+M15,Undergraduate,ARTHI     1,BELL M F,D+,1
+M15,Undergraduate,ARTHI     1,BELL M F,F,2
+M15,Undergraduate,ARTHI     6A,MITROVICI A,A,2
+M15,Undergraduate,ARTHI     6A,MITROVICI A,A-,2
+M15,Undergraduate,ARTHI     6A,MITROVICI A,B+,4
+M15,Undergraduate,ARTHI     6A,MITROVICI A,B,6
+M15,Undergraduate,ARTHI     6A,MITROVICI A,B-,7
+M15,Undergraduate,ARTHI     6A,MITROVICI A,C+,5
+M15,Undergraduate,ARTHI     6A,MITROVICI A,C,4
+M15,Undergraduate,ARTHI     6A,MITROVICI A,D,1
+M15,Undergraduate,ARTHI     6A,MITROVICI A,F,5
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,A+,1
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,A,8
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,A-,6
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,B+,5
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,B,5
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,B-,5
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,C+,1
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,C-,1
+M15,Undergraduate,ARTHI     6B,ZUMAYA D G,D,1
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,A,13
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,A-,6
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,B+,8
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,B,5
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,B-,4
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,C+,3
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,C,4
+M15,Undergraduate,ARTHI     6C,MCGUIRE M C,F,2
+M15,Undergraduate,ARTHI   107A,MEADOW M A,A+,3
+M15,Undergraduate,ARTHI   107A,MEADOW M A,A,2
+M15,Undergraduate,ARTHI   107A,MEADOW M A,A-,7
+M15,Undergraduate,ARTHI   107A,MEADOW M A,B+,2
+M15,Undergraduate,ARTHI   107A,MEADOW M A,B,1
+M15,Undergraduate,ARTHI   107A,MEADOW M A,C,3
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,A,1
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,B+,2
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,B,1
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,B-,1
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,C+,2
+M15,Undergraduate,ARTHI   111C,TRAVERS E M,C-,1
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,A+,1
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,A,5
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,A-,2
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,B+,4
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,B,5
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,C+,2
+M15,Undergraduate,ARTHI   117F,LIEBERMAN S M,F,1
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,A+,1
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,A,4
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,A-,7
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,B+,3
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,B,4
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,B-,5
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,C+,1
+M15,Undergraduate,ARTHI   132A,SCHULTZ A C,D+,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,A+,2
+M15,Undergraduate,ARTHI   136C,WHITE J S,A,2
+M15,Undergraduate,ARTHI   136C,WHITE J S,A-,2
+M15,Undergraduate,ARTHI   136C,WHITE J S,B+,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,B,3
+M15,Undergraduate,ARTHI   136C,WHITE J S,B-,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,C+,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,C,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,C-,1
+M15,Undergraduate,ARTHI   136C,WHITE J S,D+,1
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A,6
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A-,7
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B+,5
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B,4
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B-,2
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C+,3
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C,1
+M15,Undergraduate,ARTHI   136I,CHATTOPADHYAY,F,1
+M15,Undergraduate,ARTHI   136V,KAKAR S,A,2
+M15,Undergraduate,ARTHI   136V,KAKAR S,A-,2
+M15,Undergraduate,ARTHI   136V,KAKAR S,B+,1
+M15,Undergraduate,ARTHI   136V,KAKAR S,B,1
+M15,Undergraduate,ARTHI   136V,KAKAR S,C,1
+M15,Undergraduate,ARTHI   136V,KAKAR S,D-,2

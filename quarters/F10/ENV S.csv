@@ -1,0 +1,118 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F10,Undergraduate,ENV S     1,FREUDENBURG W,A+,27
+F10,Undergraduate,ENV S     1,FREUDENBURG W,A,69
+F10,Undergraduate,ENV S     1,FREUDENBURG W,A-,64
+F10,Undergraduate,ENV S     1,FREUDENBURG W,B+,57
+F10,Undergraduate,ENV S     1,FREUDENBURG W,B,70
+F10,Undergraduate,ENV S     1,FREUDENBURG W,B-,48
+F10,Undergraduate,ENV S     1,FREUDENBURG W,C+,36
+F10,Undergraduate,ENV S     1,FREUDENBURG W,C,20
+F10,Undergraduate,ENV S     1,FREUDENBURG W,C-,13
+F10,Undergraduate,ENV S     1,FREUDENBURG W,D+,4
+F10,Undergraduate,ENV S     1,FREUDENBURG W,D,3
+F10,Undergraduate,ENV S     1,FREUDENBURG W,D-,3
+F10,Undergraduate,ENV S     1,FREUDENBURG W,F,9
+F10,Undergraduate,ENV S   100,GOSNELL J S,A+,3
+F10,Undergraduate,ENV S   100,GOSNELL J S,A,12
+F10,Undergraduate,ENV S   100,GOSNELL J S,A-,14
+F10,Undergraduate,ENV S   100,GOSNELL J S,B+,19
+F10,Undergraduate,ENV S   100,GOSNELL J S,B,30
+F10,Undergraduate,ENV S   100,GOSNELL J S,B-,27
+F10,Undergraduate,ENV S   100,GOSNELL J S,C+,15
+F10,Undergraduate,ENV S   100,GOSNELL J S,C,16
+F10,Undergraduate,ENV S   100,GOSNELL J S,C-,5
+F10,Undergraduate,ENV S   100,GOSNELL J S,D+,1
+F10,Undergraduate,ENV S   100,GOSNELL J S,D,4
+F10,Undergraduate,ENV S   100,GOSNELL J S,D-,1
+F10,Undergraduate,ENV S   100,GOSNELL J S,F,2
+F10,Undergraduate,ENV S   106,PULVER S,A+,1
+F10,Undergraduate,ENV S   106,PULVER S,A,13
+F10,Undergraduate,ENV S   106,PULVER S,A-,12
+F10,Undergraduate,ENV S   106,PULVER S,B+,14
+F10,Undergraduate,ENV S   106,PULVER S,B,1
+F10,Undergraduate,ENV S   106,PULVER S,B-,4
+F10,Undergraduate,ENV S   114A,CHADWICK O A,A+,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,A,3
+F10,Undergraduate,ENV S   114A,CHADWICK O A,A-,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,B+,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,B,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,B-,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,C+,1
+F10,Undergraduate,ENV S   114A,CHADWICK O A,C,1
+F10,Undergraduate,ENV S   119,MOLINARI N A,A-,2
+F10,Undergraduate,ENV S   119,MOLINARI N A,B+,3
+F10,Undergraduate,ENV S   119,MOLINARI N A,B,5
+F10,Undergraduate,ENV S   119,MOLINARI N A,B-,1
+F10,Undergraduate,ENV S   122LE,HILTNER K C,A+,1
+F10,Undergraduate,ENV S   122LE,HILTNER K C,A,5
+F10,Undergraduate,ENV S   122LE,HILTNER K C,A-,5
+F10,Undergraduate,ENV S   122LE,HILTNER K C,B+,5
+F10,Undergraduate,ENV S   122LE,HILTNER K C,B,7
+F10,Undergraduate,ENV S   122LE,HILTNER K C,D+,1
+F10,Undergraduate,ENV S   130A,STONICH S C,A+,1
+F10,Undergraduate,ENV S   130A,STONICH S C,A,3
+F10,Undergraduate,ENV S   130A,STONICH S C,A-,9
+F10,Undergraduate,ENV S   130A,STONICH S C,B+,10
+F10,Undergraduate,ENV S   130A,STONICH S C,B,1
+F10,Undergraduate,ENV S   130A,STONICH S C,C+,1
+F10,Undergraduate,ENV S   149,CLEVELAND D A,A+,7
+F10,Undergraduate,ENV S   149,CLEVELAND D A,A,12
+F10,Undergraduate,ENV S   149,CLEVELAND D A,A-,16
+F10,Undergraduate,ENV S   149,CLEVELAND D A,B+,8
+F10,Undergraduate,ENV S   149,CLEVELAND D A,B,17
+F10,Undergraduate,ENV S   149,CLEVELAND D A,B-,10
+F10,Undergraduate,ENV S   149,CLEVELAND D A,C+,4
+F10,Undergraduate,ENV S   149,CLEVELAND D A,C,2
+F10,Undergraduate,ENV S   149,CLEVELAND D A,C-,2
+F10,Undergraduate,ENV S   149,CLEVELAND D A,D,1
+F10,Undergraduate,ENV S   149,CLEVELAND D A,F,1
+F10,Undergraduate,ENV S   168,CLARK J,A,1
+F10,Undergraduate,ENV S   168,CLARK J,A-,3
+F10,Undergraduate,ENV S   168,CLARK J,B+,2
+F10,Undergraduate,ENV S   168,CLARK J,B,1
+F10,Undergraduate,ENV S   168,CLARK J,B-,4
+F10,Undergraduate,ENV S   168,CLARK J,C+,1
+F10,Undergraduate,ENV S   168,CLARK J,C,2
+F10,Undergraduate,ENV S   168,CLARK J,C-,2
+F10,Undergraduate,ENV S   168,CLARK J,D,1
+F10,Undergraduate,ENV S   168,CLARK J,D-,1
+F10,Undergraduate,ENV S   168,CLARK J,F,1
+F10,Undergraduate,ENV S   172,RELIS P M,A+,3
+F10,Undergraduate,ENV S   172,RELIS P M,A,11
+F10,Undergraduate,ENV S   172,RELIS P M,A-,5
+F10,Undergraduate,ENV S   172,RELIS P M,B+,3
+F10,Undergraduate,ENV S   172,RELIS P M,B,15
+F10,Undergraduate,ENV S   172,RELIS P M,B-,2
+F10,Undergraduate,ENV S   172,RELIS P M,C,3
+F10,Undergraduate,ENV S   172,RELIS P M,F,4
+F10,Undergraduate,ENV S   173,GRAVES G R,A,3
+F10,Undergraduate,ENV S   173,GRAVES G R,A-,21
+F10,Undergraduate,ENV S   173,GRAVES G R,B+,28
+F10,Undergraduate,ENV S   173,GRAVES G R,B,40
+F10,Undergraduate,ENV S   173,GRAVES G R,B-,19
+F10,Undergraduate,ENV S   173,GRAVES G R,C+,2
+F10,Undergraduate,ENV S   173,GRAVES G R,C,5
+F10,Undergraduate,ENV S   173,GRAVES G R,C-,1
+F10,Undergraduate,ENV S   178,SMITH E R,B+,3
+F10,Undergraduate,ENV S   178,SMITH E R,B,4
+F10,Undergraduate,ENV S   178,SMITH E R,B-,3
+F10,Undergraduate,ENV S   178,SMITH E R,C,1
+F10,Undergraduate,ENV S   184,CREMERS M H,A,10
+F10,Undergraduate,ENV S   184,CREMERS M H,A-,11
+F10,Undergraduate,ENV S   184,CREMERS M H,B+,5
+F10,Undergraduate,ENV S   184,CREMERS M H,B,13
+F10,Undergraduate,ENV S   184,CREMERS M H,B-,4
+F10,Undergraduate,ENV S   184,CREMERS M H,C+,6
+F10,Undergraduate,ENV S   184,CREMERS M H,C,2
+F10,Undergraduate,ENV S   184,CREMERS M H,C-,1
+F10,Undergraduate,ENV S   184,CREMERS M H,D,1
+F10,Undergraduate,ENV S   184,CREMERS M H,F,4
+F10,Undergraduate,ENV S   190,ZIMMERMAN E D,P,239
+F10,Undergraduate,ENV S   190,ZIMMERMAN E D,NP,16
+F10,Undergraduate,ENV S   192,ZIMMERMAN E D,F,2
+F10,Undergraduate,ENV S   192,ZIMMERMAN E D,P,11
+F10,Undergraduate,ENV S   197,GRAVES G R,A,10
+F10,Undergraduate,ENV S   197,GRAVES G R,A-,1
+F10,Undergraduate,ENV S   197,GRAVES G R,B+,2
+F10,Undergraduate,ENV S   197,GRAVES G R,B,1
+F10,Graduate,ENV S   500,CREMERS M H,S,11

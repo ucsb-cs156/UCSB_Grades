@@ -1,0 +1,54 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W18,Undergraduate,FR        1,PORTENART M,A+,1
+W18,Undergraduate,FR        1,PORTENART M,A,2
+W18,Undergraduate,FR        1,PORTENART M,A-,3
+W18,Undergraduate,FR        1,PORTENART M,B+,4
+W18,Undergraduate,FR        1,PORTENART M,B,3
+W18,Undergraduate,FR        1,PORTENART M,B-,1
+W18,Undergraduate,FR        1,PORTENART M,C+,2
+W18,Undergraduate,FR        1,PORTENART M,C,1
+W18,Undergraduate,FR        2,PORTENART M,A,4
+W18,Undergraduate,FR        2,PORTENART M,A-,2
+W18,Undergraduate,FR        2,PORTENART M,B+,1
+W18,Undergraduate,FR        2,PORTENART M,B,2
+W18,Undergraduate,FR        2,PORTENART M,C+,1
+W18,Undergraduate,FR        2,PORTENART M,D+,1
+W18,Undergraduate,PORT      2,MARQUES-PASCU,A+,1
+W18,Undergraduate,PORT      2,MARQUES-PASCU,A,5
+W18,Undergraduate,PORT      2,MARQUES-PASCU,A-,3
+W18,Undergraduate,PORT      2,MARQUES-PASCU,B+,1
+W18,Undergraduate,PORT      2,MARQUES-PASCU,B,6
+W18,Undergraduate,PORT      2,MARQUES-PASCU,B-,3
+W18,Undergraduate,PORT      2,MARQUES-PASCU,C+,1
+W18,Undergraduate,PORT      2,MARQUES-PASCU,C,5
+W18,Undergraduate,PORT      5,MARQUES-PASCU,A+,1
+W18,Undergraduate,PORT      5,MARQUES-PASCU,A,2
+W18,Undergraduate,PORT      5,MARQUES-PASCU,A-,4
+W18,Undergraduate,PORT      5,MARQUES-PASCU,B,3
+W18,Undergraduate,PORT      5,MARQUES-PASCU,B-,2
+W18,Undergraduate,PORT      5,MARQUES-PASCU,C+,2
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,A,3
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,A-,5
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,B+,2
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,B,7
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,B-,1
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,C+,1
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,C,2
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,D+,1
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,D,1
+W18,Undergraduate,PORT     16A,MARQUES-PASCU,F,1
+W18,Undergraduate,PORT    102B,MENDES BRAGA,A+,2
+W18,Undergraduate,PORT    102B,MENDES BRAGA,A,1
+W18,Undergraduate,PORT    102B,MENDES BRAGA,A-,1
+W18,Undergraduate,PORT    102B,MENDES BRAGA,B,1
+W18,Undergraduate,PORT    105B,CORREA DE SA,A+,2
+W18,Undergraduate,PORT    105B,CORREA DE SA,A,5
+W18,Undergraduate,PORT    105B,CORREA DE SA,A-,1
+W18,Undergraduate,PORT    105B,CORREA DE SA,D,1
+W18,Undergraduate,PORT    129A,MENDES BRAGA,A+,8
+W18,Undergraduate,PORT    129A,MENDES BRAGA,A,4
+W18,Undergraduate,PORT    129A,MENDES BRAGA,B,2
+W18,Undergraduate,PORT    129A,MENDES BRAGA,C+,1
+W18,Graduate,PORT    295B,OLIVER E V,A+,2
+W18,Graduate,PORT    295B,OLIVER E V,A,3
+W18,Graduate,PORT    295B,OLIVER E V,A-,2

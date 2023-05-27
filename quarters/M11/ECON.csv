@@ -1,0 +1,224 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Undergraduate,ECON      2,RUPERT P,A,3
+M11,Undergraduate,ECON      2,RUPERT P,A-,6
+M11,Undergraduate,ECON      2,RUPERT P,B+,6
+M11,Undergraduate,ECON      2,RUPERT P,B,10
+M11,Undergraduate,ECON      2,RUPERT P,B-,6
+M11,Undergraduate,ECON      2,RUPERT P,C+,9
+M11,Undergraduate,ECON      2,RUPERT P,C,2
+M11,Undergraduate,ECON      2,RUPERT P,F,1
+M11,Undergraduate,ECON      3A,ANDERSON R W,A+,1
+M11,Undergraduate,ECON      3A,ANDERSON R W,A,4
+M11,Undergraduate,ECON      3A,ANDERSON R W,A-,4
+M11,Undergraduate,ECON      3A,ANDERSON R W,B+,4
+M11,Undergraduate,ECON      3A,ANDERSON R W,B,7
+M11,Undergraduate,ECON      3A,ANDERSON R W,B-,6
+M11,Undergraduate,ECON      3A,ANDERSON R W,C+,7
+M11,Undergraduate,ECON      3A,ANDERSON R W,C,25
+M11,Undergraduate,ECON      3A,ANDERSON R W,C-,10
+M11,Undergraduate,ECON      3A,ANDERSON R W,F,5
+M11,Undergraduate,ECON      3B,HARMON C J,A,3
+M11,Undergraduate,ECON      3B,HARMON C J,A-,8
+M11,Undergraduate,ECON      3B,HARMON C J,B+,7
+M11,Undergraduate,ECON      3B,HARMON C J,B,7
+M11,Undergraduate,ECON      3B,HARMON C J,B-,3
+M11,Undergraduate,ECON      3B,HARMON C J,C+,4
+M11,Undergraduate,ECON      3B,HARMON C J,C,6
+M11,Undergraduate,ECON      3B,HARMON C J,C-,2
+M11,Undergraduate,ECON      3B,HARMON C J,D+,2
+M11,Undergraduate,ECON      3B,HARMON C J,D,1
+M11,Undergraduate,ECON      3B,HARMON C J,D-,1
+M11,Undergraduate,ECON      3B,HARMON C J,F,10
+M11,Undergraduate,ECON     10A,WELDING K M,A+,3
+M11,Undergraduate,ECON     10A,WELDING K M,A,5
+M11,Undergraduate,ECON     10A,WELDING K M,A-,8
+M11,Undergraduate,ECON     10A,WELDING K M,B+,8
+M11,Undergraduate,ECON     10A,WELDING K M,B,8
+M11,Undergraduate,ECON     10A,WELDING K M,B-,9
+M11,Undergraduate,ECON     10A,WELDING K M,C+,14
+M11,Undergraduate,ECON     10A,WELDING K M,C,15
+M11,Undergraduate,ECON     10A,WELDING K M,C-,3
+M11,Undergraduate,ECON     10A,WELDING K M,F,9
+M11,Undergraduate,ECON    100B,NEIRA J M,A+,7
+M11,Undergraduate,ECON    100B,NEIRA J M,A,14
+M11,Undergraduate,ECON    100B,NEIRA J M,A-,11
+M11,Undergraduate,ECON    100B,NEIRA J M,B+,10
+M11,Undergraduate,ECON    100B,NEIRA J M,B,13
+M11,Undergraduate,ECON    100B,NEIRA J M,B-,13
+M11,Undergraduate,ECON    100B,NEIRA J M,C+,13
+M11,Undergraduate,ECON    100B,NEIRA J M,C,7
+M11,Undergraduate,ECON    100B,NEIRA J M,C-,2
+M11,Undergraduate,ECON    100B,NEIRA J M,D+,2
+M11,Undergraduate,ECON    100B,NEIRA J M,F,2
+M11,Undergraduate,ECON    101,MILOSCH J L,A+,6
+M11,Undergraduate,ECON    101,MILOSCH J L,A,13
+M11,Undergraduate,ECON    101,MILOSCH J L,A-,5
+M11,Undergraduate,ECON    101,MILOSCH J L,B+,8
+M11,Undergraduate,ECON    101,MILOSCH J L,B,18
+M11,Undergraduate,ECON    101,MILOSCH J L,B-,3
+M11,Undergraduate,ECON    101,MILOSCH J L,C+,9
+M11,Undergraduate,ECON    101,MILOSCH J L,C,6
+M11,Undergraduate,ECON    101,MILOSCH J L,C-,7
+M11,Undergraduate,ECON    101,MILOSCH J L,D+,1
+M11,Undergraduate,ECON    101,MILOSCH J L,F,4
+M11,Undergraduate,ECON    106,BENELLI C A,A+,2
+M11,Undergraduate,ECON    106,BENELLI C A,A,13
+M11,Undergraduate,ECON    106,BENELLI C A,A-,3
+M11,Undergraduate,ECON    106,BENELLI C A,B+,9
+M11,Undergraduate,ECON    106,BENELLI C A,B,16
+M11,Undergraduate,ECON    106,BENELLI C A,B-,5
+M11,Undergraduate,ECON    106,BENELLI C A,C+,7
+M11,Undergraduate,ECON    106,BENELLI C A,C,12
+M11,Undergraduate,ECON    106,BENELLI C A,C-,2
+M11,Undergraduate,ECON    106,BENELLI C A,D+,3
+M11,Undergraduate,ECON    106,BENELLI C A,F,3
+M11,Undergraduate,ECON    114,BENELLI C A,A+,2
+M11,Undergraduate,ECON    114,BENELLI C A,A,7
+M11,Undergraduate,ECON    114,BENELLI C A,A-,7
+M11,Undergraduate,ECON    114,BENELLI C A,B+,9
+M11,Undergraduate,ECON    114,BENELLI C A,B,11
+M11,Undergraduate,ECON    114,BENELLI C A,B-,7
+M11,Undergraduate,ECON    114,BENELLI C A,C+,4
+M11,Undergraduate,ECON    114,BENELLI C A,C,17
+M11,Undergraduate,ECON    114,BENELLI C A,D+,3
+M11,Undergraduate,ECON    114,BENELLI C A,F,3
+M11,Undergraduate,ECON    118,MAASS L E,A+,2
+M11,Undergraduate,ECON    118,MAASS L E,A,12
+M11,Undergraduate,ECON    118,MAASS L E,A-,6
+M11,Undergraduate,ECON    118,MAASS L E,B+,9
+M11,Undergraduate,ECON    118,MAASS L E,B,13
+M11,Undergraduate,ECON    118,MAASS L E,B-,2
+M11,Undergraduate,ECON    118,MAASS L E,C+,7
+M11,Undergraduate,ECON    118,MAASS L E,C,5
+M11,Undergraduate,ECON    118,SANDER H C,A+,1
+M11,Undergraduate,ECON    118,SANDER H C,A,3
+M11,Undergraduate,ECON    118,SANDER H C,A-,4
+M11,Undergraduate,ECON    118,SANDER H C,B+,5
+M11,Undergraduate,ECON    118,SANDER H C,B,2
+M11,Undergraduate,ECON    118,SANDER H C,B-,2
+M11,Undergraduate,ECON    118,SANDER H C,C+,5
+M11,Undergraduate,ECON    118,SANDER H C,C,2
+M11,Undergraduate,ECON    118,SANDER H C,C-,1
+M11,Undergraduate,ECON    132A,LOSTER D R,A,3
+M11,Undergraduate,ECON    132A,LOSTER D R,A-,3
+M11,Undergraduate,ECON    132A,LOSTER D R,B+,4
+M11,Undergraduate,ECON    132A,LOSTER D R,B,9
+M11,Undergraduate,ECON    132A,LOSTER D R,B-,5
+M11,Undergraduate,ECON    132A,LOSTER D R,C+,2
+M11,Undergraduate,ECON    132A,LOSTER D R,C,2
+M11,Undergraduate,ECON    132A,LOSTER D R,C-,1
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,A+,6
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,A,12
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,A-,15
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,B+,12
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,B,20
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,B-,15
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,C+,9
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,C,5
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,C-,6
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,D,4
+M11,Undergraduate,ECON    134A,SOBRAL DO ROS,F,4
+M11,Undergraduate,ECON    135,BOHN H,A+,1
+M11,Undergraduate,ECON    135,BOHN H,A,3
+M11,Undergraduate,ECON    135,BOHN H,A-,6
+M11,Undergraduate,ECON    135,BOHN H,B+,6
+M11,Undergraduate,ECON    135,BOHN H,B,3
+M11,Undergraduate,ECON    135,BOHN H,B-,4
+M11,Undergraduate,ECON    135,BOHN H,C+,3
+M11,Undergraduate,ECON    135,BOHN H,C,3
+M11,Undergraduate,ECON    136A,ANDERSON R W,A+,2
+M11,Undergraduate,ECON    136A,ANDERSON R W,A,15
+M11,Undergraduate,ECON    136A,ANDERSON R W,A-,5
+M11,Undergraduate,ECON    136A,ANDERSON R W,B+,3
+M11,Undergraduate,ECON    136A,ANDERSON R W,B,7
+M11,Undergraduate,ECON    136A,ANDERSON R W,B-,6
+M11,Undergraduate,ECON    136A,ANDERSON R W,C+,3
+M11,Undergraduate,ECON    136A,ANDERSON R W,C,3
+M11,Undergraduate,ECON    136A,ANDERSON R W,C-,6
+M11,Undergraduate,ECON    136A,ANDERSON R W,F,1
+M11,Undergraduate,ECON    136A,HARMON C J,A,2
+M11,Undergraduate,ECON    136A,HARMON C J,A-,2
+M11,Undergraduate,ECON    136A,HARMON C J,B+,3
+M11,Undergraduate,ECON    136A,HARMON C J,B,5
+M11,Undergraduate,ECON    136A,HARMON C J,B-,2
+M11,Undergraduate,ECON    136A,HARMON C J,C+,4
+M11,Undergraduate,ECON    136A,HARMON C J,C,3
+M11,Undergraduate,ECON    136A,HARMON C J,C-,1
+M11,Undergraduate,ECON    136A,HARMON C J,D+,1
+M11,Undergraduate,ECON    136B,HARMON C J,A,9
+M11,Undergraduate,ECON    136B,HARMON C J,A-,3
+M11,Undergraduate,ECON    136B,HARMON C J,B+,14
+M11,Undergraduate,ECON    136B,HARMON C J,B,10
+M11,Undergraduate,ECON    136B,HARMON C J,B-,8
+M11,Undergraduate,ECON    136B,HARMON C J,C+,8
+M11,Undergraduate,ECON    136B,HARMON C J,C,7
+M11,Undergraduate,ECON    136B,HARMON C J,C-,3
+M11,Undergraduate,ECON    136B,HARMON C J,D+,1
+M11,Undergraduate,ECON    136B,MAASS L E,A+,2
+M11,Undergraduate,ECON    136B,MAASS L E,A,4
+M11,Undergraduate,ECON    136B,MAASS L E,A-,4
+M11,Undergraduate,ECON    136B,MAASS L E,B+,3
+M11,Undergraduate,ECON    136B,MAASS L E,B,10
+M11,Undergraduate,ECON    136B,MAASS L E,B-,10
+M11,Undergraduate,ECON    136B,MAASS L E,C+,5
+M11,Undergraduate,ECON    136B,MAASS L E,C,6
+M11,Undergraduate,ECON    136B,MAASS L E,C-,2
+M11,Undergraduate,ECON    136B,MAASS L E,D+,3
+M11,Undergraduate,ECON    136B,MAASS L E,D,2
+M11,Undergraduate,ECON    136B,MAASS L E,D-,1
+M11,Undergraduate,ECON    136B,MAASS L E,F,1
+M11,Undergraduate,ECON    136C,SANDER H C,A+,1
+M11,Undergraduate,ECON    136C,SANDER H C,A,5
+M11,Undergraduate,ECON    136C,SANDER H C,A-,8
+M11,Undergraduate,ECON    136C,SANDER H C,B+,5
+M11,Undergraduate,ECON    136C,SANDER H C,B,7
+M11,Undergraduate,ECON    136C,SANDER H C,B-,8
+M11,Undergraduate,ECON    136C,SANDER H C,C+,9
+M11,Undergraduate,ECON    136C,SANDER H C,C,5
+M11,Undergraduate,ECON    136C,SANDER H C,C-,3
+M11,Undergraduate,ECON    136C,SANDER H C,D,1
+M11,Undergraduate,ECON    136C,SANDER H C,F,5
+M11,Undergraduate,ECON    137A,WATSON R B,A,7
+M11,Undergraduate,ECON    137A,WATSON R B,A-,7
+M11,Undergraduate,ECON    137A,WATSON R B,B+,10
+M11,Undergraduate,ECON    137A,WATSON R B,B,11
+M11,Undergraduate,ECON    137A,WATSON R B,B-,10
+M11,Undergraduate,ECON    137A,WATSON R B,C+,11
+M11,Undergraduate,ECON    137A,WATSON R B,C,14
+M11,Undergraduate,ECON    137A,WATSON R B,C-,12
+M11,Undergraduate,ECON    137A,WATSON R B,D,7
+M11,Undergraduate,ECON    137A,WATSON R B,F,8
+M11,Undergraduate,ECON    137B,LOSTER D R,A+,1
+M11,Undergraduate,ECON    137B,LOSTER D R,A,5
+M11,Undergraduate,ECON    137B,LOSTER D R,A-,4
+M11,Undergraduate,ECON    137B,LOSTER D R,B+,9
+M11,Undergraduate,ECON    137B,LOSTER D R,B,9
+M11,Undergraduate,ECON    137B,LOSTER D R,B-,4
+M11,Undergraduate,ECON    137B,LOSTER D R,C+,6
+M11,Undergraduate,ECON    137B,LOSTER D R,C,8
+M11,Undergraduate,ECON    137B,LOSTER D R,F,1
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,A+,1
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,A,8
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,A-,8
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,B+,6
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,B,9
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,B-,6
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,C+,3
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,C,5
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,C-,1
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,D,1
+M11,Undergraduate,ECON    171,BOFFY-RAMIREZ,F,1
+M11,Undergraduate,ECON    176,SHMIDOV V,A,6
+M11,Undergraduate,ECON    176,SHMIDOV V,A-,3
+M11,Undergraduate,ECON    176,SHMIDOV V,B+,4
+M11,Undergraduate,ECON    176,SHMIDOV V,B,6
+M11,Undergraduate,ECON    176,SHMIDOV V,C+,2
+M11,Undergraduate,ECON    189,KULPER D E,A,8
+M11,Undergraduate,ECON    189,KULPER D E,A-,8
+M11,Undergraduate,ECON    189,KULPER D E,B+,9
+M11,Undergraduate,ECON    189,KULPER D E,B,25
+M11,Undergraduate,ECON    189,KULPER D E,B-,5
+M11,Undergraduate,ECON    189,KULPER D E,C+,12
+M11,Undergraduate,ECON    189,KULPER D E,C,10
+M11,Undergraduate,ECON    189,KULPER D E,C-,5
+M11,Undergraduate,ECON    189,KULPER D E,D+,1

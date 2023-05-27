@@ -1,0 +1,114 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Undergraduate,RG ST     1,MCLAUGHLIN MJ,A,7
+M11,Undergraduate,RG ST     1,MCLAUGHLIN MJ,B+,1
+M11,Undergraduate,RG ST     1,MCLAUGHLIN MJ,B,4
+M11,Undergraduate,RG ST     1,MCLAUGHLIN MJ,B-,1
+M11,Undergraduate,RG ST     1,MCLAUGHLIN MJ,C,1
+M11,Undergraduate,RG ST     1,RICH N D,A,12
+M11,Undergraduate,RG ST     1,RICH N D,A-,7
+M11,Undergraduate,RG ST     1,RICH N D,B+,3
+M11,Undergraduate,RG ST     1,RICH N D,B,1
+M11,Undergraduate,RG ST     1,RICH N D,B-,1
+M11,Undergraduate,RG ST     3,HILLIS G A,A+,1
+M11,Undergraduate,RG ST     3,HILLIS G A,A,5
+M11,Undergraduate,RG ST     3,HILLIS G A,A-,7
+M11,Undergraduate,RG ST     3,HILLIS G A,B+,4
+M11,Undergraduate,RG ST     3,HILLIS G A,B,4
+M11,Undergraduate,RG ST     3,HILLIS G A,C+,1
+M11,Undergraduate,RG ST     3,HILLIS G A,C-,1
+M11,Undergraduate,RG ST     3,HILLIS G A,F,1
+M11,Undergraduate,RG ST     4,MCGOVERN N M,A,2
+M11,Undergraduate,RG ST     4,MCGOVERN N M,A-,5
+M11,Undergraduate,RG ST     4,MCGOVERN N M,B+,7
+M11,Undergraduate,RG ST     4,MCGOVERN N M,B,6
+M11,Undergraduate,RG ST     4,MCGOVERN N M,B-,2
+M11,Undergraduate,RG ST     4,MCGOVERN N M,D+,1
+M11,Undergraduate,RG ST     4,MCGOVERN N M,F,2
+M11,Undergraduate,RG ST     5,PUIGNAU M D,A-,4
+M11,Undergraduate,RG ST     5,PUIGNAU M D,B+,1
+M11,Undergraduate,RG ST     5,PUIGNAU M D,B,4
+M11,Undergraduate,RG ST     5,PUIGNAU M D,B-,1
+M11,Undergraduate,RG ST     5,PUIGNAU M D,C,3
+M11,Undergraduate,RG ST     5,PUIGNAU M D,F,1
+M11,Undergraduate,RG ST     7,HEEREN D L,A,2
+M11,Undergraduate,RG ST     7,HEEREN D L,A-,1
+M11,Undergraduate,RG ST     7,HEEREN D L,B+,2
+M11,Undergraduate,RG ST     7,HEEREN D L,B,2
+M11,Undergraduate,RG ST     7,HEEREN D L,C+,3
+M11,Undergraduate,RG ST     7,HEEREN D L,C,1
+M11,Undergraduate,RG ST     7,HEEREN D L,D+,1
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,A,7
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,A-,2
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,B+,1
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,B,2
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,B-,1
+M11,Undergraduate,RG ST     7,MCCONEGHY D W,C-,1
+M11,Undergraduate,RG ST     9,ESAKI B J,A+,2
+M11,Undergraduate,RG ST     9,ESAKI B J,A,1
+M11,Undergraduate,RG ST     9,ESAKI B J,A-,1
+M11,Undergraduate,RG ST     9,ESAKI B J,B,2
+M11,Undergraduate,RG ST     9,ESAKI B J,D,1
+M11,Undergraduate,RG ST     9,ESAKI B J,F,1
+M11,Undergraduate,RG ST    12,GRUBER J S,A+,1
+M11,Undergraduate,RG ST    12,GRUBER J S,A,6
+M11,Undergraduate,RG ST    12,GRUBER J S,A-,5
+M11,Undergraduate,RG ST    12,GRUBER J S,B,2
+M11,Undergraduate,RG ST    12,GRUBER J S,C,3
+M11,Undergraduate,RG ST    12,GRUBER J S,F,1
+M11,Undergraduate,RG ST    12,ONISHI B B,A,4
+M11,Undergraduate,RG ST    12,ONISHI B B,A-,5
+M11,Undergraduate,RG ST    12,ONISHI B B,B,9
+M11,Undergraduate,RG ST    12,ONISHI B B,B-,1
+M11,Undergraduate,RG ST    12,ONISHI B B,C-,1
+M11,Undergraduate,RG ST    14,MCCOMB A M,A,2
+M11,Undergraduate,RG ST    14,MCCOMB A M,A-,5
+M11,Undergraduate,RG ST    14,MCCOMB A M,B+,2
+M11,Undergraduate,RG ST    14,MCCOMB A M,B,4
+M11,Undergraduate,RG ST    14,MCCOMB A M,B-,1
+M11,Undergraduate,RG ST    14,MCCOMB A M,C+,2
+M11,Undergraduate,RG ST    14,MCCOMB A M,C,1
+M11,Undergraduate,RG ST    14,MCCOMB A M,F,1
+M11,Undergraduate,RG ST    20,FOWLER D S,A+,1
+M11,Undergraduate,RG ST    20,FOWLER D S,A,4
+M11,Undergraduate,RG ST    20,FOWLER D S,A-,3
+M11,Undergraduate,RG ST    20,FOWLER D S,B+,2
+M11,Undergraduate,RG ST    20,FOWLER D S,B,4
+M11,Undergraduate,RG ST    20,FOWLER D S,C,1
+M11,Undergraduate,RG ST    20,FOWLER D S,F,1
+M11,Undergraduate,RG ST   113,HECHT R,A,6
+M11,Undergraduate,RG ST   113,HECHT R,A-,7
+M11,Undergraduate,RG ST   113,HECHT R,B+,3
+M11,Undergraduate,RG ST   113,HECHT R,B,7
+M11,Undergraduate,RG ST   113,HECHT R,B-,7
+M11,Undergraduate,RG ST   113,HECHT R,C,1
+M11,Undergraduate,RG ST   113,HECHT R,F,2
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,A,3
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,A-,1
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,B+,3
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,B,5
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,C+,2
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,C,2
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,C-,1
+M11,Undergraduate,RG ST   116A,SCHMIDT E A,D,1
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,A,2
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,A-,2
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,B+,1
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,B,1
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,B-,3
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,C,4
+M11,Undergraduate,RG ST   116E,LINTHICUM E M,F,2
+M11,Undergraduate,RG ST   140A,FRENCH N S,A,1
+M11,Undergraduate,RG ST   140A,FRENCH N S,A-,3
+M11,Undergraduate,RG ST   140A,FRENCH N S,B+,2
+M11,Undergraduate,RG ST   140A,FRENCH N S,B,3
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,A+,1
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,A,3
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,A-,5
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,B+,2
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,B,3
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,B-,4
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,C+,3
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,C,1
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,C-,1
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,D+,1
+M11,Undergraduate,RG ST   192,SLOMINSKI K L,D,3

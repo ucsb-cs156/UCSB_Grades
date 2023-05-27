@@ -1,0 +1,123 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W20,Undergraduate,THTR      1,KING W D,A,30
+W20,Undergraduate,THTR      1,KING W D,A-,24
+W20,Undergraduate,THTR      1,KING W D,B,5
+W20,Undergraduate,THTR      1,KING W D,B-,5
+W20,Undergraduate,THTR      1,KING W D,B+,17
+W20,Undergraduate,THTR      1,KING W D,C,1
+W20,Undergraduate,THTR      1,KING W D,C+,2
+W20,Undergraduate,THTR      5,FISHELL J K,A,96
+W20,Undergraduate,THTR      5,FISHELL J K,A-,8
+W20,Undergraduate,THTR      5,FISHELL J K,A+,2
+W20,Undergraduate,THTR      5,FISHELL J K,B,4
+W20,Undergraduate,THTR      5,FISHELL J K,B-,2
+W20,Undergraduate,THTR      5,FISHELL J K,B+,2
+W20,Undergraduate,THTR      5,FISHELL J K,C,1
+W20,Undergraduate,THTR     10B,STEIN D A,A,4
+W20,Undergraduate,THTR     10B,STEIN D A,B,3
+W20,Undergraduate,THTR     10B,STEIN D A,B+,5
+W20,Undergraduate,THTR     11B,MORGAN M,A,2
+W20,Undergraduate,THTR     11B,MORGAN M,A-,3
+W20,Undergraduate,THTR     11B,MORGAN M,B,2
+W20,Undergraduate,THTR     11B,MORGAN M,B-,1
+W20,Undergraduate,THTR     11B,MORGAN M,B+,4
+W20,Undergraduate,THTR     15B,FISHELL J K,A,8
+W20,Undergraduate,THTR     15B,FISHELL J K,A-,2
+W20,Undergraduate,THTR     15B,FISHELL J K,B+,2
+W20,Undergraduate,THTR     23,SCOTT V,A,9
+W20,Undergraduate,THTR     23,SCOTT V,A-,5
+W20,Undergraduate,THTR     23,SCOTT V,B,2
+W20,Undergraduate,THTR     23,SCOTT V,B+,1
+W20,Undergraduate,THTR     23,SCOTT V,F,1
+W20,Undergraduate,THTR     25,BRUICE A M,A,10
+W20,Undergraduate,THTR     25,BRUICE A M,A-,3
+W20,Undergraduate,THTR     25,BRUICE A M,A+,1
+W20,Undergraduate,THTR     25,BRUICE A M,B-,1
+W20,Undergraduate,THTR     29A,SHEFFIELD C A,A,11
+W20,Undergraduate,THTR     29A,SHEFFIELD C A,A-,1
+W20,Undergraduate,THTR     29A,SHEFFIELD C A,B,2
+W20,Undergraduate,THTR     29B,SHEFFIELD C A,A,1
+W20,Undergraduate,THTR     29B,SHEFFIELD C A,A+,11
+W20,Undergraduate,THTR     29B,SHEFFIELD C A,B-,1
+W20,Undergraduate,THTR     29B,SHEFFIELD C A,B+,2
+W20,Undergraduate,THTR     29C,SHEFFIELD C A,A,9
+W20,Undergraduate,THTR     29C,SHEFFIELD C A,A-,1
+W20,Undergraduate,THTR     29C,SHEFFIELD C A,B,1
+W20,Undergraduate,THTR     29D,SHEFFIELD C A,A,17
+W20,Undergraduate,THTR     29D,SHEFFIELD C A,A-,1
+W20,Undergraduate,THTR     29D,SHEFFIELD C A,A+,1
+W20,Undergraduate,THTR     42,APPEL I J,A,2
+W20,Undergraduate,THTR     42,APPEL I J,A-,1
+W20,Undergraduate,THTR     42,APPEL I J,A+,3
+W20,Undergraduate,THTR     42,APPEL I J,B+,1
+W20,Undergraduate,THTR     42,APPEL I J,C,1
+W20,Undergraduate,THTR    110B,STEIN D A,A,8
+W20,Undergraduate,THTR    110B,STEIN D A,A-,1
+W20,Undergraduate,THTR    111B,MORGAN M,A,8
+W20,Undergraduate,THTR    111B,MORGAN M,B-,1
+W20,Undergraduate,THTR    122,MITCHELL G M,A,3
+W20,Undergraduate,THTR    122,MITCHELL G M,A-,1
+W20,Undergraduate,THTR    122,MITCHELL G M,B+,1
+W20,Undergraduate,THTR    122,MITCHELL G M,D,2
+W20,Undergraduate,THTR    123,SCOTT V,A,7
+W20,Undergraduate,THTR    123,SCOTT V,A+,1
+W20,Undergraduate,THTR    123,SCOTT V,B+,1
+W20,Undergraduate,THTR    140A,BERNARD M A,A,17
+W20,Undergraduate,THTR    140A,BERNARD M A,A-,2
+W20,Undergraduate,THTR    140A,BERNARD M A,B+,1
+W20,Undergraduate,THTR    142,APPEL I J,A,2
+W20,Undergraduate,THTR    142,APPEL I J,A-,1
+W20,Undergraduate,THTR    142,APPEL I J,A+,7
+W20,Undergraduate,THTR    142,APPEL I J,B-,2
+W20,Undergraduate,THTR    142,APPEL I J,B+,2
+W20,Undergraduate,THTR    149,FISHELL J K,A,4
+W20,Undergraduate,THTR    149,FISHELL J K,A+,2
+W20,Undergraduate,THTR    149,SCOTT V,A,5
+W20,Undergraduate,THTR    149,SHEFFIELD C A,A,14
+W20,Undergraduate,THTR    149,SHEFFIELD C A,A-,1
+W20,Undergraduate,THTR    149,SHEFFIELD C A,A+,2
+W20,Undergraduate,THTR    151B,BERNARD M A,A,9
+W20,Undergraduate,THTR    151B,BRAININ R,A,9
+W20,Undergraduate,THTR    151D,BERNARD M A,A,9
+W20,Undergraduate,THTR    151D,LEWIS J D,A,9
+W20,Undergraduate,THTR    151S,STEIN D A,A,9
+W20,Undergraduate,THTR    152B,BRAININ R,A,3
+W20,Undergraduate,THTR    152B,BRAININ R,A-,2
+W20,Undergraduate,THTR    152B,BRAININ R,B+,2
+W20,Undergraduate,THTR    152B,FISHELL J K,A,3
+W20,Undergraduate,THTR    152B,FISHELL J K,A-,2
+W20,Undergraduate,THTR    152B,FISHELL J K,B+,2
+W20,Undergraduate,THTR    160C,MORGAN M,A,7
+W20,Undergraduate,THTR    160C,MORGAN M,A-,1
+W20,Undergraduate,THTR    160C,MORGAN M,B-,1
+W20,Undergraduate,THTR    180F,NAKAMURA J C,A,12
+W20,Undergraduate,THTR    180F,NAKAMURA J C,A-,9
+W20,Undergraduate,THTR    180F,NAKAMURA J C,B,2
+W20,Undergraduate,THTR    180F,NAKAMURA J C,B+,5
+W20,Undergraduate,THTR    180F,NAKAMURA J C,F,1
+W20,Undergraduate,THTR    182MC,WILLIAMS S,A,5
+W20,Undergraduate,THTR    182MC,WILLIAMS S,A-,9
+W20,Undergraduate,THTR    182MC,WILLIAMS S,B,11
+W20,Undergraduate,THTR    182MC,WILLIAMS S,B-,4
+W20,Undergraduate,THTR    182MC,WILLIAMS S,B+,12
+W20,Undergraduate,THTR    182MC,WILLIAMS S,C,3
+W20,Undergraduate,THTR    182MC,WILLIAMS S,C-,1
+W20,Undergraduate,THTR    182MC,WILLIAMS S,C+,5
+W20,Undergraduate,THTR    182MC,WILLIAMS S,F,1
+W20,Undergraduate,THTR    187MU,HELLIER-TINOC,A+,6
+W20,Undergraduate,THTR    188S,ARVAS A,A,26
+W20,Undergraduate,THTR    188S,ARVAS A,A-,5
+W20,Undergraduate,THTR    188S,ARVAS A,A+,18
+W20,Undergraduate,THTR    188S,ARVAS A,B-,1
+W20,Undergraduate,THTR    188S,ARVAS A,F,1
+W20,Undergraduate,THTR    192,BAKI H A,A,1
+W20,Undergraduate,THTR    192,BAKI H A,A-,3
+W20,Undergraduate,THTR    192,BAKI H A,B,2
+W20,Undergraduate,THTR    192,BAKI H A,B-,3
+W20,Undergraduate,THTR    192,BAKI H A,B+,2
+W20,Undergraduate,THTR    192,BAKI H A,C,1
+W20,Undergraduate,THTR    195P,HERRERA D J,A,6
+W20,Undergraduate,THTR    196,BRUICE A M,A,5
+W20,Graduate,THTR    250,ARVAS A,A+,5
+W20,Graduate,THTR    250,KING W D,A,8
+W20,Graduate,THTR    250,KING W D,A-,2

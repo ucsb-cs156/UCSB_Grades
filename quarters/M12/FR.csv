@@ -1,0 +1,92 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,EEMB     94,FRENCH L,A,7
+M12,Undergraduate,EEMB     94,FRENCH L,A-,5
+M12,Undergraduate,EEMB     94,FRENCH L,B+,2
+M12,Undergraduate,EEMB     94,FRENCH L,B,1
+M12,Undergraduate,EEMB     94,FRENCH L,C+,1
+M12,Undergraduate,EEMB     94,FRENCH L,C,1
+M12,Undergraduate,EEMB     94,FRENCH L,D,1
+M12,Undergraduate,FR        1,KAPLAN S C,A+,1
+M12,Undergraduate,FR        1,KAPLAN S C,A,2
+M12,Undergraduate,FR        1,KAPLAN S C,A-,2
+M12,Undergraduate,FR        1,KAPLAN S C,B+,2
+M12,Undergraduate,FR        1,KAPLAN S C,B,3
+M12,Undergraduate,FR        1,KAPLAN S C,F,1
+M12,Undergraduate,FR        2,TURMAN K C,A+,1
+M12,Undergraduate,FR        2,TURMAN K C,A,3
+M12,Undergraduate,FR        2,TURMAN K C,A-,2
+M12,Undergraduate,FR        2,TURMAN K C,B+,2
+M12,Undergraduate,FR        2,TURMAN K C,B,3
+M12,Undergraduate,FR        2,TURMAN K C,B-,3
+M12,Undergraduate,FR        2,TURMAN K C,F,1
+M12,Undergraduate,FR        3,POLLOCK A L,A+,1
+M12,Undergraduate,FR        3,POLLOCK A L,A,2
+M12,Undergraduate,FR        3,POLLOCK A L,A-,3
+M12,Undergraduate,FR        3,POLLOCK A L,B+,4
+M12,Undergraduate,FR        3,POLLOCK A L,B,2
+M12,Undergraduate,FR        3,POLLOCK A L,B-,1
+M12,Undergraduate,FR        3,POLLOCK A L,C+,2
+M12,Undergraduate,FR        3,POLLOCK A L,C-,1
+M12,Undergraduate,FR        3,POLLOCK A L,F,1
+M12,Undergraduate,FR        4,CORBIN C,A,4
+M12,Undergraduate,FR        4,CORBIN C,A-,2
+M12,Undergraduate,FR        4,CORBIN C,B+,1
+M12,Undergraduate,FR        4,CORBIN C,B,2
+M12,Undergraduate,FR        4,CORBIN C,B-,1
+M12,Undergraduate,FR        5,CORBIN C,A,4
+M12,Undergraduate,FR        5,CORBIN C,A-,3
+M12,Undergraduate,FR        5,CORBIN C,B+,3
+M12,Undergraduate,FR        5,CORBIN C,C+,1
+M12,Undergraduate,FR        5,CORBIN C,C,1
+M12,Undergraduate,FR        6,KOLZOW ART E,A,5
+M12,Undergraduate,FR        6,KOLZOW ART E,A-,2
+M12,Undergraduate,FR        6,KOLZOW ART E,B+,4
+M12,Undergraduate,FR        6,KOLZOW ART E,B,1
+M12,Undergraduate,FR        6,KOLZOW ART E,B-,1
+M12,Undergraduate,FR       50BX,TURMAN K C,A+,1
+M12,Undergraduate,FR       50BX,TURMAN K C,A,5
+M12,Undergraduate,FR       50BX,TURMAN K C,A-,2
+M12,Undergraduate,FR       50BX,TURMAN K C,B+,1
+M12,Undergraduate,FR       50BX,TURMAN K C,B,1
+M12,Undergraduate,FR       50BX,TURMAN K C,B-,2
+M12,Undergraduate,FR       50BX,TURMAN K C,C,1
+M12,Undergraduate,FR       50CX,CHEVANT A,A+,3
+M12,Undergraduate,FR       50CX,CHEVANT A,A,6
+M12,Undergraduate,FR       50CX,CHEVANT A,A-,6
+M12,Undergraduate,FR       50CX,CHEVANT A,B+,2
+M12,Undergraduate,FR       50CX,CHEVANT A,B,5
+M12,Undergraduate,FR       50CX,CHEVANT A,B-,1
+M12,Undergraduate,FR       50CX,CHEVANT A,C,1
+M12,Undergraduate,FR       50CX,CHEVANT A,F,1
+M12,Undergraduate,FR      154F,ADAIR K R,A,4
+M12,Undergraduate,FR      154F,ADAIR K R,A-,4
+M12,Undergraduate,FR      154F,ADAIR K R,B+,5
+M12,Undergraduate,FR      154F,ADAIR K R,B,3
+M12,Undergraduate,FR      154F,ADAIR K R,B-,1
+M12,Undergraduate,FR      154F,ADAIR K R,C+,1
+M12,Undergraduate,FR      154F,ADAIR K R,C,1
+M12,Undergraduate,FR      154F,ADAIR K R,D,1
+M12,Undergraduate,FR      155C,NESCI C,A+,5
+M12,Undergraduate,FR      155C,NESCI C,A,9
+M12,Undergraduate,FR      155C,NESCI C,A-,2
+M12,Undergraduate,FR      155C,NESCI C,B+,1
+M12,Undergraduate,FR      155C,NESCI C,C+,1
+M12,Undergraduate,PHYS      2,FREUND E G,A+,2
+M12,Undergraduate,PHYS      2,FREUND E G,A,8
+M12,Undergraduate,PHYS      2,FREUND E G,A-,4
+M12,Undergraduate,PHYS      2,FREUND E G,B+,9
+M12,Undergraduate,PHYS      2,FREUND E G,B,10
+M12,Undergraduate,PHYS      2,FREUND E G,B-,4
+M12,Undergraduate,PHYS      2,FREUND E G,C+,2
+M12,Undergraduate,PHYS      2,FREUND E G,C,2
+M12,Undergraduate,PHYS      2,FREUND E G,C-,4
+M12,Undergraduate,PHYS      2,FREUND E G,D-,2
+M12,Undergraduate,PSY     123,FRITHSEN A L,A,4
+M12,Undergraduate,PSY     123,FRITHSEN A L,A-,5
+M12,Undergraduate,PSY     123,FRITHSEN A L,B+,2
+M12,Undergraduate,PSY     123,FRITHSEN A L,B,6
+M12,Undergraduate,PSY     123,FRITHSEN A L,B-,3
+M12,Undergraduate,PSY     123,FRITHSEN A L,C+,4
+M12,Undergraduate,PSY     123,FRITHSEN A L,C,3
+M12,Undergraduate,PSY     123,FRITHSEN A L,C-,4
+M12,Undergraduate,PSY     123,FRITHSEN A L,D+,1

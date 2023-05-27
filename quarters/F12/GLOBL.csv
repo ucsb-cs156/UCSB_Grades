@@ -1,0 +1,96 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F12,Undergraduate,GLOBL     1,MCCARTY P C,A+,3
+F12,Undergraduate,GLOBL     1,MCCARTY P C,A,128
+F12,Undergraduate,GLOBL     1,MCCARTY P C,A-,48
+F12,Undergraduate,GLOBL     1,MCCARTY P C,B+,46
+F12,Undergraduate,GLOBL     1,MCCARTY P C,B,32
+F12,Undergraduate,GLOBL     1,MCCARTY P C,B-,3
+F12,Undergraduate,GLOBL     1,MCCARTY P C,C+,4
+F12,Undergraduate,GLOBL     1,MCCARTY P C,C,5
+F12,Undergraduate,GLOBL     1,MCCARTY P C,C-,2
+F12,Undergraduate,GLOBL     1,MCCARTY P C,D+,1
+F12,Undergraduate,GLOBL     1,MCCARTY P C,D,1
+F12,Undergraduate,GLOBL     1,MCCARTY P C,F,1
+F12,Undergraduate,GLOBL     2,APPELBAUM R,A,36
+F12,Undergraduate,GLOBL     2,APPELBAUM R,A-,25
+F12,Undergraduate,GLOBL     2,APPELBAUM R,B+,29
+F12,Undergraduate,GLOBL     2,APPELBAUM R,B,80
+F12,Undergraduate,GLOBL     2,APPELBAUM R,B-,23
+F12,Undergraduate,GLOBL     2,APPELBAUM R,C+,21
+F12,Undergraduate,GLOBL     2,APPELBAUM R,C,38
+F12,Undergraduate,GLOBL     2,APPELBAUM R,C-,10
+F12,Undergraduate,GLOBL     2,APPELBAUM R,D+,3
+F12,Undergraduate,GLOBL     2,APPELBAUM R,D,6
+F12,Undergraduate,GLOBL     2,APPELBAUM R,F,1
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,A,15
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,A-,32
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,B+,27
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,B,19
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,B-,24
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,C+,6
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,C,5
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,C-,12
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,D+,3
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,D-,1
+F12,Undergraduate,GLOBL   110,CLITANDRE N T,F,1
+F12,Undergraduate,GLOBL   111,BRYSK A,A+,7
+F12,Undergraduate,GLOBL   111,BRYSK A,A,41
+F12,Undergraduate,GLOBL   111,BRYSK A,A-,11
+F12,Undergraduate,GLOBL   111,BRYSK A,B+,8
+F12,Undergraduate,GLOBL   111,BRYSK A,B,15
+F12,Undergraduate,GLOBL   111,BRYSK A,B-,5
+F12,Undergraduate,GLOBL   111,BRYSK A,C+,3
+F12,Undergraduate,GLOBL   111,BRYSK A,C,3
+F12,Undergraduate,GLOBL   111,BRYSK A,D+,2
+F12,Undergraduate,GLOBL   111,BRYSK A,F,1
+F12,Undergraduate,GLOBL   120,AMAR P E,A+,8
+F12,Undergraduate,GLOBL   120,AMAR P E,A,37
+F12,Undergraduate,GLOBL   120,AMAR P E,A-,10
+F12,Undergraduate,GLOBL   120,AMAR P E,B+,16
+F12,Undergraduate,GLOBL   120,AMAR P E,B,15
+F12,Undergraduate,GLOBL   120,AMAR P E,B-,6
+F12,Undergraduate,GLOBL   120,AMAR P E,C+,14
+F12,Undergraduate,GLOBL   120,AMAR P E,C,4
+F12,Undergraduate,GLOBL   120,AMAR P E,D+,2
+F12,Undergraduate,GLOBL   120,AMAR P E,F,3
+F12,Undergraduate,GLOBL   123,COHEN B J,A,3
+F12,Undergraduate,GLOBL   123,COHEN B J,A-,5
+F12,Undergraduate,GLOBL   123,COHEN B J,B+,13
+F12,Undergraduate,GLOBL   123,COHEN B J,B,17
+F12,Undergraduate,GLOBL   123,COHEN B J,B-,7
+F12,Undergraduate,GLOBL   123,COHEN B J,C+,2
+F12,Undergraduate,GLOBL   123,COHEN B J,C,3
+F12,Undergraduate,GLOBL   130,MCCARTY P C,A+,2
+F12,Undergraduate,GLOBL   130,MCCARTY P C,A,73
+F12,Undergraduate,GLOBL   130,MCCARTY P C,A-,29
+F12,Undergraduate,GLOBL   130,MCCARTY P C,B+,18
+F12,Undergraduate,GLOBL   130,MCCARTY P C,B,12
+F12,Undergraduate,GLOBL   130,MCCARTY P C,B-,2
+F12,Undergraduate,GLOBL   130,MCCARTY P C,C,2
+F12,Undergraduate,GLOBL   130,MCCARTY P C,D,1
+F12,Undergraduate,GLOBL   130,MCCARTY P C,F,2
+F12,Undergraduate,GLOBL   161,CLEMENCON R,A+,1
+F12,Undergraduate,GLOBL   161,CLEMENCON R,A,8
+F12,Undergraduate,GLOBL   161,CLEMENCON R,A-,2
+F12,Undergraduate,GLOBL   161,CLEMENCON R,B+,8
+F12,Undergraduate,GLOBL   161,CLEMENCON R,B,8
+F12,Undergraduate,GLOBL   161,CLEMENCON R,B-,1
+F12,Undergraduate,GLOBL   161,CLEMENCON R,C+,1
+F12,Undergraduate,GLOBL   161,CLEMENCON R,C,1
+F12,Undergraduate,GLOBL   161,CLEMENCON R,D,1
+F12,Undergraduate,GLOBL   161,CLEMENCON R,F,1
+F12,Undergraduate,GLOBL   162,AMAR P E,A,13
+F12,Undergraduate,GLOBL   162,AMAR P E,A-,8
+F12,Undergraduate,GLOBL   162,AMAR P E,B+,5
+F12,Undergraduate,GLOBL   162,AMAR P E,B,4
+F12,Undergraduate,GLOBL   162,AMAR P E,B-,1
+F12,Undergraduate,GLOBL   194,ORFALEA P J,A,25
+F12,Undergraduate,GLOBL   199,BRYSK A,A,6
+F12,Graduate,GLOBL   220,JUERGENSMEYER,A,10
+F12,Graduate,GLOBL   221,NEDERVEEN PIE,A,4
+F12,Graduate,GLOBL   221,NEDERVEEN PIE,A-,3
+F12,Graduate,GLOBL   221,NEDERVEEN PIE,B+,1
+F12,Graduate,GLOBL   221,NEDERVEEN PIE,B,1
+F12,Graduate,GLOBL   222,GUNN G B,A+,2
+F12,Graduate,GLOBL   222,GUNN G B,A,7
+F12,Graduate,GLOBL   232A,APPELBAUM R,S,9

@@ -1,0 +1,93 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F09,Undergraduate,ANTH      2,WALSH C,A+,1
+F09,Undergraduate,ANTH      2,WALSH C,A,70
+F09,Undergraduate,ANTH      2,WALSH C,A-,77
+F09,Undergraduate,ANTH      2,WALSH C,B+,64
+F09,Undergraduate,ANTH      2,WALSH C,B,217
+F09,Undergraduate,ANTH      2,WALSH C,B-,59
+F09,Undergraduate,ANTH      2,WALSH C,C+,44
+F09,Undergraduate,ANTH      2,WALSH C,C,79
+F09,Undergraduate,ANTH      2,WALSH C,C-,26
+F09,Undergraduate,ANTH      2,WALSH C,D+,13
+F09,Undergraduate,ANTH      2,WALSH C,D,16
+F09,Undergraduate,ANTH      2,WALSH C,D-,3
+F09,Undergraduate,ANTH      2,WALSH C,F,11
+F09,Undergraduate,ANTH      5,GAULIN S J,A+,40
+F09,Undergraduate,ANTH      5,GAULIN S J,A,65
+F09,Undergraduate,ANTH      5,GAULIN S J,A-,39
+F09,Undergraduate,ANTH      5,GAULIN S J,B+,33
+F09,Undergraduate,ANTH      5,GAULIN S J,B,77
+F09,Undergraduate,ANTH      5,GAULIN S J,B-,36
+F09,Undergraduate,ANTH      5,GAULIN S J,C+,34
+F09,Undergraduate,ANTH      5,GAULIN S J,C,51
+F09,Undergraduate,ANTH      5,GAULIN S J,C-,27
+F09,Undergraduate,ANTH      5,GAULIN S J,D+,20
+F09,Undergraduate,ANTH      5,GAULIN S J,D,24
+F09,Undergraduate,ANTH      5,GAULIN S J,D-,5
+F09,Undergraduate,ANTH      5,GAULIN S J,F,26
+F09,Undergraduate,ANTH    100,JOCHIM M A,A,7
+F09,Undergraduate,ANTH    100,JOCHIM M A,A-,14
+F09,Undergraduate,ANTH    100,JOCHIM M A,B+,11
+F09,Undergraduate,ANTH    100,JOCHIM M A,B,4
+F09,Undergraduate,ANTH    100,JOCHIM M A,B-,2
+F09,Undergraduate,ANTH    100,JOCHIM M A,C+,2
+F09,Undergraduate,ANTH    100,JOCHIM M A,C,2
+F09,Undergraduate,ANTH    100,JOCHIM M A,D+,2
+F09,Undergraduate,ANTH    100,JOCHIM M A,D,1
+F09,Undergraduate,ANTH    110,CREMERS M H,A+,15
+F09,Undergraduate,ANTH    110,CREMERS M H,A,22
+F09,Undergraduate,ANTH    110,CREMERS M H,A-,39
+F09,Undergraduate,ANTH    110,CREMERS M H,B+,27
+F09,Undergraduate,ANTH    110,CREMERS M H,B,9
+F09,Undergraduate,ANTH    110,CREMERS M H,B-,12
+F09,Undergraduate,ANTH    110,CREMERS M H,C+,4
+F09,Undergraduate,ANTH    110,CREMERS M H,C,4
+F09,Undergraduate,ANTH    110,CREMERS M H,C-,2
+F09,Undergraduate,ANTH    110,CREMERS M H,D+,1
+F09,Undergraduate,ANTH    110,CREMERS M H,D,1
+F09,Undergraduate,ANTH    110,CREMERS M H,F,2
+F09,Undergraduate,ANTH    116B,HANCOCK M E,A,3
+F09,Undergraduate,ANTH    116B,HANCOCK M E,A-,5
+F09,Undergraduate,ANTH    116B,HANCOCK M E,B+,4
+F09,Undergraduate,ANTH    116B,HANCOCK M E,B,2
+F09,Undergraduate,ANTH    116B,HANCOCK M E,B-,3
+F09,Undergraduate,ANTH    116B,HANCOCK M E,C+,4
+F09,Undergraduate,ANTH    116B,HANCOCK M E,C,1
+F09,Undergraduate,ANTH    116B,HANCOCK M E,D,1
+F09,Undergraduate,ANTH    121T,SZNYCER D,A+,2
+F09,Undergraduate,ANTH    121T,SZNYCER D,A,5
+F09,Undergraduate,ANTH    121T,SZNYCER D,A-,1
+F09,Undergraduate,ANTH    121T,SZNYCER D,B,7
+F09,Undergraduate,ANTH    121T,SZNYCER D,B-,5
+F09,Undergraduate,ANTH    121T,SZNYCER D,C,7
+F09,Undergraduate,ANTH    121T,SZNYCER D,C-,1
+F09,Undergraduate,ANTH    121T,SZNYCER D,D+,3
+F09,Undergraduate,ANTH    121T,SZNYCER D,D,10
+F09,Undergraduate,ANTH    121T,SZNYCER D,D-,1
+F09,Undergraduate,ANTH    121T,SZNYCER D,F,2
+F09,Undergraduate,ANTH    149,CLEVELAND D A,A-,2
+F09,Undergraduate,ANTH    149,CLEVELAND D A,B+,3
+F09,Undergraduate,ANTH    149,CLEVELAND D A,B,2
+F09,Undergraduate,ANTH    149,CLEVELAND D A,B-,1
+F09,Undergraduate,ANTH    149,CLEVELAND D A,C+,3
+F09,Undergraduate,ANTH    149,CLEVELAND D A,C,1
+F09,Undergraduate,ANTH    178,GAMBLE L H,P,16
+F09,Undergraduate,ANTH    182M,WILSON G D,A,4
+F09,Undergraduate,ANTH    182M,WILSON G D,A-,4
+F09,Undergraduate,ANTH    182M,WILSON G D,B+,5
+F09,Undergraduate,ANTH    182M,WILSON G D,B,4
+F09,Undergraduate,ANTH    182M,WILSON G D,B-,3
+F09,Undergraduate,ANTH    182M,WILSON G D,C+,3
+F09,Undergraduate,ANTH    182M,WILSON G D,C,2
+F09,Undergraduate,ANTH    182M,WILSON G D,D+,1
+F09,Undergraduate,ANTH    194P,GAMBLE L H,A,8
+F09,Undergraduate,ANTH    194P,GLASSOW M A,A,5
+F09,Undergraduate,ANTH    199RA,GAULIN S J,A,11
+F09,Undergraduate,ANTH    199RA,GAULIN S J,A-,2
+F09,Undergraduate,ANTH    199RA,GAULIN S J,B+,1
+F09,Graduate,ANTH    234,TOOBY J,A,12
+F09,Graduate,ANTH    240A,STONICH S C,A,8
+F09,Graduate,ANTH    277,WALSH C,S,11
+F09,Graduate,ANTH    501,GAULIN S J,S,5
+F09,Graduate,ANTH    501,WALSH C,S,10
+F09,Graduate,ANTH    598,GLASSOW M A,S,7

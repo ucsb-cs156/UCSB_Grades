@@ -1,0 +1,40 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,ENGR      3,PETZOLD L,A+,3
+S16,Undergraduate,ENGR      3,PETZOLD L,A,14
+S16,Undergraduate,ENGR      3,PETZOLD L,A-,9
+S16,Undergraduate,ENGR      3,PETZOLD L,B+,1
+S16,Undergraduate,ENGR      3,PETZOLD L,B,26
+S16,Undergraduate,ENGR      3,PETZOLD L,B-,6
+S16,Undergraduate,ENGR      3,PETZOLD L,C+,5
+S16,Undergraduate,ENGR      3,PETZOLD L,C,9
+S16,Undergraduate,ENGR      3,PETZOLD L,C-,3
+S16,Undergraduate,ENGR      3,PETZOLD L,D,1
+S16,Undergraduate,ENGR      3,PETZOLD L,D-,2
+S16,Undergraduate,ENGR      3,PETZOLD L,F,7
+S16,Undergraduate,ENGR    101,FENRICH E B,A,41
+S16,Undergraduate,ENGR    101,FENRICH E B,A-,4
+S16,Undergraduate,ENGR    101,FENRICH E B,B+,5
+S16,Undergraduate,ENGR    101,FENRICH E B,B,2
+S16,Undergraduate,ENGR    101,FENRICH E B,B-,1
+S16,Undergraduate,ENGR    101,WALLING O W,A,1
+S16,Undergraduate,ENGR    101,WALLING O W,A-,13
+S16,Undergraduate,ENGR    101,WALLING O W,B+,7
+S16,Undergraduate,ENGR    101,WALLING O W,B,13
+S16,Undergraduate,ENGR    101,WALLING O W,B-,5
+S16,Undergraduate,ENGR    101,WALLING O W,C+,5
+S16,Undergraduate,ENGR    101,WALLING O W,C,2
+S16,Undergraduate,ENGR    101,WALLING O W,D,1
+S16,Undergraduate,ENGR    101,WALLING O W,F,1
+S16,Undergraduate,ENGR    195C,SUSKO T G,A+,5
+S16,Undergraduate,ENGR    195C,SUSKO T G,A,30
+S16,Undergraduate,ENGR    195C,SUSKO T G,A-,6
+S16,Undergraduate,ENGR    195C,SUSKO T G,B+,7
+S16,Graduate,ENGR    220C,DOYLE A M,A+,2
+S16,Graduate,ENGR    220C,DOYLE A M,A,4
+S16,Graduate,ENGR    220C,DOYLE A M,A-,1
+S16,Graduate,ENGR    220C,DOYLE A M,B+,2
+S16,Graduate,ENGR    220C,MITRAGOTRI S,A+,2
+S16,Graduate,ENGR    220C,MITRAGOTRI S,A,4
+S16,Graduate,ENGR    220C,MITRAGOTRI S,A-,1
+S16,Graduate,ENGR    220C,MITRAGOTRI S,B+,2
+S16,Graduate,ENGR    230,DOYLE A M,S,5

@@ -1,0 +1,93 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S17,Undergraduate,CH E    110B,HAN SONGI,A+,2
+S17,Undergraduate,CH E    110B,HAN SONGI,A,15
+S17,Undergraduate,CH E    110B,HAN SONGI,A-,16
+S17,Undergraduate,CH E    110B,HAN SONGI,B+,15
+S17,Undergraduate,CH E    110B,HAN SONGI,B,14
+S17,Undergraduate,CH E    110B,HAN SONGI,B-,4
+S17,Undergraduate,CH E    110B,HAN SONGI,C+,3
+S17,Undergraduate,CH E    110B,HAN SONGI,C,3
+S17,Undergraduate,CH E    110B,HAN SONGI,C-,1
+S17,Undergraduate,CH E    119,GORDON M J,P,48
+S17,Undergraduate,CH E    119,GORDON M J,NP,1
+S17,Undergraduate,CH E    119,HELGESON M E,P,48
+S17,Undergraduate,CH E    119,HELGESON M E,NP,1
+S17,Undergraduate,CH E    120C,DEY S S,A+,3
+S17,Undergraduate,CH E    120C,DEY S S,A,8
+S17,Undergraduate,CH E    120C,DEY S S,A-,8
+S17,Undergraduate,CH E    120C,DEY S S,B+,4
+S17,Undergraduate,CH E    120C,DEY S S,B,7
+S17,Undergraduate,CH E    120C,DEY S S,B-,7
+S17,Undergraduate,CH E    120C,DEY S S,C+,6
+S17,Undergraduate,CH E    120C,DEY S S,C,4
+S17,Undergraduate,CH E    120C,DEY S S,D-,1
+S17,Undergraduate,CH E    125,MITRAGOTRI S,A,26
+S17,Undergraduate,CH E    125,MITRAGOTRI S,A-,7
+S17,Undergraduate,CH E    125,MITRAGOTRI S,B,14
+S17,Undergraduate,CH E    125,MITRAGOTRI S,B-,4
+S17,Undergraduate,CH E    125,MITRAGOTRI S,F,1
+S17,Undergraduate,CH E    140A,PETERS B G,A+,3
+S17,Undergraduate,CH E    140A,PETERS B G,A,11
+S17,Undergraduate,CH E    140A,PETERS B G,A-,6
+S17,Undergraduate,CH E    140A,PETERS B G,B+,8
+S17,Undergraduate,CH E    140A,PETERS B G,B,7
+S17,Undergraduate,CH E    140A,PETERS B G,B-,4
+S17,Undergraduate,CH E    140A,PETERS B G,C+,1
+S17,Undergraduate,CH E    140A,PETERS B G,C,2
+S17,Undergraduate,CH E    140A,PETERS B G,C-,2
+S17,Undergraduate,CH E    140A,PETERS B G,D,1
+S17,Undergraduate,CH E    141,MCFARLAND E W,A,6
+S17,Undergraduate,CH E    141,MCFARLAND E W,A-,7
+S17,Undergraduate,CH E    141,MCFARLAND E W,B+,2
+S17,Undergraduate,CH E    141,MCFARLAND E W,B,2
+S17,Undergraduate,CH E    141,MCFARLAND E W,B-,2
+S17,Undergraduate,CH E    141,MCFARLAND E W,C-,1
+S17,Undergraduate,CH E    173,O'MALLEY M A,A,9
+S17,Undergraduate,CH E    173,O'MALLEY M A,A-,1
+S17,Undergraduate,CH E    173,O'MALLEY M A,B+,2
+S17,Undergraduate,CH E    180A,GORDON M J,A+,6
+S17,Undergraduate,CH E    180A,GORDON M J,A,16
+S17,Undergraduate,CH E    180A,GORDON M J,A-,7
+S17,Undergraduate,CH E    180A,GORDON M J,B+,9
+S17,Undergraduate,CH E    180A,GORDON M J,B,5
+S17,Undergraduate,CH E    180A,HELGESON M E,A+,6
+S17,Undergraduate,CH E    180A,HELGESON M E,A,16
+S17,Undergraduate,CH E    180A,HELGESON M E,A-,7
+S17,Undergraduate,CH E    180A,HELGESON M E,B+,9
+S17,Undergraduate,CH E    180A,HELGESON M E,B,5
+S17,Undergraduate,CH E    184B,DOHERTY M F,A,6
+S17,Undergraduate,CH E    184B,DOHERTY M F,A-,18
+S17,Undergraduate,CH E    184B,DOHERTY M F,B+,9
+S17,Undergraduate,CH E    184B,DOHERTY M F,B,12
+S17,Undergraduate,CH E    184B,DOHERTY M F,B-,6
+S17,Undergraduate,CH E    184B,DOHERTY M F,C+,3
+S17,Undergraduate,CH E    184B,SHELL M S,A,6
+S17,Undergraduate,CH E    184B,SHELL M S,A-,18
+S17,Undergraduate,CH E    184B,SHELL M S,B+,9
+S17,Undergraduate,CH E    184B,SHELL M S,B,12
+S17,Undergraduate,CH E    184B,SHELL M S,B-,6
+S17,Undergraduate,CH E    184B,SHELL M S,C+,3
+S17,Graduate,CH E    220B,SQUIRES T M,A+,5
+S17,Graduate,CH E    220B,SQUIRES T M,A,16
+S17,Graduate,CH E    220B,SQUIRES T M,A-,6
+S17,Graduate,CH E    220B,SQUIRES T M,B+,1
+S17,Graduate,CH E    220B,SQUIRES T M,B,1
+S17,Graduate,CH E    241,MCFARLAND E W,A,4
+S17,Graduate,CH E    241,MCFARLAND E W,A-,3
+S17,Graduate,CH E    241,MCFARLAND E W,B+,1
+S17,Graduate,CH E    272,O'MALLEY M A,A,11
+S17,Graduate,CH E    290,SHELL M S,S,75
+S17,Graduate,CH E    291,CHMELKA B F,S,7
+S17,Graduate,CH E    291,DOHERTY M F,S,5
+S17,Graduate,CH E    291,FREDRICKSON G,S,5
+S17,Graduate,CH E    291,HELGESON M E,S,5
+S17,Graduate,CH E    291,ISRAELACHVILI,S,5
+S17,Graduate,CH E    291,LEAL L G,S,6
+S17,Graduate,CH E    291,MITRAGOTRI S,S,6
+S17,Graduate,CH E    291,O'MALLEY M A,S,7
+S17,Graduate,CH E    291,PETERS B G,S,5
+S17,Graduate,CH E    291,SEGALMAN R A,S,6
+S17,Graduate,CH E    596,CHMELKA B F,S,6
+S17,Graduate,CH E    596,HELGESON M E,S,5
+S17,Graduate,CH E    596,O'MALLEY M A,S,5
+S17,Graduate,CH E    599,MITRAGOTRI S,S,5

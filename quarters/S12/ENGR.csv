@@ -1,0 +1,74 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,ENGR      3,PETZOLD L,A+,11
+S12,Undergraduate,ENGR      3,PETZOLD L,A,9
+S12,Undergraduate,ENGR      3,PETZOLD L,A-,15
+S12,Undergraduate,ENGR      3,PETZOLD L,B+,11
+S12,Undergraduate,ENGR      3,PETZOLD L,B,5
+S12,Undergraduate,ENGR      3,PETZOLD L,B-,8
+S12,Undergraduate,ENGR      3,PETZOLD L,C+,9
+S12,Undergraduate,ENGR      3,PETZOLD L,C,3
+S12,Undergraduate,ENGR      3,PETZOLD L,C-,7
+S12,Undergraduate,ENGR      3,PETZOLD L,D,3
+S12,Undergraduate,ENGR      3,PETZOLD L,F,4
+S12,Undergraduate,ENGR    101,HOUGH K C,A+,2
+S12,Undergraduate,ENGR    101,HOUGH K C,A,21
+S12,Undergraduate,ENGR    101,HOUGH K C,A-,4
+S12,Undergraduate,ENGR    101,HOUGH K C,B+,1
+S12,Undergraduate,ENGR    101,HOUGH K C,B,1
+S12,Undergraduate,ENGR    101,WALLING O W,A+,4
+S12,Undergraduate,ENGR    101,WALLING O W,A,21
+S12,Undergraduate,ENGR    101,WALLING O W,A-,25
+S12,Undergraduate,ENGR    101,WALLING O W,B+,5
+S12,Undergraduate,ENGR    101,WALLING O W,B,8
+S12,Undergraduate,ENGR    101,WALLING O W,B-,2
+S12,Undergraduate,ENGR    101,WALLING O W,C+,1
+S12,Undergraduate,ENGR    101,WALLING O W,F,1
+S12,Undergraduate,ENGR    111,GREATHOUSE J,P,188
+S12,Undergraduate,ENGR    111,GREATHOUSE J,NP,15
+S12,Undergraduate,ENGR    120,BOGART K S,A+,1
+S12,Undergraduate,ENGR    120,BOGART K S,A,4
+S12,Undergraduate,ENGR    120,BOGART K S,A-,14
+S12,Undergraduate,ENGR    120,BOGART K S,B+,14
+S12,Undergraduate,ENGR    120,BOGART K S,B,20
+S12,Undergraduate,ENGR    120,BOGART K S,B-,2
+S12,Undergraduate,ENGR    120,BOGART K S,C+,1
+S12,Undergraduate,ENGR    120,BOGART K S,C-,1
+S12,Undergraduate,ENGR    120,BOGART K S,F,1
+S12,Undergraduate,ENGR    120,HANSEN G S,A,7
+S12,Undergraduate,ENGR    120,HANSEN G S,A-,9
+S12,Undergraduate,ENGR    120,HANSEN G S,B+,8
+S12,Undergraduate,ENGR    120,HANSEN G S,B,1
+S12,Undergraduate,ENGR    122,GREATHOUSE J,A+,4
+S12,Undergraduate,ENGR    122,GREATHOUSE J,A,14
+S12,Undergraduate,ENGR    122,GREATHOUSE J,A-,12
+S12,Undergraduate,ENGR    122,GREATHOUSE J,B+,6
+S12,Undergraduate,ENGR    122,GREATHOUSE J,B,10
+S12,Undergraduate,ENGR    122,GREATHOUSE J,B-,6
+S12,Undergraduate,ENGR    122,GREATHOUSE J,C,1
+S12,Undergraduate,ENGR    122,GREATHOUSE J,C-,1
+S12,Undergraduate,ENGR    122,GREATHOUSE J,D+,1
+S12,Undergraduate,ENGR    122,GREATHOUSE J,F,1
+S12,Undergraduate,ENGR    130,SLAFF G M,A+,2
+S12,Undergraduate,ENGR    130,SLAFF G M,A,15
+S12,Undergraduate,ENGR    130,SLAFF G M,A-,9
+S12,Undergraduate,ENGR    130,SLAFF G M,B+,3
+S12,Undergraduate,ENGR    130,SLAFF G M,B,10
+S12,Undergraduate,ENGR    130,SLAFF G M,B-,3
+S12,Undergraduate,ENGR    130,SLAFF G M,C+,1
+S12,Undergraduate,ENGR    141,CAMPBELL R D,A+,1
+S12,Undergraduate,ENGR    141,CAMPBELL R D,A,20
+S12,Undergraduate,ENGR    141,CAMPBELL R D,A-,6
+S12,Undergraduate,ENGR    141,CAMPBELL R D,B+,1
+S12,Undergraduate,ENGR    146,FELDMAN J E,A+,2
+S12,Undergraduate,ENGR    146,FELDMAN J E,A,14
+S12,Undergraduate,ENGR    146,FELDMAN J E,A-,3
+S12,Undergraduate,ENGR    146,FELDMAN J E,B+,4
+S12,Graduate,ENGR    240,HANSEN G S,A,4
+S12,Graduate,ENGR    240,HANSEN G S,A-,4
+S12,Graduate,ENGR    244,GABRIELE G F,A,5
+S12,Graduate,ENGR    244,GABRIELE G F,A-,10
+S12,Graduate,ENGR    244,GABRIELE G F,B+,8
+S12,Graduate,ENGR    255,BOWERS J E,A+,2
+S12,Graduate,ENGR    255,BOWERS J E,A,6
+S12,Graduate,ENGR    255,BOWERS J E,A-,3
+S12,Graduate,ENGR    255,BOWERS J E,B+,1

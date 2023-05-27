@@ -1,0 +1,77 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Graduate,ED      261,FRAME A R,A,21
+M11,Graduate,ED      261,FRAME A R,B,1
+M11,Undergraduate,FR        1,KAPLAN S C,A,6
+M11,Undergraduate,FR        1,KAPLAN S C,A-,1
+M11,Undergraduate,FR        1,KAPLAN S C,B+,3
+M11,Undergraduate,FR        1,KAPLAN S C,B,1
+M11,Undergraduate,FR        1,KAPLAN S C,B-,1
+M11,Undergraduate,FR        1,KAPLAN S C,C+,1
+M11,Undergraduate,FR        1,KAPLAN S C,C,1
+M11,Undergraduate,FR        1,KAPLAN S C,D+,1
+M11,Undergraduate,FR        1,KAPLAN S C,F,1
+M11,Undergraduate,FR        2,KAPLAN S C,A+,1
+M11,Undergraduate,FR        2,KAPLAN S C,A,5
+M11,Undergraduate,FR        2,KAPLAN S C,A-,2
+M11,Undergraduate,FR        2,KAPLAN S C,B+,3
+M11,Undergraduate,FR        2,KAPLAN S C,B,1
+M11,Undergraduate,FR        2,KAPLAN S C,B-,3
+M11,Undergraduate,FR        2,KAPLAN S C,F,1
+M11,Undergraduate,FR        3,SMITH E J,A+,1
+M11,Undergraduate,FR        3,SMITH E J,A,4
+M11,Undergraduate,FR        3,SMITH E J,A-,1
+M11,Undergraduate,FR        3,SMITH E J,B+,4
+M11,Undergraduate,FR        3,SMITH E J,B,2
+M11,Undergraduate,FR        3,SMITH E J,B-,5
+M11,Undergraduate,FR        3,SMITH E J,C,1
+M11,Undergraduate,FR        4,SMITH E J,A+,1
+M11,Undergraduate,FR        4,SMITH E J,A,6
+M11,Undergraduate,FR        4,SMITH E J,A-,3
+M11,Undergraduate,FR        4,SMITH E J,B+,4
+M11,Undergraduate,FR        4,SMITH E J,B,2
+M11,Undergraduate,FR        4,SMITH E J,D+,1
+M11,Undergraduate,FR        5,POLLOCK A L,A,3
+M11,Undergraduate,FR        5,POLLOCK A L,A-,4
+M11,Undergraduate,FR        5,POLLOCK A L,B+,3
+M11,Undergraduate,FR        5,POLLOCK A L,B,4
+M11,Undergraduate,FR        5,POLLOCK A L,C+,1
+M11,Undergraduate,FR        5,POLLOCK A L,D,1
+M11,Undergraduate,FR        5,POLLOCK A L,D-,1
+M11,Undergraduate,FR        6,POLLOCK A L,A,4
+M11,Undergraduate,FR        6,POLLOCK A L,A-,4
+M11,Undergraduate,FR        6,POLLOCK A L,B+,2
+M11,Undergraduate,FR        6,POLLOCK A L,C+,2
+M11,Undergraduate,FR        6,POLLOCK A L,C,2
+M11,Undergraduate,FR        6,POLLOCK A L,F,1
+M11,Undergraduate,FR       50CX,KOLZOW ART E,A,7
+M11,Undergraduate,FR       50CX,KOLZOW ART E,A-,8
+M11,Undergraduate,FR       50CX,KOLZOW ART E,B+,6
+M11,Undergraduate,FR       50CX,KOLZOW ART E,B,2
+M11,Undergraduate,FR       50CX,KOLZOW ART E,C+,1
+M11,Undergraduate,FR       50CX,KOLZOW ART E,F,1
+M11,Undergraduate,FR      155C,NESCI C,A+,6
+M11,Undergraduate,FR      155C,NESCI C,A,9
+M11,Undergraduate,FR      155C,NESCI C,A-,8
+M11,Undergraduate,FR      155C,NESCI C,B+,2
+M11,Undergraduate,FR      155C,NESCI C,B,3
+M11,Undergraduate,FR      155C,NESCI C,F,1
+M11,Graduate,FR      223SS,SCHULTZ J M,A,2
+M11,Graduate,FR      223SS,SCHULTZ J M,A-,2
+M11,Graduate,FR      223SS,SCHULTZ J M,B-,1
+M11,Undergraduate,PSY       1,FRIDLUND A J,A+,2
+M11,Undergraduate,PSY       1,FRIDLUND A J,A,18
+M11,Undergraduate,PSY       1,FRIDLUND A J,A-,5
+M11,Undergraduate,PSY       1,FRIDLUND A J,B+,3
+M11,Undergraduate,PSY       1,FRIDLUND A J,B,45
+M11,Undergraduate,PSY       1,FRIDLUND A J,B-,5
+M11,Undergraduate,PSY       1,FRIDLUND A J,C+,5
+M11,Undergraduate,PSY       1,FRIDLUND A J,C,25
+M11,Undergraduate,PSY       1,FRIDLUND A J,C-,5
+M11,Undergraduate,PSY       1,FRIDLUND A J,D+,1
+M11,Undergraduate,PSY       1,FRIDLUND A J,D,6
+M11,Undergraduate,PSY       1,FRIDLUND A J,D-,3
+M11,Undergraduate,PSY       1,FRIDLUND A J,F,11
+M11,Undergraduate,RG ST   140A,FRENCH N S,A,1
+M11,Undergraduate,RG ST   140A,FRENCH N S,A-,3
+M11,Undergraduate,RG ST   140A,FRENCH N S,B+,2
+M11,Undergraduate,RG ST   140A,FRENCH N S,B,3

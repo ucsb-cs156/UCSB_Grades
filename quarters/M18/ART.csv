@@ -1,0 +1,122 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,ART       1A,TASCHIAN H J,A,3
+M18,Undergraduate,ART       1A,TASCHIAN H J,A-,3
+M18,Undergraduate,ART       1A,TASCHIAN H J,B,2
+M18,Undergraduate,ART       1A,TASCHIAN H J,B-,2
+M18,Undergraduate,ART       1A,TASCHIAN H J,C+,1
+M18,Undergraduate,ART       1A,TASCHIAN H J,C,2
+M18,Undergraduate,ART       1A,TASCHIAN H J,F,4
+M18,Undergraduate,ART      10,ELLIS C M,A,12
+M18,Undergraduate,ART      10,ELLIS C M,A-,7
+M18,Undergraduate,ART      10,ELLIS C M,B+,2
+M18,Undergraduate,ART      10,ELLIS C M,B,5
+M18,Undergraduate,ART      10,ELLIS C M,B-,2
+M18,Undergraduate,ART      10,ELLIS C M,C,2
+M18,Undergraduate,ART      10,ELLIS C M,F,1
+M18,Undergraduate,ART      18,BELTZ E A,A,3
+M18,Undergraduate,ART      18,BELTZ E A,A-,1
+M18,Undergraduate,ART      18,BELTZ E A,B+,6
+M18,Undergraduate,ART      18,BELTZ E A,B,2
+M18,Undergraduate,ART      18,BELTZ E A,B-,2
+M18,Undergraduate,ART      18,BELTZ E A,C+,1
+M18,Undergraduate,ART      18,BELTZ E A,C-,1
+M18,Undergraduate,ART      18,HAYDEN N,A,7
+M18,Undergraduate,ART      18,HAYDEN N,A-,7
+M18,Undergraduate,ART      18,HAYDEN N,B+,1
+M18,Undergraduate,ART      18,HAYDEN N,B,3
+M18,Undergraduate,ART      18,HAYDEN N,C+,1
+M18,Undergraduate,ART     100,ELLIS C M,A,8
+M18,Undergraduate,ART     100,ELLIS C M,A-,5
+M18,Undergraduate,ART     100,ELLIS C M,B+,3
+M18,Undergraduate,ART     100,ELLIS C M,B,3
+M18,Undergraduate,ART     117,HAYDEN N,A,5
+M18,Undergraduate,ART     117,HAYDEN N,A-,4
+M18,Undergraduate,ART     117,HAYDEN N,B+,2
+M18,Undergraduate,ART     117,HAYDEN N,B-,1
+M18,Undergraduate,ART     117,HAYDEN N,C+,1
+M18,Undergraduate,ART     117,HAYDEN N,C-,3
+M18,Undergraduate,ART     117,HAYDEN N,D+,1
+M18,Undergraduate,ART     117,HAYDEN N,F,2
+M18,Undergraduate,ART     125,VANDERPOOL J,A,15
+M18,Undergraduate,ART     125,VANDERPOOL J,A-,3
+M18,Undergraduate,ART     125,VANDERPOOL J,B+,2
+M18,Undergraduate,ART     125,VANDERPOOL J,B,1
+M18,Undergraduate,ART     125,VANDERPOOL J,F,1
+M18,Undergraduate,ART     130,TASCHIAN H J,A,6
+M18,Undergraduate,ART     130,TASCHIAN H J,A-,5
+M18,Undergraduate,ART     130,TASCHIAN H J,B+,2
+M18,Undergraduate,ART     130,TASCHIAN H J,B,2
+M18,Undergraduate,ART     130,TASCHIAN H J,B-,2
+M18,Undergraduate,ART     130,TASCHIAN H J,C+,1
+M18,Undergraduate,ART     130,TASCHIAN H J,C-,1
+M18,Undergraduate,ARTHI     6A,BOLLI C M,A,15
+M18,Undergraduate,ARTHI     6A,BOLLI C M,A-,2
+M18,Undergraduate,ARTHI     6A,BOLLI C M,B+,3
+M18,Undergraduate,ARTHI     6A,BOLLI C M,B,4
+M18,Undergraduate,ARTHI     6A,BOLLI C M,B-,6
+M18,Undergraduate,ARTHI     6A,BOLLI C M,C+,4
+M18,Undergraduate,ARTHI     6A,BOLLI C M,C,3
+M18,Undergraduate,ARTHI     6A,BOLLI C M,D,1
+M18,Undergraduate,ARTHI     6A,BOLLI C M,F,5
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,A+,7
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,A,10
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,A-,11
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,B+,5
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,B,1
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,B-,8
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,C+,1
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,C-,1
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,D+,1
+M18,Undergraduate,ARTHI     6B,MANSFIELD M E,F,1
+M18,Undergraduate,ARTHI     6C,FAUST M R,A,8
+M18,Undergraduate,ARTHI     6C,FAUST M R,A-,8
+M18,Undergraduate,ARTHI     6C,FAUST M R,B+,5
+M18,Undergraduate,ARTHI     6C,FAUST M R,B,9
+M18,Undergraduate,ARTHI     6C,FAUST M R,B-,6
+M18,Undergraduate,ARTHI     6C,FAUST M R,C+,3
+M18,Undergraduate,ARTHI     6C,FAUST M R,C,2
+M18,Undergraduate,ARTHI     6C,FAUST M R,F,2
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,A+,6
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,A,6
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,A-,12
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,B+,3
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,B,3
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,C+,1
+M18,Undergraduate,ARTHI     6E,OGBECHIE S O,F,1
+M18,Undergraduate,ARTHI     6F,WHITE J S,A+,1
+M18,Undergraduate,ARTHI     6F,WHITE J S,A,14
+M18,Undergraduate,ARTHI     6F,WHITE J S,A-,5
+M18,Undergraduate,ARTHI     6F,WHITE J S,B+,5
+M18,Undergraduate,ARTHI     6F,WHITE J S,B,2
+M18,Undergraduate,ARTHI     6F,WHITE J S,B-,1
+M18,Undergraduate,ARTHI     6F,WHITE J S,C+,3
+M18,Undergraduate,ARTHI     6F,WHITE J S,F,2
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,A,15
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,A-,5
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,B+,2
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,B,5
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,B-,2
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,C+,1
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,C,2
+M18,Undergraduate,ARTHI     6G,MCLEMORE E L,F,3
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,A+,3
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,A,9
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,A-,4
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,B+,2
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,B,5
+M18,Undergraduate,ARTHI   117F,GARFINKLE C G,C,4
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A,5
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,A-,8
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B+,6
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B,3
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,B-,1
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C+,2
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C,1
+M18,Undergraduate,ARTHI   136I,CHATTOPADHYAY,C-,1
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,A,11
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,A-,4
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,B+,1
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,B,1
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,B-,3
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,C+,1
+M18,Undergraduate,ARTHI   148A,MCLEMORE E L,C,1

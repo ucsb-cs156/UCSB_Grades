@@ -1,0 +1,197 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W13,Undergraduate,ARTHI     6B,MEADOW M A,A+,3
+W13,Undergraduate,ARTHI     6B,MEADOW M A,A,47
+W13,Undergraduate,ARTHI     6B,MEADOW M A,A-,39
+W13,Undergraduate,ARTHI     6B,MEADOW M A,B+,41
+W13,Undergraduate,ARTHI     6B,MEADOW M A,B,56
+W13,Undergraduate,ARTHI     6B,MEADOW M A,B-,40
+W13,Undergraduate,ARTHI     6B,MEADOW M A,C+,12
+W13,Undergraduate,ARTHI     6B,MEADOW M A,C,24
+W13,Undergraduate,ARTHI     6B,MEADOW M A,C-,4
+W13,Undergraduate,ARTHI     6B,MEADOW M A,D-,1
+W13,Undergraduate,ARTHI     6B,MEADOW M A,F,13
+W13,Undergraduate,ARTHI    99,MEADOW M A,A,12
+W13,Graduate,ARTHI   500,MEADOW M A,S,7
+W13,Graduate,COMM    213,METZGER M J,A,2
+W13,Graduate,COMM    213,METZGER M J,A-,10
+W13,Graduate,COMM    213,METZGER M J,B+,1
+W13,Graduate,ECE     254A,MELLIAR-SMITH,A+,2
+W13,Graduate,ECE     254A,MELLIAR-SMITH,A,13
+W13,Graduate,ECE     254A,MELLIAR-SMITH,A-,2
+W13,Graduate,EEMB    509,MELACK J M,A,8
+W13,Graduate,EEMB    509,MELACK J M,A-,1
+W13,Graduate,ESM     202,MELACK J M,A+,7
+W13,Graduate,ESM     202,MELACK J M,A,22
+W13,Graduate,ESM     202,MELACK J M,A-,37
+W13,Graduate,ESM     202,MELACK J M,B+,11
+W13,Graduate,ESM     202,MELACK J M,B,3
+W13,Undergraduate,FLMST   165MG,MELNICK R D,A+,2
+W13,Undergraduate,FLMST   165MG,MELNICK R D,A,10
+W13,Undergraduate,FLMST   165MG,MELNICK R D,A-,11
+W13,Undergraduate,FLMST   165MG,MELNICK R D,B+,10
+W13,Undergraduate,FLMST   165MG,MELNICK R D,B,4
+W13,Undergraduate,FLMST   165MG,MELNICK R D,B-,3
+W13,Undergraduate,FLMST   165MG,MELNICK R D,C+,2
+W13,Undergraduate,FLMST   165MG,MELNICK R D,F,1
+W13,Undergraduate,GER       2,MENGELE I,A+,4
+W13,Undergraduate,GER       2,MENGELE I,A,11
+W13,Undergraduate,GER       2,MENGELE I,A-,13
+W13,Undergraduate,GER       2,MENGELE I,B+,7
+W13,Undergraduate,GER       2,MENGELE I,B,2
+W13,Undergraduate,GER       2,MENGELE I,C,2
+W13,Undergraduate,GER       2,MENGELE I,F,1
+W13,Undergraduate,GER     101B,MENGELE I,A,14
+W13,Undergraduate,GLOBL   130,MEHTA A S,A+,15
+W13,Undergraduate,GLOBL   130,MEHTA A S,A,17
+W13,Undergraduate,GLOBL   130,MEHTA A S,A-,16
+W13,Undergraduate,GLOBL   130,MEHTA A S,B+,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,B,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,B-,17
+W13,Undergraduate,GLOBL   130,MEHTA A S,C+,11
+W13,Undergraduate,GLOBL   130,MEHTA A S,C,16
+W13,Undergraduate,GLOBL   130,MEHTA A S,C-,9
+W13,Undergraduate,GLOBL   130,MEHTA A S,D,13
+W13,Undergraduate,GLOBL   130,MEHTA A S,F,1
+W13,Graduate,GLOBL   234,MEHTA A S,A+,3
+W13,Graduate,GLOBL   234,MEHTA A S,A,1
+W13,Graduate,GLOBL   234,MEHTA A S,A-,4
+W13,Graduate,GLOBL   234,MEHTA A S,B+,1
+W13,Undergraduate,INT      94PV,MEIRING W,P,14
+W13,Undergraduate,ME        6,SOH H T,A+,4
+W13,Undergraduate,ME        6,SOH H T,A,12
+W13,Undergraduate,ME        6,SOH H T,A-,9
+W13,Undergraduate,ME        6,SOH H T,B+,8
+W13,Undergraduate,ME        6,SOH H T,B,11
+W13,Undergraduate,ME        6,SOH H T,B-,7
+W13,Undergraduate,ME        6,SOH H T,C+,7
+W13,Undergraduate,ME        6,SOH H T,C,8
+W13,Undergraduate,ME        6,SOH H T,C-,5
+W13,Undergraduate,ME        6,SOH H T,D+,4
+W13,Undergraduate,ME        6,SOH H T,D,3
+W13,Undergraduate,ME        6,SOH H T,F,1
+W13,Undergraduate,ME       12S,CLARK J J,A+,16
+W13,Undergraduate,ME       12S,CLARK J J,A,12
+W13,Undergraduate,ME       12S,CLARK J J,A-,5
+W13,Undergraduate,ME       12S,CLARK J J,B,2
+W13,Undergraduate,ME       15,BELTZ G,A+,5
+W13,Undergraduate,ME       15,BELTZ G,A,28
+W13,Undergraduate,ME       15,BELTZ G,A-,6
+W13,Undergraduate,ME       15,BELTZ G,B+,7
+W13,Undergraduate,ME       15,BELTZ G,B,13
+W13,Undergraduate,ME       15,BELTZ G,B-,5
+W13,Undergraduate,ME       15,BELTZ G,C+,6
+W13,Undergraduate,ME       15,BELTZ G,C,4
+W13,Undergraduate,ME       15,BELTZ G,C-,2
+W13,Undergraduate,ME       15,BELTZ G,D,1
+W13,Undergraduate,ME      100,ODETTE G R,P,14
+W13,Undergraduate,ME      100,ODETTE G R,NP,3
+W13,Undergraduate,ME      110,MEINHART C,A,11
+W13,Undergraduate,ME      110,MEINHART C,A-,6
+W13,Undergraduate,ME      110,MEINHART C,B+,1
+W13,Undergraduate,ME      110,MEINHART C,B,7
+W13,Undergraduate,ME      110,MEINHART C,B-,2
+W13,Undergraduate,ME      112,MATTHYS E F,B+,1
+W13,Undergraduate,ME      112,MATTHYS E F,B,3
+W13,Undergraduate,ME      112,MATTHYS E F,B-,1
+W13,Undergraduate,ME      112,MATTHYS E F,C,3
+W13,Undergraduate,ME      125CH,HARE C,A+,1
+W13,Undergraduate,ME      125CH,HARE C,A,3
+W13,Undergraduate,ME      125CH,HARE C,A-,3
+W13,Undergraduate,ME      125CH,HARE C,B+,4
+W13,Undergraduate,ME      125CH,HARE C,B,2
+W13,Undergraduate,ME      151B,BENNETT T D,A+,4
+W13,Undergraduate,ME      151B,BENNETT T D,A,8
+W13,Undergraduate,ME      151B,BENNETT T D,A-,8
+W13,Undergraduate,ME      151B,BENNETT T D,B+,7
+W13,Undergraduate,ME      151B,BENNETT T D,B,7
+W13,Undergraduate,ME      151B,BENNETT T D,B-,10
+W13,Undergraduate,ME      151B,BENNETT T D,C+,6
+W13,Undergraduate,ME      151B,BENNETT T D,C,7
+W13,Undergraduate,ME      151B,BENNETT T D,C-,9
+W13,Undergraduate,ME      151B,BENNETT T D,D+,3
+W13,Undergraduate,ME      151B,BENNETT T D,D,4
+W13,Undergraduate,ME      151B,BENNETT T D,D-,1
+W13,Undergraduate,ME      151B,BENNETT T D,F,4
+W13,Undergraduate,ME      152B,PENNATHUR S,A+,11
+W13,Undergraduate,ME      152B,PENNATHUR S,A,8
+W13,Undergraduate,ME      152B,PENNATHUR S,A-,11
+W13,Undergraduate,ME      152B,PENNATHUR S,B+,11
+W13,Undergraduate,ME      152B,PENNATHUR S,B,19
+W13,Undergraduate,ME      152B,PENNATHUR S,B-,9
+W13,Undergraduate,ME      152B,PENNATHUR S,C+,7
+W13,Undergraduate,ME      152B,PENNATHUR S,C,2
+W13,Undergraduate,ME      152B,PENNATHUR S,C-,1
+W13,Undergraduate,ME      155B,BAMIEH B A,A+,2
+W13,Undergraduate,ME      155B,BAMIEH B A,A,4
+W13,Undergraduate,ME      156B,TURNER K L,A+,5
+W13,Undergraduate,ME      156B,TURNER K L,A,8
+W13,Undergraduate,ME      156B,TURNER K L,A-,9
+W13,Undergraduate,ME      156B,TURNER K L,B+,4
+W13,Undergraduate,ME      156B,TURNER K L,B,3
+W13,Undergraduate,ME      156B,TURNER K L,B-,9
+W13,Undergraduate,ME      156B,TURNER K L,C+,6
+W13,Undergraduate,ME      156B,TURNER K L,C,9
+W13,Undergraduate,ME      156B,TURNER K L,C-,8
+W13,Undergraduate,ME      156B,TURNER K L,D+,4
+W13,Undergraduate,ME      156B,TURNER K L,D,2
+W13,Undergraduate,ME      156B,TURNER K L,D-,4
+W13,Undergraduate,ME      158,BOTHMAN D,A,21
+W13,Undergraduate,ME      163,MEZIC I,A+,5
+W13,Undergraduate,ME      163,MEZIC I,A,9
+W13,Undergraduate,ME      163,MEZIC I,A-,6
+W13,Undergraduate,ME      163,MEZIC I,B+,13
+W13,Undergraduate,ME      163,MEZIC I,B,11
+W13,Undergraduate,ME      163,MEZIC I,B-,13
+W13,Undergraduate,ME      163,MEZIC I,C+,7
+W13,Undergraduate,ME      163,MEZIC I,C,5
+W13,Undergraduate,ME      163,MEZIC I,C-,2
+W13,Undergraduate,ME      163,MEZIC I,D+,2
+W13,Undergraduate,ME      163,MEZIC I,D,3
+W13,Undergraduate,ME      163,MEZIC I,D-,1
+W13,Undergraduate,ME      166,KEDWARD K,A,3
+W13,Undergraduate,ME      166,KEDWARD K,A-,2
+W13,Undergraduate,ME      166,KEDWARD K,B+,4
+W13,Undergraduate,ME      166,KEDWARD K,B,1
+W13,Undergraduate,ME      179P,BULLO F,A+,3
+W13,Undergraduate,ME      179P,BULLO F,A,3
+W13,Undergraduate,ME      179P,BULLO F,A-,5
+W13,Undergraduate,ME      179P,BULLO F,B+,2
+W13,Undergraduate,ME      179P,BULLO F,B,4
+W13,Undergraduate,ME      179P,BULLO F,B-,2
+W13,Undergraduate,ME      186,LEVI C G,A+,1
+W13,Undergraduate,ME      186,LEVI C G,A,1
+W13,Undergraduate,ME      186,LEVI C G,A-,2
+W13,Undergraduate,ME      186,LEVI C G,B-,1
+W13,Undergraduate,ME      186,LEVI C G,C+,1
+W13,Undergraduate,ME      186,LEVI C G,C,2
+W13,Undergraduate,ME      189B,LAGUETTE S W,A+,9
+W13,Undergraduate,ME      189B,LAGUETTE S W,A,10
+W13,Undergraduate,ME      189B,LAGUETTE S W,A-,25
+W13,Undergraduate,ME      189B,LAGUETTE S W,B+,8
+W13,Undergraduate,ME      189B,LAGUETTE S W,B,8
+W13,Undergraduate,ME      189B,LAGUETTE S W,B-,1
+W13,Undergraduate,ME      189B,LAGUETTE S W,C+,4
+W13,Undergraduate,ME      189B,LAGUETTE S W,C,1
+W13,Undergraduate,ME      197,LAGUETTE S W,A,4
+W13,Undergraduate,ME      197,LAGUETTE S W,A-,1
+W13,Graduate,ME      200,ODETTE G R,S,17
+W13,Graduate,ME      200,ODETTE G R,U,1
+W13,Graduate,ME      225AI,VALENTINE M T,A,14
+W13,Graduate,ME      225SO,CAMPAS-RIGAU,A,3
+W13,Graduate,ME      225SO,CAMPAS-RIGAU,A-,2
+W13,Graduate,ME      225SO,CAMPAS-RIGAU,B+,2
+W13,Graduate,ME      236,PADEN B,A+,3
+W13,Graduate,ME      236,PADEN B,A,2
+W13,Graduate,ME      236,PADEN B,A-,1
+W13,Graduate,ME      236,PADEN B,B+,1
+W13,Graduate,ME      236,PADEN B,B,1
+W13,Graduate,ME      295,HESPANHA J P,S,7
+W13,Graduate,ME      596,BULLO F,S,7
+W13,Graduate,ME      596,GIBOU F G,S,5
+W13,Graduate,ME      596,MEIBURG E H,S,5
+W13,Graduate,ME      596,PENNATHUR S,S,5
+W13,Graduate,ME      596,TURNER K L,S,5
+W13,Graduate,PSTAT   220B,MEIRING W,A,4
+W13,Graduate,PSTAT   220B,MEIRING W,A-,1
+W13,Graduate,PSTAT   220B,MEIRING W,B+,4
+W13,Graduate,PSTAT   220B,MEIRING W,B,2

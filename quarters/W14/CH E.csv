@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W14,Undergraduate,CH E    110A,SHELL M S,A+,4
+W14,Undergraduate,CH E    110A,SHELL M S,A,10
+W14,Undergraduate,CH E    110A,SHELL M S,A-,6
+W14,Undergraduate,CH E    110A,SHELL M S,B+,8
+W14,Undergraduate,CH E    110A,SHELL M S,B,4
+W14,Undergraduate,CH E    110A,SHELL M S,B-,7
+W14,Undergraduate,CH E    110A,SHELL M S,C+,5
+W14,Undergraduate,CH E    110A,SHELL M S,C,9
+W14,Undergraduate,CH E    110A,SHELL M S,C-,3
+W14,Undergraduate,CH E    110A,SHELL M S,D+,1
+W14,Undergraduate,CH E    110A,SHELL M S,D,4
+W14,Undergraduate,CH E    110A,SHELL M S,D-,2
+W14,Undergraduate,CH E    110A,SHELL M S,F,2
+W14,Undergraduate,CH E    120B,HELGESON M E,A+,2
+W14,Undergraduate,CH E    120B,HELGESON M E,A,15
+W14,Undergraduate,CH E    120B,HELGESON M E,A-,4
+W14,Undergraduate,CH E    120B,HELGESON M E,B+,4
+W14,Undergraduate,CH E    120B,HELGESON M E,B,16
+W14,Undergraduate,CH E    120B,HELGESON M E,B-,6
+W14,Undergraduate,CH E    120B,HELGESON M E,C+,3
+W14,Undergraduate,CH E    120B,HELGESON M E,C,6
+W14,Undergraduate,CH E    120B,HELGESON M E,C-,3
+W14,Undergraduate,CH E    120B,HELGESON M E,D+,1
+W14,Undergraduate,CH E    120B,HELGESON M E,D-,1
+W14,Undergraduate,CH E    120B,HELGESON M E,F,3
+W14,Undergraduate,CH E    132C,SQUIRES T M,A,12
+W14,Undergraduate,CH E    132C,SQUIRES T M,A-,10
+W14,Undergraduate,CH E    132C,SQUIRES T M,B+,10
+W14,Undergraduate,CH E    132C,SQUIRES T M,B,13
+W14,Undergraduate,CH E    132C,SQUIRES T M,B-,8
+W14,Undergraduate,CH E    132C,SQUIRES T M,C+,4
+W14,Undergraduate,CH E    132C,SQUIRES T M,C,5
+W14,Undergraduate,CH E    132C,SQUIRES T M,C-,2
+W14,Undergraduate,CH E    132C,SQUIRES T M,F,2
+W14,Undergraduate,CH E    152B,DOYLE F,A+,1
+W14,Undergraduate,CH E    152B,DOYLE F,A,3
+W14,Undergraduate,CH E    152B,DOYLE F,A-,4
+W14,Undergraduate,CH E    152B,DOYLE F,B+,3
+W14,Undergraduate,CH E    152B,DOYLE F,B,3
+W14,Undergraduate,CH E    152B,DOYLE F,B-,2
+W14,Undergraduate,CH E    160,KRAMER E J,A+,1
+W14,Undergraduate,CH E    160,KRAMER E J,A,6
+W14,Undergraduate,CH E    160,KRAMER E J,A-,2
+W14,Undergraduate,CH E    160,KRAMER E J,B+,2
+W14,Undergraduate,CH E    160,KRAMER E J,B,7
+W14,Undergraduate,CH E    160,KRAMER E J,B-,4
+W14,Undergraduate,CH E    160,KRAMER E J,D+,2
+W14,Undergraduate,CH E    160,KRAMER E J,F,1
+W14,Undergraduate,CH E    180B,HAN SONGI,A,9
+W14,Undergraduate,CH E    180B,HAN SONGI,A-,6
+W14,Undergraduate,CH E    180B,HAN SONGI,B+,5
+W14,Undergraduate,CH E    180B,HAN SONGI,B,15
+W14,Undergraduate,CH E    180B,HAN SONGI,B-,2
+W14,Undergraduate,CH E    180B,HAN SONGI,C+,6
+W14,Undergraduate,CH E    180B,HAN SONGI,C,2
+W14,Undergraduate,CH E    180B,O'MALLEY M A,A,9
+W14,Undergraduate,CH E    180B,O'MALLEY M A,A-,6
+W14,Undergraduate,CH E    180B,O'MALLEY M A,B+,5
+W14,Undergraduate,CH E    180B,O'MALLEY M A,B,15
+W14,Undergraduate,CH E    180B,O'MALLEY M A,B-,2
+W14,Undergraduate,CH E    180B,O'MALLEY M A,C+,6
+W14,Undergraduate,CH E    180B,O'MALLEY M A,C,2
+W14,Undergraduate,CH E    184A,CHMELKA B F,A,2
+W14,Undergraduate,CH E    184A,CHMELKA B F,A-,3
+W14,Undergraduate,CH E    184A,CHMELKA B F,B+,11
+W14,Undergraduate,CH E    184A,CHMELKA B F,B,12
+W14,Undergraduate,CH E    184A,CHMELKA B F,B-,10
+W14,Undergraduate,CH E    184A,CHMELKA B F,C+,7
+W14,Undergraduate,CH E    184A,CHMELKA B F,C,1
+W14,Undergraduate,CH E    184A,DOHERTY M F,A,2
+W14,Undergraduate,CH E    184A,DOHERTY M F,A-,3
+W14,Undergraduate,CH E    184A,DOHERTY M F,B+,11
+W14,Undergraduate,CH E    184A,DOHERTY M F,B,12
+W14,Undergraduate,CH E    184A,DOHERTY M F,B-,10
+W14,Undergraduate,CH E    184A,DOHERTY M F,C+,7
+W14,Undergraduate,CH E    184A,DOHERTY M F,C,1
+W14,Graduate,CH E    210B,FREDRICKSON G,A,11
+W14,Graduate,CH E    210B,FREDRICKSON G,A-,5
+W14,Graduate,CH E    210B,FREDRICKSON G,B+,4
+W14,Graduate,CH E    210B,FREDRICKSON G,B,3
+W14,Graduate,CH E    210B,FREDRICKSON G,F,1
+W14,Graduate,CH E    222A,ISRAELACHVILI,A+,3
+W14,Graduate,CH E    222A,ISRAELACHVILI,A,2
+W14,Graduate,CH E    222A,ISRAELACHVILI,A-,1
+W14,Graduate,CH E    222A,ISRAELACHVILI,B+,1
+W14,Graduate,CH E    240A,GORDON M J,A+,1
+W14,Graduate,CH E    240A,GORDON M J,A,12
+W14,Graduate,CH E    240A,GORDON M J,A-,4
+W14,Graduate,CH E    240A,GORDON M J,B+,4
+W14,Graduate,CH E    240A,GORDON M J,B,5
+W14,Graduate,CH E    290,HELGESON M E,S,74
+W14,Graduate,CH E    291,CHMELKA B F,S,10
+W14,Graduate,CH E    291,DOHERTY M F,S,6
+W14,Graduate,CH E    291,HELGESON M E,S,6
+W14,Graduate,CH E    291,ISRAELACHVILI,S,6
+W14,Graduate,CH E    291,LEAL L G,S,7
+W14,Graduate,CH E    291,MITRAGOTRI S,S,6
+W14,Graduate,CH E    291,SHELL M S,S,5
+W14,Graduate,CH E    596,CHMELKA B F,S,6
+W14,Graduate,CH E    596,FREDRICKSON G,S,5
+W14,Graduate,CH E    596,ISRAELACHVILI,S,5
+W14,Graduate,CH E    596,MITRAGOTRI S,S,7

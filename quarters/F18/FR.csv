@@ -1,0 +1,298 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Graduate,CH E    210A,FREDRICKSON G,A+,1
+F18,Graduate,CH E    210A,FREDRICKSON G,A,8
+F18,Graduate,CH E    210A,FREDRICKSON G,A-,9
+F18,Graduate,CH E    210A,FREDRICKSON G,B+,3
+F18,Graduate,CH E    210A,FREDRICKSON G,B,2
+F18,Graduate,CH E    210A,FREDRICKSON G,D,1
+F18,Graduate,CH E    291,FREDRICKSON G,S,4
+F18,Graduate,CH E    596,FREDRICKSON G,S,3
+F18,Graduate,CH E    599,FREDRICKSON G,S,3
+F18,Graduate,EACS    596,FRUHSTUCK S,A,1
+F18,Graduate,EACS    599,FRUHSTUCK S,S,1
+F18,Undergraduate,ECON    117A,FRECH H E,A+,1
+F18,Undergraduate,ECON    117A,FRECH H E,A,3
+F18,Undergraduate,ECON    117A,FRECH H E,A-,8
+F18,Undergraduate,ECON    117A,FRECH H E,B+,9
+F18,Undergraduate,ECON    117A,FRECH H E,B,3
+F18,Undergraduate,ECON    117A,FRECH H E,B-,2
+F18,Undergraduate,ECON    117A,FRECH H E,C+,3
+F18,Undergraduate,ECON    117A,FRECH H E,C,1
+F18,Undergraduate,ECON    170,FRECH H E,A+,1
+F18,Undergraduate,ECON    170,FRECH H E,A-,1
+F18,Undergraduate,ECON    170,FRECH H E,B+,5
+F18,Undergraduate,ECON    170,FRECH H E,B,9
+F18,Undergraduate,ECON    170,FRECH H E,B-,3
+F18,Undergraduate,ECON    170,FRECH H E,C+,1
+F18,Undergraduate,ECON    170,FRECH H E,C-,3
+F18,Graduate,ESM     267,FREW J E,A,16
+F18,Graduate,ESM     267,FREW J E,A-,4
+F18,Graduate,ESM     401B,FREW J E,A,4
+F18,Graduate,ESM     401B,FREW J E,B,1
+F18,Graduate,ESM     596,FREW J E,A,1
+F18,Undergraduate,FR        1,D'ANCA C,A+,1
+F18,Undergraduate,FR        1,D'ANCA C,A,6
+F18,Undergraduate,FR        1,D'ANCA C,A-,6
+F18,Undergraduate,FR        1,D'ANCA C,B+,2
+F18,Undergraduate,FR        1,D'ANCA C,B,1
+F18,Undergraduate,FR        1,D'ANCA C,B-,1
+F18,Undergraduate,FR        1,D'ANCA C,C+,2
+F18,Undergraduate,FR        1,D'ANCA C,C-,1
+F18,Undergraduate,FR        1,DESGENS-MARTI,A+,1
+F18,Undergraduate,FR        1,DESGENS-MARTI,A,5
+F18,Undergraduate,FR        1,DESGENS-MARTI,A-,3
+F18,Undergraduate,FR        1,DESGENS-MARTI,B+,2
+F18,Undergraduate,FR        1,DESGENS-MARTI,B,4
+F18,Undergraduate,FR        1,DESGENS-MARTI,B-,2
+F18,Undergraduate,FR        1,DESGENS-MARTI,F,1
+F18,Undergraduate,FR        1,LMAIFI M,A,7
+F18,Undergraduate,FR        1,LMAIFI M,A-,1
+F18,Undergraduate,FR        1,LMAIFI M,B,1
+F18,Undergraduate,FR        1,LMAIFI M,B-,1
+F18,Undergraduate,FR        1,LMAIFI M,C+,1
+F18,Undergraduate,FR        1,LMAIFI M,C,1
+F18,Undergraduate,FR        1,LMAIFI M,D+,1
+F18,Undergraduate,FR        1,LMAIFI M,F,1
+F18,Undergraduate,FR        1,PHILLIPS M E,A+,3
+F18,Undergraduate,FR        1,PHILLIPS M E,A,20
+F18,Undergraduate,FR        1,PHILLIPS M E,A-,6
+F18,Undergraduate,FR        1,PHILLIPS M E,B+,3
+F18,Undergraduate,FR        1,PHILLIPS M E,B,2
+F18,Undergraduate,FR        1,PHILLIPS M E,C,1
+F18,Undergraduate,FR        1,PHILLIPS M E,D+,1
+F18,Undergraduate,FR        1,SCHULTZ J M,A+,2
+F18,Undergraduate,FR        1,SCHULTZ J M,A,23
+F18,Undergraduate,FR        1,SCHULTZ J M,A-,13
+F18,Undergraduate,FR        1,SCHULTZ J M,B+,7
+F18,Undergraduate,FR        1,SCHULTZ J M,B,9
+F18,Undergraduate,FR        1,SCHULTZ J M,B-,5
+F18,Undergraduate,FR        1,SCHULTZ J M,C+,3
+F18,Undergraduate,FR        1,SCHULTZ J M,C,1
+F18,Undergraduate,FR        1,SCHULTZ J M,C-,1
+F18,Undergraduate,FR        1,SCHULTZ J M,D+,1
+F18,Undergraduate,FR        1,SCHULTZ J M,F,3
+F18,Undergraduate,FR        1,ZISERMAN P,A+,8
+F18,Undergraduate,FR        1,ZISERMAN P,A,9
+F18,Undergraduate,FR        1,ZISERMAN P,A-,5
+F18,Undergraduate,FR        1,ZISERMAN P,B+,1
+F18,Undergraduate,FR        1,ZISERMAN P,B,2
+F18,Undergraduate,FR        1,ZISERMAN P,B-,2
+F18,Undergraduate,FR        1,ZISERMAN P,C+,2
+F18,Undergraduate,FR        1,ZISERMAN P,C,2
+F18,Undergraduate,FR        1,ZISERMAN P,D-,1
+F18,Undergraduate,FR        2,MENDES BRAGA,A+,3
+F18,Undergraduate,FR        2,MENDES BRAGA,A,6
+F18,Undergraduate,FR        2,MENDES BRAGA,A-,1
+F18,Undergraduate,FR        2,MENDES BRAGA,B+,3
+F18,Undergraduate,FR        2,MENDES BRAGA,B,2
+F18,Undergraduate,FR        2,MENDES BRAGA,C,1
+F18,Undergraduate,FR        2,SCHULTZ J M,A+,5
+F18,Undergraduate,FR        2,SCHULTZ J M,A,4
+F18,Undergraduate,FR        2,SCHULTZ J M,A-,4
+F18,Undergraduate,FR        2,SCHULTZ J M,B+,3
+F18,Undergraduate,FR        2,SCHULTZ J M,B,1
+F18,Undergraduate,FR        2,SCHULTZ J M,B-,2
+F18,Undergraduate,FR        2,SCHULTZ J M,C,1
+F18,Undergraduate,FR        2,SCHULTZ J M,F,1
+F18,Undergraduate,FR        2,TUDISCO J J,A+,5
+F18,Undergraduate,FR        2,TUDISCO J J,A,4
+F18,Undergraduate,FR        2,TUDISCO J J,A-,4
+F18,Undergraduate,FR        2,TUDISCO J J,B+,3
+F18,Undergraduate,FR        2,TUDISCO J J,B,1
+F18,Undergraduate,FR        2,TUDISCO J J,B-,2
+F18,Undergraduate,FR        2,TUDISCO J J,C,1
+F18,Undergraduate,FR        2,TUDISCO J J,F,1
+F18,Undergraduate,FR        3,PHILLIPS M E,A,3
+F18,Undergraduate,FR        3,PHILLIPS M E,A-,5
+F18,Undergraduate,FR        3,PHILLIPS M E,B+,4
+F18,Undergraduate,FR        3,PHILLIPS M E,B,2
+F18,Undergraduate,FR        3,PHILLIPS M E,C+,1
+F18,Undergraduate,FR        3,PHILLIPS M E,C-,1
+F18,Undergraduate,FR        3,PHILLIPS M E,D,1
+F18,Undergraduate,FR        3,ROBERTS S C,A+,1
+F18,Undergraduate,FR        3,ROBERTS S C,A,4
+F18,Undergraduate,FR        3,ROBERTS S C,A-,3
+F18,Undergraduate,FR        3,ROBERTS S C,B+,1
+F18,Undergraduate,FR        3,ROBERTS S C,B,2
+F18,Undergraduate,FR        3,ROBERTS S C,B-,3
+F18,Undergraduate,FR        3,ROBERTS S C,C+,2
+F18,Undergraduate,FR        3,ROBERTS S C,C,1
+F18,Undergraduate,FR        4,MENDES BRAGA,A+,4
+F18,Undergraduate,FR        4,MENDES BRAGA,A,9
+F18,Undergraduate,FR        4,MENDES BRAGA,A-,2
+F18,Undergraduate,FR        4,MENDES BRAGA,B+,1
+F18,Undergraduate,FR        4,MENDES BRAGA,B,1
+F18,Undergraduate,FR        4,MENDES BRAGA,D+,1
+F18,Undergraduate,FR        4,ROBERTS S C,A,3
+F18,Undergraduate,FR        4,ROBERTS S C,A-,2
+F18,Undergraduate,FR        4,ROBERTS S C,B,2
+F18,Undergraduate,FR        4,ROBERTS S C,C,2
+F18,Undergraduate,FR        4,SCHULTZ J M,A+,1
+F18,Undergraduate,FR        4,SCHULTZ J M,A,6
+F18,Undergraduate,FR        4,SCHULTZ J M,A-,3
+F18,Undergraduate,FR        4,SCHULTZ J M,B+,4
+F18,Undergraduate,FR        4,SCHULTZ J M,B,3
+F18,Undergraduate,FR        4,SCHULTZ J M,B-,1
+F18,Undergraduate,FR        4,SCHULTZ J M,C+,2
+F18,Undergraduate,FR        4,VIVIAN D A,A+,1
+F18,Undergraduate,FR        4,VIVIAN D A,A,6
+F18,Undergraduate,FR        4,VIVIAN D A,A-,3
+F18,Undergraduate,FR        4,VIVIAN D A,B+,4
+F18,Undergraduate,FR        4,VIVIAN D A,B,3
+F18,Undergraduate,FR        4,VIVIAN D A,B-,1
+F18,Undergraduate,FR        4,VIVIAN D A,C+,2
+F18,Undergraduate,FR        5,LABATUT M A,A,4
+F18,Undergraduate,FR        5,LABATUT M A,A-,4
+F18,Undergraduate,FR        5,LABATUT M A,B+,2
+F18,Undergraduate,FR        5,LABATUT M A,B,2
+F18,Undergraduate,FR        5,LABATUT M A,B-,2
+F18,Undergraduate,FR        5,LABATUT M A,C,1
+F18,Undergraduate,FR        6,LABATUT M A,A+,2
+F18,Undergraduate,FR        6,LABATUT M A,A,7
+F18,Undergraduate,FR        6,LABATUT M A,A-,2
+F18,Undergraduate,FR        6,LABATUT M A,B+,2
+F18,Undergraduate,FR        6,LABATUT M A,B-,1
+F18,Undergraduate,FR        6,LABATUT M A,C+,1
+F18,Undergraduate,FR      100,PRIETO E,A+,1
+F18,Undergraduate,FR      100,PRIETO E,A,6
+F18,Undergraduate,FR      100,PRIETO E,A-,4
+F18,Undergraduate,FR      100,PRIETO E,B+,1
+F18,Undergraduate,FR      100,PRIETO E,B,7
+F18,Undergraduate,FR      100,PRIETO E,B-,1
+F18,Undergraduate,FR      100,PRIETO E,C,1
+F18,Undergraduate,FR      100,PRIETO E,F,1
+F18,Undergraduate,FR      101A,SKENAZI E C,A,6
+F18,Undergraduate,FR      101A,SKENAZI E C,A-,8
+F18,Undergraduate,FR      101A,SKENAZI E C,B+,2
+F18,Undergraduate,FR      101A,SKENAZI E C,B,1
+F18,Undergraduate,FR      101A,SKENAZI E C,B-,2
+F18,Undergraduate,FR      101A,SKENAZI E C,D-,1
+F18,Undergraduate,FR      101B,LARUE R J,A+,1
+F18,Undergraduate,FR      101B,LARUE R J,A,1
+F18,Undergraduate,FR      101B,LARUE R J,A-,4
+F18,Undergraduate,FR      101B,LARUE R J,B+,3
+F18,Undergraduate,FR      101B,LARUE R J,B,1
+F18,Undergraduate,FR      101B,LARUE R J,B-,1
+F18,Undergraduate,FR      104B,POWERS R T,A,8
+F18,Undergraduate,FR      104B,POWERS R T,A-,1
+F18,Undergraduate,FR      104B,POWERS R T,C-,1
+F18,Undergraduate,FR      151K,SCHULTZ J M,A+,2
+F18,Undergraduate,FR      151K,SCHULTZ J M,A,1
+F18,Undergraduate,FR      151K,SCHULTZ J M,A-,1
+F18,Undergraduate,FR      151K,SCHULTZ J M,B+,3
+F18,Undergraduate,FR      153B,SKENAZI E C,A,8
+F18,Undergraduate,FR      153B,SKENAZI E C,A-,8
+F18,Undergraduate,FR      153B,SKENAZI E C,B+,3
+F18,Undergraduate,FR      153B,SKENAZI E C,B-,3
+F18,Undergraduate,FR      153B,SKENAZI E C,C+,2
+F18,Undergraduate,FR      199,NESCI C,A,1
+F18,Graduate,FR      500,SCHULTZ J M,S,5
+F18,Graduate,FR      596,BROWN C J,S,1
+F18,Undergraduate,INT      94UZ,FRUHSTUCK S,P,14
+F18,Undergraduate,LING     14,FRODESEN J M,A+,2
+F18,Undergraduate,LING     14,FRODESEN J M,A,4
+F18,Undergraduate,LING     14,FRODESEN J M,A-,3
+F18,Undergraduate,LING     14,FRODESEN J M,B+,4
+F18,Undergraduate,LING     14,FRODESEN J M,B,3
+F18,Graduate,LING    596,FRODESEN J M,S,1
+F18,Undergraduate,MATH      3B,FRYER S,A+,17
+F18,Undergraduate,MATH      3B,FRYER S,A,30
+F18,Undergraduate,MATH      3B,FRYER S,A-,13
+F18,Undergraduate,MATH      3B,FRYER S,B+,24
+F18,Undergraduate,MATH      3B,FRYER S,B,18
+F18,Undergraduate,MATH      3B,FRYER S,B-,12
+F18,Undergraduate,MATH      3B,FRYER S,C+,11
+F18,Undergraduate,MATH      3B,FRYER S,C,17
+F18,Undergraduate,MATH      3B,FRYER S,D,5
+F18,Undergraduate,MATH      3B,FRYER S,D-,12
+F18,Undergraduate,MATH      8,FRYER S,A+,2
+F18,Undergraduate,MATH      8,FRYER S,A,5
+F18,Undergraduate,MATH      8,FRYER S,A-,2
+F18,Undergraduate,MATH      8,FRYER S,B+,3
+F18,Undergraduate,MATH      8,FRYER S,B,5
+F18,Undergraduate,MATH      8,FRYER S,B-,4
+F18,Undergraduate,MATH      8,FRYER S,C+,3
+F18,Undergraduate,MATH      8,FRYER S,C,6
+F18,Undergraduate,MATH      8,FRYER S,D,6
+F18,Undergraduate,PHYS      6A,FREUND E G,A+,3
+F18,Undergraduate,PHYS      6A,FREUND E G,A,57
+F18,Undergraduate,PHYS      6A,FREUND E G,A-,41
+F18,Undergraduate,PHYS      6A,FREUND E G,B+,40
+F18,Undergraduate,PHYS      6A,FREUND E G,B,48
+F18,Undergraduate,PHYS      6A,FREUND E G,B-,30
+F18,Undergraduate,PHYS      6A,FREUND E G,C+,28
+F18,Undergraduate,PHYS      6A,FREUND E G,C,32
+F18,Undergraduate,PHYS      6A,FREUND E G,C-,20
+F18,Undergraduate,PHYS      6A,FREUND E G,D+,15
+F18,Undergraduate,PHYS      6A,FREUND E G,D,14
+F18,Undergraduate,PHYS      6A,FREUND E G,D-,15
+F18,Undergraduate,PHYS      6A,FREUND E G,F,11
+F18,Undergraduate,PHYS      6AL,FREUND E G,A+,72
+F18,Undergraduate,PHYS      6AL,FREUND E G,A,109
+F18,Undergraduate,PHYS      6AL,FREUND E G,A-,82
+F18,Undergraduate,PHYS      6AL,FREUND E G,B+,65
+F18,Undergraduate,PHYS      6AL,FREUND E G,B,83
+F18,Undergraduate,PHYS      6AL,FREUND E G,B-,50
+F18,Undergraduate,PHYS      6AL,FREUND E G,C,3
+F18,Undergraduate,PHYS      6AL,FREUND E G,C-,2
+F18,Undergraduate,PHYS      6AL,FREUND E G,F,4
+F18,Undergraduate,PSTAT   115,FRANKS A,A+,8
+F18,Undergraduate,PSTAT   115,FRANKS A,A,19
+F18,Undergraduate,PSTAT   115,FRANKS A,A-,5
+F18,Undergraduate,PSTAT   115,FRANKS A,B+,12
+F18,Undergraduate,PSTAT   115,FRANKS A,B,11
+F18,Undergraduate,PSTAT   115,FRANKS A,B-,10
+F18,Undergraduate,PSTAT   115,FRANKS A,C+,3
+F18,Undergraduate,PSTAT   115,FRANKS A,C,2
+F18,Undergraduate,PSTAT   115,FRANKS A,D,2
+F18,Undergraduate,PSTAT   131,FRANKS A,A+,4
+F18,Undergraduate,PSTAT   131,FRANKS A,A,18
+F18,Undergraduate,PSTAT   131,FRANKS A,A-,13
+F18,Undergraduate,PSTAT   131,FRANKS A,B+,9
+F18,Undergraduate,PSTAT   131,FRANKS A,B,15
+F18,Undergraduate,PSTAT   131,FRANKS A,B-,7
+F18,Undergraduate,PSTAT   131,FRANKS A,C+,1
+F18,Undergraduate,PSTAT   131,FRANKS A,C,1
+F18,Undergraduate,PSTAT   131,FRANKS A,D-,1
+F18,Undergraduate,PSTAT   131,FRANKS A,F,1
+F18,Graduate,PSTAT   231,FRANKS A,A+,6
+F18,Graduate,PSTAT   231,FRANKS A,A,10
+F18,Graduate,PSTAT   231,FRANKS A,A-,7
+F18,Graduate,PSTAT   231,FRANKS A,B+,12
+F18,Graduate,PSTAT   231,FRANKS A,B,2
+F18,Graduate,PSTAT   231,FRANKS A,F,1
+F18,Graduate,PSTAT   263,FRANKS A,S,23
+F18,Graduate,PSTAT   596,FRANKS A,S,3
+F18,Undergraduate,PSY       1,FRIDLUND A J,A+,4
+F18,Undergraduate,PSY       1,FRIDLUND A J,A,50
+F18,Undergraduate,PSY       1,FRIDLUND A J,A-,12
+F18,Undergraduate,PSY       1,FRIDLUND A J,B+,16
+F18,Undergraduate,PSY       1,FRIDLUND A J,B,185
+F18,Undergraduate,PSY       1,FRIDLUND A J,B-,17
+F18,Undergraduate,PSY       1,FRIDLUND A J,C+,21
+F18,Undergraduate,PSY       1,FRIDLUND A J,C,179
+F18,Undergraduate,PSY       1,FRIDLUND A J,C-,22
+F18,Undergraduate,PSY       1,FRIDLUND A J,D+,12
+F18,Undergraduate,PSY       1,FRIDLUND A J,D,92
+F18,Undergraduate,PSY       1,FRIDLUND A J,D-,17
+F18,Undergraduate,PSY       1,FRIDLUND A J,F,97
+F18,Undergraduate,PSY     199,FRIDLUND A J,A,1
+F18,Undergraduate,WRIT      1E,FRANK D M,A+,11
+F18,Undergraduate,WRIT      1E,FRANK D M,A,8
+F18,Undergraduate,WRIT      2,FREDRICKSON N,A,8
+F18,Undergraduate,WRIT      2,FREDRICKSON N,A-,4
+F18,Undergraduate,WRIT      2,FREDRICKSON N,B+,2
+F18,Undergraduate,WRIT      2,FREDRICKSON N,B,5
+F18,Undergraduate,WRIT      2,FREDRICKSON N,B-,2
+F18,Undergraduate,WRIT      2,FREDRICKSON N,C+,1
+F18,Undergraduate,WRIT      2,FREDRICKSON N,C,1
+F18,Undergraduate,WRIT      2,FREDRICKSON N,F,1
+F18,Undergraduate,WRIT    107T,FRANK D M,A+,30
+F18,Undergraduate,WRIT    107T,FRANK D M,A,9
+F18,Undergraduate,WRIT    107T,FRANK D M,A-,1
+F18,Undergraduate,WRIT    107T,FRANK D M,B+,1
+F18,Undergraduate,WRIT    107T,FRANK D M,B,1
+F18,Undergraduate,WRIT    107T,FRANK D M,B-,2
+F18,Undergraduate,WRIT    107T,FRANK D M,C,1
+F18,Undergraduate,WRIT    107T,FRANK D M,D,1
+F18,Undergraduate,WRIT    199,FRANK D M,A+,1

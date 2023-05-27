@@ -1,0 +1,459 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F15,Graduate,MAT     200A,PELJHAN M,A+,1
+F15,Graduate,MAT     200A,PELJHAN M,A,6
+F15,Graduate,MAT     200A,PELJHAN M,B+,1
+F15,Graduate,MAT     200A,PELJHAN M,B,3
+F15,Graduate,MAT     200A,PELJHAN M,B-,2
+F15,Graduate,MAT     200B,GORDON D E,A,6
+F15,Graduate,MAT     200B,GORDON D E,A-,3
+F15,Graduate,MAT     201B,YERKES K M,A,14
+F15,Graduate,MAT     240D,CABRERA PEREZ,A+,2
+F15,Graduate,MAT     240D,CABRERA PEREZ,A,2
+F15,Graduate,MAT     240D,CABRERA PEREZ,A-,1
+F15,Graduate,MAT     261A,NOVAK M J,A,5
+F15,Graduate,MAT     594E,CABRERA PEREZ,A+,2
+F15,Graduate,MAT     594E,CABRERA PEREZ,A,2
+F15,Graduate,MAT     594E,CABRERA PEREZ,B-,1
+F15,Graduate,MAT     594P,KUCHERA-MORIN,A,5
+F15,Graduate,MAT     595M,PELJHAN M,S,7
+F15,Graduate,MAT     599,ROADS C,S,5
+F15,Undergraduate,MATH      3A,CHAPMAN K L,A+,87
+F15,Undergraduate,MATH      3A,CHAPMAN K L,A,41
+F15,Undergraduate,MATH      3A,CHAPMAN K L,A-,49
+F15,Undergraduate,MATH      3A,CHAPMAN K L,B+,43
+F15,Undergraduate,MATH      3A,CHAPMAN K L,B,50
+F15,Undergraduate,MATH      3A,CHAPMAN K L,B-,44
+F15,Undergraduate,MATH      3A,CHAPMAN K L,C+,47
+F15,Undergraduate,MATH      3A,CHAPMAN K L,C,97
+F15,Undergraduate,MATH      3A,CHAPMAN K L,D+,29
+F15,Undergraduate,MATH      3A,CHAPMAN K L,D,23
+F15,Undergraduate,MATH      3A,CHAPMAN K L,D-,29
+F15,Undergraduate,MATH      3A,CHAPMAN K L,F,66
+F15,Undergraduate,MATH      3B,AGBOOLA A,A,136
+F15,Undergraduate,MATH      3B,AGBOOLA A,B,136
+F15,Undergraduate,MATH      3B,AGBOOLA A,C,54
+F15,Undergraduate,MATH      3B,AGBOOLA A,D,18
+F15,Undergraduate,MATH      3B,AGBOOLA A,F,8
+F15,Undergraduate,MATH      3B,PFAFF C E,A+,4
+F15,Undergraduate,MATH      3B,PFAFF C E,A,18
+F15,Undergraduate,MATH      3B,PFAFF C E,A-,10
+F15,Undergraduate,MATH      3B,PFAFF C E,B+,11
+F15,Undergraduate,MATH      3B,PFAFF C E,B,23
+F15,Undergraduate,MATH      3B,PFAFF C E,B-,8
+F15,Undergraduate,MATH      3B,PFAFF C E,C+,26
+F15,Undergraduate,MATH      3B,PFAFF C E,C,21
+F15,Undergraduate,MATH      3B,PFAFF C E,D+,8
+F15,Undergraduate,MATH      3B,PFAFF C E,D,10
+F15,Undergraduate,MATH      3B,PFAFF C E,F,6
+F15,Undergraduate,MATH      3B,TENER J E,A+,3
+F15,Undergraduate,MATH      3B,TENER J E,A,29
+F15,Undergraduate,MATH      3B,TENER J E,A-,21
+F15,Undergraduate,MATH      3B,TENER J E,B+,16
+F15,Undergraduate,MATH      3B,TENER J E,B,26
+F15,Undergraduate,MATH      3B,TENER J E,B-,15
+F15,Undergraduate,MATH      3B,TENER J E,C+,4
+F15,Undergraduate,MATH      3B,TENER J E,C,8
+F15,Undergraduate,MATH      3B,TENER J E,C-,7
+F15,Undergraduate,MATH      3B,TENER J E,D+,1
+F15,Undergraduate,MATH      3B,TENER J E,D,3
+F15,Undergraduate,MATH      3B,TENER J E,F,12
+F15,Undergraduate,MATH      4A,GUO H,A+,4
+F15,Undergraduate,MATH      4A,GUO H,A,20
+F15,Undergraduate,MATH      4A,GUO H,A-,17
+F15,Undergraduate,MATH      4A,GUO H,B+,22
+F15,Undergraduate,MATH      4A,GUO H,B,23
+F15,Undergraduate,MATH      4A,GUO H,B-,13
+F15,Undergraduate,MATH      4A,GUO H,C+,10
+F15,Undergraduate,MATH      4A,GUO H,C,5
+F15,Undergraduate,MATH      4A,GUO H,C-,4
+F15,Undergraduate,MATH      4A,GUO H,D+,1
+F15,Undergraduate,MATH      4A,GUO H,D,4
+F15,Undergraduate,MATH      4A,GUO H,F,3
+F15,Undergraduate,MATH      4A,LABUTIN D A,A+,197
+F15,Undergraduate,MATH      4A,LABUTIN D A,A,99
+F15,Undergraduate,MATH      4A,LABUTIN D A,A-,40
+F15,Undergraduate,MATH      4A,LABUTIN D A,B+,23
+F15,Undergraduate,MATH      4A,LABUTIN D A,B,91
+F15,Undergraduate,MATH      4A,LABUTIN D A,B-,19
+F15,Undergraduate,MATH      4A,LABUTIN D A,C+,18
+F15,Undergraduate,MATH      4A,LABUTIN D A,C,40
+F15,Undergraduate,MATH      4A,LABUTIN D A,C-,7
+F15,Undergraduate,MATH      4A,LABUTIN D A,D,12
+F15,Undergraduate,MATH      4A,LABUTIN D A,F,16
+F15,Undergraduate,MATH      4AI,PAUL S S,A+,3
+F15,Undergraduate,MATH      4AI,PAUL S S,A,19
+F15,Undergraduate,MATH      4AI,PAUL S S,A-,5
+F15,Undergraduate,MATH      4AI,PAUL S S,B+,5
+F15,Undergraduate,MATH      4AI,PAUL S S,B,4
+F15,Undergraduate,MATH      4AI,PAUL S S,B-,1
+F15,Undergraduate,MATH      4AI,PAUL S S,C,1
+F15,Undergraduate,MATH      4B,OGRAIN C M,A+,1
+F15,Undergraduate,MATH      4B,OGRAIN C M,A,14
+F15,Undergraduate,MATH      4B,OGRAIN C M,A-,17
+F15,Undergraduate,MATH      4B,OGRAIN C M,B+,12
+F15,Undergraduate,MATH      4B,OGRAIN C M,B,27
+F15,Undergraduate,MATH      4B,OGRAIN C M,B-,8
+F15,Undergraduate,MATH      4B,OGRAIN C M,C+,14
+F15,Undergraduate,MATH      4B,OGRAIN C M,C,17
+F15,Undergraduate,MATH      4B,OGRAIN C M,C-,5
+F15,Undergraduate,MATH      4B,OGRAIN C M,D,7
+F15,Undergraduate,MATH      4B,OGRAIN C M,F,8
+F15,Undergraduate,MATH      4B,STOPPLE J,A+,4
+F15,Undergraduate,MATH      4B,STOPPLE J,A,7
+F15,Undergraduate,MATH      4B,STOPPLE J,A-,9
+F15,Undergraduate,MATH      4B,STOPPLE J,B+,6
+F15,Undergraduate,MATH      4B,STOPPLE J,B,19
+F15,Undergraduate,MATH      4B,STOPPLE J,B-,9
+F15,Undergraduate,MATH      4B,STOPPLE J,C+,12
+F15,Undergraduate,MATH      4B,STOPPLE J,C,16
+F15,Undergraduate,MATH      4B,STOPPLE J,C-,14
+F15,Undergraduate,MATH      4B,STOPPLE J,D,8
+F15,Undergraduate,MATH      4B,STOPPLE J,D-,1
+F15,Undergraduate,MATH      4B,STOPPLE J,F,14
+F15,Undergraduate,MATH      4B,YANG XU,A+,6
+F15,Undergraduate,MATH      4B,YANG XU,A,13
+F15,Undergraduate,MATH      4B,YANG XU,A-,15
+F15,Undergraduate,MATH      4B,YANG XU,B+,15
+F15,Undergraduate,MATH      4B,YANG XU,B,13
+F15,Undergraduate,MATH      4B,YANG XU,B-,16
+F15,Undergraduate,MATH      4B,YANG XU,C+,9
+F15,Undergraduate,MATH      4B,YANG XU,C,10
+F15,Undergraduate,MATH      4B,YANG XU,C-,14
+F15,Undergraduate,MATH      4B,YANG XU,D,6
+F15,Undergraduate,MATH      4B,YANG XU,F,3
+F15,Undergraduate,MATH      6A,PAUL S S,A+,4
+F15,Undergraduate,MATH      6A,PAUL S S,A,39
+F15,Undergraduate,MATH      6A,PAUL S S,A-,22
+F15,Undergraduate,MATH      6A,PAUL S S,B+,21
+F15,Undergraduate,MATH      6A,PAUL S S,B,42
+F15,Undergraduate,MATH      6A,PAUL S S,B-,6
+F15,Undergraduate,MATH      6A,PAUL S S,C+,10
+F15,Undergraduate,MATH      6A,PAUL S S,C,13
+F15,Undergraduate,MATH      6A,PAUL S S,C-,4
+F15,Undergraduate,MATH      6A,PAUL S S,D+,1
+F15,Undergraduate,MATH      6A,PAUL S S,D,5
+F15,Undergraduate,MATH      6A,PAUL S S,D-,2
+F15,Undergraduate,MATH      6A,PAUL S S,F,19
+F15,Undergraduate,MATH      6A,SETO S,A+,1
+F15,Undergraduate,MATH      6A,SETO S,A,9
+F15,Undergraduate,MATH      6A,SETO S,A-,4
+F15,Undergraduate,MATH      6A,SETO S,B+,9
+F15,Undergraduate,MATH      6A,SETO S,B,22
+F15,Undergraduate,MATH      6A,SETO S,B-,7
+F15,Undergraduate,MATH      6A,SETO S,C+,12
+F15,Undergraduate,MATH      6A,SETO S,C,17
+F15,Undergraduate,MATH      6A,SETO S,C-,1
+F15,Undergraduate,MATH      6A,SETO S,D+,7
+F15,Undergraduate,MATH      6A,SETO S,D,18
+F15,Undergraduate,MATH      6A,SETO S,F,24
+F15,Undergraduate,MATH      6B,GRANO E A,A+,6
+F15,Undergraduate,MATH      6B,GRANO E A,A,17
+F15,Undergraduate,MATH      6B,GRANO E A,A-,17
+F15,Undergraduate,MATH      6B,GRANO E A,B+,23
+F15,Undergraduate,MATH      6B,GRANO E A,B,15
+F15,Undergraduate,MATH      6B,GRANO E A,B-,15
+F15,Undergraduate,MATH      6B,GRANO E A,C+,19
+F15,Undergraduate,MATH      6B,GRANO E A,C,15
+F15,Undergraduate,MATH      6B,GRANO E A,C-,12
+F15,Undergraduate,MATH      6B,GRANO E A,D+,14
+F15,Undergraduate,MATH      6B,GRANO E A,D,9
+F15,Undergraduate,MATH      6B,GRANO E A,D-,13
+F15,Undergraduate,MATH      6B,GRANO E A,F,26
+F15,Undergraduate,MATH      7H,COTTON-CLAY A,P,14
+F15,Undergraduate,MATH      8,BALLAS S A,A,8
+F15,Undergraduate,MATH      8,BALLAS S A,A-,5
+F15,Undergraduate,MATH      8,BALLAS S A,B+,4
+F15,Undergraduate,MATH      8,BALLAS S A,B,4
+F15,Undergraduate,MATH      8,BALLAS S A,B-,3
+F15,Undergraduate,MATH      8,BALLAS S A,C,4
+F15,Undergraduate,MATH      8,BALLAS S A,C-,4
+F15,Undergraduate,MATH      8,BALLAS S A,D,4
+F15,Undergraduate,MATH      8,BALLAS S A,F,1
+F15,Undergraduate,MATH      8,CASTEELS K L,A+,3
+F15,Undergraduate,MATH      8,CASTEELS K L,A,6
+F15,Undergraduate,MATH      8,CASTEELS K L,A-,2
+F15,Undergraduate,MATH      8,CASTEELS K L,B+,2
+F15,Undergraduate,MATH      8,CASTEELS K L,B,8
+F15,Undergraduate,MATH      8,CASTEELS K L,C+,3
+F15,Undergraduate,MATH      8,CASTEELS K L,C,9
+F15,Undergraduate,MATH      8,CASTEELS K L,D,2
+F15,Undergraduate,MATH      8,CASTEELS K L,F,2
+F15,Undergraduate,MATH      8,JACOB W B,A+,1
+F15,Undergraduate,MATH      8,JACOB W B,A,3
+F15,Undergraduate,MATH      8,JACOB W B,A-,2
+F15,Undergraduate,MATH      8,JACOB W B,B+,1
+F15,Undergraduate,MATH      8,JACOB W B,B,15
+F15,Undergraduate,MATH      8,JACOB W B,B-,2
+F15,Undergraduate,MATH      8,JACOB W B,C+,5
+F15,Undergraduate,MATH      8,JACOB W B,C,5
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,A+,3
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,A,1
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,A-,2
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,B+,7
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,B,1
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,B-,1
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,C+,1
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,C,4
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,C-,4
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,D+,1
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,D,3
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,D-,3
+F15,Undergraduate,MATH      8,MARTINEZ ESPA,F,6
+F15,Undergraduate,MATH      8,TENER J E,A,7
+F15,Undergraduate,MATH      8,TENER J E,A-,10
+F15,Undergraduate,MATH      8,TENER J E,B+,3
+F15,Undergraduate,MATH      8,TENER J E,B,2
+F15,Undergraduate,MATH      8,TENER J E,B-,3
+F15,Undergraduate,MATH      8,TENER J E,C+,1
+F15,Undergraduate,MATH      8,TENER J E,C,8
+F15,Undergraduate,MATH      8,TENER J E,D,3
+F15,Undergraduate,MATH     34A,AKEMANN C A,A+,20
+F15,Undergraduate,MATH     34A,AKEMANN C A,A,48
+F15,Undergraduate,MATH     34A,AKEMANN C A,A-,25
+F15,Undergraduate,MATH     34A,AKEMANN C A,B+,25
+F15,Undergraduate,MATH     34A,AKEMANN C A,B,238
+F15,Undergraduate,MATH     34A,AKEMANN C A,B-,22
+F15,Undergraduate,MATH     34A,AKEMANN C A,C,9
+F15,Undergraduate,MATH     34A,AKEMANN C A,C-,26
+F15,Undergraduate,MATH     34A,AKEMANN C A,D+,18
+F15,Undergraduate,MATH     34A,AKEMANN C A,D,68
+F15,Undergraduate,MATH     34A,AKEMANN C A,D-,22
+F15,Undergraduate,MATH     34A,AKEMANN C A,F,192
+F15,Undergraduate,MATH     34B,GRANO E A,A+,3
+F15,Undergraduate,MATH     34B,GRANO E A,A,13
+F15,Undergraduate,MATH     34B,GRANO E A,A-,15
+F15,Undergraduate,MATH     34B,GRANO E A,B+,8
+F15,Undergraduate,MATH     34B,GRANO E A,B,22
+F15,Undergraduate,MATH     34B,GRANO E A,B-,14
+F15,Undergraduate,MATH     34B,GRANO E A,C+,12
+F15,Undergraduate,MATH     34B,GRANO E A,C,13
+F15,Undergraduate,MATH     34B,GRANO E A,C-,10
+F15,Undergraduate,MATH     34B,GRANO E A,D+,2
+F15,Undergraduate,MATH     34B,GRANO E A,D,10
+F15,Undergraduate,MATH     34B,GRANO E A,D-,4
+F15,Undergraduate,MATH     34B,GRANO E A,F,14
+F15,Undergraduate,MATH     94,MCCAMMOND J P,A+,7
+F15,Undergraduate,MATH     94,MCCAMMOND J P,B,1
+F15,Undergraduate,MATH    101A,YAQUB A M,A,8
+F15,Undergraduate,MATH    101A,YAQUB A M,A-,4
+F15,Undergraduate,MATH    101A,YAQUB A M,B+,5
+F15,Undergraduate,MATH    101A,YAQUB A M,B,6
+F15,Undergraduate,MATH    101A,YAQUB A M,B-,7
+F15,Undergraduate,MATH    101A,YAQUB A M,C,4
+F15,Undergraduate,MATH    103,YAQUB A M,A+,1
+F15,Undergraduate,MATH    103,YAQUB A M,A,8
+F15,Undergraduate,MATH    103,YAQUB A M,A-,3
+F15,Undergraduate,MATH    103,YAQUB A M,B+,6
+F15,Undergraduate,MATH    103,YAQUB A M,B,3
+F15,Undergraduate,MATH    103,YAQUB A M,B-,3
+F15,Undergraduate,MATH    103,YAQUB A M,C,6
+F15,Undergraduate,MATH    103,YAQUB A M,F,4
+F15,Undergraduate,MATH    104A,CENICEROS H,A,6
+F15,Undergraduate,MATH    104A,CENICEROS H,A-,3
+F15,Undergraduate,MATH    104A,CENICEROS H,B+,6
+F15,Undergraduate,MATH    104A,CENICEROS H,B,8
+F15,Undergraduate,MATH    104A,CENICEROS H,B-,5
+F15,Undergraduate,MATH    104A,CENICEROS H,C+,10
+F15,Undergraduate,MATH    104A,CENICEROS H,C,9
+F15,Undergraduate,MATH    104A,CENICEROS H,C-,3
+F15,Undergraduate,MATH    104A,CENICEROS H,D,4
+F15,Undergraduate,MATH    104A,CENICEROS H,F,10
+F15,Undergraduate,MATH    108A,BALLAS S A,A,6
+F15,Undergraduate,MATH    108A,BALLAS S A,A-,2
+F15,Undergraduate,MATH    108A,BALLAS S A,B+,4
+F15,Undergraduate,MATH    108A,BALLAS S A,B,6
+F15,Undergraduate,MATH    108A,BALLAS S A,B-,4
+F15,Undergraduate,MATH    108A,BALLAS S A,C,4
+F15,Undergraduate,MATH    108A,BALLAS S A,C-,11
+F15,Undergraduate,MATH    108A,BALLAS S A,D,7
+F15,Undergraduate,MATH    108A,BALLAS S A,F,4
+F15,Undergraduate,MATH    108A,BUENO CACHADI,A,6
+F15,Undergraduate,MATH    108A,BUENO CACHADI,A-,4
+F15,Undergraduate,MATH    108A,BUENO CACHADI,B+,1
+F15,Undergraduate,MATH    108A,BUENO CACHADI,B,3
+F15,Undergraduate,MATH    108A,BUENO CACHADI,B-,1
+F15,Undergraduate,MATH    108A,BUENO CACHADI,C+,3
+F15,Undergraduate,MATH    108A,BUENO CACHADI,C,4
+F15,Undergraduate,MATH    108A,BUENO CACHADI,C-,4
+F15,Undergraduate,MATH    108A,BUENO CACHADI,D+,1
+F15,Undergraduate,MATH    108A,BUENO CACHADI,D,4
+F15,Undergraduate,MATH    108A,BUENO CACHADI,F,14
+F15,Undergraduate,MATH    108B,PONCE G,A,3
+F15,Undergraduate,MATH    108B,PONCE G,A-,2
+F15,Undergraduate,MATH    108B,PONCE G,B+,6
+F15,Undergraduate,MATH    108B,PONCE G,B,8
+F15,Undergraduate,MATH    108B,PONCE G,B-,6
+F15,Undergraduate,MATH    108B,PONCE G,C+,9
+F15,Undergraduate,MATH    108B,PONCE G,C,3
+F15,Undergraduate,MATH    108B,PONCE G,C-,1
+F15,Undergraduate,MATH    108B,PONCE G,D+,2
+F15,Undergraduate,MATH    108B,PONCE G,D,2
+F15,Undergraduate,MATH    108B,PONCE G,F,2
+F15,Undergraduate,MATH    111A,JACOB W B,A,10
+F15,Undergraduate,MATH    111A,JACOB W B,A-,6
+F15,Undergraduate,MATH    111A,JACOB W B,B+,3
+F15,Undergraduate,MATH    111A,JACOB W B,B,13
+F15,Undergraduate,MATH    111A,JACOB W B,B-,1
+F15,Undergraduate,MATH    111A,JACOB W B,C+,5
+F15,Undergraduate,MATH    111A,JACOB W B,C,8
+F15,Undergraduate,MATH    111A,JACOB W B,D,1
+F15,Undergraduate,MATH    111A,JACOB W B,F,4
+F15,Undergraduate,MATH    113,BIGELOW S J,A+,6
+F15,Undergraduate,MATH    113,BIGELOW S J,A,7
+F15,Undergraduate,MATH    113,BIGELOW S J,B+,3
+F15,Undergraduate,MATH    113,BIGELOW S J,B,5
+F15,Undergraduate,MATH    113,BIGELOW S J,B-,7
+F15,Undergraduate,MATH    113,BIGELOW S J,C+,2
+F15,Undergraduate,MATH    113,BIGELOW S J,C,1
+F15,Undergraduate,MATH    113,BIGELOW S J,D,2
+F15,Undergraduate,MATH    113,BIGELOW S J,F,1
+F15,Undergraduate,MATH    117,PANAGIOTOU E,A+,3
+F15,Undergraduate,MATH    117,PANAGIOTOU E,A,21
+F15,Undergraduate,MATH    117,PANAGIOTOU E,A-,5
+F15,Undergraduate,MATH    117,PANAGIOTOU E,B+,1
+F15,Undergraduate,MATH    117,PANAGIOTOU E,B,12
+F15,Undergraduate,MATH    117,PANAGIOTOU E,C+,2
+F15,Undergraduate,MATH    117,PANAGIOTOU E,C,3
+F15,Undergraduate,MATH    117,PANAGIOTOU E,C-,1
+F15,Undergraduate,MATH    117,PANAGIOTOU E,D+,1
+F15,Undergraduate,MATH    117,PANAGIOTOU E,D-,1
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,A+,1
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,A,7
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,A-,6
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,B+,8
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,B,5
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,C+,7
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,C,5
+F15,Undergraduate,MATH    118A,COTTON-CLAY A,D,1
+F15,Undergraduate,MATH    118A,PONCE G,A,2
+F15,Undergraduate,MATH    118A,PONCE G,A-,6
+F15,Undergraduate,MATH    118A,PONCE G,B+,3
+F15,Undergraduate,MATH    118A,PONCE G,B,7
+F15,Undergraduate,MATH    118A,PONCE G,B-,7
+F15,Undergraduate,MATH    118A,PONCE G,C+,13
+F15,Undergraduate,MATH    118A,PONCE G,D+,2
+F15,Undergraduate,MATH    118A,PONCE G,D,2
+F15,Undergraduate,MATH    118A,PONCE G,D-,1
+F15,Undergraduate,MATH    118A,PONCE G,F,1
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,A+,2
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,A,10
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,A-,10
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,B+,7
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,B,6
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,B-,2
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,C+,6
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,C,2
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,C-,2
+F15,Undergraduate,MATH    119A,CHEN TIANCONG,D,3
+F15,Undergraduate,MATH    137A,CASTEELS K L,A+,4
+F15,Undergraduate,MATH    137A,CASTEELS K L,A,3
+F15,Undergraduate,MATH    137A,CASTEELS K L,A-,4
+F15,Undergraduate,MATH    137A,CASTEELS K L,B+,2
+F15,Undergraduate,MATH    137A,CASTEELS K L,B,1
+F15,Undergraduate,MATH    137A,CASTEELS K L,B-,3
+F15,Undergraduate,MATH    137A,CASTEELS K L,C+,4
+F15,Undergraduate,MATH    137A,CASTEELS K L,C,4
+F15,Undergraduate,MATH    137A,CASTEELS K L,C-,3
+F15,Undergraduate,MATH    137A,CASTEELS K L,D,1
+F15,Undergraduate,MATH    137A,CASTEELS K L,D-,1
+F15,Undergraduate,MATH    137A,CASTEELS K L,F,5
+F15,Graduate,MATH    201A,AKEMANN C A,A+,3
+F15,Graduate,MATH    201A,AKEMANN C A,A,5
+F15,Graduate,MATH    201A,AKEMANN C A,A-,8
+F15,Graduate,MATH    201A,AKEMANN C A,B,1
+F15,Graduate,MATH    206A,CHANDRASEKARA,A,7
+F15,Graduate,MATH    220A,GOODEARL K,A+,2
+F15,Graduate,MATH    220A,GOODEARL K,A-,5
+F15,Graduate,MATH    220A,GOODEARL K,B+,2
+F15,Graduate,MATH    220A,GOODEARL K,B,1
+F15,Graduate,MATH    220A,GOODEARL K,B-,1
+F15,Graduate,MATH    221A,MILLETT K C,A+,4
+F15,Graduate,MATH    221A,MILLETT K C,A,8
+F15,Graduate,MATH    221A,MILLETT K C,A-,2
+F15,Graduate,MATH    221A,MILLETT K C,B,1
+F15,Graduate,MATH    225A,AGBOOLA A,A,12
+F15,Graduate,MATH    227A,WANG ZHEN,A+,2
+F15,Graduate,MATH    227A,WANG ZHEN,A,12
+F15,Graduate,MATH    231A,MCCAMMOND J P,A+,3
+F15,Graduate,MATH    231A,MCCAMMOND J P,A,11
+F15,Graduate,MATH    231A,MCCAMMOND J P,A-,6
+F15,Graduate,MATH    231A,MCCAMMOND J P,B+,2
+F15,Graduate,MATH    237A,MORRISON D R,A,3
+F15,Graduate,MATH    237A,MORRISON D R,A-,2
+F15,Graduate,MATH    237A,MORRISON D R,B+,1
+F15,Graduate,MATH    237A,MORRISON D R,S,10
+F15,Graduate,MATH    240A,WEI G,A+,1
+F15,Graduate,MATH    240A,WEI G,A,8
+F15,Graduate,MATH    240A,WEI G,A-,2
+F15,Graduate,MATH    243A,BIRNIR B,A,8
+F15,Graduate,MATH    260EE,OGRAIN C M,S,11
+F15,Graduate,MATH    500,MCCAMMOND J P,S,24
+F15,Graduate,MATH    501,OGRAIN C M,S,11
+F15,Graduate,MATH    596,BIRNIR B,S,5
+F15,Undergraduate,MATH CS 101A,BUENO CACHADI,P,23
+F15,Undergraduate,MATH CS 120,CASTEELS K L,P,24
+F15,Undergraduate,MATH CS 128,BUENO CACHADI,P,24
+F15,Undergraduate,MATH CS 130B,LABUTIN D A,P,14
+F15,Undergraduate,MATRL   100A,SESHADRI R,A+,1
+F15,Undergraduate,MATRL   100A,SESHADRI R,A,11
+F15,Undergraduate,MATRL   100A,SESHADRI R,A-,14
+F15,Undergraduate,MATRL   100A,SESHADRI R,B+,16
+F15,Undergraduate,MATRL   100A,SESHADRI R,B,18
+F15,Undergraduate,MATRL   100A,SESHADRI R,B-,10
+F15,Undergraduate,MATRL   100A,SESHADRI R,C+,6
+F15,Undergraduate,MATRL   100A,SESHADRI R,C,4
+F15,Undergraduate,MATRL   100A,SESHADRI R,C-,2
+F15,Undergraduate,MATRL   188,VAN DE WALLE,A+,1
+F15,Undergraduate,MATRL   188,VAN DE WALLE,A,6
+F15,Undergraduate,MATRL   188,VAN DE WALLE,A-,5
+F15,Undergraduate,MATRL   188,VAN DE WALLE,C+,1
+F15,Graduate,MATRL   200A,SALEH O A,A+,4
+F15,Graduate,MATRL   200A,SALEH O A,A,8
+F15,Graduate,MATRL   200A,SALEH O A,A-,5
+F15,Graduate,MATRL   200A,SALEH O A,B+,6
+F15,Graduate,MATRL   200A,SALEH O A,B,5
+F15,Graduate,MATRL   200A,SALEH O A,C-,1
+F15,Graduate,MATRL   207,BEGLEY M R,A,3
+F15,Graduate,MATRL   207,BEGLEY M R,A-,2
+F15,Graduate,MATRL   207,BEGLEY M R,B+,2
+F15,Graduate,MATRL   209A,SPECK J S,A+,5
+F15,Graduate,MATRL   209A,SPECK J S,A,2
+F15,Graduate,MATRL   209A,SPECK J S,A-,6
+F15,Graduate,MATRL   215A,PALMSTROM C J,A,4
+F15,Graduate,MATRL   215A,PALMSTROM C J,B+,2
+F15,Graduate,MATRL   215A,PALMSTROM C J,B,2
+F15,Graduate,MATRL   251A,LEVI C G,A+,1
+F15,Graduate,MATRL   251A,LEVI C G,A,7
+F15,Graduate,MATRL   271A,BAZAN G C,A,7
+F15,Graduate,MATRL   271A,BAZAN G C,B,5
+F15,Graduate,MATRL   276A,SAFINYA C R,A,5
+F15,Graduate,MATRL   284,HAWKER C J,A+,1
+F15,Graduate,MATRL   284,HAWKER C J,A,10
+F15,Graduate,MATRL   284,HAWKER C J,A-,1
+F15,Graduate,MATRL   289H,VAN DER VEN A,A,8
+F15,Graduate,MATRL   290,CHABINYC M L,S,6
+F15,Graduate,MATRL   290,DENBAARS S P,S,11
+F15,Graduate,MATRL   290,HAWKER C J,S,5
+F15,Graduate,MATRL   290,LEVI C G,S,9
+F15,Graduate,MATRL   290,NAKAMURA S,S,6
+F15,Graduate,MATRL   290,PALMSTROM C J,S,8
+F15,Graduate,MATRL   290,POLLOCK T M,S,13
+F15,Graduate,MATRL   290,SESHADRI R,S,7
+F15,Graduate,MATRL   290,SPECK J S,S,10
+F15,Graduate,MATRL   290,STEMMER S,S,8
+F15,Graduate,MATRL   290,STEMMER S,U,1
+F15,Graduate,MATRL   290,VAN DER VEN A,S,6
+F15,Graduate,MATRL   598,DENBAARS S P,S,6
+F15,Graduate,MATRL   598,SESHADRI R,S,5
+F15,Graduate,MATRL   598,SPECK J S,S,5
+F15,Graduate,MATRL   598,VAN DER VEN A,S,5
+F15,Graduate,MATRL   599,DENBAARS S P,S,6
+F15,Graduate,MATRL   599,NAKAMURA S,S,7
+F15,Graduate,MATRL   599,PALMSTROM C J,S,6
+F15,Graduate,MATRL   599,POLLOCK T M,S,11
+F15,Graduate,MATRL   599,SPECK J S,S,6
+F15,Graduate,MATRL   599,STEMMER S,S,6
+F15,Undergraduate,ME      125EM,MATTHYS E F,A,1
+F15,Undergraduate,ME      125EM,MATTHYS E F,A-,1
+F15,Undergraduate,ME      125EM,MATTHYS E F,B+,3
+F15,Undergraduate,ME      125EM,MATTHYS E F,B-,1

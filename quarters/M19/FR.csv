@@ -1,0 +1,91 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M19,Undergraduate,FR        1,VIVIAN D A,A,8
+M19,Undergraduate,FR        1,VIVIAN D A,A-,3
+M19,Undergraduate,FR        1,VIVIAN D A,B+,1
+M19,Undergraduate,FR        1,VIVIAN D A,B-,3
+M19,Undergraduate,FR        1,VIVIAN D A,F,1
+M19,Undergraduate,FR        2,DESGENS-MARTI,A,2
+M19,Undergraduate,FR        2,DESGENS-MARTI,A-,5
+M19,Undergraduate,FR        2,DESGENS-MARTI,B,2
+M19,Undergraduate,FR        2,DESGENS-MARTI,B-,4
+M19,Undergraduate,FR        2,DESGENS-MARTI,C+,1
+M19,Undergraduate,FR        2,DESGENS-MARTI,C,1
+M19,Undergraduate,FR        3,LMAIFI M,A+,1
+M19,Undergraduate,FR        3,LMAIFI M,A,3
+M19,Undergraduate,FR        3,LMAIFI M,A-,1
+M19,Undergraduate,FR        3,LMAIFI M,B+,4
+M19,Undergraduate,FR        3,LMAIFI M,B,4
+M19,Undergraduate,FR        3,LMAIFI M,B-,1
+M19,Undergraduate,FR        3,LMAIFI M,C+,2
+M19,Undergraduate,FR        3,LMAIFI M,C,1
+M19,Undergraduate,FR        3,LMAIFI M,D,1
+M19,Undergraduate,FR        3,LMAIFI M,F,1
+M19,Undergraduate,FR      154F,NESCI C,A+,4
+M19,Undergraduate,FR      154F,NESCI C,A,11
+M19,Undergraduate,FR      154F,NESCI C,A-,3
+M19,Undergraduate,FR      154F,NESCI C,B+,4
+M19,Undergraduate,FR      154F,NESCI C,B-,1
+M19,Undergraduate,FR      154F,NESCI C,C-,1
+M19,Undergraduate,FR      154G,LUNA A,A+,2
+M19,Undergraduate,FR      154G,LUNA A,A,5
+M19,Undergraduate,FR      154G,LUNA A,A-,5
+M19,Undergraduate,FR      154G,LUNA A,B+,3
+M19,Undergraduate,FR      154G,LUNA A,B,3
+M19,Undergraduate,FR      154G,LUNA A,C+,2
+M19,Undergraduate,FR      154G,LUNA A,C,1
+M19,Undergraduate,FR      154G,LUNA A,F,2
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,A+,2
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,A,75
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,A-,13
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,B+,11
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,B,18
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,B-,6
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,C+,2
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,C,3
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,C-,3
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,D+,1
+M19,Undergraduate,JAPAN   165,FRUHSTUCK S,F,1
+M19,Undergraduate,MATH      6B,FROST G A,A+,10
+M19,Undergraduate,MATH      6B,FROST G A,A,11
+M19,Undergraduate,MATH      6B,FROST G A,A-,2
+M19,Undergraduate,MATH      6B,FROST G A,B,3
+M19,Undergraduate,MATH      6B,FROST G A,C+,1
+M19,Undergraduate,MATH      6B,FROST G A,C,2
+M19,Undergraduate,MATH      6B,FROST G A,D,1
+M19,Undergraduate,MATH      6B,FROST G A,F,1
+M19,Undergraduate,PHYS      6A,FREUND E G,A+,10
+M19,Undergraduate,PHYS      6A,FREUND E G,A,29
+M19,Undergraduate,PHYS      6A,FREUND E G,A-,13
+M19,Undergraduate,PHYS      6A,FREUND E G,B+,19
+M19,Undergraduate,PHYS      6A,FREUND E G,B,26
+M19,Undergraduate,PHYS      6A,FREUND E G,B-,17
+M19,Undergraduate,PHYS      6A,FREUND E G,C+,26
+M19,Undergraduate,PHYS      6A,FREUND E G,C,16
+M19,Undergraduate,PHYS      6A,FREUND E G,C-,11
+M19,Undergraduate,PHYS      6A,FREUND E G,D+,9
+M19,Undergraduate,PHYS      6A,FREUND E G,D,8
+M19,Undergraduate,PHYS      6A,FREUND E G,D-,4
+M19,Undergraduate,PHYS      6A,FREUND E G,F,9
+M19,Undergraduate,PHYS      6C,FREUND E G,A+,16
+M19,Undergraduate,PHYS      6C,FREUND E G,A,27
+M19,Undergraduate,PHYS      6C,FREUND E G,A-,18
+M19,Undergraduate,PHYS      6C,FREUND E G,B+,24
+M19,Undergraduate,PHYS      6C,FREUND E G,B,19
+M19,Undergraduate,PHYS      6C,FREUND E G,B-,14
+M19,Undergraduate,PHYS      6C,FREUND E G,C+,6
+M19,Undergraduate,PHYS      6C,FREUND E G,C,5
+M19,Undergraduate,PHYS      6C,FREUND E G,C-,5
+M19,Undergraduate,PHYS      6C,FREUND E G,D+,1
+M19,Undergraduate,PHYS      6C,FREUND E G,D,3
+M19,Undergraduate,PHYS      6C,FREUND E G,D-,3
+M19,Undergraduate,PHYS      6C,FREUND E G,F,1
+M19,Undergraduate,WRIT      2,FREDRICKSON N,A,5
+M19,Undergraduate,WRIT      2,FREDRICKSON N,A-,5
+M19,Undergraduate,WRIT      2,FREDRICKSON N,B+,3
+M19,Undergraduate,WRIT      2,FREDRICKSON N,C,1
+M19,Undergraduate,WRIT      2,FREDRICKSON N,C-,1
+M19,Undergraduate,WRIT      2,FREDRICKSON N,F,1
+M19,Undergraduate,WRIT    105M,FRANK D M,A+,12
+M19,Undergraduate,WRIT    105M,FRANK D M,A,3
+M19,Undergraduate,WRIT    105M,FRANK D M,A-,1
+M19,Undergraduate,WRIT    105M,FRANK D M,B,1

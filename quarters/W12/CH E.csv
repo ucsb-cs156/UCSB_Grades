@@ -1,0 +1,89 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W12,Undergraduate,CH E    110A,SHELL M S,A+,4
+W12,Undergraduate,CH E    110A,SHELL M S,A,6
+W12,Undergraduate,CH E    110A,SHELL M S,A-,1
+W12,Undergraduate,CH E    110A,SHELL M S,B+,11
+W12,Undergraduate,CH E    110A,SHELL M S,B,9
+W12,Undergraduate,CH E    110A,SHELL M S,B-,4
+W12,Undergraduate,CH E    110A,SHELL M S,C+,2
+W12,Undergraduate,CH E    110A,SHELL M S,C,6
+W12,Undergraduate,CH E    110A,SHELL M S,D+,5
+W12,Undergraduate,CH E    110A,SHELL M S,D,2
+W12,Undergraduate,CH E    110A,SHELL M S,F,1
+W12,Undergraduate,CH E    120B,SQUIRES T M,A+,2
+W12,Undergraduate,CH E    120B,SQUIRES T M,A,14
+W12,Undergraduate,CH E    120B,SQUIRES T M,A-,7
+W12,Undergraduate,CH E    120B,SQUIRES T M,B+,2
+W12,Undergraduate,CH E    120B,SQUIRES T M,B,18
+W12,Undergraduate,CH E    120B,SQUIRES T M,B-,11
+W12,Undergraduate,CH E    120B,SQUIRES T M,C+,5
+W12,Undergraduate,CH E    120B,SQUIRES T M,C,10
+W12,Undergraduate,CH E    120B,SQUIRES T M,C-,2
+W12,Undergraduate,CH E    120B,SQUIRES T M,D,1
+W12,Undergraduate,CH E    132C,PETERS B G,A+,4
+W12,Undergraduate,CH E    132C,PETERS B G,A,10
+W12,Undergraduate,CH E    132C,PETERS B G,A-,4
+W12,Undergraduate,CH E    132C,PETERS B G,B+,6
+W12,Undergraduate,CH E    132C,PETERS B G,B,10
+W12,Undergraduate,CH E    132C,PETERS B G,B-,7
+W12,Undergraduate,CH E    132C,PETERS B G,C+,10
+W12,Undergraduate,CH E    132C,PETERS B G,C,7
+W12,Undergraduate,CH E    132C,PETERS B G,C-,4
+W12,Undergraduate,CH E    132C,PETERS B G,D,3
+W12,Undergraduate,CH E    132C,PETERS B G,F,5
+W12,Undergraduate,CH E    152B,DOYLE F,A+,1
+W12,Undergraduate,CH E    152B,DOYLE F,A,6
+W12,Undergraduate,CH E    152B,DOYLE F,B+,3
+W12,Undergraduate,CH E    152B,DOYLE F,B,5
+W12,Undergraduate,CH E    160,KRAMER E J,A,4
+W12,Undergraduate,CH E    160,KRAMER E J,A-,2
+W12,Undergraduate,CH E    160,KRAMER E J,B+,2
+W12,Undergraduate,CH E    160,KRAMER E J,B,3
+W12,Undergraduate,CH E    160,KRAMER E J,B-,2
+W12,Undergraduate,CH E    160,KRAMER E J,C+,2
+W12,Undergraduate,CH E    160,KRAMER E J,C,1
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,A+,2
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,A,4
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,A-,6
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,B+,9
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,B,15
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,B-,5
+W12,Undergraduate,CH E    180B,MITRAGOTRI S,C-,4
+W12,Undergraduate,CH E    180B,SCOTT S L,A+,2
+W12,Undergraduate,CH E    180B,SCOTT S L,A,4
+W12,Undergraduate,CH E    180B,SCOTT S L,A-,6
+W12,Undergraduate,CH E    180B,SCOTT S L,B+,9
+W12,Undergraduate,CH E    180B,SCOTT S L,B,15
+W12,Undergraduate,CH E    180B,SCOTT S L,B-,5
+W12,Undergraduate,CH E    180B,SCOTT S L,C-,4
+W12,Undergraduate,CH E    184A,CHMELKA B F,A,6
+W12,Undergraduate,CH E    184A,CHMELKA B F,A-,3
+W12,Undergraduate,CH E    184A,CHMELKA B F,B+,10
+W12,Undergraduate,CH E    184A,CHMELKA B F,B,18
+W12,Undergraduate,CH E    184A,CHMELKA B F,B-,6
+W12,Undergraduate,CH E    184A,CHMELKA B F,C+,1
+W12,Undergraduate,CH E    184A,CHMELKA B F,C,4
+W12,Undergraduate,CH E    184A,CHMELKA B F,C-,2
+W12,Undergraduate,CH E    184A,DOHERTY M F,A,6
+W12,Undergraduate,CH E    184A,DOHERTY M F,A-,3
+W12,Undergraduate,CH E    184A,DOHERTY M F,B+,10
+W12,Undergraduate,CH E    184A,DOHERTY M F,B,18
+W12,Undergraduate,CH E    184A,DOHERTY M F,B-,6
+W12,Undergraduate,CH E    184A,DOHERTY M F,C+,1
+W12,Undergraduate,CH E    184A,DOHERTY M F,C,4
+W12,Undergraduate,CH E    184A,DOHERTY M F,C-,2
+W12,Graduate,CH E    210B,FREDRICKSON G,A-,11
+W12,Graduate,CH E    210B,FREDRICKSON G,B+,5
+W12,Graduate,CH E    210B,FREDRICKSON G,B-,1
+W12,Graduate,CH E    240A,GORDON M J,A+,3
+W12,Graduate,CH E    240A,GORDON M J,A,3
+W12,Graduate,CH E    240A,GORDON M J,A-,3
+W12,Graduate,CH E    240A,GORDON M J,B+,1
+W12,Graduate,CH E    240A,GORDON M J,B,3
+W12,Graduate,CH E    290,MCFARLAND E W,S,66
+W12,Graduate,CH E    291,CHMELKA B F,S,6
+W12,Graduate,CH E    291,GORDON M J,S,7
+W12,Graduate,CH E    291,LEAL L G,S,5
+W12,Graduate,CH E    596,FREDRICKSON G,S,5
+W12,Graduate,CH E    599,CHMELKA B F,S,7
+W12,Graduate,CH E    599,LEAL L G,S,5

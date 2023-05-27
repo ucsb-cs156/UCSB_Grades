@@ -1,0 +1,112 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A+,4
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A,8
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,A-,3
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B+,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,B-,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C+,5
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C,2
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,C-,1
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,D,2
+F09,Undergraduate,CMPSC    20,FRANKLIN D M,F,5
+F09,Undergraduate,CMPSC    30,ZHENG H,A+,2
+F09,Undergraduate,CMPSC    30,ZHENG H,A,6
+F09,Undergraduate,CMPSC    30,ZHENG H,A-,4
+F09,Undergraduate,CMPSC    30,ZHENG H,B+,2
+F09,Undergraduate,CMPSC    30,ZHENG H,B,6
+F09,Undergraduate,CMPSC    30,ZHENG H,B-,3
+F09,Undergraduate,CMPSC    30,ZHENG H,C+,1
+F09,Undergraduate,CMPSC    30,ZHENG H,C,2
+F09,Undergraduate,CMPSC    30,ZHENG H,F,1
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,A+,1
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,A,1
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,A-,1
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,B,2
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,B-,2
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,C,7
+F09,Undergraduate,CMPSC   130A,GONZALEZ T F,D-,2
+F09,Undergraduate,CMPSC   138,IBARRA O H,A+,1
+F09,Undergraduate,CMPSC   138,IBARRA O H,A,3
+F09,Undergraduate,CMPSC   138,IBARRA O H,A-,4
+F09,Undergraduate,CMPSC   138,IBARRA O H,B+,4
+F09,Undergraduate,CMPSC   138,IBARRA O H,B,6
+F09,Undergraduate,CMPSC   138,IBARRA O H,B-,4
+F09,Undergraduate,CMPSC   138,IBARRA O H,C+,2
+F09,Undergraduate,CMPSC   138,IBARRA O H,C,2
+F09,Undergraduate,CMPSC   138,IBARRA O H,C-,5
+F09,Undergraduate,CMPSC   138,IBARRA O H,D,4
+F09,Undergraduate,CMPSC   138,IBARRA O H,F,3
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,A+,3
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,A,7
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,A-,5
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,B+,2
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,B,2
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,C+,4
+F09,Undergraduate,CMPSC   160,SHERWOOD T P,D,1
+F09,Undergraduate,CMPSC   165A,SINGH A K,A+,1
+F09,Undergraduate,CMPSC   165A,SINGH A K,A,2
+F09,Undergraduate,CMPSC   165A,SINGH A K,A-,1
+F09,Undergraduate,CMPSC   165A,SINGH A K,B+,4
+F09,Undergraduate,CMPSC   165A,SINGH A K,B,1
+F09,Undergraduate,CMPSC   165A,SINGH A K,B-,6
+F09,Undergraduate,CMPSC   165A,SINGH A K,C+,3
+F09,Undergraduate,CMPSC   165A,SINGH A K,C,5
+F09,Undergraduate,CMPSC   165A,SINGH A K,C-,2
+F09,Undergraduate,CMPSC   165A,SINGH A K,D,1
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,A+,1
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,A,4
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,A-,1
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,B+,2
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,B,6
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,B-,2
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,C+,2
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,C-,1
+F09,Undergraduate,CMPSC   176A,ALMEROTH K C,D,1
+F09,Undergraduate,CMPSC   177,KEMMERER R A,A,5
+F09,Undergraduate,CMPSC   177,KEMMERER R A,B+,1
+F09,Undergraduate,CMPSC   177,KEMMERER R A,B,13
+F09,Undergraduate,CMPSC   177,KEMMERER R A,B-,3
+F09,Undergraduate,CMPSC   177,KEMMERER R A,C,5
+F09,Undergraduate,CMPSC   177,KEMMERER R A,C-,3
+F09,Undergraduate,CMPSC   177,KEMMERER R A,F,1
+F09,Graduate,CMPSC   231,SURI S,A+,1
+F09,Graduate,CMPSC   231,SURI S,A,8
+F09,Graduate,CMPSC   231,SURI S,A-,5
+F09,Graduate,CMPSC   231,SURI S,B,5
+F09,Graduate,CMPSC   263,KRINTZ C,A,17
+F09,Graduate,CMPSC   263,KRINTZ C,B,1
+F09,Graduate,CMPSC   267,BULTAN T,A,4
+F09,Graduate,CMPSC   267,BULTAN T,A-,5
+F09,Graduate,CMPSC   267,BULTAN T,B+,1
+F09,Graduate,CMPSC   267,BULTAN T,B,1
+F09,Graduate,CMPSC   273,YAN X,A+,3
+F09,Graduate,CMPSC   273,YAN X,A,3
+F09,Graduate,CMPSC   273,YAN X,A-,3
+F09,Graduate,CMPSC   273,YAN X,B+,2
+F09,Graduate,CMPSC   273,YAN X,B,1
+F09,Graduate,CMPSC   276,ZHAO B Y,A+,4
+F09,Graduate,CMPSC   276,ZHAO B Y,A,7
+F09,Graduate,CMPSC   276,ZHAO B Y,A-,1
+F09,Graduate,CMPSC   279,VIGNA G,A+,7
+F09,Graduate,CMPSC   279,VIGNA G,A,5
+F09,Graduate,CMPSC   279,VIGNA G,A-,6
+F09,Graduate,CMPSC   279,VIGNA G,B+,4
+F09,Graduate,CMPSC   279,VIGNA G,C,1
+F09,Graduate,CMPSC   290I,TURK M A,A,14
+F09,Graduate,CMPSC   290N,GILBERT J R,A,6
+F09,Graduate,CMPSC   501,EL ABBADI A,S,33
+F09,Graduate,CMPSC   502,EL ABBADI A,S,29
+F09,Graduate,CMPSC   593,BELDING E M,S,15
+F09,Graduate,CMPSC   596,HOLLERER T,A,8
+F09,Graduate,CMPSC   596,KRINTZ C,S,10
+F09,Graduate,CMPSC   596,KRUEGEL C I,A,4
+F09,Graduate,CMPSC   596,KRUEGEL C I,S,2
+F09,Graduate,CMPSC   596,PETZOLD L,A,8
+F09,Graduate,CMPSC   596,SHERWOOD T P,A,6
+F09,Graduate,CMPSC   596,SINGH A K,A,6
+F09,Graduate,CMPSC   596,TURK M A,A,5
+F09,Graduate,CMPSC   596,ZHAO B Y,A,5
+F09,Undergraduate,CMPSCCS   2,CAPPELLO P R,P,10
+F09,Undergraduate,CMPSCCS 130A,KARAORMAN M,P,10
+F09,Undergraduate,CMPSCCS 130H,KOC C K,P,12

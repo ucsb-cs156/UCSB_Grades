@@ -1,0 +1,159 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,GEOG      3A,DEVRIES T J,A+,65
+F16,Undergraduate,GEOG      3A,DEVRIES T J,A,86
+F16,Undergraduate,GEOG      3A,DEVRIES T J,A-,27
+F16,Undergraduate,GEOG      3A,DEVRIES T J,B+,25
+F16,Undergraduate,GEOG      3A,DEVRIES T J,B,49
+F16,Undergraduate,GEOG      3A,DEVRIES T J,B-,14
+F16,Undergraduate,GEOG      3A,DEVRIES T J,C+,2
+F16,Undergraduate,GEOG      3A,DEVRIES T J,C,18
+F16,Undergraduate,GEOG      3A,DEVRIES T J,C-,5
+F16,Undergraduate,GEOG      3A,DEVRIES T J,D+,5
+F16,Undergraduate,GEOG      3A,DEVRIES T J,D,6
+F16,Undergraduate,GEOG      3A,DEVRIES T J,F,6
+F16,Undergraduate,GEOG      3B,GAMELIN B L,A,38
+F16,Undergraduate,GEOG      3B,GAMELIN B L,A-,37
+F16,Undergraduate,GEOG      3B,GAMELIN B L,B+,30
+F16,Undergraduate,GEOG      3B,GAMELIN B L,B,36
+F16,Undergraduate,GEOG      3B,GAMELIN B L,B-,32
+F16,Undergraduate,GEOG      3B,GAMELIN B L,C+,15
+F16,Undergraduate,GEOG      3B,GAMELIN B L,C,24
+F16,Undergraduate,GEOG      3B,GAMELIN B L,D+,2
+F16,Undergraduate,GEOG      3B,GAMELIN B L,D,3
+F16,Undergraduate,GEOG      3B,GAMELIN B L,D-,1
+F16,Undergraduate,GEOG      3B,GAMELIN B L,F,14
+F16,Undergraduate,GEOG      5,HARRIS S M,A+,4
+F16,Undergraduate,GEOG      5,HARRIS S M,A,14
+F16,Undergraduate,GEOG      5,HARRIS S M,A-,29
+F16,Undergraduate,GEOG      5,HARRIS S M,B+,35
+F16,Undergraduate,GEOG      5,HARRIS S M,B,54
+F16,Undergraduate,GEOG      5,HARRIS S M,B-,48
+F16,Undergraduate,GEOG      5,HARRIS S M,C+,28
+F16,Undergraduate,GEOG      5,HARRIS S M,C,22
+F16,Undergraduate,GEOG      5,HARRIS S M,C-,10
+F16,Undergraduate,GEOG      5,HARRIS S M,D+,12
+F16,Undergraduate,GEOG      5,HARRIS S M,D,8
+F16,Undergraduate,GEOG      5,HARRIS S M,D-,4
+F16,Undergraduate,GEOG      5,HARRIS S M,F,8
+F16,Undergraduate,GEOG    101,DEUTSCH K E,A+,5
+F16,Undergraduate,GEOG    101,DEUTSCH K E,A,6
+F16,Undergraduate,GEOG    101,DEUTSCH K E,A-,7
+F16,Undergraduate,GEOG    101,DEUTSCH K E,B+,7
+F16,Undergraduate,GEOG    101,DEUTSCH K E,B,7
+F16,Undergraduate,GEOG    101,DEUTSCH K E,C+,2
+F16,Undergraduate,GEOG    101,DEUTSCH K E,C,1
+F16,Undergraduate,GEOG    101,DEUTSCH K E,C-,1
+F16,Undergraduate,GEOG    101,DEUTSCH K E,F,1
+F16,Undergraduate,GEOG    104,WASHBURN L,A,9
+F16,Undergraduate,GEOG    104,WASHBURN L,A-,2
+F16,Undergraduate,GEOG    104,WASHBURN L,B+,7
+F16,Undergraduate,GEOG    104,WASHBURN L,B,22
+F16,Undergraduate,GEOG    104,WASHBURN L,B-,8
+F16,Undergraduate,GEOG    104,WASHBURN L,C+,6
+F16,Undergraduate,GEOG    104,WASHBURN L,C,5
+F16,Undergraduate,GEOG    104,WASHBURN L,C-,2
+F16,Undergraduate,GEOG    104,WASHBURN L,D,1
+F16,Undergraduate,GEOG    104,WASHBURN L,F,1
+F16,Undergraduate,GEOG    108,BAE C J,A+,2
+F16,Undergraduate,GEOG    108,BAE C J,A,5
+F16,Undergraduate,GEOG    108,BAE C J,A-,4
+F16,Undergraduate,GEOG    108,BAE C J,B+,6
+F16,Undergraduate,GEOG    108,BAE C J,B,9
+F16,Undergraduate,GEOG    108,BAE C J,B-,6
+F16,Undergraduate,GEOG    108,BAE C J,C+,4
+F16,Undergraduate,GEOG    108,BAE C J,C,1
+F16,Undergraduate,GEOG    108,BAE C J,D,1
+F16,Undergraduate,GEOG    108,BAE C J,D-,1
+F16,Undergraduate,GEOG    108,BAE C J,F,3
+F16,Undergraduate,GEOG    111A,GOULIAS K,A+,5
+F16,Undergraduate,GEOG    111A,GOULIAS K,A,10
+F16,Undergraduate,GEOG    111A,GOULIAS K,A-,4
+F16,Undergraduate,GEOG    111A,GOULIAS K,B,4
+F16,Undergraduate,GEOG    112,LOAICIGA H,A+,1
+F16,Undergraduate,GEOG    112,LOAICIGA H,A,1
+F16,Undergraduate,GEOG    112,LOAICIGA H,A-,2
+F16,Undergraduate,GEOG    112,LOAICIGA H,B+,3
+F16,Undergraduate,GEOG    112,LOAICIGA H,B,4
+F16,Undergraduate,GEOG    112,LOAICIGA H,B-,4
+F16,Undergraduate,GEOG    112,LOAICIGA H,C+,3
+F16,Undergraduate,GEOG    112,LOAICIGA H,C,2
+F16,Undergraduate,GEOG    112,LOAICIGA H,C-,2
+F16,Undergraduate,GEOG    112,LOAICIGA H,D,1
+F16,Undergraduate,GEOG    114A,CHADWICK O A,A+,3
+F16,Undergraduate,GEOG    114A,CHADWICK O A,A,7
+F16,Undergraduate,GEOG    114A,CHADWICK O A,A-,2
+F16,Undergraduate,GEOG    114A,CHADWICK O A,B+,2
+F16,Undergraduate,GEOG    114A,CHADWICK O A,B,8
+F16,Undergraduate,GEOG    114A,CHADWICK O A,B-,2
+F16,Undergraduate,GEOG    114A,CHADWICK O A,C-,1
+F16,Undergraduate,GEOG    114A,CHADWICK O A,D,1
+F16,Undergraduate,GEOG    114A,CHADWICK O A,F,1
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,A+,3
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,A,14
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,A-,11
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,B+,13
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,B,7
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,B-,9
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,C+,6
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,C,2
+F16,Undergraduate,GEOG    115A,MCFADDEN J P,D+,4
+F16,Undergraduate,GEOG    134,KING J Y,A,2
+F16,Undergraduate,GEOG    134,KING J Y,A-,4
+F16,Undergraduate,GEOG    134,KING J Y,B+,4
+F16,Undergraduate,GEOG    134,KING J Y,B,8
+F16,Undergraduate,GEOG    134,KING J Y,B-,1
+F16,Undergraduate,GEOG    134,KING J Y,C+,1
+F16,Undergraduate,GEOG    134,KING J Y,C,2
+F16,Undergraduate,GEOG    134,KING J Y,C-,1
+F16,Undergraduate,GEOG    134,KING J Y,D+,1
+F16,Undergraduate,GEOG    140,ROBERTS D A,A+,2
+F16,Undergraduate,GEOG    140,ROBERTS D A,A,5
+F16,Undergraduate,GEOG    140,ROBERTS D A,A-,2
+F16,Undergraduate,GEOG    140,ROBERTS D A,B+,3
+F16,Undergraduate,GEOG    140,ROBERTS D A,B,5
+F16,Undergraduate,GEOG    140,ROBERTS D A,C,3
+F16,Undergraduate,GEOG    140,ROBERTS D A,F,3
+F16,Undergraduate,GEOG    161,MEISTERLING K,A+,2
+F16,Undergraduate,GEOG    161,MEISTERLING K,A,4
+F16,Undergraduate,GEOG    161,MEISTERLING K,A-,3
+F16,Undergraduate,GEOG    161,MEISTERLING K,B,1
+F16,Undergraduate,GEOG    161,MEISTERLING K,C,1
+F16,Undergraduate,GEOG    172,MURRAY A,A+,1
+F16,Undergraduate,GEOG    172,MURRAY A,A,8
+F16,Undergraduate,GEOG    172,MURRAY A,A-,5
+F16,Undergraduate,GEOG    172,MURRAY A,B+,1
+F16,Undergraduate,GEOG    172,MURRAY A,B,5
+F16,Undergraduate,GEOG    172,MURRAY A,C+,5
+F16,Undergraduate,GEOG    172,MURRAY A,C,1
+F16,Undergraduate,GEOG    172,MURRAY A,C-,3
+F16,Undergraduate,GEOG    172,MURRAY A,F,1
+F16,Undergraduate,GEOG    176A,KUHN W,A,12
+F16,Undergraduate,GEOG    176A,KUHN W,A-,12
+F16,Undergraduate,GEOG    176A,KUHN W,B+,5
+F16,Undergraduate,GEOG    176A,KUHN W,B,6
+F16,Undergraduate,GEOG    176A,KUHN W,B-,6
+F16,Undergraduate,GEOG    176A,KUHN W,C+,8
+F16,Undergraduate,GEOG    176A,KUHN W,C,4
+F16,Undergraduate,GEOG    176A,KUHN W,C-,7
+F16,Undergraduate,GEOG    176A,KUHN W,D,1
+F16,Undergraduate,GEOG    176A,KUHN W,D-,2
+F16,Undergraduate,GEOG    176A,KUHN W,F,4
+F16,Graduate,GEOG    200A,DE CARVALHO L,S,14
+F16,Graduate,GEOG    201,CASSELS S L,S,46
+F16,Graduate,GEOG    210A,JONES C,A,11
+F16,Graduate,GEOG    288DC,LOPEZ-CARR D,A,6
+F16,Graduate,GEOG    500,KING J Y,S,10
+F16,Graduate,GEOG    596,CLARKE K,A,5
+F16,Graduate,GEOG    596,ROBERTS D A,A,6
+F16,Undergraduate,GEOG W   12,CLARKE K,A+,2
+F16,Undergraduate,GEOG W   12,CLARKE K,A,43
+F16,Undergraduate,GEOG W   12,CLARKE K,A-,18
+F16,Undergraduate,GEOG W   12,CLARKE K,B+,6
+F16,Undergraduate,GEOG W   12,CLARKE K,B,41
+F16,Undergraduate,GEOG W   12,CLARKE K,B-,2
+F16,Undergraduate,GEOG W   12,CLARKE K,C+,4
+F16,Undergraduate,GEOG W   12,CLARKE K,C,15
+F16,Undergraduate,GEOG W   12,CLARKE K,C-,2
+F16,Undergraduate,GEOG W   12,CLARKE K,D,6
+F16,Undergraduate,GEOG W   12,CLARKE K,D-,2
+F16,Undergraduate,GEOG W   12,CLARKE K,F,16

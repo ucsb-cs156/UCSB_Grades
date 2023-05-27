@@ -1,0 +1,179 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M20,Undergraduate,PSY       1,IHM E D,A+,21
+M20,Undergraduate,PSY       1,IHM E D,A,33
+M20,Undergraduate,PSY       1,IHM E D,A-,5
+M20,Undergraduate,PSY       1,IHM E D,B+,2
+M20,Undergraduate,PSY       1,IHM E D,B,9
+M20,Undergraduate,PSY       1,IHM E D,B-,2
+M20,Undergraduate,PSY       1,IHM E D,C+,1
+M20,Undergraduate,PSY       1,IHM E D,C,6
+M20,Undergraduate,PSY       1,IHM E D,C-,1
+M20,Undergraduate,PSY       1,IHM E D,D,1
+M20,Undergraduate,PSY       1,IHM E D,F,2
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,A+,5
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,A,44
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,A-,26
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,B+,22
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,B,28
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,B-,16
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,C+,7
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,C,11
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,C-,6
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,D+,1
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,D,1
+M20,Undergraduate,PSY      10A,MERMELSTEIN S,F,3
+M20,Undergraduate,PSY      10B,MUNASINGHE A,A,45
+M20,Undergraduate,PSY      10B,MUNASINGHE A,A-,4
+M20,Undergraduate,PSY      10B,MUNASINGHE A,B+,2
+M20,Undergraduate,PSY      10B,MUNASINGHE A,B,3
+M20,Undergraduate,PSY      10B,MUNASINGHE A,B-,2
+M20,Undergraduate,PSY      10B,MUNASINGHE A,F,6
+M20,Undergraduate,PSY      10B,STRELICH J H,A+,8
+M20,Undergraduate,PSY      10B,STRELICH J H,A,40
+M20,Undergraduate,PSY      10B,STRELICH J H,A-,9
+M20,Undergraduate,PSY      10B,STRELICH J H,B,26
+M20,Undergraduate,PSY      10B,STRELICH J H,C,3
+M20,Undergraduate,PSY      10B,STRELICH J H,D,1
+M20,Undergraduate,PSY      10B,STRELICH J H,F,6
+M20,Undergraduate,PSY     102,SALEM R M,A,20
+M20,Undergraduate,PSY     102,SALEM R M,A-,10
+M20,Undergraduate,PSY     102,SALEM R M,B+,9
+M20,Undergraduate,PSY     102,SALEM R M,B,6
+M20,Undergraduate,PSY     102,SALEM R M,B-,7
+M20,Undergraduate,PSY     102,SALEM R M,C+,2
+M20,Undergraduate,PSY     102,SALEM R M,C,1
+M20,Undergraduate,PSY     102,SALEM R M,C-,1
+M20,Undergraduate,PSY     102,SALEM R M,D,4
+M20,Undergraduate,PSY     102,SALEM R M,F,1
+M20,Undergraduate,PSY     102,SMALL P A,A+,3
+M20,Undergraduate,PSY     102,SMALL P A,A,37
+M20,Undergraduate,PSY     102,SMALL P A,A-,8
+M20,Undergraduate,PSY     102,SMALL P A,B+,7
+M20,Undergraduate,PSY     102,SMALL P A,B,3
+M20,Undergraduate,PSY     102,SMALL P A,B-,4
+M20,Undergraduate,PSY     102,SMALL P A,C+,5
+M20,Undergraduate,PSY     102,SMALL P A,C,2
+M20,Undergraduate,PSY     102,SMALL P A,D,1
+M20,Undergraduate,PSY     102,SMALL P A,F,1
+M20,Undergraduate,PSY     105,CARTER D B,A,53
+M20,Undergraduate,PSY     105,CARTER D B,A-,5
+M20,Undergraduate,PSY     105,CARTER D B,B+,7
+M20,Undergraduate,PSY     105,CARTER D B,B,3
+M20,Undergraduate,PSY     105,CARTER D B,B-,2
+M20,Undergraduate,PSY     105,CARTER D B,C+,1
+M20,Undergraduate,PSY     105,CARTER D B,C,2
+M20,Undergraduate,PSY     105,CARTER D B,F,1
+M20,Undergraduate,PSY     105,STRELICH J H,A+,9
+M20,Undergraduate,PSY     105,STRELICH J H,A,30
+M20,Undergraduate,PSY     105,STRELICH J H,A-,3
+M20,Undergraduate,PSY     105,STRELICH J H,B,16
+M20,Undergraduate,PSY     105,STRELICH J H,C,2
+M20,Undergraduate,PSY     105,STRELICH J H,F,1
+M20,Undergraduate,PSY     106,MAYS K C,A+,29
+M20,Undergraduate,PSY     106,MAYS K C,A,68
+M20,Undergraduate,PSY     106,MAYS K C,A-,23
+M20,Undergraduate,PSY     106,MAYS K C,B+,9
+M20,Undergraduate,PSY     106,MAYS K C,B,2
+M20,Undergraduate,PSY     106,MAYS K C,B-,8
+M20,Undergraduate,PSY     106,MAYS K C,C+,2
+M20,Undergraduate,PSY     106,MAYS K C,C,3
+M20,Undergraduate,PSY     106,MAYS K C,C-,1
+M20,Undergraduate,PSY     106,MAYS K C,D,2
+M20,Undergraduate,PSY     106,MAYS K C,F,2
+M20,Undergraduate,PSY     108,GROSS M E,A+,9
+M20,Undergraduate,PSY     108,GROSS M E,A,27
+M20,Undergraduate,PSY     108,GROSS M E,B+,11
+M20,Undergraduate,PSY     108,GROSS M E,B,17
+M20,Undergraduate,PSY     108,GROSS M E,C+,4
+M20,Undergraduate,PSY     108,GROSS M E,C,2
+M20,Undergraduate,PSY     108,GROSS M E,D+,2
+M20,Undergraduate,PSY     108,GROSS M E,D,1
+M20,Undergraduate,PSY     108,GROSS M E,F,2
+M20,Undergraduate,PSY     108,TAYLOR C M,A+,11
+M20,Undergraduate,PSY     108,TAYLOR C M,A,10
+M20,Undergraduate,PSY     108,TAYLOR C M,A-,8
+M20,Undergraduate,PSY     108,TAYLOR C M,B+,7
+M20,Undergraduate,PSY     108,TAYLOR C M,B,6
+M20,Undergraduate,PSY     108,TAYLOR C M,B-,1
+M20,Undergraduate,PSY     108,TAYLOR C M,C+,6
+M20,Undergraduate,PSY     108,TAYLOR C M,C,1
+M20,Undergraduate,PSY     108,TAYLOR C M,C-,1
+M20,Undergraduate,PSY     120L,WELLS A K,A+,1
+M20,Undergraduate,PSY     120L,WELLS A K,A,8
+M20,Undergraduate,PSY     120L,WELLS A K,A-,14
+M20,Undergraduate,PSY     120L,WELLS A K,B+,4
+M20,Undergraduate,PSY     120L,WELLS A K,B,4
+M20,Undergraduate,PSY     120L,WELLS A K,B-,1
+M20,Undergraduate,PSY     120L,WELLS A K,C+,1
+M20,Undergraduate,PSY     120L,WELLS A K,C,1
+M20,Undergraduate,PSY     123,IHM E D,A+,12
+M20,Undergraduate,PSY     123,IHM E D,A,15
+M20,Undergraduate,PSY     123,IHM E D,A-,3
+M20,Undergraduate,PSY     123,IHM E D,B+,1
+M20,Undergraduate,PSY     123,IHM E D,B,5
+M20,Undergraduate,PSY     123,IHM E D,B-,1
+M20,Undergraduate,PSY     123,IHM E D,C,4
+M20,Undergraduate,PSY     123,IHM E D,C-,1
+M20,Undergraduate,PSY     139,WU V,A,22
+M20,Undergraduate,PSY     139,WU V,A-,13
+M20,Undergraduate,PSY     139,WU V,B+,4
+M20,Undergraduate,PSY     139,WU V,B,2
+M20,Undergraduate,PSY     139,WU V,B-,1
+M20,Undergraduate,PSY     139,WU V,C,2
+M20,Undergraduate,PSY     142,ARAI S,A,14
+M20,Undergraduate,PSY     142,ARAI S,B,15
+M20,Undergraduate,PSY     142,ARAI S,C,7
+M20,Undergraduate,PSY     142,ARAI S,D,2
+M20,Undergraduate,PSY     142,ARAI S,F,1
+M20,Undergraduate,PSY     145,GERMAN T C M,A+,11
+M20,Undergraduate,PSY     145,GERMAN T C M,A,17
+M20,Undergraduate,PSY     145,GERMAN T C M,A-,3
+M20,Undergraduate,PSY     145,GERMAN T C M,B+,3
+M20,Undergraduate,PSY     145,GERMAN T C M,B,4
+M20,Undergraduate,PSY     145,GERMAN T C M,B-,2
+M20,Undergraduate,PSY     146,WALTER K V,A,51
+M20,Undergraduate,PSY     146,WALTER K V,A-,16
+M20,Undergraduate,PSY     146,WALTER K V,B+,3
+M20,Undergraduate,PSY     146,WALTER K V,B,1
+M20,Undergraduate,PSY     146,WALTER K V,B-,2
+M20,Undergraduate,PSY     146,WALTER K V,F,1
+M20,Undergraduate,PSY     149,WU D C,A+,35
+M20,Undergraduate,PSY     149,WU D C,A,21
+M20,Undergraduate,PSY     149,WU D C,A-,4
+M20,Undergraduate,PSY     149,WU D C,B+,3
+M20,Undergraduate,PSY     149,WU D C,B,3
+M20,Undergraduate,PSY     149,WU D C,C,2
+M20,Undergraduate,PSY     155,QUILLIEN T E,A+,3
+M20,Undergraduate,PSY     155,QUILLIEN T E,A,5
+M20,Undergraduate,PSY     155,QUILLIEN T E,A-,1
+M20,Undergraduate,PSY     155,QUILLIEN T E,B+,2
+M20,Undergraduate,PSY     155,QUILLIEN T E,B,3
+M20,Undergraduate,PSY     155,QUILLIEN T E,B-,2
+M20,Undergraduate,PSY     155,QUILLIEN T E,F,1
+M20,Undergraduate,PSY     159,MRAZEK A J,A,7
+M20,Undergraduate,PSY     159,MRAZEK A J,A-,11
+M20,Undergraduate,PSY     159,MRAZEK A J,B+,10
+M20,Undergraduate,PSY     159,MRAZEK A J,B,5
+M20,Undergraduate,PSY     159,MRAZEK A J,B-,3
+M20,Undergraduate,PSY     159,MRAZEK A J,C+,2
+M20,Undergraduate,PSY     159,MRAZEK A J,C,1
+M20,Undergraduate,PSY     159,MRAZEK M D,A,7
+M20,Undergraduate,PSY     159,MRAZEK M D,A-,11
+M20,Undergraduate,PSY     159,MRAZEK M D,B+,10
+M20,Undergraduate,PSY     159,MRAZEK M D,B,5
+M20,Undergraduate,PSY     159,MRAZEK M D,B-,3
+M20,Undergraduate,PSY     159,MRAZEK M D,C+,2
+M20,Undergraduate,PSY     159,MRAZEK M D,C,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,A+,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,A,3
+M20,Undergraduate,PSY     160SK,KLEIN S B,A-,4
+M20,Undergraduate,PSY     160SK,KLEIN S B,B+,2
+M20,Undergraduate,PSY     160SK,KLEIN S B,B,3
+M20,Undergraduate,PSY     160SK,KLEIN S B,B-,3
+M20,Undergraduate,PSY     160SK,KLEIN S B,C+,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,C,4
+M20,Undergraduate,PSY     160SK,KLEIN S B,C-,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,D,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,D-,1
+M20,Undergraduate,PSY     160SK,KLEIN S B,F,1
+M20,Undergraduate,PSY     199P,ECKSTEIN M P,P,6

@@ -1,0 +1,125 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W11,Graduate,CH E    210B,FREDRICKSON G,A+,1
+W11,Graduate,CH E    210B,FREDRICKSON G,A,4
+W11,Graduate,CH E    210B,FREDRICKSON G,A-,1
+W11,Graduate,CH E    210B,FREDRICKSON G,B+,2
+W11,Graduate,CH E    210B,FREDRICKSON G,B,1
+W11,Graduate,CH E    210B,FREDRICKSON G,B-,1
+W11,Graduate,CH E    596,FREDRICKSON G,S,5
+W11,Graduate,ECON    240B,FRECH H E,A+,6
+W11,Graduate,ECON    240B,FRECH H E,A,8
+W11,Graduate,ECON    240B,FRECH H E,A-,12
+W11,Graduate,ECON    240B,FRECH H E,B+,16
+W11,Graduate,ECON    240B,FRECH H E,B,4
+W11,Graduate,ECON    240B,FRECH H E,C,1
+W11,Graduate,ESM     264,FREW J E,A,10
+W11,Graduate,ESM     264,FREW J E,B,1
+W11,Graduate,ESM     401C,FREW J E,A,6
+W11,Undergraduate,FR        6,NESCI C,A+,3
+W11,Undergraduate,FR        6,NESCI C,A,6
+W11,Undergraduate,FR        6,NESCI C,A-,5
+W11,Undergraduate,FR        6,NESCI C,B+,2
+W11,Undergraduate,FR        6,NESCI C,B,1
+W11,Undergraduate,FR        6,NESCI C,D+,2
+W11,Undergraduate,FR        6,NESCI C,D,1
+W11,Undergraduate,FR       26,PRIETO E,A+,1
+W11,Undergraduate,FR       26,PRIETO E,A,5
+W11,Undergraduate,FR       26,PRIETO E,A-,4
+W11,Undergraduate,FR       26,PRIETO E,B+,3
+W11,Undergraduate,FR       26,PRIETO E,B,4
+W11,Undergraduate,FR       40X,JULLIEN D M,A,11
+W11,Undergraduate,FR       40X,JULLIEN D M,A-,2
+W11,Undergraduate,FR       40X,JULLIEN D M,B+,7
+W11,Undergraduate,FR       40X,JULLIEN D M,B,13
+W11,Undergraduate,FR       40X,JULLIEN D M,B-,2
+W11,Undergraduate,FR       40X,JULLIEN D M,C+,4
+W11,Undergraduate,FR       40X,JULLIEN D M,C,7
+W11,Undergraduate,FR       40X,JULLIEN D M,C-,2
+W11,Undergraduate,FR       40X,JULLIEN D M,D,3
+W11,Undergraduate,FR       40X,JULLIEN D M,F,2
+W11,Undergraduate,FR       40X,KOSIK K S,A,11
+W11,Undergraduate,FR       40X,KOSIK K S,A-,2
+W11,Undergraduate,FR       40X,KOSIK K S,B+,7
+W11,Undergraduate,FR       40X,KOSIK K S,B,13
+W11,Undergraduate,FR       40X,KOSIK K S,B-,2
+W11,Undergraduate,FR       40X,KOSIK K S,C+,4
+W11,Undergraduate,FR       40X,KOSIK K S,C,7
+W11,Undergraduate,FR       40X,KOSIK K S,C-,2
+W11,Undergraduate,FR       40X,KOSIK K S,D,3
+W11,Undergraduate,FR       40X,KOSIK K S,F,2
+W11,Undergraduate,FR       50BX,MAURSETH A B,A+,1
+W11,Undergraduate,FR       50BX,MAURSETH A B,A,13
+W11,Undergraduate,FR       50BX,MAURSETH A B,A-,39
+W11,Undergraduate,FR       50BX,MAURSETH A B,B+,40
+W11,Undergraduate,FR       50BX,MAURSETH A B,B,36
+W11,Undergraduate,FR       50BX,MAURSETH A B,B-,1
+W11,Undergraduate,FR       50BX,MAURSETH A B,C+,1
+W11,Undergraduate,FR       50BX,MAURSETH A B,D,2
+W11,Undergraduate,FR       50BX,MAURSETH A B,F,1
+W11,Undergraduate,FR      101B,MAURSETH A B,A+,1
+W11,Undergraduate,FR      101B,MAURSETH A B,A,2
+W11,Undergraduate,FR      101B,MAURSETH A B,A-,9
+W11,Undergraduate,FR      101B,MAURSETH A B,B+,8
+W11,Undergraduate,FR      101B,MAURSETH A B,B,4
+W11,Undergraduate,FR      101B,MAURSETH A B,F,1
+W11,Undergraduate,FR      101C,STURM E,A,4
+W11,Undergraduate,FR      101C,STURM E,A-,6
+W11,Undergraduate,FR      101C,STURM E,B+,3
+W11,Undergraduate,FR      101C,STURM E,B,1
+W11,Undergraduate,FR      101C,STURM E,B-,2
+W11,Undergraduate,FR      101C,STURM E,C+,2
+W11,Undergraduate,FR      101C,STURM E,C-,1
+W11,Undergraduate,FR      104C,SCHULTZ J M,A+,1
+W11,Undergraduate,FR      104C,SCHULTZ J M,A,6
+W11,Undergraduate,FR      104C,SCHULTZ J M,A-,2
+W11,Undergraduate,FR      104C,SCHULTZ J M,B+,4
+W11,Undergraduate,FR      104C,SCHULTZ J M,B,4
+W11,Undergraduate,FR      104C,SCHULTZ J M,B-,3
+W11,Undergraduate,FR      104C,SCHULTZ J M,C+,2
+W11,Undergraduate,FR      104C,SCHULTZ J M,C,3
+W11,Undergraduate,FR      104C,SCHULTZ J M,C-,2
+W11,Undergraduate,FR      104C,SCHULTZ J M,D+,1
+W11,Undergraduate,FR      104C,SCHULTZ J M,D-,1
+W11,Undergraduate,FR      151A,ENDERS J,A,3
+W11,Undergraduate,FR      151A,ENDERS J,A-,1
+W11,Undergraduate,FR      151A,ENDERS J,B+,1
+W11,Undergraduate,FR      151A,ENDERS J,B,2
+W11,Undergraduate,FR      151A,ENDERS J,B-,1
+W11,Undergraduate,FR      154A,SKENAZI E C,A,4
+W11,Undergraduate,FR      154A,SKENAZI E C,A-,3
+W11,Undergraduate,FR      154A,SKENAZI E C,B+,2
+W11,Undergraduate,FR      154A,SKENAZI E C,B,4
+W11,Undergraduate,FR      154A,SKENAZI E C,B-,1
+W11,Undergraduate,FR      154A,SKENAZI E C,C+,1
+W11,Undergraduate,FR      154A,SKENAZI E C,F,2
+W11,Undergraduate,FR      154G,PRIETO E,A+,2
+W11,Undergraduate,FR      154G,PRIETO E,A,18
+W11,Undergraduate,FR      154G,PRIETO E,A-,17
+W11,Undergraduate,FR      154G,PRIETO E,B+,20
+W11,Undergraduate,FR      154G,PRIETO E,B,19
+W11,Undergraduate,FR      154G,PRIETO E,B-,11
+W11,Undergraduate,FR      154G,PRIETO E,C+,7
+W11,Undergraduate,FR      154G,PRIETO E,C,4
+W11,Undergraduate,FR      154G,PRIETO E,C-,1
+W11,Undergraduate,FR      154G,PRIETO E,F,1
+W11,Graduate,FR      500,SCHULTZ J M,S,6
+W11,Undergraduate,LING      4,FRODESEN J M,P,14
+W11,Undergraduate,LING    139,FRODESEN J M,A+,2
+W11,Undergraduate,LING    139,FRODESEN J M,A,7
+W11,Undergraduate,LING    139,FRODESEN J M,A-,6
+W11,Undergraduate,LING    139,FRODESEN J M,B+,2
+W11,Undergraduate,LING    139,FRODESEN J M,B,3
+W11,Undergraduate,LING    139,FRODESEN J M,B-,1
+W11,Undergraduate,PSY       1,FRIDLUND A J,A+,1
+W11,Undergraduate,PSY       1,FRIDLUND A J,A,113
+W11,Undergraduate,PSY       1,FRIDLUND A J,A-,12
+W11,Undergraduate,PSY       1,FRIDLUND A J,B+,26
+W11,Undergraduate,PSY       1,FRIDLUND A J,B,291
+W11,Undergraduate,PSY       1,FRIDLUND A J,B-,18
+W11,Undergraduate,PSY       1,FRIDLUND A J,C+,17
+W11,Undergraduate,PSY       1,FRIDLUND A J,C,153
+W11,Undergraduate,PSY       1,FRIDLUND A J,C-,15
+W11,Undergraduate,PSY       1,FRIDLUND A J,D+,7
+W11,Undergraduate,PSY       1,FRIDLUND A J,D,48
+W11,Undergraduate,PSY       1,FRIDLUND A J,D-,3
+W11,Undergraduate,PSY       1,FRIDLUND A J,F,25

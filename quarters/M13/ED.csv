@@ -1,0 +1,108 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M13,Undergraduate,ED      103,GRIGSBY T A,A,18
+M13,Undergraduate,ED      103,HARVEY V A,A,35
+M13,Undergraduate,ED      109M,HAMMONDS M,P,71
+M13,Undergraduate,ED      111,BRAVO M,A+,1
+M13,Undergraduate,ED      111,BRAVO M,A,5
+M13,Undergraduate,ED      111,BRAVO M,A-,2
+M13,Undergraduate,ED      111,BRAVO M,B+,1
+M13,Undergraduate,ED      111,BRAVO M,B,6
+M13,Undergraduate,ED      111,BRAVO M,B-,2
+M13,Undergraduate,ED      111,BRAVO M,C,1
+M13,Undergraduate,ED      111,BRAVO M,D,2
+M13,Undergraduate,ED      111,PIENG P,A+,2
+M13,Undergraduate,ED      111,PIENG P,A,8
+M13,Undergraduate,ED      111,PIENG P,A-,1
+M13,Undergraduate,ED      111,PIENG P,B,2
+M13,Undergraduate,ED      111,PIENG P,B-,2
+M13,Undergraduate,ED      111,PIENG P,C+,4
+M13,Undergraduate,ED      111,PIENG P,C,2
+M13,Undergraduate,ED      111,PIENG P,D,1
+M13,Undergraduate,ED      111,ROMO L F,A+,2
+M13,Undergraduate,ED      111,ROMO L F,A,10
+M13,Undergraduate,ED      111,ROMO L F,A-,1
+M13,Undergraduate,ED      111,ROMO L F,B+,2
+M13,Undergraduate,ED      111,ROMO L F,B,4
+M13,Undergraduate,ED      111,ROMO L F,C+,4
+M13,Undergraduate,ED      111,ROMO L F,C,1
+M13,Undergraduate,ED      111,ROMO L F,D,1
+M13,Undergraduate,ED      117M,CHOI J Y,P,48
+M13,Undergraduate,ED      123,KIM A Y,A+,1
+M13,Undergraduate,ED      123,KIM A Y,A,10
+M13,Undergraduate,ED      123,KIM A Y,A-,3
+M13,Undergraduate,ED      123,KIM A Y,B+,1
+M13,Undergraduate,ED      123,KIM A Y,B,3
+M13,Undergraduate,ED      123,KIM A Y,B-,1
+M13,Undergraduate,ED      123,KIM A Y,C-,1
+M13,Undergraduate,ED      123,SANDOVAL N I,A+,1
+M13,Undergraduate,ED      123,SANDOVAL N I,A,38
+M13,Undergraduate,ED      123,SANDOVAL N I,A-,4
+M13,Undergraduate,ED      123,SANDOVAL N I,B+,2
+M13,Undergraduate,ED      123,SANDOVAL N I,D-,1
+M13,Undergraduate,ED      125,BAULER C V,A,20
+M13,Undergraduate,ED      125,KUNTZMAN J D,A,8
+M13,Undergraduate,ED      125,KUNTZMAN J D,A-,2
+M13,Undergraduate,ED      125,KUNTZMAN J D,B+,2
+M13,Undergraduate,ED      125,KUNTZMAN J D,B,2
+M13,Undergraduate,ED      125,KUNTZMAN J D,B-,3
+M13,Undergraduate,ED      125,KUNTZMAN J D,C+,1
+M13,Undergraduate,ED      125,KUNTZMAN J D,C,1
+M13,Undergraduate,ED      125,RALEY J D,A,20
+M13,Undergraduate,ED      173,LUBACH D W,A+,1
+M13,Undergraduate,ED      173,LUBACH D W,A,17
+M13,Undergraduate,ED      173,LUBACH D W,A-,11
+M13,Undergraduate,ED      173,LUBACH D W,B+,4
+M13,Undergraduate,ED      173,LUBACH D W,B,1
+M13,Undergraduate,ED      173,LUBACH D W,C,1
+M13,Undergraduate,ED      199RA,ROMO L F,A,8
+M13,Graduate,ED      228A,HOLDREN N R,A+,2
+M13,Graduate,ED      228A,HOLDREN N R,A,4
+M13,Graduate,ED      228A,HOLDREN N R,A-,2
+M13,Graduate,ED      228A,HOLDREN N R,B,1
+M13,Graduate,ED      228B,FEDDERS A,A,9
+M13,Graduate,ED      261,GRIGSBY T A,A,19
+M13,Graduate,ED      261,HOLDREN N R,A,19
+M13,Graduate,ED      261,MULLIN C D,A,21
+M13,Graduate,ED      261,O'BRIEN S M,A,21
+M13,Graduate,ED      263,MORAN A S,A,27
+M13,Graduate,ED      263,SIMON K,A,20
+M13,Graduate,ED      264,OXELSON E M,A,16
+M13,Graduate,ED      264,WALKER V L,A,14
+M13,Graduate,ED      265D,BAZERMAN C,A,10
+M13,Graduate,ED      265D,BIANCHINI J A,A,7
+M13,Graduate,ED      265D,JOHNSON S K,A,9
+M13,Graduate,ED      265D,LUNSFORD K J,A,9
+M13,Graduate,ED      265D,OGRAIN C M,A,6
+M13,Graduate,ED      265D,OXELSON E M,A,8
+M13,Graduate,ED      265D,RALEY J D,A,14
+M13,Graduate,ED      265D,SCALZO J N,A,11
+M13,Graduate,ED      265D,SLOAN T F,A,5
+M13,Graduate,ED      268,HARVEY V A,A,19
+M13,Graduate,ED      268,OXELSON E M,A,19
+M13,Graduate,ED      268,RALEY J D,A,18
+M13,Graduate,ED      268,SCALZO J N,A,15
+M13,Graduate,ED      291,WANG M,A,8
+M13,Graduate,ED      291,WANG M,A-,2
+M13,Graduate,ED      318,BAULER C V,A,20
+M13,Graduate,ED      318,SCALZO J N,A,17
+M13,Graduate,ED      319,BAULER C V,A,20
+M13,Graduate,ED      319,SCALZO J N,A,21
+M13,Graduate,ED      326,ELLIS D,S,30
+M13,Graduate,ED      327,GRANGER M,S,41
+M13,Graduate,ED      330,DEWAR T J,S,71
+M13,Graduate,ED      340,SLOAN T F,S,30
+M13,Graduate,ED      370,CARLYLE A M,S,8
+M13,Graduate,ED      370,ELLIS D,S,8
+M13,Graduate,ED      370,NAIMAN D G,S,7
+M13,Graduate,ED      370,OXELSON E M,S,7
+M13,Graduate,ED   E  341,DEWAR T J,S,11
+M13,Graduate,ED   E  371,DEWAR T J,S,11
+M13,Graduate,ED   M  321M,SCHNEIDER C,S,10
+M13,Graduate,ED   M  341,SLOAN T F,S,10
+M13,Graduate,ED   M  371,ROSS E G,S,10
+M13,Graduate,ED   S  321M,JOHNSON S K,S,10
+M13,Graduate,ED   S  341,SLOAN T F,S,10
+M13,Graduate,ED   S  371,LUBCHENCO P J,S,10
+M13,Graduate,ED   WL 321M,BAULER C V,S,6
+M13,Graduate,ED   WL 341,SLOAN T F,S,6
+M13,Graduate,ED   WL 371,BAULER C V,S,6

@@ -1,0 +1,101 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F12,Undergraduate,BL ST     1,BANKS I,A,1
+F12,Undergraduate,BL ST     1,BANKS I,B+,1
+F12,Undergraduate,BL ST     1,BANKS I,B,5
+F12,Undergraduate,BL ST     1,BANKS I,B-,1
+F12,Undergraduate,BL ST     1,BANKS I,C+,3
+F12,Undergraduate,BL ST     1,BANKS I,C,13
+F12,Undergraduate,BL ST     1,BANKS I,C-,2
+F12,Undergraduate,BL ST     1,BANKS I,D+,1
+F12,Undergraduate,BL ST     1,BANKS I,D,11
+F12,Undergraduate,BL ST     1,BANKS I,F,45
+F12,Undergraduate,BL ST     4,JOHNSON G T,A,17
+F12,Undergraduate,BL ST     4,JOHNSON G T,A-,27
+F12,Undergraduate,BL ST     4,JOHNSON G T,B+,21
+F12,Undergraduate,BL ST     4,JOHNSON G T,B,22
+F12,Undergraduate,BL ST     4,JOHNSON G T,B-,11
+F12,Undergraduate,BL ST     4,JOHNSON G T,C+,2
+F12,Undergraduate,BL ST     4,JOHNSON G T,C,1
+F12,Undergraduate,BL ST     4,JOHNSON G T,C-,3
+F12,Undergraduate,BL ST     4,JOHNSON G T,D-,1
+F12,Undergraduate,BL ST     4,JOHNSON G T,F,1
+F12,Undergraduate,BL ST    38B,BATISTE S L,A,4
+F12,Undergraduate,BL ST    38B,BATISTE S L,A-,12
+F12,Undergraduate,BL ST    38B,BATISTE S L,B+,6
+F12,Undergraduate,BL ST    38B,BATISTE S L,B,14
+F12,Undergraduate,BL ST    38B,BATISTE S L,B-,9
+F12,Undergraduate,BL ST    38B,BATISTE S L,C+,4
+F12,Undergraduate,BL ST    38B,BATISTE S L,C,13
+F12,Undergraduate,BL ST    38B,BATISTE S L,C-,2
+F12,Undergraduate,BL ST    38B,BATISTE S L,D+,4
+F12,Undergraduate,BL ST    38B,BATISTE S L,D,3
+F12,Undergraduate,BL ST    38B,BATISTE S L,D-,2
+F12,Undergraduate,BL ST    38B,BATISTE S L,F,9
+F12,Undergraduate,BL ST   102,MADISON O F,A-,7
+F12,Undergraduate,BL ST   102,MADISON O F,B+,8
+F12,Undergraduate,BL ST   102,MADISON O F,B,5
+F12,Undergraduate,BL ST   102,MADISON O F,B-,4
+F12,Undergraduate,BL ST   102,MADISON O F,C+,5
+F12,Undergraduate,BL ST   102,MADISON O F,C,1
+F12,Undergraduate,BL ST   102,MADISON O F,F,5
+F12,Undergraduate,BL ST   106,BANKS I,A,2
+F12,Undergraduate,BL ST   106,BANKS I,A-,1
+F12,Undergraduate,BL ST   106,BANKS I,B+,1
+F12,Undergraduate,BL ST   106,BANKS I,B,6
+F12,Undergraduate,BL ST   106,BANKS I,B-,2
+F12,Undergraduate,BL ST   106,BANKS I,C+,2
+F12,Undergraduate,BL ST   106,BANKS I,C,3
+F12,Undergraduate,BL ST   106,BANKS I,C-,1
+F12,Undergraduate,BL ST   106,BANKS I,D+,2
+F12,Undergraduate,BL ST   106,BANKS I,D,2
+F12,Undergraduate,BL ST   106,BANKS I,F,3
+F12,Undergraduate,BL ST   108,MADISON O F,A-,8
+F12,Undergraduate,BL ST   108,MADISON O F,B+,17
+F12,Undergraduate,BL ST   108,MADISON O F,B,22
+F12,Undergraduate,BL ST   108,MADISON O F,B-,7
+F12,Undergraduate,BL ST   108,MADISON O F,C,5
+F12,Undergraduate,BL ST   108,MADISON O F,F,3
+F12,Undergraduate,BL ST   124,LIPSITZ G R,A+,20
+F12,Undergraduate,BL ST   124,LIPSITZ G R,A,19
+F12,Undergraduate,BL ST   124,LIPSITZ G R,A-,1
+F12,Undergraduate,BL ST   124,LIPSITZ G R,B+,1
+F12,Undergraduate,BL ST   124,LIPSITZ G R,B,11
+F12,Undergraduate,BL ST   124,LIPSITZ G R,C,3
+F12,Undergraduate,BL ST   126,AKUDINOBI J,A,22
+F12,Undergraduate,BL ST   126,AKUDINOBI J,A-,9
+F12,Undergraduate,BL ST   126,AKUDINOBI J,B+,15
+F12,Undergraduate,BL ST   126,AKUDINOBI J,B,6
+F12,Undergraduate,BL ST   126,AKUDINOBI J,B-,1
+F12,Undergraduate,BL ST   126,AKUDINOBI J,C+,1
+F12,Undergraduate,BL ST   127,DURAN J M,A,8
+F12,Undergraduate,BL ST   127,DURAN J M,A-,10
+F12,Undergraduate,BL ST   127,DURAN J M,B+,11
+F12,Undergraduate,BL ST   127,DURAN J M,B,9
+F12,Undergraduate,BL ST   127,DURAN J M,B-,6
+F12,Undergraduate,BL ST   127,DURAN J M,C+,3
+F12,Undergraduate,BL ST   127,DURAN J M,F,2
+F12,Undergraduate,BL ST   153,STEWART E L,A+,65
+F12,Undergraduate,BL ST   153,STEWART E L,A,22
+F12,Undergraduate,BL ST   153,STEWART E L,A-,28
+F12,Undergraduate,BL ST   153,STEWART E L,B+,11
+F12,Undergraduate,BL ST   153,STEWART E L,B,7
+F12,Undergraduate,BL ST   153,STEWART E L,B-,4
+F12,Undergraduate,BL ST   153,STEWART E L,C+,2
+F12,Undergraduate,BL ST   153,STEWART E L,C,2
+F12,Undergraduate,BL ST   153,STEWART E L,F,2
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,A,9
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,A-,4
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,B,2
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,C+,4
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,C,1
+F12,Undergraduate,BL ST   169BR,JOHNSON G T,C-,1
+F12,Undergraduate,BL ST   175,AKUDINOBI J,A+,3
+F12,Undergraduate,BL ST   175,AKUDINOBI J,A,1
+F12,Undergraduate,BL ST   175,AKUDINOBI J,A-,2
+F12,Undergraduate,BL ST   175,AKUDINOBI J,B+,10
+F12,Undergraduate,BL ST   175,AKUDINOBI J,B,2
+F12,Undergraduate,BL ST   193GG,STEWART E L,A,11
+F12,Undergraduate,BL ST   193GG,STEWART E L,A-,5
+F12,Undergraduate,BL ST   193GG,STEWART E L,B+,2
+F12,Undergraduate,BL ST   193GG,STEWART E L,B,1
+F12,Undergraduate,BL ST   193GG,STEWART E L,C+,1

@@ -1,0 +1,248 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,C LIT   119,FRADENBURG L,A,1
+W16,Undergraduate,C LIT   119,FRADENBURG L,A-,17
+W16,Undergraduate,C LIT   119,FRADENBURG L,B+,12
+W16,Undergraduate,C LIT   119,FRADENBURG L,B,8
+W16,Undergraduate,C LIT   119,FRADENBURG L,B-,8
+W16,Undergraduate,C LIT   119,FRADENBURG L,C+,1
+W16,Undergraduate,C LIT   119,FRADENBURG L,C,3
+W16,Undergraduate,C LIT   119,FRADENBURG L,F,2
+W16,Graduate,CH E    210B,FREDRICKSON G,A+,3
+W16,Graduate,CH E    210B,FREDRICKSON G,A,9
+W16,Graduate,CH E    210B,FREDRICKSON G,B+,5
+W16,Graduate,CH E    210B,FREDRICKSON G,B,1
+W16,Graduate,CH E    291,FREDRICKSON G,S,5
+W16,Undergraduate,ECON    117A,FRECH H E,A+,2
+W16,Undergraduate,ECON    117A,FRECH H E,A,6
+W16,Undergraduate,ECON    117A,FRECH H E,A-,6
+W16,Undergraduate,ECON    117A,FRECH H E,B+,5
+W16,Undergraduate,ECON    117A,FRECH H E,B,4
+W16,Undergraduate,ECON    117A,FRECH H E,B-,4
+W16,Undergraduate,ECON    117A,FRECH H E,C,1
+W16,Undergraduate,ENGL    170BL,FRADENBURG L,A+,1
+W16,Undergraduate,ENGL    170BL,FRADENBURG L,A-,15
+W16,Undergraduate,ENGL    170BL,FRADENBURG L,B+,12
+W16,Undergraduate,ENGL    170BL,FRADENBURG L,B,3
+W16,Undergraduate,ENGL    170BL,FRADENBURG L,B-,3
+W16,Undergraduate,FR        1,LABATUT M A,A+,3
+W16,Undergraduate,FR        1,LABATUT M A,A,5
+W16,Undergraduate,FR        1,LABATUT M A,A-,5
+W16,Undergraduate,FR        1,LABATUT M A,B+,2
+W16,Undergraduate,FR        1,LABATUT M A,B,1
+W16,Undergraduate,FR        1,LABATUT M A,F,4
+W16,Undergraduate,FR        1,ROBERTS S C,A+,2
+W16,Undergraduate,FR        1,ROBERTS S C,A,12
+W16,Undergraduate,FR        1,ROBERTS S C,A-,4
+W16,Undergraduate,FR        1,ROBERTS S C,B+,1
+W16,Undergraduate,FR        1,ROBERTS S C,B,1
+W16,Undergraduate,FR        1,ROBERTS S C,B-,1
+W16,Undergraduate,FR        1,ROBERTS S C,C+,2
+W16,Undergraduate,FR        1,TUDISCO J J,A+,2
+W16,Undergraduate,FR        1,TUDISCO J J,A,14
+W16,Undergraduate,FR        1,TUDISCO J J,A-,1
+W16,Undergraduate,FR        1,TUDISCO J J,B+,3
+W16,Undergraduate,FR        1,TUDISCO J J,B,1
+W16,Undergraduate,FR        1,TUDISCO J J,B-,2
+W16,Undergraduate,FR        1,TUDISCO J J,C+,1
+W16,Undergraduate,FR        2,KAUTT M K,A+,2
+W16,Undergraduate,FR        2,KAUTT M K,A,5
+W16,Undergraduate,FR        2,KAUTT M K,A-,12
+W16,Undergraduate,FR        2,KAUTT M K,B+,4
+W16,Undergraduate,FR        2,KAUTT M K,B,8
+W16,Undergraduate,FR        2,KAUTT M K,B-,6
+W16,Undergraduate,FR        2,KAUTT M K,C+,4
+W16,Undergraduate,FR        2,KAUTT M K,F,2
+W16,Undergraduate,FR        2,SCHULTZ J M,A+,1
+W16,Undergraduate,FR        2,SCHULTZ J M,A,10
+W16,Undergraduate,FR        2,SCHULTZ J M,A-,4
+W16,Undergraduate,FR        2,SCHULTZ J M,B+,11
+W16,Undergraduate,FR        2,SCHULTZ J M,B,12
+W16,Undergraduate,FR        2,SCHULTZ J M,C+,2
+W16,Undergraduate,FR        2,SCHULTZ J M,C,1
+W16,Undergraduate,FR        2,SCHULTZ J M,C-,1
+W16,Undergraduate,FR        2,SCHULTZ J M,F,1
+W16,Undergraduate,FR        2,TUDISCO J J,A+,2
+W16,Undergraduate,FR        2,TUDISCO J J,A,6
+W16,Undergraduate,FR        2,TUDISCO J J,A-,7
+W16,Undergraduate,FR        2,TUDISCO J J,B+,2
+W16,Undergraduate,FR        2,TUDISCO J J,B,4
+W16,Undergraduate,FR        2,TUDISCO J J,B-,1
+W16,Undergraduate,FR        2,TUDISCO J J,F,1
+W16,Undergraduate,FR        3,LABATUT M A,A+,1
+W16,Undergraduate,FR        3,LABATUT M A,A,1
+W16,Undergraduate,FR        3,LABATUT M A,A-,10
+W16,Undergraduate,FR        3,LABATUT M A,B+,6
+W16,Undergraduate,FR        3,LABATUT M A,B,4
+W16,Undergraduate,FR        3,LABATUT M A,B-,2
+W16,Undergraduate,FR        3,LABATUT M A,C,3
+W16,Undergraduate,FR        3,LABATUT M A,C-,1
+W16,Undergraduate,FR        3,LABATUT M A,F,1
+W16,Undergraduate,FR        4,SCHULTZ J M,A+,1
+W16,Undergraduate,FR        4,SCHULTZ J M,A,9
+W16,Undergraduate,FR        4,SCHULTZ J M,B+,4
+W16,Undergraduate,FR        4,SCHULTZ J M,B,3
+W16,Undergraduate,FR        4,SCHULTZ J M,B-,1
+W16,Undergraduate,FR        4,SCHULTZ J M,C+,1
+W16,Undergraduate,FR        4,SCHULTZ J M,D,1
+W16,Undergraduate,FR        4,SCHULTZ J M,F,2
+W16,Undergraduate,FR        5,SCHULTZ J M,A+,1
+W16,Undergraduate,FR        5,SCHULTZ J M,A,11
+W16,Undergraduate,FR        5,SCHULTZ J M,A-,10
+W16,Undergraduate,FR        5,SCHULTZ J M,B+,7
+W16,Undergraduate,FR        5,SCHULTZ J M,B,6
+W16,Undergraduate,FR        5,SCHULTZ J M,B-,8
+W16,Undergraduate,FR        5,SCHULTZ J M,C+,3
+W16,Undergraduate,FR        5,SCHULTZ J M,C,5
+W16,Undergraduate,FR        5,SCHULTZ J M,C-,1
+W16,Undergraduate,FR        6,LABATUT M A,A,3
+W16,Undergraduate,FR        6,LABATUT M A,A-,7
+W16,Undergraduate,FR        6,LABATUT M A,B+,1
+W16,Undergraduate,FR        6,LABATUT M A,B,2
+W16,Undergraduate,FR        6,LABATUT M A,B-,1
+W16,Undergraduate,FR        6,LABATUT M A,C+,2
+W16,Undergraduate,FR       11A,MAILLARD M F,A+,6
+W16,Undergraduate,FR       11A,MAILLARD M F,A,9
+W16,Undergraduate,FR       26,ROBERTS S C,A,4
+W16,Undergraduate,FR       26,ROBERTS S C,A-,1
+W16,Undergraduate,FR       26,ROBERTS S C,B+,3
+W16,Undergraduate,FR       26,ROBERTS S C,B-,2
+W16,Undergraduate,FR       26,ROBERTS S C,C+,2
+W16,Undergraduate,FR       40X,JULLIEN D M,A+,2
+W16,Undergraduate,FR       40X,JULLIEN D M,A,3
+W16,Undergraduate,FR       40X,JULLIEN D M,A-,15
+W16,Undergraduate,FR       40X,JULLIEN D M,B+,8
+W16,Undergraduate,FR       40X,JULLIEN D M,B,4
+W16,Undergraduate,FR       40X,JULLIEN D M,B-,5
+W16,Undergraduate,FR       40X,JULLIEN D M,C+,3
+W16,Undergraduate,FR       40X,JULLIEN D M,C,10
+W16,Undergraduate,FR       40X,JULLIEN D M,F,1
+W16,Undergraduate,FR      101C,MALEUVRE D,A+,3
+W16,Undergraduate,FR      101C,MALEUVRE D,A,6
+W16,Undergraduate,FR      101C,MALEUVRE D,A-,3
+W16,Undergraduate,FR      101C,MALEUVRE D,B+,4
+W16,Undergraduate,FR      101C,MALEUVRE D,B,5
+W16,Undergraduate,FR      101C,MALEUVRE D,B-,1
+W16,Undergraduate,FR      101C,MALEUVRE D,F,1
+W16,Undergraduate,FR      104B,LARUE R J,A,1
+W16,Undergraduate,FR      104B,LARUE R J,A-,3
+W16,Undergraduate,FR      104B,LARUE R J,B+,2
+W16,Undergraduate,FR      104B,LARUE R J,B,1
+W16,Undergraduate,FR      104B,LARUE R J,B-,3
+W16,Undergraduate,FR      104B,LARUE R J,C+,1
+W16,Undergraduate,FR      104B,LARUE R J,C,1
+W16,Undergraduate,FR      104B,LARUE R J,F,1
+W16,Undergraduate,FR      104E,MAILLARD M F,A,15
+W16,Undergraduate,FR      104E,MAILLARD M F,A-,2
+W16,Undergraduate,FR      104E,MAILLARD M F,B+,2
+W16,Undergraduate,FR      147B,ENDERS J,A,2
+W16,Undergraduate,FR      147B,ENDERS J,A-,1
+W16,Undergraduate,FR      147B,ENDERS J,B+,4
+W16,Undergraduate,FR      147B,ENDERS J,B,3
+W16,Undergraduate,FR      147B,ENDERS J,B-,1
+W16,Undergraduate,FR      147B,ENDERS J,C+,2
+W16,Undergraduate,LING    139,FRODESEN J M,A+,5
+W16,Undergraduate,LING    139,FRODESEN J M,A,9
+W16,Undergraduate,LING    139,FRODESEN J M,A-,5
+W16,Undergraduate,LING    139,FRODESEN J M,B+,4
+W16,Undergraduate,LING    139,FRODESEN J M,B,3
+W16,Undergraduate,PHYS      3,FREUND E G,A+,3
+W16,Undergraduate,PHYS      3,FREUND E G,A,15
+W16,Undergraduate,PHYS      3,FREUND E G,A-,14
+W16,Undergraduate,PHYS      3,FREUND E G,B+,17
+W16,Undergraduate,PHYS      3,FREUND E G,B,24
+W16,Undergraduate,PHYS      3,FREUND E G,B-,17
+W16,Undergraduate,PHYS      3,FREUND E G,C+,14
+W16,Undergraduate,PHYS      3,FREUND E G,C,13
+W16,Undergraduate,PHYS      3,FREUND E G,C-,5
+W16,Undergraduate,PHYS      3,FREUND E G,D+,3
+W16,Undergraduate,PHYS      3,FREUND E G,D,3
+W16,Undergraduate,PHYS      3L,FREUND E G,A+,10
+W16,Undergraduate,PHYS      3L,FREUND E G,A,22
+W16,Undergraduate,PHYS      3L,FREUND E G,A-,20
+W16,Undergraduate,PHYS      3L,FREUND E G,B+,20
+W16,Undergraduate,PHYS      3L,FREUND E G,B,16
+W16,Undergraduate,PHYS      3L,FREUND E G,B-,4
+W16,Undergraduate,PHYS      3L,FREUND E G,F,1
+W16,Undergraduate,PHYS      6A,FREUND E G,A+,5
+W16,Undergraduate,PHYS      6A,FREUND E G,A,57
+W16,Undergraduate,PHYS      6A,FREUND E G,A-,40
+W16,Undergraduate,PHYS      6A,FREUND E G,B+,43
+W16,Undergraduate,PHYS      6A,FREUND E G,B,35
+W16,Undergraduate,PHYS      6A,FREUND E G,B-,32
+W16,Undergraduate,PHYS      6A,FREUND E G,C+,30
+W16,Undergraduate,PHYS      6A,FREUND E G,C,22
+W16,Undergraduate,PHYS      6A,FREUND E G,C-,13
+W16,Undergraduate,PHYS      6A,FREUND E G,D+,3
+W16,Undergraduate,PHYS      6A,FREUND E G,D,4
+W16,Undergraduate,PHYS      6A,FREUND E G,D-,2
+W16,Undergraduate,PHYS      6A,FREUND E G,F,6
+W16,Undergraduate,PHYS      6AL,FREUND E G,A+,53
+W16,Undergraduate,PHYS      6AL,FREUND E G,A,135
+W16,Undergraduate,PHYS      6AL,FREUND E G,A-,78
+W16,Undergraduate,PHYS      6AL,FREUND E G,B+,64
+W16,Undergraduate,PHYS      6AL,FREUND E G,B,96
+W16,Undergraduate,PHYS      6AL,FREUND E G,B-,52
+W16,Undergraduate,PHYS      6AL,FREUND E G,F,5
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,A+,1
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,A,18
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,A-,17
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,B+,40
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,B,70
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,B-,68
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,C+,49
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,C,54
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,C-,45
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,D+,20
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,D,14
+W16,Undergraduate,PHYS      6B,FREEDMAN R A,F,23
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,A+,37
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,A,114
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,A-,113
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,B+,67
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,B,49
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,B-,29
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,C+,2
+W16,Undergraduate,PHYS      6BL,FREEDMAN R A,C,1
+W16,Undergraduate,POL S   106EA,FREEMAN L A,A,6
+W16,Undergraduate,POL S   106EA,FREEMAN L A,A-,17
+W16,Undergraduate,POL S   106EA,FREEMAN L A,B+,24
+W16,Undergraduate,POL S   106EA,FREEMAN L A,B,11
+W16,Undergraduate,POL S   106EA,FREEMAN L A,B-,2
+W16,Undergraduate,POL S   171,FREEMAN L A,A+,1
+W16,Undergraduate,POL S   171,FREEMAN L A,A,8
+W16,Undergraduate,POL S   171,FREEMAN L A,A-,22
+W16,Undergraduate,POL S   171,FREEMAN L A,B+,22
+W16,Undergraduate,POL S   171,FREEMAN L A,B,9
+W16,Undergraduate,POL S   171,FREEMAN L A,B-,5
+W16,Undergraduate,POL S   171,FREEMAN L A,C+,2
+W16,Undergraduate,POL S   171,FREEMAN L A,C,1
+W16,Undergraduate,POL S   171,FREEMAN L A,C-,1
+W16,Undergraduate,POL S   171,FREEMAN L A,F,1
+W16,Undergraduate,PSY       1,FRIDLUND A J,A+,1
+W16,Undergraduate,PSY       1,FRIDLUND A J,A,68
+W16,Undergraduate,PSY       1,FRIDLUND A J,A-,13
+W16,Undergraduate,PSY       1,FRIDLUND A J,B+,17
+W16,Undergraduate,PSY       1,FRIDLUND A J,B,240
+W16,Undergraduate,PSY       1,FRIDLUND A J,B-,21
+W16,Undergraduate,PSY       1,FRIDLUND A J,C+,23
+W16,Undergraduate,PSY       1,FRIDLUND A J,C,241
+W16,Undergraduate,PSY       1,FRIDLUND A J,C-,21
+W16,Undergraduate,PSY       1,FRIDLUND A J,D+,11
+W16,Undergraduate,PSY       1,FRIDLUND A J,D,82
+W16,Undergraduate,PSY       1,FRIDLUND A J,D-,2
+W16,Undergraduate,PSY       1,FRIDLUND A J,F,64
+W16,Undergraduate,RG ST   104,FRIEDLAND R O,A,4
+W16,Undergraduate,RG ST   104,FRIEDLAND R O,A-,2
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,A+,3
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,A,15
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,A-,18
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,B+,10
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,B,14
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,B-,2
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,C+,3
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,C,4
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,C-,1
+W16,Undergraduate,SOC     134N,FRIEDKIN N E,F,2
+W16,Undergraduate,SOC     148MA,FRIEDKIN N E,A,10
+W16,Undergraduate,SOC     148MA,FRIEDKIN N E,A-,5
+W16,Undergraduate,SOC     148MA,FRIEDKIN N E,B+,2

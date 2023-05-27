@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F12,Undergraduate,CH E      1A,SQUIRES T M,P,97
+F12,Undergraduate,CH E      1A,SQUIRES T M,NP,3
+F12,Undergraduate,CH E     10,HELGESON M E,A+,2
+F12,Undergraduate,CH E     10,HELGESON M E,A,7
+F12,Undergraduate,CH E     10,HELGESON M E,A-,6
+F12,Undergraduate,CH E     10,HELGESON M E,B+,9
+F12,Undergraduate,CH E     10,HELGESON M E,B,13
+F12,Undergraduate,CH E     10,HELGESON M E,B-,9
+F12,Undergraduate,CH E     10,HELGESON M E,C+,7
+F12,Undergraduate,CH E     10,HELGESON M E,C,4
+F12,Undergraduate,CH E     10,HELGESON M E,C-,3
+F12,Undergraduate,CH E     10,HELGESON M E,D+,2
+F12,Undergraduate,CH E     10,HELGESON M E,D,2
+F12,Undergraduate,CH E     10,HELGESON M E,D-,3
+F12,Undergraduate,CH E     10,HELGESON M E,F,4
+F12,Undergraduate,CH E     55,DOHERTY M F,A,3
+F12,Undergraduate,CH E     55,DOHERTY M F,A-,10
+F12,Undergraduate,CH E     55,DOHERTY M F,B+,2
+F12,Undergraduate,CH E    119,GAY D H,P,49
+F12,Undergraduate,CH E    119,HAN SONGI,P,49
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,A+,1
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,A,10
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,A-,9
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,B+,5
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,B,5
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,B-,7
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,C+,1
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,C,2
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,C-,4
+F12,Undergraduate,CH E    120A,MITRAGOTRI S,F,1
+F12,Undergraduate,CH E    128,SCOTT S L,A+,5
+F12,Undergraduate,CH E    128,SCOTT S L,A,6
+F12,Undergraduate,CH E    128,SCOTT S L,A-,13
+F12,Undergraduate,CH E    128,SCOTT S L,B+,5
+F12,Undergraduate,CH E    128,SCOTT S L,B,4
+F12,Undergraduate,CH E    128,SCOTT S L,B-,6
+F12,Undergraduate,CH E    128,SCOTT S L,C+,2
+F12,Undergraduate,CH E    128,SCOTT S L,C,3
+F12,Undergraduate,CH E    128,SCOTT S L,C-,3
+F12,Undergraduate,CH E    128,SCOTT S L,D,1
+F12,Undergraduate,CH E    128,SCOTT S L,F,1
+F12,Undergraduate,CH E    132B,GORDON M J,A+,7
+F12,Undergraduate,CH E    132B,GORDON M J,A,15
+F12,Undergraduate,CH E    132B,GORDON M J,A-,5
+F12,Undergraduate,CH E    132B,GORDON M J,B+,5
+F12,Undergraduate,CH E    132B,GORDON M J,B,21
+F12,Undergraduate,CH E    132B,GORDON M J,B-,3
+F12,Undergraduate,CH E    132B,GORDON M J,C+,6
+F12,Undergraduate,CH E    132B,GORDON M J,C,3
+F12,Undergraduate,CH E    132B,GORDON M J,C-,2
+F12,Undergraduate,CH E    140B,CHMELKA B F,A+,1
+F12,Undergraduate,CH E    140B,CHMELKA B F,A,7
+F12,Undergraduate,CH E    140B,CHMELKA B F,A-,5
+F12,Undergraduate,CH E    140B,CHMELKA B F,B+,8
+F12,Undergraduate,CH E    140B,CHMELKA B F,B,7
+F12,Undergraduate,CH E    140B,CHMELKA B F,B-,20
+F12,Undergraduate,CH E    140B,CHMELKA B F,C+,12
+F12,Undergraduate,CH E    140B,CHMELKA B F,C,7
+F12,Undergraduate,CH E    140B,CHMELKA B F,C-,4
+F12,Undergraduate,CH E    140B,CHMELKA B F,F,1
+F12,Undergraduate,CH E    152A,DOYLE F,A+,3
+F12,Undergraduate,CH E    152A,DOYLE F,A,9
+F12,Undergraduate,CH E    152A,DOYLE F,A-,4
+F12,Undergraduate,CH E    152A,DOYLE F,B+,6
+F12,Undergraduate,CH E    152A,DOYLE F,B,15
+F12,Undergraduate,CH E    152A,DOYLE F,B-,6
+F12,Undergraduate,CH E    152A,DOYLE F,C+,4
+F12,Undergraduate,CH E    152A,DOYLE F,C,22
+F12,Undergraduate,CH E    152A,DOYLE F,D,1
+F12,Undergraduate,CH E    152A,DOYLE F,D-,2
+F12,Undergraduate,CH E    170,O'MALLEY M A,A+,3
+F12,Undergraduate,CH E    170,O'MALLEY M A,A,19
+F12,Undergraduate,CH E    170,O'MALLEY M A,A-,4
+F12,Undergraduate,CH E    170,O'MALLEY M A,B+,6
+F12,Undergraduate,CH E    170,O'MALLEY M A,B,4
+F12,Undergraduate,CH E    170,O'MALLEY M A,B-,6
+F12,Undergraduate,CH E    170,O'MALLEY M A,C+,5
+F12,Undergraduate,CH E    170,O'MALLEY M A,C,9
+F12,Undergraduate,CH E    170,O'MALLEY M A,C-,3
+F12,Undergraduate,CH E    170,O'MALLEY M A,D+,1
+F12,Undergraduate,CH E    170,O'MALLEY M A,D,1
+F12,Undergraduate,CH E    170,O'MALLEY M A,D-,1
+F12,Graduate,CH E    210A,SHELL M S,A+,3
+F12,Graduate,CH E    210A,SHELL M S,A,5
+F12,Graduate,CH E    210A,SHELL M S,A-,4
+F12,Graduate,CH E    210A,SHELL M S,B+,5
+F12,Graduate,CH E    210A,SHELL M S,B,1
+F12,Graduate,CH E    220A,SQUIRES T M,A+,2
+F12,Graduate,CH E    220A,SQUIRES T M,A,7
+F12,Graduate,CH E    220A,SQUIRES T M,A-,4
+F12,Graduate,CH E    220A,SQUIRES T M,B+,5
+F12,Graduate,CH E    220A,SQUIRES T M,B,6
+F12,Graduate,CH E    230A,PETERS B G,A+,2
+F12,Graduate,CH E    230A,PETERS B G,A,3
+F12,Graduate,CH E    230A,PETERS B G,A-,4
+F12,Graduate,CH E    230A,PETERS B G,B+,3
+F12,Graduate,CH E    230A,PETERS B G,B,5
+F12,Graduate,CH E    290,HELGESON M E,S,75
+F12,Graduate,CH E    291,CHMELKA B F,S,6
+F12,Graduate,CH E    291,LEAL L G,S,5
+F12,Graduate,CH E    599,CHMELKA B F,S,6
+F12,Graduate,CH E    599,LEAL L G,S,7

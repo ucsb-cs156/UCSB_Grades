@@ -1,0 +1,310 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,A+,4
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,A,6
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,A-,6
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,B+,8
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,B,10
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,B-,7
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,C+,7
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,C,9
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,C-,5
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,D+,2
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,D,1
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,D-,2
+F17,Undergraduate,PHYS      2,BOUWMEESTER D,F,6
+F17,Undergraduate,PHYS      3,POPESCU P F,A+,6
+F17,Undergraduate,PHYS      3,POPESCU P F,A,18
+F17,Undergraduate,PHYS      3,POPESCU P F,A-,10
+F17,Undergraduate,PHYS      3,POPESCU P F,B+,6
+F17,Undergraduate,PHYS      3,POPESCU P F,B,7
+F17,Undergraduate,PHYS      3,POPESCU P F,B-,9
+F17,Undergraduate,PHYS      3,POPESCU P F,C+,13
+F17,Undergraduate,PHYS      3,POPESCU P F,C,7
+F17,Undergraduate,PHYS      3,POPESCU P F,C-,12
+F17,Undergraduate,PHYS      3,POPESCU P F,D+,6
+F17,Undergraduate,PHYS      3,POPESCU P F,D,4
+F17,Undergraduate,PHYS      3,POPESCU P F,F,3
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,A+,37
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,A,72
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,A-,38
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,B+,31
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,B,28
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,B-,17
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,C+,17
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,C,13
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,C-,16
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,D+,6
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,D,3
+F17,Undergraduate,PHYS      3,YOUNGBLOOD BJ,F,6
+F17,Undergraduate,PHYS      3L,FYGENSON D K,A+,9
+F17,Undergraduate,PHYS      3L,FYGENSON D K,A,126
+F17,Undergraduate,PHYS      3L,POPESCU P E,A+,30
+F17,Undergraduate,PHYS      3L,POPESCU P E,A,106
+F17,Undergraduate,PHYS      3L,POPESCU P E,A-,100
+F17,Undergraduate,PHYS      3L,POPESCU P E,B+,63
+F17,Undergraduate,PHYS      3L,POPESCU P E,B,21
+F17,Undergraduate,PHYS      3L,POPESCU P E,B-,2
+F17,Undergraduate,PHYS      3L,POPESCU P E,C+,2
+F17,Undergraduate,PHYS      3L,POPESCU P E,C,1
+F17,Undergraduate,PHYS      3L,POPESCU P E,F,1
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,A+,30
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,A,106
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,A-,100
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,B+,63
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,B,21
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,B-,2
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,C+,2
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,C,1
+F17,Undergraduate,PHYS      3L,YOUNGBLOOD BJ,F,1
+F17,Undergraduate,PHYS      6A,FREUND E G,A+,2
+F17,Undergraduate,PHYS      6A,FREUND E G,A,116
+F17,Undergraduate,PHYS      6A,FREUND E G,A-,60
+F17,Undergraduate,PHYS      6A,FREUND E G,B+,61
+F17,Undergraduate,PHYS      6A,FREUND E G,B,65
+F17,Undergraduate,PHYS      6A,FREUND E G,B-,50
+F17,Undergraduate,PHYS      6A,FREUND E G,C+,37
+F17,Undergraduate,PHYS      6A,FREUND E G,C,16
+F17,Undergraduate,PHYS      6A,FREUND E G,C-,13
+F17,Undergraduate,PHYS      6A,FREUND E G,D+,4
+F17,Undergraduate,PHYS      6A,FREUND E G,D,6
+F17,Undergraduate,PHYS      6A,FREUND E G,D-,3
+F17,Undergraduate,PHYS      6A,FREUND E G,F,2
+F17,Undergraduate,PHYS      6A,GELLER R M,A+,5
+F17,Undergraduate,PHYS      6A,GELLER R M,A,8
+F17,Undergraduate,PHYS      6A,GELLER R M,A-,14
+F17,Undergraduate,PHYS      6A,GELLER R M,B+,13
+F17,Undergraduate,PHYS      6A,GELLER R M,B,24
+F17,Undergraduate,PHYS      6A,GELLER R M,B-,12
+F17,Undergraduate,PHYS      6A,GELLER R M,C+,3
+F17,Undergraduate,PHYS      6A,GELLER R M,C,1
+F17,Undergraduate,PHYS      6A,GELLER R M,C-,3
+F17,Undergraduate,PHYS      6A,GELLER R M,F,1
+F17,Undergraduate,PHYS      6AL,FREUND E G,A+,62
+F17,Undergraduate,PHYS      6AL,FREUND E G,A,182
+F17,Undergraduate,PHYS      6AL,FREUND E G,A-,56
+F17,Undergraduate,PHYS      6AL,FREUND E G,B+,70
+F17,Undergraduate,PHYS      6AL,FREUND E G,B,59
+F17,Undergraduate,PHYS      6AL,FREUND E G,B-,13
+F17,Undergraduate,PHYS      6AL,FREUND E G,C,2
+F17,Undergraduate,PHYS      6AL,FREUND E G,C-,1
+F17,Undergraduate,PHYS      6AL,FREUND E G,D,1
+F17,Undergraduate,PHYS      6AL,FREUND E G,D-,1
+F17,Undergraduate,PHYS      6AL,FREUND E G,F,7
+F17,Undergraduate,PHYS      6AL,GELLER R M,A+,62
+F17,Undergraduate,PHYS      6AL,GELLER R M,A,182
+F17,Undergraduate,PHYS      6AL,GELLER R M,A-,56
+F17,Undergraduate,PHYS      6AL,GELLER R M,B+,70
+F17,Undergraduate,PHYS      6AL,GELLER R M,B,59
+F17,Undergraduate,PHYS      6AL,GELLER R M,B-,13
+F17,Undergraduate,PHYS      6AL,GELLER R M,C,2
+F17,Undergraduate,PHYS      6AL,GELLER R M,C-,1
+F17,Undergraduate,PHYS      6AL,GELLER R M,D,1
+F17,Undergraduate,PHYS      6AL,GELLER R M,D-,1
+F17,Undergraduate,PHYS      6AL,GELLER R M,F,7
+F17,Undergraduate,PHYS      6C,FREUND E G,A+,1
+F17,Undergraduate,PHYS      6C,FREUND E G,A,77
+F17,Undergraduate,PHYS      6C,FREUND E G,A-,31
+F17,Undergraduate,PHYS      6C,FREUND E G,B+,21
+F17,Undergraduate,PHYS      6C,FREUND E G,B,16
+F17,Undergraduate,PHYS      6C,FREUND E G,B-,7
+F17,Undergraduate,PHYS      6C,FREUND E G,C+,4
+F17,Undergraduate,PHYS      6C,FREUND E G,C,8
+F17,Undergraduate,PHYS      6C,FREUND E G,C-,1
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,A,23
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,A-,10
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,B+,18
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,B,27
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,B-,17
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,C+,31
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,C,10
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,C-,1
+F17,Undergraduate,PHYS      6C,KOUTROULAKIS,F,1
+F17,Undergraduate,PHYS      6CL,FREUND E G,A+,24
+F17,Undergraduate,PHYS      6CL,FREUND E G,A,103
+F17,Undergraduate,PHYS      6CL,FREUND E G,A-,53
+F17,Undergraduate,PHYS      6CL,FREUND E G,B+,92
+F17,Undergraduate,PHYS      6CL,FREUND E G,B,39
+F17,Undergraduate,PHYS      6CL,FREUND E G,B-,3
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,A+,24
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,A,103
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,A-,53
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,B+,92
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,B,39
+F17,Undergraduate,PHYS      6CL,KOUTROULAKIS,B-,3
+F17,Undergraduate,PHYS     13AH,JAYICH A M,A+,1
+F17,Undergraduate,PHYS     13AH,JAYICH A M,A,6
+F17,Undergraduate,PHYS     13AH,JAYICH A M,A-,3
+F17,Undergraduate,PHYS     20,BIBILASHVILI,A+,10
+F17,Undergraduate,PHYS     20,BIBILASHVILI,A,16
+F17,Undergraduate,PHYS     20,BIBILASHVILI,A-,25
+F17,Undergraduate,PHYS     20,BIBILASHVILI,B+,10
+F17,Undergraduate,PHYS     20,BIBILASHVILI,B,22
+F17,Undergraduate,PHYS     20,BIBILASHVILI,B-,14
+F17,Undergraduate,PHYS     20,BIBILASHVILI,C+,13
+F17,Undergraduate,PHYS     20,BIBILASHVILI,C,8
+F17,Undergraduate,PHYS     20,BIBILASHVILI,C-,10
+F17,Undergraduate,PHYS     20,BIBILASHVILI,D+,10
+F17,Undergraduate,PHYS     20,BIBILASHVILI,D,3
+F17,Undergraduate,PHYS     20,BIBILASHVILI,D-,6
+F17,Undergraduate,PHYS     20,BIBILASHVILI,F,30
+F17,Undergraduate,PHYS     23,GURUSWAMY S,A+,7
+F17,Undergraduate,PHYS     23,GURUSWAMY S,A,13
+F17,Undergraduate,PHYS     23,GURUSWAMY S,A-,19
+F17,Undergraduate,PHYS     23,GURUSWAMY S,B+,20
+F17,Undergraduate,PHYS     23,GURUSWAMY S,B,16
+F17,Undergraduate,PHYS     23,GURUSWAMY S,B-,9
+F17,Undergraduate,PHYS     23,GURUSWAMY S,C+,6
+F17,Undergraduate,PHYS     23,GURUSWAMY S,C,11
+F17,Undergraduate,PHYS     23,GURUSWAMY S,C-,5
+F17,Undergraduate,PHYS     23,GURUSWAMY S,D+,2
+F17,Undergraduate,PHYS     23,GURUSWAMY S,D,3
+F17,Undergraduate,PHYS     23,GURUSWAMY S,F,3
+F17,Undergraduate,PHYS    102,SREDNICKI M,A+,7
+F17,Undergraduate,PHYS    102,SREDNICKI M,A,36
+F17,Undergraduate,PHYS    102,SREDNICKI M,A-,6
+F17,Undergraduate,PHYS    102,SREDNICKI M,B+,12
+F17,Undergraduate,PHYS    102,SREDNICKI M,B,29
+F17,Undergraduate,PHYS    102,SREDNICKI M,B-,10
+F17,Undergraduate,PHYS    102,SREDNICKI M,D,1
+F17,Undergraduate,PHYS    102,SREDNICKI M,F,1
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,A+,6
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,A,23
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,A-,9
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,B+,9
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,B,7
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,B-,14
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,C+,15
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,C,10
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,C-,11
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,D+,6
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,D,2
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,D-,2
+F17,Undergraduate,PHYS    103,KOUTROULAKIS,F,5
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,A+,3
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,A,24
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,A-,15
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,B+,11
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,B,16
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,B-,14
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,C+,9
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,C,13
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,C-,8
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,D+,7
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,D,3
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,D-,1
+F17,Undergraduate,PHYS    110A,JAYICH ANIA,F,9
+F17,Undergraduate,PHYS    115A,CRAIG N J,A+,4
+F17,Undergraduate,PHYS    115A,CRAIG N J,A,23
+F17,Undergraduate,PHYS    115A,CRAIG N J,A-,9
+F17,Undergraduate,PHYS    115A,CRAIG N J,B+,16
+F17,Undergraduate,PHYS    115A,CRAIG N J,B,27
+F17,Undergraduate,PHYS    115A,CRAIG N J,B-,5
+F17,Undergraduate,PHYS    115A,CRAIG N J,C+,12
+F17,Undergraduate,PHYS    115A,CRAIG N J,C,26
+F17,Undergraduate,PHYS    115A,CRAIG N J,C-,4
+F17,Undergraduate,PHYS    115A,CRAIG N J,D,9
+F17,Undergraduate,PHYS    115A,CRAIG N J,F,6
+F17,Undergraduate,PHYS    119A,SHEA J,A+,3
+F17,Undergraduate,PHYS    119A,SHEA J,A,24
+F17,Undergraduate,PHYS    119A,SHEA J,A-,12
+F17,Undergraduate,PHYS    119A,SHEA J,B+,12
+F17,Undergraduate,PHYS    119A,SHEA J,B,14
+F17,Undergraduate,PHYS    119A,SHEA J,B-,12
+F17,Undergraduate,PHYS    119A,SHEA J,C+,10
+F17,Undergraduate,PHYS    119A,SHEA J,C,14
+F17,Undergraduate,PHYS    119A,SHEA J,C-,14
+F17,Undergraduate,PHYS    119A,SHEA J,D,2
+F17,Undergraduate,PHYS    119A,SHEA J,F,1
+F17,Undergraduate,PHYS    120,ZEE A,A+,3
+F17,Undergraduate,PHYS    120,ZEE A,A,1
+F17,Undergraduate,PHYS    120,ZEE A,A-,2
+F17,Undergraduate,PHYS    120,ZEE A,B+,4
+F17,Undergraduate,PHYS    120,ZEE A,B,4
+F17,Undergraduate,PHYS    120,ZEE A,B-,2
+F17,Undergraduate,PHYS    120,ZEE A,C,4
+F17,Undergraduate,PHYS    120,ZEE A,D,3
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,A+,2
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,A,7
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,A-,8
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,B+,7
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,B,3
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,B-,7
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,C+,4
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,C,1
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,D,1
+F17,Undergraduate,PHYS    123A,BOUWMEESTER D,F,2
+F17,Undergraduate,PHYS    127AL,STUART D D,A+,3
+F17,Undergraduate,PHYS    127AL,STUART D D,A,12
+F17,Undergraduate,PHYS    127AL,STUART D D,A-,6
+F17,Undergraduate,PHYS    127AL,STUART D D,B+,6
+F17,Undergraduate,PHYS    127AL,STUART D D,B,11
+F17,Undergraduate,PHYS    127AL,STUART D D,B-,2
+F17,Undergraduate,PHYS    127AL,STUART D D,C+,2
+F17,Undergraduate,PHYS    127AL,STUART D D,C,5
+F17,Undergraduate,PHYS    127AL,STUART D D,C-,7
+F17,Undergraduate,PHYS    127AL,STUART D D,D+,1
+F17,Undergraduate,PHYS    127AL,STUART D D,D,1
+F17,Undergraduate,PHYS    127AL,STUART D D,D-,2
+F17,Undergraduate,PHYS    127AL,STUART D D,F,9
+F17,Undergraduate,PHYS    128AL,WELD D M,A+,3
+F17,Undergraduate,PHYS    128AL,WELD D M,A,3
+F17,Undergraduate,PHYS    128AL,WELD D M,A-,14
+F17,Undergraduate,PHYS    128AL,WELD D M,B+,9
+F17,Undergraduate,PHYS    128AL,WELD D M,B,5
+F17,Undergraduate,PHYS    128AL,WELD D M,B-,2
+F17,Undergraduate,PHYS    128AL,WELD D M,C+,1
+F17,Undergraduate,PHYS    134L,MAZIN B A,A,2
+F17,Undergraduate,PHYS    134L,MAZIN B A,A-,5
+F17,Undergraduate,PHYS    134L,MAZIN B A,B+,7
+F17,Undergraduate,PHYS    134L,MAZIN B A,B,3
+F17,Undergraduate,PHYS    134L,MAZIN B A,B-,4
+F17,Undergraduate,PHYS    134L,MAZIN B A,C+,2
+F17,Undergraduate,PHYS    134L,MAZIN B A,C,1
+F17,Undergraduate,PHYS    134L,MAZIN B A,C-,1
+F17,Undergraduate,PHYS    134L,MAZIN B A,F,1
+F17,Undergraduate,PHYS    199,YOUNG A F,A,5
+F17,Graduate,PHYS    205,BERENSTEIN D,A+,10
+F17,Graduate,PHYS    205,BERENSTEIN D,A,4
+F17,Graduate,PHYS    205,BERENSTEIN D,B+,3
+F17,Graduate,PHYS    205,BERENSTEIN D,B,1
+F17,Graduate,PHYS    215A,FISHER M P,A+,11
+F17,Graduate,PHYS    215A,FISHER M P,A,10
+F17,Graduate,PHYS    215A,FISHER M P,A-,6
+F17,Graduate,PHYS    215A,FISHER M P,B+,2
+F17,Graduate,PHYS    215A,FISHER M P,B,3
+F17,Graduate,PHYS    215A,FISHER M P,B-,1
+F17,Graduate,PHYS    215A,FISHER M P,C,1
+F17,Graduate,PHYS    217A,XU C,A+,3
+F17,Graduate,PHYS    217A,XU C,A,4
+F17,Graduate,PHYS    217A,XU C,A-,1
+F17,Graduate,PHYS    217A,XU C,S,2
+F17,Graduate,PHYS    221A,GIDDINGS S B,A+,1
+F17,Graduate,PHYS    221A,GIDDINGS S B,A,3
+F17,Graduate,PHYS    221A,GIDDINGS S B,A-,3
+F17,Graduate,PHYS    221A,GIDDINGS S B,B+,2
+F17,Graduate,PHYS    221A,GIDDINGS S B,B,1
+F17,Graduate,PHYS    223A,YOUNG A F,A,6
+F17,Graduate,PHYS    223A,YOUNG A F,A-,3
+F17,Graduate,PHYS    223A,YOUNG A F,B+,2
+F17,Graduate,PHYS    223A,YOUNG A F,B,2
+F17,Graduate,PHYS    231A,MORRISON D R,A+,12
+F17,Graduate,PHYS    231A,MORRISON D R,A,5
+F17,Graduate,PHYS    231A,MORRISON D R,A-,3
+F17,Graduate,PHYS    231A,MORRISON D R,B+,1
+F17,Graduate,PHYS    237,MARTIN C L,A+,3
+F17,Graduate,PHYS    237,MARTIN C L,A,6
+F17,Graduate,PHYS    237,MARTIN C L,A-,1
+F17,Graduate,PHYS    237,MARTIN C L,B+,1
+F17,Graduate,PHYS    237,MARTIN C L,B,1
+F17,Graduate,PHYS    260A,SHRAIMAN B I,S,28
+F17,Graduate,PHYS    260A,XU C,S,28
+F17,Graduate,PHYS    260G,SHERWIN M S,S,28
+F17,Graduate,PHYS    260J,CARLSON J M,S,5
+F17,Graduate,PHYS    500,GELLER R M,S,27
+F17,Graduate,PHYS    596,MAZIN B A,S,6
+F17,Graduate,PHYS    596,WELD D M,S,6
+F17,Undergraduate,PHYS CS  15A,JAYICH A M,P,22
+F17,Undergraduate,PHYS CS  31,BIBILASHVILI,P,24
+F17,Undergraduate,PHYS CS  31,YOUNGBLOOD BJ,P,24
+F17,Undergraduate,PHYS CS  34,GURUSWAMY S,P,20
+F17,Undergraduate,PHYS CS  34,YOUNGBLOOD BJ,P,20

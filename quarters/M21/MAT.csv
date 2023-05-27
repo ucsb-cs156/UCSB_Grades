@@ -1,0 +1,308 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M21,Undergraduate,COMM    160DS,MATNI Z A,A+,3
+M21,Undergraduate,COMM    160DS,MATNI Z A,A,7
+M21,Undergraduate,COMM    160DS,MATNI Z A,A-,7
+M21,Undergraduate,COMM    160DS,MATNI Z A,B+,5
+M21,Undergraduate,COMM    160DS,MATNI Z A,B,6
+M21,Undergraduate,COMM    160DS,MATNI Z A,B-,3
+M21,Undergraduate,COMM    160DS,MATNI Z A,C,1
+M21,Undergraduate,COMM    160DS,MATNI Z A,D,1
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,A,1
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,A-,2
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,B+,1
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,B,2
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,D+,1
+M21,Undergraduate,MAT      80XU,CRAWSHAW A S,F,2
+M21,Undergraduate,MATH      3A,CROW E M,A+,1
+M21,Undergraduate,MATH      3A,CROW E M,A,9
+M21,Undergraduate,MATH      3A,CROW E M,A-,3
+M21,Undergraduate,MATH      3A,CROW E M,B+,2
+M21,Undergraduate,MATH      3A,CROW E M,B,1
+M21,Undergraduate,MATH      3A,CROW E M,B-,3
+M21,Undergraduate,MATH      3A,CROW E M,C,1
+M21,Undergraduate,MATH      3A,CROW E M,D,1
+M21,Undergraduate,MATH      3A,WELLS S B,A,3
+M21,Undergraduate,MATH      3A,WELLS S B,B+,2
+M21,Undergraduate,MATH      3A,WELLS S B,B,4
+M21,Undergraduate,MATH      3A,WELLS S B,C+,3
+M21,Undergraduate,MATH      3A,WELLS S B,C,1
+M21,Undergraduate,MATH      3A,WELLS S B,D,1
+M21,Undergraduate,MATH      3A,WELLS S B,F,2
+M21,Undergraduate,MATH      3B,PARKER M,A+,2
+M21,Undergraduate,MATH      3B,PARKER M,A,19
+M21,Undergraduate,MATH      3B,PARKER M,A-,11
+M21,Undergraduate,MATH      3B,PARKER M,B+,3
+M21,Undergraduate,MATH      3B,PARKER M,B,4
+M21,Undergraduate,MATH      3B,PARKER M,B-,4
+M21,Undergraduate,MATH      3B,PARKER M,C+,3
+M21,Undergraduate,MATH      3B,PARKER M,C,5
+M21,Undergraduate,MATH      3B,PARKER M,F,3
+M21,Undergraduate,MATH      3B,YAN J,A+,6
+M21,Undergraduate,MATH      3B,YAN J,A,2
+M21,Undergraduate,MATH      3B,YAN J,A-,2
+M21,Undergraduate,MATH      3B,YAN J,B+,2
+M21,Undergraduate,MATH      3B,YAN J,B,2
+M21,Undergraduate,MATH      3B,YAN J,B-,1
+M21,Undergraduate,MATH      3B,YAN J,C+,2
+M21,Undergraduate,MATH      3B,YAN J,C,2
+M21,Undergraduate,MATH      3B,YAN J,C-,1
+M21,Undergraduate,MATH      3B,YAN J,D+,2
+M21,Undergraduate,MATH      3B,YAN J,F,1
+M21,Undergraduate,MATH      4A,SEHAYEK S B,A,22
+M21,Undergraduate,MATH      4A,SEHAYEK S B,A-,8
+M21,Undergraduate,MATH      4A,SEHAYEK S B,B+,7
+M21,Undergraduate,MATH      4A,SEHAYEK S B,B,7
+M21,Undergraduate,MATH      4A,SEHAYEK S B,B-,5
+M21,Undergraduate,MATH      4A,SEHAYEK S B,C+,4
+M21,Undergraduate,MATH      4A,SEHAYEK S B,D,1
+M21,Undergraduate,MATH      4A,SEHAYEK S B,F,2
+M21,Undergraduate,MATH      4A,TRISAL A V,A+,3
+M21,Undergraduate,MATH      4A,TRISAL A V,A,6
+M21,Undergraduate,MATH      4A,TRISAL A V,A-,5
+M21,Undergraduate,MATH      4A,TRISAL A V,B+,2
+M21,Undergraduate,MATH      4A,TRISAL A V,B,8
+M21,Undergraduate,MATH      4A,TRISAL A V,B-,7
+M21,Undergraduate,MATH      4A,TRISAL A V,C+,1
+M21,Undergraduate,MATH      4A,TRISAL A V,C,8
+M21,Undergraduate,MATH      4A,TRISAL A V,C-,5
+M21,Undergraduate,MATH      4A,TRISAL A V,F,7
+M21,Undergraduate,MATH      4B,NAGY A,A+,13
+M21,Undergraduate,MATH      4B,NAGY A,A,14
+M21,Undergraduate,MATH      4B,NAGY A,A-,5
+M21,Undergraduate,MATH      4B,NAGY A,B+,9
+M21,Undergraduate,MATH      4B,NAGY A,B,6
+M21,Undergraduate,MATH      4B,NAGY A,B-,6
+M21,Undergraduate,MATH      4B,NAGY A,C+,5
+M21,Undergraduate,MATH      4B,NAGY A,C,5
+M21,Undergraduate,MATH      4B,NAGY A,C-,2
+M21,Undergraduate,MATH      4B,NAGY A,D+,2
+M21,Undergraduate,MATH      4B,NAGY A,D,1
+M21,Undergraduate,MATH      4B,NAGY A,F,3
+M21,Undergraduate,MATH      4B,RICCI F,A+,7
+M21,Undergraduate,MATH      4B,RICCI F,A,4
+M21,Undergraduate,MATH      4B,RICCI F,A-,6
+M21,Undergraduate,MATH      4B,RICCI F,B+,6
+M21,Undergraduate,MATH      4B,RICCI F,B,10
+M21,Undergraduate,MATH      4B,RICCI F,B-,5
+M21,Undergraduate,MATH      4B,RICCI F,C+,4
+M21,Undergraduate,MATH      4B,RICCI F,C,6
+M21,Undergraduate,MATH      4B,RICCI F,C-,3
+M21,Undergraduate,MATH      4B,RICCI F,D+,1
+M21,Undergraduate,MATH      4B,RICCI F,F,4
+M21,Undergraduate,MATH      6A,HALMRAST D M,A+,2
+M21,Undergraduate,MATH      6A,HALMRAST D M,A,9
+M21,Undergraduate,MATH      6A,HALMRAST D M,A-,1
+M21,Undergraduate,MATH      6A,HALMRAST D M,B+,1
+M21,Undergraduate,MATH      6A,HALMRAST D M,B,2
+M21,Undergraduate,MATH      6A,HALMRAST D M,B-,3
+M21,Undergraduate,MATH      6A,HALMRAST D M,C+,1
+M21,Undergraduate,MATH      6A,HALMRAST D M,C,2
+M21,Undergraduate,MATH      6A,HALMRAST D M,F,2
+M21,Undergraduate,MATH      6A,LIM G,A+,1
+M21,Undergraduate,MATH      6A,LIM G,A,1
+M21,Undergraduate,MATH      6A,LIM G,B+,3
+M21,Undergraduate,MATH      6A,LIM G,B,2
+M21,Undergraduate,MATH      6A,LIM G,B-,1
+M21,Undergraduate,MATH      6A,LIM G,C+,1
+M21,Undergraduate,MATH      6A,LIM G,C,2
+M21,Undergraduate,MATH      6A,LIM G,C-,2
+M21,Undergraduate,MATH      6A,LIM G,D+,1
+M21,Undergraduate,MATH      6A,LIM G,D,2
+M21,Undergraduate,MATH      6A,LIM G,F,7
+M21,Undergraduate,MATH      6A,MOLANDER M A,A+,32
+M21,Undergraduate,MATH      6A,MOLANDER M A,A,14
+M21,Undergraduate,MATH      6A,MOLANDER M A,A-,7
+M21,Undergraduate,MATH      6A,MOLANDER M A,B+,4
+M21,Undergraduate,MATH      6A,MOLANDER M A,B,4
+M21,Undergraduate,MATH      6A,MOLANDER M A,B-,7
+M21,Undergraduate,MATH      6A,MOLANDER M A,C+,2
+M21,Undergraduate,MATH      6A,MOLANDER M A,C,4
+M21,Undergraduate,MATH      6A,MOLANDER M A,C-,2
+M21,Undergraduate,MATH      6A,MOLANDER M A,D+,1
+M21,Undergraduate,MATH      6A,MOLANDER M A,F,3
+M21,Undergraduate,MATH      6A,WAGNER Z J,A+,19
+M21,Undergraduate,MATH      6A,WAGNER Z J,A,20
+M21,Undergraduate,MATH      6A,WAGNER Z J,A-,8
+M21,Undergraduate,MATH      6A,WAGNER Z J,B+,5
+M21,Undergraduate,MATH      6A,WAGNER Z J,B,9
+M21,Undergraduate,MATH      6A,WAGNER Z J,B-,8
+M21,Undergraduate,MATH      6A,WAGNER Z J,C+,3
+M21,Undergraduate,MATH      6A,WAGNER Z J,C,4
+M21,Undergraduate,MATH      6A,WAGNER Z J,C-,2
+M21,Undergraduate,MATH      6A,WAGNER Z J,D+,2
+M21,Undergraduate,MATH      6A,WAGNER Z J,F,4
+M21,Undergraduate,MATH      6B,HALMRAST D M,A+,8
+M21,Undergraduate,MATH      6B,HALMRAST D M,A,14
+M21,Undergraduate,MATH      6B,HALMRAST D M,A-,4
+M21,Undergraduate,MATH      6B,HALMRAST D M,B+,1
+M21,Undergraduate,MATH      6B,HALMRAST D M,C,1
+M21,Undergraduate,MATH      6B,HALMRAST D M,F,2
+M21,Undergraduate,MATH      6B,MARTINS RODRI,A+,5
+M21,Undergraduate,MATH      6B,MARTINS RODRI,A,9
+M21,Undergraduate,MATH      6B,MARTINS RODRI,A-,3
+M21,Undergraduate,MATH      6B,MARTINS RODRI,B+,5
+M21,Undergraduate,MATH      6B,MARTINS RODRI,B,7
+M21,Undergraduate,MATH      6B,MARTINS RODRI,B-,2
+M21,Undergraduate,MATH      6B,MARTINS RODRI,C+,3
+M21,Undergraduate,MATH      6B,MARTINS RODRI,C,1
+M21,Undergraduate,MATH      6B,MARTINS RODRI,C-,2
+M21,Undergraduate,MATH      6B,MARTINS RODRI,F,3
+M21,Undergraduate,MATH      6B,SUN C,A+,9
+M21,Undergraduate,MATH      6B,SUN C,A,4
+M21,Undergraduate,MATH      6B,SUN C,A-,6
+M21,Undergraduate,MATH      6B,SUN C,B+,6
+M21,Undergraduate,MATH      6B,SUN C,B,1
+M21,Undergraduate,MATH      6B,SUN C,B-,4
+M21,Undergraduate,MATH      6B,SUN C,C+,3
+M21,Undergraduate,MATH      6B,SUN C,C,2
+M21,Undergraduate,MATH      6B,SUN C,C-,1
+M21,Undergraduate,MATH      6B,SUN C,D,1
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,A,19
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,A-,6
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,B+,7
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,B,5
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,B-,9
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,C+,3
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,C,4
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,D+,1
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,D-,2
+M21,Undergraduate,MATH      8,KIM HYUN-JUNG,F,1
+M21,Undergraduate,MATH      8,PORTER M J,A+,7
+M21,Undergraduate,MATH      8,PORTER M J,A,40
+M21,Undergraduate,MATH      8,PORTER M J,A-,9
+M21,Undergraduate,MATH      8,PORTER M J,B+,3
+M21,Undergraduate,MATH      8,PORTER M J,B,7
+M21,Undergraduate,MATH      8,PORTER M J,C+,4
+M21,Undergraduate,MATH      8,PORTER M J,C,1
+M21,Undergraduate,MATH      8,PORTER M J,F,2
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,A,23
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,A-,5
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,B+,6
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,B,1
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,C+,2
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,C,1
+M21,Undergraduate,MATH     34A,ALTHAUSER S B,F,2
+M21,Undergraduate,MATH     34A,MERKL K E,A+,7
+M21,Undergraduate,MATH     34A,MERKL K E,A,16
+M21,Undergraduate,MATH     34A,MERKL K E,A-,3
+M21,Undergraduate,MATH     34A,MERKL K E,B+,1
+M21,Undergraduate,MATH     34A,MERKL K E,B,5
+M21,Undergraduate,MATH     34B,BAREI A,A+,21
+M21,Undergraduate,MATH     34B,BAREI A,A,9
+M21,Undergraduate,MATH     34B,BAREI A,A-,2
+M21,Undergraduate,MATH     34B,BAREI A,B+,1
+M21,Undergraduate,MATH     34B,BAREI A,B,1
+M21,Undergraduate,MATH     34B,VANDEVEER J B,A+,4
+M21,Undergraduate,MATH     34B,VANDEVEER J B,A,7
+M21,Undergraduate,MATH     34B,VANDEVEER J B,A-,2
+M21,Undergraduate,MATH     34B,VANDEVEER J B,B+,6
+M21,Undergraduate,MATH     34B,VANDEVEER J B,B-,1
+M21,Undergraduate,MATH     34B,VANDEVEER J B,C+,1
+M21,Undergraduate,MATH     34B,VANDEVEER J B,C,2
+M21,Undergraduate,MATH    100A,SCHLEY N B,P,30
+M21,Undergraduate,MATH    100B,SCHLEY N B,P,31
+M21,Undergraduate,MATH    104A,YANG XU,A+,17
+M21,Undergraduate,MATH    104A,YANG XU,A,24
+M21,Undergraduate,MATH    104A,YANG XU,A-,8
+M21,Undergraduate,MATH    104A,YANG XU,B+,6
+M21,Undergraduate,MATH    104A,YANG XU,B,2
+M21,Undergraduate,MATH    104A,YANG XU,C+,1
+M21,Undergraduate,MATH    104A,YANG XU,C,1
+M21,Undergraduate,MATH    104A,YANG XU,C-,1
+M21,Undergraduate,MATH    104B,CENICEROS H,A,20
+M21,Undergraduate,MATH    104B,CENICEROS H,A-,3
+M21,Undergraduate,MATH    104B,CENICEROS H,B+,2
+M21,Undergraduate,MATH    104B,CENICEROS H,B,4
+M21,Undergraduate,MATH    104B,CENICEROS H,F,2
+M21,Undergraduate,MATH    104C,CENICEROS H,A,11
+M21,Undergraduate,MATH    104C,CENICEROS H,A-,1
+M21,Undergraduate,MATH    104C,CENICEROS H,B+,3
+M21,Undergraduate,MATH    104C,CENICEROS H,B,3
+M21,Undergraduate,MATH    104C,CENICEROS H,B-,1
+M21,Undergraduate,MATH    104C,CENICEROS H,C+,3
+M21,Undergraduate,MATH    104C,CENICEROS H,C,3
+M21,Undergraduate,MATH    104C,CENICEROS H,D,1
+M21,Undergraduate,MATH    104C,CENICEROS H,F,2
+M21,Undergraduate,MATH    108A,HAJOUJI N,A,3
+M21,Undergraduate,MATH    108A,HAJOUJI N,A-,11
+M21,Undergraduate,MATH    108A,HAJOUJI N,B+,3
+M21,Undergraduate,MATH    108A,HAJOUJI N,B,6
+M21,Undergraduate,MATH    108A,HAJOUJI N,C+,8
+M21,Undergraduate,MATH    108A,HAJOUJI N,C,4
+M21,Undergraduate,MATH    108A,HAJOUJI N,C-,2
+M21,Undergraduate,MATH    108A,HAJOUJI N,D,4
+M21,Undergraduate,MATH    108A,HAJOUJI N,F,5
+M21,Undergraduate,MATH    108B,YE R,A+,4
+M21,Undergraduate,MATH    108B,YE R,A,13
+M21,Undergraduate,MATH    108B,YE R,A-,7
+M21,Undergraduate,MATH    108B,YE R,B+,4
+M21,Undergraduate,MATH    108B,YE R,B,9
+M21,Undergraduate,MATH    108B,YE R,B-,2
+M21,Undergraduate,MATH    108B,YE R,C+,6
+M21,Undergraduate,MATH    108B,YE R,C,3
+M21,Undergraduate,MATH    108B,YE R,C-,4
+M21,Undergraduate,MATH    108B,YE R,D,1
+M21,Undergraduate,MATH    108B,YE R,F,2
+M21,Undergraduate,MATH    117,BIRNIR B,A,73
+M21,Undergraduate,MATH    117,BIRNIR B,B,19
+M21,Undergraduate,MATH    117,BIRNIR B,C,1
+M21,Undergraduate,MATH    117,BIRNIR B,F,1
+M21,Undergraduate,MATH    117,LIM G,A+,1
+M21,Undergraduate,MATH    117,LIM G,A-,4
+M21,Undergraduate,MATH    117,LIM G,B+,1
+M21,Undergraduate,MATH    117,LIM G,B,3
+M21,Undergraduate,MATH    117,LIM G,B-,5
+M21,Undergraduate,MATH    117,LIM G,C+,2
+M21,Undergraduate,MATH    117,LIM G,C,1
+M21,Undergraduate,MATH    117,LIM G,C-,1
+M21,Undergraduate,MATH    117,LIM G,D+,2
+M21,Undergraduate,MATH    117,LIM G,D,1
+M21,Undergraduate,MATH    117,LIM G,F,6
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,A,13
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,A-,11
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,B+,11
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,B,19
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,B-,10
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,C+,11
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,C,9
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,C-,3
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,D+,3
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,D,2
+M21,Undergraduate,MATH    122A,HARUTYUNYAN D,F,3
+M21,Undergraduate,MATH    122B,OGRAIN C M,A+,1
+M21,Undergraduate,MATH    122B,OGRAIN C M,A,1
+M21,Undergraduate,MATH    122B,OGRAIN C M,B,2
+M21,Undergraduate,MATH    122B,OGRAIN C M,B-,1
+M21,Undergraduate,MATH    122B,OGRAIN C M,C+,1
+M21,Undergraduate,MATH    122B,OGRAIN C M,C,4
+M21,Undergraduate,MATH    122B,OGRAIN C M,F,1
+M21,Undergraduate,MATH    124A,LABUTIN D A,A+,17
+M21,Undergraduate,MATH    124A,LABUTIN D A,A,5
+M21,Undergraduate,MATH    124A,LABUTIN D A,A-,3
+M21,Undergraduate,MATH    124A,LABUTIN D A,B+,3
+M21,Undergraduate,MATH    124A,LABUTIN D A,B,1
+M21,Undergraduate,MATH    124A,LABUTIN D A,B-,2
+M21,Undergraduate,MATH    124A,LABUTIN D A,C,2
+M21,Undergraduate,MATH    124A,LABUTIN D A,F,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,A,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,A-,1
+M21,Undergraduate,MATH    145,AVETISYAN Z,B+,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,B,4
+M21,Undergraduate,MATH    145,AVETISYAN Z,B-,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,C+,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,C,3
+M21,Undergraduate,MATH    145,AVETISYAN Z,D+,1
+M21,Undergraduate,MATH    145,AVETISYAN Z,D,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,D-,2
+M21,Undergraduate,MATH    145,AVETISYAN Z,F,4
+M21,Undergraduate,MATH    147A,YE R,A+,1
+M21,Undergraduate,MATH    147A,YE R,A,9
+M21,Undergraduate,MATH    147A,YE R,A-,2
+M21,Undergraduate,MATH    147A,YE R,B+,2
+M21,Undergraduate,MATH    147A,YE R,B,3
+M21,Undergraduate,MATH    147A,YE R,B-,1
+M21,Undergraduate,MATH    147A,YE R,C+,4
+M21,Undergraduate,MATH    147A,YE R,C,7
+M21,Undergraduate,MATH    147A,YE R,C-,7
+M21,Undergraduate,MATH    147A,YE R,D,4
+M21,Undergraduate,MATH    147A,YE R,F,3

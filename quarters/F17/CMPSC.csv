@@ -1,0 +1,233 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F17,Undergraduate,CMPSC     8,MIRZA D,A+,50
+F17,Undergraduate,CMPSC     8,MIRZA D,A,76
+F17,Undergraduate,CMPSC     8,MIRZA D,A-,16
+F17,Undergraduate,CMPSC     8,MIRZA D,B+,12
+F17,Undergraduate,CMPSC     8,MIRZA D,B,18
+F17,Undergraduate,CMPSC     8,MIRZA D,B-,7
+F17,Undergraduate,CMPSC     8,MIRZA D,C+,5
+F17,Undergraduate,CMPSC     8,MIRZA D,C,4
+F17,Undergraduate,CMPSC     8,MIRZA D,C-,3
+F17,Undergraduate,CMPSC     8,MIRZA D,D+,2
+F17,Undergraduate,CMPSC     8,MIRZA D,D,2
+F17,Undergraduate,CMPSC     8,MIRZA D,D-,2
+F17,Undergraduate,CMPSC     8,MIRZA D,F,9
+F17,Undergraduate,CMPSC    16,MATNI Z A,A+,2
+F17,Undergraduate,CMPSC    16,MATNI Z A,A,57
+F17,Undergraduate,CMPSC    16,MATNI Z A,A-,23
+F17,Undergraduate,CMPSC    16,MATNI Z A,B+,17
+F17,Undergraduate,CMPSC    16,MATNI Z A,B,26
+F17,Undergraduate,CMPSC    16,MATNI Z A,B-,9
+F17,Undergraduate,CMPSC    16,MATNI Z A,C+,10
+F17,Undergraduate,CMPSC    16,MATNI Z A,C,13
+F17,Undergraduate,CMPSC    16,MATNI Z A,C-,4
+F17,Undergraduate,CMPSC    16,MATNI Z A,D,11
+F17,Undergraduate,CMPSC    16,MATNI Z A,F,12
+F17,Undergraduate,CMPSC    24,AGRAWAL D,A+,13
+F17,Undergraduate,CMPSC    24,AGRAWAL D,A,15
+F17,Undergraduate,CMPSC    24,AGRAWAL D,A-,10
+F17,Undergraduate,CMPSC    24,AGRAWAL D,B+,5
+F17,Undergraduate,CMPSC    24,AGRAWAL D,B,4
+F17,Undergraduate,CMPSC    24,AGRAWAL D,B-,1
+F17,Undergraduate,CMPSC    24,AGRAWAL D,C+,2
+F17,Undergraduate,CMPSC    24,AGRAWAL D,C,3
+F17,Undergraduate,CMPSC    24,AGRAWAL D,C-,2
+F17,Undergraduate,CMPSC    24,AGRAWAL D,D,5
+F17,Undergraduate,CMPSC    24,AGRAWAL D,F,7
+F17,Undergraduate,CMPSC    32,COSTANZO C,A+,5
+F17,Undergraduate,CMPSC    32,COSTANZO C,A,29
+F17,Undergraduate,CMPSC    32,COSTANZO C,A-,11
+F17,Undergraduate,CMPSC    32,COSTANZO C,B+,6
+F17,Undergraduate,CMPSC    32,COSTANZO C,B,20
+F17,Undergraduate,CMPSC    32,COSTANZO C,B-,2
+F17,Undergraduate,CMPSC    32,COSTANZO C,C,2
+F17,Undergraduate,CMPSC    32,COSTANZO C,C-,1
+F17,Undergraduate,CMPSC    40,WANG Y W,A+,11
+F17,Undergraduate,CMPSC    40,WANG Y W,A,33
+F17,Undergraduate,CMPSC    40,WANG Y W,A-,24
+F17,Undergraduate,CMPSC    40,WANG Y W,B+,16
+F17,Undergraduate,CMPSC    40,WANG Y W,B,14
+F17,Undergraduate,CMPSC    40,WANG Y W,B-,4
+F17,Undergraduate,CMPSC    40,WANG Y W,C+,1
+F17,Undergraduate,CMPSC    40,WANG Y W,C,3
+F17,Undergraduate,CMPSC    40,WANG Y W,D,1
+F17,Undergraduate,CMPSC    56,CONRAD P T,A+,7
+F17,Undergraduate,CMPSC    56,CONRAD P T,A,44
+F17,Undergraduate,CMPSC    56,CONRAD P T,A-,12
+F17,Undergraduate,CMPSC    56,CONRAD P T,B+,8
+F17,Undergraduate,CMPSC    56,CONRAD P T,B,9
+F17,Undergraduate,CMPSC    56,CONRAD P T,B-,4
+F17,Undergraduate,CMPSC    56,CONRAD P T,C+,3
+F17,Undergraduate,CMPSC    56,CONRAD P T,C,3
+F17,Undergraduate,CMPSC    56,CONRAD P T,C-,1
+F17,Undergraduate,CMPSC    56,CONRAD P T,D+,2
+F17,Undergraduate,CMPSC    56,CONRAD P T,D,1
+F17,Undergraduate,CMPSC    56,CONRAD P T,F,2
+F17,Undergraduate,CMPSC   111,BOCHKOV D,A+,19
+F17,Undergraduate,CMPSC   111,BOCHKOV D,A,15
+F17,Undergraduate,CMPSC   111,BOCHKOV D,A-,10
+F17,Undergraduate,CMPSC   111,BOCHKOV D,B+,3
+F17,Undergraduate,CMPSC   111,BOCHKOV D,B,3
+F17,Undergraduate,CMPSC   111,BOCHKOV D,B-,8
+F17,Undergraduate,CMPSC   111,BOCHKOV D,C+,4
+F17,Undergraduate,CMPSC   111,BOCHKOV D,C,2
+F17,Undergraduate,CMPSC   111,BOCHKOV D,C-,2
+F17,Undergraduate,CMPSC   111,BOCHKOV D,D+,1
+F17,Undergraduate,CMPSC   111,BOCHKOV D,D-,1
+F17,Undergraduate,CMPSC   111,BOCHKOV D,F,3
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,A+,5
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,A,17
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,A-,7
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,B+,13
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,B,4
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,B-,5
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,C,9
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,C-,3
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,D,4
+F17,Undergraduate,CMPSC   130A,COAKLEY C J,F,2
+F17,Undergraduate,CMPSC   130B,SURI S,A+,1
+F17,Undergraduate,CMPSC   130B,SURI S,A,26
+F17,Undergraduate,CMPSC   130B,SURI S,A-,1
+F17,Undergraduate,CMPSC   130B,SURI S,B+,1
+F17,Undergraduate,CMPSC   130B,SURI S,B,22
+F17,Undergraduate,CMPSC   130B,SURI S,B-,1
+F17,Undergraduate,CMPSC   130B,SURI S,C,12
+F17,Undergraduate,CMPSC   130B,SURI S,F,1
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,A+,1
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,A,10
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,A-,3
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,B+,4
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,B,13
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,B-,11
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,C+,3
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,C,19
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,C-,6
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,D+,1
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,D,2
+F17,Undergraduate,CMPSC   138,EGECIOGLU O,F,6
+F17,Undergraduate,CMPSC   153A,BREWER F,A+,2
+F17,Undergraduate,CMPSC   153A,BREWER F,A,1
+F17,Undergraduate,CMPSC   153A,BREWER F,A-,1
+F17,Undergraduate,CMPSC   153A,BREWER F,B+,1
+F17,Undergraduate,CMPSC   153A,BREWER F,B,1
+F17,Undergraduate,CMPSC   160,BULTAN T,A+,1
+F17,Undergraduate,CMPSC   160,BULTAN T,A,12
+F17,Undergraduate,CMPSC   160,BULTAN T,A-,9
+F17,Undergraduate,CMPSC   160,BULTAN T,B+,3
+F17,Undergraduate,CMPSC   160,BULTAN T,B,7
+F17,Undergraduate,CMPSC   160,BULTAN T,B-,4
+F17,Undergraduate,CMPSC   160,BULTAN T,C+,2
+F17,Undergraduate,CMPSC   160,BULTAN T,C,5
+F17,Undergraduate,CMPSC   160,BULTAN T,C-,1
+F17,Undergraduate,CMPSC   160,BULTAN T,D+,1
+F17,Undergraduate,CMPSC   160,BULTAN T,D-,1
+F17,Undergraduate,CMPSC   174A,SU J,A+,4
+F17,Undergraduate,CMPSC   174A,SU J,A,9
+F17,Undergraduate,CMPSC   174A,SU J,A-,7
+F17,Undergraduate,CMPSC   174A,SU J,B+,12
+F17,Undergraduate,CMPSC   174A,SU J,B,13
+F17,Undergraduate,CMPSC   174A,SU J,B-,5
+F17,Undergraduate,CMPSC   174A,SU J,C+,5
+F17,Undergraduate,CMPSC   174A,SU J,C,4
+F17,Undergraduate,CMPSC   174A,SU J,C-,4
+F17,Undergraduate,CMPSC   174A,SU J,D,1
+F17,Undergraduate,CMPSC   174A,SU J,F,1
+F17,Undergraduate,CMPSC   176A,BELDING E M,A+,5
+F17,Undergraduate,CMPSC   176A,BELDING E M,A,23
+F17,Undergraduate,CMPSC   176A,BELDING E M,A-,3
+F17,Undergraduate,CMPSC   176A,BELDING E M,B+,3
+F17,Undergraduate,CMPSC   176A,BELDING E M,B,28
+F17,Undergraduate,CMPSC   176A,BELDING E M,B-,6
+F17,Undergraduate,CMPSC   176A,BELDING E M,C,7
+F17,Undergraduate,CMPSC   176A,BELDING E M,C-,4
+F17,Undergraduate,CMPSC   176A,BELDING E M,D,3
+F17,Undergraduate,CMPSC   176A,BELDING E M,D-,1
+F17,Undergraduate,CMPSC   176A,BELDING E M,F,3
+F17,Undergraduate,CMPSC   177,TESSARO S M,A+,2
+F17,Undergraduate,CMPSC   177,TESSARO S M,A,10
+F17,Undergraduate,CMPSC   177,TESSARO S M,A-,18
+F17,Undergraduate,CMPSC   177,TESSARO S M,B+,13
+F17,Undergraduate,CMPSC   177,TESSARO S M,B,15
+F17,Undergraduate,CMPSC   177,TESSARO S M,B-,8
+F17,Undergraduate,CMPSC   177,TESSARO S M,C+,2
+F17,Undergraduate,CMPSC   177,TESSARO S M,C,2
+F17,Undergraduate,CMPSC   180,WANG Y F,A+,1
+F17,Undergraduate,CMPSC   180,WANG Y F,A,3
+F17,Undergraduate,CMPSC   180,WANG Y F,A-,4
+F17,Undergraduate,CMPSC   180,WANG Y F,B+,1
+F17,Undergraduate,CMPSC   180,WANG Y F,B,3
+F17,Undergraduate,CMPSC   180,WANG Y F,B-,1
+F17,Undergraduate,CMPSC   180,WANG Y F,C+,1
+F17,Undergraduate,CMPSC   180,WANG Y F,C,1
+F17,Undergraduate,CMPSC   180,WANG Y F,C-,2
+F17,Undergraduate,CMPSC   180,WANG Y F,D,1
+F17,Undergraduate,CMPSC   180,WANG Y F,D-,1
+F17,Undergraduate,CMPSC   180,WANG Y F,F,2
+F17,Undergraduate,CMPSC   184,HOLLERER T,A+,6
+F17,Undergraduate,CMPSC   184,HOLLERER T,A,18
+F17,Undergraduate,CMPSC   184,HOLLERER T,A-,8
+F17,Undergraduate,CMPSC   184,HOLLERER T,B+,4
+F17,Undergraduate,CMPSC   184,HOLLERER T,B,7
+F17,Undergraduate,CMPSC   184,HOLLERER T,B-,4
+F17,Undergraduate,CMPSC   184,HOLLERER T,C+,2
+F17,Undergraduate,CMPSC   184,HOLLERER T,C,1
+F17,Undergraduate,CMPSC   184,HOLLERER T,F,2
+F17,Undergraduate,CMPSC   189A,KRINTZ C,A,53
+F17,Undergraduate,CMPSC   189A,KRINTZ C,C-,1
+F17,Undergraduate,CMPSC   189A,KRINTZ C,F,1
+F17,Undergraduate,CMPSC   190J,CONRAD P T,A+,4
+F17,Undergraduate,CMPSC   190J,CONRAD P T,A,12
+F17,Undergraduate,CMPSC   190J,MIRZA D,A+,4
+F17,Undergraduate,CMPSC   190J,MIRZA D,A,12
+F17,Graduate,CMPSC   211A,CHANDRASEKARA,A,14
+F17,Graduate,CMPSC   240A,YANG T,A+,6
+F17,Graduate,CMPSC   240A,YANG T,A,11
+F17,Graduate,CMPSC   240A,YANG T,A-,2
+F17,Graduate,CMPSC   240A,YANG T,B+,7
+F17,Graduate,CMPSC   240A,YANG T,B,2
+F17,Graduate,CMPSC   270,WOLSKI R M,A+,4
+F17,Graduate,CMPSC   270,WOLSKI R M,A,3
+F17,Graduate,CMPSC   270,WOLSKI R M,A-,14
+F17,Graduate,CMPSC   271,EL ABBADI A,A+,2
+F17,Graduate,CMPSC   271,EL ABBADI A,A,26
+F17,Graduate,CMPSC   271,EL ABBADI A,A-,2
+F17,Graduate,CMPSC   271,EL ABBADI A,B+,2
+F17,Graduate,CMPSC   271,EL ABBADI A,B,3
+F17,Graduate,CMPSC   271,EL ABBADI A,B-,1
+F17,Graduate,CMPSC   279,VIGNA G,A+,5
+F17,Graduate,CMPSC   279,VIGNA G,A,6
+F17,Graduate,CMPSC   279,VIGNA G,A-,5
+F17,Graduate,CMPSC   279,VIGNA G,B+,2
+F17,Graduate,CMPSC   279,VIGNA G,B,1
+F17,Graduate,CMPSC   279,VIGNA G,B-,3
+F17,Graduate,CMPSC   279,VIGNA G,C+,3
+F17,Graduate,CMPSC   291A,BOE B A,A+,10
+F17,Graduate,CMPSC   291A,BOE B A,A,9
+F17,Graduate,CMPSC   291A,BOE B A,B+,3
+F17,Graduate,CMPSC   291A,BOE B A,B-,1
+F17,Graduate,CMPSC   291A,BOE B A,F,1
+F17,Graduate,CMPSC   292F,LIN HUIJIA,A+,2
+F17,Graduate,CMPSC   292F,LIN HUIJIA,A,8
+F17,Graduate,CMPSC   292F,LIN HUIJIA,A-,2
+F17,Graduate,CMPSC   292F,SINGH A K,A+,3
+F17,Graduate,CMPSC   292F,SINGH A K,A,6
+F17,Graduate,CMPSC   292F,SINGH A K,A-,8
+F17,Graduate,CMPSC   292F,SINGH A K,B+,1
+F17,Graduate,CMPSC   292F,SINGH A K,B,1
+F17,Graduate,CMPSC   292F,SINGH A K,F,1
+F17,Graduate,CMPSC   501,TURK M A,S,51
+F17,Graduate,CMPSC   502,TURK M A,S,32
+F17,Graduate,CMPSC   595G,VIGNA G,S,5
+F17,Graduate,CMPSC   595I,WANG Y W,S,32
+F17,Graduate,CMPSC   595I,WANG Y W,U,1
+F17,Graduate,CMPSC   595J,SINGH A K,S,14
+F17,Graduate,CMPSC   596,HARDEKOPF B C,A,5
+F17,Graduate,CMPSC   596,KRINTZ C,S,5
+F17,Graduate,CMPSC   596,KRUEGEL C I,A,5
+F17,Graduate,CMPSC   596,PETZOLD L,A,5
+F17,Graduate,CMPSC   596,SHERWOOD T P,A,5
+F17,Graduate,CMPSC   596,SINGH A K,A,9
+F17,Graduate,CMPSC   596,VIGNA G,A+,7
+F17,Graduate,CMPSC   596,WANG Y W,A,6
+F17,Graduate,CMPSC   596,WANG Y W,A-,3
+F17,Graduate,CMPSC   596,YAN X,A,11

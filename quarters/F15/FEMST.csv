@@ -1,0 +1,88 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F15,Undergraduate,FEMST    20,GARRISON E K,A+,105
+F15,Undergraduate,FEMST    20,GARRISON E K,A,55
+F15,Undergraduate,FEMST    20,GARRISON E K,A-,10
+F15,Undergraduate,FEMST    20,GARRISON E K,B+,17
+F15,Undergraduate,FEMST    20,GARRISON E K,B,7
+F15,Undergraduate,FEMST    20,GARRISON E K,B-,4
+F15,Undergraduate,FEMST    20,GARRISON E K,C+,5
+F15,Undergraduate,FEMST    20,GARRISON E K,C,2
+F15,Undergraduate,FEMST    20,GARRISON E K,D+,2
+F15,Undergraduate,FEMST    20,GARRISON E K,D,2
+F15,Undergraduate,FEMST    20,GARRISON E K,D-,1
+F15,Undergraduate,FEMST    20,GARRISON E K,F,4
+F15,Undergraduate,FEMST    20H,GARRISON E K,A+,11
+F15,Undergraduate,FEMST    20H,GARRISON E K,A,2
+F15,Undergraduate,FEMST    20H,GARRISON E K,A-,2
+F15,Undergraduate,FEMST    40,BOBO J,A+,2
+F15,Undergraduate,FEMST    40,BOBO J,A,19
+F15,Undergraduate,FEMST    40,BOBO J,A-,41
+F15,Undergraduate,FEMST    40,BOBO J,B+,39
+F15,Undergraduate,FEMST    40,BOBO J,B,43
+F15,Undergraduate,FEMST    40,BOBO J,B-,35
+F15,Undergraduate,FEMST    40,BOBO J,C+,8
+F15,Undergraduate,FEMST    40,BOBO J,C,13
+F15,Undergraduate,FEMST    40,BOBO J,C-,6
+F15,Undergraduate,FEMST    40,BOBO J,D+,2
+F15,Undergraduate,FEMST    40,BOBO J,D,2
+F15,Undergraduate,FEMST    40,BOBO J,D-,2
+F15,Undergraduate,FEMST    40,BOBO J,F,7
+F15,Undergraduate,FEMST    40H,BOBO J,A,6
+F15,Undergraduate,FEMST    40H,BOBO J,A-,1
+F15,Undergraduate,FEMST    60,FIGUEROA T,A+,4
+F15,Undergraduate,FEMST    60,FIGUEROA T,A,36
+F15,Undergraduate,FEMST    60,FIGUEROA T,A-,39
+F15,Undergraduate,FEMST    60,FIGUEROA T,B+,30
+F15,Undergraduate,FEMST    60,FIGUEROA T,B,24
+F15,Undergraduate,FEMST    60,FIGUEROA T,B-,15
+F15,Undergraduate,FEMST    60,FIGUEROA T,C+,7
+F15,Undergraduate,FEMST    60,FIGUEROA T,C,4
+F15,Undergraduate,FEMST    60,FIGUEROA T,C-,2
+F15,Undergraduate,FEMST    60,FIGUEROA T,D,1
+F15,Undergraduate,FEMST    60,FIGUEROA T,F,5
+F15,Undergraduate,FEMST    60H,FIGUEROA T,A+,1
+F15,Undergraduate,FEMST    60H,FIGUEROA T,A,5
+F15,Undergraduate,FEMST    60H,FIGUEROA T,A-,2
+F15,Undergraduate,FEMST    60H,FIGUEROA T,B+,1
+F15,Undergraduate,FEMST    60H,FIGUEROA T,C+,1
+F15,Undergraduate,FEMST   180,TOMLINSON B M,A,5
+F15,Undergraduate,FEMST   180,TOMLINSON B M,A-,7
+F15,Undergraduate,FEMST   180,TOMLINSON B M,B+,7
+F15,Undergraduate,FEMST   180,TOMLINSON B M,B,1
+F15,Undergraduate,FEMST   180,TOMLINSON B M,B-,4
+F15,Undergraduate,FEMST   180,TOMLINSON B M,C+,1
+F15,Undergraduate,FEMST   180,TOMLINSON B M,F,1
+F15,Undergraduate,FEMST   182,OAKS L M,A,4
+F15,Undergraduate,FEMST   182,OAKS L M,A-,4
+F15,Undergraduate,FEMST   182,OAKS L M,B+,1
+F15,Undergraduate,FEMST   182,OAKS L M,B,3
+F15,Undergraduate,FEMST   182,OAKS L M,B-,1
+F15,Undergraduate,FEMST   182,OAKS L M,C+,2
+F15,Undergraduate,FEMST   185JA,AFARY J,A,1
+F15,Undergraduate,FEMST   185JA,AFARY J,B+,3
+F15,Undergraduate,FEMST   185JA,AFARY J,B,2
+F15,Undergraduate,FEMST   185JA,AFARY J,B-,1
+F15,Undergraduate,FEMST   185JA,AFARY J,C+,1
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,A+,1
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,A,7
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,A-,5
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,B+,7
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,B,1
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,B-,1
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,C,2
+F15,Undergraduate,FEMST   185NH,DIAMOND-LENOW,F,1
+F15,Undergraduate,FEMST   186BO,BORIS E C,A,6
+F15,Undergraduate,FEMST   186BO,BORIS E C,A-,11
+F15,Undergraduate,FEMST   186BO,BORIS E C,B+,9
+F15,Undergraduate,FEMST   186BO,BORIS E C,B,1
+F15,Undergraduate,FEMST   195HA,BARVOSA E,A+,5
+F15,Undergraduate,FEMST   195HA,BARVOSA E,A,1
+F15,Undergraduate,FEMST   199RA,AFARY J,P,5
+F15,Graduate,FEMST   250TO,TOMLINSON B M,A,11
+F15,Graduate,FEMST   250TO,TOMLINSON B M,A-,2
+F15,Graduate,FEMST   270,OAKS L M,A,7
+F15,Graduate,FEMST   270,OAKS L M,A-,5
+F15,Graduate,FEMST   270,OAKS L M,F,1
+F15,Graduate,FEMST   280A,MILLER-YOUNG,A,4
+F15,Graduate,FEMST   280A,MILLER-YOUNG,A-,1
+F15,Graduate,FEMST   595,MILLER-YOUNG,S,9

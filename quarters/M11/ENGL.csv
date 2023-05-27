@@ -1,0 +1,229 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M11,Undergraduate,ENGL     10,DAVEY D N,A+,1
+M11,Undergraduate,ENGL     10,DAVEY D N,A,6
+M11,Undergraduate,ENGL     10,DAVEY D N,A-,7
+M11,Undergraduate,ENGL     10,DAVEY D N,B+,1
+M11,Undergraduate,ENGL     10,DAVEY D N,B,1
+M11,Undergraduate,ENGL     10,DAVEY D N,B-,1
+M11,Undergraduate,ENGL     10,DAVEY D N,C-,1
+M11,Undergraduate,ENGL     10,GHOSH B,A+,1
+M11,Undergraduate,ENGL     10,GHOSH B,A,16
+M11,Undergraduate,ENGL     10,GHOSH B,A-,14
+M11,Undergraduate,ENGL     10,GHOSH B,B+,11
+M11,Undergraduate,ENGL     10,GHOSH B,B,12
+M11,Undergraduate,ENGL     10,GHOSH B,B-,14
+M11,Undergraduate,ENGL     10,GHOSH B,C+,3
+M11,Undergraduate,ENGL     10,GHOSH B,C,2
+M11,Undergraduate,ENGL     10,GHOSH B,F,4
+M11,Undergraduate,ENGL     15,BECKER C M,A+,1
+M11,Undergraduate,ENGL     15,BECKER C M,A,3
+M11,Undergraduate,ENGL     15,BECKER C M,A-,7
+M11,Undergraduate,ENGL     15,BECKER C M,B+,9
+M11,Undergraduate,ENGL     15,BECKER C M,B,4
+M11,Undergraduate,ENGL     15,BECKER C M,B-,4
+M11,Undergraduate,ENGL     15,BECKER C M,C+,2
+M11,Undergraduate,ENGL     15,BECKER C M,F,3
+M11,Undergraduate,ENGL     50,REED A R,A,7
+M11,Undergraduate,ENGL     50,REED A R,A-,7
+M11,Undergraduate,ENGL     50,REED A R,B+,7
+M11,Undergraduate,ENGL     50,REED A R,B,4
+M11,Undergraduate,ENGL     50,REED A R,B-,3
+M11,Undergraduate,ENGL     50,REED A R,C+,2
+M11,Undergraduate,ENGL     50,REED A R,C,1
+M11,Undergraduate,ENGL    101,MEGNA P J,A,3
+M11,Undergraduate,ENGL    101,MEGNA P J,A-,10
+M11,Undergraduate,ENGL    101,MEGNA P J,B+,6
+M11,Undergraduate,ENGL    101,MEGNA P J,B,5
+M11,Undergraduate,ENGL    101,MEGNA P J,B-,1
+M11,Undergraduate,ENGL    101,MEGNA P J,C+,1
+M11,Undergraduate,ENGL    101,MEGNA P J,C,1
+M11,Undergraduate,ENGL    101,MEGNA P J,F,1
+M11,Undergraduate,ENGL    102,DONELAN J H,A,9
+M11,Undergraduate,ENGL    102,DONELAN J H,A-,7
+M11,Undergraduate,ENGL    102,DONELAN J H,B+,7
+M11,Undergraduate,ENGL    102,DONELAN J H,B,6
+M11,Undergraduate,ENGL    102,DONELAN J H,B-,1
+M11,Undergraduate,ENGL    103A,THOMAS L C,A,3
+M11,Undergraduate,ENGL    103A,THOMAS L C,A-,1
+M11,Undergraduate,ENGL    103A,THOMAS L C,B+,3
+M11,Undergraduate,ENGL    103A,THOMAS L C,B,6
+M11,Undergraduate,ENGL    103A,THOMAS L C,B-,6
+M11,Undergraduate,ENGL    103A,THOMAS L C,C+,2
+M11,Undergraduate,ENGL    103A,THOMAS L C,C,6
+M11,Undergraduate,ENGL    103B,DONNELLY B,A,4
+M11,Undergraduate,ENGL    103B,DONNELLY B,A-,9
+M11,Undergraduate,ENGL    103B,DONNELLY B,B+,3
+M11,Undergraduate,ENGL    103B,DONNELLY B,B,11
+M11,Undergraduate,ENGL    103B,DONNELLY B,B-,1
+M11,Undergraduate,ENGL    103B,DONNELLY B,C+,1
+M11,Undergraduate,ENGL    103B,DONNELLY B,C,2
+M11,Undergraduate,ENGL    103B,DONNELLY B,C-,2
+M11,Undergraduate,ENGL    103B,DONNELLY B,D,1
+M11,Undergraduate,ENGL    103B,DONNELLY B,F,2
+M11,Undergraduate,ENGL    104A,DAVIS C,A+,3
+M11,Undergraduate,ENGL    104A,DAVIS C,A,5
+M11,Undergraduate,ENGL    104A,DAVIS C,A-,4
+M11,Undergraduate,ENGL    104A,DAVIS C,B+,3
+M11,Undergraduate,ENGL    104A,DAVIS C,B,4
+M11,Undergraduate,ENGL    104A,DAVIS C,B-,2
+M11,Undergraduate,ENGL    104A,DAVIS C,C+,1
+M11,Undergraduate,ENGL    104A,DAVIS C,C,1
+M11,Undergraduate,ENGL    104A,DAVIS C,F,1
+M11,Undergraduate,ENGL    104B,DUFFY A E,A,4
+M11,Undergraduate,ENGL    104B,DUFFY A E,A-,12
+M11,Undergraduate,ENGL    104B,DUFFY A E,B+,9
+M11,Undergraduate,ENGL    104B,DUFFY A E,B,3
+M11,Undergraduate,ENGL    104B,DUFFY A E,B-,2
+M11,Undergraduate,ENGL    104B,DUFFY A E,F,1
+M11,Undergraduate,ENGL    105A,HICKS J A,A,4
+M11,Undergraduate,ENGL    105A,HICKS J A,A-,5
+M11,Undergraduate,ENGL    105A,HICKS J A,B+,6
+M11,Undergraduate,ENGL    105A,HICKS J A,B,2
+M11,Undergraduate,ENGL    105A,HICKS J A,B-,4
+M11,Undergraduate,ENGL    105A,HICKS J A,F,2
+M11,Undergraduate,ENGL    105B,MEYER S R,A,5
+M11,Undergraduate,ENGL    105B,MEYER S R,A-,1
+M11,Undergraduate,ENGL    105B,MEYER S R,B+,2
+M11,Undergraduate,ENGL    105B,MEYER S R,B,8
+M11,Undergraduate,ENGL    105B,MEYER S R,B-,1
+M11,Undergraduate,ENGL    105B,MEYER S R,C,2
+M11,Undergraduate,ENGL    105B,MEYER S R,C-,2
+M11,Undergraduate,ENGL    105B,MEYER S R,F,1
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,A,13
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,A-,7
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,B+,4
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,B,3
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,B-,1
+M11,Undergraduate,ENGL    114WR,BOSCAGLI M,F,1
+M11,Undergraduate,ENGL    121,FERNANDES M K,A,3
+M11,Undergraduate,ENGL    121,FERNANDES M K,A-,6
+M11,Undergraduate,ENGL    121,FERNANDES M K,B+,8
+M11,Undergraduate,ENGL    121,FERNANDES M K,B,6
+M11,Undergraduate,ENGL    121,FERNANDES M K,B-,1
+M11,Undergraduate,ENGL    121,FERNANDES M K,D+,1
+M11,Undergraduate,ENGL    121,FERNANDES M K,D-,1
+M11,Undergraduate,ENGL    121,FERNANDES M K,F,1
+M11,Undergraduate,ENGL    122NE,GILMORE T B,A,7
+M11,Undergraduate,ENGL    122NE,GILMORE T B,A-,12
+M11,Undergraduate,ENGL    122NE,GILMORE T B,B+,5
+M11,Undergraduate,ENGL    122NE,GILMORE T B,B,2
+M11,Undergraduate,ENGL    122NE,GILMORE T B,B-,1
+M11,Undergraduate,ENGL    122NE,GILMORE T B,C+,1
+M11,Undergraduate,ENGL    122NE,GILMORE T B,C,1
+M11,Undergraduate,ENGL    124,STAR S J,A+,1
+M11,Undergraduate,ENGL    124,STAR S J,A,5
+M11,Undergraduate,ENGL    124,STAR S J,A-,10
+M11,Undergraduate,ENGL    124,STAR S J,B+,1
+M11,Undergraduate,ENGL    124,STAR S J,B,4
+M11,Undergraduate,ENGL    124,STAR S J,B-,1
+M11,Undergraduate,ENGL    124,STAR S J,C+,1
+M11,Undergraduate,ENGL    124,STAR S J,C,2
+M11,Undergraduate,ENGL    124,STAR S J,F,2
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,A+,1
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,A,5
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,A-,9
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,B+,3
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,B,3
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,B-,1
+M11,Undergraduate,ENGL    128PH,HEHMEYER J P,F,1
+M11,Undergraduate,ENGL    129,PHILLIPS A D,A+,2
+M11,Undergraduate,ENGL    129,PHILLIPS A D,A,1
+M11,Undergraduate,ENGL    129,PHILLIPS A D,A-,2
+M11,Undergraduate,ENGL    129,PHILLIPS A D,B+,1
+M11,Undergraduate,ENGL    129,PHILLIPS A D,B,4
+M11,Undergraduate,ENGL    129,PHILLIPS A D,C,1
+M11,Undergraduate,ENGL    129,PHILLIPS A D,F,2
+M11,Undergraduate,ENGL    134AA,HUANG YU,A,9
+M11,Undergraduate,ENGL    134AA,HUANG YU,A-,12
+M11,Undergraduate,ENGL    134AA,HUANG YU,B+,2
+M11,Undergraduate,ENGL    134AA,HUANG YU,B,4
+M11,Undergraduate,ENGL    134AA,HUANG YU,B-,1
+M11,Undergraduate,ENGL    134AA,HUANG YU,C,1
+M11,Undergraduate,ENGL    134IB,YANOULA A,A+,1
+M11,Undergraduate,ENGL    134IB,YANOULA A,A,1
+M11,Undergraduate,ENGL    134IB,YANOULA A,A-,6
+M11,Undergraduate,ENGL    134IB,YANOULA A,B+,2
+M11,Undergraduate,ENGL    134IB,YANOULA A,B,4
+M11,Undergraduate,ENGL    134IB,YANOULA A,B-,1
+M11,Undergraduate,ENGL    140,PECCHENINO D,A,3
+M11,Undergraduate,ENGL    140,PECCHENINO D,A-,5
+M11,Undergraduate,ENGL    140,PECCHENINO D,B+,5
+M11,Undergraduate,ENGL    140,PECCHENINO D,B,10
+M11,Undergraduate,ENGL    140,PECCHENINO D,B-,5
+M11,Undergraduate,ENGL    140,PECCHENINO D,C+,1
+M11,Undergraduate,ENGL    140,PECCHENINO D,C,1
+M11,Undergraduate,ENGL    140,PECCHENINO D,F,1
+M11,Undergraduate,ENGL    150,SATRIS M D,B+,3
+M11,Undergraduate,ENGL    150,SATRIS M D,B,1
+M11,Undergraduate,ENGL    150,SATRIS M D,B-,1
+M11,Undergraduate,ENGL    150,SATRIS M D,C+,2
+M11,Undergraduate,ENGL    150,SATRIS M D,F,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,A+,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,A,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,A-,5
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,B,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,B-,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,C+,2
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,C,1
+M11,Undergraduate,ENGL    151JA,TANG-QUAN S K,F,2
+M11,Undergraduate,ENGL    162,PALMER M E,A,8
+M11,Undergraduate,ENGL    162,PALMER M E,A-,4
+M11,Undergraduate,ENGL    162,PALMER M E,B+,5
+M11,Undergraduate,ENGL    162,PALMER M E,B,5
+M11,Undergraduate,ENGL    162,PALMER M E,B-,1
+M11,Undergraduate,ENGL    162,PALMER M E,F,1
+M11,Undergraduate,ENGL    165DL,BOYD R A,A,8
+M11,Undergraduate,ENGL    165DL,BOYD R A,A-,5
+M11,Undergraduate,ENGL    165DL,BOYD R A,B+,9
+M11,Undergraduate,ENGL    165DL,BOYD R A,B,5
+M11,Undergraduate,ENGL    165DL,BOYD R A,B-,4
+M11,Undergraduate,ENGL    165DL,BOYD R A,C,1
+M11,Undergraduate,ENGL    165DL,BOYD R A,C-,1
+M11,Undergraduate,ENGL    165DL,BOYD R A,F,2
+M11,Undergraduate,ENGL    165JT,RUSS T M,A,7
+M11,Undergraduate,ENGL    165JT,RUSS T M,A-,9
+M11,Undergraduate,ENGL    165JT,RUSS T M,B+,5
+M11,Undergraduate,ENGL    165JT,RUSS T M,B,1
+M11,Undergraduate,ENGL    165JT,RUSS T M,B-,3
+M11,Undergraduate,ENGL    165JT,RUSS T M,F,1
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,A+,2
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,A,6
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,A-,7
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,B,2
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,B-,1
+M11,Undergraduate,ENGL    165LF,CONG-HUYEN A,C-,1
+M11,Undergraduate,ENGL    187AG,SATRIS M D,A+,1
+M11,Undergraduate,ENGL    187AG,SATRIS M D,A,2
+M11,Undergraduate,ENGL    187AG,SATRIS M D,A-,4
+M11,Undergraduate,ENGL    187AG,SATRIS M D,B+,3
+M11,Undergraduate,ENGL    187AG,SATRIS M D,B-,4
+M11,Undergraduate,ENGL    187AG,SATRIS M D,C+,1
+M11,Undergraduate,ENGL    187AG,SATRIS M D,C-,2
+M11,Undergraduate,ENGL    187AG,SATRIS M D,F,3
+M11,Undergraduate,ENGL    191,BRENNAN S E,A,9
+M11,Undergraduate,ENGL    191,BRENNAN S E,A-,7
+M11,Undergraduate,ENGL    191,BRENNAN S E,B+,2
+M11,Undergraduate,ENGL    191,BRENNAN S E,B,6
+M11,Undergraduate,ENGL    191,BRENNAN S E,C-,1
+M11,Undergraduate,ENGL    191,BRENNAN S E,F,1
+M11,Undergraduate,ENGL    192,BRENNAN S E,A,15
+M11,Undergraduate,ENGL    192,BRENNAN S E,A-,2
+M11,Undergraduate,ENGL    192,BRENNAN S E,B+,7
+M11,Undergraduate,ENGL    192,BRENNAN S E,B,2
+M11,Undergraduate,ENGL    192,BRENNAN S E,B-,1
+M11,Undergraduate,ENGL    192,BRENNAN S E,C+,1
+M11,Undergraduate,ENGL    192,BRENNAN S E,F,1
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,A,6
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,A-,5
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,B+,3
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,B,9
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,B-,5
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,C+,1
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,C,2
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,C-,1
+M11,Undergraduate,ENGL    193,POKORNOWSKI S,F,2
+M11,Undergraduate,ENGL    197,NEBEKER E A,A,6
+M11,Undergraduate,ENGL    197,NEBEKER E A,A-,7
+M11,Undergraduate,ENGL    197,NEBEKER E A,B+,4
+M11,Undergraduate,ENGL    197,NEBEKER E A,B,4
+M11,Undergraduate,ENGL    197,NEBEKER E A,C,1

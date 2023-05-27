@@ -1,0 +1,200 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,ED      111,OKAMOTO Y,A+,1
+W16,Undergraduate,ED      111,OKAMOTO Y,A,35
+W16,Undergraduate,ED      111,OKAMOTO Y,A-,14
+W16,Undergraduate,ED      111,OKAMOTO Y,B+,2
+W16,Undergraduate,ED      111,OKAMOTO Y,B,4
+W16,Undergraduate,ED      111,OKAMOTO Y,B-,1
+W16,Undergraduate,ED      111,OKAMOTO Y,C-,1
+W16,Undergraduate,ED      111,OKAMOTO Y,F,1
+W16,Undergraduate,ED      121,BLACKWELL K S,A,22
+W16,Undergraduate,ED      121,BLACKWELL K S,D+,1
+W16,Undergraduate,ED      122,BLACKWELL K S,P,37
+W16,Undergraduate,ED      122,BLACKWELL K S,NP,2
+W16,Undergraduate,ED      123,RIOS R M,A+,9
+W16,Undergraduate,ED      123,RIOS R M,A,53
+W16,Undergraduate,ED      123,RIOS R M,A-,24
+W16,Undergraduate,ED      123,RIOS R M,B+,10
+W16,Undergraduate,ED      123,RIOS R M,B,5
+W16,Undergraduate,ED      123,RIOS R M,B-,1
+W16,Undergraduate,ED      123,RIOS R M,C+,1
+W16,Undergraduate,ED      123,RIOS R M,C,3
+W16,Undergraduate,ED      124,DURAN R P,A,18
+W16,Undergraduate,ED      124,DURAN R P,A-,3
+W16,Undergraduate,ED      124,DURAN R P,B+,1
+W16,Undergraduate,ED      124,DURAN R P,B,1
+W16,Undergraduate,ED      125,RALEY J D,A,105
+W16,Undergraduate,ED      125,RALEY J D,A-,39
+W16,Undergraduate,ED      125,RALEY J D,B+,37
+W16,Undergraduate,ED      125,RALEY J D,B,37
+W16,Undergraduate,ED      125,RALEY J D,B-,10
+W16,Undergraduate,ED      125,RALEY J D,C+,4
+W16,Undergraduate,ED      125,RALEY J D,C,4
+W16,Undergraduate,ED      125,RALEY J D,C-,4
+W16,Undergraduate,ED      125,RALEY J D,D,1
+W16,Undergraduate,ED      125,RALEY J D,F,3
+W16,Undergraduate,ED      130,OGRAIN C M,A,2
+W16,Undergraduate,ED      130,OGRAIN C M,A-,6
+W16,Undergraduate,ED      130,OGRAIN C M,B+,5
+W16,Undergraduate,ED      130,OGRAIN C M,B,2
+W16,Undergraduate,ED      130,OGRAIN C M,C,3
+W16,Undergraduate,ED      131,JOHNSON S K,A+,3
+W16,Undergraduate,ED      131,JOHNSON S K,A,7
+W16,Undergraduate,ED      131,JOHNSON S K,A-,2
+W16,Undergraduate,ED      131,JOHNSON S K,B,1
+W16,Undergraduate,ED      132,ARYA D J,A+,1
+W16,Undergraduate,ED      132,ARYA D J,A,7
+W16,Undergraduate,ED      134,OGRAIN C M,A,5
+W16,Undergraduate,ED      134,OGRAIN C M,A-,7
+W16,Undergraduate,ED      134,OGRAIN C M,B+,4
+W16,Undergraduate,ED      134,OGRAIN C M,B,2
+W16,Undergraduate,ED      134,OGRAIN C M,B-,1
+W16,Undergraduate,ED      134,OGRAIN C M,C+,3
+W16,Undergraduate,ED      134,OGRAIN C M,C,2
+W16,Undergraduate,ED      173,LUBACH D W,A,66
+W16,Undergraduate,ED      173,LUBACH D W,A-,18
+W16,Undergraduate,ED      173,LUBACH D W,B+,3
+W16,Undergraduate,ED      173,LUBACH D W,B,3
+W16,Undergraduate,ED      173,LUBACH D W,B-,1
+W16,Undergraduate,ED      173,LUBACH D W,C-,1
+W16,Undergraduate,ED      173,LUBACH D W,D,1
+W16,Undergraduate,ED      173,LUBACH D W,F,3
+W16,Undergraduate,ED      176B,MORAN A S,A,29
+W16,Undergraduate,ED      176B,MORAN A S,A-,2
+W16,Undergraduate,ED      176B,MORAN A S,B+,1
+W16,Undergraduate,ED      190,KOEGEL R L,A+,25
+W16,Undergraduate,ED      190,KOEGEL R L,A,41
+W16,Undergraduate,ED      190,KOEGEL R L,A-,21
+W16,Undergraduate,ED      190,KOEGEL R L,B+,9
+W16,Undergraduate,ED      190,KOEGEL R L,B,2
+W16,Undergraduate,ED      190,KOEGEL R L,B-,3
+W16,Undergraduate,ED      190,KOEGEL R L,C+,1
+W16,Undergraduate,ED      191W,SHISHIM M D,A,10
+W16,Undergraduate,ED      191W,SHISHIM M D,A-,18
+W16,Undergraduate,ED      191W,SHISHIM M D,B+,17
+W16,Undergraduate,ED      191W,SHISHIM M D,B,23
+W16,Undergraduate,ED      191W,SHISHIM M D,B-,5
+W16,Undergraduate,ED      191W,SHISHIM M D,C+,2
+W16,Undergraduate,ED      191W,SHISHIM M D,C,1
+W16,Undergraduate,ED      191W,SHISHIM M D,F,1
+W16,Undergraduate,ED      197,DEWAR T J,A,9
+W16,Undergraduate,ED      197,DEWAR T J,A-,6
+W16,Undergraduate,ED      197,DEWAR T J,B+,3
+W16,Undergraduate,ED      197,DEWAR T J,B,7
+W16,Undergraduate,ED      199,DURAN R P,A,5
+W16,Undergraduate,ED      199RA,HARLOW D B,A,5
+W16,Undergraduate,ED      199RA,KOEGEL R L,A,5
+W16,Undergraduate,ED      199RA,KOEGEL R L,A-,2
+W16,Undergraduate,ED      199RA,KOEGEL R L,B,1
+W16,Undergraduate,ED      199RA,KYRATZIS A,A,5
+W16,Undergraduate,ED      199RA,NYLUND K L,A,6
+W16,Undergraduate,ED      199RA,RIOS R M,A,26
+W16,Undergraduate,ED      199RA,ROMO L F,A,12
+W16,Undergraduate,ED      199RA,SINGER G H S,A+,4
+W16,Graduate,ED      201F,NYLUND K L,S,8
+W16,Graduate,ED      209D,OKAMOTO Y,S,8
+W16,Graduate,ED      210D,KYRATZIS A,A,3
+W16,Graduate,ED      210D,KYRATZIS A,A-,1
+W16,Graduate,ED      210D,KYRATZIS A,S,1
+W16,Graduate,ED      210E,BAZERMAN C,A,11
+W16,Graduate,ED      212,MAUL A E,S,7
+W16,Graduate,ED      212,MAUL A E,U,1
+W16,Graduate,ED      214B,KIA-KEATING B,A+,12
+W16,Graduate,ED      214B,KIA-KEATING B,A,17
+W16,Graduate,ED      214B,KIA-KEATING B,A-,1
+W16,Graduate,ED      214B,KIA-KEATING B,B,1
+W16,Graduate,ED      215B,MARCOULIDES G,A,1
+W16,Graduate,ED      215B,MARCOULIDES G,A-,2
+W16,Graduate,ED      215B,MARCOULIDES G,B,2
+W16,Graduate,ED      216B,NYLUND K L,A+,3
+W16,Graduate,ED      216B,NYLUND K L,A,11
+W16,Graduate,ED      216B,NYLUND K L,B+,4
+W16,Graduate,ED      216C,MAUL A E,A+,1
+W16,Graduate,ED      216C,MAUL A E,A,2
+W16,Graduate,ED      216C,MAUL A E,S,9
+W16,Graduate,ED      221B,BIANCHINI J A,A+,3
+W16,Graduate,ED      221B,BIANCHINI J A,A,9
+W16,Graduate,ED      221B,BIANCHINI J A,A-,1
+W16,Graduate,ED      221B,HADDOW G,A+,5
+W16,Graduate,ED      221B,HADDOW G,A,1
+W16,Graduate,ED      221D,GREEN J L,A+,2
+W16,Graduate,ED      221D,GREEN J L,A,5
+W16,Graduate,ED      222D,SINGER G H S,A+,1
+W16,Graduate,ED      222D,SINGER G H S,A,7
+W16,Graduate,ED      228C,FEDDERS A,A+,4
+W16,Graduate,ED      228C,FEDDERS A,A,4
+W16,Graduate,ED      228C,FEDDERS A,A-,1
+W16,Graduate,ED      229C,SLOAN T F,S,9
+W16,Graduate,ED      229D,FEDDERS A,A+,4
+W16,Graduate,ED      229D,FEDDERS A,A,4
+W16,Graduate,ED      229D,FEDDERS A,A-,1
+W16,Graduate,ED      242A,CONLEY S,A,8
+W16,Graduate,ED      242A,CONLEY S,A-,1
+W16,Graduate,ED      250A,CONLEY S,A,6
+W16,Graduate,ED      250B,GOTTFRIED M A,A,4
+W16,Graduate,ED      250B,GOTTFRIED M A,A-,1
+W16,Graduate,ED      253D,BAZERMAN C,A,6
+W16,Graduate,ED      253D,HARLOW D B,A,4
+W16,Graduate,ED      253D,HARLOW D B,S,2
+W16,Graduate,ED      265B,OXELSON E M,S,75
+W16,Graduate,ED      265B,RALEY J D,S,75
+W16,Graduate,ED      265B,SCALZO J N,S,75
+W16,Graduate,ED      265B,SINGER G H S,S,9
+W16,Graduate,ED      272,COOK-GUMPERZ,A+,1
+W16,Graduate,ED      272,COOK-GUMPERZ,A,8
+W16,Graduate,ED      272,CURTIN M L,A+,1
+W16,Graduate,ED      272,CURTIN M L,A,8
+W16,Graduate,ED      276,DURAN R P,A,9
+W16,Graduate,ED      322,MISHLER T R,S,14
+W16,Graduate,ED      322,WHITAKER D R,S,19
+W16,Graduate,ED      323W,HARVEY V A,S,43
+W16,Graduate,ED      340,SLOAN T F,S,33
+W16,Graduate,ED      343,SLOAN T F,S,43
+W16,Graduate,ED      360W,SCALZO J N,S,42
+W16,Graduate,ED      361W,SCALZO J N,S,27
+W16,Graduate,ED      361W,SIMON K,S,16
+W16,Graduate,ED      363,MORAN A S,A,39
+W16,Graduate,ED      363,MORAN A S,A-,4
+W16,Graduate,ED      364,WANG M,A,11
+W16,Graduate,ED      370,MORALES E L,S,5
+W16,Graduate,ED      370,NAIMAN D G,S,5
+W16,Graduate,ED      370,OXELSON E M,S,7
+W16,Graduate,ED      370,SLOAN T F,S,6
+W16,Graduate,ED      370,WHITAKER D R,S,7
+W16,Graduate,ED      596,DURAN R P,A,1
+W16,Graduate,ED      596,DURAN R P,S,4
+W16,Graduate,ED      596,GOTTFRIED M A,A,5
+W16,Graduate,ED      599,BAZERMAN C,S,6
+W16,Graduate,ED      599,GERBER M M,S,5
+W16,Graduate,ED   E  341,SLOAN T F,S,17
+W16,Graduate,ED   E  371,DEWAR T J,S,17
+W16,Graduate,ED   HSS320W,KOK O N,S,34
+W16,Graduate,ED   HSS341,SLOAN T F,S,12
+W16,Graduate,ED   HSS371,ESTABROOK J A,S,12
+W16,Graduate,ED   L  321W,BLACKWELL K S,A,28
+W16,Graduate,ED   L  321W,BLACKWELL K S,B+,1
+W16,Graduate,ED   L  321W,SIMON K,A,14
+W16,Graduate,ED   LA 320W,WHITAKER D R,A+,7
+W16,Graduate,ED   LA 320W,WHITAKER D R,A,21
+W16,Graduate,ED   LA 320W,WHITAKER D R,A-,9
+W16,Graduate,ED   LA 320W,WHITAKER D R,B+,2
+W16,Graduate,ED   LA 320W,WHITAKER D R,B,2
+W16,Graduate,ED   M  320,CARLYLE A M,A,1
+W16,Graduate,ED   M  320,CARLYLE A M,A-,2
+W16,Graduate,ED   M  320,CARLYLE A M,B+,8
+W16,Graduate,ED   M  320,CARLYLE A M,B,8
+W16,Graduate,ED   M  320,MEANS J M,A,2
+W16,Graduate,ED   M  320,MEANS J M,A-,5
+W16,Graduate,ED   M  320,MEANS J M,B+,5
+W16,Graduate,ED   M  320,MEANS J M,B,2
+W16,Graduate,ED   S  320,HARLOW D B,A,31
+W16,Graduate,ED   S  320,HARLOW D B,A-,2
+W16,Graduate,ED   S  341,SLOAN T F,S,11
+W16,Graduate,ED   S  371,LUBCHENCO P J,S,11
+W16,Undergraduate,HIST    135B,EDGAR A L,A,7
+W16,Undergraduate,HIST    135B,EDGAR A L,A-,12
+W16,Undergraduate,HIST    135B,EDGAR A L,B+,11
+W16,Undergraduate,HIST    135B,EDGAR A L,B,6
+W16,Undergraduate,HIST    135B,EDGAR A L,B-,1
+W16,Undergraduate,HIST    135B,EDGAR A L,D,2
+W16,Undergraduate,HIST    135B,EDGAR A L,F,1

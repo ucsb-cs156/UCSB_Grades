@@ -1,0 +1,186 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W15,Graduate,COMM    213,METZGER M J,A,8
+W15,Graduate,COMM    213,METZGER M J,A-,4
+W15,Graduate,EEMB    509,MELACK J M,A,16
+W15,Graduate,ESM     202,MELACK J M,A+,2
+W15,Graduate,ESM     202,MELACK J M,A,26
+W15,Graduate,ESM     202,MELACK J M,A-,26
+W15,Graduate,ESM     202,MELACK J M,B+,27
+W15,Graduate,ESM     202,MELACK J M,B,7
+W15,Undergraduate,GLOBL   130,MEHTA A S,A+,13
+W15,Undergraduate,GLOBL   130,MEHTA A S,A,21
+W15,Undergraduate,GLOBL   130,MEHTA A S,A-,25
+W15,Undergraduate,GLOBL   130,MEHTA A S,B+,17
+W15,Undergraduate,GLOBL   130,MEHTA A S,B,19
+W15,Undergraduate,GLOBL   130,MEHTA A S,B-,20
+W15,Undergraduate,GLOBL   130,MEHTA A S,C+,13
+W15,Undergraduate,GLOBL   130,MEHTA A S,C,17
+W15,Undergraduate,GLOBL   130,MEHTA A S,C-,13
+W15,Undergraduate,GLOBL   130,MEHTA A S,D+,2
+W15,Undergraduate,GLOBL   130,MEHTA A S,D,11
+W15,Undergraduate,GLOBL   130,MEHTA A S,F,2
+W15,Graduate,GLOBL   236,MEHTA A S,A+,3
+W15,Graduate,GLOBL   236,MEHTA A S,A,4
+W15,Graduate,GLOBL   236,MEHTA A S,A-,2
+W15,Graduate,GLOBL   236,MEHTA A S,F,1
+W15,Undergraduate,HIST      8,MENDEZ S C,A,5
+W15,Undergraduate,HIST      8,MENDEZ S C,A-,9
+W15,Undergraduate,HIST      8,MENDEZ S C,B+,9
+W15,Undergraduate,HIST      8,MENDEZ S C,B,13
+W15,Undergraduate,HIST      8,MENDEZ S C,B-,12
+W15,Undergraduate,HIST      8,MENDEZ S C,C+,16
+W15,Undergraduate,HIST      8,MENDEZ S C,C,13
+W15,Undergraduate,HIST      8,MENDEZ S C,C-,5
+W15,Undergraduate,HIST      8,MENDEZ S C,D+,1
+W15,Undergraduate,HIST      8,MENDEZ S C,D,4
+W15,Undergraduate,HIST      8,MENDEZ S C,F,11
+W15,Undergraduate,HIST    151P,MENDEZ S C,A-,3
+W15,Undergraduate,HIST    151P,MENDEZ S C,B+,1
+W15,Undergraduate,HIST    151P,MENDEZ S C,B,4
+W15,Undergraduate,HIST    151P,MENDEZ S C,B-,1
+W15,Undergraduate,HIST    151P,MENDEZ S C,C-,1
+W15,Undergraduate,HIST    151P,MENDEZ S C,F,3
+W15,Undergraduate,ME        6,SOH H T,A+,3
+W15,Undergraduate,ME        6,SOH H T,A,15
+W15,Undergraduate,ME        6,SOH H T,A-,13
+W15,Undergraduate,ME        6,SOH H T,B+,14
+W15,Undergraduate,ME        6,SOH H T,B,10
+W15,Undergraduate,ME        6,SOH H T,B-,11
+W15,Undergraduate,ME        6,SOH H T,C+,3
+W15,Undergraduate,ME        6,SOH H T,C,6
+W15,Undergraduate,ME        6,SOH H T,C-,4
+W15,Undergraduate,ME        6,SOH H T,D+,1
+W15,Undergraduate,ME        6,SOH H T,F,1
+W15,Undergraduate,ME       12S,CLARK J J,A,25
+W15,Undergraduate,ME       12S,CLARK J J,B+,1
+W15,Undergraduate,ME       12S,CLARK J J,B-,2
+W15,Undergraduate,ME       15,BELTZ G,A+,5
+W15,Undergraduate,ME       15,BELTZ G,A,30
+W15,Undergraduate,ME       15,BELTZ G,A-,13
+W15,Undergraduate,ME       15,BELTZ G,B+,4
+W15,Undergraduate,ME       15,BELTZ G,B,12
+W15,Undergraduate,ME       15,BELTZ G,B-,1
+W15,Undergraduate,ME       15,BELTZ G,C+,4
+W15,Undergraduate,ME       15,BELTZ G,C,3
+W15,Undergraduate,ME       15,BELTZ G,C-,1
+W15,Undergraduate,ME       15,BELTZ G,D,1
+W15,Undergraduate,ME       15,BELTZ G,F,1
+W15,Undergraduate,ME      100,VALENTINE M T,P,15
+W15,Undergraduate,ME      100,VALENTINE M T,NP,1
+W15,Undergraduate,ME      125BE,EISENHOWER B,A+,2
+W15,Undergraduate,ME      125BE,EISENHOWER B,A,3
+W15,Undergraduate,ME      125BE,EISENHOWER B,A-,6
+W15,Undergraduate,ME      125BE,EISENHOWER B,B+,10
+W15,Undergraduate,ME      125BE,EISENHOWER B,B,3
+W15,Undergraduate,ME      125CH,HARE C,A+,1
+W15,Undergraduate,ME      125CH,HARE C,A,17
+W15,Undergraduate,ME      125CH,HARE C,A-,4
+W15,Undergraduate,ME      125CH,HARE C,B+,2
+W15,Undergraduate,ME      125CH,HARE C,B,1
+W15,Undergraduate,ME      125CM,MEINHART C,A,19
+W15,Undergraduate,ME      125CM,MEINHART C,A-,2
+W15,Undergraduate,ME      125CM,MEINHART C,B+,1
+W15,Undergraduate,ME      125CM,MEINHART C,B,4
+W15,Undergraduate,ME      125CM,MEINHART C,B-,1
+W15,Undergraduate,ME      125CM,MEINHART C,C,1
+W15,Undergraduate,ME      141A,PENNATHUR S,A+,2
+W15,Undergraduate,ME      141A,PENNATHUR S,A,2
+W15,Undergraduate,ME      141A,PENNATHUR S,A-,6
+W15,Undergraduate,ME      141A,PENNATHUR S,B+,4
+W15,Undergraduate,ME      141A,PENNATHUR S,B,7
+W15,Undergraduate,ME      141A,PENNATHUR S,B-,3
+W15,Undergraduate,ME      141A,TURNER K L,A+,2
+W15,Undergraduate,ME      141A,TURNER K L,A,2
+W15,Undergraduate,ME      141A,TURNER K L,A-,6
+W15,Undergraduate,ME      141A,TURNER K L,B+,4
+W15,Undergraduate,ME      141A,TURNER K L,B,7
+W15,Undergraduate,ME      141A,TURNER K L,B-,3
+W15,Undergraduate,ME      151B,BENNETT T D,A+,6
+W15,Undergraduate,ME      151B,BENNETT T D,A,8
+W15,Undergraduate,ME      151B,BENNETT T D,A-,10
+W15,Undergraduate,ME      151B,BENNETT T D,B+,8
+W15,Undergraduate,ME      151B,BENNETT T D,B,9
+W15,Undergraduate,ME      151B,BENNETT T D,B-,7
+W15,Undergraduate,ME      151B,BENNETT T D,C+,5
+W15,Undergraduate,ME      151B,BENNETT T D,C,7
+W15,Undergraduate,ME      151B,BENNETT T D,C-,8
+W15,Undergraduate,ME      151B,BENNETT T D,D+,2
+W15,Undergraduate,ME      151B,BENNETT T D,D,3
+W15,Undergraduate,ME      151B,BENNETT T D,F,2
+W15,Undergraduate,ME      152B,PENNATHUR S,A+,5
+W15,Undergraduate,ME      152B,PENNATHUR S,A,4
+W15,Undergraduate,ME      152B,PENNATHUR S,A-,10
+W15,Undergraduate,ME      152B,PENNATHUR S,B+,9
+W15,Undergraduate,ME      152B,PENNATHUR S,B,17
+W15,Undergraduate,ME      152B,PENNATHUR S,B-,8
+W15,Undergraduate,ME      152B,PENNATHUR S,C+,7
+W15,Undergraduate,ME      152B,PENNATHUR S,C,4
+W15,Undergraduate,ME      152B,PENNATHUR S,C-,3
+W15,Undergraduate,ME      152B,PENNATHUR S,D+,1
+W15,Undergraduate,ME      152B,PENNATHUR S,D,1
+W15,Undergraduate,ME      152B,PENNATHUR S,D-,1
+W15,Undergraduate,ME      152B,PENNATHUR S,F,1
+W15,Undergraduate,ME      156B,BEGLEY M R,A+,3
+W15,Undergraduate,ME      156B,BEGLEY M R,A,13
+W15,Undergraduate,ME      156B,BEGLEY M R,A-,11
+W15,Undergraduate,ME      156B,BEGLEY M R,B+,5
+W15,Undergraduate,ME      156B,BEGLEY M R,B,21
+W15,Undergraduate,ME      156B,BEGLEY M R,B-,12
+W15,Undergraduate,ME      156B,BEGLEY M R,C+,10
+W15,Undergraduate,ME      156B,BEGLEY M R,C,6
+W15,Undergraduate,ME      156B,BEGLEY M R,C-,3
+W15,Undergraduate,ME      156B,BEGLEY M R,D,2
+W15,Undergraduate,ME      163,MEZIC I,A+,5
+W15,Undergraduate,ME      163,MEZIC I,A,3
+W15,Undergraduate,ME      163,MEZIC I,A-,12
+W15,Undergraduate,ME      163,MEZIC I,B+,16
+W15,Undergraduate,ME      163,MEZIC I,B,14
+W15,Undergraduate,ME      163,MEZIC I,B-,5
+W15,Undergraduate,ME      163,MEZIC I,C+,7
+W15,Undergraduate,ME      163,MEZIC I,C,6
+W15,Undergraduate,ME      163,MEZIC I,C-,5
+W15,Undergraduate,ME      163,MEZIC I,D+,1
+W15,Undergraduate,ME      163,MEZIC I,D,1
+W15,Undergraduate,ME      163,MEZIC I,F,1
+W15,Undergraduate,ME      189B,BOTHMAN D,A+,4
+W15,Undergraduate,ME      189B,BOTHMAN D,A,53
+W15,Undergraduate,ME      189B,BOTHMAN D,A-,20
+W15,Undergraduate,ME      189B,BOTHMAN D,B+,3
+W15,Undergraduate,ME      189B,BOTHMAN D,B,4
+W15,Undergraduate,ME      197,BOTHMAN D,A,1
+W15,Undergraduate,ME      197,BOTHMAN D,A-,5
+W15,Graduate,ME      200,VALENTINE M T,S,9
+W15,Graduate,ME      210B,PETZOLD L,A+,1
+W15,Graduate,ME      210B,PETZOLD L,A,2
+W15,Graduate,ME      210B,PETZOLD L,A-,2
+W15,Graduate,ME      225MC,VALENTINE M T,A,9
+W15,Graduate,ME      225SO,CAMPAS-RIGAU,A+,2
+W15,Graduate,ME      225SO,CAMPAS-RIGAU,A,3
+W15,Graduate,ME      252A,MEIBURG E H,A+,4
+W15,Graduate,ME      252A,MEIBURG E H,A,1
+W15,Graduate,ME      295,TEEL A R,S,5
+W15,Graduate,ME      596,BULLO F,S,7
+W15,Graduate,ME      596,CAMPAS-RIGAU,S,6
+W15,Graduate,ME      596,PETZOLD L,S,5
+W15,Graduate,ME ST   200B,ENGLISH E D,S,5
+W15,Graduate,PSTAT   220B,MEIRING W,A+,2
+W15,Graduate,PSTAT   220B,MEIRING W,A,5
+W15,Graduate,PSTAT   220B,MEIRING W,A-,5
+W15,Graduate,PSTAT   220B,MEIRING W,B+,6
+W15,Graduate,PSTAT   220B,MEIRING W,B,4
+W15,Graduate,PSTAT   232,MEIRING W,A+,1
+W15,Graduate,PSTAT   232,MEIRING W,A,18
+W15,Graduate,PSTAT   232,MEIRING W,A-,2
+W15,Undergraduate,WRIT      2,MEHLER J J,A+,13
+W15,Undergraduate,WRIT      2,MEHLER J J,A,6
+W15,Undergraduate,WRIT      2,MEHLER J J,A-,6
+W15,Undergraduate,WRIT      2,MEHLER J J,B+,14
+W15,Undergraduate,WRIT      2,MEHLER J J,B,6
+W15,Undergraduate,WRIT      2,MEHLER J J,B-,3
+W15,Undergraduate,WRIT      2,MEHLER J J,C,1
+W15,Undergraduate,WRIT      2,MEHLER J J,F,1
+W15,Undergraduate,WRIT    105R,MEHLER J J,A+,7
+W15,Undergraduate,WRIT    105R,MEHLER J J,A,3
+W15,Undergraduate,WRIT    105R,MEHLER J J,A-,8
+W15,Undergraduate,WRIT    105R,MEHLER J J,B+,2
+W15,Undergraduate,WRIT    105R,MEHLER J J,B-,1

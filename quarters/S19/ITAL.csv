@@ -1,0 +1,129 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,ITAL      1,DE SIMONE T,A+,1
+S19,Undergraduate,ITAL      1,DE SIMONE T,A,7
+S19,Undergraduate,ITAL      1,DE SIMONE T,A-,7
+S19,Undergraduate,ITAL      1,DE SIMONE T,B+,4
+S19,Undergraduate,ITAL      1,DE SIMONE T,B,2
+S19,Undergraduate,ITAL      1,DE SIMONE T,C-,1
+S19,Undergraduate,ITAL      1,DE SIMONE T,D+,1
+S19,Undergraduate,ITAL      1,PATTONE C F,A+,1
+S19,Undergraduate,ITAL      1,PATTONE C F,A,11
+S19,Undergraduate,ITAL      1,PATTONE C F,A-,1
+S19,Undergraduate,ITAL      1,PATTONE C F,B+,3
+S19,Undergraduate,ITAL      1,PATTONE C F,B-,1
+S19,Undergraduate,ITAL      1,PATTONE C F,D,1
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,A+,7
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,A,8
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,A-,2
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,B+,1
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,B,4
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,B-,2
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,C+,2
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,C,2
+S19,Undergraduate,ITAL      2,DAHL SARNELLI,F,1
+S19,Undergraduate,ITAL      2,FIORINA C P,A,8
+S19,Undergraduate,ITAL      2,FIORINA C P,A-,5
+S19,Undergraduate,ITAL      2,FIORINA C P,B+,2
+S19,Undergraduate,ITAL      2,FIORINA C P,B-,1
+S19,Undergraduate,ITAL      2,FIORINA C P,C+,1
+S19,Undergraduate,ITAL      2,FIORINA C P,C-,1
+S19,Undergraduate,ITAL      2,FIORINA C P,F,1
+S19,Undergraduate,ITAL      2HY,PADULA V,A,7
+S19,Undergraduate,ITAL      2HY,PADULA V,A-,3
+S19,Undergraduate,ITAL      2HY,PADULA V,B+,1
+S19,Undergraduate,ITAL      2HY,PADULA V,B,1
+S19,Undergraduate,ITAL      3,BORROMEO C,A+,1
+S19,Undergraduate,ITAL      3,BORROMEO C,A,7
+S19,Undergraduate,ITAL      3,BORROMEO C,A-,6
+S19,Undergraduate,ITAL      3,BORROMEO C,B+,2
+S19,Undergraduate,ITAL      3,BORROMEO C,B,5
+S19,Undergraduate,ITAL      3,CRICKETTE M E,A,5
+S19,Undergraduate,ITAL      3,CRICKETTE M E,A-,2
+S19,Undergraduate,ITAL      3,CRICKETTE M E,B+,5
+S19,Undergraduate,ITAL      3,CRICKETTE M E,B,4
+S19,Undergraduate,ITAL      3,CRICKETTE M E,B-,1
+S19,Undergraduate,ITAL      3,CRICKETTE M E,C+,1
+S19,Undergraduate,ITAL      3,CRICKETTE M E,C,2
+S19,Undergraduate,ITAL      3,CRICKETTE M E,D+,1
+S19,Undergraduate,ITAL      3,CRICKETTE M E,F,1
+S19,Undergraduate,ITAL      3,DE SIMONE T,A,6
+S19,Undergraduate,ITAL      3,DE SIMONE T,A-,5
+S19,Undergraduate,ITAL      3,DE SIMONE T,B+,7
+S19,Undergraduate,ITAL      3,DE SIMONE T,B,5
+S19,Undergraduate,ITAL      3,DE SIMONE T,B-,1
+S19,Undergraduate,ITAL      3,DE SIMONE T,C+,1
+S19,Undergraduate,ITAL      3,DE SIMONE T,F,1
+S19,Undergraduate,ITAL      4,CRICKETTE M E,A+,2
+S19,Undergraduate,ITAL      4,CRICKETTE M E,A,2
+S19,Undergraduate,ITAL      4,CRICKETTE M E,B+,1
+S19,Undergraduate,ITAL      4,CRICKETTE M E,B,2
+S19,Undergraduate,ITAL      4,CRICKETTE M E,B-,3
+S19,Undergraduate,ITAL      4,CRICKETTE M E,C+,3
+S19,Undergraduate,ITAL      4,CRICKETTE M E,C-,1
+S19,Undergraduate,ITAL      4,CRICKETTE M E,D,1
+S19,Undergraduate,ITAL      5,BORROMEO C,A,3
+S19,Undergraduate,ITAL      5,BORROMEO C,A-,2
+S19,Undergraduate,ITAL      5,BORROMEO C,B+,2
+S19,Undergraduate,ITAL      5,BORROMEO C,B,1
+S19,Undergraduate,ITAL      5,BORROMEO C,B-,1
+S19,Undergraduate,ITAL      5,BORROMEO C,C,2
+S19,Undergraduate,ITAL      6,FIORINA C P,A+,3
+S19,Undergraduate,ITAL      6,FIORINA C P,A,5
+S19,Undergraduate,ITAL      6,FIORINA C P,A-,2
+S19,Undergraduate,ITAL      6,FIORINA C P,B+,3
+S19,Undergraduate,ITAL      6,FIORINA C P,B,1
+S19,Undergraduate,ITAL      6,FIORINA C P,B-,3
+S19,Undergraduate,ITAL      6,FIORINA C P,C+,1
+S19,Undergraduate,ITAL      6,FIORINA C P,D+,1
+S19,Undergraduate,ITAL      6,FIORINA C P,D,1
+S19,Undergraduate,ITAL      6,FIORINA C P,D-,1
+S19,Undergraduate,ITAL      6,PADULA V,A+,1
+S19,Undergraduate,ITAL      6,PADULA V,A,7
+S19,Undergraduate,ITAL      6,PADULA V,A-,2
+S19,Undergraduate,ITAL      6,PADULA V,B+,2
+S19,Undergraduate,ITAL      6,PADULA V,B,2
+S19,Undergraduate,ITAL      6,PADULA V,B-,2
+S19,Undergraduate,ITAL      6,PADULA V,C+,1
+S19,Undergraduate,ITAL      8B,DAHL SARNELLI,A+,7
+S19,Undergraduate,ITAL      8B,DAHL SARNELLI,A,3
+S19,Undergraduate,ITAL      8B,DAHL SARNELLI,B+,1
+S19,Undergraduate,ITAL      8B,DAHL SARNELLI,B-,1
+S19,Undergraduate,ITAL     16B,PATTONE C F,A,11
+S19,Undergraduate,ITAL     16B,PATTONE C F,B+,2
+S19,Undergraduate,ITAL     16B,PATTONE C F,C+,3
+S19,Undergraduate,ITAL     20X,FOGU C,A+,7
+S19,Undergraduate,ITAL     20X,FOGU C,A,15
+S19,Undergraduate,ITAL     20X,FOGU C,A-,20
+S19,Undergraduate,ITAL     20X,FOGU C,B+,21
+S19,Undergraduate,ITAL     20X,FOGU C,B,14
+S19,Undergraduate,ITAL     20X,FOGU C,B-,12
+S19,Undergraduate,ITAL     20X,FOGU C,C+,11
+S19,Undergraduate,ITAL     20X,FOGU C,C,6
+S19,Undergraduate,ITAL     20X,FOGU C,C-,2
+S19,Undergraduate,ITAL     20X,FOGU C,D,1
+S19,Undergraduate,ITAL     20X,FOGU C,F,6
+S19,Undergraduate,ITAL    119B,FESTA E,A+,1
+S19,Undergraduate,ITAL    119B,FESTA E,A,1
+S19,Undergraduate,ITAL    119B,FESTA E,A-,4
+S19,Undergraduate,ITAL    124X,FOGU C,A+,2
+S19,Undergraduate,ITAL    124X,FOGU C,A,8
+S19,Undergraduate,ITAL    124X,FOGU C,A-,13
+S19,Undergraduate,ITAL    124X,FOGU C,B+,18
+S19,Undergraduate,ITAL    124X,FOGU C,B,21
+S19,Undergraduate,ITAL    124X,FOGU C,B-,7
+S19,Undergraduate,ITAL    124X,FOGU C,C+,13
+S19,Undergraduate,ITAL    124X,FOGU C,C,3
+S19,Undergraduate,ITAL    124X,FOGU C,C-,1
+S19,Undergraduate,ITAL    124X,FOGU C,D,1
+S19,Undergraduate,ITAL    124X,FOGU C,F,3
+S19,Undergraduate,ITAL    139HX,SNYDER J R,A+,2
+S19,Undergraduate,ITAL    139HX,SNYDER J R,A,4
+S19,Undergraduate,ITAL    139HX,SNYDER J R,A-,8
+S19,Undergraduate,ITAL    139HX,SNYDER J R,B+,4
+S19,Undergraduate,ITAL    139HX,SNYDER J R,B,3
+S19,Undergraduate,ITAL    139HX,SNYDER J R,B-,1
+S19,Undergraduate,ITAL    139HX,SNYDER J R,C+,6
+S19,Undergraduate,ITAL    139HX,SNYDER J R,C,7
+S19,Undergraduate,ITAL    139HX,SNYDER J R,F,5
+S19,Undergraduate,ITAL    195H,SNYDER J R,A+,1
+S19,Undergraduate,ITAL    199,SNYDER J R,B,1

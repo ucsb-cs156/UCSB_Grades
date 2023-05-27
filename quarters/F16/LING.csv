@@ -1,0 +1,169 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F16,Undergraduate,LING      2G,RIGHTMIRE S R,P,15
+F16,Undergraduate,LING      3A,CORONA K D,P,18
+F16,Undergraduate,LING      3A,NICOLAESCU A,P,17
+F16,Undergraduate,LING      3A,NICOLAESCU A,NP,1
+F16,Undergraduate,LING      3A,ROBERTSON J L,P,17
+F16,Undergraduate,LING      3A,ROBERTSON J L,NP,1
+F16,Undergraduate,LING      3A,SMALL A L,P,15
+F16,Undergraduate,LING      3A,SMALL A L,NP,3
+F16,Undergraduate,LING      3A,WESTMACOTT B,P,33
+F16,Undergraduate,LING      3A,WESTMACOTT B,NP,1
+F16,Undergraduate,LING      3B,LASHMET A J,A+,7
+F16,Undergraduate,LING      3B,LASHMET A J,A,8
+F16,Undergraduate,LING      3B,LASHMET A J,A-,3
+F16,Undergraduate,LING      3B,RIGHTMIRE S R,A,15
+F16,Undergraduate,LING      3B,RIGHTMIRE S R,A-,13
+F16,Undergraduate,LING      3B,RIGHTMIRE S R,B+,6
+F16,Undergraduate,LING      3B,RIGHTMIRE S R,B,1
+F16,Undergraduate,LING      3B,RIGHTMIRE S R,D,1
+F16,Undergraduate,LING      3B,ROBERTSON J L,A+,4
+F16,Undergraduate,LING      3B,ROBERTSON J L,A,13
+F16,Undergraduate,LING      3B,ROBERTSON J L,A-,9
+F16,Undergraduate,LING      3B,ROBERTSON J L,B+,5
+F16,Undergraduate,LING      3B,ROBERTSON J L,B,2
+F16,Undergraduate,LING      3B,ROBERTSON J L,B-,1
+F16,Undergraduate,LING      3B,ROBERTSON J L,C+,1
+F16,Undergraduate,LING      3B,ROBERTSON J L,C,1
+F16,Undergraduate,LING      3B,ROBERTSON J L,F,1
+F16,Undergraduate,LING      3C,BOWMAN I K,A,5
+F16,Undergraduate,LING      3C,BOWMAN I K,A-,7
+F16,Undergraduate,LING      3C,BOWMAN I K,B+,9
+F16,Undergraduate,LING      3C,BOWMAN I K,B,7
+F16,Undergraduate,LING      3C,BOWMAN I K,B-,1
+F16,Undergraduate,LING      3C,BOWMAN I K,C+,4
+F16,Undergraduate,LING      3C,CORONA K D,A,4
+F16,Undergraduate,LING      3C,CORONA K D,A-,12
+F16,Undergraduate,LING      3C,CORONA K D,B+,2
+F16,Undergraduate,LING      3C,CORONA K D,B,7
+F16,Undergraduate,LING      3C,CORONA K D,B-,2
+F16,Undergraduate,LING      3C,CORONA K D,C,1
+F16,Undergraduate,LING      3C,CORONA K D,D+,1
+F16,Undergraduate,LING      3C,CORONA K D,F,2
+F16,Undergraduate,LING      4,GOUGH J D,P,15
+F16,Undergraduate,LING      5,GOUGH J D,P,17
+F16,Undergraduate,LING      7,HANSON J L,P,15
+F16,Undergraduate,LING      8,WESTMACOTT B,A,10
+F16,Undergraduate,LING      8,WESTMACOTT B,A-,1
+F16,Undergraduate,LING      8,WESTMACOTT B,B+,3
+F16,Undergraduate,LING      8,WESTMACOTT B,B,1
+F16,Undergraduate,LING     12,LASHMET A J,A+,8
+F16,Undergraduate,LING     12,LASHMET A J,A,12
+F16,Undergraduate,LING     12,LASHMET A J,A-,8
+F16,Undergraduate,LING     12,LASHMET A J,B+,3
+F16,Undergraduate,LING     12,LASHMET A J,B,1
+F16,Undergraduate,LING     12,LASHMET A J,C,1
+F16,Undergraduate,LING     12,NAUGHTON S J,A,17
+F16,Undergraduate,LING     12,NAUGHTON S J,A-,7
+F16,Undergraduate,LING     12,NAUGHTON S J,B+,6
+F16,Undergraduate,LING     12,NAUGHTON S J,B,1
+F16,Undergraduate,LING     12,NAUGHTON S J,B-,1
+F16,Undergraduate,LING     12,NAUGHTON S J,C,1
+F16,Undergraduate,LING     12,NICOLAESCU A,A+,1
+F16,Undergraduate,LING     12,NICOLAESCU A,A,9
+F16,Undergraduate,LING     12,NICOLAESCU A,A-,7
+F16,Undergraduate,LING     12,NICOLAESCU A,B+,5
+F16,Undergraduate,LING     12,NICOLAESCU A,B,7
+F16,Undergraduate,LING     12,NICOLAESCU A,B-,3
+F16,Undergraduate,LING     12,NICOLAESCU A,C+,2
+F16,Undergraduate,LING     12,NICOLAESCU A,C,2
+F16,Undergraduate,LING     20,KENNEDY R A,A+,3
+F16,Undergraduate,LING     20,KENNEDY R A,A,20
+F16,Undergraduate,LING     20,KENNEDY R A,A-,27
+F16,Undergraduate,LING     20,KENNEDY R A,B+,27
+F16,Undergraduate,LING     20,KENNEDY R A,B,34
+F16,Undergraduate,LING     20,KENNEDY R A,B-,26
+F16,Undergraduate,LING     20,KENNEDY R A,C+,10
+F16,Undergraduate,LING     20,KENNEDY R A,C,13
+F16,Undergraduate,LING     20,KENNEDY R A,C-,9
+F16,Undergraduate,LING     20,KENNEDY R A,D+,2
+F16,Undergraduate,LING     20,KENNEDY R A,D,2
+F16,Undergraduate,LING     20,KENNEDY R A,D-,2
+F16,Undergraduate,LING     20,KENNEDY R A,F,16
+F16,Undergraduate,LING     30,NASH C M,A+,4
+F16,Undergraduate,LING     30,NASH C M,A,28
+F16,Undergraduate,LING     30,NASH C M,A-,16
+F16,Undergraduate,LING     30,NASH C M,B+,3
+F16,Undergraduate,LING     30,NASH C M,B,4
+F16,Undergraduate,LING     30,NASH C M,B-,2
+F16,Undergraduate,LING     30,NASH C M,F,1
+F16,Undergraduate,LING     50,NASH C M,A+,4
+F16,Undergraduate,LING     50,NASH C M,A,70
+F16,Undergraduate,LING     50,NASH C M,A-,40
+F16,Undergraduate,LING     50,NASH C M,B+,25
+F16,Undergraduate,LING     50,NASH C M,B,15
+F16,Undergraduate,LING     50,NASH C M,B-,9
+F16,Undergraduate,LING     50,NASH C M,C+,2
+F16,Undergraduate,LING     50,NASH C M,C,4
+F16,Undergraduate,LING     50,NASH C M,D+,3
+F16,Undergraduate,LING     50,NASH C M,D,1
+F16,Undergraduate,LING     50,NASH C M,F,2
+F16,Undergraduate,LING    101,KENNEDY R A,A+,2
+F16,Undergraduate,LING    101,KENNEDY R A,A,7
+F16,Undergraduate,LING    101,KENNEDY R A,A-,6
+F16,Undergraduate,LING    101,KENNEDY R A,B+,3
+F16,Undergraduate,LING    101,KENNEDY R A,B,3
+F16,Undergraduate,LING    101,KENNEDY R A,B-,5
+F16,Undergraduate,LING    101,KENNEDY R A,C+,5
+F16,Undergraduate,LING    101,KENNEDY R A,C-,1
+F16,Undergraduate,LING    101,KENNEDY R A,F,3
+F16,Undergraduate,LING    104,GRIES S T,A,4
+F16,Undergraduate,LING    104,GRIES S T,A-,3
+F16,Undergraduate,LING    104,GRIES S T,B+,7
+F16,Undergraduate,LING    104,GRIES S T,F,1
+F16,Undergraduate,LING    106,KATSIKA A,A+,1
+F16,Undergraduate,LING    106,KATSIKA A,A,10
+F16,Undergraduate,LING    106,KATSIKA A,A-,5
+F16,Undergraduate,LING    106,KATSIKA A,B+,17
+F16,Undergraduate,LING    106,KATSIKA A,B,12
+F16,Undergraduate,LING    106,KATSIKA A,B-,11
+F16,Undergraduate,LING    106,KATSIKA A,C+,8
+F16,Undergraduate,LING    106,KATSIKA A,C,5
+F16,Undergraduate,LING    106,KATSIKA A,C-,5
+F16,Undergraduate,LING    106,KATSIKA A,D,1
+F16,Undergraduate,LING    106,KATSIKA A,F,6
+F16,Undergraduate,LING    132,ZIMMAN L,A+,7
+F16,Undergraduate,LING    132,ZIMMAN L,A,36
+F16,Undergraduate,LING    132,ZIMMAN L,A-,29
+F16,Undergraduate,LING    132,ZIMMAN L,B+,18
+F16,Undergraduate,LING    132,ZIMMAN L,B,30
+F16,Undergraduate,LING    132,ZIMMAN L,B-,13
+F16,Undergraduate,LING    132,ZIMMAN L,C+,7
+F16,Undergraduate,LING    132,ZIMMAN L,C,7
+F16,Undergraduate,LING    132,ZIMMAN L,C-,1
+F16,Undergraduate,LING    132,ZIMMAN L,F,5
+F16,Undergraduate,LING    136,BUCHOLTZ M H,A+,9
+F16,Undergraduate,LING    136,BUCHOLTZ M H,A,14
+F16,Undergraduate,LING    136,BUCHOLTZ M H,A-,5
+F16,Undergraduate,LING    136,BUCHOLTZ M H,B+,4
+F16,Undergraduate,LING    136,BUCHOLTZ M H,B,9
+F16,Undergraduate,LING    136,BUCHOLTZ M H,B-,3
+F16,Undergraduate,LING    136,BUCHOLTZ M H,C+,4
+F16,Undergraduate,LING    136,BUCHOLTZ M H,C,1
+F16,Undergraduate,LING    136,BUCHOLTZ M H,F,4
+F16,Undergraduate,LING    141,GOUGH J D,A+,4
+F16,Undergraduate,LING    141,GOUGH J D,A,6
+F16,Undergraduate,LING    141,GOUGH J D,A-,8
+F16,Undergraduate,LING    141,GOUGH J D,B+,4
+F16,Undergraduate,LING    141,GOUGH J D,B-,3
+F16,Undergraduate,LING    141,GOUGH J D,C+,1
+F16,Undergraduate,LING    185,MOSCOSO DEL P,A+,18
+F16,Undergraduate,LING    185,MOSCOSO DEL P,A,10
+F16,Undergraduate,LING    185,MOSCOSO DEL P,A-,21
+F16,Undergraduate,LING    185,MOSCOSO DEL P,B+,13
+F16,Undergraduate,LING    185,MOSCOSO DEL P,B,8
+F16,Undergraduate,LING    185,MOSCOSO DEL P,B-,8
+F16,Undergraduate,LING    185,MOSCOSO DEL P,C+,4
+F16,Undergraduate,LING    185,MOSCOSO DEL P,C,5
+F16,Undergraduate,LING    185,MOSCOSO DEL P,C-,6
+F16,Undergraduate,LING    185,MOSCOSO DEL P,F,2
+F16,Graduate,LING    212,DU BOIS J W,A+,1
+F16,Graduate,LING    212,DU BOIS J W,A,4
+F16,Graduate,LING    212,DU BOIS J W,A-,2
+F16,Graduate,LING    212,DU BOIS J W,B+,2
+F16,Graduate,LING    212,DU BOIS J W,B,1
+F16,Graduate,LING    252A,CAMPBELL E W,A,12
+F16,Graduate,LING    261,MITHUN M,A+,1
+F16,Graduate,LING    261,MITHUN M,A,11
+F16,Graduate,LING    272,MITHUN M,S,17
+F16,Graduate,LING    500,GORDON M K,S,5

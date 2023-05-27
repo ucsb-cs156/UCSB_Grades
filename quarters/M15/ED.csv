@@ -1,0 +1,107 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M15,Undergraduate,ED      109M,SHISHIM M D,P,59
+M15,Undergraduate,ED      111,BRAVO M,A+,5
+M15,Undergraduate,ED      111,BRAVO M,A,4
+M15,Undergraduate,ED      111,BRAVO M,A-,7
+M15,Undergraduate,ED      111,BRAVO M,B+,4
+M15,Undergraduate,ED      111,BRAVO M,B,3
+M15,Undergraduate,ED      111,BRAVO M,B-,1
+M15,Undergraduate,ED      111,BRAVO M,C,1
+M15,Undergraduate,ED      111,HALLOWELL D A,A+,3
+M15,Undergraduate,ED      111,HALLOWELL D A,A,3
+M15,Undergraduate,ED      111,HALLOWELL D A,A-,4
+M15,Undergraduate,ED      111,HALLOWELL D A,B+,1
+M15,Undergraduate,ED      111,HALLOWELL D A,B,1
+M15,Undergraduate,ED      111,HALLOWELL D A,C+,1
+M15,Undergraduate,ED      111,HALLOWELL D A,C,1
+M15,Undergraduate,ED      111,HALLOWELL D A,F,1
+M15,Undergraduate,ED      111,RIOS R M,A+,4
+M15,Undergraduate,ED      111,RIOS R M,A,16
+M15,Undergraduate,ED      111,RIOS R M,B+,2
+M15,Undergraduate,ED      111,RIOS R M,C+,1
+M15,Undergraduate,ED      111,RIOS R M,F,2
+M15,Undergraduate,ED      117M,FEMATT V L,P,26
+M15,Undergraduate,ED      123,CORELLA MORAL,A+,7
+M15,Undergraduate,ED      123,CORELLA MORAL,A,11
+M15,Undergraduate,ED      123,CORELLA MORAL,A-,2
+M15,Undergraduate,ED      123,LEE W A,A+,11
+M15,Undergraduate,ED      123,LEE W A,A,3
+M15,Undergraduate,ED      123,LEE W A,B+,2
+M15,Undergraduate,ED      123,LEE W A,B-,1
+M15,Undergraduate,ED      123,SANDOVAL N I,A+,1
+M15,Undergraduate,ED      123,SANDOVAL N I,A,20
+M15,Undergraduate,ED      123,SANDOVAL N I,A-,1
+M15,Undergraduate,ED      123,SANDOVAL N I,B+,1
+M15,Undergraduate,ED      123,SANDOVAL N I,B,2
+M15,Undergraduate,ED      125,KUNTZMAN J D,A,21
+M15,Undergraduate,ED      125,KUNTZMAN J D,A-,6
+M15,Undergraduate,ED      125,KUNTZMAN J D,B+,2
+M15,Undergraduate,ED      125,KUNTZMAN J D,B,3
+M15,Undergraduate,ED      125,KUNTZMAN J D,F,1
+M15,Undergraduate,ED      125,RALEY J D,A,22
+M15,Undergraduate,ED      125,RALEY J D,A-,3
+M15,Undergraduate,ED      173,LUBACH D W,A,15
+M15,Undergraduate,ED      173,LUBACH D W,A-,6
+M15,Undergraduate,ED      173,LUBACH D W,B+,3
+M15,Undergraduate,ED      173,LUBACH D W,B,1
+M15,Undergraduate,ED      173,LUBACH D W,F,1
+M15,Undergraduate,ED      199RA,RIOS R M,A,8
+M15,Graduate,ED      228A,HOLDREN N R,A+,1
+M15,Graduate,ED      228A,HOLDREN N R,A,8
+M15,Graduate,ED      228A,HOLDREN N R,A-,1
+M15,Graduate,ED      228B,FEDDERS A,A+,2
+M15,Graduate,ED      228B,FEDDERS A,A,7
+M15,Graduate,ED      228B,FEDDERS A,B,1
+M15,Graduate,ED      229C,FEDDERS A,S,8
+M15,Graduate,ED      229D,FEDDERS A,A,8
+M15,Graduate,ED      263,MORAN A S,A,25
+M15,Graduate,ED      263,SIMON K,A,25
+M15,Graduate,ED      264,OXELSON E M,A,33
+M15,Graduate,ED      265D,BAZERMAN C,A,8
+M15,Graduate,ED      265D,BIANCHINI J A,A,8
+M15,Graduate,ED      265D,BRENNER M E,A,7
+M15,Graduate,ED      265D,CHUN D M,A,10
+M15,Graduate,ED      265D,FEDDERS A,A,10
+M15,Graduate,ED      265D,JOHNSON S K,A,7
+M15,Graduate,ED      265D,NYLUND K L,A,9
+M15,Graduate,ED      265D,OGRAIN C M,A,7
+M15,Graduate,ED      265D,OXELSON E M,A,10
+M15,Graduate,ED      265D,RALEY J D,A,15
+M15,Graduate,ED      265D,ROBERTS S A,A,7
+M15,Graduate,ED      265D,SCALZO J N,A,10
+M15,Graduate,ED      265D,SINGER G H S,A,9
+M15,Graduate,ED      268,ANAND N,A,23
+M15,Graduate,ED      268,HARVEY V A,A,21
+M15,Graduate,ED      268,OXELSON E M,A,20
+M15,Graduate,ED      268,SCALZO J N,A,23
+M15,Graduate,ED      291,HOLDREN N R,A+,2
+M15,Graduate,ED      291,HOLDREN N R,A,7
+M15,Graduate,ED      291,HOLDREN N R,B,1
+M15,Graduate,ED      318,ARYA D J,A,23
+M15,Graduate,ED      318,SCALZO J N,A,20
+M15,Graduate,ED      319,ARYA D J,A+,1
+M15,Graduate,ED      319,ARYA D J,A,18
+M15,Graduate,ED      319,SCALZO J N,A,25
+M15,Graduate,ED      326,GRANGER M,S,19
+M15,Graduate,ED      326,WHITAKER D R,S,14
+M15,Graduate,ED      327,GRANGER M,S,23
+M15,Graduate,ED      327,WHITAKER D R,S,22
+M15,Graduate,ED      330,HOBBS J,S,77
+M15,Graduate,ED      340,SLOAN T F,S,33
+M15,Graduate,ED      370,CARLYLE A M,S,6
+M15,Graduate,ED      370,MEYER M N,S,6
+M15,Graduate,ED      370,MORALES E L,S,5
+M15,Graduate,ED      370,NAIMAN D G,S,6
+M15,Graduate,ED      370,OXELSON E M,S,5
+M15,Graduate,ED      370,WHITAKER D R,S,5
+M15,Graduate,ED   E  321M,DEWAR T J,S,17
+M15,Graduate,ED   E  341,DEWAR T J,S,17
+M15,Graduate,ED   E  371,DEWAR T J,S,17
+M15,Graduate,ED   HSS321M,MULLIN C D,S,12
+M15,Graduate,ED   HSS341,SLOAN T F,S,12
+M15,Graduate,ED   HSS371,ESTABROOK J A,S,12
+M15,Graduate,ED   S  321M,BIANCHINI J A,S,12
+M15,Graduate,ED   S  321M,JOHNSON S K,S,12
+M15,Graduate,ED   S  321M,LUBCHENCO P J,S,12
+M15,Graduate,ED   S  341,SLOAN T F,S,12
+M15,Graduate,ED   S  371,LUBCHENCO P J,S,12

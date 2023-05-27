@@ -1,0 +1,101 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W13,Undergraduate,CH ST     1B,BARVOSA E,A,7
+W13,Undergraduate,CH ST     1B,BARVOSA E,A-,39
+W13,Undergraduate,CH ST     1B,BARVOSA E,B+,52
+W13,Undergraduate,CH ST     1B,BARVOSA E,B,115
+W13,Undergraduate,CH ST     1B,BARVOSA E,B-,95
+W13,Undergraduate,CH ST     1B,BARVOSA E,C+,45
+W13,Undergraduate,CH ST     1B,BARVOSA E,C,56
+W13,Undergraduate,CH ST     1B,BARVOSA E,C-,9
+W13,Undergraduate,CH ST     1B,BARVOSA E,D+,7
+W13,Undergraduate,CH ST     1B,BARVOSA E,D,5
+W13,Undergraduate,CH ST     1B,BARVOSA E,D-,3
+W13,Undergraduate,CH ST     1B,BARVOSA E,F,5
+W13,Undergraduate,CH ST    12,BENAVIDES A,A,9
+W13,Undergraduate,CH ST    12,BENAVIDES A,A-,1
+W13,Undergraduate,CH ST    12,BENAVIDES A,B+,1
+W13,Undergraduate,CH ST    12,BENAVIDES A,B,3
+W13,Undergraduate,CH ST    12,BENAVIDES A,C+,1
+W13,Undergraduate,CH ST    12,BENAVIDES A,C,2
+W13,Undergraduate,CH ST   108,TRUJILLO E N,A+,8
+W13,Undergraduate,CH ST   108,TRUJILLO E N,A,12
+W13,Undergraduate,CH ST   108,TRUJILLO E N,A-,5
+W13,Undergraduate,CH ST   108,TRUJILLO E N,B+,3
+W13,Undergraduate,CH ST   108,TRUJILLO E N,B,2
+W13,Undergraduate,CH ST   108,TRUJILLO E N,B-,2
+W13,Undergraduate,CH ST   108,TRUJILLO E N,C+,3
+W13,Undergraduate,CH ST   108,TRUJILLO E N,C,1
+W13,Undergraduate,CH ST   108,TRUJILLO E N,D+,1
+W13,Undergraduate,CH ST   130,YOSSO T J,A,1
+W13,Undergraduate,CH ST   130,YOSSO T J,A-,4
+W13,Undergraduate,CH ST   130,YOSSO T J,B+,7
+W13,Undergraduate,CH ST   130,YOSSO T J,B,2
+W13,Undergraduate,CH ST   130,YOSSO T J,B-,1
+W13,Undergraduate,CH ST   130,YOSSO T J,C+,3
+W13,Undergraduate,CH ST   138,CASILLAS D I,A,3
+W13,Undergraduate,CH ST   138,CASILLAS D I,A-,24
+W13,Undergraduate,CH ST   138,CASILLAS D I,B+,17
+W13,Undergraduate,CH ST   138,CASILLAS D I,B,17
+W13,Undergraduate,CH ST   138,CASILLAS D I,B-,15
+W13,Undergraduate,CH ST   138,CASILLAS D I,C+,3
+W13,Undergraduate,CH ST   138,CASILLAS D I,C,6
+W13,Undergraduate,CH ST   138,CASILLAS D I,C-,5
+W13,Undergraduate,CH ST   138,CASILLAS D I,D+,2
+W13,Undergraduate,CH ST   138,CASILLAS D I,D,1
+W13,Undergraduate,CH ST   138,CASILLAS D I,D-,1
+W13,Undergraduate,CH ST   138,CASILLAS D I,F,2
+W13,Undergraduate,CH ST   146,PALACIOS M A,A,1
+W13,Undergraduate,CH ST   146,PALACIOS M A,A-,5
+W13,Undergraduate,CH ST   146,PALACIOS M A,B+,5
+W13,Undergraduate,CH ST   146,PALACIOS M A,B,5
+W13,Undergraduate,CH ST   146,PALACIOS M A,B-,2
+W13,Undergraduate,CH ST   146,PALACIOS M A,C,1
+W13,Undergraduate,CH ST   149,FIGUEROA T,A+,1
+W13,Undergraduate,CH ST   149,FIGUEROA T,A,2
+W13,Undergraduate,CH ST   149,FIGUEROA T,A-,9
+W13,Undergraduate,CH ST   149,FIGUEROA T,B+,11
+W13,Undergraduate,CH ST   149,FIGUEROA T,B,7
+W13,Undergraduate,CH ST   149,FIGUEROA T,B-,6
+W13,Undergraduate,CH ST   149,FIGUEROA T,C+,2
+W13,Undergraduate,CH ST   149,FIGUEROA T,C,1
+W13,Undergraduate,CH ST   158,SANDOVAL C,A,7
+W13,Undergraduate,CH ST   158,SANDOVAL C,A-,3
+W13,Undergraduate,CH ST   158,SANDOVAL C,B+,4
+W13,Undergraduate,CH ST   158,SANDOVAL C,B,1
+W13,Undergraduate,CH ST   158,SANDOVAL C,C+,1
+W13,Undergraduate,CH ST   158L,SANDOVAL C,A,7
+W13,Undergraduate,CH ST   158L,SANDOVAL C,A-,3
+W13,Undergraduate,CH ST   158L,SANDOVAL C,B+,4
+W13,Undergraduate,CH ST   158L,SANDOVAL C,B,1
+W13,Undergraduate,CH ST   158L,SANDOVAL C,C+,1
+W13,Undergraduate,CH ST   168E,GARCIA M T,A+,2
+W13,Undergraduate,CH ST   168E,GARCIA M T,A,5
+W13,Undergraduate,CH ST   168E,GARCIA M T,A-,8
+W13,Undergraduate,CH ST   168E,GARCIA M T,B+,1
+W13,Undergraduate,CH ST   168E,GARCIA M T,B,10
+W13,Undergraduate,CH ST   168E,GARCIA M T,B-,7
+W13,Undergraduate,CH ST   168E,GARCIA M T,C+,2
+W13,Undergraduate,CH ST   168E,GARCIA M T,C,1
+W13,Undergraduate,CH ST   168E,GARCIA M T,C-,2
+W13,Undergraduate,CH ST   168E,GARCIA M T,D,1
+W13,Undergraduate,CH ST   168E,GARCIA M T,F,1
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,A+,9
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,A,11
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,A-,8
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,B+,5
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,B,5
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,B-,5
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,C+,1
+W13,Undergraduate,CH ST   174,HIRSCH-DUBIN,C-,1
+W13,Undergraduate,CH ST   191EH,HERNANDEZ E D,A-,3
+W13,Undergraduate,CH ST   191EH,HERNANDEZ E D,B+,3
+W13,Undergraduate,CH ST   191EH,HERNANDEZ E D,B,1
+W13,Undergraduate,CH ST   191EH,HERNANDEZ E D,F,1
+W13,Undergraduate,CH ST   195B,MARQUEZ M,A-,2
+W13,Undergraduate,CH ST   195B,MARQUEZ M,B+,2
+W13,Undergraduate,CH ST   195B,MARQUEZ M,B,2
+W13,Undergraduate,CH ST   195B,MARQUEZ M,F,1
+W13,Graduate,CH ST   200A,GARCIA M T,A,10
+W13,Graduate,CH ST   200B,SANDOVAL C,A,8
+W13,Graduate,CH ST   240,CASILLAS D I,S,5
+W13,Graduate,CH ST   501,BARVOSA E,S,6

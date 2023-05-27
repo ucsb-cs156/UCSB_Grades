@@ -1,0 +1,115 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,ANTH      2,LAMON S E,A+,4
+M17,Undergraduate,ANTH      2,LAMON S E,A,12
+M17,Undergraduate,ANTH      2,LAMON S E,A-,10
+M17,Undergraduate,ANTH      2,LAMON S E,B+,3
+M17,Undergraduate,ANTH      2,LAMON S E,B,4
+M17,Undergraduate,ANTH      2,LAMON S E,B-,1
+M17,Undergraduate,ANTH      2,LAMON S E,C+,2
+M17,Undergraduate,ANTH      2,LAMON S E,C,2
+M17,Undergraduate,ANTH      2,LAMON S E,C-,2
+M17,Undergraduate,ANTH      2,LAMON S E,F,1
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,A,4
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,A-,7
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,B+,3
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,B,13
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,B-,3
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,C+,1
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,C,1
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,C-,1
+M17,Undergraduate,ANTH      2,SANTOS-GOMEZ,F,2
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,A+,3
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,A,9
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,A-,5
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,B+,4
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,B,4
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,B-,4
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,C+,2
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,C,1
+M17,Undergraduate,ANTH      3SS,VANDERWARKER,F,1
+M17,Undergraduate,ANTH      5,GAULIN S J,A+,5
+M17,Undergraduate,ANTH      5,GAULIN S J,A,5
+M17,Undergraduate,ANTH      5,GAULIN S J,A-,3
+M17,Undergraduate,ANTH      5,GAULIN S J,B+,2
+M17,Undergraduate,ANTH      5,GAULIN S J,B,3
+M17,Undergraduate,ANTH      5,GAULIN S J,B-,2
+M17,Undergraduate,ANTH      5,GAULIN S J,C+,2
+M17,Undergraduate,ANTH      5,GAULIN S J,C,3
+M17,Undergraduate,ANTH      5,GAULIN S J,C-,1
+M17,Undergraduate,ANTH      5,GAULIN S J,D+,1
+M17,Undergraduate,ANTH      5,GAULIN S J,D,1
+M17,Undergraduate,ANTH      5,GAULIN S J,F,7
+M17,Undergraduate,ANTH      7,MCALLISTER L,A+,2
+M17,Undergraduate,ANTH      7,MCALLISTER L,A,5
+M17,Undergraduate,ANTH      7,MCALLISTER L,A-,5
+M17,Undergraduate,ANTH      7,MCALLISTER L,B,6
+M17,Undergraduate,ANTH      7,MCALLISTER L,B-,1
+M17,Undergraduate,ANTH      7,MCALLISTER L,C,1
+M17,Undergraduate,ANTH      7,MCALLISTER L,C-,1
+M17,Undergraduate,ANTH    105,MCALLISTER L,A+,1
+M17,Undergraduate,ANTH    105,MCALLISTER L,A,2
+M17,Undergraduate,ANTH    105,MCALLISTER L,A-,4
+M17,Undergraduate,ANTH    105,MCALLISTER L,B+,4
+M17,Undergraduate,ANTH    105,MCALLISTER L,B,5
+M17,Undergraduate,ANTH    105,MCALLISTER L,B-,4
+M17,Undergraduate,ANTH    105,MCALLISTER L,C,3
+M17,Undergraduate,ANTH    105,MCALLISTER L,F,1
+M17,Undergraduate,ANTH    109,CIMINO A N,A,21
+M17,Undergraduate,ANTH    109,CIMINO A N,B,31
+M17,Undergraduate,ANTH    109,CIMINO A N,C,10
+M17,Undergraduate,ANTH    109,CIMINO A N,D,2
+M17,Undergraduate,ANTH    111,KUNDU M,A,4
+M17,Undergraduate,ANTH    111,KUNDU M,A-,3
+M17,Undergraduate,ANTH    111,KUNDU M,B+,6
+M17,Undergraduate,ANTH    111,KUNDU M,B,6
+M17,Undergraduate,ANTH    111,KUNDU M,B-,4
+M17,Undergraduate,ANTH    111,KUNDU M,C+,3
+M17,Undergraduate,ANTH    111,KUNDU M,C,3
+M17,Undergraduate,ANTH    111,KUNDU M,C-,3
+M17,Undergraduate,ANTH    111,KUNDU M,D,2
+M17,Undergraduate,ANTH    111,KUNDU M,F,1
+M17,Undergraduate,ANTH    125,TABER P K,A,10
+M17,Undergraduate,ANTH    125,TABER P K,B+,1
+M17,Undergraduate,ANTH    125,TABER P K,B,3
+M17,Undergraduate,ANTH    125,TABER P K,B-,1
+M17,Undergraduate,ANTH    125,TABER P K,C+,2
+M17,Undergraduate,ANTH    125,TABER P K,C,3
+M17,Undergraduate,ANTH    125,TABER P K,F,1
+M17,Undergraduate,ANTH    131,HOPPA K M,A,3
+M17,Undergraduate,ANTH    131,HOPPA K M,A-,1
+M17,Undergraduate,ANTH    131,HOPPA K M,B+,3
+M17,Undergraduate,ANTH    131,HOPPA K M,B,5
+M17,Undergraduate,ANTH    131,HOPPA K M,B-,5
+M17,Undergraduate,ANTH    131,HOPPA K M,C+,4
+M17,Undergraduate,ANTH    131,HOPPA K M,C,1
+M17,Undergraduate,ANTH    131,HOPPA K M,C-,2
+M17,Undergraduate,ANTH    131,HOPPA K M,D,1
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,A+,1
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,A,2
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,A-,2
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,B+,4
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,B,5
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,B-,1
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,C+,2
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,C,2
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,C-,1
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,D,1
+M17,Undergraduate,ANTH    138TS,BORNEMANN E E,F,4
+M17,Undergraduate,ANTH    142,KUNDU M,A+,1
+M17,Undergraduate,ANTH    142,KUNDU M,A,1
+M17,Undergraduate,ANTH    142,KUNDU M,A-,4
+M17,Undergraduate,ANTH    142,KUNDU M,B+,3
+M17,Undergraduate,ANTH    142,KUNDU M,B,3
+M17,Undergraduate,ANTH    142,KUNDU M,B-,4
+M17,Undergraduate,ANTH    142,KUNDU M,C+,6
+M17,Undergraduate,ANTH    142,KUNDU M,C-,1
+M17,Undergraduate,ANTH    148A,BJORNSDOTTIR,A,14
+M17,Undergraduate,ANTH    148A,BJORNSDOTTIR,B,11
+M17,Undergraduate,ANTH    148A,BJORNSDOTTIR,F,4
+M17,Undergraduate,ANTH    162,BIWER M E,A,4
+M17,Undergraduate,ANTH    162,BIWER M E,A-,4
+M17,Undergraduate,ANTH    162,BIWER M E,B+,2
+M17,Undergraduate,ANTH    162,BIWER M E,B,3
+M17,Undergraduate,ANTH    162,BIWER M E,B-,3
+M17,Undergraduate,ANTH    162,BIWER M E,C+,1
+M17,Undergraduate,ANTH    162,BIWER M E,F,1

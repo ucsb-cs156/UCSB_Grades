@@ -1,0 +1,135 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W10,Graduate,CH E    291,FREDRICKSON G,S,5
+W10,Undergraduate,ECON    117A,FRECH H E,A+,3
+W10,Undergraduate,ECON    117A,FRECH H E,A,2
+W10,Undergraduate,ECON    117A,FRECH H E,A-,4
+W10,Undergraduate,ECON    117A,FRECH H E,B+,3
+W10,Undergraduate,ECON    117A,FRECH H E,B,5
+W10,Undergraduate,ECON    117A,FRECH H E,B-,5
+W10,Undergraduate,ECON    117A,FRECH H E,F,2
+W10,Graduate,ESM     401C,FREW J E,A,5
+W10,Undergraduate,FR        1,SCHULTZ J M,A+,1
+W10,Undergraduate,FR        1,SCHULTZ J M,A,5
+W10,Undergraduate,FR        1,SCHULTZ J M,A-,7
+W10,Undergraduate,FR        1,SCHULTZ J M,B+,2
+W10,Undergraduate,FR        1,SCHULTZ J M,B,5
+W10,Undergraduate,FR        1,SCHULTZ J M,B-,4
+W10,Undergraduate,FR        1,SCHULTZ J M,C-,2
+W10,Undergraduate,FR        1,SCHULTZ J M,D,1
+W10,Undergraduate,FR        1,SCHULTZ J M,D-,1
+W10,Undergraduate,FR        1,SCHULTZ J M,F,1
+W10,Undergraduate,FR        2,SCHULTZ J M,A,7
+W10,Undergraduate,FR        2,SCHULTZ J M,A-,8
+W10,Undergraduate,FR        2,SCHULTZ J M,B+,3
+W10,Undergraduate,FR        2,SCHULTZ J M,B,3
+W10,Undergraduate,FR        2,SCHULTZ J M,B-,3
+W10,Undergraduate,FR        2,SCHULTZ J M,C+,3
+W10,Undergraduate,FR        6,NESCI C,A+,1
+W10,Undergraduate,FR        6,NESCI C,A,4
+W10,Undergraduate,FR        6,NESCI C,A-,3
+W10,Undergraduate,FR        6,NESCI C,B+,1
+W10,Undergraduate,FR        6,NESCI C,B,4
+W10,Undergraduate,FR        6,NESCI C,C+,1
+W10,Undergraduate,FR        6,NESCI C,F,2
+W10,Undergraduate,FR       11B,SKENAZI E C,A,6
+W10,Undergraduate,FR       11B,SKENAZI E C,A-,6
+W10,Undergraduate,FR       11B,SKENAZI E C,B+,13
+W10,Undergraduate,FR       11B,SKENAZI E C,B,2
+W10,Undergraduate,FR       26,NESCI C,A+,1
+W10,Undergraduate,FR       26,NESCI C,A,5
+W10,Undergraduate,FR       26,NESCI C,A-,6
+W10,Undergraduate,FR       26,NESCI C,B+,4
+W10,Undergraduate,FR       26,NESCI C,B,2
+W10,Undergraduate,FR       26,NESCI C,C+,1
+W10,Undergraduate,FR       26,NESCI C,C-,1
+W10,Undergraduate,FR       26,NESCI C,F,1
+W10,Undergraduate,FR       40X,JULLIEN D M,A,1
+W10,Undergraduate,FR       40X,JULLIEN D M,A-,2
+W10,Undergraduate,FR       40X,JULLIEN D M,B+,8
+W10,Undergraduate,FR       40X,JULLIEN D M,B,11
+W10,Undergraduate,FR       40X,JULLIEN D M,B-,17
+W10,Undergraduate,FR       40X,JULLIEN D M,C+,6
+W10,Undergraduate,FR       40X,JULLIEN D M,C,7
+W10,Undergraduate,FR       40X,JULLIEN D M,C-,2
+W10,Undergraduate,FR       40X,JULLIEN D M,D,1
+W10,Undergraduate,FR       40X,KOSIK K S,A,1
+W10,Undergraduate,FR       40X,KOSIK K S,A-,2
+W10,Undergraduate,FR       40X,KOSIK K S,B+,8
+W10,Undergraduate,FR       40X,KOSIK K S,B,11
+W10,Undergraduate,FR       40X,KOSIK K S,B-,17
+W10,Undergraduate,FR       40X,KOSIK K S,C+,6
+W10,Undergraduate,FR       40X,KOSIK K S,C,7
+W10,Undergraduate,FR       40X,KOSIK K S,C-,2
+W10,Undergraduate,FR       40X,KOSIK K S,D,1
+W10,Undergraduate,FR      101B,SKENAZI E C,A,4
+W10,Undergraduate,FR      101B,SKENAZI E C,A-,4
+W10,Undergraduate,FR      101B,SKENAZI E C,B+,3
+W10,Undergraduate,FR      101B,SKENAZI E C,B,1
+W10,Undergraduate,FR      101B,SKENAZI E C,B-,1
+W10,Undergraduate,FR      101B,SKENAZI E C,C-,1
+W10,Undergraduate,FR      101C,STURM E,A+,1
+W10,Undergraduate,FR      101C,STURM E,A,5
+W10,Undergraduate,FR      101C,STURM E,A-,5
+W10,Undergraduate,FR      101C,STURM E,B+,7
+W10,Undergraduate,FR      101C,STURM E,B,1
+W10,Undergraduate,FR      101C,STURM E,B-,1
+W10,Undergraduate,FR      104B,PRIETO E,A+,1
+W10,Undergraduate,FR      104B,PRIETO E,A,5
+W10,Undergraduate,FR      104B,PRIETO E,A-,10
+W10,Undergraduate,FR      104B,PRIETO E,B+,6
+W10,Undergraduate,FR      104B,PRIETO E,B,1
+W10,Undergraduate,FR      104B,PRIETO E,B-,1
+W10,Undergraduate,FR      148C,BROWN C J,A,2
+W10,Undergraduate,FR      148C,BROWN C J,A-,5
+W10,Undergraduate,FR      148C,BROWN C J,B+,4
+W10,Undergraduate,FR      148C,BROWN C J,B,2
+W10,Undergraduate,FR      148C,BROWN C J,B-,1
+W10,Undergraduate,FR      148C,BROWN C J,C+,1
+W10,Undergraduate,FR      154G,PRIETO E,A,7
+W10,Undergraduate,FR      154G,PRIETO E,A-,24
+W10,Undergraduate,FR      154G,PRIETO E,B+,31
+W10,Undergraduate,FR      154G,PRIETO E,B,29
+W10,Undergraduate,FR      154G,PRIETO E,B-,17
+W10,Undergraduate,FR      154G,PRIETO E,C+,2
+W10,Undergraduate,FR      154G,PRIETO E,C,3
+W10,Undergraduate,FR      154G,PRIETO E,C-,1
+W10,Undergraduate,FR      154G,PRIETO E,F,1
+W10,Graduate,FR      227C,ENDERS J,A,4
+W10,Graduate,FR      227C,ENDERS J,A-,1
+W10,Graduate,FR      227C,ENDERS J,B+,1
+W10,Graduate,FR      227C,ENDERS J,F,1
+W10,Graduate,FR      227C,ENDERS J,S,2
+W10,Graduate,FR      228D,TOBIN R W,A,4
+W10,Graduate,FR      228D,TOBIN R W,B+,1
+W10,Graduate,FR      500,SCHULTZ J M,S,11
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,A,7
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,A-,15
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,B+,14
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,B,22
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,B-,26
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,C+,19
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,C,16
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,C-,6
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,D+,7
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,D,6
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,D-,1
+W10,Undergraduate,JAPAN   162,FRUHSTUCK S,F,5
+W10,Undergraduate,LING      2G,FRODESEN J M,P,15
+W10,Undergraduate,PSY       1,FRIDLUND A J,A+,1
+W10,Undergraduate,PSY       1,FRIDLUND A J,A,24
+W10,Undergraduate,PSY       1,FRIDLUND A J,A-,14
+W10,Undergraduate,PSY       1,FRIDLUND A J,B+,18
+W10,Undergraduate,PSY       1,FRIDLUND A J,B,225
+W10,Undergraduate,PSY       1,FRIDLUND A J,B-,28
+W10,Undergraduate,PSY       1,FRIDLUND A J,C+,28
+W10,Undergraduate,PSY       1,FRIDLUND A J,C,169
+W10,Undergraduate,PSY       1,FRIDLUND A J,C-,10
+W10,Undergraduate,PSY       1,FRIDLUND A J,D+,13
+W10,Undergraduate,PSY       1,FRIDLUND A J,D,98
+W10,Undergraduate,PSY       1,FRIDLUND A J,D-,7
+W10,Undergraduate,PSY       1,FRIDLUND A J,F,44
+W10,Graduate,RG ST   224,FRIEDLAND R O,A,3
+W10,Graduate,RG ST   224,FRIEDLAND R O,B+,2
+W10,Undergraduate,SOC     148MA,FRIEDKIN N E,A+,5
+W10,Undergraduate,SOC     148MA,FRIEDKIN N E,A,10
+W10,Undergraduate,SOC     148MA,FRIEDKIN N E,A-,1

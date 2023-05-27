@@ -1,0 +1,137 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,A,3
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,A-,2
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,B+,5
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,B,10
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,B-,8
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,C+,4
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,C,2
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,C-,2
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,D+,1
+M18,Undergraduate,HIST      2A,BARBIERI-LOW,F,3
+M18,Undergraduate,HIST      2C,STEPHENS C C,A,27
+M18,Undergraduate,HIST      2C,STEPHENS C C,A-,20
+M18,Undergraduate,HIST      2C,STEPHENS C C,B+,9
+M18,Undergraduate,HIST      2C,STEPHENS C C,B,8
+M18,Undergraduate,HIST      2C,STEPHENS C C,B-,7
+M18,Undergraduate,HIST      2C,STEPHENS C C,C+,2
+M18,Undergraduate,HIST      2C,STEPHENS C C,C,2
+M18,Undergraduate,HIST      2C,STEPHENS C C,C-,1
+M18,Undergraduate,HIST      2C,STEPHENS C C,F,3
+M18,Undergraduate,HIST      4B,KEGERREIS C M,A+,9
+M18,Undergraduate,HIST      4B,KEGERREIS C M,A,7
+M18,Undergraduate,HIST      4B,KEGERREIS C M,A-,8
+M18,Undergraduate,HIST      4B,KEGERREIS C M,B+,2
+M18,Undergraduate,HIST      4B,KEGERREIS C M,B,5
+M18,Undergraduate,HIST      4B,KEGERREIS C M,B-,3
+M18,Undergraduate,HIST      4B,KEGERREIS C M,C+,2
+M18,Undergraduate,HIST      4B,KEGERREIS C M,F,4
+M18,Undergraduate,HIST      4C,AKULOV D A,A+,2
+M18,Undergraduate,HIST      4C,AKULOV D A,A,1
+M18,Undergraduate,HIST      4C,AKULOV D A,A-,4
+M18,Undergraduate,HIST      4C,AKULOV D A,B+,5
+M18,Undergraduate,HIST      4C,AKULOV D A,B,9
+M18,Undergraduate,HIST      4C,AKULOV D A,B-,8
+M18,Undergraduate,HIST      4C,AKULOV D A,C+,7
+M18,Undergraduate,HIST      4C,AKULOV D A,C,10
+M18,Undergraduate,HIST      4C,AKULOV D A,F,6
+M18,Undergraduate,HIST      8,TAMBOLI V K,A,4
+M18,Undergraduate,HIST      8,TAMBOLI V K,A-,3
+M18,Undergraduate,HIST      8,TAMBOLI V K,B+,10
+M18,Undergraduate,HIST      8,TAMBOLI V K,B,13
+M18,Undergraduate,HIST      8,TAMBOLI V K,B-,5
+M18,Undergraduate,HIST      8,TAMBOLI V K,C,1
+M18,Undergraduate,HIST      8,TAMBOLI V K,C-,1
+M18,Undergraduate,HIST      8,TAMBOLI V K,F,3
+M18,Undergraduate,HIST     17B,FENRICH E B,A,7
+M18,Undergraduate,HIST     17B,FENRICH E B,A-,4
+M18,Undergraduate,HIST     17B,FENRICH E B,B+,8
+M18,Undergraduate,HIST     17B,FENRICH E B,B,9
+M18,Undergraduate,HIST     17B,FENRICH E B,B-,4
+M18,Undergraduate,HIST     17B,FENRICH E B,C+,1
+M18,Undergraduate,HIST     17B,FENRICH E B,F,3
+M18,Undergraduate,HIST     17C,MAAR H R,A+,2
+M18,Undergraduate,HIST     17C,MAAR H R,A,13
+M18,Undergraduate,HIST     17C,MAAR H R,A-,19
+M18,Undergraduate,HIST     17C,MAAR H R,B+,15
+M18,Undergraduate,HIST     17C,MAAR H R,B,6
+M18,Undergraduate,HIST     17C,MAAR H R,B-,6
+M18,Undergraduate,HIST     17C,MAAR H R,C+,4
+M18,Undergraduate,HIST     46,ALSABAGH M H,A,8
+M18,Undergraduate,HIST     46,ALSABAGH M H,A-,5
+M18,Undergraduate,HIST     46,ALSABAGH M H,B+,5
+M18,Undergraduate,HIST     46,ALSABAGH M H,B,7
+M18,Undergraduate,HIST     46,ALSABAGH M H,B-,2
+M18,Undergraduate,HIST     46,ALSABAGH M H,C,4
+M18,Undergraduate,HIST     46,ALSABAGH M H,D+,1
+M18,Undergraduate,HIST     46,ALSABAGH M H,F,4
+M18,Undergraduate,HIST    117A,SCHMIDT B S,A,11
+M18,Undergraduate,HIST    117A,SCHMIDT B S,A-,5
+M18,Undergraduate,HIST    117A,SCHMIDT B S,B+,4
+M18,Undergraduate,HIST    117A,SCHMIDT B S,B,5
+M18,Undergraduate,HIST    117A,SCHMIDT B S,B-,3
+M18,Undergraduate,HIST    117A,SCHMIDT B S,C+,1
+M18,Undergraduate,HIST    117A,SCHMIDT B S,F,1
+M18,Undergraduate,HIST    123B,GRIFFITH B J,A+,4
+M18,Undergraduate,HIST    123B,GRIFFITH B J,A,9
+M18,Undergraduate,HIST    123B,GRIFFITH B J,A-,4
+M18,Undergraduate,HIST    123B,GRIFFITH B J,B+,3
+M18,Undergraduate,HIST    123B,GRIFFITH B J,B,4
+M18,Undergraduate,HIST    123B,GRIFFITH B J,B-,2
+M18,Undergraduate,HIST    123B,GRIFFITH B J,F,1
+M18,Undergraduate,HIST    123C,SEKETA S L,A+,1
+M18,Undergraduate,HIST    123C,SEKETA S L,A,6
+M18,Undergraduate,HIST    123C,SEKETA S L,A-,3
+M18,Undergraduate,HIST    123C,SEKETA S L,B+,2
+M18,Undergraduate,HIST    123C,SEKETA S L,B,2
+M18,Undergraduate,HIST    123C,SEKETA S L,B-,1
+M18,Undergraduate,HIST    123C,SEKETA S L,C+,1
+M18,Undergraduate,HIST    123C,SEKETA S L,D,1
+M18,Undergraduate,HIST    123C,SEKETA S L,F,4
+M18,Undergraduate,HIST    135C,FEDOROVA M A,A,5
+M18,Undergraduate,HIST    135C,FEDOROVA M A,A-,5
+M18,Undergraduate,HIST    135C,FEDOROVA M A,B+,4
+M18,Undergraduate,HIST    135C,FEDOROVA M A,B,2
+M18,Undergraduate,HIST    135C,FEDOROVA M A,F,4
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,A,2
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,A-,3
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,B+,3
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,B,1
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,B-,2
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,C+,1
+M18,Undergraduate,HIST    146,YUSUFJONOVA Z,D+,1
+M18,Undergraduate,HIST    159B,COLES A P,A+,1
+M18,Undergraduate,HIST    159B,COLES A P,A,8
+M18,Undergraduate,HIST    159B,COLES A P,A-,7
+M18,Undergraduate,HIST    159B,COLES A P,B,2
+M18,Undergraduate,HIST    159B,COLES A P,B-,2
+M18,Undergraduate,HIST    159B,COLES A P,C+,2
+M18,Undergraduate,HIST    159B,COLES A P,F,2
+M18,Undergraduate,HIST    164IB,BELTRAN F,A+,3
+M18,Undergraduate,HIST    164IB,BELTRAN F,A,2
+M18,Undergraduate,HIST    164IB,BELTRAN F,A-,4
+M18,Undergraduate,HIST    164IB,BELTRAN F,B+,3
+M18,Undergraduate,HIST    164IB,BELTRAN F,B,3
+M18,Undergraduate,HIST    164IB,BELTRAN F,C+,3
+M18,Undergraduate,HIST    164IB,BELTRAN F,C,4
+M18,Undergraduate,HIST    164IB,BELTRAN F,D,1
+M18,Undergraduate,HIST    164IB,BELTRAN F,F,2
+M18,Undergraduate,HIST    172B,GENENS D W,A,1
+M18,Undergraduate,HIST    172B,GENENS D W,A-,7
+M18,Undergraduate,HIST    172B,GENENS D W,B+,3
+M18,Undergraduate,HIST    172B,GENENS D W,B,5
+M18,Undergraduate,HIST    172B,GENENS D W,B-,3
+M18,Undergraduate,HIST    172B,GENENS D W,C+,2
+M18,Undergraduate,HIST    172B,GENENS D W,C,1
+M18,Undergraduate,HIST    174C,RATHE C V,A,9
+M18,Undergraduate,HIST    174C,RATHE C V,A-,1
+M18,Undergraduate,HIST    174C,RATHE C V,B+,2
+M18,Undergraduate,HIST    174C,RATHE C V,B,2
+M18,Undergraduate,HIST    174C,RATHE C V,F,1
+M18,Undergraduate,HIST    177,GRAVES G R,A,4
+M18,Undergraduate,HIST    177,GRAVES G R,A-,6
+M18,Undergraduate,HIST    177,GRAVES G R,B+,6
+M18,Undergraduate,HIST    177,GRAVES G R,B,9
+M18,Undergraduate,HIST    177,GRAVES G R,B-,3
+M18,Undergraduate,HIST    177,GRAVES G R,C+,4
+M18,Undergraduate,HIST    177,GRAVES G R,C,2

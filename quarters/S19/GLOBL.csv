@@ -1,0 +1,145 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,GLOBL     1,FAUST J M,A+,3
+S19,Undergraduate,GLOBL     1,FAUST J M,A,52
+S19,Undergraduate,GLOBL     1,FAUST J M,A-,45
+S19,Undergraduate,GLOBL     1,FAUST J M,B+,17
+S19,Undergraduate,GLOBL     1,FAUST J M,B,47
+S19,Undergraduate,GLOBL     1,FAUST J M,B-,25
+S19,Undergraduate,GLOBL     1,FAUST J M,C+,16
+S19,Undergraduate,GLOBL     1,FAUST J M,C,10
+S19,Undergraduate,GLOBL     1,FAUST J M,C-,8
+S19,Undergraduate,GLOBL     1,FAUST J M,D+,1
+S19,Undergraduate,GLOBL     1,FAUST J M,D,7
+S19,Undergraduate,GLOBL     1,FAUST J M,D-,1
+S19,Undergraduate,GLOBL     1,FAUST J M,F,4
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,A+,25
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,A,35
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,A-,19
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,B+,25
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,B,37
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,B-,38
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,C+,5
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,C,17
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,C-,1
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,D,3
+S19,Undergraduate,GLOBL     2,JUERGENSMEYER,F,9
+S19,Undergraduate,GLOBL   104,THANDI S,A+,5
+S19,Undergraduate,GLOBL   104,THANDI S,A,4
+S19,Undergraduate,GLOBL   104,THANDI S,B+,13
+S19,Undergraduate,GLOBL   104,THANDI S,B,12
+S19,Undergraduate,GLOBL   104,THANDI S,B-,5
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,A+,4
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,A,12
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,A-,14
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,B+,26
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,B,17
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,B-,16
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,C+,7
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,C,9
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,C-,8
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,D+,1
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,D,2
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,D-,2
+S19,Undergraduate,GLOBL   110,CLITANDRE N T,F,3
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,A+,13
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,A,17
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,A-,21
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,B+,11
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,B,8
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,B-,11
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,C+,7
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,C,3
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,C-,2
+S19,Undergraduate,GLOBL   120,NEDERVEEN PIE,F,1
+S19,Undergraduate,GLOBL   123,COHEN B J,A,4
+S19,Undergraduate,GLOBL   123,COHEN B J,A-,3
+S19,Undergraduate,GLOBL   123,COHEN B J,B+,8
+S19,Undergraduate,GLOBL   123,COHEN B J,B,9
+S19,Undergraduate,GLOBL   123,COHEN B J,B-,4
+S19,Undergraduate,GLOBL   123,COHEN B J,C+,3
+S19,Undergraduate,GLOBL   123,COHEN B J,C,1
+S19,Undergraduate,GLOBL   123,COHEN B J,C-,1
+S19,Undergraduate,GLOBL   123,COHEN B J,D+,1
+S19,Undergraduate,GLOBL   123,COHEN B J,F,1
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,A+,29
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,A,22
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,A-,19
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,B+,17
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,B,17
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,B-,11
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,C+,6
+S19,Undergraduate,GLOBL   124,JUERGENSMEYER,C,2
+S19,Undergraduate,GLOBL   130,THANDI S,A+,12
+S19,Undergraduate,GLOBL   130,THANDI S,A,19
+S19,Undergraduate,GLOBL   130,THANDI S,A-,20
+S19,Undergraduate,GLOBL   130,THANDI S,B+,13
+S19,Undergraduate,GLOBL   130,THANDI S,B,19
+S19,Undergraduate,GLOBL   130,THANDI S,B-,21
+S19,Undergraduate,GLOBL   130,THANDI S,C+,16
+S19,Undergraduate,GLOBL   130,THANDI S,C,6
+S19,Undergraduate,GLOBL   130,THANDI S,C-,2
+S19,Undergraduate,GLOBL   130,THANDI S,D+,2
+S19,Undergraduate,GLOBL   130,THANDI S,D,3
+S19,Undergraduate,GLOBL   130,THANDI S,F,1
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,A+,3
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,A,9
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,A-,6
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,B+,5
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,B,4
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,B-,1
+S19,Undergraduate,GLOBL   148,CLITANDRE N T,C-,2
+S19,Undergraduate,GLOBL   162,AMAR P E,A,21
+S19,Undergraduate,GLOBL   162,AMAR P E,A-,12
+S19,Undergraduate,GLOBL   162,AMAR P E,B+,6
+S19,Undergraduate,GLOBL   162,AMAR P E,B,4
+S19,Undergraduate,GLOBL   162,AMAR P E,B-,1
+S19,Undergraduate,GLOBL   162,AMAR P E,C-,1
+S19,Undergraduate,GLOBL   162,AMAR P E,F,3
+S19,Undergraduate,GLOBL   172,CLEMENCON R,A+,5
+S19,Undergraduate,GLOBL   172,CLEMENCON R,A,16
+S19,Undergraduate,GLOBL   172,CLEMENCON R,A-,9
+S19,Undergraduate,GLOBL   172,CLEMENCON R,B+,4
+S19,Undergraduate,GLOBL   172,CLEMENCON R,B,17
+S19,Undergraduate,GLOBL   172,CLEMENCON R,B-,10
+S19,Undergraduate,GLOBL   172,CLEMENCON R,C+,5
+S19,Undergraduate,GLOBL   172,CLEMENCON R,C,8
+S19,Undergraduate,GLOBL   172,CLEMENCON R,C-,4
+S19,Undergraduate,GLOBL   172,CLEMENCON R,D,2
+S19,Undergraduate,GLOBL   172,CLEMENCON R,F,2
+S19,Undergraduate,GLOBL   199,BARANDIARAN J,A,3
+S19,Undergraduate,GLOBL   199,CHEN J,B+,1
+S19,Undergraduate,GLOBL   199,CLITANDRE N T,A,2
+S19,Graduate,GLOBL   223,AMAR P E,A,7
+S19,Graduate,GLOBL   225,MEHTA A S,A+,1
+S19,Graduate,GLOBL   225,MEHTA A S,A,1
+S19,Graduate,GLOBL   225,MEHTA A S,B,1
+S19,Graduate,GLOBL   237,CLEMENCON R,A,3
+S19,Graduate,GLOBL   237,CLEMENCON R,A-,2
+S19,Graduate,GLOBL   248,AMAR P E,A,11
+S19,Graduate,GLOBL   292AM,MALHOTRA A,A,3
+S19,Graduate,GLOBL   292AM,MALHOTRA A,A-,1
+S19,Graduate,GLOBL   501,BRYSK A,S,1
+S19,Graduate,GLOBL   596,BRYSK A,A,1
+S19,Graduate,GLOBL   596,BRYSK A,A-,1
+S19,Graduate,GLOBL   596,CLITANDRE N T,A,1
+S19,Graduate,GLOBL   596,GHOSH B,A,4
+S19,Graduate,GLOBL   596,MEHTA A S,A+,1
+S19,Graduate,GLOBL   596,NEDERVEEN PIE,A+,2
+S19,Graduate,GLOBL   596,NEDERVEEN PIE,F,1
+S19,Graduate,GLOBL   596B,AMAR P E,A,2
+S19,Graduate,GLOBL   596B,BARANDIARAN J,F,1
+S19,Graduate,GLOBL   596B,BRYSK A,A,2
+S19,Graduate,GLOBL   596B,BRYSK A,A-,1
+S19,Graduate,GLOBL   596B,CLITANDRE N T,A,1
+S19,Graduate,GLOBL   596B,GHOSH B,A,2
+S19,Graduate,GLOBL   596B,MEHTA A S,F,1
+S19,Graduate,GLOBL   597,CLITANDRE N T,S,2
+S19,Graduate,GLOBL   597,GHOSH B,S,1
+S19,Graduate,GLOBL   597,MEHTA A S,S,2
+S19,Graduate,GLOBL   597,NEDERVEEN PIE,S,1
+S19,Graduate,GLOBL   598,CLITANDRE N T,S,1
+S19,Graduate,GLOBL   598,GHOSH B,S,1
+S19,Graduate,GLOBL   599,APPELBAUM R,F,1
+S19,Graduate,GLOBL   599,BARANDIARAN J,S,1
+S19,Graduate,GLOBL   599,GHOSH B,S,1
+S19,Graduate,GLOBL   599,LEZRA E M,S,1

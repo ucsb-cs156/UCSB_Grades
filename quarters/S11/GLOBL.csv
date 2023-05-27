@@ -1,0 +1,98 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,GLOBL     2,AMAR P E,A+,6
+S11,Undergraduate,GLOBL     2,AMAR P E,A,82
+S11,Undergraduate,GLOBL     2,AMAR P E,A-,87
+S11,Undergraduate,GLOBL     2,AMAR P E,B+,41
+S11,Undergraduate,GLOBL     2,AMAR P E,B,55
+S11,Undergraduate,GLOBL     2,AMAR P E,B-,16
+S11,Undergraduate,GLOBL     2,AMAR P E,C+,7
+S11,Undergraduate,GLOBL     2,AMAR P E,C,5
+S11,Undergraduate,GLOBL     2,AMAR P E,C-,2
+S11,Undergraduate,GLOBL     2,AMAR P E,D+,2
+S11,Undergraduate,GLOBL     2,AMAR P E,D,5
+S11,Undergraduate,GLOBL     2,AMAR P E,D-,1
+S11,Undergraduate,GLOBL     2,AMAR P E,F,5
+S11,Undergraduate,GLOBL   110,LEZRA E M,A,6
+S11,Undergraduate,GLOBL   110,LEZRA E M,A-,21
+S11,Undergraduate,GLOBL   110,LEZRA E M,B+,4
+S11,Undergraduate,GLOBL   110,LEZRA E M,B,14
+S11,Undergraduate,GLOBL   110,LEZRA E M,B-,13
+S11,Undergraduate,GLOBL   110,LEZRA E M,C+,3
+S11,Undergraduate,GLOBL   110,LEZRA E M,C,10
+S11,Undergraduate,GLOBL   110,LEZRA E M,C-,7
+S11,Undergraduate,GLOBL   110,LEZRA E M,D,1
+S11,Undergraduate,GLOBL   110,LEZRA E M,F,2
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,A+,25
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,A,35
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,A-,20
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,B+,13
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,B,25
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,B-,2
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,C+,5
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,C,1
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,D+,3
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,D,5
+S11,Undergraduate,GLOBL   120,DARIAN-SMITH,F,2
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,A+,26
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,A,55
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,A-,16
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,B+,22
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,B,9
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,B-,3
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,C+,5
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,C,1
+S11,Undergraduate,GLOBL   124,JUERGENSMEYER,F,1
+S11,Undergraduate,GLOBL   130,MCCARTY P C,A,28
+S11,Undergraduate,GLOBL   130,MCCARTY P C,A-,3
+S11,Undergraduate,GLOBL   130,MCCARTY P C,B,10
+S11,Undergraduate,GLOBL   130,MCCARTY P C,C+,1
+S11,Undergraduate,GLOBL   130,MCCARTY P C,C,3
+S11,Undergraduate,GLOBL   130,MCCARTY P C,F,1
+S11,Undergraduate,GLOBL   161,CLEMENCON R,A+,1
+S11,Undergraduate,GLOBL   161,CLEMENCON R,A,6
+S11,Undergraduate,GLOBL   161,CLEMENCON R,A-,8
+S11,Undergraduate,GLOBL   161,CLEMENCON R,B+,8
+S11,Undergraduate,GLOBL   161,CLEMENCON R,B,5
+S11,Undergraduate,GLOBL   161,CLEMENCON R,B-,1
+S11,Undergraduate,GLOBL   161,CLEMENCON R,C,3
+S11,Undergraduate,GLOBL   161,CLEMENCON R,C-,1
+S11,Undergraduate,GLOBL   161,CLEMENCON R,D,1
+S11,Undergraduate,GLOBL   170,ELVER H,A,6
+S11,Undergraduate,GLOBL   170,ELVER H,A-,1
+S11,Undergraduate,GLOBL   170,ELVER H,B-,2
+S11,Undergraduate,GLOBL   170,ELVER H,C+,1
+S11,Undergraduate,GLOBL   170,ELVER H,F,1
+S11,Undergraduate,GLOBL   191,DARIAN-SMITH,A+,2
+S11,Undergraduate,GLOBL   191,DARIAN-SMITH,A,8
+S11,Undergraduate,GLOBL   194,ORFALEA P J,A,25
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,A+,8
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,A,26
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,A-,7
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,B+,9
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,B,11
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,B-,1
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,C+,2
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,C,2
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,C-,1
+S11,Undergraduate,GLOBL   197,DARIAN-SMITH,F,2
+S11,Undergraduate,GLOBL   197,MCCARTY P C,A,33
+S11,Undergraduate,GLOBL   197,MCCARTY P C,B+,16
+S11,Undergraduate,GLOBL   197,MCCARTY P C,B,32
+S11,Undergraduate,GLOBL   197,MCCARTY P C,C+,2
+S11,Undergraduate,GLOBL   197,MCCARTY P C,C,3
+S11,Undergraduate,GLOBL   197,MCCARTY P C,C-,1
+S11,Undergraduate,GLOBL   197,MCCARTY P C,F,2
+S11,Graduate,GLOBL   225,MOHANTY M,A+,3
+S11,Graduate,GLOBL   225,MOHANTY M,A,8
+S11,Graduate,GLOBL   234,MEHTA A S,A+,2
+S11,Graduate,GLOBL   234,MEHTA A S,A,7
+S11,Graduate,GLOBL   234,MEHTA A S,A-,1
+S11,Graduate,GLOBL   234,MEHTA A S,B+,1
+S11,Graduate,GLOBL   245,AMAR P E,A,4
+S11,Graduate,GLOBL   245,AMAR P E,A-,1
+S11,Graduate,GLOBL   245,AMAR P E,D+,1
+S11,Graduate,GLOBL   270,ELVER H,A,4
+S11,Graduate,GLOBL   270,ELVER H,A-,1
+S11,Graduate,GLOBL   596,APPELBAUM R,A,7
+S11,Graduate,GLOBL   598,APPELBAUM R,S,5
+S11,Graduate,GLOBL   598,APPELBAUM R,U,1

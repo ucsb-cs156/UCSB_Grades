@@ -1,0 +1,98 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,ENV S     1,MARTIN J A,A,8
+M18,Undergraduate,ENV S     1,MARTIN J A,A-,5
+M18,Undergraduate,ENV S     1,MARTIN J A,B+,9
+M18,Undergraduate,ENV S     1,MARTIN J A,B,11
+M18,Undergraduate,ENV S     1,MARTIN J A,B-,11
+M18,Undergraduate,ENV S     1,MARTIN J A,C+,5
+M18,Undergraduate,ENV S     1,MARTIN J A,C,5
+M18,Undergraduate,ENV S     1,MARTIN J A,C-,4
+M18,Undergraduate,ENV S     1,MARTIN J A,D+,2
+M18,Undergraduate,ENV S     1,MARTIN J A,D,2
+M18,Undergraduate,ENV S     1,MARTIN J A,F,4
+M18,Undergraduate,ENV S     2,MORET S L,A+,1
+M18,Undergraduate,ENV S     2,MORET S L,A,6
+M18,Undergraduate,ENV S     2,MORET S L,A-,15
+M18,Undergraduate,ENV S     2,MORET S L,B+,14
+M18,Undergraduate,ENV S     2,MORET S L,B,7
+M18,Undergraduate,ENV S     2,MORET S L,B-,7
+M18,Undergraduate,ENV S     2,MORET S L,C+,3
+M18,Undergraduate,ENV S     2,MORET S L,C,3
+M18,Undergraduate,ENV S     2,MORET S L,C-,2
+M18,Undergraduate,ENV S     2,MORET S L,D-,1
+M18,Undergraduate,ENV S     3,GRAVES G R,A+,7
+M18,Undergraduate,ENV S     3,GRAVES G R,A,17
+M18,Undergraduate,ENV S     3,GRAVES G R,A-,24
+M18,Undergraduate,ENV S     3,GRAVES G R,B+,20
+M18,Undergraduate,ENV S     3,GRAVES G R,B,13
+M18,Undergraduate,ENV S     3,GRAVES G R,B-,2
+M18,Undergraduate,ENV S     3,GRAVES G R,F,3
+M18,Undergraduate,ENV S   100,TYLER C M,A+,9
+M18,Undergraduate,ENV S   100,TYLER C M,A,38
+M18,Undergraduate,ENV S   100,TYLER C M,A-,4
+M18,Undergraduate,ENV S   100,TYLER C M,B+,9
+M18,Undergraduate,ENV S   100,TYLER C M,B,5
+M18,Undergraduate,ENV S   100,TYLER C M,C+,1
+M18,Undergraduate,ENV S   100,TYLER C M,C-,1
+M18,Undergraduate,ENV S   115,GEE Q P,A+,3
+M18,Undergraduate,ENV S   115,GEE Q P,A,7
+M18,Undergraduate,ENV S   115,GEE Q P,A-,8
+M18,Undergraduate,ENV S   115,GEE Q P,B+,8
+M18,Undergraduate,ENV S   115,GEE Q P,B,12
+M18,Undergraduate,ENV S   115,GEE Q P,B-,10
+M18,Undergraduate,ENV S   115,GEE Q P,C+,7
+M18,Undergraduate,ENV S   115,GEE Q P,C,9
+M18,Undergraduate,ENV S   115,GEE Q P,C-,5
+M18,Undergraduate,ENV S   115,GEE Q P,D,1
+M18,Undergraduate,ENV S   115,GEE Q P,D-,2
+M18,Undergraduate,ENV S   122CC,HILTNER K C,A,10
+M18,Undergraduate,ENV S   122CC,HILTNER K C,A-,4
+M18,Undergraduate,ENV S   130A,MALDONADO J K,A,11
+M18,Undergraduate,ENV S   130A,MALDONADO J K,A-,4
+M18,Undergraduate,ENV S   130A,MALDONADO J K,B+,4
+M18,Undergraduate,ENV S   130A,MALDONADO J K,B,4
+M18,Undergraduate,ENV S   130A,MALDONADO J K,B-,4
+M18,Undergraduate,ENV S   130A,MALDONADO J K,C+,1
+M18,Undergraduate,ENV S   130A,MALDONADO J K,C,2
+M18,Undergraduate,ENV S   130A,MALDONADO J K,F,1
+M18,Undergraduate,ENV S   132,KUNDU M,A,3
+M18,Undergraduate,ENV S   132,KUNDU M,A-,7
+M18,Undergraduate,ENV S   132,KUNDU M,B+,9
+M18,Undergraduate,ENV S   132,KUNDU M,B,10
+M18,Undergraduate,ENV S   132,KUNDU M,B-,5
+M18,Undergraduate,ENV S   132,KUNDU M,C+,9
+M18,Undergraduate,ENV S   132,KUNDU M,C,6
+M18,Undergraduate,ENV S   132,KUNDU M,D+,1
+M18,Undergraduate,ENV S   132,KUNDU M,F,1
+M18,Undergraduate,ENV S   160,KRYDER E A,A+,2
+M18,Undergraduate,ENV S   160,KRYDER E A,A,9
+M18,Undergraduate,ENV S   160,KRYDER E A,A-,6
+M18,Undergraduate,ENV S   160,KRYDER E A,B+,2
+M18,Undergraduate,ENV S   160,KRYDER E A,B,2
+M18,Undergraduate,ENV S   160,KRYDER E A,B-,1
+M18,Undergraduate,ENV S   183,MARTIN J A,A,8
+M18,Undergraduate,ENV S   183,MARTIN J A,A-,1
+M18,Undergraduate,ENV S   183,MARTIN J A,B+,4
+M18,Undergraduate,ENV S   183,MARTIN J A,B,6
+M18,Undergraduate,ENV S   183,MARTIN J A,B-,3
+M18,Undergraduate,ENV S   183,MARTIN J A,C,3
+M18,Undergraduate,ENV S   183,MARTIN J A,C-,2
+M18,Undergraduate,ENV S   183,MARTIN J A,D+,1
+M18,Undergraduate,ENV S   183,MARTIN J A,F,4
+M18,Undergraduate,ENV S   188,PYE L,A,33
+M18,Undergraduate,ENV S   188,PYE L,A-,4
+M18,Undergraduate,ENV S   188,PYE L,B+,6
+M18,Undergraduate,ENV S   188,PYE L,B,3
+M18,Undergraduate,ENV S   193BH,BIRNEY K M,A+,17
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,A+,1
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,A,6
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,A-,8
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,B+,9
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,B,1
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,B-,2
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,C,2
+M18,Undergraduate,ENV S   193GB,KAYSEN B J,D,1
+M18,Undergraduate,ENV S   193PL,WILLIAMS D L,A,3
+M18,Undergraduate,ENV S   193PL,WILLIAMS D L,A-,3
+M18,Undergraduate,ENV S   193PL,WILLIAMS D L,B+,2
+M18,Undergraduate,ENV S   193PL,WILLIAMS D L,B,2

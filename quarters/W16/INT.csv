@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,INT       1,FOLK-FARBER K,P,22
+W16,Undergraduate,INT       1,LASTER S,P,26
+W16,Undergraduate,INT       1,PLATOFF A M,P,24
+W16,Undergraduate,INT       1,PLATOFF A M,NP,1
+W16,Undergraduate,INT      75,PRYSTOWSKY J,P,222
+W16,Undergraduate,INT      75,PRYSTOWSKY J,NP,5
+W16,Undergraduate,INT      84JC,CLARK J,A,10
+W16,Undergraduate,INT      84JC,CLARK J,A-,1
+W16,Undergraduate,INT      84JC,CLARK J,B,1
+W16,Undergraduate,INT      84ZB,SIMMS A R,A+,1
+W16,Undergraduate,INT      84ZB,SIMMS A R,A,2
+W16,Undergraduate,INT      84ZB,SIMMS A R,A-,5
+W16,Undergraduate,INT      84ZB,SIMMS A R,B+,1
+W16,Undergraduate,INT      84ZD,BERMUDEZ S,A+,3
+W16,Undergraduate,INT      84ZD,BERMUDEZ S,A,7
+W16,Undergraduate,INT      84ZE,WELD S P,A+,1
+W16,Undergraduate,INT      84ZE,WELD S P,A,13
+W16,Undergraduate,INT      84ZE,WELD S P,A-,1
+W16,Undergraduate,INT      94BN,SKENAZI E C,P,17
+W16,Undergraduate,INT      94BZ,CHRISTOFFERSE,P,20
+W16,Undergraduate,INT      94ER,AWRAMIK S M,P,19
+W16,Undergraduate,INT      94ES,CARLSON C A,P,16
+W16,Undergraduate,INT      94ES,CARLSON C A,NP,2
+W16,Undergraduate,INT      94ES,POOLE S J,P,16
+W16,Undergraduate,INT      94ES,POOLE S J,NP,4
+W16,Undergraduate,INT      94GQ,GARCIA M T,P,18
+W16,Undergraduate,INT      94GQ,GARCIA M T,NP,1
+W16,Undergraduate,INT      94HG,ADAMS A J,P,6
+W16,Undergraduate,INT      94HZ,KING W D,P,21
+W16,Undergraduate,INT      94JK,MCCRACKEN E,P,15
+W16,Undergraduate,INT      94JK,MCCRACKEN E,NP,3
+W16,Undergraduate,INT      94JV,COOPER D,P,19
+W16,Undergraduate,INT      94LV,THROWER D A,P,18
+W16,Undergraduate,INT      94LV,THROWER D A,NP,2
+W16,Undergraduate,INT      94MW,DEVRIES M S,P,19
+W16,Undergraduate,INT      94OZ,KLEIN S B,P,20
+W16,Undergraduate,INT      94PO,SCOTT V,P,16
+W16,Undergraduate,INT      94PO,SCOTT V,NP,2
+W16,Undergraduate,INT      94QI,NORRIS A,P,13
+W16,Undergraduate,INT      94QR,GERMAN T C M,P,19
+W16,Undergraduate,INT      94RH,KEARNEY J J,P,17
+W16,Undergraduate,INT      94RJ,LEWALLEN A,P,10
+W16,Undergraduate,INT      94RK,JAEGER L A,P,15
+W16,Undergraduate,INT      94RK,JAEGER L A,NP,1
+W16,Undergraduate,INT      94RT,DUFFY A E,P,17
+W16,Undergraduate,INT      94RW,YANG XU,P,9
+W16,Undergraduate,INT      94RX,SIMMS A R,P,7
+W16,Undergraduate,INT      94RY,KRINTZ C,P,18
+W16,Undergraduate,INT      94RZ,LEE J W,P,16
+W16,Undergraduate,INT      94RZ,LEE J W,NP,1
+W16,Undergraduate,INT      94SA,SORAPURE M I,P,8
+W16,Undergraduate,INT      94SB,SU J,P,16
+W16,Undergraduate,INT      94SC,TALAMANTEZ I,P,17
+W16,Undergraduate,INT      94SD,ERICKSON B L,P,21
+W16,Undergraduate,INT      94SE,O'CONNOR A M,P,19
+W16,Undergraduate,INT      94SF,MITCHELL G M,P,20
+W16,Undergraduate,INT      94SG,OONO R,P,12
+W16,Undergraduate,INT      94SH,JAMIESON A E,P,17
+W16,Undergraduate,INT      94SH,JAMIESON A E,NP,1
+W16,Undergraduate,INT      94SP,BRADLEY N D,P,7
+W16,Undergraduate,INT      94SQ,LARUE R J,P,15
+W16,Undergraduate,INT      94SQ,LARUE R J,NP,3
+W16,Undergraduate,INT     156BE,JARRETT G C,A,3
+W16,Undergraduate,INT     156BE,JARRETT G C,A-,2
+W16,Undergraduate,INT     156BE,JARRETT G C,B+,3
+W16,Undergraduate,INT     156BE,JARRETT G C,B,1
+W16,Undergraduate,INT     156BE,JARRETT G C,B-,1
+W16,Undergraduate,INT     156BE,JARRETT G C,C+,1
+W16,Undergraduate,INT     156BE,JARRETT G C,C,1
+W16,Undergraduate,INT     184JP,PARK J S W,A,4
+W16,Undergraduate,INT     184JP,PARK J S W,A-,11
+W16,Undergraduate,INT     184JP,PARK J S W,B+,3
+W16,Undergraduate,INT     184PD,BLAIN S M,A+,3
+W16,Undergraduate,INT     184PD,BLAIN S M,A,8
+W16,Undergraduate,INT     184PS,SONNINO P M,A,16
+W16,Undergraduate,INT     184VW,WELTER V W,A+,8
+W16,Undergraduate,INT     184VW,WELTER V W,A,9
+W16,Undergraduate,INT     184VW,WELTER V W,A-,1
+W16,Undergraduate,INT     184VW,WELTER V W,B+,1
+W16,Undergraduate,INT     184VW,WELTER V W,B,1
+W16,Undergraduate,INT     184ZC,SPERA F J,A,22
+W16,Undergraduate,INT     184ZJ,SALTZMAN-LI K,A,16
+W16,Undergraduate,INT     185AM,ADLER-KASSNER,P,14
+W16,Undergraduate,INT     185CW,DONNELLY B,A,21
+W16,Undergraduate,INT     185PP,BENJAMIN R,A+,2
+W16,Undergraduate,INT     185PP,BENJAMIN R,A,4
+W16,Undergraduate,INT     185PP,BENJAMIN R,A-,1
+W16,Undergraduate,INT     185PP,BENJAMIN R,B+,2
+W16,Undergraduate,INT     185ST,ZINN E R,A+,1
+W16,Undergraduate,INT     185ST,ZINN E R,A,14
+W16,Undergraduate,INT     185ST,ZINN E R,B,1
+W16,Undergraduate,INT     185VW,DERWIN S,A,6
+W16,Undergraduate,INT     185VW,DERWIN S,C+,1
+W16,Undergraduate,INT     190MA,SCHNEIDER B E,F,1
+W16,Undergraduate,INT     190MA,SCHNEIDER B E,P,13
+W16,Undergraduate,INT     192DC,ADLER-KASSNER,P,27
+W16,Undergraduate,INT     199DC,ADLER-KASSNER,A,3
+W16,Undergraduate,INT     199DC,ADLER-KASSNER,A-,13
+W16,Undergraduate,INT     199DC,ADLER-KASSNER,B+,7
+W16,Undergraduate,INT     199DC,ADLER-KASSNER,B,4
+W16,Graduate,INT     594ST,DERWIN S,A,5
+W16,Undergraduate,INT  CS  10,LAVERMAN L E,P,7

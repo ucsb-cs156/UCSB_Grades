@@ -1,0 +1,205 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,LING      3B,BAKER A D,A+,10
+S20,Undergraduate,LING      3B,BAKER A D,A,7
+S20,Undergraduate,LING      3B,BAKER A D,A-,6
+S20,Undergraduate,LING      3B,BAKER A D,B+,7
+S20,Undergraduate,LING      3B,BAKER A D,B,1
+S20,Undergraduate,LING      3B,BAKER A D,C+,2
+S20,Undergraduate,LING      3B,MULLEN J O,A+,1
+S20,Undergraduate,LING      3B,MULLEN J O,A,16
+S20,Undergraduate,LING      3B,MULLEN J O,A-,8
+S20,Undergraduate,LING      3B,MULLEN J O,B+,5
+S20,Undergraduate,LING      3B,MULLEN J O,B,3
+S20,Undergraduate,LING      3B,MULLEN J O,B-,2
+S20,Undergraduate,LING      3B,MULLEN J O,C,1
+S20,Undergraduate,LING      3B,MULLEN J O,D,1
+S20,Undergraduate,LING      3B,MULLEN J O,F,1
+S20,Undergraduate,LING      3B,TSAI D,A+,3
+S20,Undergraduate,LING      3B,TSAI D,A,4
+S20,Undergraduate,LING      3B,TSAI D,A-,6
+S20,Undergraduate,LING      3B,TSAI D,B+,1
+S20,Undergraduate,LING      3B,TSAI D,B,1
+S20,Undergraduate,LING      3B,TSAI D,C+,1
+S20,Undergraduate,LING      3B,TSAI D,F,1
+S20,Undergraduate,LING      3C,ELLIOTT G,A+,8
+S20,Undergraduate,LING      3C,ELLIOTT G,A,22
+S20,Undergraduate,LING      3C,ELLIOTT G,A-,6
+S20,Undergraduate,LING      3C,ELLIOTT G,B+,2
+S20,Undergraduate,LING      3C,ELLIOTT G,B,2
+S20,Undergraduate,LING      3C,ELLIOTT G,B-,3
+S20,Undergraduate,LING      3C,ELLIOTT G,C+,2
+S20,Undergraduate,LING      3C,ELLIOTT G,F,5
+S20,Undergraduate,LING      3C,SMALL A L,A,18
+S20,Undergraduate,LING      3C,SMALL A L,A-,10
+S20,Undergraduate,LING      3C,SMALL A L,B+,6
+S20,Undergraduate,LING      3C,SMALL A L,B,1
+S20,Undergraduate,LING      3C,WEBB M T,A+,1
+S20,Undergraduate,LING      3C,WEBB M T,A,3
+S20,Undergraduate,LING      3C,WEBB M T,A-,6
+S20,Undergraduate,LING      3C,WEBB M T,B+,11
+S20,Undergraduate,LING      3C,WEBB M T,B,9
+S20,Undergraduate,LING      3C,WEBB M T,B-,3
+S20,Undergraduate,LING      3C,WEBB M T,F,1
+S20,Undergraduate,LING      3G,WEBB M T,P,18
+S20,Undergraduate,LING      4,GOUGH J D,P,12
+S20,Undergraduate,LING      8,ROBERTSON J L,A,5
+S20,Undergraduate,LING      8,ROBERTSON J L,A-,4
+S20,Undergraduate,LING      8,ROBERTSON J L,B,2
+S20,Undergraduate,LING      8,ROBERTSON J L,B-,1
+S20,Undergraduate,LING     12,BOWMAN I K,A,3
+S20,Undergraduate,LING     12,BOWMAN I K,A-,5
+S20,Undergraduate,LING     12,BOWMAN I K,B+,2
+S20,Undergraduate,LING     12,BOWMAN I K,B,2
+S20,Undergraduate,LING     12,BOWMAN I K,B-,2
+S20,Undergraduate,LING     12,BOWMAN I K,C+,2
+S20,Undergraduate,LING     12,BOWMAN I K,F,1
+S20,Undergraduate,LING     12,CORONA K D,A,34
+S20,Undergraduate,LING     12,CORONA K D,A-,1
+S20,Undergraduate,LING     12,LASHMET A J,A,18
+S20,Undergraduate,LING     12,LASHMET A J,A-,4
+S20,Undergraduate,LING     12,LASHMET A J,B+,3
+S20,Undergraduate,LING     12,LASHMET A J,B,4
+S20,Undergraduate,LING     12,LASHMET A J,B-,2
+S20,Undergraduate,LING     12,LASHMET A J,C+,2
+S20,Undergraduate,LING     12,LASHMET A J,F,1
+S20,Undergraduate,LING     12,RIGHTMIRE S R,A,11
+S20,Undergraduate,LING     12,RIGHTMIRE S R,A-,4
+S20,Undergraduate,LING     12,RIGHTMIRE S R,B+,2
+S20,Undergraduate,LING     12,RIGHTMIRE S R,B-,1
+S20,Undergraduate,LING     12,ROBERTSON J L,A,10
+S20,Undergraduate,LING     12,ROBERTSON J L,A-,4
+S20,Undergraduate,LING     12,ROBERTSON J L,B+,1
+S20,Undergraduate,LING     12,ROBERTSON J L,B,2
+S20,Undergraduate,LING     12,ROBERTSON J L,C+,1
+S20,Undergraduate,LING     12,ROBERTSON J L,F,1
+S20,Undergraduate,LING     12,WESTMACOTT B,A,27
+S20,Undergraduate,LING     12,WESTMACOTT B,A-,3
+S20,Undergraduate,LING     12,WESTMACOTT B,B+,3
+S20,Undergraduate,LING     12,WESTMACOTT B,B-,1
+S20,Undergraduate,LING     12,WESTMACOTT B,D-,1
+S20,Undergraduate,LING     14,GOUGH J D,A+,7
+S20,Undergraduate,LING     14,GOUGH J D,A,7
+S20,Undergraduate,LING     14,GOUGH J D,A-,1
+S20,Undergraduate,LING     14,GOUGH J D,B+,1
+S20,Undergraduate,LING     14,GOUGH J D,B,1
+S20,Undergraduate,LING     14,GOUGH J D,C,1
+S20,Undergraduate,LING     15,KENNEDY R A,A+,71
+S20,Undergraduate,LING     15,KENNEDY R A,A,164
+S20,Undergraduate,LING     15,KENNEDY R A,A-,98
+S20,Undergraduate,LING     15,KENNEDY R A,B+,29
+S20,Undergraduate,LING     15,KENNEDY R A,B,26
+S20,Undergraduate,LING     15,KENNEDY R A,B-,8
+S20,Undergraduate,LING     15,KENNEDY R A,C+,4
+S20,Undergraduate,LING     15,KENNEDY R A,C,10
+S20,Undergraduate,LING     15,KENNEDY R A,C-,3
+S20,Undergraduate,LING     15,KENNEDY R A,D,2
+S20,Undergraduate,LING     15,KENNEDY R A,D-,5
+S20,Undergraduate,LING     15,KENNEDY R A,F,2
+S20,Undergraduate,LING    104,KRAUSE P A,A+,2
+S20,Undergraduate,LING    104,KRAUSE P A,A,5
+S20,Undergraduate,LING    104,KRAUSE P A,A-,6
+S20,Undergraduate,LING    104,KRAUSE P A,B+,6
+S20,Undergraduate,LING    104,KRAUSE P A,B,4
+S20,Undergraduate,LING    104,KRAUSE P A,C,2
+S20,Undergraduate,LING    104,KRAUSE P A,F,5
+S20,Undergraduate,LING    108,CHENG Y,A+,18
+S20,Undergraduate,LING    108,CHENG Y,A,16
+S20,Undergraduate,LING    108,CHENG Y,A-,5
+S20,Undergraduate,LING    108,CHENG Y,B+,6
+S20,Undergraduate,LING    108,CHENG Y,B,2
+S20,Undergraduate,LING    108,CHENG Y,B-,2
+S20,Undergraduate,LING    108,CHENG Y,C+,2
+S20,Undergraduate,LING    108,CHENG Y,C,3
+S20,Undergraduate,LING    108,CHENG Y,D-,1
+S20,Undergraduate,LING    108,CHENG Y,F,4
+S20,Undergraduate,LING    112,BLAYLOCK R,A,6
+S20,Undergraduate,LING    112,BLAYLOCK R,B+,1
+S20,Undergraduate,LING    112,BLAYLOCK R,B,1
+S20,Undergraduate,LING    112,BLAYLOCK R,B-,1
+S20,Undergraduate,LING    112,BLAYLOCK R,C,2
+S20,Undergraduate,LING    112,BLAYLOCK R,F,1
+S20,Undergraduate,LING    115,GORDON M K,A+,15
+S20,Undergraduate,LING    115,GORDON M K,A,9
+S20,Undergraduate,LING    115,GORDON M K,A-,11
+S20,Undergraduate,LING    115,GORDON M K,B+,5
+S20,Undergraduate,LING    115,GORDON M K,B,2
+S20,Undergraduate,LING    115,GORDON M K,B-,3
+S20,Undergraduate,LING    115,GORDON M K,C+,1
+S20,Undergraduate,LING    115,GORDON M K,F,5
+S20,Undergraduate,LING    127,BARNWELL B B,A+,25
+S20,Undergraduate,LING    127,BARNWELL B B,A,26
+S20,Undergraduate,LING    127,BARNWELL B B,A-,9
+S20,Undergraduate,LING    127,BARNWELL B B,B+,7
+S20,Undergraduate,LING    127,BARNWELL B B,B,6
+S20,Undergraduate,LING    127,BARNWELL B B,B-,2
+S20,Undergraduate,LING    127,BARNWELL B B,C+,1
+S20,Undergraduate,LING    127,BARNWELL B B,C,3
+S20,Undergraduate,LING    127,BARNWELL B B,C-,1
+S20,Undergraduate,LING    127,BARNWELL B B,D,4
+S20,Undergraduate,LING    127,BARNWELL B B,F,8
+S20,Undergraduate,LING    131,BAX A C,A+,67
+S20,Undergraduate,LING    131,BAX A C,A,28
+S20,Undergraduate,LING    131,BAX A C,A-,2
+S20,Undergraduate,LING    131,BAX A C,B+,6
+S20,Undergraduate,LING    131,BAX A C,B,4
+S20,Undergraduate,LING    131,BAX A C,B-,3
+S20,Undergraduate,LING    131,BAX A C,C+,2
+S20,Undergraduate,LING    131,BAX A C,C,2
+S20,Undergraduate,LING    131,BAX A C,C-,1
+S20,Undergraduate,LING    131,BAX A C,F,4
+S20,Undergraduate,LING    140,FRODESEN J M,A+,11
+S20,Undergraduate,LING    140,FRODESEN J M,A,4
+S20,Undergraduate,LING    140,FRODESEN J M,A-,5
+S20,Undergraduate,LING    140,FRODESEN J M,B+,1
+S20,Undergraduate,LING    140,FRODESEN J M,B,3
+S20,Undergraduate,LING    140,FRODESEN J M,C+,2
+S20,Undergraduate,LING    140,FRODESEN J M,C,1
+S20,Undergraduate,LING    140,FRODESEN J M,D,1
+S20,Undergraduate,LING    144,ZIMMAN L,A+,13
+S20,Undergraduate,LING    144,ZIMMAN L,A,10
+S20,Undergraduate,LING    144,ZIMMAN L,A-,3
+S20,Undergraduate,LING    144,ZIMMAN L,B+,2
+S20,Undergraduate,LING    144,ZIMMAN L,B,1
+S20,Undergraduate,LING    144,ZIMMAN L,C,2
+S20,Undergraduate,LING    144,ZIMMAN L,C-,1
+S20,Undergraduate,LING    144,ZIMMAN L,F,2
+S20,Undergraduate,LING    145,BLAYLOCK R,A,26
+S20,Undergraduate,LING    145,BLAYLOCK R,A-,8
+S20,Undergraduate,LING    145,BLAYLOCK R,B+,3
+S20,Undergraduate,LING    145,BLAYLOCK R,C,1
+S20,Undergraduate,LING    145,BLAYLOCK R,C-,1
+S20,Undergraduate,LING    145,BLAYLOCK R,F,3
+S20,Undergraduate,LING    180,CLAIRMONT III,A+,23
+S20,Undergraduate,LING    180,CLAIRMONT III,A,121
+S20,Undergraduate,LING    180,CLAIRMONT III,A-,11
+S20,Undergraduate,LING    180,CLAIRMONT III,B+,11
+S20,Undergraduate,LING    180,CLAIRMONT III,B,12
+S20,Undergraduate,LING    180,CLAIRMONT III,B-,3
+S20,Undergraduate,LING    180,CLAIRMONT III,C+,6
+S20,Undergraduate,LING    180,CLAIRMONT III,C,5
+S20,Undergraduate,LING    180,CLAIRMONT III,D,1
+S20,Undergraduate,LING    180,CLAIRMONT III,F,7
+S20,Undergraduate,LING    194,CONNER T M,A,31
+S20,Undergraduate,LING    194,CONNER T M,A-,4
+S20,Undergraduate,LING    194,CONNER T M,B+,2
+S20,Undergraduate,LING    194,CONNER T M,B,1
+S20,Undergraduate,LING    194,CONNER T M,C+,1
+S20,Undergraduate,LING    194,CONNER T M,C-,1
+S20,Undergraduate,LING    199,BUCHOLTZ M H,A,9
+S20,Undergraduate,LING    199,BUCHOLTZ M H,B-,1
+S20,Undergraduate,LING    199,MITHUN M,A,12
+S20,Graduate,LING    212,DU BOIS J W,A+,1
+S20,Graduate,LING    212,DU BOIS J W,A,4
+S20,Graduate,LING    213,KRAUSE P A,A,8
+S20,Graduate,LING    218,GRIES S T,A+,1
+S20,Graduate,LING    218,GRIES S T,A,10
+S20,Graduate,LING    221C,CAMPBELL E W,A+,2
+S20,Graduate,LING    221C,CAMPBELL E W,A,5
+S20,Graduate,LING    260,MITHUN M,A+,1
+S20,Graduate,LING    260,MITHUN M,A,5
+S20,Graduate,LING    260,MITHUN M,B,1
+S20,Graduate,LING    272,MITHUN M,S,20
+S20,Graduate,LING    288,HOU L Y,A,6
+S20,Graduate,LING    288,HOU L Y,S,6
+S20,Graduate,LING    500,KENNEDY R A,S,8
+S20,Graduate,LING    505,DU BOIS J W,S,7

@@ -1,0 +1,182 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W14,Undergraduate,POL S     1,HUGHES T,A,13
+W14,Undergraduate,POL S     1,HUGHES T,A-,12
+W14,Undergraduate,POL S     1,HUGHES T,B+,14
+W14,Undergraduate,POL S     1,HUGHES T,B,33
+W14,Undergraduate,POL S     1,HUGHES T,B-,23
+W14,Undergraduate,POL S     1,HUGHES T,C+,9
+W14,Undergraduate,POL S     1,HUGHES T,C,17
+W14,Undergraduate,POL S     1,HUGHES T,C-,1
+W14,Undergraduate,POL S     1,HUGHES T,D,1
+W14,Undergraduate,POL S     1,HUGHES T,F,3
+W14,Undergraduate,POL S     7,TOTTEN R,A+,3
+W14,Undergraduate,POL S     7,TOTTEN R,A,51
+W14,Undergraduate,POL S     7,TOTTEN R,A-,27
+W14,Undergraduate,POL S     7,TOTTEN R,B+,12
+W14,Undergraduate,POL S     7,TOTTEN R,B,15
+W14,Undergraduate,POL S     7,TOTTEN R,B-,6
+W14,Undergraduate,POL S     7,TOTTEN R,C+,2
+W14,Undergraduate,POL S     7,TOTTEN R,C,2
+W14,Undergraduate,POL S     7,TOTTEN R,C-,5
+W14,Undergraduate,POL S     7,TOTTEN R,F,4
+W14,Undergraduate,POL S    12,ANAGNOSON J T,A,3
+W14,Undergraduate,POL S    12,ANAGNOSON J T,A-,6
+W14,Undergraduate,POL S    12,ANAGNOSON J T,B+,12
+W14,Undergraduate,POL S    12,ANAGNOSON J T,B,30
+W14,Undergraduate,POL S    12,ANAGNOSON J T,B-,28
+W14,Undergraduate,POL S    12,ANAGNOSON J T,C+,20
+W14,Undergraduate,POL S    12,ANAGNOSON J T,C,14
+W14,Undergraduate,POL S    12,ANAGNOSON J T,C-,3
+W14,Undergraduate,POL S    12,ANAGNOSON J T,D+,1
+W14,Undergraduate,POL S    12,ANAGNOSON J T,D,2
+W14,Undergraduate,POL S    12,ANAGNOSON J T,F,4
+W14,Undergraduate,POL S   106IC,ENGLUND S H,A-,19
+W14,Undergraduate,POL S   106IC,ENGLUND S H,B+,21
+W14,Undergraduate,POL S   106IC,ENGLUND S H,B,1
+W14,Undergraduate,POL S   106MM,MARQUEZ M,A,12
+W14,Undergraduate,POL S   106MM,MARQUEZ M,A-,4
+W14,Undergraduate,POL S   106MM,MARQUEZ M,B+,1
+W14,Undergraduate,POL S   106MM,MARQUEZ M,B,3
+W14,Undergraduate,POL S   106MM,MARQUEZ M,B-,1
+W14,Undergraduate,POL S   106MM,MARQUEZ M,D+,1
+W14,Undergraduate,POL S   106MM,MARQUEZ M,F,1
+W14,Undergraduate,POL S   106ND,KAPLAN C S,A,2
+W14,Undergraduate,POL S   106ND,KAPLAN C S,A-,1
+W14,Undergraduate,POL S   106ND,KAPLAN C S,B,1
+W14,Undergraduate,POL S   106ND,KAPLAN C S,F,1
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,A,3
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,A-,10
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,B+,6
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,B,14
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,B-,4
+W14,Undergraduate,POL S   106PC,OLEINIKOV P,C,3
+W14,Undergraduate,POL S   109,OLEINIKOV P,A,5
+W14,Undergraduate,POL S   109,OLEINIKOV P,A-,6
+W14,Undergraduate,POL S   109,OLEINIKOV P,B+,8
+W14,Undergraduate,POL S   109,OLEINIKOV P,B,10
+W14,Undergraduate,POL S   109,OLEINIKOV P,B-,2
+W14,Undergraduate,POL S   109,OLEINIKOV P,C+,2
+W14,Undergraduate,POL S   109,OLEINIKOV P,C,2
+W14,Undergraduate,POL S   109,OLEINIKOV P,C-,1
+W14,Undergraduate,POL S   109,OLEINIKOV P,D+,1
+W14,Undergraduate,POL S   109,OLEINIKOV P,F,2
+W14,Undergraduate,POL S   110,HUGHES T,A+,1
+W14,Undergraduate,POL S   110,HUGHES T,A,6
+W14,Undergraduate,POL S   110,HUGHES T,A-,13
+W14,Undergraduate,POL S   110,HUGHES T,B+,15
+W14,Undergraduate,POL S   110,HUGHES T,B,11
+W14,Undergraduate,POL S   110,HUGHES T,B-,4
+W14,Undergraduate,POL S   110,HUGHES T,C+,3
+W14,Undergraduate,POL S   110,HUGHES T,C,2
+W14,Undergraduate,POL S   110,HUGHES T,D-,1
+W14,Undergraduate,POL S   114,NORRIS A,A,1
+W14,Undergraduate,POL S   114,NORRIS A,A-,2
+W14,Undergraduate,POL S   114,NORRIS A,B+,1
+W14,Undergraduate,POL S   114,NORRIS A,B,4
+W14,Undergraduate,POL S   114,NORRIS A,B-,4
+W14,Undergraduate,POL S   114,NORRIS A,C+,3
+W14,Undergraduate,POL S   114,NORRIS A,C,3
+W14,Undergraduate,POL S   114,NORRIS A,C-,3
+W14,Undergraduate,POL S   114,NORRIS A,D+,2
+W14,Undergraduate,POL S   114,NORRIS A,F,4
+W14,Undergraduate,POL S   115,BINION G N,A+,1
+W14,Undergraduate,POL S   115,BINION G N,A,1
+W14,Undergraduate,POL S   115,BINION G N,A-,9
+W14,Undergraduate,POL S   115,BINION G N,B+,35
+W14,Undergraduate,POL S   115,BINION G N,B,32
+W14,Undergraduate,POL S   115,BINION G N,B-,18
+W14,Undergraduate,POL S   115,BINION G N,C+,11
+W14,Undergraduate,POL S   115,BINION G N,C,5
+W14,Undergraduate,POL S   115,BINION G N,C-,1
+W14,Undergraduate,POL S   115,BINION G N,F,2
+W14,Undergraduate,POL S   126,TOTTEN R,A+,1
+W14,Undergraduate,POL S   126,TOTTEN R,A,20
+W14,Undergraduate,POL S   126,TOTTEN R,A-,26
+W14,Undergraduate,POL S   126,TOTTEN R,B+,26
+W14,Undergraduate,POL S   126,TOTTEN R,B,27
+W14,Undergraduate,POL S   126,TOTTEN R,B-,6
+W14,Undergraduate,POL S   126,TOTTEN R,C+,2
+W14,Undergraduate,POL S   126,TOTTEN R,C,4
+W14,Undergraduate,POL S   126,TOTTEN R,C-,1
+W14,Undergraduate,POL S   126,TOTTEN R,D-,2
+W14,Undergraduate,POL S   126,TOTTEN R,F,5
+W14,Undergraduate,POL S   127,ENGLUND S H,A+,3
+W14,Undergraduate,POL S   127,ENGLUND S H,A,20
+W14,Undergraduate,POL S   127,ENGLUND S H,A-,32
+W14,Undergraduate,POL S   127,ENGLUND S H,B+,23
+W14,Undergraduate,POL S   127,ENGLUND S H,B,24
+W14,Undergraduate,POL S   127,ENGLUND S H,B-,7
+W14,Undergraduate,POL S   127,ENGLUND S H,C+,5
+W14,Undergraduate,POL S   127,ENGLUND S H,C,2
+W14,Undergraduate,POL S   127,ENGLUND S H,D,1
+W14,Undergraduate,POL S   127,ENGLUND S H,D-,1
+W14,Undergraduate,POL S   127,ENGLUND S H,F,3
+W14,Undergraduate,POL S   143,KAPLAN C S,A,1
+W14,Undergraduate,POL S   143,KAPLAN C S,A-,2
+W14,Undergraduate,POL S   143,KAPLAN C S,B+,4
+W14,Undergraduate,POL S   143,KAPLAN C S,B,14
+W14,Undergraduate,POL S   143,KAPLAN C S,B-,4
+W14,Undergraduate,POL S   143,KAPLAN C S,C+,5
+W14,Undergraduate,POL S   143,KAPLAN C S,C,4
+W14,Undergraduate,POL S   143,KAPLAN C S,C-,2
+W14,Undergraduate,POL S   143,KAPLAN C S,D,1
+W14,Undergraduate,POL S   162,SANTORI G C,A,16
+W14,Undergraduate,POL S   162,SANTORI G C,A-,22
+W14,Undergraduate,POL S   162,SANTORI G C,B+,22
+W14,Undergraduate,POL S   162,SANTORI G C,B,6
+W14,Undergraduate,POL S   162,SANTORI G C,B-,3
+W14,Undergraduate,POL S   162,SANTORI G C,C-,1
+W14,Undergraduate,POL S   162,SANTORI G C,F,4
+W14,Undergraduate,POL S   175,SMITH E R,A,7
+W14,Undergraduate,POL S   175,SMITH E R,A-,9
+W14,Undergraduate,POL S   175,SMITH E R,B+,12
+W14,Undergraduate,POL S   175,SMITH E R,B,11
+W14,Undergraduate,POL S   175,SMITH E R,B-,16
+W14,Undergraduate,POL S   175,SMITH E R,C+,13
+W14,Undergraduate,POL S   175,SMITH E R,C,7
+W14,Undergraduate,POL S   175,SMITH E R,C-,2
+W14,Undergraduate,POL S   175,SMITH E R,D,1
+W14,Undergraduate,POL S   182,MCDONNELL L M,A,2
+W14,Undergraduate,POL S   182,MCDONNELL L M,A-,9
+W14,Undergraduate,POL S   182,MCDONNELL L M,B+,17
+W14,Undergraduate,POL S   182,MCDONNELL L M,B,17
+W14,Undergraduate,POL S   182,MCDONNELL L M,B-,11
+W14,Undergraduate,POL S   182,MCDONNELL L M,C+,4
+W14,Undergraduate,POL S   182,MCDONNELL L M,C,1
+W14,Undergraduate,POL S   182,MCDONNELL L M,F,1
+W14,Undergraduate,POL S   185,WOOLLEY J T,A,9
+W14,Undergraduate,POL S   185,WOOLLEY J T,A-,19
+W14,Undergraduate,POL S   185,WOOLLEY J T,B+,24
+W14,Undergraduate,POL S   185,WOOLLEY J T,B,21
+W14,Undergraduate,POL S   185,WOOLLEY J T,B-,11
+W14,Undergraduate,POL S   185,WOOLLEY J T,C+,4
+W14,Undergraduate,POL S   185,WOOLLEY J T,C,5
+W14,Undergraduate,POL S   185,WOOLLEY J T,C-,1
+W14,Undergraduate,POL S   185,WOOLLEY J T,D+,2
+W14,Undergraduate,POL S   185,WOOLLEY J T,F,2
+W14,Undergraduate,POL S   186,COHEN B J,A,12
+W14,Undergraduate,POL S   186,COHEN B J,A-,31
+W14,Undergraduate,POL S   186,COHEN B J,B+,23
+W14,Undergraduate,POL S   186,COHEN B J,B,36
+W14,Undergraduate,POL S   186,COHEN B J,B-,14
+W14,Undergraduate,POL S   186,COHEN B J,C+,12
+W14,Undergraduate,POL S   186,COHEN B J,C,6
+W14,Undergraduate,POL S   186,COHEN B J,C-,1
+W14,Undergraduate,POL S   186,COHEN B J,F,1
+W14,Undergraduate,POL S   197B,BIMBER B,A,4
+W14,Undergraduate,POL S   197B,BIMBER B,B+,1
+W14,Graduate,POL S   204,JENNINGS M K,A,3
+W14,Graduate,POL S   204,JENNINGS M K,A-,3
+W14,Graduate,POL S   204,JENNINGS M K,B+,1
+W14,Graduate,POL S   207,GLASGOW G E,A,13
+W14,Graduate,POL S   207,GLASGOW G E,A-,4
+W14,Graduate,POL S   237,AHUJA A,A,4
+W14,Graduate,POL S   237,AHUJA A,A-,4
+W14,Graduate,POL S   256,WOOLLEY J T,A,4
+W14,Graduate,POL S   256,WOOLLEY J T,A-,2
+W14,Graduate,POL S   256,WOOLLEY J T,B+,2
+W14,Graduate,POL S   275,NARANG N,A,1
+W14,Graduate,POL S   275,NARANG N,A-,2
+W14,Graduate,POL S   275,NARANG N,B+,3
+W14,Graduate,POL S   501B,WIENER S L,S,7
+W14,Graduate,POL S   595B,LIEN P,S,27

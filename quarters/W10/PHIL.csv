@@ -1,0 +1,143 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W10,Undergraduate,ECON    160,PHILLIPS L,A+,4
+W10,Undergraduate,ECON    160,PHILLIPS L,A,6
+W10,Undergraduate,ECON    160,PHILLIPS L,A-,12
+W10,Undergraduate,ECON    160,PHILLIPS L,B+,15
+W10,Undergraduate,ECON    160,PHILLIPS L,B,26
+W10,Undergraduate,ECON    160,PHILLIPS L,B-,21
+W10,Undergraduate,ECON    160,PHILLIPS L,C+,8
+W10,Undergraduate,ECON    160,PHILLIPS L,C,6
+W10,Undergraduate,ECON    160,PHILLIPS L,C-,6
+W10,Undergraduate,ECON    160,PHILLIPS L,D+,1
+W10,Undergraduate,ECON    160,PHILLIPS L,D,2
+W10,Undergraduate,ECON    160,PHILLIPS L,D-,2
+W10,Undergraduate,ECON    160,PHILLIPS L,F,2
+W10,Undergraduate,PHIL      1,NANCE I T,A,8
+W10,Undergraduate,PHIL      1,NANCE I T,A-,16
+W10,Undergraduate,PHIL      1,NANCE I T,B+,30
+W10,Undergraduate,PHIL      1,NANCE I T,B,31
+W10,Undergraduate,PHIL      1,NANCE I T,B-,32
+W10,Undergraduate,PHIL      1,NANCE I T,C+,13
+W10,Undergraduate,PHIL      1,NANCE I T,C,5
+W10,Undergraduate,PHIL      1,NANCE I T,C-,1
+W10,Undergraduate,PHIL      1,NANCE I T,D+,1
+W10,Undergraduate,PHIL      1,NANCE I T,F,3
+W10,Undergraduate,PHIL      3,MAY J D,A,5
+W10,Undergraduate,PHIL      3,MAY J D,A-,4
+W10,Undergraduate,PHIL      3,MAY J D,B+,14
+W10,Undergraduate,PHIL      3,MAY J D,B,23
+W10,Undergraduate,PHIL      3,MAY J D,B-,18
+W10,Undergraduate,PHIL      3,MAY J D,C+,5
+W10,Undergraduate,PHIL      3,MAY J D,C,9
+W10,Undergraduate,PHIL      3,MAY J D,C-,8
+W10,Undergraduate,PHIL      3,MAY J D,D,2
+W10,Undergraduate,PHIL      3,MAY J D,D-,8
+W10,Undergraduate,PHIL      3,MAY J D,F,8
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,A,11
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,A-,18
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,B+,28
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,B,29
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,B-,29
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,C+,19
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,C,15
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,C-,7
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,D+,3
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,D,1
+W10,Undergraduate,PHIL      4,ZIMMERMAN A Z,F,2
+W10,Undergraduate,PHIL      7,MCDONALD C M,A,6
+W10,Undergraduate,PHIL      7,MCDONALD C M,A-,17
+W10,Undergraduate,PHIL      7,MCDONALD C M,B+,19
+W10,Undergraduate,PHIL      7,MCDONALD C M,B,15
+W10,Undergraduate,PHIL      7,MCDONALD C M,B-,9
+W10,Undergraduate,PHIL      7,MCDONALD C M,C+,1
+W10,Undergraduate,PHIL      7,MCDONALD C M,C,1
+W10,Undergraduate,PHIL      7,MCDONALD C M,D,1
+W10,Undergraduate,PHIL      7,MCDONALD C M,F,1
+W10,Undergraduate,PHIL     20B,FALVEY K T,A,7
+W10,Undergraduate,PHIL     20B,FALVEY K T,A-,13
+W10,Undergraduate,PHIL     20B,FALVEY K T,B+,23
+W10,Undergraduate,PHIL     20B,FALVEY K T,B,23
+W10,Undergraduate,PHIL     20B,FALVEY K T,B-,25
+W10,Undergraduate,PHIL     20B,FALVEY K T,C+,16
+W10,Undergraduate,PHIL     20B,FALVEY K T,C,10
+W10,Undergraduate,PHIL     20B,FALVEY K T,C-,8
+W10,Undergraduate,PHIL     20B,FALVEY K T,D+,3
+W10,Undergraduate,PHIL     20B,FALVEY K T,F,5
+W10,Undergraduate,PHIL    100E,FALVEY K T,B+,6
+W10,Undergraduate,PHIL    100E,FALVEY K T,B,5
+W10,Undergraduate,PHIL    100E,FALVEY K T,B-,5
+W10,Undergraduate,PHIL    100E,FALVEY K T,C+,3
+W10,Undergraduate,PHIL    100E,FALVEY K T,C,4
+W10,Undergraduate,PHIL    100E,FALVEY K T,C-,1
+W10,Undergraduate,PHIL    100E,FALVEY K T,F,3
+W10,Undergraduate,PHIL    116,SALMON N U,A+,1
+W10,Undergraduate,PHIL    116,SALMON N U,B+,1
+W10,Undergraduate,PHIL    116,SALMON N U,B,4
+W10,Undergraduate,PHIL    116,SALMON N U,B-,6
+W10,Undergraduate,PHIL    116,SALMON N U,C+,3
+W10,Undergraduate,PHIL    116,SALMON N U,C,8
+W10,Undergraduate,PHIL    116,SALMON N U,C-,2
+W10,Undergraduate,PHIL    116,SALMON N U,D+,1
+W10,Undergraduate,PHIL    116,SALMON N U,D,3
+W10,Undergraduate,PHIL    116,SALMON N U,F,1
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,A,4
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,A-,4
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,B+,4
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,B,11
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,B-,10
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,C+,5
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,C,14
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,C-,7
+W10,Undergraduate,PHIL    124D,HUMPHREY S F,F,6
+W10,Undergraduate,PHIL    133,MCMAHON C A,A,5
+W10,Undergraduate,PHIL    133,MCMAHON C A,A-,6
+W10,Undergraduate,PHIL    133,MCMAHON C A,B+,6
+W10,Undergraduate,PHIL    133,MCMAHON C A,B,8
+W10,Undergraduate,PHIL    133,MCMAHON C A,B-,7
+W10,Undergraduate,PHIL    133,MCMAHON C A,C+,1
+W10,Undergraduate,PHIL    133,MCMAHON C A,C,2
+W10,Undergraduate,PHIL    133,MCMAHON C A,C-,1
+W10,Undergraduate,PHIL    144,WILKINS B T,A,3
+W10,Undergraduate,PHIL    144,WILKINS B T,A-,10
+W10,Undergraduate,PHIL    144,WILKINS B T,B+,6
+W10,Undergraduate,PHIL    144,WILKINS B T,B,9
+W10,Undergraduate,PHIL    144,WILKINS B T,B-,1
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,A+,2
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,A,9
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,A-,4
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,B+,7
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,B,1
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,B-,2
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,C+,1
+W10,Undergraduate,PHIL    150B,BRUECKNER A L,F,2
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,A+,1
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,A,6
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,A-,7
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,B+,7
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,B,9
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,B-,5
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,C+,3
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,C,1
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,C-,1
+W10,Undergraduate,PHIL    165,ZIMMERMAN A Z,F,1
+W10,Undergraduate,PHIL    183,SALMON N U,A,5
+W10,Undergraduate,PHIL    183,SALMON N U,A-,1
+W10,Undergraduate,PHIL    183,SALMON N U,B+,3
+W10,Undergraduate,PHIL    183,SALMON N U,B,6
+W10,Undergraduate,PHIL    183,SALMON N U,B-,2
+W10,Undergraduate,PHIL    183,SALMON N U,C+,11
+W10,Undergraduate,PHIL    183,SALMON N U,C,14
+W10,Undergraduate,PHIL    183,SALMON N U,C-,5
+W10,Undergraduate,PHIL    183,SALMON N U,D+,4
+W10,Undergraduate,PHIL    183,SALMON N U,D,8
+W10,Undergraduate,PHIL    183,SALMON N U,D-,2
+W10,Undergraduate,PHIL    183,SALMON N U,F,12
+W10,Graduate,PHIL    296A,HANSER M F,A,2
+W10,Graduate,PHIL    296A,HANSER M F,A-,1
+W10,Graduate,PHIL    296A,HANSER M F,B+,1
+W10,Graduate,PHIL    296A,HANSER M F,S,1
+W10,Graduate,PHIL    297A,HOLDEN T A,A,3
+W10,Graduate,PHIL    297A,HOLDEN T A,A-,2
+W10,Graduate,PHIL    297A,HOLDEN T A,B+,1
+W10,Graduate,PHIL    297A,HOLDEN T A,S,2
+W10,Graduate,PHIL    500,HOLDEN T A,S,18

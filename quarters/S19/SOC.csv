@@ -1,0 +1,363 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,SOC       1,TOBER T L,A+,11
+S19,Undergraduate,SOC       1,TOBER T L,A,74
+S19,Undergraduate,SOC       1,TOBER T L,A-,80
+S19,Undergraduate,SOC       1,TOBER T L,B+,61
+S19,Undergraduate,SOC       1,TOBER T L,B,94
+S19,Undergraduate,SOC       1,TOBER T L,B-,56
+S19,Undergraduate,SOC       1,TOBER T L,C+,34
+S19,Undergraduate,SOC       1,TOBER T L,C,23
+S19,Undergraduate,SOC       1,TOBER T L,C-,16
+S19,Undergraduate,SOC       1,TOBER T L,D,3
+S19,Undergraduate,SOC       1,TOBER T L,F,14
+S19,Undergraduate,SOC      91,LUNA Z T,P,2
+S19,Undergraduate,SOC     108,KULICK A T,A,26
+S19,Undergraduate,SOC     108,KULICK A T,A-,17
+S19,Undergraduate,SOC     108,KULICK A T,B+,5
+S19,Undergraduate,SOC     108,KULICK A T,B,9
+S19,Undergraduate,SOC     108,KULICK A T,C+,2
+S19,Undergraduate,SOC     108,KULICK A T,C,2
+S19,Undergraduate,SOC     108,KULICK A T,D,1
+S19,Undergraduate,SOC     108F,RAYMOND E,A+,9
+S19,Undergraduate,SOC     108F,RAYMOND E,A,10
+S19,Undergraduate,SOC     108F,RAYMOND E,A-,11
+S19,Undergraduate,SOC     108F,RAYMOND E,B+,8
+S19,Undergraduate,SOC     108F,RAYMOND E,B,8
+S19,Undergraduate,SOC     108F,RAYMOND E,B-,3
+S19,Undergraduate,SOC     108F,RAYMOND E,C+,3
+S19,Undergraduate,SOC     108F,RAYMOND E,C,5
+S19,Undergraduate,SOC     108F,RAYMOND E,D,1
+S19,Undergraduate,SOC     108F,RAYMOND E,F,1
+S19,Undergraduate,SOC     108G,FORAN J F,A,23
+S19,Undergraduate,SOC     108G,FORAN J F,A-,26
+S19,Undergraduate,SOC     108G,FORAN J F,B+,11
+S19,Undergraduate,SOC     108G,FORAN J F,B,7
+S19,Undergraduate,SOC     108G,FORAN J F,B-,1
+S19,Undergraduate,SOC     108G,FORAN J F,F,1
+S19,Undergraduate,SOC     108ST,CAST A D,A+,3
+S19,Undergraduate,SOC     108ST,CAST A D,A,9
+S19,Undergraduate,SOC     108ST,CAST A D,A-,10
+S19,Undergraduate,SOC     108ST,CAST A D,B+,9
+S19,Undergraduate,SOC     108ST,CAST A D,B,16
+S19,Undergraduate,SOC     108ST,CAST A D,B-,3
+S19,Undergraduate,SOC     108ST,CAST A D,C+,3
+S19,Undergraduate,SOC     108ST,CAST A D,C,4
+S19,Undergraduate,SOC     108ST,CAST A D,C-,2
+S19,Undergraduate,SOC     108ST,CAST A D,D+,1
+S19,Undergraduate,SOC     108ST,CAST A D,F,1
+S19,Undergraduate,SOC     118C,CRUZ J D,A+,6
+S19,Undergraduate,SOC     118C,CRUZ J D,A,9
+S19,Undergraduate,SOC     118C,CRUZ J D,A-,16
+S19,Undergraduate,SOC     118C,CRUZ J D,B+,4
+S19,Undergraduate,SOC     118C,CRUZ J D,B,13
+S19,Undergraduate,SOC     118C,CRUZ J D,B-,5
+S19,Undergraduate,SOC     118C,CRUZ J D,C+,4
+S19,Undergraduate,SOC     118C,CRUZ J D,C,7
+S19,Undergraduate,SOC     118C,CRUZ J D,C-,1
+S19,Undergraduate,SOC     118C,CRUZ J D,D+,1
+S19,Undergraduate,SOC     118C,CRUZ J D,D,4
+S19,Undergraduate,SOC     118C,CRUZ J D,D-,4
+S19,Undergraduate,SOC     118C,CRUZ J D,F,1
+S19,Undergraduate,SOC     130SD,FORAN J F,A+,14
+S19,Undergraduate,SOC     130SD,FORAN J F,A,58
+S19,Undergraduate,SOC     130SD,FORAN J F,A-,4
+S19,Undergraduate,SOC     130SD,FORAN J F,B+,2
+S19,Undergraduate,SOC     130SD,FORAN J F,B,1
+S19,Undergraduate,SOC     130SD,FORAN J F,B-,1
+S19,Undergraduate,SOC     130SD,FORAN J F,F,4
+S19,Undergraduate,SOC     130SG,TOBER T L,A,17
+S19,Undergraduate,SOC     130SG,TOBER T L,A-,16
+S19,Undergraduate,SOC     130SG,TOBER T L,B+,18
+S19,Undergraduate,SOC     130SG,TOBER T L,B,15
+S19,Undergraduate,SOC     130SG,TOBER T L,B-,10
+S19,Undergraduate,SOC     130SG,TOBER T L,C+,3
+S19,Undergraduate,SOC     130SG,TOBER T L,C-,1
+S19,Undergraduate,SOC     130SG,TOBER T L,F,1
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,A+,2
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,A,46
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,B+,5
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,B,20
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,C+,1
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,C,2
+S19,Undergraduate,SOC     134F,LOPEZ-ALVES F,D,2
+S19,Undergraduate,SOC     134N,BRAZZELL M S,A,29
+S19,Undergraduate,SOC     134N,BRAZZELL M S,A-,13
+S19,Undergraduate,SOC     134N,BRAZZELL M S,B+,12
+S19,Undergraduate,SOC     134N,BRAZZELL M S,B,13
+S19,Undergraduate,SOC     134N,BRAZZELL M S,B-,5
+S19,Undergraduate,SOC     134N,BRAZZELL M S,C+,8
+S19,Undergraduate,SOC     134N,BRAZZELL M S,C,4
+S19,Undergraduate,SOC     134N,BRAZZELL M S,C-,1
+S19,Undergraduate,SOC     134N,BRAZZELL M S,F,1
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,A+,7
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,A,17
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,A-,19
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,B+,9
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,B,13
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,B-,9
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,C+,1
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,C,1
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,C-,1
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,D,1
+S19,Undergraduate,SOC     136C,WHITEHEAD K A,F,2
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,A+,9
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,A,17
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,A-,20
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,B+,17
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,B,12
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,B-,22
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,C+,9
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,C,3
+S19,Undergraduate,SOC     138G,JUERGENSMEYER,F,1
+S19,Undergraduate,SOC     139RN,KELEKAY J L,A+,5
+S19,Undergraduate,SOC     139RN,KELEKAY J L,A,20
+S19,Undergraduate,SOC     139RN,KELEKAY J L,A-,24
+S19,Undergraduate,SOC     139RN,KELEKAY J L,B+,15
+S19,Undergraduate,SOC     139RN,KELEKAY J L,B,15
+S19,Undergraduate,SOC     139RN,KELEKAY J L,B-,5
+S19,Undergraduate,SOC     139RN,KELEKAY J L,C+,1
+S19,Undergraduate,SOC     139RN,KELEKAY J L,C,1
+S19,Undergraduate,SOC     139RN,KELEKAY J L,F,1
+S19,Undergraduate,SOC     144,SOTO O F,A+,68
+S19,Undergraduate,SOC     144,SOTO O F,A,16
+S19,Undergraduate,SOC     144,SOTO O F,A-,3
+S19,Undergraduate,SOC     144,SOTO O F,B,1
+S19,Undergraduate,SOC     145,RAYMOND E,A+,2
+S19,Undergraduate,SOC     145,RAYMOND E,A,15
+S19,Undergraduate,SOC     145,RAYMOND E,A-,5
+S19,Undergraduate,SOC     145,RAYMOND E,B+,7
+S19,Undergraduate,SOC     145,RAYMOND E,B,18
+S19,Undergraduate,SOC     145,RAYMOND E,B-,8
+S19,Undergraduate,SOC     145,RAYMOND E,C+,4
+S19,Undergraduate,SOC     145,RAYMOND E,C,8
+S19,Undergraduate,SOC     145,RAYMOND E,C-,2
+S19,Undergraduate,SOC     145,RAYMOND E,D,3
+S19,Undergraduate,SOC     145,RAYMOND E,D-,1
+S19,Undergraduate,SOC     145,RAYMOND E,F,7
+S19,Undergraduate,SOC     146,TAYLOR C J,A,2
+S19,Undergraduate,SOC     146,TAYLOR C J,A-,5
+S19,Undergraduate,SOC     146,TAYLOR C J,B+,6
+S19,Undergraduate,SOC     146,TAYLOR C J,B,7
+S19,Undergraduate,SOC     146,TAYLOR C J,B-,5
+S19,Undergraduate,SOC     146,TAYLOR C J,C+,2
+S19,Undergraduate,SOC     146,TAYLOR C J,C,2
+S19,Undergraduate,SOC     146,TAYLOR C J,F,1
+S19,Undergraduate,SOC     146,WOHL H L,A+,7
+S19,Undergraduate,SOC     146,WOHL H L,A,25
+S19,Undergraduate,SOC     146,WOHL H L,A-,17
+S19,Undergraduate,SOC     146,WOHL H L,B+,4
+S19,Undergraduate,SOC     146,WOHL H L,B,7
+S19,Undergraduate,SOC     146,WOHL H L,B-,4
+S19,Undergraduate,SOC     146,WOHL H L,C+,3
+S19,Undergraduate,SOC     146,WOHL H L,C,6
+S19,Undergraduate,SOC     146,WOHL H L,F,1
+S19,Undergraduate,SOC     152A,BALDWIN J D,A+,11
+S19,Undergraduate,SOC     152A,BALDWIN J D,A,122
+S19,Undergraduate,SOC     152A,BALDWIN J D,A-,71
+S19,Undergraduate,SOC     152A,BALDWIN J D,B+,78
+S19,Undergraduate,SOC     152A,BALDWIN J D,B,81
+S19,Undergraduate,SOC     152A,BALDWIN J D,B-,68
+S19,Undergraduate,SOC     152A,BALDWIN J D,C+,65
+S19,Undergraduate,SOC     152A,BALDWIN J D,C,42
+S19,Undergraduate,SOC     152A,BALDWIN J D,C-,21
+S19,Undergraduate,SOC     152A,BALDWIN J D,D,8
+S19,Undergraduate,SOC     152A,BALDWIN J D,F,52
+S19,Undergraduate,SOC     152A,BALDWIN J I,A+,11
+S19,Undergraduate,SOC     152A,BALDWIN J I,A,122
+S19,Undergraduate,SOC     152A,BALDWIN J I,A-,71
+S19,Undergraduate,SOC     152A,BALDWIN J I,B+,78
+S19,Undergraduate,SOC     152A,BALDWIN J I,B,81
+S19,Undergraduate,SOC     152A,BALDWIN J I,B-,68
+S19,Undergraduate,SOC     152A,BALDWIN J I,C+,65
+S19,Undergraduate,SOC     152A,BALDWIN J I,C,42
+S19,Undergraduate,SOC     152A,BALDWIN J I,C-,21
+S19,Undergraduate,SOC     152A,BALDWIN J I,D,8
+S19,Undergraduate,SOC     152A,BALDWIN J I,F,52
+S19,Undergraduate,SOC     152B,BALDWIN J D,A,10
+S19,Undergraduate,SOC     152B,BALDWIN J D,A-,8
+S19,Undergraduate,SOC     152B,BALDWIN J D,B+,1
+S19,Undergraduate,SOC     152B,BALDWIN J I,A,10
+S19,Undergraduate,SOC     152B,BALDWIN J I,A-,8
+S19,Undergraduate,SOC     152B,BALDWIN J I,B+,1
+S19,Undergraduate,SOC     152C,BALDWIN J D,A+,21
+S19,Undergraduate,SOC     152C,BALDWIN J D,A,1
+S19,Undergraduate,SOC     152C,BALDWIN J D,B,2
+S19,Undergraduate,SOC     152C,BALDWIN J I,A+,21
+S19,Undergraduate,SOC     152C,BALDWIN J I,A,1
+S19,Undergraduate,SOC     152C,BALDWIN J I,B,2
+S19,Undergraduate,SOC     153,SEGURA D A,A+,10
+S19,Undergraduate,SOC     153,SEGURA D A,A,23
+S19,Undergraduate,SOC     153,SEGURA D A,A-,19
+S19,Undergraduate,SOC     153,SEGURA D A,B+,6
+S19,Undergraduate,SOC     153,SEGURA D A,B,6
+S19,Undergraduate,SOC     153,SEGURA D A,B-,4
+S19,Undergraduate,SOC     153,SEGURA D A,C+,2
+S19,Undergraduate,SOC     153,SEGURA D A,C,1
+S19,Undergraduate,SOC     153,SEGURA D A,F,1
+S19,Undergraduate,SOC     155W,SEGURA D A,A+,4
+S19,Undergraduate,SOC     155W,SEGURA D A,A,23
+S19,Undergraduate,SOC     155W,SEGURA D A,A-,10
+S19,Undergraduate,SOC     155W,SEGURA D A,B+,7
+S19,Undergraduate,SOC     155W,SEGURA D A,B,5
+S19,Undergraduate,SOC     155W,SEGURA D A,B-,6
+S19,Undergraduate,SOC     155W,SEGURA D A,C+,2
+S19,Undergraduate,SOC     155W,SEGURA D A,C,3
+S19,Undergraduate,SOC     155W,SEGURA D A,D-,2
+S19,Undergraduate,SOC     155W,SEGURA D A,F,3
+S19,Undergraduate,SOC     159M,BRIDGES T S,A+,2
+S19,Undergraduate,SOC     159M,BRIDGES T S,A,18
+S19,Undergraduate,SOC     159M,BRIDGES T S,A-,12
+S19,Undergraduate,SOC     159M,BRIDGES T S,B+,13
+S19,Undergraduate,SOC     159M,BRIDGES T S,B,16
+S19,Undergraduate,SOC     159M,BRIDGES T S,B-,7
+S19,Undergraduate,SOC     159M,BRIDGES T S,C+,5
+S19,Undergraduate,SOC     159M,BRIDGES T S,C,3
+S19,Undergraduate,SOC     159M,BRIDGES T S,C-,1
+S19,Undergraduate,SOC     159M,BRIDGES T S,F,3
+S19,Undergraduate,SOC     164,RAYMOND E,A+,9
+S19,Undergraduate,SOC     164,RAYMOND E,A,35
+S19,Undergraduate,SOC     164,RAYMOND E,A-,13
+S19,Undergraduate,SOC     164,RAYMOND E,B+,7
+S19,Undergraduate,SOC     164,RAYMOND E,B,7
+S19,Undergraduate,SOC     164,RAYMOND E,B-,3
+S19,Undergraduate,SOC     164,RAYMOND E,C,1
+S19,Undergraduate,SOC     164,RAYMOND E,D,1
+S19,Undergraduate,SOC     164,RAYMOND E,F,3
+S19,Undergraduate,SOC     172,ABRA G J,A+,25
+S19,Undergraduate,SOC     172,ABRA G J,A,13
+S19,Undergraduate,SOC     172,ABRA G J,A-,11
+S19,Undergraduate,SOC     172,ABRA G J,B+,8
+S19,Undergraduate,SOC     172,ABRA G J,B,12
+S19,Undergraduate,SOC     172,ABRA G J,B-,4
+S19,Undergraduate,SOC     172,ABRA G J,C+,5
+S19,Undergraduate,SOC     172,ABRA G J,C,2
+S19,Undergraduate,SOC     172,ABRA G J,C-,3
+S19,Undergraduate,SOC     172,ABRA G J,D,3
+S19,Undergraduate,SOC     172,ABRA G J,F,2
+S19,Undergraduate,SOC     173,SUTTON J R,A,18
+S19,Undergraduate,SOC     173,SUTTON J R,A-,34
+S19,Undergraduate,SOC     173,SUTTON J R,B+,12
+S19,Undergraduate,SOC     173,SUTTON J R,B,15
+S19,Undergraduate,SOC     173,SUTTON J R,B-,9
+S19,Undergraduate,SOC     173,SUTTON J R,C+,2
+S19,Undergraduate,SOC     173,SUTTON J R,C,3
+S19,Undergraduate,SOC     173,SUTTON J R,D+,1
+S19,Undergraduate,SOC     173,SUTTON J R,F,1
+S19,Undergraduate,SOC     185A,CRUZ J D,A,7
+S19,Undergraduate,SOC     185A,CRUZ J D,A-,17
+S19,Undergraduate,SOC     185A,CRUZ J D,B+,17
+S19,Undergraduate,SOC     185A,CRUZ J D,B,11
+S19,Undergraduate,SOC     185A,CRUZ J D,B-,10
+S19,Undergraduate,SOC     185A,CRUZ J D,C+,9
+S19,Undergraduate,SOC     185A,CRUZ J D,C,3
+S19,Undergraduate,SOC     185A,CRUZ J D,C-,2
+S19,Undergraduate,SOC     185A,CRUZ J D,D+,1
+S19,Undergraduate,SOC     185A,CRUZ J D,F,4
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,A+,9
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,A,4
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,A-,8
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,B+,5
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,B,7
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,B-,3
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,C+,6
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,C,4
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,D+,1
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,D,2
+S19,Undergraduate,SOC     185DG,NEDERVEEN PIE,F,3
+S19,Undergraduate,SOC     185G,SUAREZ F,A+,2
+S19,Undergraduate,SOC     185G,SUAREZ F,A,21
+S19,Undergraduate,SOC     185G,SUAREZ F,A-,15
+S19,Undergraduate,SOC     185G,SUAREZ F,B+,11
+S19,Undergraduate,SOC     185G,SUAREZ F,B,7
+S19,Undergraduate,SOC     185G,SUAREZ F,B-,7
+S19,Undergraduate,SOC     185G,SUAREZ F,C+,3
+S19,Undergraduate,SOC     185G,SUAREZ F,C,3
+S19,Undergraduate,SOC     185G,SUAREZ F,C-,2
+S19,Undergraduate,SOC     185G,SUAREZ F,D+,2
+S19,Undergraduate,SOC     185G,SUAREZ F,F,4
+S19,Undergraduate,SOC     185S,FELDMAN D B,A+,7
+S19,Undergraduate,SOC     185S,FELDMAN D B,A,27
+S19,Undergraduate,SOC     185S,FELDMAN D B,A-,25
+S19,Undergraduate,SOC     185S,FELDMAN D B,B+,6
+S19,Undergraduate,SOC     185S,FELDMAN D B,B,6
+S19,Undergraduate,SOC     185S,FELDMAN D B,B-,3
+S19,Undergraduate,SOC     185S,MANSKI B R,A+,7
+S19,Undergraduate,SOC     185S,MANSKI B R,A,27
+S19,Undergraduate,SOC     185S,MANSKI B R,A-,25
+S19,Undergraduate,SOC     185S,MANSKI B R,B+,6
+S19,Undergraduate,SOC     185S,MANSKI B R,B,6
+S19,Undergraduate,SOC     185S,MANSKI B R,B-,3
+S19,Undergraduate,SOC     190A,FORAN J F,P,15
+S19,Undergraduate,SOC     190A,LUNA Z T,P,5
+S19,Undergraduate,SOC     191CA,BALDWIN J D,P,1
+S19,Undergraduate,SOC     198,ROBINSON W I,A+,1
+S19,Undergraduate,SOC     199,BALDWIN J D,A+,7
+S19,Undergraduate,SOC     199,BALDWIN J D,A-,1
+S19,Undergraduate,SOC     199,BALDWIN J I,A+,4
+S19,Undergraduate,SOC     199,SEGURA D A,B,1
+S19,Undergraduate,SOC     199RA,CAST A D,P,1
+S19,Undergraduate,SOC     199RA,RAYMOND G,P,1
+S19,Undergraduate,SOC     199RA,SEGURA D A,P,2
+S19,Graduate,SOC     205B,ARENAS VELAZQ,A+,4
+S19,Graduate,SOC     205B,ARENAS VELAZQ,A,1
+S19,Graduate,SOC     205B,ARENAS VELAZQ,A-,3
+S19,Graduate,SOC     205B,ARENAS VELAZQ,B+,1
+S19,Graduate,SOC     205B,ARENAS VELAZQ,B-,1
+S19,Graduate,SOC     207C,CRUZ J D,A,9
+S19,Graduate,SOC     212B,LOPEZ-ALVES F,A,4
+S19,Graduate,SOC     212B,LOPEZ-ALVES F,B,1
+S19,Graduate,SOC     214A,DANIEL R,A+,3
+S19,Graduate,SOC     214A,DANIEL R,A,3
+S19,Graduate,SOC     214A,DANIEL R,F,2
+S19,Graduate,SOC     218C,WOHL H L,A,4
+S19,Graduate,SOC     272,SUTTON J R,A,5
+S19,Graduate,SOC     294,TAYLOR C J,A,3
+S19,Graduate,SOC     294,TAYLOR V,A+,2
+S19,Graduate,SOC     294,TAYLOR V,A,7
+S19,Graduate,SOC     294,TAYLOR V,A-,1
+S19,Graduate,SOC     294,WHITEHEAD K A,A,5
+S19,Graduate,SOC     294,WHITEHEAD K A,B+,1
+S19,Graduate,SOC     501,ABRA G J,S,1
+S19,Graduate,SOC     501,BRIDGES T S,S,1
+S19,Graduate,SOC     501,CAST A D,S,2
+S19,Graduate,SOC     501,CRUZ J D,S,2
+S19,Graduate,SOC     501,DANIEL R,F,2
+S19,Graduate,SOC     501,DANIEL R,S,9
+S19,Graduate,SOC     501,FLACKS R,S,1
+S19,Graduate,SOC     501,FORAN J F,S,3
+S19,Graduate,SOC     501,LOPEZ-ALVES F,S,1
+S19,Graduate,SOC     501,NEDERVEEN PIE,S,1
+S19,Graduate,SOC     501,RAYMOND E,S,3
+S19,Graduate,SOC     501,ROBINSON W I,S,2
+S19,Graduate,SOC     501,SEGURA D A,S,3
+S19,Graduate,SOC     501,SUTTON J R,S,1
+S19,Graduate,SOC     501,TAYLOR V,S,1
+S19,Graduate,SOC     501,TELLES E E,S,1
+S19,Graduate,SOC     501,TOBER T L,S,5
+S19,Graduate,SOC     501,WHITEHEAD K A,S,1
+S19,Graduate,SOC     501,WOHL H L,S,1
+S19,Graduate,SOC     596,ANDERSON KE B,A+,1
+S19,Graduate,SOC     596,JUERGENSMEYER,A,1
+S19,Graduate,SOC     596,LOPEZ-ALVES F,A,1
+S19,Graduate,SOC     597,BRIDGES T S,S,1
+S19,Graduate,SOC     597,RIOS V M,S,3
+S19,Graduate,SOC     597,ROBINSON W I,S,2
+S19,Graduate,SOC     598,CHARLES M,S,1
+S19,Graduate,SOC     598,LIPSITZ G R,S,1
+S19,Graduate,SOC     598,ROBINSON W I,S,1
+S19,Graduate,SOC     599,ANDERSON KE B,S,1
+S19,Graduate,SOC     599,BHAVNANI K,S,1
+S19,Graduate,SOC     599,CAST A D,S,1
+S19,Graduate,SOC     599,CHARLES M,S,2
+S19,Graduate,SOC     599,FLACKS R,S,1
+S19,Graduate,SOC     599,FORAN J F,S,2
+S19,Graduate,SOC     599,LIPSITZ G R,S,3
+S19,Graduate,SOC     599,LOPEZ-ALVES F,S,1
+S19,Graduate,SOC     599,RAYMOND G,S,1
+S19,Graduate,SOC     599,ROBINSON W I,S,2
+S19,Graduate,SOC     599,SEGURA D A,S,2
+S19,Graduate,SOC     599,TAYLOR V,S,1
+S19,Graduate,SOC     599,TELLES E E,S,1
+S19,Graduate,SOC     599,THEBAUD S E,S,1
+S19,Graduate,SOC     599,TWINE F W,S,2
+S19,Graduate,SOC     599,WINANT H,S,1

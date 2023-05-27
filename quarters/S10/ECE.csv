@@ -1,0 +1,123 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ECE       1,PARHAMI B,P,54
+S10,Undergraduate,ECE       2C,RODWELL M J,A+,3
+S10,Undergraduate,ECE       2C,RODWELL M J,A,7
+S10,Undergraduate,ECE       2C,RODWELL M J,B+,1
+S10,Undergraduate,ECE       2C,RODWELL M J,B,3
+S10,Undergraduate,ECE       2C,RODWELL M J,C,2
+S10,Undergraduate,ECE       2C,RODWELL M J,C-,2
+S10,Undergraduate,ECE       2C,RODWELL M J,D,1
+S10,Undergraduate,ECE      15B,STRUKOV D B,A+,1
+S10,Undergraduate,ECE      15B,STRUKOV D B,A,8
+S10,Undergraduate,ECE      15B,STRUKOV D B,A-,3
+S10,Undergraduate,ECE      15B,STRUKOV D B,B+,1
+S10,Undergraduate,ECE      15B,STRUKOV D B,B,4
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,A,3
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,A-,4
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,B+,5
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,B,2
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,C+,3
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,C,2
+S10,Undergraduate,ECE     124C,BEN-YAACOV I,C-,1
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,A+,3
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,A,4
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,A-,2
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,B+,1
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,B,2
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,B-,3
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,C+,3
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,C,8
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,C-,4
+S10,Undergraduate,ECE     130C,CHANDRASEKARA,D+,3
+S10,Undergraduate,ECE     135,DAGLI N,A+,1
+S10,Undergraduate,ECE     135,DAGLI N,A,3
+S10,Undergraduate,ECE     135,DAGLI N,A-,3
+S10,Undergraduate,ECE     135,DAGLI N,B+,4
+S10,Undergraduate,ECE     135,DAGLI N,D-,3
+S10,Undergraduate,ECE     135,DAGLI N,F,1
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,A+,4
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,A,3
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,A-,1
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,B+,2
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,B,3
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,B-,6
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,C+,4
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,C,8
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,C-,4
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,D+,1
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,D,2
+S10,Undergraduate,ECE     137B,THEOGARAJAN L,D-,1
+S10,Undergraduate,ECE     151,MELLIAR-SMITH,A,3
+S10,Undergraduate,ECE     151,MELLIAR-SMITH,A-,1
+S10,Undergraduate,ECE     151,MELLIAR-SMITH,B+,1
+S10,Undergraduate,ECE     152B,CHENG K-T,A+,1
+S10,Undergraduate,ECE     152B,CHENG K-T,A,4
+S10,Undergraduate,ECE     152B,CHENG K-T,A-,4
+S10,Undergraduate,ECE     152B,CHENG K-T,B+,4
+S10,Undergraduate,ECE     152B,CHENG K-T,B,2
+S10,Undergraduate,ECE     152B,CHENG K-T,B-,2
+S10,Undergraduate,ECE     152B,CHENG K-T,C+,1
+S10,Undergraduate,ECE     152B,CHENG K-T,C,1
+S10,Undergraduate,ECE     155B,MOSER L E,A+,1
+S10,Undergraduate,ECE     155B,MOSER L E,A,1
+S10,Undergraduate,ECE     155B,MOSER L E,B+,1
+S10,Undergraduate,ECE     155B,MOSER L E,C+,2
+S10,Undergraduate,ECE     155B,MOSER L E,C,1
+S10,Undergraduate,ECE     160,ZHENG H,A+,2
+S10,Undergraduate,ECE     160,ZHENG H,A,7
+S10,Undergraduate,ECE     160,ZHENG H,B+,2
+S10,Undergraduate,ECE     160,ZHENG H,B,1
+S10,Undergraduate,ECE     160,ZHENG H,B-,3
+S10,Undergraduate,ECE     183,TEEL A R,A,1
+S10,Undergraduate,ECE     183,TEEL A R,A-,1
+S10,Undergraduate,ECE     183,TEEL A R,B+,2
+S10,Undergraduate,ECE     183,TEEL A R,B,1
+S10,Undergraduate,ECE     183,TEEL A R,C-,2
+S10,Undergraduate,ECE     189B,BUTNER S E,A,6
+S10,Undergraduate,ECE     189B,BUTNER S E,A-,8
+S10,Undergraduate,ECE     189B,BUTNER S E,B+,1
+S10,Undergraduate,ECE     189B,BUTNER S E,B,1
+S10,Undergraduate,ECE     192,THEOGARAJAN L,A,3
+S10,Undergraduate,ECE     192,THEOGARAJAN L,A-,2
+S10,Graduate,ECE     221B,MISHRA U,A,4
+S10,Graduate,ECE     221B,MISHRA U,A-,1
+S10,Graduate,ECE     221B,MISHRA U,B+,2
+S10,Graduate,ECE     221B,MISHRA U,B,2
+S10,Graduate,ECE     228A,BOWERS J E,A+,1
+S10,Graduate,ECE     228A,BOWERS J E,A,3
+S10,Graduate,ECE     228A,BOWERS J E,A-,3
+S10,Graduate,ECE     228A,BOWERS J E,B+,1
+S10,Graduate,ECE     228A,BOWERS J E,B,2
+S10,Graduate,ECE     250,RODOPLU V,A+,2
+S10,Graduate,ECE     250,RODOPLU V,A,5
+S10,Graduate,ECE     250,RODOPLU V,A-,1
+S10,Graduate,ECE     250,RODOPLU V,B+,2
+S10,Graduate,ECE     258B,LIEBLING M S,A,9
+S10,Graduate,ECE     258B,LIEBLING M S,A-,2
+S10,Graduate,ECE     258B,LIEBLING M S,B,1
+S10,Graduate,ECE     281B,MANJUNATH B S,A+,2
+S10,Graduate,ECE     281B,MANJUNATH B S,A,8
+S10,Graduate,ECE     281B,MANJUNATH B S,A-,10
+S10,Graduate,ECE     502,HESPANHA J P,S,14
+S10,Graduate,ECE     594A,BANERJEE K,A+,2
+S10,Graduate,ECE     594A,BANERJEE K,A,4
+S10,Graduate,ECE     594A,BANERJEE K,A-,1
+S10,Graduate,ECE     595E,MANJUNATH B S,S,13
+S10,Graduate,ECE     595F,BOWERS J E,S,9
+S10,Graduate,ECE     595F,COLDREN L,S,7
+S10,Graduate,ECE     596,BANERJEE K,S,9
+S10,Graduate,ECE     596,BLUMENTHAL D,S,8
+S10,Graduate,ECE     596,BOWERS J E,S,13
+S10,Graduate,ECE     596,CHENG K-T,S,8
+S10,Graduate,ECE     596,COLDREN L,S,7
+S10,Graduate,ECE     596,GIBSON J D,S,5
+S10,Graduate,ECE     596,HESPANHA J P,S,7
+S10,Graduate,ECE     596,MANJUNATH B S,S,12
+S10,Graduate,ECE     596,MAREK-SADOWSK,S,7
+S10,Graduate,ECE     596,MISHRA U,S,15
+S10,Graduate,ECE     596,NAKAMURA S,S,5
+S10,Graduate,ECE     596,RODWELL M J,S,10
+S10,Graduate,ECE     596,ROSE K,S,6
+S10,Graduate,ECE     596,THEOGARAJAN L,S,9
+S10,Graduate,ECE     596,WANG L C,S,8
+S10,Graduate,ECE     596,YUE C P,S,5

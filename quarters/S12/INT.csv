@@ -1,0 +1,89 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,INT      84FS,SPERA F J,A,17
+S12,Undergraduate,INT      84IT,TALAMANTEZ I,A,3
+S12,Undergraduate,INT      84IT,TALAMANTEZ I,A-,7
+S12,Undergraduate,INT      84IT,TALAMANTEZ I,B+,2
+S12,Undergraduate,INT      84RH,HECHT R,A,14
+S12,Undergraduate,INT      84RH,HECHT R,A-,6
+S12,Undergraduate,INT      84SB,BERMUDEZ S,A+,9
+S12,Undergraduate,INT      84SB,BERMUDEZ S,A,7
+S12,Undergraduate,INT      84SB,BERMUDEZ S,A-,3
+S12,Undergraduate,INT      84VS,SCOTT V,A+,3
+S12,Undergraduate,INT      84VS,SCOTT V,A,12
+S12,Undergraduate,INT      84VS,SCOTT V,A-,1
+S12,Undergraduate,INT      94FH,SINGER G H S,P,16
+S12,Undergraduate,INT      94GG,FULBECK L K,P,16
+S12,Undergraduate,INT      94HU,CAMPO J E,P,13
+S12,Undergraduate,INT      94HU,CAMPO J E,NP,1
+S12,Undergraduate,INT      94HZ,KING W D,P,15
+S12,Undergraduate,INT      94JG,MIGLIO V G,P,10
+S12,Undergraduate,INT      94JG,MIGLIO V G,NP,3
+S12,Undergraduate,INT      94JS,STILL C J,P,19
+S12,Undergraduate,INT      94JS,STILL C J,NP,1
+S12,Undergraduate,INT      94JZ,RAYMOND G,P,13
+S12,Undergraduate,INT      94KN,REVLIN R,P,17
+S12,Undergraduate,INT      94KZ,APPEL I J,P,16
+S12,Undergraduate,INT      94KZ,APPEL I J,NP,1
+S12,Undergraduate,INT      94LS,AFIFI W A,P,26
+S12,Undergraduate,INT      94LV,THROWER D A,P,15
+S12,Undergraduate,INT      94LV,THROWER D A,NP,3
+S12,Undergraduate,INT      94LY,SPIEKER S,P,8
+S12,Undergraduate,INT      94LY,SPIEKER S,NP,1
+S12,Undergraduate,INT      94MA,MENDEZ S C,P,13
+S12,Undergraduate,INT      94MA,MENDEZ S C,NP,1
+S12,Undergraduate,INT      94MW,DEVRIES M S,P,17
+S12,Undergraduate,INT      94MW,DEVRIES M S,NP,2
+S12,Undergraduate,INT      94MZ,AFIFI T D,P,20
+S12,Undergraduate,INT      94NL,SARKAR B,P,12
+S12,Undergraduate,INT      94NU,GARCIA M T,P,13
+S12,Undergraduate,INT      94NU,GARCIA M T,NP,1
+S12,Undergraduate,INT      94NY,MEIRING W,P,13
+S12,Undergraduate,INT      94NY,MEIRING W,NP,2
+S12,Undergraduate,INT      94OD,LUPI J P,P,21
+S12,Undergraduate,INT      94OD,LUPI J P,NP,1
+S12,Undergraduate,INT      94OM,ROBERTS D A,P,11
+S12,Undergraduate,INT      94ON,ARMBRUSTER R,P,12
+S12,Undergraduate,INT      94ON,ARMBRUSTER R,NP,1
+S12,Undergraduate,INT      94OT,BARVOSA E,P,19
+S12,Undergraduate,INT      94PE,SEARS D W,P,12
+S12,Undergraduate,INT      94PG,SONSTELIE J,P,18
+S12,Undergraduate,INT      94PH,BOSCAGLI M,P,11
+S12,Undergraduate,INT      94PI,DUFFY A E,P,21
+S12,Undergraduate,INT      94PJ,DERWIN S,P,17
+S12,Undergraduate,INT      94PK,ZHAO X,P,20
+S12,Undergraduate,INT      94PL,BULTAN T,P,17
+S12,Undergraduate,INT     100LA,GUERENA S,A,3
+S12,Undergraduate,INT     100LA,GUERENA S,A-,3
+S12,Undergraduate,INT     100LA,GUERENA S,D+,1
+S12,Undergraduate,INT     100LA,GUERENA S,F,1
+S12,Undergraduate,INT     156DJ,JARRETT G C,A,5
+S12,Undergraduate,INT     156DJ,JARRETT G C,A-,3
+S12,Undergraduate,INT     156DJ,JARRETT G C,B+,1
+S12,Undergraduate,INT     156DJ,JARRETT G C,C,1
+S12,Undergraduate,INT     156DJ,JARRETT G C,D+,1
+S12,Undergraduate,INT     184DN,NOVAK D E,A+,2
+S12,Undergraduate,INT     184DN,NOVAK D E,A,2
+S12,Undergraduate,INT     184DN,NOVAK D E,A-,4
+S12,Undergraduate,INT     184DN,NOVAK D E,B+,5
+S12,Undergraduate,INT     184DN,NOVAK D E,B,1
+S12,Undergraduate,INT     184HM,MARCUSE H,A+,2
+S12,Undergraduate,INT     184HM,MARCUSE H,A,10
+S12,Undergraduate,INT     184HM,MARCUSE H,B+,1
+S12,Undergraduate,INT     184NR,REICH N O,A,10
+S12,Undergraduate,INT     185AP,ENDERS J,A,9
+S12,Undergraduate,INT     185AP,ENDERS J,A-,4
+S12,Undergraduate,INT     185ST,ANDERSON E K,A+,1
+S12,Undergraduate,INT     185ST,ANDERSON E K,A,17
+S12,Undergraduate,INT     185ST,ANDERSON E K,A-,5
+S12,Undergraduate,INT     185UA,UNRUE H E,A+,1
+S12,Undergraduate,INT     185UA,UNRUE H E,A,9
+S12,Undergraduate,INT     185VW,DERWIN S,P,7
+S12,Undergraduate,INT     192DC,CAIN B E,P,17
+S12,Undergraduate,INT     199DC,CAIN B E,A+,1
+S12,Undergraduate,INT     199DC,CAIN B E,A,3
+S12,Undergraduate,INT     199DC,CAIN B E,A-,6
+S12,Undergraduate,INT     199DC,CAIN B E,B+,4
+S12,Undergraduate,INT     199DC,CAIN B E,B,3
+S12,Undergraduate,INT     199DC,CAIN B E,C,1
+S12,Graduate,INT     200C,MAYER R E,S,6
+S12,Undergraduate,INT  CS 120,SMITH D K,P,21

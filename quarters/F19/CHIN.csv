@@ -1,0 +1,97 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,CHEM      1AL,CHIN M,A+,1
+F19,Undergraduate,CHEM      1AL,CHIN M,A,16
+F19,Undergraduate,CHEM      1AL,CHIN M,A-,7
+F19,Undergraduate,CHEM      1AL,CHIN M,B+,9
+F19,Undergraduate,CHEM      1AL,CHIN M,B,14
+F19,Undergraduate,CHEM      1AL,CHIN M,B-,5
+F19,Undergraduate,CHEM      1AL,CHIN M,C+,3
+F19,Undergraduate,CHEM      1AL,CHIN M,C,5
+F19,Undergraduate,CHEM      1AL,CHIN M,C-,1
+F19,Undergraduate,CHEM      1AL,CHIN M,D,6
+F19,Undergraduate,CHIN      1,CHEN MENG,A+,5
+F19,Undergraduate,CHIN      1,CHEN MENG,A,9
+F19,Undergraduate,CHIN      1,CHEN MENG,A-,4
+F19,Undergraduate,CHIN      1,CHEN MENG,B+,2
+F19,Undergraduate,CHIN      1,CHEN MENG,B,3
+F19,Undergraduate,CHIN      1,CHEN MENG,B-,1
+F19,Undergraduate,CHIN      1,CHEN MENG,C,1
+F19,Undergraduate,CHIN      1,CHEN MENG,D,2
+F19,Undergraduate,CHIN      1,GUAN D,A+,10
+F19,Undergraduate,CHIN      1,GUAN D,A,23
+F19,Undergraduate,CHIN      1,GUAN D,A-,7
+F19,Undergraduate,CHIN      1,GUAN D,B+,7
+F19,Undergraduate,CHIN      1,GUAN D,B,4
+F19,Undergraduate,CHIN      1,GUAN D,C+,1
+F19,Undergraduate,CHIN      1,GUAN D,F,1
+F19,Undergraduate,CHIN      1,LIN SHIXING,A+,2
+F19,Undergraduate,CHIN      1,LIN SHIXING,A,6
+F19,Undergraduate,CHIN      1,LIN SHIXING,A-,2
+F19,Undergraduate,CHIN      1,LIN SHIXING,B+,2
+F19,Undergraduate,CHIN      1,LIN SHIXING,B,1
+F19,Undergraduate,CHIN      1,LIN SHIXING,F,1
+F19,Undergraduate,CHIN      1NH,HSU C-C,A+,1
+F19,Undergraduate,CHIN      1NH,HSU C-C,A,7
+F19,Undergraduate,CHIN      1NH,HSU C-C,A-,3
+F19,Undergraduate,CHIN      1NH,HSU C-C,B+,3
+F19,Undergraduate,CHIN      1NH,HSU C-C,B,2
+F19,Undergraduate,CHIN      1NH,HSU C-C,B-,1
+F19,Undergraduate,CHIN      1NH,HSU C-C,C+,3
+F19,Undergraduate,CHIN      1NH,HSU C-C,F,1
+F19,Undergraduate,CHIN      4,CHEN S C,A+,4
+F19,Undergraduate,CHIN      4,CHEN S C,A,19
+F19,Undergraduate,CHIN      4,CHEN S C,A-,6
+F19,Undergraduate,CHIN      4,CHEN S C,B+,2
+F19,Undergraduate,CHIN      4,CHEN S C,B,1
+F19,Undergraduate,CHIN      4,CHEN S C,B-,3
+F19,Undergraduate,CHIN      4,CHEN S C,C-,1
+F19,Undergraduate,CHIN      4NH,CHEN S C,A+,2
+F19,Undergraduate,CHIN      4NH,CHEN S C,A,9
+F19,Undergraduate,CHIN      4NH,CHEN S C,A-,3
+F19,Undergraduate,CHIN      4NH,CHEN S C,B,1
+F19,Undergraduate,CHIN      4NH,CHEN S C,F,1
+F19,Undergraduate,CHIN     80,MAZANEC T J,A+,12
+F19,Undergraduate,CHIN     80,MAZANEC T J,A,13
+F19,Undergraduate,CHIN     80,MAZANEC T J,A-,12
+F19,Undergraduate,CHIN     80,MAZANEC T J,B+,11
+F19,Undergraduate,CHIN     80,MAZANEC T J,B,4
+F19,Undergraduate,CHIN     80,MAZANEC T J,B-,3
+F19,Undergraduate,CHIN    122A,HSU C-C,A+,3
+F19,Undergraduate,CHIN    122A,HSU C-C,A,3
+F19,Undergraduate,CHIN    122A,HSU C-C,A-,7
+F19,Undergraduate,CHIN    122A,HSU C-C,B+,2
+F19,Undergraduate,CHIN    122A,HSU C-C,B,2
+F19,Undergraduate,CHIN    122A,HSU C-C,B-,1
+F19,Undergraduate,CHIN    122A,HSU C-C,C,1
+F19,Undergraduate,CHIN    127A,LI X,A,2
+F19,Undergraduate,CHIN    127A,LI X,A-,8
+F19,Undergraduate,CHIN    127A,LI X,B+,1
+F19,Undergraduate,CHIN    127A,LI X,B,1
+F19,Undergraduate,CHIN    139,MAZANEC T J,A+,1
+F19,Undergraduate,CHIN    139,MAZANEC T J,A,9
+F19,Undergraduate,CHIN    139,MAZANEC T J,A-,7
+F19,Undergraduate,CHIN    139,MAZANEC T J,B+,4
+F19,Undergraduate,CHIN    139,MAZANEC T J,B,8
+F19,Undergraduate,CHIN    139,MAZANEC T J,B-,1
+F19,Undergraduate,CHIN    139,MAZANEC T J,C,2
+F19,Undergraduate,CHIN    139,MAZANEC T J,D-,1
+F19,Undergraduate,CHIN    139,MAZANEC T J,F,1
+F19,Undergraduate,CHIN    143,LI X,A,9
+F19,Undergraduate,CHIN    143,LI X,A-,9
+F19,Undergraduate,CHIN    143,LI X,B+,13
+F19,Undergraduate,CHIN    143,LI X,B,11
+F19,Undergraduate,CHIN    143,LI X,B-,5
+F19,Undergraduate,CHIN    143,LI X,C+,2
+F19,Undergraduate,CHIN    143,LI X,C,5
+F19,Undergraduate,CHIN    143,LI X,C-,1
+F19,Undergraduate,CHIN    143,LI X,D,1
+F19,Undergraduate,CHIN    180QC,XU H,A,2
+F19,Undergraduate,CHIN    180QC,XU H,A-,4
+F19,Undergraduate,CHIN    180QC,XU H,F,1
+F19,Undergraduate,CHIN    199,MAZANEC T J,A-,2
+F19,Graduate,CHIN    201,LI X,A,1
+F19,Graduate,CHIN    201,MAZANEC T J,A,2
+F19,Graduate,CHIN    292QC,XU H,A+,2
+F19,Graduate,CHIN    292QC,XU H,A,11
+F19,Graduate,CHIN    599,TU K-C,S,1
+F19,Graduate,CHIN    599,YANG M,S,2

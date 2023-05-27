@@ -1,0 +1,106 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Undergraduate,GLOBL     1,GHOSH B,A+,13
+F18,Undergraduate,GLOBL     1,GHOSH B,A,58
+F18,Undergraduate,GLOBL     1,GHOSH B,A-,82
+F18,Undergraduate,GLOBL     1,GHOSH B,B+,65
+F18,Undergraduate,GLOBL     1,GHOSH B,B,51
+F18,Undergraduate,GLOBL     1,GHOSH B,B-,33
+F18,Undergraduate,GLOBL     1,GHOSH B,C+,16
+F18,Undergraduate,GLOBL     1,GHOSH B,C,4
+F18,Undergraduate,GLOBL     1,GHOSH B,C-,9
+F18,Undergraduate,GLOBL     1,GHOSH B,D+,2
+F18,Undergraduate,GLOBL     1,GHOSH B,F,6
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,A+,3
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,A,29
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,A-,43
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,B+,24
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,B,37
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,B-,18
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,C+,18
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,C,22
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,C-,1
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,D,21
+F18,Undergraduate,GLOBL     2,BARANDIARAN J,F,13
+F18,Undergraduate,GLOBL   104,THANDI S,A+,11
+F18,Undergraduate,GLOBL   104,THANDI S,A,10
+F18,Undergraduate,GLOBL   104,THANDI S,A-,9
+F18,Undergraduate,GLOBL   104,THANDI S,B+,23
+F18,Undergraduate,GLOBL   104,THANDI S,B,16
+F18,Undergraduate,GLOBL   104,THANDI S,B-,15
+F18,Undergraduate,GLOBL   104,THANDI S,C+,6
+F18,Undergraduate,GLOBL   104,THANDI S,C,3
+F18,Undergraduate,GLOBL   104,THANDI S,C-,1
+F18,Undergraduate,GLOBL   104,THANDI S,D,1
+F18,Undergraduate,GLOBL   110,LEZRA E M,A,10
+F18,Undergraduate,GLOBL   110,LEZRA E M,A-,27
+F18,Undergraduate,GLOBL   110,LEZRA E M,B+,23
+F18,Undergraduate,GLOBL   110,LEZRA E M,B,25
+F18,Undergraduate,GLOBL   110,LEZRA E M,B-,21
+F18,Undergraduate,GLOBL   110,LEZRA E M,C+,5
+F18,Undergraduate,GLOBL   110,LEZRA E M,C,5
+F18,Undergraduate,GLOBL   110,LEZRA E M,C-,1
+F18,Undergraduate,GLOBL   110,LEZRA E M,D+,1
+F18,Undergraduate,GLOBL   110,LEZRA E M,D,2
+F18,Undergraduate,GLOBL   110,LEZRA E M,F,1
+F18,Undergraduate,GLOBL   120,BRYSK A,A+,6
+F18,Undergraduate,GLOBL   120,BRYSK A,A,41
+F18,Undergraduate,GLOBL   120,BRYSK A,A-,15
+F18,Undergraduate,GLOBL   120,BRYSK A,B+,15
+F18,Undergraduate,GLOBL   120,BRYSK A,B,31
+F18,Undergraduate,GLOBL   120,BRYSK A,B-,7
+F18,Undergraduate,GLOBL   120,BRYSK A,C+,8
+F18,Undergraduate,GLOBL   120,BRYSK A,C,11
+F18,Undergraduate,GLOBL   120,BRYSK A,D,1
+F18,Undergraduate,GLOBL   130,THANDI S,A+,10
+F18,Undergraduate,GLOBL   130,THANDI S,A,13
+F18,Undergraduate,GLOBL   130,THANDI S,A-,16
+F18,Undergraduate,GLOBL   130,THANDI S,B+,17
+F18,Undergraduate,GLOBL   130,THANDI S,B,28
+F18,Undergraduate,GLOBL   130,THANDI S,B-,17
+F18,Undergraduate,GLOBL   130,THANDI S,C+,13
+F18,Undergraduate,GLOBL   130,THANDI S,C,3
+F18,Undergraduate,GLOBL   130,THANDI S,C-,2
+F18,Undergraduate,GLOBL   130,THANDI S,D+,3
+F18,Undergraduate,GLOBL   130,THANDI S,D,1
+F18,Undergraduate,GLOBL   130,THANDI S,F,2
+F18,Undergraduate,GLOBL   161,CLEMENCON R,A+,4
+F18,Undergraduate,GLOBL   161,CLEMENCON R,A,15
+F18,Undergraduate,GLOBL   161,CLEMENCON R,A-,13
+F18,Undergraduate,GLOBL   161,CLEMENCON R,B+,7
+F18,Undergraduate,GLOBL   161,CLEMENCON R,B,13
+F18,Undergraduate,GLOBL   161,CLEMENCON R,B-,7
+F18,Undergraduate,GLOBL   161,CLEMENCON R,C+,4
+F18,Undergraduate,GLOBL   161,CLEMENCON R,C,9
+F18,Undergraduate,GLOBL   161,CLEMENCON R,C-,3
+F18,Undergraduate,GLOBL   161,CLEMENCON R,D+,1
+F18,Undergraduate,GLOBL   161,CLEMENCON R,D-,3
+F18,Undergraduate,GLOBL   199,BARANDIARAN J,A,3
+F18,Undergraduate,GLOBL   199,CLEMENCON R,A,1
+F18,Graduate,GLOBL   220,BRYSK A,A,5
+F18,Graduate,GLOBL   222,LEZRA E M,A+,3
+F18,Graduate,GLOBL   222,LEZRA E M,B,2
+F18,Graduate,GLOBL   224,MEHTA A S,A+,2
+F18,Graduate,GLOBL   224,MEHTA A S,A,2
+F18,Graduate,GLOBL   224,MEHTA A S,A-,1
+F18,Graduate,GLOBL   232A,BARANDIARAN J,S,3
+F18,Graduate,GLOBL   253,BARANDIARAN J,A,7
+F18,Graduate,GLOBL   501,BRYSK A,S,3
+F18,Graduate,GLOBL   596,BARANDIARAN J,F,1
+F18,Graduate,GLOBL   596,BRYSK A,B+,1
+F18,Graduate,GLOBL   596,CLITANDRE N T,A,2
+F18,Graduate,GLOBL   596,GHOSH B,A,1
+F18,Graduate,GLOBL   596,LEZRA E M,A,2
+F18,Graduate,GLOBL   596,MEHTA A S,A+,2
+F18,Graduate,GLOBL   596,NEDERVEEN PIE,A,1
+F18,Graduate,GLOBL   597,GHOSH B,S,1
+F18,Graduate,GLOBL   597,THANDI S,S,1
+F18,Graduate,GLOBL   598,AMAR P E,S,2
+F18,Graduate,GLOBL   598,BRYSK A,S,3
+F18,Graduate,GLOBL   598,CLITANDRE N T,S,1
+F18,Graduate,GLOBL   598,GHOSH B,S,2
+F18,Graduate,GLOBL   598,LEZRA E M,S,1
+F18,Graduate,GLOBL   599,APPELBAUM R,S,1
+F18,Graduate,GLOBL   599,BARANDIARAN J,S,1
+F18,Graduate,GLOBL   599,BRYSK A,S,1
+F18,Graduate,GLOBL   599,GHOSH B,S,2
+F18,Graduate,GLOBL   599,LEZRA E M,S,1

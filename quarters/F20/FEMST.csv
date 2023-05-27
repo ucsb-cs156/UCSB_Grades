@@ -1,0 +1,76 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F20,Undergraduate,FEMST    20,JONES C E,A+,1
+F20,Undergraduate,FEMST    20,JONES C E,A,156
+F20,Undergraduate,FEMST    20,JONES C E,A-,45
+F20,Undergraduate,FEMST    20,JONES C E,B+,5
+F20,Undergraduate,FEMST    20,JONES C E,B,11
+F20,Undergraduate,FEMST    20,JONES C E,B-,4
+F20,Undergraduate,FEMST    20,JONES C E,C+,3
+F20,Undergraduate,FEMST    20,JONES C E,C,2
+F20,Undergraduate,FEMST    20,JONES C E,C-,2
+F20,Undergraduate,FEMST    20,JONES C E,D-,1
+F20,Undergraduate,FEMST    20,JONES C E,F,6
+F20,Undergraduate,FEMST    40,BOBO J,A+,87
+F20,Undergraduate,FEMST    40,BOBO J,A,102
+F20,Undergraduate,FEMST    40,BOBO J,A-,9
+F20,Undergraduate,FEMST    40,BOBO J,B+,7
+F20,Undergraduate,FEMST    40,BOBO J,B,5
+F20,Undergraduate,FEMST    40,BOBO J,B-,5
+F20,Undergraduate,FEMST    40,BOBO J,C+,1
+F20,Undergraduate,FEMST    40,BOBO J,C,7
+F20,Undergraduate,FEMST    40,BOBO J,C-,1
+F20,Undergraduate,FEMST    40,BOBO J,D,1
+F20,Undergraduate,FEMST    40,BOBO J,F,6
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,A+,44
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,A,146
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,A-,15
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,B+,6
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,B,5
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,B-,2
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,C+,1
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,C,3
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,D,2
+F20,Undergraduate,FEMST    60,MILLER-YOUNG,F,5
+F20,Undergraduate,FEMST   120,BORIS E C,A+,32
+F20,Undergraduate,FEMST   120,BORIS E C,A,35
+F20,Undergraduate,FEMST   120,BORIS E C,A-,2
+F20,Undergraduate,FEMST   120,BORIS E C,B+,1
+F20,Undergraduate,FEMST   120,BORIS E C,B,3
+F20,Undergraduate,FEMST   120,BORIS E C,B-,1
+F20,Undergraduate,FEMST   120,BORIS E C,C+,1
+F20,Undergraduate,FEMST   120,BORIS E C,D,1
+F20,Undergraduate,FEMST   120,BORIS E C,F,4
+F20,Undergraduate,FEMST   159B,CASE S H,A,1
+F20,Undergraduate,FEMST   159B,CASE S H,A-,2
+F20,Undergraduate,FEMST   159B,CASE S H,B+,3
+F20,Undergraduate,FEMST   159B,CASE S H,B-,1
+F20,Undergraduate,FEMST   159B,CASE S H,C+,1
+F20,Undergraduate,FEMST   159B,CASE S H,C,1
+F20,Undergraduate,FEMST   159B,CASE S H,F,1
+F20,Undergraduate,FEMST   161,BARVOSA E,A+,2
+F20,Undergraduate,FEMST   161,BARVOSA E,A,17
+F20,Undergraduate,FEMST   161,BARVOSA E,A-,3
+F20,Undergraduate,FEMST   161,BARVOSA E,B+,1
+F20,Undergraduate,FEMST   161,BARVOSA E,B,1
+F20,Undergraduate,FEMST   161,BARVOSA E,C-,2
+F20,Undergraduate,FEMST   161,BARVOSA E,F,6
+F20,Undergraduate,FEMST   180,WALD A P,A+,20
+F20,Undergraduate,FEMST   180,WALD A P,A,8
+F20,Undergraduate,FEMST   180,WALD A P,A-,1
+F20,Undergraduate,FEMST   180,WALD A P,B,2
+F20,Undergraduate,FEMST   180,WALD A P,F,1
+F20,Undergraduate,FEMST   182,CLARK L N,A+,2
+F20,Undergraduate,FEMST   182,CLARK L N,A,8
+F20,Undergraduate,FEMST   182,CLARK L N,A-,1
+F20,Undergraduate,FEMST   182,CLARK L N,F,2
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,A+,3
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,A,11
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,A-,3
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,B+,1
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,B,2
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,B-,3
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,C,1
+F20,Undergraduate,FEMST   186AN,MACGILLIVRAY,F,3
+F20,Undergraduate,FEMST   195HA,OAKS L M,A,8
+F20,Undergraduate,FEMST   199RA,OAKS L M,P,6
+F20,Graduate,FEMST   220,MILLER-YOUNG,A,10

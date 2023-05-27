@@ -1,0 +1,182 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,FAMST    46,BRUSUTTI A,A,22
+S21,Undergraduate,FAMST    46,BRUSUTTI A,A-,38
+S21,Undergraduate,FAMST    46,BRUSUTTI A,A+,3
+S21,Undergraduate,FAMST    46,BRUSUTTI A,B,34
+S21,Undergraduate,FAMST    46,BRUSUTTI A,B-,25
+S21,Undergraduate,FAMST    46,BRUSUTTI A,B+,29
+S21,Undergraduate,FAMST    46,BRUSUTTI A,C,11
+S21,Undergraduate,FAMST    46,BRUSUTTI A,C-,3
+S21,Undergraduate,FAMST    46,BRUSUTTI A,C+,9
+S21,Undergraduate,FAMST    46,BRUSUTTI A,D,1
+S21,Undergraduate,FAMST    46,BRUSUTTI A,D+,1
+S21,Undergraduate,FAMST    46,BRUSUTTI A,F,9
+S21,Undergraduate,FAMST    46H,BRUSUTTI A,A,5
+S21,Undergraduate,FAMST    54,STEINKELLNER,A,90
+S21,Undergraduate,FAMST    54,STEINKELLNER,A-,19
+S21,Undergraduate,FAMST    54,STEINKELLNER,A+,54
+S21,Undergraduate,FAMST    54,STEINKELLNER,B,3
+S21,Undergraduate,FAMST    54,STEINKELLNER,B-,2
+S21,Undergraduate,FAMST    54,STEINKELLNER,B+,12
+S21,Undergraduate,FAMST    54,STEINKELLNER,C,1
+S21,Undergraduate,FAMST    54,STEINKELLNER,C-,1
+S21,Undergraduate,FAMST    54,STEINKELLNER,D,1
+S21,Undergraduate,FAMST    54,STEINKELLNER,D-,1
+S21,Undergraduate,FAMST    54,STEINKELLNER,F,4
+S21,Undergraduate,FAMST    55QM,MELNICK R D,A,20
+S21,Undergraduate,FAMST    55QM,MELNICK R D,A-,21
+S21,Undergraduate,FAMST    55QM,MELNICK R D,A+,3
+S21,Undergraduate,FAMST    55QM,MELNICK R D,B,7
+S21,Undergraduate,FAMST    55QM,MELNICK R D,B-,5
+S21,Undergraduate,FAMST    55QM,MELNICK R D,B+,14
+S21,Undergraduate,FAMST    55QM,MELNICK R D,C+,1
+S21,Undergraduate,FAMST    55QM,MELNICK R D,F,2
+S21,Undergraduate,FAMST    96,FELANDO C L,A-,2
+S21,Undergraduate,FAMST    96,FELANDO C L,B,18
+S21,Undergraduate,FAMST    96,FELANDO C L,B-,24
+S21,Undergraduate,FAMST    96,FELANDO C L,B+,7
+S21,Undergraduate,FAMST    96,FELANDO C L,C,17
+S21,Undergraduate,FAMST    96,FELANDO C L,C-,2
+S21,Undergraduate,FAMST    96,FELANDO C L,C+,11
+S21,Undergraduate,FAMST    96,FELANDO C L,D,1
+S21,Undergraduate,FAMST    96,FELANDO C L,F,3
+S21,Undergraduate,FAMST   101C,VENEGAS C,A,18
+S21,Undergraduate,FAMST   101C,VENEGAS C,A-,15
+S21,Undergraduate,FAMST   101C,VENEGAS C,A+,3
+S21,Undergraduate,FAMST   101C,VENEGAS C,B,8
+S21,Undergraduate,FAMST   101C,VENEGAS C,B-,8
+S21,Undergraduate,FAMST   101C,VENEGAS C,B+,21
+S21,Undergraduate,FAMST   101C,VENEGAS C,C,2
+S21,Undergraduate,FAMST   101C,VENEGAS C,C-,1
+S21,Undergraduate,FAMST   101C,VENEGAS C,C+,3
+S21,Undergraduate,FAMST   101C,VENEGAS C,D,1
+S21,Undergraduate,FAMST   101C,VENEGAS C,D-,1
+S21,Undergraduate,FAMST   101C,VENEGAS C,F,6
+S21,Undergraduate,FAMST   101CH,VENEGAS C,A,2
+S21,Undergraduate,FAMST   101CH,VENEGAS C,A+,3
+S21,Undergraduate,FAMST   101CH,VENEGAS C,F,1
+S21,Undergraduate,FAMST   101E,HOLT J,A,9
+S21,Undergraduate,FAMST   101E,HOLT J,A-,20
+S21,Undergraduate,FAMST   101E,HOLT J,A+,3
+S21,Undergraduate,FAMST   101E,HOLT J,B,23
+S21,Undergraduate,FAMST   101E,HOLT J,B-,10
+S21,Undergraduate,FAMST   101E,HOLT J,B+,9
+S21,Undergraduate,FAMST   101E,HOLT J,C,6
+S21,Undergraduate,FAMST   101E,HOLT J,C-,2
+S21,Undergraduate,FAMST   101E,HOLT J,C+,10
+S21,Undergraduate,FAMST   101E,HOLT J,D,1
+S21,Undergraduate,FAMST   101E,HOLT J,D-,1
+S21,Undergraduate,FAMST   101E,HOLT J,F,8
+S21,Undergraduate,FAMST   104,CALDWELL S,A,9
+S21,Undergraduate,FAMST   104,CALDWELL S,A-,12
+S21,Undergraduate,FAMST   104,CALDWELL S,A+,2
+S21,Undergraduate,FAMST   104,CALDWELL S,B,2
+S21,Undergraduate,FAMST   104,CALDWELL S,B-,3
+S21,Undergraduate,FAMST   104,CALDWELL S,B+,4
+S21,Undergraduate,FAMST   104,CALDWELL S,C,1
+S21,Undergraduate,FAMST   104,CALDWELL S,D+,1
+S21,Undergraduate,FAMST   108,CALDWELL S,A,5
+S21,Undergraduate,FAMST   108,CALDWELL S,A-,3
+S21,Undergraduate,FAMST   108,CALDWELL S,B+,1
+S21,Undergraduate,FAMST   108,CALDWELL S,C,1
+S21,Undergraduate,FAMST   108,CALDWELL S,C+,2
+S21,Undergraduate,FAMST   109EA,JENKINS C L,A,3
+S21,Undergraduate,FAMST   109EA,JENKINS C L,A-,6
+S21,Undergraduate,FAMST   109EA,JENKINS C L,A+,2
+S21,Undergraduate,FAMST   109EA,JENKINS C L,B,2
+S21,Undergraduate,FAMST   109EA,JENKINS C L,B+,3
+S21,Undergraduate,FAMST   109ID,SHEREEN SAKR,A,7
+S21,Undergraduate,FAMST   109ID,SHEREEN SAKR,A-,1
+S21,Undergraduate,FAMST   109ID,SHEREEN SAKR,B-,1
+S21,Undergraduate,FAMST   109ID,SHEREEN SAKR,B+,2
+S21,Undergraduate,FAMST   113SW,STEINKELLNER,A,8
+S21,Undergraduate,FAMST   113SW,STEINKELLNER,A-,2
+S21,Undergraduate,FAMST   113SW,STEINKELLNER,A+,9
+S21,Undergraduate,FAMST   113SW,STEINKELLNER,B+,1
+S21,Undergraduate,FAMST   118GS,JENKINS C L,A,8
+S21,Undergraduate,FAMST   118GS,JENKINS C L,A-,2
+S21,Undergraduate,FAMST   118GS,JENKINS C L,B,2
+S21,Undergraduate,FAMST   118GS,JENKINS C L,B+,4
+S21,Undergraduate,FAMST   118LP,JENKINS C L,A,6
+S21,Undergraduate,FAMST   118LP,JENKINS C L,A-,2
+S21,Undergraduate,FAMST   118LP,JENKINS C L,A+,1
+S21,Undergraduate,FAMST   118LP,JENKINS C L,B,1
+S21,Undergraduate,FAMST   118LP,JENKINS C L,B+,1
+S21,Undergraduate,FAMST   118LP,JENKINS C L,F,1
+S21,Undergraduate,FAMST   119ML,BLOOM P J,A,6
+S21,Undergraduate,FAMST   119ML,BLOOM P J,A-,2
+S21,Undergraduate,FAMST   119ML,BLOOM P J,A+,1
+S21,Undergraduate,FAMST   119ML,BLOOM P J,B,3
+S21,Undergraduate,FAMST   119ML,BLOOM P J,B-,1
+S21,Undergraduate,FAMST   119ML,BLOOM P J,C,2
+S21,Undergraduate,FAMST   119ML,BLOOM P J,C-,1
+S21,Undergraduate,FAMST   119ML,BLOOM P J,C+,1
+S21,Undergraduate,FAMST   119ML,BLOOM P J,F,1
+S21,Undergraduate,FAMST   150FT,BLOOM P J,A,6
+S21,Undergraduate,FAMST   150FT,BLOOM P J,A-,3
+S21,Undergraduate,FAMST   150FT,BLOOM P J,B,4
+S21,Undergraduate,FAMST   150FT,BLOOM P J,B-,2
+S21,Undergraduate,FAMST   150FT,BLOOM P J,B+,8
+S21,Undergraduate,FAMST   150FT,BLOOM P J,C,1
+S21,Undergraduate,FAMST   150FT,BLOOM P J,C+,2
+S21,Undergraduate,FAMST   154PG,PENLEY C,A,5
+S21,Undergraduate,FAMST   154PG,PENLEY C,A-,4
+S21,Undergraduate,FAMST   154PG,PENLEY C,A+,27
+S21,Undergraduate,FAMST   154PG,PENLEY C,B+,1
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,A,14
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,A-,23
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,B,27
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,B-,12
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,B+,21
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,C,1
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,C-,2
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,C+,2
+S21,Undergraduate,FAMST   155CN,BRUSUTTI A,F,3
+S21,Undergraduate,FAMST   184,HAJDA J M,A,10
+S21,Undergraduate,FAMST   184,HAJDA J M,A-,7
+S21,Undergraduate,FAMST   184,HAJDA J M,B,10
+S21,Undergraduate,FAMST   184,HAJDA J M,B-,2
+S21,Undergraduate,FAMST   184,HAJDA J M,B+,7
+S21,Undergraduate,FAMST   184,HAJDA J M,C,2
+S21,Undergraduate,FAMST   184,HAJDA J M,C-,1
+S21,Undergraduate,FAMST   184,HAJDA J M,C+,1
+S21,Undergraduate,FAMST   187AN,MELNICK R D,A,6
+S21,Undergraduate,FAMST   187AN,MELNICK R D,A-,3
+S21,Undergraduate,FAMST   187AN,MELNICK R D,A+,3
+S21,Undergraduate,FAMST   187AN,MELNICK R D,B,1
+S21,Undergraduate,FAMST   187AN,MELNICK R D,B-,1
+S21,Undergraduate,FAMST   187AN,MELNICK R D,B+,2
+S21,Undergraduate,FAMST   187AN,MELNICK R D,F,1
+S21,Undergraduate,FAMST   187CC,WOLFE C C,A,3
+S21,Undergraduate,FAMST   187CC,WOLFE C C,A-,5
+S21,Undergraduate,FAMST   187CC,WOLFE C C,B-,1
+S21,Undergraduate,FAMST   187CC,WOLFE C C,B+,3
+S21,Undergraduate,FAMST   187CC,WOLFE C C,F,2
+S21,Undergraduate,FAMST   187OC,DAMLUJI M N,A,9
+S21,Undergraduate,FAMST   187OC,DAMLUJI M N,A-,7
+S21,Undergraduate,FAMST   187OC,DAMLUJI M N,B+,1
+S21,Undergraduate,FAMST   187RZ,PARKS L A,A,3
+S21,Undergraduate,FAMST   187RZ,PARKS L A,A-,12
+S21,Undergraduate,FAMST   187RZ,PARKS L A,B,1
+S21,Undergraduate,FAMST   187RZ,PARKS L A,B+,2
+S21,Undergraduate,FAMST   187SS,MCNAMARA J P,A,4
+S21,Undergraduate,FAMST   187SS,MCNAMARA J P,A-,6
+S21,Undergraduate,FAMST   187SS,MCNAMARA J P,B-,1
+S21,Undergraduate,FAMST   187SS,MCNAMARA J P,B+,6
+S21,Undergraduate,FAMST   187SS,MCNAMARA J P,C+,1
+S21,Undergraduate,FAMST   189AC,SHEREEN SAKR,A,15
+S21,Undergraduate,FAMST   189SM,SIEGEL G D,A,3
+S21,Undergraduate,FAMST   189SM,SIEGEL G D,A-,6
+S21,Undergraduate,FAMST   189SM,SIEGEL G D,B,5
+S21,Undergraduate,FAMST   189SM,SIEGEL G D,B-,1
+S21,Undergraduate,FAMST   189SM,SIEGEL G D,B+,1
+S21,Undergraduate,FAMST   192CT,SARKAR B,A,1
+S21,Undergraduate,FAMST   192CT,SARKAR B,A-,8
+S21,Undergraduate,FAMST   192CT,SARKAR B,B,12
+S21,Undergraduate,FAMST   192CT,SARKAR B,B-,16
+S21,Undergraduate,FAMST   192CT,SARKAR B,B+,12
+S21,Undergraduate,FAMST   192CT,SARKAR B,C+,4
+S21,Undergraduate,FAMST   192CT,SARKAR B,F,2
+S21,Undergraduate,FAMST   195I,PALLADINO J N,P,10
+S21,Graduate,FAMST   250,HEBDIGE R W,A,13
+S21,Graduate,FAMST   252MD,PARKS L A,A,11

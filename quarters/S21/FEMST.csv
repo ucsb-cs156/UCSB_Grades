@@ -1,0 +1,90 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,FEMST    30,MORALES N,A,33
+S21,Undergraduate,FEMST    30,MORALES N,A-,16
+S21,Undergraduate,FEMST    30,MORALES N,A+,27
+S21,Undergraduate,FEMST    30,MORALES N,B,5
+S21,Undergraduate,FEMST    30,MORALES N,B+,7
+S21,Undergraduate,FEMST    30,MORALES N,C,1
+S21,Undergraduate,FEMST    30,MORALES N,D+,1
+S21,Undergraduate,FEMST    30,MORALES N,F,3
+S21,Undergraduate,FEMST    50,CHANG G,A,45
+S21,Undergraduate,FEMST    50,CHANG G,A-,12
+S21,Undergraduate,FEMST    50,CHANG G,A+,21
+S21,Undergraduate,FEMST    50,CHANG G,B,3
+S21,Undergraduate,FEMST    50,CHANG G,B-,2
+S21,Undergraduate,FEMST    50,CHANG G,B+,12
+S21,Undergraduate,FEMST    50,CHANG G,C,4
+S21,Undergraduate,FEMST    50,CHANG G,C-,3
+S21,Undergraduate,FEMST    50,CHANG G,C+,2
+S21,Undergraduate,FEMST    50,CHANG G,D,1
+S21,Undergraduate,FEMST    50,CHANG G,D+,1
+S21,Undergraduate,FEMST    50,CHANG G,F,1
+S21,Undergraduate,FEMST   139,CHANG G,A,5
+S21,Undergraduate,FEMST   139,CHANG G,A+,3
+S21,Undergraduate,FEMST   144,BOBO J,A,25
+S21,Undergraduate,FEMST   144,BOBO J,A-,3
+S21,Undergraduate,FEMST   144,BOBO J,B,1
+S21,Undergraduate,FEMST   144,BOBO J,B+,1
+S21,Undergraduate,FEMST   144,BOBO J,F,1
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,A,161
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,A-,39
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,A+,36
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,B,14
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,B-,3
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,B+,12
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,C,1
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,D+,1
+S21,Undergraduate,FEMST   150,MILLER-YOUNG,F,6
+S21,Undergraduate,FEMST   159C,COLES A P,A,6
+S21,Undergraduate,FEMST   159C,COLES A P,B-,1
+S21,Undergraduate,FEMST   159C,COLES A P,C,2
+S21,Undergraduate,FEMST   163,DASGUPTA D,A,8
+S21,Undergraduate,FEMST   163,DASGUPTA D,A-,4
+S21,Undergraduate,FEMST   163,DASGUPTA D,A+,13
+S21,Undergraduate,FEMST   181,BARVOSA E,A,9
+S21,Undergraduate,FEMST   181,BARVOSA E,A-,3
+S21,Undergraduate,FEMST   181,BARVOSA E,A+,2
+S21,Undergraduate,FEMST   181,BARVOSA E,B,5
+S21,Undergraduate,FEMST   181,BARVOSA E,B-,1
+S21,Undergraduate,FEMST   181,BARVOSA E,B+,4
+S21,Undergraduate,FEMST   181,BARVOSA E,C,2
+S21,Undergraduate,FEMST   181,BARVOSA E,C-,1
+S21,Undergraduate,FEMST   181,BARVOSA E,C+,1
+S21,Undergraduate,FEMST   181,BARVOSA E,F,2
+S21,Undergraduate,FEMST   182,DOIRON F D,A,3
+S21,Undergraduate,FEMST   182,DOIRON F D,A-,1
+S21,Undergraduate,FEMST   182,DOIRON F D,B,4
+S21,Undergraduate,FEMST   182,DOIRON F D,B-,1
+S21,Undergraduate,FEMST   182,DOIRON F D,B+,1
+S21,Undergraduate,FEMST   182,DOIRON F D,C,1
+S21,Undergraduate,FEMST   182,DOIRON F D,C-,1
+S21,Undergraduate,FEMST   182,DOIRON F D,D,1
+S21,Undergraduate,FEMST   182,DOIRON F D,F,1
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,A,5
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,A-,7
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,B,1
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,B-,1
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,B+,3
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,C,1
+S21,Undergraduate,FEMST   185MR,RICHARDSON M,F,2
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,A,9
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,A-,4
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,B,3
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,B-,1
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,B+,3
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,C,1
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,C+,1
+S21,Undergraduate,FEMST   186AJ,BARVOSA E,D,1
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,A,10
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,A-,3
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,B,1
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,B+,3
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,C,1
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,C-,1
+S21,Undergraduate,FEMST   186AO,VICTORIAN J M,F,1
+S21,Undergraduate,FEMST   195HC,OAKS L M,A,7
+S21,Undergraduate,FEMST   195HC,OAKS L M,B+,1
+S21,Graduate,FEMST   250AG,RICHARDSON M,A,7
+S21,Graduate,FEMST   250AH,THOMSEN C A,A,5
+S21,Graduate,FEMST   270,BORIS E C,A,5
+S21,Graduate,FEMST   270,BORIS E C,A-,4

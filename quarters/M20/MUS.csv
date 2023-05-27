@@ -1,0 +1,79 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M20,Undergraduate,MUS      11,BAUSCH T C,A+,45
+M20,Undergraduate,MUS      11,BAUSCH T C,A,14
+M20,Undergraduate,MUS      11,BAUSCH T C,A-,1
+M20,Undergraduate,MUS      11,BAUSCH T C,B+,5
+M20,Undergraduate,MUS      11,BAUSCH T C,B,2
+M20,Undergraduate,MUS      11,BAUSCH T C,B-,1
+M20,Undergraduate,MUS      11,BAUSCH T C,C+,3
+M20,Undergraduate,MUS      11,BAUSCH T C,C,3
+M20,Undergraduate,MUS      11,BAUSCH T C,D+,1
+M20,Undergraduate,MUS      11,BAUSCH T C,F,2
+M20,Undergraduate,MUS      11,VANCHELLA E C,A+,64
+M20,Undergraduate,MUS      11,VANCHELLA E C,A,7
+M20,Undergraduate,MUS      11,VANCHELLA E C,A-,1
+M20,Undergraduate,MUS      11,VANCHELLA E C,B+,2
+M20,Undergraduate,MUS      11,VANCHELLA E C,B-,1
+M20,Undergraduate,MUS      11,VANCHELLA E C,C,1
+M20,Undergraduate,MUS      11,VANCHELLA E C,C-,1
+M20,Undergraduate,MUS      11,VANCHELLA E C,D+,1
+M20,Undergraduate,MUS      11,VANCHELLA E C,F,3
+M20,Undergraduate,MUS      15,LOMBARDINO M,A,69
+M20,Undergraduate,MUS      15,LOMBARDINO M,A-,14
+M20,Undergraduate,MUS      15,LOMBARDINO M,B+,11
+M20,Undergraduate,MUS      15,LOMBARDINO M,B,3
+M20,Undergraduate,MUS      15,LOMBARDINO M,B-,3
+M20,Undergraduate,MUS      15,LOMBARDINO M,C+,1
+M20,Undergraduate,MUS      15,LOMBARDINO M,C,2
+M20,Undergraduate,MUS      15,LOMBARDINO M,D+,1
+M20,Undergraduate,MUS      15,LOMBARDINO M,F,3
+M20,Undergraduate,MUS      15,WILLIAMS M L,A,54
+M20,Undergraduate,MUS      15,WILLIAMS M L,A-,15
+M20,Undergraduate,MUS      15,WILLIAMS M L,B+,6
+M20,Undergraduate,MUS      15,WILLIAMS M L,B,5
+M20,Undergraduate,MUS      15,WILLIAMS M L,B-,2
+M20,Undergraduate,MUS      15,WILLIAMS M L,C,1
+M20,Undergraduate,MUS      15,WILLIAMS M L,C-,1
+M20,Undergraduate,MUS      15,WILLIAMS M L,D+,1
+M20,Undergraduate,MUS      15,WILLIAMS M L,D,1
+M20,Undergraduate,MUS      15,WILLIAMS M L,F,1
+M20,Undergraduate,MUS      17,CONTE E A,A+,2
+M20,Undergraduate,MUS      17,CONTE E A,A,13
+M20,Undergraduate,MUS      17,CONTE E A,A-,3
+M20,Undergraduate,MUS      17,CONTE E A,B+,2
+M20,Undergraduate,MUS      17,CONTE E A,B,4
+M20,Undergraduate,MUS      17,CONTE E A,F,1
+M20,Undergraduate,MUS     109CA,ELWELL K,A+,16
+M20,Undergraduate,MUS     109CA,ELWELL K,A,7
+M20,Undergraduate,MUS     109CA,ELWELL K,A-,5
+M20,Undergraduate,MUS     109CA,ELWELL K,B+,2
+M20,Undergraduate,MUS     109CA,ELWELL K,B,3
+M20,Undergraduate,MUS     109CA,ELWELL K,C,2
+M20,Undergraduate,MUS     109CA,ELWELL K,F,2
+M20,Undergraduate,MUS     109CA,RADNA R,A+,16
+M20,Undergraduate,MUS     109CA,RADNA R,A,7
+M20,Undergraduate,MUS     109CA,RADNA R,A-,5
+M20,Undergraduate,MUS     109CA,RADNA R,B+,2
+M20,Undergraduate,MUS     109CA,RADNA R,B,3
+M20,Undergraduate,MUS     109CA,RADNA R,C,2
+M20,Undergraduate,MUS     109CA,RADNA R,F,2
+M20,Undergraduate,MUS     114,HOLTON J D,A+,12
+M20,Undergraduate,MUS     114,HOLTON J D,A,19
+M20,Undergraduate,MUS     114,HOLTON J D,A-,14
+M20,Undergraduate,MUS     114,HOLTON J D,B+,3
+M20,Undergraduate,MUS     114,HOLTON J D,B,10
+M20,Undergraduate,MUS     114,HOLTON J D,B-,5
+M20,Undergraduate,MUS     114,HOLTON J D,C+,2
+M20,Undergraduate,MUS     114,HOLTON J D,C,3
+M20,Undergraduate,MUS     114,HOLTON J D,C-,1
+M20,Undergraduate,MUS     114,HOLTON J D,D+,2
+M20,Undergraduate,MUS     114,HOLTON J D,F,3
+M20,Undergraduate,MUS     114,KARVELAS B A,A+,23
+M20,Undergraduate,MUS     114,KARVELAS B A,A,21
+M20,Undergraduate,MUS     114,KARVELAS B A,A-,3
+M20,Undergraduate,MUS     114,KARVELAS B A,B+,3
+M20,Undergraduate,MUS     114,KARVELAS B A,B,6
+M20,Undergraduate,MUS     114,KARVELAS B A,B-,1
+M20,Undergraduate,MUS     114,KARVELAS B A,C+,1
+M20,Undergraduate,MUS     114,KARVELAS B A,C,1
+M20,Undergraduate,MUS     114,KARVELAS B A,F,2

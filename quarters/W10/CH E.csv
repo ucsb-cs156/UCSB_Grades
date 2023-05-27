@@ -1,0 +1,54 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W10,Undergraduate,CH E    124,THEOFANOUS T,A,1
+W10,Undergraduate,CH E    124,THEOFANOUS T,B,5
+W10,Undergraduate,CH E    152B,DOYLE F,A+,1
+W10,Undergraduate,CH E    152B,DOYLE F,A,2
+W10,Undergraduate,CH E    152B,DOYLE F,A-,2
+W10,Undergraduate,CH E    152B,DOYLE F,B+,2
+W10,Undergraduate,CH E    152B,DOYLE F,B,2
+W10,Undergraduate,CH E    160,KRAMER E J,A+,1
+W10,Undergraduate,CH E    160,KRAMER E J,A,4
+W10,Undergraduate,CH E    160,KRAMER E J,A-,3
+W10,Undergraduate,CH E    160,KRAMER E J,B+,5
+W10,Undergraduate,CH E    160,KRAMER E J,B,3
+W10,Undergraduate,CH E    160,KRAMER E J,F,1
+W10,Undergraduate,CH E    180B,SEBORG D E,A,4
+W10,Undergraduate,CH E    180B,SEBORG D E,A-,2
+W10,Undergraduate,CH E    180B,SEBORG D E,B+,4
+W10,Undergraduate,CH E    180B,SEBORG D E,B,4
+W10,Undergraduate,CH E    180B,SEBORG D E,B-,2
+W10,Undergraduate,CH E    180B,SEBORG D E,C+,4
+W10,Undergraduate,CH E    184A,CHMELKA B F,A,7
+W10,Undergraduate,CH E    184A,CHMELKA B F,A-,2
+W10,Undergraduate,CH E    184A,CHMELKA B F,B+,5
+W10,Undergraduate,CH E    184A,CHMELKA B F,B,8
+W10,Undergraduate,CH E    184A,CHMELKA B F,B-,9
+W10,Undergraduate,CH E    184A,CHMELKA B F,C+,2
+W10,Undergraduate,CH E    184A,CHMELKA B F,C,6
+W10,Undergraduate,CH E    184A,CHMELKA B F,C-,3
+W10,Undergraduate,CH E    184A,DOHERTY M F,A,7
+W10,Undergraduate,CH E    184A,DOHERTY M F,A-,2
+W10,Undergraduate,CH E    184A,DOHERTY M F,B+,5
+W10,Undergraduate,CH E    184A,DOHERTY M F,B,8
+W10,Undergraduate,CH E    184A,DOHERTY M F,B-,9
+W10,Undergraduate,CH E    184A,DOHERTY M F,C+,2
+W10,Undergraduate,CH E    184A,DOHERTY M F,C,6
+W10,Undergraduate,CH E    184A,DOHERTY M F,C-,3
+W10,Graduate,CH E    216A,CHMELKA B F,A+,1
+W10,Graduate,CH E    216A,CHMELKA B F,A,9
+W10,Graduate,CH E    216A,CHMELKA B F,A-,5
+W10,Graduate,CH E    216A,CHMELKA B F,B+,1
+W10,Graduate,CH E    220B,SQUIRES T M,A,3
+W10,Graduate,CH E    220B,SQUIRES T M,A-,1
+W10,Graduate,CH E    220B,SQUIRES T M,B+,2
+W10,Graduate,CH E    220B,SQUIRES T M,B,1
+W10,Graduate,CH E    240A,MCFARLAND E W,A+,1
+W10,Graduate,CH E    240A,MCFARLAND E W,A,4
+W10,Graduate,CH E    240A,MCFARLAND E W,A-,4
+W10,Graduate,CH E    240A,MCFARLAND E W,B+,5
+W10,Graduate,CH E    240A,MCFARLAND E W,B,4
+W10,Graduate,CH E    290,ISRAELACHVILI,S,61
+W10,Graduate,CH E    291,CHMELKA B F,S,5
+W10,Graduate,CH E    291,FREDRICKSON G,S,5
+W10,Graduate,CH E    596,LEAL L G,S,5
+W10,Graduate,CH E    599,CHMELKA B F,S,5

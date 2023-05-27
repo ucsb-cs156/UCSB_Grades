@@ -1,0 +1,84 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M20,Undergraduate,ED      109M,SHISHIM M D,P,77
+M20,Undergraduate,ED      111,CHAGOLLA D,A+,20
+M20,Undergraduate,ED      111,CHAGOLLA D,A,18
+M20,Undergraduate,ED      111,CHAGOLLA D,A-,5
+M20,Undergraduate,ED      111,CHAGOLLA D,B+,6
+M20,Undergraduate,ED      111,CHAGOLLA D,B-,2
+M20,Undergraduate,ED      111,CHAGOLLA D,C,1
+M20,Undergraduate,ED      111,CHAGOLLA D,F,2
+M20,Undergraduate,ED      117M,GALICIA M G,P,135
+M20,Undergraduate,ED      117M,GALICIA M G,NP,5
+M20,Undergraduate,ED      123,CLAIRMONT III,A+,6
+M20,Undergraduate,ED      123,CLAIRMONT III,A,21
+M20,Undergraduate,ED      123,CLAIRMONT III,A-,1
+M20,Undergraduate,ED      123,CLAIRMONT III,B+,2
+M20,Undergraduate,ED      123,CLAIRMONT III,B,6
+M20,Undergraduate,ED      123,CLAIRMONT III,B-,2
+M20,Undergraduate,ED      123,CLAIRMONT III,C+,1
+M20,Undergraduate,ED      123,CLAIRMONT III,C,1
+M20,Undergraduate,ED      123,CLAIRMONT III,C-,1
+M20,Undergraduate,ED      123,CLAIRMONT III,D,1
+M20,Undergraduate,ED      123,CLAIRMONT III,F,2
+M20,Undergraduate,ED      123,MEIER V C,A,21
+M20,Undergraduate,ED      123,MEIER V C,A-,5
+M20,Undergraduate,ED      123,MEIER V C,B,1
+M20,Undergraduate,ED      123,MEIER V C,F,1
+M20,Undergraduate,ED   W  125,DUQUE J D,A+,14
+M20,Undergraduate,ED   W  125,DUQUE J D,A,50
+M20,Undergraduate,ED   W  125,DUQUE J D,B+,6
+M20,Undergraduate,ED   W  125,DUQUE J D,B,13
+M20,Undergraduate,ED   W  125,DUQUE J D,C+,1
+M20,Undergraduate,ED   W  125,DUQUE J D,C,9
+M20,Undergraduate,ED   W  125,DUQUE J D,D+,1
+M20,Undergraduate,ED   W  125,DUQUE J D,D,1
+M20,Undergraduate,ED   W  125,DUQUE J D,F,5
+M20,Undergraduate,INT  W   20,EDWARDS J A,P,88
+M20,Undergraduate,INT  W   20,EDWARDS J A,NP,8
+M20,Graduate,ED      222B,BERNSTEIN E K,A,8
+M20,Graduate,ED      228A,HOLDREN N R,A+,1
+M20,Graduate,ED      228A,HOLDREN N R,A,5
+M20,Graduate,ED      228B,FEDDERS A,A+,1
+M20,Graduate,ED      228B,FEDDERS A,A,5
+M20,Graduate,ED      228L,MORAN A S,A,8
+M20,Graduate,ED      229C,HOLDREN N R,S,6
+M20,Graduate,ED      229C,MORAN A S,S,8
+M20,Graduate,ED      229D,BERNSTEIN E K,A,8
+M20,Graduate,ED      229D,HOLDREN N R,A,6
+M20,Graduate,ED      263,DUQUE J D,A,21
+M20,Graduate,ED      263,HARVEY V A,A,24
+M20,Graduate,ED      264,DUQUE J D,A,18
+M20,Graduate,ED      264,HARVEY V A,A,20
+M20,Graduate,ED      268,DUQUE J D,A,18
+M20,Graduate,ED      268,ELLIS B D,A,18
+M20,Graduate,ED      268,HARVEY V A,A,19
+M20,Graduate,ED      268,OXELSON E M,A,18
+M20,Graduate,ED      291,FEDDERS A,A,6
+M20,Graduate,ED      318,HARRIS S Y,A,39
+M20,Graduate,ED      319,SCALZO J N,A,47
+M20,Graduate,ED      326,WHITAKER D R,S,37
+M20,Graduate,ED      327,BODENHAMER B,S,43
+M20,Graduate,ED      330,LOWI R S,S,80
+M20,Graduate,ED      340,FEDDERS A,S,30
+M20,Graduate,ED      341,DEWAR T J,S,9
+M20,Graduate,ED      341,ESTABROOK J A,S,11
+M20,Graduate,ED      341,FEDDERS A,S,11
+M20,Graduate,ED      341,GRAY M,S,9
+M20,Graduate,ED      341,HARDY C,S,11
+M20,Graduate,ED      341,HARVEY V A,S,11
+M20,Graduate,ED      341,ROSS E G,S,9
+M20,Graduate,ED      370,BUMBY A K,S,5
+M20,Graduate,ED      370,ELLIS B D,S,5
+M20,Graduate,ED      370,MEYER M N,S,6
+M20,Graduate,ED      370,MORALES E L,S,5
+M20,Graduate,ED      370,OXELSON E M,S,5
+M20,Graduate,ED   E  321M,DEWAR T J,S,9
+M20,Graduate,ED   E  371,DEWAR T J,S,9
+M20,Graduate,ED   HSS321M,ESTABROOK J A,S,11
+M20,Graduate,ED   HSS321M,MULLIN C D,S,11
+M20,Graduate,ED   HSS371,ESTABROOK J A,S,11
+M20,Graduate,ED   HSS371,MULLIN C D,S,11
+M20,Graduate,ED   M  321M,OGRAIN C M,S,11
+M20,Graduate,ED   M  371,SCAFIDE M E,S,11
+M20,Graduate,ED   S  321M,LOHWASSER K,S,9
+M20,Graduate,ED   S  371,LOHWASSER K,S,9

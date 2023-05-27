@@ -1,0 +1,186 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F13,Undergraduate,ECON    160,PHILLIPS L,A+,1
+F13,Undergraduate,ECON    160,PHILLIPS L,A,2
+F13,Undergraduate,ECON    160,PHILLIPS L,A-,3
+F13,Undergraduate,ECON    160,PHILLIPS L,B+,3
+F13,Undergraduate,ECON    160,PHILLIPS L,B,8
+F13,Undergraduate,ECON    160,PHILLIPS L,B-,2
+F13,Undergraduate,ECON    160,PHILLIPS L,C,4
+F13,Undergraduate,ECON    160,PHILLIPS L,C-,1
+F13,Undergraduate,PHIL      1,BRUECKNER A L,A+,2
+F13,Undergraduate,PHIL      1,BRUECKNER A L,A,10
+F13,Undergraduate,PHIL      1,BRUECKNER A L,A-,24
+F13,Undergraduate,PHIL      1,BRUECKNER A L,B+,31
+F13,Undergraduate,PHIL      1,BRUECKNER A L,B,29
+F13,Undergraduate,PHIL      1,BRUECKNER A L,B-,24
+F13,Undergraduate,PHIL      1,BRUECKNER A L,C+,20
+F13,Undergraduate,PHIL      1,BRUECKNER A L,C,9
+F13,Undergraduate,PHIL      1,BRUECKNER A L,C-,7
+F13,Undergraduate,PHIL      1,BRUECKNER A L,D+,3
+F13,Undergraduate,PHIL      1,BRUECKNER A L,D,2
+F13,Undergraduate,PHIL      1,BRUECKNER A L,D-,1
+F13,Undergraduate,PHIL      1,BRUECKNER A L,F,4
+F13,Undergraduate,PHIL      3,HESS K A,A+,2
+F13,Undergraduate,PHIL      3,HESS K A,A,12
+F13,Undergraduate,PHIL      3,HESS K A,A-,26
+F13,Undergraduate,PHIL      3,HESS K A,B+,24
+F13,Undergraduate,PHIL      3,HESS K A,B,21
+F13,Undergraduate,PHIL      3,HESS K A,B-,25
+F13,Undergraduate,PHIL      3,HESS K A,C+,17
+F13,Undergraduate,PHIL      3,HESS K A,C,7
+F13,Undergraduate,PHIL      3,HESS K A,C-,15
+F13,Undergraduate,PHIL      3,HESS K A,D+,4
+F13,Undergraduate,PHIL      3,HESS K A,D,7
+F13,Undergraduate,PHIL      3,HESS K A,D-,2
+F13,Undergraduate,PHIL      3,HESS K A,F,5
+F13,Undergraduate,PHIL      4,BUTZER T B,A,15
+F13,Undergraduate,PHIL      4,BUTZER T B,A-,39
+F13,Undergraduate,PHIL      4,BUTZER T B,B+,64
+F13,Undergraduate,PHIL      4,BUTZER T B,B,55
+F13,Undergraduate,PHIL      4,BUTZER T B,B-,42
+F13,Undergraduate,PHIL      4,BUTZER T B,C+,14
+F13,Undergraduate,PHIL      4,BUTZER T B,C,3
+F13,Undergraduate,PHIL      4,BUTZER T B,F,2
+F13,Undergraduate,PHIL     20A,TSOUNA V,A,22
+F13,Undergraduate,PHIL     20A,TSOUNA V,A-,37
+F13,Undergraduate,PHIL     20A,TSOUNA V,B+,47
+F13,Undergraduate,PHIL     20A,TSOUNA V,B,35
+F13,Undergraduate,PHIL     20A,TSOUNA V,B-,10
+F13,Undergraduate,PHIL     20A,TSOUNA V,C+,6
+F13,Undergraduate,PHIL     20A,TSOUNA V,C,9
+F13,Undergraduate,PHIL     20A,TSOUNA V,D+,1
+F13,Undergraduate,PHIL     20A,TSOUNA V,D,1
+F13,Undergraduate,PHIL     20A,TSOUNA V,F,2
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,A+,2
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,A,18
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,A-,19
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,B+,16
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,B,18
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,B-,15
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,C+,11
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,C,6
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,C-,3
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,D+,1
+F13,Undergraduate,PHIL    100A,WINTERBOTTOM,F,1
+F13,Undergraduate,PHIL    100C,SALMON N U,A,4
+F13,Undergraduate,PHIL    100C,SALMON N U,A-,2
+F13,Undergraduate,PHIL    100C,SALMON N U,B+,4
+F13,Undergraduate,PHIL    100C,SALMON N U,B,4
+F13,Undergraduate,PHIL    100C,SALMON N U,B-,8
+F13,Undergraduate,PHIL    100C,SALMON N U,C+,3
+F13,Undergraduate,PHIL    100C,SALMON N U,C,4
+F13,Undergraduate,PHIL    100C,SALMON N U,C-,9
+F13,Undergraduate,PHIL    100C,SALMON N U,D+,2
+F13,Undergraduate,PHIL    100C,SALMON N U,D,2
+F13,Undergraduate,PHIL    100C,SALMON N U,D-,2
+F13,Undergraduate,PHIL    100F,RESCORLA M A,A,3
+F13,Undergraduate,PHIL    100F,RESCORLA M A,A-,3
+F13,Undergraduate,PHIL    100F,RESCORLA M A,B+,5
+F13,Undergraduate,PHIL    100F,RESCORLA M A,B,6
+F13,Undergraduate,PHIL    100F,RESCORLA M A,B-,6
+F13,Undergraduate,PHIL    100F,RESCORLA M A,C+,6
+F13,Undergraduate,PHIL    100F,RESCORLA M A,C,6
+F13,Undergraduate,PHIL    100F,RESCORLA M A,C-,6
+F13,Undergraduate,PHIL    100F,RESCORLA M A,D+,2
+F13,Undergraduate,PHIL    100F,RESCORLA M A,D,1
+F13,Undergraduate,PHIL    100F,RESCORLA M A,D-,1
+F13,Undergraduate,PHIL    100F,RESCORLA M A,F,3
+F13,Undergraduate,PHIL    130,BRUECKNER A L,A,5
+F13,Undergraduate,PHIL    130,BRUECKNER A L,A-,9
+F13,Undergraduate,PHIL    130,BRUECKNER A L,B+,10
+F13,Undergraduate,PHIL    130,BRUECKNER A L,B,13
+F13,Undergraduate,PHIL    130,BRUECKNER A L,B-,6
+F13,Undergraduate,PHIL    130,BRUECKNER A L,C+,4
+F13,Undergraduate,PHIL    130,BRUECKNER A L,F,5
+F13,Undergraduate,PHIL    133,LIDERTH J D,A,9
+F13,Undergraduate,PHIL    133,LIDERTH J D,A-,2
+F13,Undergraduate,PHIL    133,LIDERTH J D,B+,7
+F13,Undergraduate,PHIL    133,LIDERTH J D,B,9
+F13,Undergraduate,PHIL    133,LIDERTH J D,B-,3
+F13,Undergraduate,PHIL    133,LIDERTH J D,C+,4
+F13,Undergraduate,PHIL    133,LIDERTH J D,C,1
+F13,Undergraduate,PHIL    133,LIDERTH J D,F,1
+F13,Undergraduate,PHIL    137,MCMAHON C A,A,4
+F13,Undergraduate,PHIL    137,MCMAHON C A,A-,7
+F13,Undergraduate,PHIL    137,MCMAHON C A,B+,4
+F13,Undergraduate,PHIL    137,MCMAHON C A,B,8
+F13,Undergraduate,PHIL    137,MCMAHON C A,B-,3
+F13,Undergraduate,PHIL    137,MCMAHON C A,C+,3
+F13,Undergraduate,PHIL    137,MCMAHON C A,C,4
+F13,Undergraduate,PHIL    139,MCMAHON C A,A,2
+F13,Undergraduate,PHIL    139,MCMAHON C A,A-,6
+F13,Undergraduate,PHIL    139,MCMAHON C A,B+,6
+F13,Undergraduate,PHIL    139,MCMAHON C A,B,5
+F13,Undergraduate,PHIL    139,MCMAHON C A,B-,2
+F13,Undergraduate,PHIL    139,MCMAHON C A,C+,8
+F13,Undergraduate,PHIL    139,MCMAHON C A,C,2
+F13,Undergraduate,PHIL    139,MCMAHON C A,C-,1
+F13,Undergraduate,PHIL    145,JARRETT G C,A+,1
+F13,Undergraduate,PHIL    145,JARRETT G C,A,4
+F13,Undergraduate,PHIL    145,JARRETT G C,A-,3
+F13,Undergraduate,PHIL    145,JARRETT G C,B+,4
+F13,Undergraduate,PHIL    145,JARRETT G C,B,9
+F13,Undergraduate,PHIL    145,JARRETT G C,B-,1
+F13,Undergraduate,PHIL    145,JARRETT G C,C+,1
+F13,Undergraduate,PHIL    145,JARRETT G C,C,5
+F13,Undergraduate,PHIL    145,JARRETT G C,C-,2
+F13,Undergraduate,PHIL    145,JARRETT G C,D,1
+F13,Undergraduate,PHIL    145,JARRETT G C,F,1
+F13,Undergraduate,PHIL    149,FALVEY K T,A+,1
+F13,Undergraduate,PHIL    149,FALVEY K T,A,1
+F13,Undergraduate,PHIL    149,FALVEY K T,A-,5
+F13,Undergraduate,PHIL    149,FALVEY K T,B+,3
+F13,Undergraduate,PHIL    149,FALVEY K T,B,9
+F13,Undergraduate,PHIL    149,FALVEY K T,B-,4
+F13,Undergraduate,PHIL    149,FALVEY K T,C+,6
+F13,Undergraduate,PHIL    149,FALVEY K T,C-,1
+F13,Undergraduate,PHIL    149,FALVEY K T,F,1
+F13,Undergraduate,PHIL    150E,RESCORLA M A,A,1
+F13,Undergraduate,PHIL    150E,RESCORLA M A,A-,3
+F13,Undergraduate,PHIL    150E,RESCORLA M A,B+,4
+F13,Undergraduate,PHIL    150E,RESCORLA M A,B,2
+F13,Undergraduate,PHIL    150E,RESCORLA M A,B-,3
+F13,Undergraduate,PHIL    150E,RESCORLA M A,C+,1
+F13,Undergraduate,PHIL    150E,RESCORLA M A,C,1
+F13,Undergraduate,PHIL    150E,RESCORLA M A,F,2
+F13,Undergraduate,PHIL    152,TSOUNA V,A+,1
+F13,Undergraduate,PHIL    152,TSOUNA V,A,7
+F13,Undergraduate,PHIL    152,TSOUNA V,A-,5
+F13,Undergraduate,PHIL    152,TSOUNA V,B+,5
+F13,Undergraduate,PHIL    152,TSOUNA V,B,2
+F13,Undergraduate,PHIL    152,TSOUNA V,B-,3
+F13,Undergraduate,PHIL    152,TSOUNA V,C+,2
+F13,Undergraduate,PHIL    152,TSOUNA V,F,1
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,A,4
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,A-,3
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,B+,5
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,B,2
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,B-,2
+F13,Undergraduate,PHIL    166A,WINTERBOTTOM,C-,1
+F13,Undergraduate,PHIL    183,SALMON N U,A,3
+F13,Undergraduate,PHIL    183,SALMON N U,A-,1
+F13,Undergraduate,PHIL    183,SALMON N U,B+,4
+F13,Undergraduate,PHIL    183,SALMON N U,B,1
+F13,Undergraduate,PHIL    183,SALMON N U,B-,3
+F13,Undergraduate,PHIL    183,SALMON N U,C+,4
+F13,Undergraduate,PHIL    183,SALMON N U,C,5
+F13,Undergraduate,PHIL    183,SALMON N U,C-,1
+F13,Undergraduate,PHIL    183,SALMON N U,D+,2
+F13,Undergraduate,PHIL    183,SALMON N U,D,3
+F13,Undergraduate,PHIL    183,SALMON N U,D-,4
+F13,Undergraduate,PHIL    183,SALMON N U,F,18
+F13,Graduate,PHIL    250E,RESCORLA M A,A,2
+F13,Graduate,PHIL    250E,RESCORLA M A,A-,2
+F13,Graduate,PHIL    250E,RESCORLA M A,S,3
+F13,Graduate,PHIL    266A,WINTERBOTTOM,A,2
+F13,Graduate,PHIL    266A,WINTERBOTTOM,A-,2
+F13,Graduate,PHIL    266A,WINTERBOTTOM,S,1
+F13,Graduate,PHIL    296A,HANSER M F,A,3
+F13,Graduate,PHIL    296A,HANSER M F,A-,1
+F13,Graduate,PHIL    296A,HANSER M F,B+,2
+F13,Graduate,PHIL    296A,HANSER M F,S,2
+F13,Graduate,PHIL    296E,ROBERTSON T,A-,1
+F13,Graduate,PHIL    296E,ROBERTSON T,B+,1
+F13,Graduate,PHIL    296E,ROBERTSON T,B,1
+F13,Graduate,PHIL    296E,ROBERTSON T,S,3
+F13,Graduate,PHIL    500,HOLDEN T A,S,15

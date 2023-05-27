@@ -1,0 +1,427 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W16,Undergraduate,ECON      1,BEDARD K L,A,46
+W16,Undergraduate,ECON      1,BEDARD K L,A-,46
+W16,Undergraduate,ECON      1,BEDARD K L,B+,67
+W16,Undergraduate,ECON      1,BEDARD K L,B,62
+W16,Undergraduate,ECON      1,BEDARD K L,B-,65
+W16,Undergraduate,ECON      1,BEDARD K L,C+,82
+W16,Undergraduate,ECON      1,BEDARD K L,C,316
+W16,Undergraduate,ECON      1,BEDARD K L,C-,17
+W16,Undergraduate,ECON      1,BEDARD K L,D+,9
+W16,Undergraduate,ECON      1,BEDARD K L,D,2
+W16,Undergraduate,ECON      1,BEDARD K L,F,5
+W16,Undergraduate,ECON      2,RUPERT P,A,26
+W16,Undergraduate,ECON      2,RUPERT P,A-,27
+W16,Undergraduate,ECON      2,RUPERT P,B+,42
+W16,Undergraduate,ECON      2,RUPERT P,B,40
+W16,Undergraduate,ECON      2,RUPERT P,B-,45
+W16,Undergraduate,ECON      2,RUPERT P,C+,46
+W16,Undergraduate,ECON      2,RUPERT P,C,133
+W16,Undergraduate,ECON      2,RUPERT P,C-,74
+W16,Undergraduate,ECON      2,RUPERT P,D,10
+W16,Undergraduate,ECON      3A,ANDERSON R W,A+,1
+W16,Undergraduate,ECON      3A,ANDERSON R W,A,7
+W16,Undergraduate,ECON      3A,ANDERSON R W,A-,11
+W16,Undergraduate,ECON      3A,ANDERSON R W,B+,10
+W16,Undergraduate,ECON      3A,ANDERSON R W,B,15
+W16,Undergraduate,ECON      3A,ANDERSON R W,B-,9
+W16,Undergraduate,ECON      3A,ANDERSON R W,C+,18
+W16,Undergraduate,ECON      3A,ANDERSON R W,C,28
+W16,Undergraduate,ECON      3A,ANDERSON R W,C-,15
+W16,Undergraduate,ECON      3A,ANDERSON R W,D,3
+W16,Undergraduate,ECON      3A,ANDERSON R W,F,13
+W16,Undergraduate,ECON      3AH,ANDERSON R W,P,5
+W16,Undergraduate,ECON      3B,HARMON C J,A,11
+W16,Undergraduate,ECON      3B,HARMON C J,A-,16
+W16,Undergraduate,ECON      3B,HARMON C J,B+,21
+W16,Undergraduate,ECON      3B,HARMON C J,B,18
+W16,Undergraduate,ECON      3B,HARMON C J,B-,10
+W16,Undergraduate,ECON      3B,HARMON C J,C+,31
+W16,Undergraduate,ECON      3B,HARMON C J,C,20
+W16,Undergraduate,ECON      3B,HARMON C J,C-,20
+W16,Undergraduate,ECON      3B,HARMON C J,D,4
+W16,Undergraduate,ECON      3BH,HARMON C J,P,8
+W16,Undergraduate,ECON     10A,HARTMAN J L,A,13
+W16,Undergraduate,ECON     10A,HARTMAN J L,A-,23
+W16,Undergraduate,ECON     10A,HARTMAN J L,B+,30
+W16,Undergraduate,ECON     10A,HARTMAN J L,B,51
+W16,Undergraduate,ECON     10A,HARTMAN J L,B-,42
+W16,Undergraduate,ECON     10A,HARTMAN J L,C+,24
+W16,Undergraduate,ECON     10A,HARTMAN J L,C,23
+W16,Undergraduate,ECON     10A,HARTMAN J L,C-,16
+W16,Undergraduate,ECON     10A,HARTMAN J L,D,11
+W16,Undergraduate,ECON     10A,HARTMAN J L,F,20
+W16,Undergraduate,ECON     10A,SONSTELIE J,A,21
+W16,Undergraduate,ECON     10A,SONSTELIE J,A-,14
+W16,Undergraduate,ECON     10A,SONSTELIE J,B+,32
+W16,Undergraduate,ECON     10A,SONSTELIE J,B,21
+W16,Undergraduate,ECON     10A,SONSTELIE J,B-,15
+W16,Undergraduate,ECON     10A,SONSTELIE J,C+,7
+W16,Undergraduate,ECON     10A,SONSTELIE J,C,9
+W16,Undergraduate,ECON     10A,SONSTELIE J,C-,4
+W16,Undergraduate,ECON     10A,SONSTELIE J,D,6
+W16,Undergraduate,ECON     10A,SONSTELIE J,F,6
+W16,Undergraduate,ECON     96,ROYER H N,A,15
+W16,Undergraduate,ECON    100B,STUART C,A,2
+W16,Undergraduate,ECON    100B,STUART C,A-,5
+W16,Undergraduate,ECON    100B,STUART C,B+,23
+W16,Undergraduate,ECON    100B,STUART C,B,34
+W16,Undergraduate,ECON    100B,STUART C,B-,24
+W16,Undergraduate,ECON    100B,STUART C,C+,9
+W16,Undergraduate,ECON    100B,STUART C,C,4
+W16,Undergraduate,ECON    100B,STUART C,D,2
+W16,Undergraduate,ECON    100B,VESPA E I,A+,4
+W16,Undergraduate,ECON    100B,VESPA E I,A,10
+W16,Undergraduate,ECON    100B,VESPA E I,A-,10
+W16,Undergraduate,ECON    100B,VESPA E I,B+,15
+W16,Undergraduate,ECON    100B,VESPA E I,B,16
+W16,Undergraduate,ECON    100B,VESPA E I,B-,15
+W16,Undergraduate,ECON    100B,VESPA E I,C+,15
+W16,Undergraduate,ECON    100B,VESPA E I,C,14
+W16,Undergraduate,ECON    100B,VESPA E I,C-,14
+W16,Undergraduate,ECON    100B,VESPA E I,D,3
+W16,Undergraduate,ECON    100B,VESPA E I,F,2
+W16,Undergraduate,ECON    100C,QIN C Z,A,3
+W16,Undergraduate,ECON    100C,QIN C Z,A-,3
+W16,Undergraduate,ECON    100C,QIN C Z,B+,3
+W16,Undergraduate,ECON    100C,QIN C Z,B,6
+W16,Undergraduate,ECON    100C,QIN C Z,B-,3
+W16,Undergraduate,ECON    100C,QIN C Z,C,1
+W16,Undergraduate,ECON    100C,QIN C Z,D,1
+W16,Undergraduate,ECON    101,SONSTELIE J,A,31
+W16,Undergraduate,ECON    101,SONSTELIE J,A-,20
+W16,Undergraduate,ECON    101,SONSTELIE J,B+,28
+W16,Undergraduate,ECON    101,SONSTELIE J,B,29
+W16,Undergraduate,ECON    101,SONSTELIE J,B-,19
+W16,Undergraduate,ECON    101,SONSTELIE J,C+,17
+W16,Undergraduate,ECON    101,SONSTELIE J,C,7
+W16,Undergraduate,ECON    101,SONSTELIE J,C-,6
+W16,Undergraduate,ECON    101,SONSTELIE J,D,1
+W16,Undergraduate,ECON    101,SONSTELIE J,F,4
+W16,Undergraduate,ECON    106,BENELLI C A,A+,1
+W16,Undergraduate,ECON    106,BENELLI C A,A,9
+W16,Undergraduate,ECON    106,BENELLI C A,A-,1
+W16,Undergraduate,ECON    106,BENELLI C A,B+,7
+W16,Undergraduate,ECON    106,BENELLI C A,B,8
+W16,Undergraduate,ECON    106,BENELLI C A,C+,3
+W16,Undergraduate,ECON    106,BENELLI C A,C,5
+W16,Undergraduate,ECON    106,BENELLI C A,C-,5
+W16,Undergraduate,ECON    114A,BENELLI C A,A+,1
+W16,Undergraduate,ECON    114A,BENELLI C A,A,9
+W16,Undergraduate,ECON    114A,BENELLI C A,A-,3
+W16,Undergraduate,ECON    114A,BENELLI C A,B+,7
+W16,Undergraduate,ECON    114A,BENELLI C A,B,11
+W16,Undergraduate,ECON    114A,BENELLI C A,B-,3
+W16,Undergraduate,ECON    114A,BENELLI C A,C+,7
+W16,Undergraduate,ECON    114A,BENELLI C A,C,3
+W16,Undergraduate,ECON    114A,BENELLI C A,C-,1
+W16,Undergraduate,ECON    114A,BENELLI C A,D+,1
+W16,Undergraduate,ECON    114A,BENELLI C A,D,2
+W16,Undergraduate,ECON    114A,BENELLI C A,F,1
+W16,Undergraduate,ECON    116B,COMANOR W S,A,4
+W16,Undergraduate,ECON    116B,COMANOR W S,A-,7
+W16,Undergraduate,ECON    116B,COMANOR W S,B+,6
+W16,Undergraduate,ECON    116B,COMANOR W S,B,5
+W16,Undergraduate,ECON    116B,COMANOR W S,C-,1
+W16,Undergraduate,ECON    117A,FRECH H E,A+,2
+W16,Undergraduate,ECON    117A,FRECH H E,A,6
+W16,Undergraduate,ECON    117A,FRECH H E,A-,6
+W16,Undergraduate,ECON    117A,FRECH H E,B+,5
+W16,Undergraduate,ECON    117A,FRECH H E,B,4
+W16,Undergraduate,ECON    117A,FRECH H E,B-,4
+W16,Undergraduate,ECON    117A,FRECH H E,C,1
+W16,Undergraduate,ECON    130,STUART C,A-,1
+W16,Undergraduate,ECON    130,STUART C,B-,2
+W16,Undergraduate,ECON    130,STUART C,C+,1
+W16,Undergraduate,ECON    130,STUART C,C,6
+W16,Undergraduate,ECON    130,STUART C,C-,5
+W16,Undergraduate,ECON    130,STUART C,D+,1
+W16,Undergraduate,ECON    130,STUART C,F,1
+W16,Undergraduate,ECON    132A,ANDERSON R W,A,2
+W16,Undergraduate,ECON    132A,ANDERSON R W,A-,4
+W16,Undergraduate,ECON    132A,ANDERSON R W,B+,5
+W16,Undergraduate,ECON    132A,ANDERSON R W,B,18
+W16,Undergraduate,ECON    132A,ANDERSON R W,B-,6
+W16,Undergraduate,ECON    132A,ANDERSON R W,C+,14
+W16,Undergraduate,ECON    132A,ANDERSON R W,C,13
+W16,Undergraduate,ECON    132A,ANDERSON R W,C-,3
+W16,Undergraduate,ECON    132A,ANDERSON R W,D,1
+W16,Undergraduate,ECON    132AH,ANDERSON R W,P,14
+W16,Undergraduate,ECON    134A,HARTMAN J L,A+,5
+W16,Undergraduate,ECON    134A,HARTMAN J L,A,23
+W16,Undergraduate,ECON    134A,HARTMAN J L,A-,27
+W16,Undergraduate,ECON    134A,HARTMAN J L,B+,32
+W16,Undergraduate,ECON    134A,HARTMAN J L,B,24
+W16,Undergraduate,ECON    134A,HARTMAN J L,B-,23
+W16,Undergraduate,ECON    134A,HARTMAN J L,C+,25
+W16,Undergraduate,ECON    134A,HARTMAN J L,C,26
+W16,Undergraduate,ECON    134A,HARTMAN J L,C-,10
+W16,Undergraduate,ECON    134A,HARTMAN J L,D-,1
+W16,Undergraduate,ECON    134A,HARTMAN J L,F,1
+W16,Undergraduate,ECON    135,GARRATT R J,A+,1
+W16,Undergraduate,ECON    135,GARRATT R J,A,13
+W16,Undergraduate,ECON    135,GARRATT R J,A-,11
+W16,Undergraduate,ECON    135,GARRATT R J,B+,12
+W16,Undergraduate,ECON    135,GARRATT R J,B,12
+W16,Undergraduate,ECON    135,GARRATT R J,B-,4
+W16,Undergraduate,ECON    135,GARRATT R J,C+,5
+W16,Undergraduate,ECON    135,GARRATT R J,C,3
+W16,Undergraduate,ECON    135,GARRATT R J,C-,5
+W16,Undergraduate,ECON    135,GARRATT R J,D,1
+W16,Undergraduate,ECON    135,GARRATT R J,F,1
+W16,Undergraduate,ECON    136A,GRAY L A,A,7
+W16,Undergraduate,ECON    136A,GRAY L A,A-,8
+W16,Undergraduate,ECON    136A,GRAY L A,B+,10
+W16,Undergraduate,ECON    136A,GRAY L A,B,10
+W16,Undergraduate,ECON    136A,GRAY L A,B-,10
+W16,Undergraduate,ECON    136A,GRAY L A,C+,12
+W16,Undergraduate,ECON    136A,GRAY L A,C,3
+W16,Undergraduate,ECON    136A,GRAY L A,C-,5
+W16,Undergraduate,ECON    136A,GRAY L A,D,1
+W16,Undergraduate,ECON    136A,GRAY L A,F,3
+W16,Undergraduate,ECON    136A,KULPER D E,A,7
+W16,Undergraduate,ECON    136A,KULPER D E,A-,6
+W16,Undergraduate,ECON    136A,KULPER D E,B+,12
+W16,Undergraduate,ECON    136A,KULPER D E,B,12
+W16,Undergraduate,ECON    136A,KULPER D E,B-,9
+W16,Undergraduate,ECON    136A,KULPER D E,C+,8
+W16,Undergraduate,ECON    136A,KULPER D E,C,5
+W16,Undergraduate,ECON    136A,KULPER D E,C-,2
+W16,Undergraduate,ECON    136A,KULPER D E,D,1
+W16,Undergraduate,ECON    136A,KULPER D E,F,2
+W16,Undergraduate,ECON    136AH,GRAY L A,P,14
+W16,Undergraduate,ECON    136AH,KULPER D E,P,21
+W16,Undergraduate,ECON    136AH,KULPER D E,NP,1
+W16,Undergraduate,ECON    136B,HULME J L,A,5
+W16,Undergraduate,ECON    136B,HULME J L,A-,8
+W16,Undergraduate,ECON    136B,HULME J L,B+,5
+W16,Undergraduate,ECON    136B,HULME J L,B,10
+W16,Undergraduate,ECON    136B,HULME J L,B-,7
+W16,Undergraduate,ECON    136B,HULME J L,C+,2
+W16,Undergraduate,ECON    136B,HULME J L,C,7
+W16,Undergraduate,ECON    136B,HULME J L,C-,5
+W16,Undergraduate,ECON    136B,HULME J L,D,2
+W16,Undergraduate,ECON    136B,HULME J L,D-,1
+W16,Undergraduate,ECON    136B,HULME J L,F,1
+W16,Undergraduate,ECON    136B,MAASS L E,A+,5
+W16,Undergraduate,ECON    136B,MAASS L E,A,18
+W16,Undergraduate,ECON    136B,MAASS L E,A-,22
+W16,Undergraduate,ECON    136B,MAASS L E,B+,13
+W16,Undergraduate,ECON    136B,MAASS L E,B,19
+W16,Undergraduate,ECON    136B,MAASS L E,B-,11
+W16,Undergraduate,ECON    136B,MAASS L E,C+,8
+W16,Undergraduate,ECON    136B,MAASS L E,C,3
+W16,Undergraduate,ECON    136B,MAASS L E,C-,8
+W16,Undergraduate,ECON    136B,MAASS L E,D+,3
+W16,Undergraduate,ECON    136B,MAASS L E,D,3
+W16,Undergraduate,ECON    136B,MAASS L E,D-,2
+W16,Undergraduate,ECON    136B,MAASS L E,F,2
+W16,Undergraduate,ECON    136C,HARMON C J,A,8
+W16,Undergraduate,ECON    136C,HARMON C J,A-,4
+W16,Undergraduate,ECON    136C,HARMON C J,B+,4
+W16,Undergraduate,ECON    136C,HARMON C J,B,9
+W16,Undergraduate,ECON    136C,HARMON C J,B-,11
+W16,Undergraduate,ECON    136C,HARMON C J,C+,11
+W16,Undergraduate,ECON    136C,HARMON C J,C,10
+W16,Undergraduate,ECON    136C,HARMON C J,F,2
+W16,Undergraduate,ECON    136C,HULME J L,A,7
+W16,Undergraduate,ECON    136C,HULME J L,A-,12
+W16,Undergraduate,ECON    136C,HULME J L,B+,9
+W16,Undergraduate,ECON    136C,HULME J L,B,8
+W16,Undergraduate,ECON    136C,HULME J L,B-,5
+W16,Undergraduate,ECON    136C,HULME J L,C+,6
+W16,Undergraduate,ECON    136C,HULME J L,C,4
+W16,Undergraduate,ECON    136C,HULME J L,C-,3
+W16,Undergraduate,ECON    136C,HULME J L,D,1
+W16,Undergraduate,ECON    136C,HULME J L,D-,1
+W16,Undergraduate,ECON    136C,HULME J L,F,4
+W16,Undergraduate,ECON    136CH,HARMON C J,P,6
+W16,Undergraduate,ECON    137A,WATSON R B,A,15
+W16,Undergraduate,ECON    137A,WATSON R B,A-,7
+W16,Undergraduate,ECON    137A,WATSON R B,B+,25
+W16,Undergraduate,ECON    137A,WATSON R B,B,17
+W16,Undergraduate,ECON    137A,WATSON R B,B-,21
+W16,Undergraduate,ECON    137A,WATSON R B,C+,17
+W16,Undergraduate,ECON    137A,WATSON R B,C,33
+W16,Undergraduate,ECON    137A,WATSON R B,C-,12
+W16,Undergraduate,ECON    137A,WATSON R B,D,6
+W16,Undergraduate,ECON    137A,WATSON R B,F,10
+W16,Undergraduate,ECON    137B,MAASS L E,A+,2
+W16,Undergraduate,ECON    137B,MAASS L E,A,7
+W16,Undergraduate,ECON    137B,MAASS L E,A-,13
+W16,Undergraduate,ECON    137B,MAASS L E,B+,10
+W16,Undergraduate,ECON    137B,MAASS L E,B,9
+W16,Undergraduate,ECON    137B,MAASS L E,B-,8
+W16,Undergraduate,ECON    137B,MAASS L E,C+,3
+W16,Undergraduate,ECON    137B,MAASS L E,C,5
+W16,Undergraduate,ECON    137B,MAASS L E,C-,2
+W16,Undergraduate,ECON    137B,MAASS L E,D+,1
+W16,Undergraduate,ECON    137B,MAASS L E,D,2
+W16,Undergraduate,ECON    137B,MAASS L E,F,2
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,A,31
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,A-,24
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,B+,4
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,B,8
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,B-,8
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,C+,9
+W16,Undergraduate,ECON    138A,SCHNEIDER N J,C,21
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,A,20
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,A-,4
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,B+,1
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,B,12
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,B-,4
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,C+,2
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,C,11
+W16,Undergraduate,ECON    138B,SCHNEIDER N J,D,1
+W16,Undergraduate,ECON    139,ANDERSON R W,A+,1
+W16,Undergraduate,ECON    139,ANDERSON R W,A,2
+W16,Undergraduate,ECON    139,ANDERSON R W,B+,6
+W16,Undergraduate,ECON    139,ANDERSON R W,B,2
+W16,Undergraduate,ECON    139,ANDERSON R W,B-,2
+W16,Undergraduate,ECON    139,ANDERSON R W,C+,1
+W16,Undergraduate,ECON    140A,BANA S H,A,12
+W16,Undergraduate,ECON    140A,BANA S H,A-,9
+W16,Undergraduate,ECON    140A,BANA S H,B+,12
+W16,Undergraduate,ECON    140A,BANA S H,B,16
+W16,Undergraduate,ECON    140A,BANA S H,B-,7
+W16,Undergraduate,ECON    140A,BANA S H,C+,9
+W16,Undergraduate,ECON    140A,BANA S H,C,7
+W16,Undergraduate,ECON    140A,BANA S H,C-,5
+W16,Undergraduate,ECON    140A,BANA S H,D+,1
+W16,Undergraduate,ECON    140A,BANA S H,D,1
+W16,Undergraduate,ECON    140A,STARTZ R,A+,2
+W16,Undergraduate,ECON    140A,STARTZ R,A,23
+W16,Undergraduate,ECON    140A,STARTZ R,A-,17
+W16,Undergraduate,ECON    140A,STARTZ R,B+,23
+W16,Undergraduate,ECON    140A,STARTZ R,B,33
+W16,Undergraduate,ECON    140A,STARTZ R,B-,15
+W16,Undergraduate,ECON    140A,STARTZ R,C+,16
+W16,Undergraduate,ECON    140A,STARTZ R,C,16
+W16,Undergraduate,ECON    140A,STARTZ R,C-,8
+W16,Undergraduate,ECON    140A,STARTZ R,D+,1
+W16,Undergraduate,ECON    140A,STARTZ R,D,2
+W16,Undergraduate,ECON    140A,STARTZ R,F,1
+W16,Undergraduate,ECON    140A,WHITE C D,A+,2
+W16,Undergraduate,ECON    140A,WHITE C D,A,11
+W16,Undergraduate,ECON    140A,WHITE C D,A-,8
+W16,Undergraduate,ECON    140A,WHITE C D,B+,11
+W16,Undergraduate,ECON    140A,WHITE C D,B,17
+W16,Undergraduate,ECON    140A,WHITE C D,B-,8
+W16,Undergraduate,ECON    140A,WHITE C D,C+,7
+W16,Undergraduate,ECON    140A,WHITE C D,C,9
+W16,Undergraduate,ECON    140A,WHITE C D,C-,3
+W16,Undergraduate,ECON    140A,WHITE C D,D,1
+W16,Undergraduate,ECON    140A,WHITE C D,F,1
+W16,Undergraduate,ECON    140B,DESCHENES O,A,7
+W16,Undergraduate,ECON    140B,DESCHENES O,A-,4
+W16,Undergraduate,ECON    140B,DESCHENES O,B+,8
+W16,Undergraduate,ECON    140B,DESCHENES O,B,3
+W16,Undergraduate,ECON    140B,DESCHENES O,B-,3
+W16,Undergraduate,ECON    140B,DESCHENES O,C+,2
+W16,Undergraduate,ECON    140B,DESCHENES O,C-,2
+W16,Undergraduate,ECON    140B,DESCHENES O,D-,1
+W16,Undergraduate,ECON    150A,BENELLI C A,A+,1
+W16,Undergraduate,ECON    150A,BENELLI C A,A,7
+W16,Undergraduate,ECON    150A,BENELLI C A,A-,3
+W16,Undergraduate,ECON    150A,BENELLI C A,B+,6
+W16,Undergraduate,ECON    150A,BENELLI C A,B,9
+W16,Undergraduate,ECON    150A,BENELLI C A,B-,3
+W16,Undergraduate,ECON    150A,BENELLI C A,C+,3
+W16,Undergraduate,ECON    150A,BENELLI C A,C,5
+W16,Undergraduate,ECON    150A,BENELLI C A,C-,4
+W16,Undergraduate,ECON    150A,BENELLI C A,D,1
+W16,Undergraduate,ECON    164,LOWELL J F,A,5
+W16,Undergraduate,ECON    164,LOWELL J F,A-,7
+W16,Undergraduate,ECON    164,LOWELL J F,B+,8
+W16,Undergraduate,ECON    164,LOWELL J F,B,14
+W16,Undergraduate,ECON    164,LOWELL J F,B-,9
+W16,Undergraduate,ECON    164,LOWELL J F,C+,2
+W16,Undergraduate,ECON    164,LOWELL J F,C,1
+W16,Undergraduate,ECON    171,BERGSTROM T C,A+,2
+W16,Undergraduate,ECON    171,BERGSTROM T C,A,12
+W16,Undergraduate,ECON    171,BERGSTROM T C,A-,2
+W16,Undergraduate,ECON    171,BERGSTROM T C,B+,3
+W16,Undergraduate,ECON    171,BERGSTROM T C,B,2
+W16,Undergraduate,ECON    171,BERGSTROM T C,B-,5
+W16,Undergraduate,ECON    171,BERGSTROM T C,C+,4
+W16,Undergraduate,ECON    171,BERGSTROM T C,C,7
+W16,Undergraduate,ECON    171,BERGSTROM T C,C-,4
+W16,Undergraduate,ECON    171,BERGSTROM T C,D,4
+W16,Undergraduate,ECON    171,BERGSTROM T C,D-,1
+W16,Undergraduate,ECON    171,BERGSTROM T C,F,6
+W16,Undergraduate,ECON    174,CHARNESS G B,A,26
+W16,Undergraduate,ECON    174,CHARNESS G B,A-,6
+W16,Undergraduate,ECON    174,CHARNESS G B,B+,7
+W16,Undergraduate,ECON    174,CHARNESS G B,B,21
+W16,Undergraduate,ECON    177,GARRATT R J,A,11
+W16,Undergraduate,ECON    177,GARRATT R J,A-,13
+W16,Undergraduate,ECON    177,GARRATT R J,B+,9
+W16,Undergraduate,ECON    177,GARRATT R J,B,3
+W16,Undergraduate,ECON    177,GARRATT R J,B-,6
+W16,Undergraduate,ECON    177,GARRATT R J,C+,2
+W16,Undergraduate,ECON    177,GARRATT R J,C-,1
+W16,Undergraduate,ECON    189,KULPER D E,A,6
+W16,Undergraduate,ECON    189,KULPER D E,A-,6
+W16,Undergraduate,ECON    189,KULPER D E,B+,9
+W16,Undergraduate,ECON    189,KULPER D E,B,13
+W16,Undergraduate,ECON    189,KULPER D E,B-,10
+W16,Undergraduate,ECON    189,KULPER D E,C+,4
+W16,Undergraduate,ECON    189,KULPER D E,C,1
+W16,Undergraduate,ECON    189,KULPER D E,C-,2
+W16,Undergraduate,ECON    189H,KULPER D E,P,18
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,A,10
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,A-,15
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,B+,5
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,B,1
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,B-,1
+W16,Undergraduate,ECON    191ET,EBENSTEIN A O,C+,1
+W16,Undergraduate,ECON    194S,VESPA E I,A+,5
+W16,Undergraduate,ECON    194S,VESPA E I,A,4
+W16,Undergraduate,ECON    196B,LUNDBERG S J,A+,2
+W16,Undergraduate,ECON    196B,LUNDBERG S J,A,8
+W16,Undergraduate,ECON    196B,LUNDBERG S J,A-,2
+W16,Graduate,ECON    204B,KAPICKA M,A+,2
+W16,Graduate,ECON    204B,KAPICKA M,A,3
+W16,Graduate,ECON    204B,KAPICKA M,A-,5
+W16,Graduate,ECON    204B,KAPICKA M,B+,3
+W16,Graduate,ECON    205B,QIN C Z,A+,1
+W16,Graduate,ECON    205B,QIN C Z,A,6
+W16,Graduate,ECON    205B,QIN C Z,A-,3
+W16,Graduate,ECON    205B,QIN C Z,B+,10
+W16,Graduate,ECON    205B,QIN C Z,B,8
+W16,Graduate,ECON    210B,VESPA E I,A+,3
+W16,Graduate,ECON    210B,VESPA E I,A,3
+W16,Graduate,ECON    210B,VESPA E I,A-,5
+W16,Graduate,ECON    210B,VESPA E I,B+,3
+W16,Graduate,ECON    210B,VESPA E I,B,1
+W16,Graduate,ECON    234A,HARTMAN J L,A+,1
+W16,Graduate,ECON    234A,HARTMAN J L,A,9
+W16,Graduate,ECON    234A,HARTMAN J L,A-,4
+W16,Graduate,ECON    234A,HARTMAN J L,B+,7
+W16,Graduate,ECON    234A,HARTMAN J L,B,4
+W16,Graduate,ECON    234A,HARTMAN J L,B-,1
+W16,Graduate,ECON    234A,HARTMAN J L,F,1
+W16,Graduate,ECON    240B,STARTZ R,A,12
+W16,Graduate,ECON    240B,STARTZ R,A-,5
+W16,Graduate,ECON    240B,STARTZ R,B+,6
+W16,Graduate,ECON    240B,STARTZ R,B,3
+W16,Graduate,ECON    240B,STARTZ R,B-,1
+W16,Graduate,ECON    241B,STEIGERWALD D,A,5
+W16,Graduate,ECON    241B,STEIGERWALD D,A-,6
+W16,Graduate,ECON    241B,STEIGERWALD D,B+,3
+W16,Graduate,ECON    241B,STEIGERWALD D,B,2
+W16,Graduate,ECON    241B,STEIGERWALD D,B-,1
+W16,Graduate,ECON    250A,KUHN P J,A+,1
+W16,Graduate,ECON    250A,KUHN P J,A,7
+W16,Graduate,ECON    250A,KUHN P J,A-,1
+W16,Graduate,ECON    253A,RUPERT P,A,10
+W16,Graduate,ECON    260C,LIBECAP G D,A+,6
+W16,Graduate,ECON    293,KUHN P J,A,7
+W16,Graduate,ECON    294,KAPICKA M,S,15
+W16,Graduate,ECON    594EC,STARTZ R,S,5
+W16,Graduate,ECON    594EC,STEIGERWALD D,S,5
+W16,Graduate,ECON    594ED,BEDARD K L,S,8
+W16,Graduate,ECON    594ED,STARTZ R,S,8
+W16,Graduate,ECON    594LR,BEDARD K L,S,14
+W16,Graduate,ECON    599,DESCHENES O,S,5
+W16,Graduate,ECON    599,RUPERT P,S,5

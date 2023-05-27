@@ -1,0 +1,185 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W21,Undergraduate,CMPSC   190DE,FRANKS A,A,24
+W21,Undergraduate,CMPSC   190DE,FRANKS A,B+,1
+W21,Undergraduate,CMPSC   190DE,FRANKS A,B-,1
+W21,Undergraduate,ECON    116A,FRECH H E,A+,1
+W21,Undergraduate,ECON    116A,FRECH H E,A,4
+W21,Undergraduate,ECON    116A,FRECH H E,A-,8
+W21,Undergraduate,ECON    116A,FRECH H E,B+,7
+W21,Undergraduate,ECON    116A,FRECH H E,B,9
+W21,Undergraduate,ECON    116A,FRECH H E,B-,6
+W21,Undergraduate,ECON    116A,FRECH H E,C+,3
+W21,Undergraduate,ECON    116A,FRECH H E,C,1
+W21,Undergraduate,ECON    116A,FRECH H E,F,1
+W21,Undergraduate,EEMB    130C,FROEHLICH H E,A,31
+W21,Undergraduate,EEMB    130C,FROEHLICH H E,B,1
+W21,Undergraduate,EEMB    130C,FROEHLICH H E,F,2
+W21,Undergraduate,ENV S   130C,FROEHLICH H E,A,49
+W21,Undergraduate,ENV S   130C,FROEHLICH H E,B,4
+W21,Undergraduate,FR        1,ROBERTS S C,A,14
+W21,Undergraduate,FR        1,ROBERTS S C,A-,15
+W21,Undergraduate,FR        1,ROBERTS S C,B+,13
+W21,Undergraduate,FR        1,ROBERTS S C,B,5
+W21,Undergraduate,FR        1,ROBERTS S C,C+,3
+W21,Undergraduate,FR        1,ROBERTS S C,C,2
+W21,Undergraduate,FR        1,ROBERTS S C,C-,1
+W21,Undergraduate,FR        1,ROBERTS S C,D+,1
+W21,Undergraduate,FR        1,ROBERTS S C,D,1
+W21,Undergraduate,FR        1,ROBERTS S C,F,4
+W21,Undergraduate,FR        2,ROBERTS S C,A+,3
+W21,Undergraduate,FR        2,ROBERTS S C,A,28
+W21,Undergraduate,FR        2,ROBERTS S C,A-,22
+W21,Undergraduate,FR        2,ROBERTS S C,B+,13
+W21,Undergraduate,FR        2,ROBERTS S C,B,10
+W21,Undergraduate,FR        2,ROBERTS S C,B-,4
+W21,Undergraduate,FR        2,ROBERTS S C,C+,1
+W21,Undergraduate,FR        2,ROBERTS S C,F,1
+W21,Undergraduate,FR        3,ROBERTS S C,A+,1
+W21,Undergraduate,FR        3,ROBERTS S C,A,7
+W21,Undergraduate,FR        3,ROBERTS S C,A-,1
+W21,Undergraduate,FR        3,ROBERTS S C,B+,1
+W21,Undergraduate,FR        3,ROBERTS S C,B,8
+W21,Undergraduate,FR        3,ROBERTS S C,B-,1
+W21,Undergraduate,FR        4,ROBERTS S C,A,11
+W21,Undergraduate,FR        4,ROBERTS S C,A-,6
+W21,Undergraduate,FR        4,ROBERTS S C,B+,5
+W21,Undergraduate,FR        4,ROBERTS S C,C-,1
+W21,Undergraduate,FR        5,LABATUT M A,A+,3
+W21,Undergraduate,FR        5,LABATUT M A,A,9
+W21,Undergraduate,FR        5,LABATUT M A,A-,2
+W21,Undergraduate,FR        5,LABATUT M A,B+,6
+W21,Undergraduate,FR        5,LABATUT M A,B,2
+W21,Undergraduate,FR        5,LABATUT M A,B-,2
+W21,Undergraduate,FR        5,LABATUT M A,C+,1
+W21,Undergraduate,FR        5,LABATUT M A,C-,1
+W21,Undergraduate,FR        5,SCHULTZ J M,A,2
+W21,Undergraduate,FR        5,SCHULTZ J M,A-,5
+W21,Undergraduate,FR        5,SCHULTZ J M,B+,3
+W21,Undergraduate,FR        5,SCHULTZ J M,B-,1
+W21,Undergraduate,FR        5,SCHULTZ J M,C+,3
+W21,Undergraduate,FR        6,LABATUT M A,A+,1
+W21,Undergraduate,FR        6,LABATUT M A,A,8
+W21,Undergraduate,FR        6,LABATUT M A,A-,8
+W21,Undergraduate,FR        6,LABATUT M A,B+,4
+W21,Undergraduate,FR        6,LABATUT M A,B,1
+W21,Undergraduate,FR        6,LABATUT M A,C+,1
+W21,Undergraduate,FR        6,LABATUT M A,F,1
+W21,Undergraduate,FR       11A,PHILLIPS M E,A+,4
+W21,Undergraduate,FR       11A,PHILLIPS M E,A,7
+W21,Undergraduate,FR       50CX,POWERS R T,A+,8
+W21,Undergraduate,FR       50CX,POWERS R T,A,38
+W21,Undergraduate,FR       50CX,POWERS R T,A-,11
+W21,Undergraduate,FR       50CX,POWERS R T,B+,1
+W21,Undergraduate,FR       50CX,POWERS R T,B,3
+W21,Undergraduate,FR       50CX,POWERS R T,B-,1
+W21,Undergraduate,FR       50CX,POWERS R T,C,3
+W21,Undergraduate,FR       50CX,POWERS R T,C-,1
+W21,Undergraduate,FR       50CX,POWERS R T,D+,1
+W21,Undergraduate,FR       50CX,POWERS R T,D,1
+W21,Undergraduate,FR       50CX,POWERS R T,F,2
+W21,Undergraduate,FR      100,ROBERTS S C,A+,1
+W21,Undergraduate,FR      100,ROBERTS S C,A,9
+W21,Undergraduate,FR      100,ROBERTS S C,A-,5
+W21,Undergraduate,FR      100,ROBERTS S C,B+,2
+W21,Undergraduate,FR      100,ROBERTS S C,B-,1
+W21,Undergraduate,FR      100,ROBERTS S C,F,1
+W21,Undergraduate,FR      101B,LARUE R J,A,11
+W21,Undergraduate,FR      101B,LARUE R J,A-,7
+W21,Undergraduate,FR      101B,LARUE R J,B+,2
+W21,Undergraduate,FR      101B,LARUE R J,B,1
+W21,Undergraduate,FR      101B,LARUE R J,B-,4
+W21,Undergraduate,FR      101B,LARUE R J,C+,3
+W21,Undergraduate,FR      101B,LARUE R J,C,1
+W21,Undergraduate,FR      104E,PHILLIPS M E,A+,1
+W21,Undergraduate,FR      104E,PHILLIPS M E,A,15
+W21,Undergraduate,FR      104E,PHILLIPS M E,A-,3
+W21,Undergraduate,FR      104E,PHILLIPS M E,B+,3
+W21,Undergraduate,FR      104E,PHILLIPS M E,B,2
+W21,Undergraduate,FR      149E,SKENAZI E C,A,4
+W21,Undergraduate,FR      149E,SKENAZI E C,A-,4
+W21,Undergraduate,FR      149E,SKENAZI E C,B+,3
+W21,Undergraduate,FR      154G,PRIETO E,A+,5
+W21,Undergraduate,FR      154G,PRIETO E,A,30
+W21,Undergraduate,FR      154G,PRIETO E,A-,12
+W21,Undergraduate,FR      154G,PRIETO E,B+,9
+W21,Undergraduate,FR      154G,PRIETO E,B,3
+W21,Undergraduate,FR      154G,PRIETO E,B-,1
+W21,Undergraduate,FR      154G,PRIETO E,C-,1
+W21,Undergraduate,FR      154G,PRIETO E,F,2
+W21,Undergraduate,FR      154I,POWERS R T,A+,2
+W21,Undergraduate,FR      154I,POWERS R T,A,12
+W21,Undergraduate,FR      154I,POWERS R T,A-,1
+W21,Undergraduate,FR      154I,POWERS R T,B,1
+W21,Undergraduate,FR      154I,POWERS R T,B-,1
+W21,Undergraduate,FR      154I,POWERS R T,C,1
+W21,Undergraduate,FR      154I,POWERS R T,D,1
+W21,Undergraduate,FR      154I,POWERS R T,F,1
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,A+,5
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,A,16
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,A-,1
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,B+,2
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,B,7
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,B-,1
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,C,5
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,D,4
+W21,Undergraduate,JAPAN    63,FRUHSTUCK S,F,7
+W21,Undergraduate,PHYS      1,FREEDMAN R A,A+,50
+W21,Undergraduate,PHYS      1,FREEDMAN R A,A,32
+W21,Undergraduate,PHYS      1,FREEDMAN R A,A-,40
+W21,Undergraduate,PHYS      1,FREEDMAN R A,B+,47
+W21,Undergraduate,PHYS      1,FREEDMAN R A,B,37
+W21,Undergraduate,PHYS      1,FREEDMAN R A,B-,31
+W21,Undergraduate,PHYS      1,FREEDMAN R A,C+,35
+W21,Undergraduate,PHYS      1,FREEDMAN R A,C,31
+W21,Undergraduate,PHYS      1,FREEDMAN R A,C-,23
+W21,Undergraduate,PHYS      1,FREEDMAN R A,D+,26
+W21,Undergraduate,PHYS      1,FREEDMAN R A,D,17
+W21,Undergraduate,PHYS      1,FREEDMAN R A,F,64
+W21,Undergraduate,PHYS      6B,FREUND E G,A+,13
+W21,Undergraduate,PHYS      6B,FREUND E G,A,118
+W21,Undergraduate,PHYS      6B,FREUND E G,A-,98
+W21,Undergraduate,PHYS      6B,FREUND E G,B+,87
+W21,Undergraduate,PHYS      6B,FREUND E G,B,72
+W21,Undergraduate,PHYS      6B,FREUND E G,B-,54
+W21,Undergraduate,PHYS      6B,FREUND E G,C+,36
+W21,Undergraduate,PHYS      6B,FREUND E G,C,23
+W21,Undergraduate,PHYS      6B,FREUND E G,C-,15
+W21,Undergraduate,PHYS      6B,FREUND E G,D+,13
+W21,Undergraduate,PHYS      6B,FREUND E G,D,4
+W21,Undergraduate,PHYS      6B,FREUND E G,F,6
+W21,Undergraduate,POL S   173,FREEMAN L A,A,36
+W21,Undergraduate,POL S   173,FREEMAN L A,A-,11
+W21,Undergraduate,POL S   173,FREEMAN L A,B+,8
+W21,Undergraduate,POL S   173,FREEMAN L A,B,3
+W21,Undergraduate,POL S   173,FREEMAN L A,B-,1
+W21,Undergraduate,PSTAT   197B,FRANKS A,A,23
+W21,Undergraduate,SOC     148MA,FRIEDKIN N E,A+,5
+W21,Undergraduate,SOC     148MA,FRIEDKIN N E,A,3
+W21,Undergraduate,SOC     148MA,FRIEDKIN N E,A-,3
+W21,Undergraduate,WRIT      2,FRANK D M,A+,2
+W21,Undergraduate,WRIT      2,FRANK D M,A,12
+W21,Undergraduate,WRIT      2,FRANK D M,A-,3
+W21,Undergraduate,WRIT      2,FRANK D M,B+,2
+W21,Undergraduate,WRIT      2,FRANK D M,B,2
+W21,Undergraduate,WRIT      2,FRANK D M,F,1
+W21,Undergraduate,WRIT    105PS,FRANK D M,A+,2
+W21,Undergraduate,WRIT    105PS,FRANK D M,A,13
+W21,Undergraduate,WRIT    105PS,FRANK D M,A-,3
+W21,Undergraduate,WRIT    105PS,FRANK D M,B+,1
+W21,Undergraduate,WRIT    105PS,FRANK D M,B,1
+W21,Undergraduate,WRIT    105PS,FRANK D M,C,1
+W21,Undergraduate,WRIT    105PS,FRANK D M,F,1
+W21,Graduate,CH E    596,FREDRICKSON G,S,5
+W21,Graduate,EACS    215,FRUHSTUCK S,A+,5
+W21,Graduate,EACS    215,FRUHSTUCK S,A,1
+W21,Graduate,EACS    215,FRUHSTUCK S,A-,3
+W21,Graduate,EACS    215,FRUHSTUCK S,B+,1
+W21,Graduate,EACS    215,FRUHSTUCK S,B,2
+W21,Graduate,ECON    290,FRECH H E,S,8
+W21,Graduate,ESM     263,FREW J E,A,51
+W21,Graduate,ESM     263,FREW J E,A-,1
+W21,Graduate,FR      500,ROBERTS S C,S,10
+W21,Graduate,POL S   594PC,FREEMAN L A,A,5
+W21,Graduate,PSTAT   596,FRANKS A,S,8
+W21,Graduate,SOC     248MA,FRIEDKIN N E,A+,6
+W21,Graduate,SOC     248MA,FRIEDKIN N E,A,1

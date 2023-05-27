@@ -1,0 +1,196 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S20,Undergraduate,ECE       1B,PARHAMI B,P,95
+S20,Undergraduate,ECE       1B,PARHAMI B,NP,2
+S20,Undergraduate,ECE      10B,SALEM L G,A+,6
+S20,Undergraduate,ECE      10B,SALEM L G,A,5
+S20,Undergraduate,ECE      10B,SALEM L G,A-,3
+S20,Undergraduate,ECE      10B,SALEM L G,B+,2
+S20,Undergraduate,ECE      10B,SALEM L G,B,4
+S20,Undergraduate,ECE      10B,SALEM L G,B-,2
+S20,Undergraduate,ECE      10B,SALEM L G,C+,2
+S20,Undergraduate,ECE      10B,SALEM L G,C,1
+S20,Undergraduate,ECE      10B,SALEM L G,C-,4
+S20,Undergraduate,ECE      10B,SALEM L G,F,1
+S20,Undergraduate,ECE      10BL,SALEM L G,A+,10
+S20,Undergraduate,ECE      10BL,SALEM L G,A,11
+S20,Undergraduate,ECE      10BL,SALEM L G,A-,4
+S20,Undergraduate,ECE      10BL,SALEM L G,B+,2
+S20,Undergraduate,ECE      10BL,SALEM L G,B,3
+S20,Undergraduate,ECE      10BL,SALEM L G,B-,1
+S20,Undergraduate,ECE      10BL,SALEM L G,C+,1
+S20,Undergraduate,ECE      10BL,SALEM L G,F,1
+S20,Undergraduate,ECE      10C,ALIZADEH M,A+,10
+S20,Undergraduate,ECE      10C,ALIZADEH M,A,22
+S20,Undergraduate,ECE      10C,ALIZADEH M,A-,37
+S20,Undergraduate,ECE      10C,ALIZADEH M,B+,13
+S20,Undergraduate,ECE      10C,ALIZADEH M,B,23
+S20,Undergraduate,ECE      10C,ALIZADEH M,B-,9
+S20,Undergraduate,ECE      10C,ALIZADEH M,C,5
+S20,Undergraduate,ECE      10C,ALIZADEH M,F,1
+S20,Undergraduate,ECE      10CL,ALIZADEH M,A+,46
+S20,Undergraduate,ECE      10CL,ALIZADEH M,A,64
+S20,Undergraduate,ECE      10CL,ALIZADEH M,A-,3
+S20,Undergraduate,ECE      10CL,ALIZADEH M,B+,3
+S20,Undergraduate,ECE      10CL,ALIZADEH M,D,2
+S20,Undergraduate,ECE      10CL,ALIZADEH M,F,2
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,A+,1
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,A,6
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,A-,2
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,B+,3
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,B-,1
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,C+,1
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,C,1
+S20,Undergraduate,ECE     120B,BEN-YAACOV I,F,1
+S20,Undergraduate,ECE     130B,SEN P,A+,1
+S20,Undergraduate,ECE     130B,SEN P,A,1
+S20,Undergraduate,ECE     130B,SEN P,A-,2
+S20,Undergraduate,ECE     130B,SEN P,B+,1
+S20,Undergraduate,ECE     130B,SEN P,B,5
+S20,Undergraduate,ECE     130B,SEN P,B-,2
+S20,Undergraduate,ECE     130B,SEN P,C,2
+S20,Undergraduate,ECE     130B,SEN P,D,1
+S20,Undergraduate,ECE     130B,SEN P,F,1
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,A+,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,A,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,A-,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,B+,5
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,B,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,B-,7
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,C+,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,C,4
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,C-,2
+S20,Undergraduate,ECE     130C,CHANDRASEKARA,D,2
+S20,Undergraduate,ECE     135,DAGLI N,A,2
+S20,Undergraduate,ECE     135,DAGLI N,A-,1
+S20,Undergraduate,ECE     135,DAGLI N,B+,3
+S20,Undergraduate,ECE     135,DAGLI N,B,2
+S20,Undergraduate,ECE     135,DAGLI N,B-,1
+S20,Undergraduate,ECE     135,DAGLI N,C,1
+S20,Undergraduate,ECE     135,DAGLI N,D,1
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,A+,2
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,A,3
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,A-,6
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,B+,16
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,B,12
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,B-,15
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,C+,9
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,C,4
+S20,Undergraduate,ECE     137B,THEOGARAJAN L,C-,2
+S20,Undergraduate,ECE     139,ROSE K,A+,9
+S20,Undergraduate,ECE     139,ROSE K,A,70
+S20,Undergraduate,ECE     139,ROSE K,A-,5
+S20,Undergraduate,ECE     139,ROSE K,B+,4
+S20,Undergraduate,ECE     139,ROSE K,B,9
+S20,Undergraduate,ECE     139,ROSE K,B-,17
+S20,Undergraduate,ECE     139,ROSE K,C+,11
+S20,Undergraduate,ECE     139,ROSE K,C,2
+S20,Undergraduate,ECE     142,MISHRA U,A+,16
+S20,Undergraduate,ECE     142,MISHRA U,A,12
+S20,Undergraduate,ECE     142,MISHRA U,A-,4
+S20,Undergraduate,ECE     142,MISHRA U,B+,3
+S20,Undergraduate,ECE     142,MISHRA U,B,2
+S20,Undergraduate,ECE     142,SALEM L G,A+,16
+S20,Undergraduate,ECE     142,SALEM L G,A,12
+S20,Undergraduate,ECE     142,SALEM L G,A-,4
+S20,Undergraduate,ECE     142,SALEM L G,B+,3
+S20,Undergraduate,ECE     142,SALEM L G,B,2
+S20,Undergraduate,ECE     145C,BUCKWALTER J,A+,1
+S20,Undergraduate,ECE     145C,BUCKWALTER J,A,4
+S20,Undergraduate,ECE     145C,BUCKWALTER J,A-,1
+S20,Undergraduate,ECE     148,LEE H,A,20
+S20,Undergraduate,ECE     148,LEE H,A-,1
+S20,Undergraduate,ECE     148,LEE H,B+,9
+S20,Undergraduate,ECE     148,LEE H,B,1
+S20,Undergraduate,ECE     150,ISUKAPALLI Y,A,16
+S20,Undergraduate,ECE     150,ISUKAPALLI Y,A-,16
+S20,Undergraduate,ECE     150,ISUKAPALLI Y,B+,4
+S20,Undergraduate,ECE     150,ISUKAPALLI Y,D,1
+S20,Undergraduate,ECE     152A,LI P,A+,4
+S20,Undergraduate,ECE     152A,LI P,A,18
+S20,Undergraduate,ECE     152A,LI P,A-,16
+S20,Undergraduate,ECE     152A,LI P,B+,18
+S20,Undergraduate,ECE     152A,LI P,B,36
+S20,Undergraduate,ECE     152A,LI P,B-,9
+S20,Undergraduate,ECE     152A,LI P,C+,21
+S20,Undergraduate,ECE     152A,LI P,C,9
+S20,Undergraduate,ECE     152A,LI P,D,1
+S20,Undergraduate,ECE     152A,LI P,F,2
+S20,Undergraduate,ECE     154B,STRUKOV D B,A+,1
+S20,Undergraduate,ECE     154B,STRUKOV D B,A,14
+S20,Undergraduate,ECE     154B,STRUKOV D B,B+,1
+S20,Undergraduate,ECE     154B,STRUKOV D B,B,1
+S20,Undergraduate,ECE     154B,STRUKOV D B,B-,2
+S20,Undergraduate,ECE     154B,STRUKOV D B,F,1
+S20,Undergraduate,ECE     160,VISELL Y,A+,9
+S20,Undergraduate,ECE     160,VISELL Y,A,11
+S20,Undergraduate,ECE     160,VISELL Y,A-,6
+S20,Undergraduate,ECE     160,VISELL Y,B,2
+S20,Undergraduate,ECE     160,VISELL Y,B-,1
+S20,Undergraduate,ECE     160,VISELL Y,F,1
+S20,Undergraduate,ECE     162C,BLUMENTHAL D,A,6
+S20,Undergraduate,ECE     188C,ABDOLEE R,A+,4
+S20,Undergraduate,ECE     188C,ABDOLEE R,A,38
+S20,Undergraduate,ECE     188C,ABDOLEE R,A-,3
+S20,Undergraduate,ECE     188C,ABDOLEE R,C,1
+S20,Undergraduate,ECE     188C,BEN-YAACOV I,A+,4
+S20,Undergraduate,ECE     188C,BEN-YAACOV I,A,38
+S20,Undergraduate,ECE     188C,BEN-YAACOV I,A-,3
+S20,Undergraduate,ECE     188C,BEN-YAACOV I,C,1
+S20,Undergraduate,ECE     189C,ISUKAPALLI Y,A+,10
+S20,Undergraduate,ECE     189C,ISUKAPALLI Y,A,13
+S20,Undergraduate,ECE     189C,ISUKAPALLI Y,A-,9
+S20,Undergraduate,ECE     189C,ISUKAPALLI Y,D,1
+S20,Graduate,ECE     211B,VAN DE WALLE,A+,3
+S20,Graduate,ECE     211B,VAN DE WALLE,A,3
+S20,Graduate,ECE     211B,VAN DE WALLE,A-,3
+S20,Graduate,ECE     218C,BUCKWALTER J,A+,3
+S20,Graduate,ECE     218C,BUCKWALTER J,A-,2
+S20,Graduate,ECE     224A,BREWER F,A+,1
+S20,Graduate,ECE     224A,BREWER F,A,4
+S20,Graduate,ECE     224A,BREWER F,A-,2
+S20,Graduate,ECE     240,THRAMPOULIDIS,A+,2
+S20,Graduate,ECE     240,THRAMPOULIDIS,A,8
+S20,Graduate,ECE     240,THRAMPOULIDIS,A-,1
+S20,Graduate,ECE     240,THRAMPOULIDIS,B+,1
+S20,Graduate,ECE     240,THRAMPOULIDIS,C,1
+S20,Graduate,ECE     251,ISUKAPALLI Y,A,12
+S20,Graduate,ECE     251,ISUKAPALLI Y,A-,3
+S20,Graduate,ECE     252B,PARHAMI B,A,2
+S20,Graduate,ECE     252B,PARHAMI B,A-,4
+S20,Graduate,ECE     252B,PARHAMI B,B,2
+S20,Graduate,ECE     261,SCHULLER J A,A+,1
+S20,Graduate,ECE     261,SCHULLER J A,A,6
+S20,Graduate,ECE     261,SCHULLER J A,A-,1
+S20,Graduate,ECE     269,BULLO F,A+,1
+S20,Graduate,ECE     269,BULLO F,A,3
+S20,Graduate,ECE     269,BULLO F,A-,1
+S20,Graduate,ECE     271C,MARDEN J R,A,9
+S20,Graduate,ECE     283,MADHOW U,A,37
+S20,Graduate,ECE     283,MADHOW U,A-,6
+S20,Graduate,ECE     283,MADHOW U,F,1
+S20,Graduate,ECE     284,PEDARSANI R,A,7
+S20,Graduate,ECE     284,PEDARSANI R,A-,4
+S20,Graduate,ECE     493,ISUKAPALLI Y,S,5
+S20,Graduate,ECE     502,SCHOW C L,S,32
+S20,Graduate,ECE     594,KLAMKIN J,A,7
+S20,Graduate,ECE     594,KLAMKIN J,A-,1
+S20,Graduate,ECE     594D,BYL K A,A,16
+S20,Graduate,ECE     594D,BYL K A,F,1
+S20,Graduate,ECE     594Q,SMITH S L,A+,3
+S20,Graduate,ECE     594Q,SMITH S L,A,7
+S20,Graduate,ECE     594Q,SMITH S L,A-,1
+S20,Graduate,ECE     594Q,SMITH S L,B+,1
+S20,Graduate,ECE     595E,MANJUNATH B S,S,8
+S20,Graduate,ECE     596,BANERJEE K,S,6
+S20,Graduate,ECE     596,BLUMENTHAL D,S,7
+S20,Graduate,ECE     596,BOWERS J E,S,11
+S20,Graduate,ECE     596,BUCKWALTER J,S,11
+S20,Graduate,ECE     596,KLAMKIN J,S,8
+S20,Graduate,ECE     596,LI P,S,5
+S20,Graduate,ECE     596,MANJUNATH B S,S,7
+S20,Graduate,ECE     596,MISHRA U,S,10
+S20,Graduate,ECE     596,RODWELL M J,S,7
+S20,Graduate,ECE     596,ROSE K,S,5
+S20,Graduate,ECE     596,SCHOW C L,S,8
+S20,Graduate,ECE     596,STRUKOV D B,S,5
+S20,Graduate,ECE     596,XIE Y,S,14

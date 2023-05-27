@@ -1,0 +1,381 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F19,Undergraduate,ARTHI   141E,MEADOW M A,A,18
+F19,Undergraduate,ARTHI   141E,MEADOW M A,A-,1
+F19,Undergraduate,ARTHI   141F,MEADOW M A,A,4
+F19,Undergraduate,ARTHI   141F,MEADOW M A,B+,1
+F19,Graduate,ARTHI   500,MEADOW M A,S,2
+F19,Graduate,ARTHI   597,MEADOW M A,S,1
+F19,Graduate,ARTHI   599,MEADOW M A,S,3
+F19,Undergraduate,CH ST   113,MEDINA A,A+,4
+F19,Undergraduate,CH ST   113,MEDINA A,A,5
+F19,Undergraduate,CH ST   113,MEDINA A,A-,8
+F19,Undergraduate,CH ST   113,MEDINA A,B+,8
+F19,Undergraduate,CH ST   113,MEDINA A,B,1
+F19,Undergraduate,CH ST   113,MEDINA A,B-,4
+F19,Undergraduate,CH ST   113,MEDINA A,C+,2
+F19,Undergraduate,CH ST   113,MEDINA A,C,2
+F19,Undergraduate,CH ST   113,MEDINA A,C-,2
+F19,Undergraduate,CHEM     99,MENARD G,A,1
+F19,Undergraduate,CHEM    113AL,METIU H I,A+,3
+F19,Undergraduate,CHEM    113AL,METIU H I,A,6
+F19,Undergraduate,CHEM    113AL,METIU H I,A-,5
+F19,Undergraduate,CHEM    113AL,METIU H I,B+,3
+F19,Undergraduate,CHEM    113AL,METIU H I,B,5
+F19,Undergraduate,CHEM    113AL,METIU H I,B-,3
+F19,Undergraduate,CHEM    113AL,METIU H I,C-,1
+F19,Undergraduate,CHEM    173A,MENARD G,A+,3
+F19,Undergraduate,CHEM    173A,MENARD G,A,3
+F19,Undergraduate,CHEM    173A,MENARD G,A-,7
+F19,Undergraduate,CHEM    173A,MENARD G,B+,6
+F19,Undergraduate,CHEM    173A,MENARD G,B,4
+F19,Undergraduate,CHEM    173A,MENARD G,B-,6
+F19,Undergraduate,CHEM    173A,MENARD G,C+,2
+F19,Undergraduate,CHEM    173A,MENARD G,C,1
+F19,Undergraduate,CHEM    173A,MENARD G,C-,2
+F19,Undergraduate,CHEM    173A,MENARD G,D+,1
+F19,Undergraduate,CHEM    173A,MENARD G,D,3
+F19,Undergraduate,CHEM    173A,MENARD G,D-,2
+F19,Undergraduate,CHEM    173A,MENARD G,F,1
+F19,Graduate,CHEM    268A,MENARD G,A-,1
+F19,Graduate,CHEM    595,MENARD G,S,6
+F19,Graduate,CHEM    596,MENARD G,A+,5
+F19,Graduate,CHEM    596,MENARD G,A,5
+F19,Graduate,CHEM    596,MENARD G,A-,3
+F19,Undergraduate,COMM     89,MEROLLA A J,A,16
+F19,Undergraduate,COMM     89,MEROLLA A J,A-,31
+F19,Undergraduate,COMM     89,MEROLLA A J,B+,51
+F19,Undergraduate,COMM     89,MEROLLA A J,B,47
+F19,Undergraduate,COMM     89,MEROLLA A J,B-,32
+F19,Undergraduate,COMM     89,MEROLLA A J,C+,22
+F19,Undergraduate,COMM     89,MEROLLA A J,C,24
+F19,Undergraduate,COMM     89,MEROLLA A J,C-,6
+F19,Undergraduate,COMM     89,MEROLLA A J,D+,6
+F19,Undergraduate,COMM     89,MEROLLA A J,D,5
+F19,Undergraduate,COMM     89,MEROLLA A J,D-,4
+F19,Undergraduate,COMM     89,MEROLLA A J,F,15
+F19,Undergraduate,COMM     99RA,MEROLLA A J,P,3
+F19,Undergraduate,COMM    199RA,MEROLLA A J,A,1
+F19,Undergraduate,COMM    199RA,METZGER M J,A,1
+F19,Graduate,COMM    597,MEROLLA A J,S,1
+F19,Graduate,COMM    599,METZGER M J,S,1
+F19,Undergraduate,DANCE    47D,MEUNIER M M,A,5
+F19,Undergraduate,DANCE    47D,MEUNIER M M,A-,6
+F19,Undergraduate,DANCE    47D,MEUNIER M M,B+,1
+F19,Undergraduate,DANCE    47D,MEUNIER M M,B,1
+F19,Undergraduate,DANCE    47D,MEUNIER M M,C,1
+F19,Undergraduate,DANCE   147A,MEUNIER M M,A,20
+F19,Undergraduate,DANCE   147A,MEUNIER M M,A-,5
+F19,Undergraduate,DANCE   147A,MEUNIER M M,B+,2
+F19,Undergraduate,DANCE   147A,MEUNIER M M,B,1
+F19,Undergraduate,DANCE   147D,MEUNIER M M,A,6
+F19,Undergraduate,DANCE   158,MEUNIER M M,A,1
+F19,Undergraduate,DANCE   194,MEUNIER M M,A,7
+F19,Undergraduate,DANCE   194,MEUNIER M M,A-,1
+F19,Graduate,ED      370,MEYER M N,S,4
+F19,Graduate,ED   LA 320F,MEYER M N,A+,3
+F19,Graduate,ED   LA 320F,MEYER M N,A,24
+F19,Graduate,ED   LA 320F,MEYER M N,A-,13
+F19,Graduate,ED   LA 320F,MEYER M N,B+,3
+F19,Undergraduate,EEMB      2LL,MESROP L Y,A+,2
+F19,Undergraduate,EEMB      2LL,MESROP L Y,A,3
+F19,Undergraduate,EEMB      2LL,MESROP L Y,A-,2
+F19,Undergraduate,EEMB      2LL,MESROP L Y,B+,4
+F19,Undergraduate,EEMB      2LL,MESROP L Y,C+,1
+F19,Undergraduate,EEMB      2LL,MESROP L Y,C,1
+F19,Undergraduate,EEMB    153,MELACK J M,A,11
+F19,Undergraduate,EEMB    153,MELACK J M,A-,4
+F19,Undergraduate,EEMB    153,MELACK J M,B,3
+F19,Undergraduate,EEMB    153,MELACK J M,C+,1
+F19,Undergraduate,EEMB    153,MELACK J M,F,1
+F19,Graduate,EEMB    253,MELACK J M,B,1
+F19,Graduate,EEMB    596,MELACK J M,A,1
+F19,Graduate,ESM     401B,MENG K C,A,4
+F19,Graduate,ESM     596,MENG K C,A,2
+F19,Undergraduate,FAMST   110,MELNICK R D,A,4
+F19,Undergraduate,FAMST   110,MELNICK R D,A-,4
+F19,Undergraduate,FAMST   110,MELNICK R D,B+,2
+F19,Undergraduate,FAMST   110,MELNICK R D,B,1
+F19,Graduate,FAMST   595DD,MELNICK R D,A,4
+F19,Graduate,FAMST   599,MELNICK R D,S,1
+F19,Undergraduate,FR        1,MENDES BRAGA,A,7
+F19,Undergraduate,FR        1,MENDES BRAGA,A-,2
+F19,Undergraduate,FR        1,MENDES BRAGA,B,2
+F19,Undergraduate,FR        1,MENDES BRAGA,B-,1
+F19,Undergraduate,FR        1,MENDES BRAGA,C,2
+F19,Undergraduate,FR        1,MENDES BRAGA,F,2
+F19,Graduate,GLOBL   597,MEHTA A S,S,1
+F19,Graduate,GLOBL   598,MEHTA A S,S,1
+F19,Graduate,HIST    597,MENDEZ S C,S,1
+F19,Graduate,HIST    599,MENDEZ S C,S,1
+F19,Graduate,HIST    599,MENDEZ S C,U,1
+F19,Undergraduate,ME       11,FIELDS K,P,71
+F19,Undergraduate,ME       11,FIELDS K,NP,2
+F19,Undergraduate,ME       12S,LINLEY S C,A+,23
+F19,Undergraduate,ME       12S,LINLEY S C,A,19
+F19,Undergraduate,ME       12S,LINLEY S C,A-,5
+F19,Undergraduate,ME       12S,LINLEY S C,B+,2
+F19,Undergraduate,ME       12S,LINLEY S C,B,3
+F19,Undergraduate,ME       12S,LINLEY S C,F,1
+F19,Undergraduate,ME       14,DALY S H,A+,1
+F19,Undergraduate,ME       14,DALY S H,A,8
+F19,Undergraduate,ME       14,DALY S H,A-,14
+F19,Undergraduate,ME       14,DALY S H,B+,9
+F19,Undergraduate,ME       14,DALY S H,B,12
+F19,Undergraduate,ME       14,DALY S H,B-,10
+F19,Undergraduate,ME       14,DALY S H,C+,10
+F19,Undergraduate,ME       14,DALY S H,C,10
+F19,Undergraduate,ME       14,DALY S H,C-,5
+F19,Undergraduate,ME       14,DALY S H,D+,4
+F19,Undergraduate,ME       14,DALY S H,D,1
+F19,Undergraduate,ME       14,DALY S H,D-,2
+F19,Undergraduate,ME       95,MOEHLIS J M,A,4
+F19,Undergraduate,ME      100,DRESSAIRE E M,P,13
+F19,Undergraduate,ME      102,MATTHYS E F,A+,2
+F19,Undergraduate,ME      102,MATTHYS E F,A,1
+F19,Undergraduate,ME      102,MATTHYS E F,A-,2
+F19,Undergraduate,ME      102,MATTHYS E F,B+,1
+F19,Undergraduate,ME      104,BAMIEH B A,A,39
+F19,Undergraduate,ME      104,BAMIEH B A,A-,4
+F19,Undergraduate,ME      104,BAMIEH B A,B+,4
+F19,Undergraduate,ME      104,BAMIEH B A,B,14
+F19,Undergraduate,ME      104,BAMIEH B A,B-,6
+F19,Undergraduate,ME      104,BAMIEH B A,C+,1
+F19,Undergraduate,ME      104,BAMIEH B A,C,2
+F19,Undergraduate,ME      104,BAMIEH B A,C-,1
+F19,Undergraduate,ME      125EY,YEUNG E H,A+,11
+F19,Undergraduate,ME      125EY,YEUNG E H,A,3
+F19,Undergraduate,ME      125EY,YEUNG E H,A-,2
+F19,Undergraduate,ME      125IB,BEYERLEIN I J,A+,2
+F19,Undergraduate,ME      125IB,BEYERLEIN I J,A,4
+F19,Undergraduate,ME      125IB,BEYERLEIN I J,A-,2
+F19,Undergraduate,ME      125IB,BEYERLEIN I J,C-,1
+F19,Undergraduate,ME      128,LAGUETTE S W,A,27
+F19,Undergraduate,ME      128,LAGUETTE S W,A-,1
+F19,Undergraduate,ME      140A,MEIBURG E H,A+,2
+F19,Undergraduate,ME      140A,MEIBURG E H,A,4
+F19,Undergraduate,ME      140A,MEIBURG E H,A-,4
+F19,Undergraduate,ME      140A,MEIBURG E H,B+,5
+F19,Undergraduate,ME      140A,MEIBURG E H,B,2
+F19,Undergraduate,ME      140A,MEIBURG E H,B-,1
+F19,Undergraduate,ME      140A,MEIBURG E H,C+,1
+F19,Undergraduate,ME      140A,MEIBURG E H,D,1
+F19,Undergraduate,ME      151A,MEINHART C,A+,1
+F19,Undergraduate,ME      151A,MEINHART C,A,13
+F19,Undergraduate,ME      151A,MEINHART C,A-,5
+F19,Undergraduate,ME      151A,MEINHART C,B+,2
+F19,Undergraduate,ME      151A,MEINHART C,B,17
+F19,Undergraduate,ME      151A,MEINHART C,B-,3
+F19,Undergraduate,ME      151A,MEINHART C,C+,3
+F19,Undergraduate,ME      151A,MEINHART C,C,14
+F19,Undergraduate,ME      151A,MEINHART C,C-,3
+F19,Undergraduate,ME      151A,MEINHART C,D,5
+F19,Undergraduate,ME      152A,DRESSAIRE E M,A+,9
+F19,Undergraduate,ME      152A,DRESSAIRE E M,A,22
+F19,Undergraduate,ME      152A,DRESSAIRE E M,A-,10
+F19,Undergraduate,ME      152A,DRESSAIRE E M,B+,7
+F19,Undergraduate,ME      152A,DRESSAIRE E M,B,6
+F19,Undergraduate,ME      152A,DRESSAIRE E M,B-,4
+F19,Undergraduate,ME      152A,DRESSAIRE E M,C+,2
+F19,Undergraduate,ME      152A,DRESSAIRE E M,C,3
+F19,Undergraduate,ME      152A,DRESSAIRE E M,C-,3
+F19,Undergraduate,ME      152A,DRESSAIRE E M,D+,2
+F19,Undergraduate,ME      152A,DRESSAIRE E M,D,3
+F19,Undergraduate,ME      154,MCMEEKING R M,A+,4
+F19,Undergraduate,ME      154,MCMEEKING R M,A,14
+F19,Undergraduate,ME      154,MCMEEKING R M,A-,12
+F19,Undergraduate,ME      154,MCMEEKING R M,B+,2
+F19,Undergraduate,ME      154,MCMEEKING R M,B,1
+F19,Undergraduate,ME      154,MCMEEKING R M,B-,2
+F19,Undergraduate,ME      154,MCMEEKING R M,C,2
+F19,Undergraduate,ME      156A,SUSKO T G,A+,5
+F19,Undergraduate,ME      156A,SUSKO T G,A,10
+F19,Undergraduate,ME      156A,SUSKO T G,A-,5
+F19,Undergraduate,ME      156A,SUSKO T G,B+,17
+F19,Undergraduate,ME      156A,SUSKO T G,B,11
+F19,Undergraduate,ME      156A,SUSKO T G,B-,15
+F19,Undergraduate,ME      156A,SUSKO T G,C+,8
+F19,Undergraduate,ME      156A,SUSKO T G,C,12
+F19,Undergraduate,ME      156A,SUSKO T G,C-,6
+F19,Undergraduate,ME      156A,SUSKO T G,D+,3
+F19,Undergraduate,ME      156A,SUSKO T G,D,3
+F19,Undergraduate,ME      156A,SUSKO T G,D-,1
+F19,Undergraduate,ME      157,MEINHART C,A,22
+F19,Undergraduate,ME      157,MEINHART C,A-,2
+F19,Undergraduate,ME      157,MEINHART C,B,3
+F19,Undergraduate,ME      167,YANG H T,A+,3
+F19,Undergraduate,ME      167,YANG H T,A,4
+F19,Undergraduate,ME      167,YANG H T,A-,12
+F19,Undergraduate,ME      167,YANG H T,B+,6
+F19,Undergraduate,ME      167,YANG H T,B,9
+F19,Undergraduate,ME      167,YANG H T,B-,3
+F19,Undergraduate,ME      167,YANG H T,C+,9
+F19,Undergraduate,ME      167,YANG H T,C,5
+F19,Undergraduate,ME      167,YANG H T,C-,5
+F19,Undergraduate,ME      167,YANG H T,D,1
+F19,Undergraduate,ME      179D,BYL K A,A+,4
+F19,Undergraduate,ME      179D,BYL K A,A,3
+F19,Undergraduate,ME      179D,BYL K A,A-,4
+F19,Undergraduate,ME      179D,BYL K A,B,2
+F19,Undergraduate,ME      179L,DAHLEN G A,A+,6
+F19,Undergraduate,ME      179L,DAHLEN G A,A,11
+F19,Undergraduate,ME      179L,DAHLEN G A,A-,5
+F19,Undergraduate,ME      179L,DAHLEN G A,B+,4
+F19,Undergraduate,ME      179L,DAHLEN G A,B,1
+F19,Undergraduate,ME      189A,SUSKO T G,A,25
+F19,Undergraduate,ME      189A,SUSKO T G,A-,44
+F19,Undergraduate,ME      189A,SUSKO T G,B+,15
+F19,Undergraduate,ME      189A,SUSKO T G,B,6
+F19,Undergraduate,ME      189A,SUSKO T G,B-,4
+F19,Undergraduate,ME      197,FIELDS K,B,1
+F19,Undergraduate,ME      197,LUZZATTO-FEGI,A+,2
+F19,Undergraduate,ME      197,SUSKO T G,A,2
+F19,Undergraduate,ME      199,BULLO F,A,1
+F19,Undergraduate,ME      199,BYL K A,A,1
+F19,Undergraduate,ME      199,DRESSAIRE E M,A,3
+F19,Undergraduate,ME      199,SAURET A O,A+,1
+F19,Undergraduate,ME      199,VISELL Y,A,1
+F19,Graduate,ME      200,DRESSAIRE E M,S,29
+F19,Graduate,ME      200,DRESSAIRE E M,U,1
+F19,Graduate,ME      201,MEZIC I,A,5
+F19,Graduate,ME      207,MOEHLIS J M,S,12
+F19,Graduate,ME      210A,CHANDRASEKARA,A+,3
+F19,Graduate,ME      210A,CHANDRASEKARA,A,7
+F19,Graduate,ME      215A,MOEHLIS J M,A+,2
+F19,Graduate,ME      215A,MOEHLIS J M,A,4
+F19,Graduate,ME      215A,MOEHLIS J M,A-,1
+F19,Graduate,ME      215A,MOEHLIS J M,B+,2
+F19,Graduate,ME      219,BEGLEY M R,A+,1
+F19,Graduate,ME      219,BEGLEY M R,A,1
+F19,Graduate,ME      219,BEGLEY M R,B,1
+F19,Graduate,ME      220A,LUZZATTO-FEGI,A+,5
+F19,Graduate,ME      220A,LUZZATTO-FEGI,A,2
+F19,Graduate,ME      220A,LUZZATTO-FEGI,A-,2
+F19,Graduate,ME      225BL,LIAO B,A,7
+F19,Graduate,ME      225EH,HAWKES E W,A,9
+F19,Graduate,ME      225EY,YEUNG E H,A+,6
+F19,Graduate,ME      225F,SAURET A O,A+,4
+F19,Graduate,ME      225F,SAURET A O,A,2
+F19,Graduate,ME      225FE,MATTHYS E F,A,1
+F19,Graduate,ME      225FE,MATTHYS E F,A-,1
+F19,Graduate,ME      225FE,MATTHYS E F,B+,1
+F19,Graduate,ME      243A,BULLO F,A+,1
+F19,Graduate,ME      243A,BULLO F,A,7
+F19,Graduate,ME      243A,BULLO F,A-,4
+F19,Graduate,ME      243A,BULLO F,B+,1
+F19,Graduate,ME      257,MEINHART C,A,2
+F19,Graduate,ME      265,ZOK F,B+,1
+F19,Graduate,ME      291A,VALENTINE M T,A+,3
+F19,Graduate,ME      291A,VALENTINE M T,A-,1
+F19,Graduate,ME      291A,VALENTINE M T,B+,1
+F19,Graduate,ME      295,TEEL A R,S,4
+F19,Graduate,ME      501,BAMIEH B A,S,2
+F19,Graduate,ME      501,DALY S H,S,2
+F19,Graduate,ME      501,DRESSAIRE E M,S,2
+F19,Graduate,ME      501,LINLEY S C,S,3
+F19,Graduate,ME      501,MCMEEKING R M,S,1
+F19,Graduate,ME      501,MEIBURG E H,S,2
+F19,Graduate,ME      501,MEINHART C,S,2
+F19,Graduate,ME      501,MOEHLIS J M,S,3
+F19,Graduate,ME      501,SUSKO T G,S,2
+F19,Graduate,ME      503,BAMIEH B A,S,1
+F19,Graduate,ME      503,DALY S H,S,1
+F19,Graduate,ME      503,DRESSAIRE E M,S,1
+F19,Graduate,ME      503,HAWKES E W,S,4
+F19,Graduate,ME      503,LIAO B,S,1
+F19,Graduate,ME      503,PENNATHUR S,S,1
+F19,Graduate,ME      503,VALENTINE M T,S,1
+F19,Graduate,ME      596,BAMIEH B A,S,2
+F19,Graduate,ME      596,BEGLEY M R,S,1
+F19,Graduate,ME      596,BEYERLEIN I J,S,3
+F19,Graduate,ME      596,BULLO F,S,2
+F19,Graduate,ME      596,FOSTER K L,S,2
+F19,Graduate,ME      596,GIBOU F G,S,5
+F19,Graduate,ME      596,HAWKES E W,S,1
+F19,Graduate,ME      596,LIAO B,S,4
+F19,Graduate,ME      596,LUZZATTO-FEGI,S,4
+F19,Graduate,ME      596,MCMEEKING R M,S,2
+F19,Graduate,ME      596,MEIBURG E H,S,1
+F19,Graduate,ME      596,MEINHART C,S,1
+F19,Graduate,ME      596,MEZIC I,S,4
+F19,Graduate,ME      596,PENNATHUR S,S,1
+F19,Graduate,ME      596,PETZOLD L,S,2
+F19,Graduate,ME      596,PLAXCO K W,S,1
+F19,Graduate,ME      596,PRUITT B,S,2
+F19,Graduate,ME      596,VALENTINE M T,S,1
+F19,Graduate,ME      596,YANG H T,S,1
+F19,Graduate,ME      596,YEUNG E H,S,2
+F19,Graduate,ME      597,LUZZATTO-FEGI,S,1
+F19,Graduate,ME      597,VALENTINE M T,S,1
+F19,Graduate,ME      597,YANG H T,S,1
+F19,Graduate,ME      598,PRUITT B,S,1
+F19,Graduate,ME      598,YANG H T,S,2
+F19,Graduate,ME      598,YEUNG E H,S,1
+F19,Graduate,ME      599,CAMPAS-RIGAU,S,3
+F19,Graduate,ME      599,GIBOU F G,S,1
+F19,Graduate,ME      599,MOEHLIS J M,S,1
+F19,Undergraduate,ME ST   199,ENGLISH E D,A,1
+F19,Undergraduate,MES      45,MASSIE E K,A+,2
+F19,Undergraduate,MES      45,MASSIE E K,A,6
+F19,Undergraduate,MES      45,MASSIE E K,A-,7
+F19,Undergraduate,MES      45,MASSIE E K,B+,4
+F19,Undergraduate,MES      45,MASSIE E K,B,15
+F19,Undergraduate,MES      45,MASSIE E K,B-,5
+F19,Undergraduate,MES      45,MASSIE E K,C+,4
+F19,Undergraduate,MES      45,MASSIE E K,C,10
+F19,Undergraduate,MES      45,MASSIE E K,C-,3
+F19,Undergraduate,MES      45,MASSIE E K,D+,1
+F19,Undergraduate,MES      45,MASSIE E K,D-,1
+F19,Undergraduate,MES      45,MASSIE E K,F,3
+F19,Undergraduate,PHYS      3L,MERK M W,A+,11
+F19,Undergraduate,PHYS      3L,MERK M W,A,16
+F19,Undergraduate,PHYS      3L,MERK M W,A-,17
+F19,Undergraduate,PHYS      3L,MERK M W,B+,1
+F19,Undergraduate,PHYS      3L,MERK M W,F,1
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A+,4
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A,2
+F19,Undergraduate,PORT      8A,MENDES BRAGA,A-,1
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A+,3
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A,3
+F19,Undergraduate,PORT      8B,MENDES BRAGA,A-,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A+,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A,1
+F19,Undergraduate,PORT    102A,MENDES BRAGA,A-,1
+F19,Graduate,PSTAT   262ST,MEIRING W,A+,1
+F19,Graduate,PSTAT   262ST,MEIRING W,A,18
+F19,Graduate,PSTAT   262ST,MEIRING W,A-,4
+F19,Graduate,PSTAT   596,MEIRING W,S,3
+F19,Undergraduate,PSY     145,MERMELSTEIN S,A+,9
+F19,Undergraduate,PSY     145,MERMELSTEIN S,A,33
+F19,Undergraduate,PSY     145,MERMELSTEIN S,A-,25
+F19,Undergraduate,PSY     145,MERMELSTEIN S,B+,16
+F19,Undergraduate,PSY     145,MERMELSTEIN S,B,13
+F19,Undergraduate,PSY     145,MERMELSTEIN S,B-,5
+F19,Undergraduate,PSY     145,MERMELSTEIN S,C+,1
+F19,Undergraduate,PSY     145,MERMELSTEIN S,C,4
+F19,Undergraduate,SPAN      2,MEYR J E,A,9
+F19,Undergraduate,SPAN      2,MEYR J E,A-,6
+F19,Undergraduate,SPAN      2,MEYR J E,B,10
+F19,Undergraduate,SPAN      2,MEYR J E,B-,5
+F19,Undergraduate,SPAN      2,MEYR J E,C,5
+F19,Undergraduate,SPAN      2,MEYR J E,C-,3
+F19,Undergraduate,SPAN      2,MEYR J E,D+,1
+F19,Undergraduate,SPAN      2,MEYR J E,D,1
+F19,Undergraduate,SPAN      2,MEYR J E,F,3
+F19,Undergraduate,SPAN      6,MEYR J E,A,12
+F19,Undergraduate,SPAN      6,MEYR J E,A-,6
+F19,Undergraduate,SPAN      6,MEYR J E,B+,3
+F19,Undergraduate,SPAN      6,MEYR J E,B,1
+F19,Undergraduate,SPAN      6,MEYR J E,B-,1
+F19,Undergraduate,SPAN      6,MEYR J E,C+,1
+F19,Undergraduate,WRIT    107J,MENA H P,A,4
+F19,Undergraduate,WRIT    107J,MENA H P,A-,6
+F19,Undergraduate,WRIT    107J,MENA H P,B+,3
+F19,Undergraduate,WRIT    107J,MENA H P,B,1
+F19,Undergraduate,WRIT    107J,MENA H P,B-,3
+F19,Undergraduate,WRIT    107J,MENA H P,C+,2
+F19,Undergraduate,WRIT    107J,MENA H P,D+,1
+F19,Undergraduate,WRIT    126,MENA H P,A+,1
+F19,Undergraduate,WRIT    126,MENA H P,A,3
+F19,Undergraduate,WRIT    126,MENA H P,A-,8
+F19,Undergraduate,WRIT    126,MENA H P,B+,1
+F19,Undergraduate,WRIT    126,MENA H P,B,2

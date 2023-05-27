@@ -1,0 +1,229 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S18,Undergraduate,ENGL     10,GRIFFIN A R,A,76
+S18,Undergraduate,ENGL     10,GRIFFIN A R,A-,81
+S18,Undergraduate,ENGL     10,GRIFFIN A R,B+,53
+S18,Undergraduate,ENGL     10,GRIFFIN A R,B,38
+S18,Undergraduate,ENGL     10,GRIFFIN A R,B-,10
+S18,Undergraduate,ENGL     10,GRIFFIN A R,C+,7
+S18,Undergraduate,ENGL     10,GRIFFIN A R,C,8
+S18,Undergraduate,ENGL     10,GRIFFIN A R,C-,2
+S18,Undergraduate,ENGL     10,GRIFFIN A R,D,1
+S18,Undergraduate,ENGL     10,GRIFFIN A R,F,5
+S18,Undergraduate,ENGL     10S,GRIFFIN A R,A+,3
+S18,Undergraduate,ENGL     10S,GRIFFIN A R,A,15
+S18,Undergraduate,ENGL     10S,GRIFFIN A R,C-,1
+S18,Undergraduate,ENGL     50,BLAKE F D,A+,1
+S18,Undergraduate,ENGL     50,BLAKE F D,A,30
+S18,Undergraduate,ENGL     50,BLAKE F D,A-,58
+S18,Undergraduate,ENGL     50,BLAKE F D,B+,35
+S18,Undergraduate,ENGL     50,BLAKE F D,B,29
+S18,Undergraduate,ENGL     50,BLAKE F D,B-,24
+S18,Undergraduate,ENGL     50,BLAKE F D,C+,10
+S18,Undergraduate,ENGL     50,BLAKE F D,C,6
+S18,Undergraduate,ENGL     50,BLAKE F D,C-,2
+S18,Undergraduate,ENGL     50,BLAKE F D,F,4
+S18,Undergraduate,ENGL     50S,BLAKE F D,A+,3
+S18,Undergraduate,ENGL     50S,BLAKE F D,A,17
+S18,Undergraduate,ENGL     65FM,WICKE J A,A+,14
+S18,Undergraduate,ENGL     65FM,WICKE J A,A,75
+S18,Undergraduate,ENGL     65FM,WICKE J A,A-,25
+S18,Undergraduate,ENGL     65FM,WICKE J A,B+,20
+S18,Undergraduate,ENGL     65FM,WICKE J A,B,13
+S18,Undergraduate,ENGL     65FM,WICKE J A,B-,10
+S18,Undergraduate,ENGL     65FM,WICKE J A,C+,3
+S18,Undergraduate,ENGL     65FM,WICKE J A,C,3
+S18,Undergraduate,ENGL     65FM,WICKE J A,C-,2
+S18,Undergraduate,ENGL     65FM,WICKE J A,D+,1
+S18,Undergraduate,ENGL     65FM,WICKE J A,D,3
+S18,Undergraduate,ENGL     65FM,WICKE J A,D-,1
+S18,Undergraduate,ENGL     65FM,WICKE J A,F,8
+S18,Undergraduate,ENGL    101,MEYERS T R,A+,5
+S18,Undergraduate,ENGL    101,MEYERS T R,A,15
+S18,Undergraduate,ENGL    101,MEYERS T R,A-,1
+S18,Undergraduate,ENGL    101,MEYERS T R,B+,2
+S18,Undergraduate,ENGL    101,MEYERS T R,B,7
+S18,Undergraduate,ENGL    101,MEYERS T R,B-,2
+S18,Undergraduate,ENGL    101,MEYERS T R,C+,1
+S18,Undergraduate,ENGL    101,MEYERS T R,C,1
+S18,Undergraduate,ENGL    101,MEYERS T R,C-,4
+S18,Undergraduate,ENGL    101,MEYERS T R,F,1
+S18,Undergraduate,ENGL    103B,GILMORE T B,A,6
+S18,Undergraduate,ENGL    103B,GILMORE T B,A-,21
+S18,Undergraduate,ENGL    103B,GILMORE T B,B+,27
+S18,Undergraduate,ENGL    103B,GILMORE T B,B,14
+S18,Undergraduate,ENGL    103B,GILMORE T B,B-,3
+S18,Undergraduate,ENGL    103B,GILMORE T B,C+,1
+S18,Undergraduate,ENGL    103B,GILMORE T B,F,1
+S18,Undergraduate,ENGL    104A,HUANG YU,A+,23
+S18,Undergraduate,ENGL    104A,HUANG YU,A,58
+S18,Undergraduate,ENGL    104A,HUANG YU,A-,34
+S18,Undergraduate,ENGL    104A,HUANG YU,B+,29
+S18,Undergraduate,ENGL    104A,HUANG YU,B,23
+S18,Undergraduate,ENGL    104A,HUANG YU,B-,10
+S18,Undergraduate,ENGL    104A,HUANG YU,C+,4
+S18,Undergraduate,ENGL    104A,HUANG YU,C,1
+S18,Undergraduate,ENGL    104A,HUANG YU,C-,3
+S18,Undergraduate,ENGL    104A,HUANG YU,D,1
+S18,Undergraduate,ENGL    104A,HUANG YU,F,6
+S18,Undergraduate,ENGL    104AS,HUANG YU,A,10
+S18,Undergraduate,ENGL    104AS,HUANG YU,A-,1
+S18,Undergraduate,ENGL    109,MORAGA C L,A+,3
+S18,Undergraduate,ENGL    109,MORAGA C L,A,7
+S18,Undergraduate,ENGL    109,MORAGA C L,A-,8
+S18,Undergraduate,ENGL    109,MORAGA C L,B+,2
+S18,Undergraduate,ENGL    109,MORAGA C L,B,1
+S18,Undergraduate,ENGL    109,MORAGA C L,C+,1
+S18,Undergraduate,ENGL    109,MORAGA C L,F,1
+S18,Undergraduate,ENGL    114EM,COOK E H,A,10
+S18,Undergraduate,ENGL    114EM,COOK E H,A-,9
+S18,Undergraduate,ENGL    114EM,COOK E H,B+,6
+S18,Undergraduate,ENGL    114EM,COOK E H,B,5
+S18,Undergraduate,ENGL    114EM,COOK E H,B-,4
+S18,Undergraduate,ENGL    114TN,ANDREA B D,A+,1
+S18,Undergraduate,ENGL    114TN,ANDREA B D,A,11
+S18,Undergraduate,ENGL    114TN,ANDREA B D,A-,3
+S18,Undergraduate,ENGL    114TN,ANDREA B D,B+,1
+S18,Undergraduate,ENGL    114TN,ANDREA B D,B-,1
+S18,Undergraduate,ENGL    114TN,ANDREA B D,C+,1
+S18,Undergraduate,ENGL    114TN,ANDREA B D,D,1
+S18,Undergraduate,ENGL    114TN,ANDREA B D,F,2
+S18,Undergraduate,ENGL    122EE,SALTON-COX G,A+,2
+S18,Undergraduate,ENGL    122EE,SALTON-COX G,A,13
+S18,Undergraduate,ENGL    122EE,SALTON-COX G,A-,5
+S18,Undergraduate,ENGL    122EE,SALTON-COX G,B+,4
+S18,Undergraduate,ENGL    122EE,SALTON-COX G,B-,1
+S18,Undergraduate,ENGL    122NE,GILMORE T B,A,11
+S18,Undergraduate,ENGL    122NE,GILMORE T B,A-,4
+S18,Undergraduate,ENGL    122NE,GILMORE T B,B+,3
+S18,Undergraduate,ENGL    122NE,GILMORE T B,B,2
+S18,Undergraduate,ENGL    128AF,SAMOLSKY R E,A+,1
+S18,Undergraduate,ENGL    128AF,SAMOLSKY R E,A,6
+S18,Undergraduate,ENGL    128AF,SAMOLSKY R E,A-,9
+S18,Undergraduate,ENGL    128AF,SAMOLSKY R E,B+,4
+S18,Undergraduate,ENGL    128AF,SAMOLSKY R E,F,1
+S18,Undergraduate,ENGL    128FT,ZINN E R,A,7
+S18,Undergraduate,ENGL    128FT,ZINN E R,A-,18
+S18,Undergraduate,ENGL    128FT,ZINN E R,B+,6
+S18,Undergraduate,ENGL    128FT,ZINN E R,B,3
+S18,Undergraduate,ENGL    128FT,ZINN E R,B-,2
+S18,Undergraduate,ENGL    128FT,ZINN E R,C+,1
+S18,Undergraduate,ENGL    128FT,ZINN E R,C-,1
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,A+,4
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,A,9
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,A-,4
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,B+,1
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,B,4
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,B-,4
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,C,4
+S18,Undergraduate,ENGL    134CI,OLGUIN B V,F,4
+S18,Undergraduate,ENGL    134IA,RANA S,A,6
+S18,Undergraduate,ENGL    134IA,RANA S,A-,12
+S18,Undergraduate,ENGL    134IA,RANA S,B+,9
+S18,Undergraduate,ENGL    134IA,RANA S,B,3
+S18,Undergraduate,ENGL    134IA,RANA S,B-,5
+S18,Undergraduate,ENGL    134IA,RANA S,C+,1
+S18,Undergraduate,ENGL    134IA,RANA S,F,1
+S18,Undergraduate,ENGL    140,JUE M C,A+,3
+S18,Undergraduate,ENGL    140,JUE M C,A,16
+S18,Undergraduate,ENGL    140,JUE M C,A-,9
+S18,Undergraduate,ENGL    140,JUE M C,B+,6
+S18,Undergraduate,ENGL    140,JUE M C,C-,1
+S18,Undergraduate,ENGL    140,JUE M C,F,2
+S18,Undergraduate,ENGL    147OM,JUE M C,A+,1
+S18,Undergraduate,ENGL    147OM,JUE M C,A,15
+S18,Undergraduate,ENGL    147OM,JUE M C,A-,1
+S18,Undergraduate,ENGL    147OM,JUE M C,B+,3
+S18,Undergraduate,ENGL    147OM,JUE M C,B-,2
+S18,Undergraduate,ENGL    147OM,JUE M C,C,1
+S18,Undergraduate,ENGL    147OM,JUE M C,D,1
+S18,Undergraduate,ENGL    165AS,SAMOLSKY R E,A,6
+S18,Undergraduate,ENGL    165AS,SAMOLSKY R E,A-,6
+S18,Undergraduate,ENGL    165AS,SAMOLSKY R E,F,2
+S18,Undergraduate,ENGL    165FS,WARNER W B,A+,1
+S18,Undergraduate,ENGL    165FS,WARNER W B,A,6
+S18,Undergraduate,ENGL    165FS,WARNER W B,A-,8
+S18,Undergraduate,ENGL    165FS,WARNER W B,B+,9
+S18,Undergraduate,ENGL    165FS,WARNER W B,B,6
+S18,Undergraduate,ENGL    165FS,WARNER W B,B-,2
+S18,Undergraduate,ENGL    165FS,WARNER W B,C+,2
+S18,Undergraduate,ENGL    165FS,WARNER W B,C-,2
+S18,Undergraduate,ENGL    165FS,WARNER W B,D,1
+S18,Undergraduate,ENGL    165FS,WARNER W B,F,1
+S18,Undergraduate,ENGL    165HR,GUTIERREZ-JON,A,11
+S18,Undergraduate,ENGL    165HR,GUTIERREZ-JON,A-,12
+S18,Undergraduate,ENGL    165HR,GUTIERREZ-JON,B+,11
+S18,Undergraduate,ENGL    165HR,GUTIERREZ-JON,B,2
+S18,Undergraduate,ENGL    165HR,GUTIERREZ-JON,F,1
+S18,Undergraduate,ENGL    165PL,BLAKE F D,A+,5
+S18,Undergraduate,ENGL    165PL,BLAKE F D,A,17
+S18,Undergraduate,ENGL    165PL,BLAKE F D,A-,5
+S18,Undergraduate,ENGL    165PL,BLAKE F D,B+,8
+S18,Undergraduate,ENGL    165PL,BLAKE F D,B,3
+S18,Undergraduate,ENGL    165PL,BLAKE F D,C+,1
+S18,Undergraduate,ENGL    165PL,BLAKE F D,F,3
+S18,Undergraduate,ENGL    169,COOK E H,A,4
+S18,Undergraduate,ENGL    169,COOK E H,A-,3
+S18,Undergraduate,ENGL    169,COOK E H,B+,3
+S18,Undergraduate,ENGL    169,COOK E H,B,3
+S18,Undergraduate,ENGL    169,COOK E H,B-,1
+S18,Undergraduate,ENGL    169,COOK E H,C+,1
+S18,Undergraduate,ENGL    169,COOK E H,F,1
+S18,Undergraduate,ENGL    179,DONELAN J H,A+,2
+S18,Undergraduate,ENGL    179,DONELAN J H,A,10
+S18,Undergraduate,ENGL    179,DONELAN J H,A-,4
+S18,Undergraduate,ENGL    179,DONELAN J H,B+,12
+S18,Undergraduate,ENGL    179,DONELAN J H,B,6
+S18,Undergraduate,ENGL    179,DONELAN J H,B-,1
+S18,Undergraduate,ENGL    192,DONNELLY B,A+,5
+S18,Undergraduate,ENGL    192,DONNELLY B,A,42
+S18,Undergraduate,ENGL    192,DONNELLY B,A-,64
+S18,Undergraduate,ENGL    192,DONNELLY B,B+,38
+S18,Undergraduate,ENGL    192,DONNELLY B,B,31
+S18,Undergraduate,ENGL    192,DONNELLY B,B-,11
+S18,Undergraduate,ENGL    192,DONNELLY B,C+,5
+S18,Undergraduate,ENGL    192,DONNELLY B,C,5
+S18,Undergraduate,ENGL    192,DONNELLY B,C-,1
+S18,Undergraduate,ENGL    192,DONNELLY B,F,2
+S18,Undergraduate,ENGL    195I,YOUNG K,A+,2
+S18,Undergraduate,ENGL    195I,YOUNG K,A,3
+S18,Undergraduate,ENGL    195I,YOUNG K,B+,1
+S18,Undergraduate,ENGL    197,GRIFFIN A R,A,6
+S18,Undergraduate,ENGL    197,GRIFFIN A R,A-,4
+S18,Undergraduate,ENGL    197,GRIFFIN A R,B,1
+S18,Undergraduate,ENGL    197,GUTIERREZ-JON,A+,1
+S18,Undergraduate,ENGL    197,GUTIERREZ-JON,A,9
+S18,Undergraduate,ENGL    197,GUTIERREZ-JON,A-,8
+S18,Undergraduate,ENGL    197,GUTIERREZ-JON,B+,2
+S18,Undergraduate,ENGL    197,OLGUIN B V,A+,3
+S18,Undergraduate,ENGL    197,OLGUIN B V,A,1
+S18,Undergraduate,ENGL    197,OLGUIN B V,A-,2
+S18,Undergraduate,ENGL    197,OLGUIN B V,B,2
+S18,Undergraduate,ENGL    197,OLGUIN B V,F,3
+S18,Undergraduate,ENGL    197,WARNER W B,A+,2
+S18,Undergraduate,ENGL    197,WARNER W B,A,3
+S18,Undergraduate,ENGL    197,WARNER W B,B+,3
+S18,Undergraduate,ENGL    197,WARNER W B,B,4
+S18,Undergraduate,ENGL    197,WARNER W B,C+,1
+S18,Undergraduate,ENGL    198H,SHEWRY T J,A,20
+S18,Undergraduate,ENGL    199,DONNELLY B,A+,4
+S18,Undergraduate,ENGL    199,DONNELLY B,B+,1
+S18,Undergraduate,ENGL    199,WAID C J,A+,3
+S18,Undergraduate,ENGL    199,WAID C J,A,6
+S18,Undergraduate,ENGL    199RA,FUMERTON M P,A+,5
+S18,Undergraduate,ENGL    199RA,MORAGA C L,A+,2
+S18,Undergraduate,ENGL    199RA,MORAGA C L,A,1
+S18,Undergraduate,ENGL    199RA,MORAGA C L,A-,3
+S18,Graduate,ENGL    235,HUANG YU,A,7
+S18,Graduate,ENGL    236,CARLSON J A,A,8
+S18,Graduate,ENGL    236,CARLSON J A,A-,1
+S18,Graduate,ENGL    236,CARLSON J A,B+,1
+S18,Graduate,ENGL    236,CARLSON J A,S,1
+S18,Graduate,ENGL    236,FRADENBURG L,A,8
+S18,Graduate,ENGL    236,FRADENBURG L,A-,1
+S18,Graduate,ENGL    236,FRADENBURG L,B+,1
+S18,Graduate,ENGL    236,FRADENBURG L,S,1
+S18,Graduate,ENGL    236,GHOSH B,A+,1
+S18,Graduate,ENGL    236,GHOSH B,A,7
+S18,Graduate,ENGL    236,SALTON-COX G,A+,6
+S18,Graduate,ENGL    265TN,ANDREA B D,A,6
+S18,Graduate,ENGL    591,DUFFY A E,S,7

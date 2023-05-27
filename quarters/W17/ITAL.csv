@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W17,Undergraduate,ITAL      1,ARNOLD L B,A+,1
+W17,Undergraduate,ITAL      1,ARNOLD L B,A,15
+W17,Undergraduate,ITAL      1,ARNOLD L B,A-,1
+W17,Undergraduate,ITAL      1,ARNOLD L B,B+,3
+W17,Undergraduate,ITAL      1,ARNOLD L B,B,2
+W17,Undergraduate,ITAL      1,BORROMEO C,A,22
+W17,Undergraduate,ITAL      1,BORROMEO C,A-,13
+W17,Undergraduate,ITAL      1,BORROMEO C,B+,9
+W17,Undergraduate,ITAL      1,BORROMEO C,B,2
+W17,Undergraduate,ITAL      1,BORROMEO C,C,1
+W17,Undergraduate,ITAL      1,BORROMEO C,D,2
+W17,Undergraduate,ITAL      1,FIORINA C P,A,19
+W17,Undergraduate,ITAL      1,FIORINA C P,A-,6
+W17,Undergraduate,ITAL      1,FIORINA C P,B+,4
+W17,Undergraduate,ITAL      1,FIORINA C P,B,5
+W17,Undergraduate,ITAL      1,FIORINA C P,B-,2
+W17,Undergraduate,ITAL      1,FIORINA C P,C,1
+W17,Undergraduate,ITAL      1,FIORINA C P,F,2
+W17,Undergraduate,ITAL      2,CRICKETTE M E,A+,2
+W17,Undergraduate,ITAL      2,CRICKETTE M E,A,14
+W17,Undergraduate,ITAL      2,CRICKETTE M E,A-,1
+W17,Undergraduate,ITAL      2,CRICKETTE M E,B+,3
+W17,Undergraduate,ITAL      2,CRICKETTE M E,B,1
+W17,Undergraduate,ITAL      2,CRICKETTE M E,B-,1
+W17,Undergraduate,ITAL      2,CRICKETTE M E,C,1
+W17,Undergraduate,ITAL      2,CRICKETTE M E,D+,1
+W17,Undergraduate,ITAL      2,DE SIMONE T,A+,2
+W17,Undergraduate,ITAL      2,DE SIMONE T,A,17
+W17,Undergraduate,ITAL      2,DE SIMONE T,A-,13
+W17,Undergraduate,ITAL      2,DE SIMONE T,B+,3
+W17,Undergraduate,ITAL      2,DE SIMONE T,B,6
+W17,Undergraduate,ITAL      2,DE SIMONE T,B-,2
+W17,Undergraduate,ITAL      2,DE SIMONE T,C+,1
+W17,Undergraduate,ITAL      2,DE SIMONE T,C,2
+W17,Undergraduate,ITAL      2,PADULA V,A+,1
+W17,Undergraduate,ITAL      2,PADULA V,A,9
+W17,Undergraduate,ITAL      2,PADULA V,A-,4
+W17,Undergraduate,ITAL      2,PADULA V,B+,2
+W17,Undergraduate,ITAL      2,PADULA V,C+,1
+W17,Undergraduate,ITAL      3,BORROMEO C,A+,2
+W17,Undergraduate,ITAL      3,BORROMEO C,A,8
+W17,Undergraduate,ITAL      3,BORROMEO C,A-,6
+W17,Undergraduate,ITAL      3,BORROMEO C,B+,4
+W17,Undergraduate,ITAL      3,BORROMEO C,B-,2
+W17,Undergraduate,ITAL      3,BORROMEO C,C+,1
+W17,Undergraduate,ITAL      3,BORROMEO C,C,1
+W17,Undergraduate,ITAL      4,ARNOLD L B,A,4
+W17,Undergraduate,ITAL      4,ARNOLD L B,A-,1
+W17,Undergraduate,ITAL      4,ARNOLD L B,B+,2
+W17,Undergraduate,ITAL      4,ARNOLD L B,B,2
+W17,Undergraduate,ITAL      4,ARNOLD L B,B-,3
+W17,Undergraduate,ITAL      4,ARNOLD L B,C,1
+W17,Undergraduate,ITAL      5,CRICKETTE M E,A+,2
+W17,Undergraduate,ITAL      5,CRICKETTE M E,A,6
+W17,Undergraduate,ITAL      5,CRICKETTE M E,A-,3
+W17,Undergraduate,ITAL      5,CRICKETTE M E,B+,2
+W17,Undergraduate,ITAL      5,CRICKETTE M E,B,2
+W17,Undergraduate,ITAL      5,CRICKETTE M E,B-,1
+W17,Undergraduate,ITAL      5,CRICKETTE M E,C+,3
+W17,Undergraduate,ITAL      5,CRICKETTE M E,C,1
+W17,Undergraduate,ITAL      5,CRICKETTE M E,D+,1
+W17,Undergraduate,ITAL      5,PADULA V,A+,1
+W17,Undergraduate,ITAL      5,PADULA V,A,3
+W17,Undergraduate,ITAL      5,PADULA V,A-,5
+W17,Undergraduate,ITAL      5,PADULA V,B+,3
+W17,Undergraduate,ITAL      5,PADULA V,B,4
+W17,Undergraduate,ITAL      5,PADULA V,B-,2
+W17,Undergraduate,ITAL      5,PADULA V,C,1
+W17,Undergraduate,ITAL     16A,PATTONE C F,A+,1
+W17,Undergraduate,ITAL     16A,PATTONE C F,A,6
+W17,Undergraduate,ITAL     16A,PATTONE C F,A-,1
+W17,Undergraduate,ITAL     20X,FOGU C,A+,10
+W17,Undergraduate,ITAL     20X,FOGU C,A,19
+W17,Undergraduate,ITAL     20X,FOGU C,A-,21
+W17,Undergraduate,ITAL     20X,FOGU C,B+,9
+W17,Undergraduate,ITAL     20X,FOGU C,B,14
+W17,Undergraduate,ITAL     20X,FOGU C,B-,6
+W17,Undergraduate,ITAL     20X,FOGU C,C+,8
+W17,Undergraduate,ITAL     20X,FOGU C,C-,1
+W17,Undergraduate,ITAL     20X,FOGU C,D+,1
+W17,Undergraduate,ITAL     20X,FOGU C,F,4
+W17,Undergraduate,ITAL    102,FIORINA C P,A,3
+W17,Undergraduate,ITAL    102,FIORINA C P,A-,8
+W17,Undergraduate,ITAL    102,FIORINA C P,B+,1
+W17,Undergraduate,ITAL    102,FIORINA C P,B,3
+W17,Undergraduate,ITAL    102,FIORINA C P,B-,2
+W17,Undergraduate,ITAL    102,FIORINA C P,D,1
+W17,Undergraduate,ITAL    119B,SNYDER J R,A,5
+W17,Undergraduate,ITAL    119B,SNYDER J R,A-,4
+W17,Undergraduate,ITAL    119B,SNYDER J R,B+,2
+W17,Undergraduate,ITAL    119B,SNYDER J R,B,2
+W17,Undergraduate,ITAL    180Z,FOGU C,A+,10
+W17,Undergraduate,ITAL    180Z,FOGU C,A,18
+W17,Undergraduate,ITAL    180Z,FOGU C,A-,20
+W17,Undergraduate,ITAL    180Z,FOGU C,B+,15
+W17,Undergraduate,ITAL    180Z,FOGU C,B,16
+W17,Undergraduate,ITAL    180Z,FOGU C,B-,5
+W17,Undergraduate,ITAL    180Z,FOGU C,C+,3
+W17,Undergraduate,ITAL    180Z,FOGU C,C,6
+W17,Undergraduate,ITAL    180Z,FOGU C,C-,3
+W17,Undergraduate,ITAL    180Z,FOGU C,D,1
+W17,Undergraduate,ITAL    180Z,FOGU C,F,1

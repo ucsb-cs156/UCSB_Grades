@@ -1,0 +1,134 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,A,3
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,A-,7
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,B+,10
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,B,13
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,B-,10
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,C+,8
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,C,3
+M16,Undergraduate,HIST      2A,BARBIERI-LOW,F,4
+M16,Undergraduate,HIST      2C,BARBA P,A,7
+M16,Undergraduate,HIST      2C,BARBA P,A-,13
+M16,Undergraduate,HIST      2C,BARBA P,B+,25
+M16,Undergraduate,HIST      2C,BARBA P,B,17
+M16,Undergraduate,HIST      2C,BARBA P,B-,11
+M16,Undergraduate,HIST      2C,BARBA P,C+,3
+M16,Undergraduate,HIST      2C,BARBA P,C,2
+M16,Undergraduate,HIST      2C,BARBA P,C-,1
+M16,Undergraduate,HIST      2C,BARBA P,F,4
+M16,Undergraduate,HIST      4B,CARON L R,A+,1
+M16,Undergraduate,HIST      4B,CARON L R,A,3
+M16,Undergraduate,HIST      4B,CARON L R,A-,5
+M16,Undergraduate,HIST      4B,CARON L R,B+,9
+M16,Undergraduate,HIST      4B,CARON L R,B,7
+M16,Undergraduate,HIST      4B,CARON L R,B-,1
+M16,Undergraduate,HIST      4B,CARON L R,C+,2
+M16,Undergraduate,HIST      4B,CARON L R,C,5
+M16,Undergraduate,HIST      4B,CARON L R,C-,1
+M16,Undergraduate,HIST      4B,CARON L R,F,3
+M16,Undergraduate,HIST      4C,AKULOV D A,A+,2
+M16,Undergraduate,HIST      4C,AKULOV D A,A,4
+M16,Undergraduate,HIST      4C,AKULOV D A,A-,13
+M16,Undergraduate,HIST      4C,AKULOV D A,B+,6
+M16,Undergraduate,HIST      4C,AKULOV D A,B,12
+M16,Undergraduate,HIST      4C,AKULOV D A,B-,8
+M16,Undergraduate,HIST      4C,AKULOV D A,C+,8
+M16,Undergraduate,HIST      4C,AKULOV D A,C,10
+M16,Undergraduate,HIST      4C,AKULOV D A,C-,4
+M16,Undergraduate,HIST      4C,AKULOV D A,D+,2
+M16,Undergraduate,HIST      4C,AKULOV D A,F,3
+M16,Undergraduate,HIST      8,GARCIA M I,A,20
+M16,Undergraduate,HIST      8,GARCIA M I,A-,8
+M16,Undergraduate,HIST      8,GARCIA M I,B+,13
+M16,Undergraduate,HIST      8,GARCIA M I,B,11
+M16,Undergraduate,HIST      8,GARCIA M I,B-,1
+M16,Undergraduate,HIST      8,GARCIA M I,C+,2
+M16,Undergraduate,HIST      8,GARCIA M I,C,2
+M16,Undergraduate,HIST      8,GARCIA M I,D+,1
+M16,Undergraduate,HIST      8,GARCIA M I,D,1
+M16,Undergraduate,HIST     17A,BROOKS J F,A,4
+M16,Undergraduate,HIST     17A,BROOKS J F,A-,9
+M16,Undergraduate,HIST     17A,BROOKS J F,B+,9
+M16,Undergraduate,HIST     17A,BROOKS J F,B,7
+M16,Undergraduate,HIST     17A,BROOKS J F,B-,5
+M16,Undergraduate,HIST     17A,BROOKS J F,C+,6
+M16,Undergraduate,HIST     17C,BARBA P,A,7
+M16,Undergraduate,HIST     17C,BARBA P,A-,7
+M16,Undergraduate,HIST     17C,BARBA P,B+,23
+M16,Undergraduate,HIST     17C,BARBA P,B,17
+M16,Undergraduate,HIST     17C,BARBA P,B-,5
+M16,Undergraduate,HIST     17C,BARBA P,C+,1
+M16,Undergraduate,HIST     17C,BARBA P,C,2
+M16,Undergraduate,HIST     17C,BARBA P,C-,2
+M16,Undergraduate,HIST     17C,BARBA P,D+,1
+M16,Undergraduate,HIST     17C,BARBA P,D,1
+M16,Undergraduate,HIST    108W,TYRRELL B P,A,8
+M16,Undergraduate,HIST    108W,TYRRELL B P,A-,6
+M16,Undergraduate,HIST    108W,TYRRELL B P,B+,2
+M16,Undergraduate,HIST    108W,TYRRELL B P,B,5
+M16,Undergraduate,HIST    108W,TYRRELL B P,B-,4
+M16,Undergraduate,HIST    108W,TYRRELL B P,C,1
+M16,Undergraduate,HIST    114A,WOLPO P D,A+,4
+M16,Undergraduate,HIST    114A,WOLPO P D,A,5
+M16,Undergraduate,HIST    114A,WOLPO P D,A-,3
+M16,Undergraduate,HIST    114A,WOLPO P D,B,1
+M16,Undergraduate,HIST    114A,WOLPO P D,B-,1
+M16,Undergraduate,HIST    114A,WOLPO P D,C,2
+M16,Undergraduate,HIST    114A,WOLPO P D,C-,1
+M16,Undergraduate,HIST    114A,WOLPO P D,D,1
+M16,Undergraduate,HIST    114A,WOLPO P D,F,2
+M16,Undergraduate,HIST    115,HANSON S E,A,1
+M16,Undergraduate,HIST    115,HANSON S E,A-,2
+M16,Undergraduate,HIST    115,HANSON S E,B+,3
+M16,Undergraduate,HIST    115,HANSON S E,B,1
+M16,Undergraduate,HIST    115,HANSON S E,B-,1
+M16,Undergraduate,HIST    115,HANSON S E,C,1
+M16,Undergraduate,HIST    115,HANSON S E,D+,1
+M16,Undergraduate,HIST    141B,BAILLARGEON D,A+,1
+M16,Undergraduate,HIST    141B,BAILLARGEON D,A,1
+M16,Undergraduate,HIST    141B,BAILLARGEON D,A-,3
+M16,Undergraduate,HIST    141B,BAILLARGEON D,B+,6
+M16,Undergraduate,HIST    141B,BAILLARGEON D,B-,1
+M16,Undergraduate,HIST    141B,BAILLARGEON D,F,2
+M16,Undergraduate,HIST    159B,MOORE L B,A+,1
+M16,Undergraduate,HIST    159B,MOORE L B,A,4
+M16,Undergraduate,HIST    159B,MOORE L B,A-,4
+M16,Undergraduate,HIST    159B,MOORE L B,B+,3
+M16,Undergraduate,HIST    159B,MOORE L B,B,4
+M16,Undergraduate,HIST    159B,MOORE L B,B-,1
+M16,Undergraduate,HIST    159B,MOORE L B,C,1
+M16,Undergraduate,HIST    160C,HOOTON L K,A,2
+M16,Undergraduate,HIST    160C,HOOTON L K,A-,2
+M16,Undergraduate,HIST    160C,HOOTON L K,B+,7
+M16,Undergraduate,HIST    160C,HOOTON L K,B,4
+M16,Undergraduate,HIST    160C,HOOTON L K,B-,1
+M16,Undergraduate,HIST    160C,HOOTON L K,C+,1
+M16,Undergraduate,HIST    160C,HOOTON L K,C,2
+M16,Undergraduate,HIST    160C,HOOTON L K,F,1
+M16,Undergraduate,HIST    176B,PAULSON T A,A+,5
+M16,Undergraduate,HIST    176B,PAULSON T A,A,4
+M16,Undergraduate,HIST    176B,PAULSON T A,A-,6
+M16,Undergraduate,HIST    176B,PAULSON T A,B+,4
+M16,Undergraduate,HIST    176B,PAULSON T A,B,4
+M16,Undergraduate,HIST    177,GRAVES G R,A,2
+M16,Undergraduate,HIST    177,GRAVES G R,A-,5
+M16,Undergraduate,HIST    177,GRAVES G R,B+,4
+M16,Undergraduate,HIST    177,GRAVES G R,B,10
+M16,Undergraduate,HIST    177,GRAVES G R,B-,7
+M16,Undergraduate,HIST    177,GRAVES G R,C+,3
+M16,Undergraduate,HIST    177,GRAVES G R,C,3
+M16,Undergraduate,HIST    177,GRAVES G R,F,1
+M16,Undergraduate,HIST    187A,SEIFMAN T,A,4
+M16,Undergraduate,HIST    187A,SEIFMAN T,A-,8
+M16,Undergraduate,HIST    187A,SEIFMAN T,B+,6
+M16,Undergraduate,HIST    187A,SEIFMAN T,B,3
+M16,Undergraduate,HIST    187A,SEIFMAN T,B-,2
+M16,Undergraduate,HIST    187A,SEIFMAN T,C+,1
+M16,Undergraduate,HIST    187A,SEIFMAN T,C,1
+M16,Undergraduate,HIST    187A,SEIFMAN T,F,1
+M16,Undergraduate,HIST    192,FREI C A,A+,1
+M16,Undergraduate,HIST    192,FREI C A,A,2
+M16,Undergraduate,HIST    192,FREI C A,A-,2
+M16,Undergraduate,HIST    192,FREI C A,B+,1
+M16,Undergraduate,HIST    192,FREI C A,B,1
+M16,Undergraduate,HIST    192,FREI C A,C,3

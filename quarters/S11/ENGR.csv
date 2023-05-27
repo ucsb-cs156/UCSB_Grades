@@ -1,0 +1,58 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,ENGR      3,MOEHLIS J M,A+,2
+S11,Undergraduate,ENGR      3,MOEHLIS J M,A,25
+S11,Undergraduate,ENGR      3,MOEHLIS J M,A-,6
+S11,Undergraduate,ENGR      3,MOEHLIS J M,B+,6
+S11,Undergraduate,ENGR      3,MOEHLIS J M,B,20
+S11,Undergraduate,ENGR      3,MOEHLIS J M,B-,10
+S11,Undergraduate,ENGR      3,MOEHLIS J M,C+,3
+S11,Undergraduate,ENGR      3,MOEHLIS J M,C,6
+S11,Undergraduate,ENGR      3,MOEHLIS J M,C-,8
+S11,Undergraduate,ENGR      3,MOEHLIS J M,D,3
+S11,Undergraduate,ENGR      3,MOEHLIS J M,D-,1
+S11,Undergraduate,ENGR      3,MOEHLIS J M,F,2
+S11,Undergraduate,ENGR    101,BOGGS S R,A,43
+S11,Undergraduate,ENGR    101,BOGGS S R,A-,16
+S11,Undergraduate,ENGR    101,BOGGS S R,B+,3
+S11,Undergraduate,ENGR    101,BOGGS S R,B,3
+S11,Undergraduate,ENGR    101,BOGGS S R,C,1
+S11,Undergraduate,ENGR    102C,YORK R A,P,244
+S11,Undergraduate,ENGR    102C,YORK R A,NP,12
+S11,Undergraduate,ENGR    185A,BOGART K S,A+,5
+S11,Undergraduate,ENGR    185A,BOGART K S,A,10
+S11,Undergraduate,ENGR    185A,BOGART K S,A-,18
+S11,Undergraduate,ENGR    185A,BOGART K S,B+,21
+S11,Undergraduate,ENGR    185A,BOGART K S,B,11
+S11,Undergraduate,ENGR    185A,BOGART K S,B-,2
+S11,Undergraduate,ENGR    185A,BOGART K S,C+,1
+S11,Undergraduate,ENGR    185A,BOGART K S,C-,1
+S11,Undergraduate,ENGR    185A,BOGART K S,F,2
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,A+,2
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,A,4
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,A-,12
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,B+,11
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,B,28
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,B-,6
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,C+,2
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,C,2
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,D,1
+S11,Undergraduate,ENGR    185B,GREATHOUSE J,F,2
+S11,Undergraduate,ENGR    191B,LI S C,A+,2
+S11,Undergraduate,ENGR    191B,LI S C,A,3
+S11,Undergraduate,ENGR    191B,LI S C,A-,1
+S11,Undergraduate,ENGR    191B,LI S C,B+,10
+S11,Undergraduate,ENGR    191B,LI S C,B,16
+S11,Undergraduate,ENGR    191B,LI S C,B-,8
+S11,Undergraduate,ENGR    191B,LI S C,C+,2
+S11,Undergraduate,ENGR    191B,LI S C,C,6
+S11,Undergraduate,ENGR    192C,CAMPBELL R D,A,40
+S11,Undergraduate,ENGR    192C,CAMPBELL R D,A-,5
+S11,Undergraduate,ENGR    193C,FELDMAN J E,A,27
+S11,Undergraduate,ENGR    193C,FELDMAN J E,A-,2
+S11,Undergraduate,ENGR    193C,FELDMAN J E,B+,1
+S11,Graduate,ENGR    291A,GABRIELE G F,A+,4
+S11,Graduate,ENGR    291A,GABRIELE G F,A-,4
+S11,Graduate,ENGR    291A,GABRIELE G F,B+,7
+S11,Graduate,ENGR    291B,URUK C,A,7
+S11,Graduate,ENGR    291B,URUK C,B,4
+S11,Graduate,ENGR    291B,URUK C,C,1

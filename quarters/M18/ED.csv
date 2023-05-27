@@ -1,0 +1,92 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M18,Undergraduate,ED      109M,SHISHIM M D,P,56
+M18,Undergraduate,ED      111,ROMO L F,A+,4
+M18,Undergraduate,ED      111,ROMO L F,A,16
+M18,Undergraduate,ED      111,ROMO L F,A-,14
+M18,Undergraduate,ED      111,ROMO L F,B+,3
+M18,Undergraduate,ED      111,ROMO L F,B,3
+M18,Undergraduate,ED      111,ROMO L F,B-,2
+M18,Undergraduate,ED      111,ROMO L F,C,2
+M18,Undergraduate,ED      111,ROMO L F,C-,1
+M18,Undergraduate,ED      111,ROMO L F,F,1
+M18,Undergraduate,ED      117M,LUBACH D W,P,34
+M18,Undergraduate,ED      117M,SHISHIM M D,P,34
+M18,Undergraduate,ED      123,MEIER V C,A+,2
+M18,Undergraduate,ED      123,MEIER V C,A,17
+M18,Undergraduate,ED      123,MEIER V C,A-,2
+M18,Undergraduate,ED      123,SANDOVAL N I,A,50
+M18,Undergraduate,ED      123,SANDOVAL N I,B,2
+M18,Undergraduate,ED      123,SANDOVAL N I,D+,2
+M18,Undergraduate,ED      125,CLAIRMONT III,A,18
+M18,Undergraduate,ED      125,CLAIRMONT III,A-,1
+M18,Undergraduate,ED      125,CLAIRMONT III,B+,2
+M18,Undergraduate,ED      125,CLAIRMONT III,B,3
+M18,Undergraduate,ED      125,RUDDER-BREED,A+,1
+M18,Undergraduate,ED      125,RUDDER-BREED,A,11
+M18,Undergraduate,ED      125,RUDDER-BREED,A-,7
+M18,Undergraduate,ED      125,RUDDER-BREED,B+,1
+M18,Undergraduate,ED      125,RUDDER-BREED,B,2
+M18,Undergraduate,ED      125,RUDDER-BREED,B-,3
+M18,Undergraduate,ED      130,OGRAIN C M,A,6
+M18,Undergraduate,ED      130,OGRAIN C M,A-,3
+M18,Undergraduate,ED      130,OGRAIN C M,B+,1
+M18,Undergraduate,ED      130,OGRAIN C M,B,1
+M18,Graduate,ED      228A,HOLDREN N R,A+,1
+M18,Graduate,ED      228A,HOLDREN N R,A,2
+M18,Graduate,ED      228A,HOLDREN N R,A-,4
+M18,Graduate,ED      228A,HOLDREN N R,B-,1
+M18,Graduate,ED      228B,SINGER G H S,A+,1
+M18,Graduate,ED      228B,SINGER G H S,A,5
+M18,Graduate,ED      228B,SINGER G H S,B,2
+M18,Graduate,ED      229C,HOLDREN N R,S,6
+M18,Graduate,ED      229D,HOLDREN N R,A,6
+M18,Graduate,ED      263,MORAN A S,A,36
+M18,Graduate,ED      264,HARVEY V A,A,16
+M18,Graduate,ED      264,OXELSON E M,A,18
+M18,Graduate,ED      265D,ARYA D J,A,10
+M18,Graduate,ED      265D,BIANCHINI J A,A,7
+M18,Graduate,ED      265D,BRENNER M E,A,10
+M18,Graduate,ED      265D,DUQUE J D,A,17
+M18,Graduate,ED      265D,MAUL A E,A,9
+M18,Graduate,ED      265D,NYLUND K L,A,9
+M18,Graduate,ED      265D,OGRAIN C M,A,9
+M18,Graduate,ED      265D,OXELSON E M,A,9
+M18,Graduate,ED      265D,ROBERTS S A,A,9
+M18,Graduate,ED      265D,SCALZO J N,A,20
+M18,Graduate,ED      268,DUQUE J D,A,19
+M18,Graduate,ED      268,HARVEY V A,A,18
+M18,Graduate,ED      268,HEFFERNAN M T,A,19
+M18,Graduate,ED      268,OXELSON E M,A,19
+M18,Graduate,ED      291,FEDDERS A,A+,1
+M18,Graduate,ED      291,FEDDERS A,A,5
+M18,Graduate,ED      318,ARYA D J,A,22
+M18,Graduate,ED      318,HARRIS S Y,A,19
+M18,Graduate,ED      319,ARYA D J,A,16
+M18,Graduate,ED      319,ARYA D J,A-,2
+M18,Graduate,ED      319,SCALZO J N,A,15
+M18,Graduate,ED      326,WHITAKER D R,S,34
+M18,Graduate,ED      327,GRANGER M,S,33
+M18,Graduate,ED      330,LOWI R S,S,67
+M18,Graduate,ED      340,FEDDERS A,S,35
+M18,Graduate,ED      370,BUMBY A K,S,6
+M18,Graduate,ED      370,CARLYLE A M,S,6
+M18,Graduate,ED      370,ELLIS B D,S,6
+M18,Graduate,ED      370,MEYER M N,S,6
+M18,Graduate,ED      370,MORALES E L,S,5
+M18,Graduate,ED      370,OXELSON E M,S,5
+M18,Graduate,ED   E  321M,LOWI R S,S,10
+M18,Graduate,ED   E  341,DEWAR T J,S,10
+M18,Graduate,ED   E  371,DEWAR T J,S,10
+M18,Graduate,ED   HSS321M,ESTABROOK J A,S,9
+M18,Graduate,ED   HSS321M,MULLIN C D,S,9
+M18,Graduate,ED   HSS341,FEDDERS A,S,9
+M18,Graduate,ED   HSS371,ESTABROOK J A,S,8
+M18,Graduate,ED   HSS371,ESTABROOK J A,U,1
+M18,Graduate,ED   HSS371,MULLIN C D,S,8
+M18,Graduate,ED   HSS371,MULLIN C D,U,1
+M18,Graduate,ED   M  321M,CLIFFORD A D,S,7
+M18,Graduate,ED   M  341,FEDDERS A,S,6
+M18,Graduate,ED   M  371,SCAFIDE M E,S,6
+M18,Graduate,ED   S  321M,BIANCHINI J A,S,7
+M18,Graduate,ED   S  341,FEDDERS A,S,8
+M18,Graduate,ED   S  371,LOHWASSER K,S,8

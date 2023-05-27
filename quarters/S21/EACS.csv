@@ -1,0 +1,52 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,EACS      3,HILLIS G A,A,19
+S21,Undergraduate,EACS      3,HILLIS G A,A-,3
+S21,Undergraduate,EACS      3,HILLIS G A,A+,15
+S21,Undergraduate,EACS      3,HILLIS G A,B,9
+S21,Undergraduate,EACS      3,HILLIS G A,B-,1
+S21,Undergraduate,EACS      3,HILLIS G A,B+,4
+S21,Undergraduate,EACS      3,HILLIS G A,C+,1
+S21,Undergraduate,EACS      3,HILLIS G A,F,1
+S21,Undergraduate,EACS      4B,LEWALLEN A,A,102
+S21,Undergraduate,EACS      4B,LEWALLEN A,A-,65
+S21,Undergraduate,EACS      4B,LEWALLEN A,A+,12
+S21,Undergraduate,EACS      4B,LEWALLEN A,B,28
+S21,Undergraduate,EACS      4B,LEWALLEN A,B-,11
+S21,Undergraduate,EACS      4B,LEWALLEN A,B+,38
+S21,Undergraduate,EACS      4B,LEWALLEN A,C,6
+S21,Undergraduate,EACS      4B,LEWALLEN A,C+,5
+S21,Undergraduate,EACS      4B,LEWALLEN A,D,2
+S21,Undergraduate,EACS      4B,LEWALLEN A,F,6
+S21,Undergraduate,EACS      4B,YANG M,A,102
+S21,Undergraduate,EACS      4B,YANG M,A-,65
+S21,Undergraduate,EACS      4B,YANG M,A+,12
+S21,Undergraduate,EACS      4B,YANG M,B,28
+S21,Undergraduate,EACS      4B,YANG M,B-,11
+S21,Undergraduate,EACS      4B,YANG M,B+,38
+S21,Undergraduate,EACS      4B,YANG M,C,6
+S21,Undergraduate,EACS      4B,YANG M,C+,5
+S21,Undergraduate,EACS      4B,YANG M,D,2
+S21,Undergraduate,EACS      4B,YANG M,F,6
+S21,Undergraduate,EACS    103A,LOVELL J M,A,4
+S21,Undergraduate,EACS    103A,LOVELL J M,A-,14
+S21,Undergraduate,EACS    103A,LOVELL J M,B,6
+S21,Undergraduate,EACS    103A,LOVELL J M,B-,2
+S21,Undergraduate,EACS    103A,LOVELL J M,B+,2
+S21,Undergraduate,EACS    103A,LOVELL J M,C+,1
+S21,Undergraduate,EACS    103A,LOVELL J M,D,1
+S21,Undergraduate,EACS    103A,LOVELL J M,F,3
+S21,Undergraduate,EACS    109B,STEAVU-BALINT,A,3
+S21,Undergraduate,EACS    109B,STEAVU-BALINT,A-,11
+S21,Undergraduate,EACS    109B,STEAVU-BALINT,A+,1
+S21,Undergraduate,EACS    109B,STEAVU-BALINT,C,1
+S21,Undergraduate,EACS    136,FRUHSTUCK S,A,2
+S21,Undergraduate,EACS    136,FRUHSTUCK S,A-,4
+S21,Undergraduate,EACS    136,FRUHSTUCK S,A+,5
+S21,Undergraduate,EACS    136,FRUHSTUCK S,B,6
+S21,Undergraduate,EACS    136,FRUHSTUCK S,B-,2
+S21,Undergraduate,EACS    136,FRUHSTUCK S,B+,6
+S21,Undergraduate,EACS    136,FRUHSTUCK S,C,1
+S21,Undergraduate,EACS    142,FLEMING W,A,3
+S21,Undergraduate,EACS    142,FLEMING W,B-,1
+S21,Undergraduate,EACS    142,FLEMING W,B+,1
+S21,Graduate,EACS    242,FLEMING W,A,5

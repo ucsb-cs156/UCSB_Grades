@@ -1,0 +1,162 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,CH E     99,GORDON M J,A,1
+S19,Undergraduate,CH E     99,MCFARLAND E W,A+,2
+S19,Undergraduate,CH E    110B,HAN SONGI,A+,2
+S19,Undergraduate,CH E    110B,HAN SONGI,A,7
+S19,Undergraduate,CH E    110B,HAN SONGI,A-,10
+S19,Undergraduate,CH E    110B,HAN SONGI,B+,8
+S19,Undergraduate,CH E    110B,HAN SONGI,B,6
+S19,Undergraduate,CH E    110B,HAN SONGI,B-,3
+S19,Undergraduate,CH E    110B,HAN SONGI,C+,5
+S19,Undergraduate,CH E    110B,HAN SONGI,C,1
+S19,Undergraduate,CH E    110B,HAN SONGI,C-,3
+S19,Undergraduate,CH E    110B,HAN SONGI,F,1
+S19,Undergraduate,CH E    119,CHADA J P,P,51
+S19,Undergraduate,CH E    120C,DEY S S,A+,2
+S19,Undergraduate,CH E    120C,DEY S S,A,11
+S19,Undergraduate,CH E    120C,DEY S S,A-,8
+S19,Undergraduate,CH E    120C,DEY S S,B+,6
+S19,Undergraduate,CH E    120C,DEY S S,B,7
+S19,Undergraduate,CH E    120C,DEY S S,B-,4
+S19,Undergraduate,CH E    120C,DEY S S,C+,2
+S19,Undergraduate,CH E    120C,DEY S S,C,2
+S19,Undergraduate,CH E    120C,DEY S S,C-,2
+S19,Undergraduate,CH E    120C,DEY S S,D+,2
+S19,Undergraduate,CH E    120C,DEY S S,D,1
+S19,Undergraduate,CH E    120C,DEY S S,F,1
+S19,Undergraduate,CH E    132A,GORDON M J,A+,5
+S19,Undergraduate,CH E    132A,GORDON M J,A,13
+S19,Undergraduate,CH E    132A,GORDON M J,A-,6
+S19,Undergraduate,CH E    132A,GORDON M J,B+,4
+S19,Undergraduate,CH E    132A,GORDON M J,B,9
+S19,Undergraduate,CH E    132A,GORDON M J,B-,4
+S19,Undergraduate,CH E    132A,GORDON M J,C+,2
+S19,Undergraduate,CH E    132A,GORDON M J,C,2
+S19,Undergraduate,CH E    132A,GORDON M J,C-,1
+S19,Undergraduate,CH E    132A,GORDON M J,D,1
+S19,Undergraduate,CH E    132A,GORDON M J,F,3
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,A+,1
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,A,10
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,A-,9
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,B+,9
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,B,6
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,B-,7
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,C+,5
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,C,2
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,C-,2
+S19,Undergraduate,CH E    140A,CHRISTOPHER P,F,1
+S19,Undergraduate,CH E    152B,RAWLINGS J B,A,3
+S19,Undergraduate,CH E    152B,RAWLINGS J B,A-,2
+S19,Undergraduate,CH E    152B,RAWLINGS J B,B+,1
+S19,Undergraduate,CH E    152B,RAWLINGS J B,B,3
+S19,Undergraduate,CH E    152B,RAWLINGS J B,B-,1
+S19,Undergraduate,CH E    152B,RAWLINGS J B,C,1
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,A+,1
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,A,5
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,A-,7
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,B+,14
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,B,4
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,B-,3
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,C+,3
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,C,1
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,C-,1
+S19,Undergraduate,CH E    171,MUKHERJEE ARN,F,1
+S19,Undergraduate,CH E    173,O'MALLEY M A,A,6
+S19,Undergraduate,CH E    173,O'MALLEY M A,B+,11
+S19,Undergraduate,CH E    173,O'MALLEY M A,B,1
+S19,Undergraduate,CH E    173,O'MALLEY M A,B-,3
+S19,Undergraduate,CH E    180A,CHADA J P,A,18
+S19,Undergraduate,CH E    180A,CHADA J P,A-,6
+S19,Undergraduate,CH E    180A,CHADA J P,B+,12
+S19,Undergraduate,CH E    180A,CHADA J P,B,11
+S19,Undergraduate,CH E    180A,CHADA J P,B-,3
+S19,Undergraduate,CH E    184B,DOHERTY M F,A+,6
+S19,Undergraduate,CH E    184B,DOHERTY M F,A,3
+S19,Undergraduate,CH E    184B,DOHERTY M F,A-,10
+S19,Undergraduate,CH E    184B,DOHERTY M F,B+,15
+S19,Undergraduate,CH E    184B,DOHERTY M F,B,15
+S19,Undergraduate,CH E    184B,DOHERTY M F,B-,6
+S19,Undergraduate,CH E    184B,DOHERTY M F,C,12
+S19,Undergraduate,CH E    184B,MCFARLAND E W,A+,6
+S19,Undergraduate,CH E    184B,MCFARLAND E W,A,3
+S19,Undergraduate,CH E    184B,MCFARLAND E W,A-,10
+S19,Undergraduate,CH E    184B,MCFARLAND E W,B+,15
+S19,Undergraduate,CH E    184B,MCFARLAND E W,B,15
+S19,Undergraduate,CH E    184B,MCFARLAND E W,B-,6
+S19,Undergraduate,CH E    184B,MCFARLAND E W,C,12
+S19,Undergraduate,CH E    196,HELGESON M E,A,1
+S19,Undergraduate,CH E    196,SHELL M S,A,1
+S19,Undergraduate,CH E    196,SQUIRES T M,A+,1
+S19,Undergraduate,CH E    198,FREDRICKSON G,A,1
+S19,Undergraduate,CH E    198,GORDON M J,A+,2
+S19,Undergraduate,CH E    198,GORDON M J,A,4
+S19,Undergraduate,CH E    198,MCFARLAND E W,A+,3
+S19,Undergraduate,CH E    198,MUKHERJEE ARN,A+,1
+S19,Undergraduate,CH E    198,O'MALLEY M A,A,1
+S19,Undergraduate,CH E    198,SHELL M S,A,1
+S19,Graduate,CH E    220B,SQUIRES T M,A,11
+S19,Graduate,CH E    220B,SQUIRES T M,A-,5
+S19,Graduate,CH E    220B,SQUIRES T M,B+,3
+S19,Graduate,CH E    222A,PITENIS A A,A,1
+S19,Graduate,CH E    238A,HELGESON M E,A,9
+S19,Graduate,CH E    238A,HELGESON M E,A-,2
+S19,Graduate,CH E    246,SCOTT S L,A+,3
+S19,Graduate,CH E    246,SCOTT S L,A-,1
+S19,Graduate,CH E    246,SCOTT S L,B+,1
+S19,Graduate,CH E    246,SCOTT S L,B,1
+S19,Graduate,CH E    246,SCOTT S L,B-,1
+S19,Graduate,CH E    272,O'MALLEY M A,A,8
+S19,Graduate,CH E    290,SHELL M S,S,63
+S19,Graduate,CH E    291,BATES C M,S,1
+S19,Graduate,CH E    291,CHMELKA B F,S,3
+S19,Graduate,CH E    291,CHRISTOPHER P,S,3
+S19,Graduate,CH E    291,DENBAARS S P,S,2
+S19,Graduate,CH E    291,DEY S S,S,3
+S19,Graduate,CH E    291,DOHERTY M F,S,2
+S19,Graduate,CH E    291,FREDRICKSON G,S,5
+S19,Graduate,CH E    291,GORDON M J,S,2
+S19,Graduate,CH E    291,HAN SONGI,S,1
+S19,Graduate,CH E    291,HELGESON M E,S,6
+S19,Graduate,CH E    291,MCFARLAND E W,S,2
+S19,Graduate,CH E    291,MUKHERJEE ARN,S,3
+S19,Graduate,CH E    291,O'MALLEY M A,S,9
+S19,Graduate,CH E    291,PETERS B G,S,4
+S19,Graduate,CH E    291,RAWLINGS J B,S,2
+S19,Graduate,CH E    291,SCOTT S L,S,2
+S19,Graduate,CH E    291,SEGALMAN R A,S,7
+S19,Graduate,CH E    291,SHELL M S,S,5
+S19,Graduate,CH E    291,SQUIRES T M,S,4
+S19,Graduate,CH E    294B,CLEGG D O,S,3
+S19,Graduate,CH E    596,CHMELKA B F,S,5
+S19,Graduate,CH E    596,CHRISTOPHER P,S,2
+S19,Graduate,CH E    596,DENBAARS S P,S,1
+S19,Graduate,CH E    596,DEY S S,S,4
+S19,Graduate,CH E    596,DOHERTY M F,S,1
+S19,Graduate,CH E    596,FREDRICKSON G,S,3
+S19,Graduate,CH E    596,GORDON M J,S,2
+S19,Graduate,CH E    596,HAN SONGI,S,2
+S19,Graduate,CH E    596,HELGESON M E,S,2
+S19,Graduate,CH E    596,MUKHERJEE ARN,S,2
+S19,Graduate,CH E    596,O'MALLEY M A,S,7
+S19,Graduate,CH E    596,PETERS B G,S,1
+S19,Graduate,CH E    596,RAWLINGS J B,S,3
+S19,Graduate,CH E    596,SCOTT S L,S,1
+S19,Graduate,CH E    596,SEGALMAN R A,S,3
+S19,Graduate,CH E    596,SHELL M S,S,5
+S19,Graduate,CH E    596,SQUIRES T M,S,3
+S19,Graduate,CH E    598,HAN SONGI,S,1
+S19,Graduate,CH E    599,ABU-OMAR M,S,1
+S19,Graduate,CH E    599,BATES C M,S,1
+S19,Graduate,CH E    599,CHRISTOPHER P,S,2
+S19,Graduate,CH E    599,DOHERTY M F,S,1
+S19,Graduate,CH E    599,FREDRICKSON G,S,3
+S19,Graduate,CH E    599,GORDON M J,S,1
+S19,Graduate,CH E    599,HAN SONGI,S,2
+S19,Graduate,CH E    599,HELGESON M E,S,5
+S19,Graduate,CH E    599,MCFARLAND E W,S,1
+S19,Graduate,CH E    599,O'MALLEY M A,S,3
+S19,Graduate,CH E    599,PETERS B G,S,3
+S19,Graduate,CH E    599,SCOTT S L,S,2
+S19,Graduate,CH E    599,SEGALMAN R A,S,2
+S19,Graduate,CH E    599,SHELL M S,S,2
+S19,Graduate,CH E    599,SQUIRES T M,S,2

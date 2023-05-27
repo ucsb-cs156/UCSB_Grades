@@ -1,0 +1,169 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S21,Undergraduate,BL ST   122,EDWARDS J A,A,12
+S21,Undergraduate,BL ST   122,EDWARDS J A,A-,7
+S21,Undergraduate,BL ST   122,EDWARDS J A,A+,7
+S21,Undergraduate,BL ST   122,EDWARDS J A,B,5
+S21,Undergraduate,BL ST   122,EDWARDS J A,B-,1
+S21,Undergraduate,BL ST   122,EDWARDS J A,B+,12
+S21,Undergraduate,BL ST   122,EDWARDS J A,C,1
+S21,Undergraduate,BL ST   122,EDWARDS J A,C-,1
+S21,Undergraduate,BL ST   122,EDWARDS J A,C+,1
+S21,Undergraduate,BL ST   122,EDWARDS J A,D-,1
+S21,Undergraduate,BL ST   122,EDWARDS J A,F,3
+S21,Undergraduate,ED       20,PARKER E T,A,31
+S21,Undergraduate,ED       20,PARKER E T,A-,17
+S21,Undergraduate,ED       20,PARKER E T,A+,36
+S21,Undergraduate,ED       20,PARKER E T,B,7
+S21,Undergraduate,ED       20,PARKER E T,B-,4
+S21,Undergraduate,ED       20,PARKER E T,B+,10
+S21,Undergraduate,ED       20,PARKER E T,C,3
+S21,Undergraduate,ED       20,PARKER E T,C-,2
+S21,Undergraduate,ED       20,PARKER E T,C+,3
+S21,Undergraduate,ED       20,PARKER E T,D,2
+S21,Undergraduate,ED       20,PARKER E T,D-,1
+S21,Undergraduate,ED       20,PARKER E T,F,7
+S21,Undergraduate,ED      111,RIOS R M,A,66
+S21,Undergraduate,ED      111,RIOS R M,A-,17
+S21,Undergraduate,ED      111,RIOS R M,A+,1
+S21,Undergraduate,ED      111,RIOS R M,B,12
+S21,Undergraduate,ED      111,RIOS R M,B-,2
+S21,Undergraduate,ED      111,RIOS R M,B+,6
+S21,Undergraduate,ED      111,RIOS R M,C,4
+S21,Undergraduate,ED      111,RIOS R M,C-,3
+S21,Undergraduate,ED      111,RIOS R M,C+,5
+S21,Undergraduate,ED      111,RIOS R M,D,1
+S21,Undergraduate,ED      120,PARKER E T,A,13
+S21,Undergraduate,ED      121,BLACKWELL K S,A,27
+S21,Undergraduate,ED      121,BLACKWELL K S,A-,2
+S21,Undergraduate,ED      121,BLACKWELL K S,B+,1
+S21,Undergraduate,ED      121,BLACKWELL K S,D,1
+S21,Undergraduate,ED      121,BLACKWELL K S,D+,1
+S21,Undergraduate,ED      123,SANDOVAL N I,A,51
+S21,Undergraduate,ED      123,SANDOVAL N I,A-,2
+S21,Undergraduate,ED      123,SANDOVAL N I,B,1
+S21,Undergraduate,ED      123,SANDOVAL N I,D,1
+S21,Undergraduate,ED      123,SANDOVAL N I,F,1
+S21,Undergraduate,ED      124,BRENNER M E,A,35
+S21,Undergraduate,ED      124,BRENNER M E,B,1
+S21,Undergraduate,ED      124,BRENNER M E,B+,2
+S21,Undergraduate,ED      125,DUQUE J D,A,26
+S21,Undergraduate,ED      125,DUQUE J D,A+,11
+S21,Undergraduate,ED      125,DUQUE J D,B,12
+S21,Undergraduate,ED      125,DUQUE J D,B+,4
+S21,Undergraduate,ED      125,DUQUE J D,C,4
+S21,Undergraduate,ED      125,DUQUE J D,F,1
+S21,Undergraduate,ED      126,GALICIA M G,A,38
+S21,Undergraduate,ED      126,GALICIA M G,A+,14
+S21,Undergraduate,ED      126,GALICIA M G,B+,1
+S21,Undergraduate,ED      126,GALICIA M G,D,1
+S21,Undergraduate,ED      126,GALICIA M G,F,2
+S21,Undergraduate,ED      135,OGRAIN C M,A,4
+S21,Undergraduate,ED      135,OGRAIN C M,A-,4
+S21,Undergraduate,ED      135,OGRAIN C M,B,6
+S21,Undergraduate,ED      135,OGRAIN C M,B+,3
+S21,Undergraduate,ED      135,OGRAIN C M,C,1
+S21,Undergraduate,ED      145,AZZAM T,A,15
+S21,Undergraduate,ED      145,AZZAM T,A-,3
+S21,Undergraduate,ED      145,AZZAM T,A+,1
+S21,Undergraduate,ED      145,AZZAM T,B,5
+S21,Undergraduate,ED      145,AZZAM T,B+,2
+S21,Undergraduate,ED      145,AZZAM T,C+,1
+S21,Undergraduate,ED      145,AZZAM T,F,1
+S21,Undergraduate,ED      176B,WANG M,A,14
+S21,Undergraduate,ED      176B,WANG M,A-,11
+S21,Undergraduate,ED      176B,WANG M,A+,6
+S21,Undergraduate,ED      176B,WANG M,B,3
+S21,Undergraduate,ED      176B,WANG M,B-,1
+S21,Undergraduate,ED      176B,WANG M,B+,6
+S21,Undergraduate,ED      176B,WANG M,C,1
+S21,Undergraduate,ED      176B,WANG M,C-,1
+S21,Undergraduate,ED      176B,WANG M,F,3
+S21,Graduate,ED      201F,MAUL A E,A+,10
+S21,Graduate,ED      201F,NYLUND K L,A,2
+S21,Graduate,ED      201F,NYLUND K L,S,3
+S21,Graduate,ED      210D,ARYA D J,A,7
+S21,Graduate,ED      210D,KYRATZIS A,A,4
+S21,Graduate,ED      210D,KYRATZIS A,A+,5
+S21,Graduate,ED      210E,BAZERMAN C,A,3
+S21,Graduate,ED      210E,BAZERMAN C,A-,1
+S21,Graduate,ED      210E,BAZERMAN C,A+,1
+S21,Graduate,ED      210E,BAZERMAN C,B+,1
+S21,Graduate,ED      211G,RIOS R M,A,21
+S21,Graduate,ED      214C,NYLUND K L,A,17
+S21,Graduate,ED      214C,NYLUND K L,A+,6
+S21,Graduate,ED      214C,NYLUND K L,B,1
+S21,Graduate,ED      221D,DUQUE J D,A,12
+S21,Graduate,ED      221D,DUQUE J D,A-,1
+S21,Graduate,ED      222A,LAMBERT R,A,13
+S21,Graduate,ED      222A,LAMBERT R,A-,1
+S21,Graduate,ED      222D,SINGER G H S,A,5
+S21,Graduate,ED      222D,SINGER G H S,C-,1
+S21,Graduate,ED      228J,FEDDERS A,A,5
+S21,Graduate,ED      228J,FEDDERS A,A-,1
+S21,Graduate,ED      228J,FEDDERS A,A+,7
+S21,Graduate,ED      229D,BERNSTEIN E K,A,7
+S21,Graduate,ED      229D,HOLDREN N R,A,6
+S21,Graduate,ED      229D,MORAN A S,A,7
+S21,Graduate,ED      240A,SATTIN-BAJAJ,A,4
+S21,Graduate,ED      240A,SATTIN-BAJAJ,A-,3
+S21,Graduate,ED      240A,SATTIN-BAJAJ,B,1
+S21,Graduate,ED      240A,SATTIN-BAJAJ,B+,4
+S21,Graduate,ED      253D,HARLOW D B,A,9
+S21,Graduate,ED      253D,LEE J S,A,3
+S21,Graduate,ED      253D,LEE J S,A+,3
+S21,Graduate,ED      256,HARLOW D B,A,12
+S21,Graduate,ED      265C,BAZERMAN C,S,10
+S21,Graduate,ED      265C,BIANCHINI J A,S,7
+S21,Graduate,ED      265C,BRENNER M E,S,10
+S21,Graduate,ED      265C,ELLIS B D,S,8
+S21,Graduate,ED      265C,LAMBERT R,S,6
+S21,Graduate,ED      265C,LOHWASSER K,S,7
+S21,Graduate,ED      265C,OXELSON E M,S,8
+S21,Graduate,ED      265C,SATTIN-BAJAJ,S,6
+S21,Graduate,ED      265C,SCALZO J N,S,11
+S21,Graduate,ED      265C,SINGER G H S,S,6
+S21,Graduate,ED      265C,SLOAN T F,S,8
+S21,Graduate,ED      266,HARVEY V A,S,40
+S21,Graduate,ED      266,WHITAKER D R,S,30
+S21,Graduate,ED      270H,LEE J S,A,17
+S21,Graduate,ED      270H,LEE J S,A-,1
+S21,Graduate,ED      277,ROMO L F,A,4
+S21,Graduate,ED      277,ROMO L F,A-,1
+S21,Graduate,ED      277,ROMO L F,A+,1
+S21,Graduate,ED      324,GRIBBLE J W,A,30
+S21,Graduate,ED      325,KAVON C D,A,12
+S21,Graduate,ED      325,KAVON C D,A-,2
+S21,Graduate,ED      325,KAVON C D,A+,20
+S21,Graduate,ED      325,KAVON C D,B-,3
+S21,Graduate,ED      325,KAVON C D,C,2
+S21,Graduate,ED      325,KAVON C D,C+,1
+S21,Graduate,ED      340,FEDDERS A,S,30
+S21,Graduate,ED      370,BUMBY A K,S,6
+S21,Graduate,ED      370,ELLIS B D,S,5
+S21,Graduate,ED      370,MEYER M N,S,5
+S21,Graduate,ED      370,OXELSON E M,S,7
+S21,Graduate,ED   E  341,FEDDERS A,S,10
+S21,Graduate,ED   E  371,DEWAR T J,S,10
+S21,Graduate,ED   HSS371,ESTABROOK J A,S,12
+S21,Graduate,ED   HSS371,MULLIN C D,S,12
+S21,Graduate,ED   LA 320W,WHITAKER D R,A,38
+S21,Graduate,ED   LA 320W,WHITAKER D R,A-,3
+S21,Graduate,ED   LA 320W,WHITAKER D R,B,1
+S21,Graduate,ED   M  321,ROBERTS S A,A,9
+S21,Graduate,ED   M  321,ROBERTS S A,B,1
+S21,Graduate,ED   M  371,SCAFIDE M E,S,10
+S21,Graduate,ED   S  320,HARLOW D B,A,30
+S21,Graduate,ED   S  321,BIANCHINI J A,A,7
+S21,Graduate,ED   S  321,BIANCHINI J A,A-,2
+S21,Graduate,ED   S  341,FEDDERS A,S,9
+S21,Graduate,ED   S  371,LOHWASSER K,S,9
+S21,Undergraduate,HIST    135C,EDGAR A L,A,14
+S21,Undergraduate,HIST    135C,EDGAR A L,A-,7
+S21,Undergraduate,HIST    135C,EDGAR A L,A+,6
+S21,Undergraduate,HIST    135C,EDGAR A L,B,8
+S21,Undergraduate,HIST    135C,EDGAR A L,B-,3
+S21,Undergraduate,HIST    135C,EDGAR A L,B+,7
+S21,Undergraduate,HIST    135C,EDGAR A L,C,1
+S21,Undergraduate,HIST    135C,EDGAR A L,C+,2
+S21,Undergraduate,HIST    135C,EDGAR A L,D,1
+S21,Graduate,HIST    201E,EDGAR A L,A,6

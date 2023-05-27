@@ -1,0 +1,72 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W13,Undergraduate,ED      176B,GERBER M M,A,32
+W13,Undergraduate,ED      176B,GERBER M M,B,2
+W13,Undergraduate,ED      176B,GERBER M M,C,1
+W13,Undergraduate,ED      176B,GERBER M M,F,1
+W13,Undergraduate,ES   1-  38A,GERSTENFELD P,P,36
+W13,Undergraduate,ES   1-  38A,GERSTENFELD P,NP,1
+W13,Undergraduate,ES   1-  38B,GERSTENFELD P,P,23
+W13,Undergraduate,ES   1-  38B,GERSTENFELD P,NP,3
+W13,Undergraduate,ES   1-  99,GERSTENFELD P,P,9
+W13,Undergraduate,ES   1-  99,GERSTENFELD P,NP,1
+W13,Undergraduate,GER       1G,KOMMERELL G,A,3
+W13,Undergraduate,GER       1G,KOMMERELL G,A-,4
+W13,Undergraduate,GER       1G,KOMMERELL G,B+,6
+W13,Undergraduate,GER       1G,KOMMERELL G,B,1
+W13,Undergraduate,GER       2,MENGELE I,A+,4
+W13,Undergraduate,GER       2,MENGELE I,A,11
+W13,Undergraduate,GER       2,MENGELE I,A-,13
+W13,Undergraduate,GER       2,MENGELE I,B+,7
+W13,Undergraduate,GER       2,MENGELE I,B,2
+W13,Undergraduate,GER       2,MENGELE I,C,2
+W13,Undergraduate,GER       2,MENGELE I,F,1
+W13,Undergraduate,GER       2,WADE E R,A+,1
+W13,Undergraduate,GER       2,WADE E R,A,48
+W13,Undergraduate,GER       2,WADE E R,A-,7
+W13,Undergraduate,GER       2,WADE E R,B+,1
+W13,Undergraduate,GER       2,WADE E R,C+,1
+W13,Undergraduate,GER       2,WADE E R,C,1
+W13,Undergraduate,GER       2,WADE E R,F,1
+W13,Undergraduate,GER       5,WADE E R,A+,3
+W13,Undergraduate,GER       5,WADE E R,A,29
+W13,Undergraduate,GER       5,WADE E R,A-,1
+W13,Undergraduate,GER       5,WADE E R,B,2
+W13,Undergraduate,GER       5,WADE E R,B-,1
+W13,Undergraduate,GER     101B,MENGELE I,A,14
+W13,Undergraduate,GER     107B,HOLLAND J,A+,2
+W13,Undergraduate,GER     107B,HOLLAND J,A,3
+W13,Undergraduate,GER     107B,HOLLAND J,A-,2
+W13,Undergraduate,GER     107B,HOLLAND J,B+,2
+W13,Undergraduate,GER     107B,HOLLAND J,D+,1
+W13,Undergraduate,GER     115B,HOLLAND J,A,3
+W13,Undergraduate,GER     115B,HOLLAND J,A-,4
+W13,Undergraduate,GER     115B,HOLLAND J,B+,1
+W13,Undergraduate,GER     115B,HOLLAND J,B-,2
+W13,Undergraduate,MUS A    36,GERVAIS M M,A+,7
+W13,Undergraduate,MUS A    36,GERVAIS M M,A,3
+W13,Undergraduate,MUS A    37,GERVAIS M M,A+,8
+W13,Undergraduate,MUS A    37,GERVAIS M M,A,1
+W13,Undergraduate,MUS A    37,GERVAIS M M,A-,3
+W13,Undergraduate,MUS A   136,GERVAIS M M,A+,10
+W13,Undergraduate,MUS A   136,GERVAIS M M,A,5
+W13,Undergraduate,MUS A   136,GERVAIS M M,A-,2
+W13,Undergraduate,MUS A   137,GERVAIS M M,A+,9
+W13,Undergraduate,MUS A   137,GERVAIS M M,A,2
+W13,Undergraduate,MUS A   137,GERVAIS M M,A-,2
+W13,Graduate,MUS A   236,GERVAIS M M,A+,4
+W13,Graduate,MUS A   236,GERVAIS M M,A,1
+W13,Undergraduate,PSY     105,GERMAN T C M,A+,54
+W13,Undergraduate,PSY     105,GERMAN T C M,A,108
+W13,Undergraduate,PSY     105,GERMAN T C M,A-,68
+W13,Undergraduate,PSY     105,GERMAN T C M,B+,33
+W13,Undergraduate,PSY     105,GERMAN T C M,B,27
+W13,Undergraduate,PSY     105,GERMAN T C M,B-,12
+W13,Undergraduate,PSY     105,GERMAN T C M,C+,6
+W13,Undergraduate,PSY     105,GERMAN T C M,C,7
+W13,Undergraduate,PSY     105,GERMAN T C M,C-,1
+W13,Undergraduate,PSY     105,GERMAN T C M,F,1
+W13,Undergraduate,PSY     199,GERMAN T C M,A+,1
+W13,Undergraduate,PSY     199,GERMAN T C M,A,2
+W13,Undergraduate,PSY     199,GERMAN T C M,A-,3
+W13,Undergraduate,PSY     199,GERMAN T C M,B+,1
+W13,Graduate,PSY     592TG,GERMAN T C M,S,8

@@ -1,0 +1,103 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,BL ST     3,AKUDINOBI J,A,2
+S16,Undergraduate,BL ST     3,AKUDINOBI J,A-,6
+S16,Undergraduate,BL ST     3,AKUDINOBI J,B+,4
+S16,Undergraduate,BL ST     3,AKUDINOBI J,B,15
+S16,Undergraduate,BL ST     3,AKUDINOBI J,B-,4
+S16,Undergraduate,BL ST     3,AKUDINOBI J,C+,7
+S16,Undergraduate,BL ST     3,AKUDINOBI J,C,6
+S16,Undergraduate,BL ST     3,AKUDINOBI J,C-,3
+S16,Undergraduate,BL ST     3,AKUDINOBI J,D+,1
+S16,Undergraduate,BL ST     3,AKUDINOBI J,D,2
+S16,Undergraduate,BL ST     3,AKUDINOBI J,F,4
+S16,Undergraduate,BL ST     4,BATTLE J G,A+,1
+S16,Undergraduate,BL ST     4,BATTLE J G,A,12
+S16,Undergraduate,BL ST     4,BATTLE J G,A-,24
+S16,Undergraduate,BL ST     4,BATTLE J G,B+,15
+S16,Undergraduate,BL ST     4,BATTLE J G,B,9
+S16,Undergraduate,BL ST     4,BATTLE J G,C+,1
+S16,Undergraduate,BL ST     4,BATTLE J G,F,1
+S16,Undergraduate,BL ST     5,MCAULEY C,A+,9
+S16,Undergraduate,BL ST     5,MCAULEY C,A,25
+S16,Undergraduate,BL ST     5,MCAULEY C,A-,24
+S16,Undergraduate,BL ST     5,MCAULEY C,B+,17
+S16,Undergraduate,BL ST     5,MCAULEY C,B,20
+S16,Undergraduate,BL ST     5,MCAULEY C,B-,7
+S16,Undergraduate,BL ST     5,MCAULEY C,C+,3
+S16,Undergraduate,BL ST     5,MCAULEY C,C,4
+S16,Undergraduate,BL ST     5,MCAULEY C,C-,1
+S16,Undergraduate,BL ST     5,MCAULEY C,F,3
+S16,Undergraduate,BL ST     7,STRONGMAN R D,A+,4
+S16,Undergraduate,BL ST     7,STRONGMAN R D,A,10
+S16,Undergraduate,BL ST     7,STRONGMAN R D,A-,9
+S16,Undergraduate,BL ST     7,STRONGMAN R D,B+,4
+S16,Undergraduate,BL ST     7,STRONGMAN R D,B,9
+S16,Undergraduate,BL ST     7,STRONGMAN R D,B-,5
+S16,Undergraduate,BL ST     7,STRONGMAN R D,C+,3
+S16,Undergraduate,BL ST     7,STRONGMAN R D,C,1
+S16,Undergraduate,BL ST     7,STRONGMAN R D,C-,2
+S16,Undergraduate,BL ST     7,STRONGMAN R D,D+,1
+S16,Undergraduate,BL ST   104,MCAULEY C,A+,3
+S16,Undergraduate,BL ST   104,MCAULEY C,A,6
+S16,Undergraduate,BL ST   104,MCAULEY C,A-,6
+S16,Undergraduate,BL ST   104,MCAULEY C,B+,6
+S16,Undergraduate,BL ST   104,MCAULEY C,B,10
+S16,Undergraduate,BL ST   104,MCAULEY C,B-,15
+S16,Undergraduate,BL ST   104,MCAULEY C,C-,3
+S16,Undergraduate,BL ST   104,MCAULEY C,F,1
+S16,Undergraduate,BL ST   136,RANDOLPH S M,A,9
+S16,Undergraduate,BL ST   136,RANDOLPH S M,A-,3
+S16,Undergraduate,BL ST   136,RANDOLPH S M,B+,5
+S16,Undergraduate,BL ST   136,RANDOLPH S M,B,3
+S16,Undergraduate,BL ST   136,RANDOLPH S M,B-,1
+S16,Undergraduate,BL ST   136,RANDOLPH S M,C+,3
+S16,Undergraduate,BL ST   136,RANDOLPH S M,C,1
+S16,Undergraduate,BL ST   136,RANDOLPH S M,D+,1
+S16,Undergraduate,BL ST   136,RANDOLPH S M,F,1
+S16,Undergraduate,BL ST   152,STEWART E L,A+,14
+S16,Undergraduate,BL ST   152,STEWART E L,A,16
+S16,Undergraduate,BL ST   152,STEWART E L,A-,12
+S16,Undergraduate,BL ST   152,STEWART E L,B+,3
+S16,Undergraduate,BL ST   152,STEWART E L,B,10
+S16,Undergraduate,BL ST   152,STEWART E L,B-,5
+S16,Undergraduate,BL ST   152,STEWART E L,C+,2
+S16,Undergraduate,BL ST   152,STEWART E L,C,3
+S16,Undergraduate,BL ST   152,STEWART E L,D+,1
+S16,Undergraduate,BL ST   152,STEWART E L,D,2
+S16,Undergraduate,BL ST   154,WHITE M C,A+,6
+S16,Undergraduate,BL ST   154,WHITE M C,A,28
+S16,Undergraduate,BL ST   154,WHITE M C,A-,12
+S16,Undergraduate,BL ST   154,WHITE M C,B+,7
+S16,Undergraduate,BL ST   154,WHITE M C,B,3
+S16,Undergraduate,BL ST   154,WHITE M C,B-,1
+S16,Undergraduate,BL ST   154,WHITE M C,C+,1
+S16,Undergraduate,BL ST   179,STEWART J C,A+,4
+S16,Undergraduate,BL ST   179,STEWART J C,A,11
+S16,Undergraduate,BL ST   179,STEWART J C,A-,8
+S16,Undergraduate,BL ST   179,STEWART J C,B+,15
+S16,Undergraduate,BL ST   179,STEWART J C,B,7
+S16,Undergraduate,BL ST   179,STEWART J C,B-,1
+S16,Undergraduate,BL ST   179,STEWART J C,C+,1
+S16,Undergraduate,BL ST   179,STEWART J C,C,1
+S16,Undergraduate,BL ST   179,STEWART J C,C-,1
+S16,Undergraduate,BL ST   179,STEWART J C,D+,1
+S16,Undergraduate,BL ST   179,STEWART J C,F,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,A,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,A-,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,B+,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,B-,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,C+,1
+S16,Undergraduate,BL ST   190,RANDOLPH S M,F,1
+S16,Undergraduate,BL ST   191DS,ESCALLON M F,A+,1
+S16,Undergraduate,BL ST   191DS,ESCALLON M F,A,6
+S16,Undergraduate,BL ST   191DS,ESCALLON M F,A-,3
+S16,Undergraduate,BL ST   193AD,STRONGMAN R D,A+,3
+S16,Undergraduate,BL ST   193AD,STRONGMAN R D,A,3
+S16,Undergraduate,BL ST   193GS,AKUDINOBI J,A,5
+S16,Undergraduate,BL ST   193GS,AKUDINOBI J,B+,1
+S16,Undergraduate,BL ST   193ST,BATTLE J G,A,3
+S16,Undergraduate,BL ST   193ST,BATTLE J G,B+,1
+S16,Undergraduate,BL ST   193ST,BATTLE J G,B,2
+S16,Undergraduate,BL ST   193ST,BATTLE J G,B-,1
+S16,Undergraduate,BL ST   195C,STEWART J C,A+,1
+S16,Undergraduate,BL ST   195C,STEWART J C,A,5

@@ -1,0 +1,493 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S19,Undergraduate,MUS       1,MARCUS S L,P,44
+S19,Undergraduate,MUS       1,MARCUS S L,NP,1
+S19,Undergraduate,MUS       1,MCBRIEN K M,P,44
+S19,Undergraduate,MUS       1,MCBRIEN K M,NP,1
+S19,Undergraduate,MUS       3C,MARCUS S L,A+,5
+S19,Undergraduate,MUS       3C,MARCUS S L,A,8
+S19,Undergraduate,MUS       3C,MARCUS S L,A-,5
+S19,Undergraduate,MUS       3C,MARCUS S L,B+,3
+S19,Undergraduate,MUS       3C,MARCUS S L,B,1
+S19,Undergraduate,MUS       3C,MARCUS S L,B-,3
+S19,Undergraduate,MUS       3C,MARCUS S L,C+,1
+S19,Undergraduate,MUS       3C,MARCUS S L,C,2
+S19,Undergraduate,MUS       4C,HOCK M A,A+,1
+S19,Undergraduate,MUS       4C,HOCK M A,A,2
+S19,Undergraduate,MUS       4C,HOCK M A,A-,3
+S19,Undergraduate,MUS       4C,LEVY B R,A+,2
+S19,Undergraduate,MUS       4C,LEVY B R,A,11
+S19,Undergraduate,MUS       4C,LEVY B R,A-,8
+S19,Undergraduate,MUS       4C,LEVY B R,B+,1
+S19,Undergraduate,MUS       4C,LEVY B R,C-,1
+S19,Undergraduate,MUS       4C,LEVY B R,D+,1
+S19,Undergraduate,MUS       4C,MURNANE E H,A,4
+S19,Undergraduate,MUS       4C,MURNANE E H,A-,5
+S19,Undergraduate,MUS       4C,MURNANE E H,B+,1
+S19,Undergraduate,MUS       4C,MURNANE E H,D+,1
+S19,Undergraduate,MUS       4C,THOMPSON B L,A+,1
+S19,Undergraduate,MUS       4C,THOMPSON B L,A,5
+S19,Undergraduate,MUS       4C,THOMPSON B L,C-,1
+S19,Undergraduate,MUS       4F,HOCK M A,A,2
+S19,Undergraduate,MUS       4F,HOCK M A,A-,1
+S19,Undergraduate,MUS       4F,HOCK M A,B+,1
+S19,Undergraduate,MUS       4F,LEVY B R,A+,1
+S19,Undergraduate,MUS       4F,LEVY B R,A,5
+S19,Undergraduate,MUS       4F,LEVY B R,A-,2
+S19,Undergraduate,MUS       4F,LEVY B R,B+,1
+S19,Undergraduate,MUS       4F,LEVY B R,B,2
+S19,Undergraduate,MUS       4F,LEVY B R,C+,1
+S19,Undergraduate,MUS       4F,MURNANE E H,A+,1
+S19,Undergraduate,MUS       4F,MURNANE E H,A,3
+S19,Undergraduate,MUS       4F,MURNANE E H,A-,1
+S19,Undergraduate,MUS       4F,THOMPSON B L,B,2
+S19,Undergraduate,MUS       4F,THOMPSON B L,C+,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,A+,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,A,9
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,A-,7
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,B+,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,B,6
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,B-,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,C+,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,C-,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,D,1
+S19,Undergraduate,MUS       5C,JURKOWSKI N W,F,1
+S19,Undergraduate,MUS       8,EVANS M P,A+,3
+S19,Undergraduate,MUS       8,EVANS M P,A,5
+S19,Undergraduate,MUS       8,EVANS M P,A-,2
+S19,Undergraduate,MUS       8,EVANS M P,B+,1
+S19,Undergraduate,MUS       8,EVANS M P,F,1
+S19,Undergraduate,MUS      10C,KATZ D H,A,9
+S19,Undergraduate,MUS      10C,KATZ D H,A-,4
+S19,Undergraduate,MUS      10C,KATZ D H,B+,6
+S19,Undergraduate,MUS      10C,KATZ D H,B,3
+S19,Undergraduate,MUS      10C,KATZ D H,B-,2
+S19,Undergraduate,MUS      10C,KATZ D H,C+,2
+S19,Undergraduate,MUS      10C,KATZ D H,C,2
+S19,Undergraduate,MUS      10C,KATZ D H,F,1
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,A+,48
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,A,75
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,A-,8
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,B+,15
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,B,6
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,B-,1
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,C+,2
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,C,5
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,C-,2
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,D+,1
+S19,Undergraduate,MUS      11,ZIGTERMAN K L,F,1
+S19,Undergraduate,MUS      15,O'CONNELL B A,A,188
+S19,Undergraduate,MUS      15,O'CONNELL B A,A-,95
+S19,Undergraduate,MUS      15,O'CONNELL B A,B+,48
+S19,Undergraduate,MUS      15,O'CONNELL B A,B,43
+S19,Undergraduate,MUS      15,O'CONNELL B A,B-,17
+S19,Undergraduate,MUS      15,O'CONNELL B A,C+,11
+S19,Undergraduate,MUS      15,O'CONNELL B A,C,14
+S19,Undergraduate,MUS      15,O'CONNELL B A,C-,3
+S19,Undergraduate,MUS      15,O'CONNELL B A,D+,1
+S19,Undergraduate,MUS      15,O'CONNELL B A,D,3
+S19,Undergraduate,MUS      15,O'CONNELL B A,F,14
+S19,Undergraduate,MUS      17,CHOI STEPH,A+,7
+S19,Undergraduate,MUS      17,CHOI STEPH,A,49
+S19,Undergraduate,MUS      17,CHOI STEPH,A-,20
+S19,Undergraduate,MUS      17,CHOI STEPH,B+,9
+S19,Undergraduate,MUS      17,CHOI STEPH,B,13
+S19,Undergraduate,MUS      17,CHOI STEPH,B-,10
+S19,Undergraduate,MUS      17,CHOI STEPH,C+,5
+S19,Undergraduate,MUS      17,CHOI STEPH,C,5
+S19,Undergraduate,MUS      17,CHOI STEPH,C-,2
+S19,Undergraduate,MUS      17,CHOI STEPH,D,4
+S19,Undergraduate,MUS      17,CHOI STEPH,F,6
+S19,Undergraduate,MUS      20A,BRECHER B H,A+,5
+S19,Undergraduate,MUS      20A,BRECHER B H,A,5
+S19,Undergraduate,MUS      20A,BRECHER B H,A-,7
+S19,Undergraduate,MUS      20A,BRECHER B H,B+,2
+S19,Undergraduate,MUS      20A,BRECHER B H,C+,1
+S19,Undergraduate,MUS      20A,BRECHER B H,F,1
+S19,Undergraduate,MUS      20A,MAYES B J,A+,5
+S19,Undergraduate,MUS      20A,MAYES B J,A,5
+S19,Undergraduate,MUS      20A,MAYES B J,A-,7
+S19,Undergraduate,MUS      20A,MAYES B J,B+,2
+S19,Undergraduate,MUS      20A,MAYES B J,C+,1
+S19,Undergraduate,MUS      20A,MAYES B J,F,1
+S19,Undergraduate,MUS      20B,BRECHER B H,A+,5
+S19,Undergraduate,MUS      20B,BRECHER B H,A,2
+S19,Undergraduate,MUS      20B,BRECHER B H,A-,3
+S19,Undergraduate,MUS      20B,NEWBERRY K S,A+,5
+S19,Undergraduate,MUS      20B,NEWBERRY K S,A,2
+S19,Undergraduate,MUS      20B,NEWBERRY K S,A-,3
+S19,Undergraduate,MUS      20C,BRECHER B H,A+,10
+S19,Undergraduate,MUS      20C,BRECHER B H,A,3
+S19,Undergraduate,MUS      20C,BRECHER B H,A-,1
+S19,Undergraduate,MUS      20C,BRECHER B H,B+,1
+S19,Undergraduate,MUS      20C,MERER N H,A+,10
+S19,Undergraduate,MUS      20C,MERER N H,A,3
+S19,Undergraduate,MUS      20C,MERER N H,A-,1
+S19,Undergraduate,MUS      20C,MERER N H,B+,1
+S19,Undergraduate,MUS      22D,OSQUEEZADEH B,A-,1
+S19,Undergraduate,MUS      22D,OSQUEEZADEH B,B-,3
+S19,Undergraduate,MUS      22M,MARCUS S L,A,1
+S19,Undergraduate,MUS      22N,MARCUS S L,A,4
+S19,Undergraduate,MUS      22O,GRIPPO J R,A,4
+S19,Undergraduate,MUS      22P,RUDNICKI S,A,13
+S19,Undergraduate,MUS      24,ARAI W A,A,3
+S19,Undergraduate,MUS      25,BAYRAKDARIAN,A,1
+S19,Undergraduate,MUS      25,BAYRAKDARIAN,A-,1
+S19,Undergraduate,MUS      25,BRECHER B H,A+,2
+S19,Undergraduate,MUS      25,BRECHER B H,A,2
+S19,Undergraduate,MUS      26A,GARBER N A,A+,1
+S19,Undergraduate,MUS      26B,KLOETZEL J M,A,7
+S19,Undergraduate,MUS      26B,ORME-STONE C,A,7
+S19,Undergraduate,MUS      26D,MOERSCHEL J A,A,2
+S19,Undergraduate,MUS      26D,MOERSCHEL J A,A-,1
+S19,Undergraduate,MUS      26E,TORGUL E,A+,1
+S19,Undergraduate,MUS      26E,TORGUL E,A,3
+S19,Undergraduate,MUS      27A,RADFORD A,A,2
+S19,Undergraduate,MUS      27B,BAMBACH P A,A,6
+S19,Undergraduate,MUS      27C,FELBER J,A,3
+S19,Undergraduate,MUS      27D,CASTRIOTTA G,A,4
+S19,Undergraduate,MUS      28B,BOOTH W C,A,2
+S19,Undergraduate,MUS      28C,MCKINNEY D R,A,3
+S19,Undergraduate,MUS      29,NATHAN J S,A,4
+S19,Undergraduate,MUS      31C,KISLENKO N,A+,4
+S19,Undergraduate,MUS      31C,KISLENKO N,A,21
+S19,Undergraduate,MUS      31C,KISLENKO N,A-,8
+S19,Undergraduate,MUS      31C,KISLENKO N,F,1
+S19,Undergraduate,MUS      31C,PERSOLJA P,A,11
+S19,Undergraduate,MUS      31C,YU P,A+,4
+S19,Undergraduate,MUS      31C,YU P,A,10
+S19,Undergraduate,MUS      31C,YU P,A-,8
+S19,Undergraduate,MUS      31C,YU P,F,1
+S19,Undergraduate,MUS      31X,KISLENKO N,A+,3
+S19,Undergraduate,MUS      31X,KISLENKO N,A,14
+S19,Undergraduate,MUS      31X,PERSOLJA P,A+,1
+S19,Undergraduate,MUS      31X,PERSOLJA P,A,10
+S19,Undergraduate,MUS      31X,YU P,A+,2
+S19,Undergraduate,MUS      31X,YU P,A,4
+S19,Undergraduate,MUS      32C,KISLENKO N,A+,1
+S19,Undergraduate,MUS      32C,KISLENKO N,A,2
+S19,Undergraduate,MUS      33,ASCHE C B,A,1
+S19,Undergraduate,MUS      33,ASCHE C B,A-,1
+S19,Undergraduate,MUS      33,BERKOWITZ P M,A,1
+S19,Undergraduate,MUS      33,BERKOWITZ P M,A-,2
+S19,Undergraduate,MUS      33,KISLENKO N,A+,1
+S19,Undergraduate,MUS      51,BALLERINO J M,A,6
+S19,Undergraduate,MUS      52,CHEN CHING,A,4
+S19,Undergraduate,MUS      52,EBEN J P,A,2
+S19,Undergraduate,MUS      52,KOENIG R J,A,6
+S19,Undergraduate,MUS      88,EVANS M P,A+,2
+S19,Undergraduate,MUS      88,EVANS M P,A,4
+S19,Undergraduate,MUS      88,EVANS M P,A-,1
+S19,Undergraduate,MUS      88,EVANS M P,B+,1
+S19,Undergraduate,MUS      99,BOURNE J E,A,4
+S19,Undergraduate,MUS     101C,HALADYNA J J,A,3
+S19,Undergraduate,MUS     101C,HALADYNA J J,A-,5
+S19,Undergraduate,MUS     101C,HALADYNA J J,B+,1
+S19,Undergraduate,MUS     101C,HALADYNA J J,B,3
+S19,Undergraduate,MUS     101C,HALADYNA J J,C-,1
+S19,Undergraduate,MUS     108,THOLL A A,A,4
+S19,Undergraduate,MUS     109IA,KUCHERA-MORIN,A,7
+S19,Undergraduate,MUS     109LC,DUPLESSIS R J,A,8
+S19,Undergraduate,MUS     109LC,ROADS C,A,8
+S19,Undergraduate,MUS     114,CONTE E A,A+,3
+S19,Undergraduate,MUS     114,CONTE E A,A,23
+S19,Undergraduate,MUS     114,CONTE E A,A-,20
+S19,Undergraduate,MUS     114,CONTE E A,B+,16
+S19,Undergraduate,MUS     114,CONTE E A,B,20
+S19,Undergraduate,MUS     114,CONTE E A,B-,12
+S19,Undergraduate,MUS     114,CONTE E A,C+,6
+S19,Undergraduate,MUS     114,CONTE E A,C,8
+S19,Undergraduate,MUS     114,CONTE E A,C-,4
+S19,Undergraduate,MUS     114,CONTE E A,D,1
+S19,Undergraduate,MUS     114,CONTE E A,D-,1
+S19,Undergraduate,MUS     117,BOURNE J E,A+,13
+S19,Undergraduate,MUS     117,BOURNE J E,A,7
+S19,Undergraduate,MUS     117,BOURNE J E,A-,3
+S19,Undergraduate,MUS     117,BOURNE J E,B+,3
+S19,Undergraduate,MUS     117,BOURNE J E,B,2
+S19,Undergraduate,MUS     117,BOURNE J E,B-,3
+S19,Undergraduate,MUS     117,BOURNE J E,C+,2
+S19,Undergraduate,MUS     117,BOURNE J E,C,1
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,A,3
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,A-,1
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,B+,2
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,B,2
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,C,1
+S19,Undergraduate,MUS     120B,NEWMAN-LESSLE,F,1
+S19,Undergraduate,MUS     122D,OSQUEEZADEH B,A+,2
+S19,Undergraduate,MUS     122D,OSQUEEZADEH B,A,2
+S19,Undergraduate,MUS     122D,OSQUEEZADEH B,B+,1
+S19,Undergraduate,MUS     122N,MARCUS S L,A,6
+S19,Undergraduate,MUS     122N,MARCUS S L,B,1
+S19,Undergraduate,MUS     122N,MARCUS S L,F,1
+S19,Undergraduate,MUS     122O,GRIPPO J R,A,10
+S19,Undergraduate,MUS     122P,RUDNICKI S,A+,1
+S19,Undergraduate,MUS     122P,RUDNICKI S,A,14
+S19,Undergraduate,MUS     122P,RUDNICKI S,B,1
+S19,Undergraduate,MUS     125,BAYRAKDARIAN,A+,1
+S19,Undergraduate,MUS     125,BAYRAKDARIAN,A,1
+S19,Undergraduate,MUS     125,BRECHER B H,A-,1
+S19,Undergraduate,MUS     125,DI FIORE L L,A,1
+S19,Undergraduate,MUS     126B,KLOETZEL J M,A,3
+S19,Undergraduate,MUS     126B,KLOETZEL J M,A-,1
+S19,Undergraduate,MUS     126D,MOERSCHEL J A,A,1
+S19,Undergraduate,MUS     127A,RADFORD A,A,1
+S19,Undergraduate,MUS     127B,BAMBACH P A,A,1
+S19,Undergraduate,MUS     127C,FELBER J,A,3
+S19,Undergraduate,MUS     127D,CASTRIOTTA G,A,2
+S19,Undergraduate,MUS     128B,BOOTH W C,A,2
+S19,Undergraduate,MUS     133,ASCHE C B,A+,2
+S19,Undergraduate,MUS     133,ASCHE C B,A,4
+S19,Undergraduate,MUS     133,ASCHE C B,A-,1
+S19,Undergraduate,MUS     133,BERKOWITZ P M,A,1
+S19,Undergraduate,MUS     150,BALLERINO J M,A,7
+S19,Undergraduate,MUS     150,BALLERINO J M,A-,1
+S19,Undergraduate,MUS     151,BALLERINO J M,A,2
+S19,Undergraduate,MUS     151,KISLENKO N,A+,1
+S19,Undergraduate,MUS     151,KISLENKO N,A,4
+S19,Undergraduate,MUS     151,KISLENKO N,A-,1
+S19,Undergraduate,MUS     152,CHEN CHING,A,1
+S19,Undergraduate,MUS     152,EBEN J P,A,2
+S19,Undergraduate,MUS     152,KOENIG R J,A,6
+S19,Undergraduate,MUS     152,YU P,A,3
+S19,Undergraduate,MUS     160C,ROTHFARB L A,A+,1
+S19,Undergraduate,MUS     160C,ROTHFARB L A,A,3
+S19,Undergraduate,MUS     160C,ROTHFARB L A,B+,1
+S19,Undergraduate,MUS     160C,ROTHFARB L A,B,2
+S19,Undergraduate,MUS     160C,ROTHFARB L A,C-,1
+S19,Undergraduate,MUS     160C,ROTHFARB L A,F,1
+S19,Undergraduate,MUS     168P,HELLIER-TINOC,A+,3
+S19,Undergraduate,MUS     184,KATZ D H,A,10
+S19,Undergraduate,MUS     184,KATZ D H,A-,6
+S19,Undergraduate,MUS     184,KATZ D H,B+,2
+S19,Undergraduate,MUS     184,KATZ D H,C,1
+S19,Undergraduate,MUS     188,NOVAK D E,P,4
+S19,Undergraduate,MUS     192A,COOLEY T,A+,1
+S19,Undergraduate,MUS     192A,HELLIER-TINOC,A,1
+S19,Undergraduate,MUS     192A,LEVY B R,A,1
+S19,Undergraduate,MUS     192B,BAMBACH P A,A,1
+S19,Undergraduate,MUS     192B,HELLIER-TINOC,F,1
+S19,Undergraduate,MUS     192B,NOVAK D E,A,1
+S19,Undergraduate,MUS     192C,ASCHE C B,A,1
+S19,Undergraduate,MUS     192C,BAMBACH P A,A,1
+S19,Undergraduate,MUS     192C,BOURNE J E,A,1
+S19,Undergraduate,MUS     192C,CASTRIOTTA G,A,1
+S19,Undergraduate,MUS     192C,COOLEY T,A-,1
+S19,Undergraduate,MUS     192C,LEVY B R,A,1
+S19,Undergraduate,MUS     192C,MARCUS S L,A,1
+S19,Undergraduate,MUS     192C,NATHAN J S,A,1
+S19,Undergraduate,MUS     192C,NORTH R H,A+,1
+S19,Undergraduate,MUS     192C,NOVAK D E,A,1
+S19,Undergraduate,MUS     192C,NOVAK D E,B,1
+S19,Undergraduate,MUS     192C,RADFORD A,A,1
+S19,Undergraduate,MUS     192C,ROADS C,A,1
+S19,Undergraduate,MUS     195,KLOETZEL J M,A,1
+S19,Undergraduate,MUS     197,CASTRIOTTA G,A,1
+S19,Undergraduate,MUS     197,FELBER J,A,1
+S19,Undergraduate,MUS     197,KLOETZEL J M,A,2
+S19,Undergraduate,MUS     199,BALLERINO J M,A-,1
+S19,Undergraduate,MUS     199,BERKOWITZ P M,A,1
+S19,Undergraduate,MUS     199,BOURNE J E,A,5
+S19,Undergraduate,MUS     199,FELBER J,A,1
+S19,Undergraduate,MUS     199,HELLIER-TINOC,F,1
+S19,Undergraduate,MUS     199,TORGUL E,A,1
+S19,Undergraduate,MUS     199RA,BAYRAKDARIAN,A+,1
+S19,Undergraduate,MUS     199RA,BOURNE J E,A,2
+S19,Undergraduate,MUS     199RA,COOLEY T,A,1
+S19,Undergraduate,MUS     199RA,FELBER J,A,1
+S19,Undergraduate,MUS     199RA,HELLIER-TINOC,A+,1
+S19,Undergraduate,MUS     199RA,HELLIER-TINOC,A,1
+S19,Graduate,MUS     203MT,TCHAROS S S,S,10
+S19,Graduate,MUS     208,BARLOW C F,A,4
+S19,Graduate,MUS     208,ROADS C,A,1
+S19,Graduate,MUS     208,THOLL A A,A,4
+S19,Graduate,MUS     209LC,ROADS C,A,2
+S19,Graduate,MUS     210B,BARLOW C F,A,2
+S19,Graduate,MUS     211B,BARLOW C F,A+,2
+S19,Graduate,MUS     211B,BARLOW C F,A,2
+S19,Graduate,MUS     212B,THOLL A A,A,1
+S19,Graduate,MUS     219,ASCHE C B,A+,1
+S19,Graduate,MUS     219,ASCHE C B,A,1
+S19,Graduate,MUS     219,BAMBACH P A,A,1
+S19,Graduate,MUS     219,BAYRAKDARIAN,A+,1
+S19,Graduate,MUS     219,BERKOWITZ P M,A-,1
+S19,Graduate,MUS     219,BRECHER B H,A+,1
+S19,Graduate,MUS     219,KLOETZEL J M,A,2
+S19,Graduate,MUS     219,MOERSCHEL J A,A,1
+S19,Graduate,MUS     219,TORGUL E,A,1
+S19,Graduate,MUS     220,ASCHE C B,A+,1
+S19,Graduate,MUS     220,ASCHE C B,A,1
+S19,Graduate,MUS     220,BAMBACH P A,A,1
+S19,Graduate,MUS     220,BAYRAKDARIAN,A+,1
+S19,Graduate,MUS     220,BERKOWITZ P M,A,1
+S19,Graduate,MUS     220,BERKOWITZ P M,A-,1
+S19,Graduate,MUS     220,DI FIORE L L,A+,1
+S19,Graduate,MUS     220,DI FIORE L L,A,4
+S19,Graduate,MUS     220,DI FIORE L L,A-,1
+S19,Graduate,MUS     220,KLOETZEL J M,A,2
+S19,Graduate,MUS     220,KOENIG R J,A,2
+S19,Graduate,MUS     220,MOERSCHEL J A,A,1
+S19,Graduate,MUS     220,TORGUL E,A,2
+S19,Graduate,MUS     222X,MARCUS S L,A,1
+S19,Graduate,MUS     227,COOLEY T,A+,2
+S19,Graduate,MUS     227,COOLEY T,A,5
+S19,Graduate,MUS     231,NEWMAN-LESSLE,A,1
+S19,Graduate,MUS     250A,LEVY B R,A,2
+S19,Graduate,MUS     256,BALLERINO J M,A,7
+S19,Graduate,MUS     256,KISLENKO N,A,4
+S19,Graduate,MUS     258,BALLERINO J M,A,3
+S19,Graduate,MUS     258,BALLERINO J M,A-,1
+S19,Graduate,MUS     284,KATZ D H,A,2
+S19,Graduate,MUS     284,KATZ D H,A-,2
+S19,Graduate,MUS     288,NOVAK D E,S,9
+S19,Graduate,MUS     295A,BAMBACH P A,A,1
+S19,Graduate,MUS     295A,DI FIORE L L,A,1
+S19,Graduate,MUS     295A,KLOETZEL J M,A,1
+S19,Graduate,MUS     295A,TORGUL E,A,1
+S19,Graduate,MUS     295B,TORGUL E,A,1
+S19,Graduate,MUS     296B,KLOETZEL J M,A,5
+S19,Graduate,MUS     296B,KLOETZEL J M,B,1
+S19,Graduate,MUS     297A,ASCHE C B,A+,1
+S19,Graduate,MUS     297A,MOERSCHEL J A,A,1
+S19,Graduate,MUS     297B,BERKOWITZ P M,A,1
+S19,Graduate,MUS     297B,DI FIORE L L,A,1
+S19,Graduate,MUS     297B,KLOETZEL J M,A,1
+S19,Graduate,MUS     299A,KATZ D H,A,3
+S19,Graduate,MUS     299A,PAUL D C,A,1
+S19,Graduate,MUS     502,BAMBACH P A,S,1
+S19,Graduate,MUS     502,BARLOW C F,S,1
+S19,Graduate,MUS     502,BOURNE J E,S,1
+S19,Graduate,MUS     502,BRECHER B H,S,4
+S19,Graduate,MUS     502,COOLEY T,S,3
+S19,Graduate,MUS     502,KATZ D H,S,7
+S19,Graduate,MUS     502,KISLENKO N,S,2
+S19,Graduate,MUS     502,KLOETZEL J M,S,1
+S19,Graduate,MUS     502,KOENIG R J,S,2
+S19,Graduate,MUS     502,KUZIN M,S,1
+S19,Graduate,MUS     502,LEVY B R,S,3
+S19,Graduate,MUS     502,MARCUS S L,S,4
+S19,Graduate,MUS     502,ROADS C,S,1
+S19,Graduate,MUS     502,ROTHFARB L A,S,4
+S19,Graduate,MUS     593,NOVAK D E,S,2
+S19,Graduate,MUS     594A,SPRIGGE M A,A,3
+S19,Graduate,MUS     596,ASCHE C B,A,2
+S19,Graduate,MUS     596,COOLEY T,A+,1
+S19,Graduate,MUS     596,LEVY B R,A,2
+S19,Graduate,MUS     596,ROTHFARB L A,B+,1
+S19,Graduate,MUS     597,BARLOW C F,S,2
+S19,Graduate,MUS     597,BERKOWITZ P M,S,1
+S19,Graduate,MUS     597,COOLEY T,S,1
+S19,Graduate,MUS     597,KATZ D H,S,1
+S19,Graduate,MUS     597,LEVY B R,S,1
+S19,Graduate,MUS     597,ROTHFARB L A,S,1
+S19,Graduate,MUS     597,SPRIGGE M A,S,1
+S19,Graduate,MUS     599A,BARLOW C F,S,2
+S19,Graduate,MUS     599A,COOLEY T,S,1
+S19,Graduate,MUS     599A,KATZ D H,S,1
+S19,Graduate,MUS     599A,LEVY B R,S,1
+S19,Graduate,MUS     599A,MARCUS S L,S,3
+S19,Graduate,MUS     599A,NOVAK D E,S,3
+S19,Graduate,MUS     599A,ROTHFARB L A,S,2
+S19,Graduate,MUS     599A,SPRIGGE M A,S,1
+S19,Graduate,MUS     599A,TCHAROS S S,S,2
+S19,Graduate,MUS     599C,DI FIORE L L,S,1
+S19,Undergraduate,MUS  CS 101,HALADYNA J J,P,8
+S19,Undergraduate,MUS  CS 101,HOGAN L A,P,9
+S19,Undergraduate,MUS  CS 105,BARLOW C F,P,2
+S19,Undergraduate,MUS  CS 105,HALADYNA J J,P,4
+S19,Undergraduate,MUS  CS 105,HOGAN L A,P,5
+S19,Undergraduate,MUS  CS 105,ROLLE B J,P,16
+S19,Undergraduate,MUS A    34,BAMBACH P A,A,18
+S19,Undergraduate,MUS A    34,ENOCH M,A,18
+S19,Undergraduate,MUS A    36,NEWMAN-LESSLE,A,16
+S19,Undergraduate,MUS A    37,NEWMAN-LESSLE,A+,2
+S19,Undergraduate,MUS A    37,NEWMAN-LESSLE,A,22
+S19,Undergraduate,MUS A    37,REECE T M,A+,2
+S19,Undergraduate,MUS A    37,REECE T M,A,22
+S19,Undergraduate,MUS A    40,HALADYNA J J,A,1
+S19,Undergraduate,MUS A    41,ASCHE C B,A,1
+S19,Undergraduate,MUS A    41,BERKOWITZ P M,A,2
+S19,Undergraduate,MUS A    42,KUZIN M,A,14
+S19,Undergraduate,MUS A    43,FELBER J,A,3
+S19,Undergraduate,MUS A    44,ASCHE C B,A,1
+S19,Undergraduate,MUS A    44,BAMBACH P A,A,1
+S19,Undergraduate,MUS A    44,FELBER J,A,1
+S19,Undergraduate,MUS A    44,KLOETZEL J M,A,2
+S19,Undergraduate,MUS A    44,KOENIG R J,A,2
+S19,Undergraduate,MUS A    44,MOERSCHEL J A,A,2
+S19,Undergraduate,MUS A    44,NATHAN J S,A,3
+S19,Undergraduate,MUS A    45BR,BOOTH W C,A,4
+S19,Undergraduate,MUS A    46,BAMBACH P A,A,3
+S19,Undergraduate,MUS A    46,BAMBACH P A,A-,1
+S19,Undergraduate,MUS A    47S,NATHAN J S,A+,4
+S19,Undergraduate,MUS A    47S,NATHAN J S,A,3
+S19,Undergraduate,MUS A    47S,NATHAN J S,F,1
+S19,Undergraduate,MUS A    49,NATHAN J S,A+,2
+S19,Undergraduate,MUS A    70I,MARCUS S L,A,2
+S19,Undergraduate,MUS A    70M,MARCUS S L,A,5
+S19,Undergraduate,MUS A    70M,MARCUS S L,F,1
+S19,Undergraduate,MUS A    70V,BELL V R,A+,7
+S19,Undergraduate,MUS A    70Z,HERNANDEZ A D,A+,5
+S19,Undergraduate,MUS A   134,BAMBACH P A,A,16
+S19,Undergraduate,MUS A   134,ENOCH M,A,16
+S19,Undergraduate,MUS A   136,NEWMAN-LESSLE,A,13
+S19,Undergraduate,MUS A   137,NEWMAN-LESSLE,A+,2
+S19,Undergraduate,MUS A   137,NEWMAN-LESSLE,A,10
+S19,Undergraduate,MUS A   137,REECE T M,A+,2
+S19,Undergraduate,MUS A   137,REECE T M,A,10
+S19,Undergraduate,MUS A   139,BAYRAKDARIAN,A+,1
+S19,Undergraduate,MUS A   139,BAYRAKDARIAN,A,1
+S19,Undergraduate,MUS A   139,BAYRAKDARIAN,B+,1
+S19,Undergraduate,MUS A   140,HALADYNA J J,A,7
+S19,Undergraduate,MUS A   142,KUZIN M,A+,1
+S19,Undergraduate,MUS A   142,KUZIN M,A,18
+S19,Undergraduate,MUS A   142,YZEIRI B,A+,1
+S19,Undergraduate,MUS A   142,YZEIRI B,A,18
+S19,Undergraduate,MUS A   143,FELBER J,A,3
+S19,Undergraduate,MUS A   144,BAMBACH P A,A,5
+S19,Undergraduate,MUS A   144,FELBER J,A,4
+S19,Undergraduate,MUS A   144,KLOETZEL J M,A,1
+S19,Undergraduate,MUS A   144,KOENIG R J,A,2
+S19,Undergraduate,MUS A   144,MOERSCHEL J A,A,2
+S19,Undergraduate,MUS A   144,NATHAN J S,A+,1
+S19,Undergraduate,MUS A   145BR,BOOTH W C,A,4
+S19,Undergraduate,MUS A   147S,NATHAN J S,A+,5
+S19,Undergraduate,MUS A   147S,NATHAN J S,A,14
+S19,Undergraduate,MUS A   149,NATHAN J S,A+,5
+S19,Undergraduate,MUS A   149,NATHAN J S,A,1
+S19,Undergraduate,MUS A   170I,MARCUS S L,A,3
+S19,Undergraduate,MUS A   170J,NORTH R H,A+,3
+S19,Undergraduate,MUS A   170J,NORTH R H,A,5
+S19,Undergraduate,MUS A   170M,MARCUS S L,A,5
+S19,Undergraduate,MUS A   170V,BELL V R,A+,14
+S19,Graduate,MUS A   234,BAMBACH P A,A,2
+S19,Graduate,MUS A   236,NEWMAN-LESSLE,A,3
+S19,Graduate,MUS A   237,NEWMAN-LESSLE,A,4
+S19,Graduate,MUS A   237,REECE T M,A,4
+S19,Graduate,MUS A   239,BAYRAKDARIAN,A+,2
+S19,Graduate,MUS A   240,HALADYNA J J,A+,1
+S19,Graduate,MUS A   242,KUZIN M,A+,4
+S19,Graduate,MUS A   242,KUZIN M,A,1
+S19,Graduate,MUS A   242,KUZIN M,A-,1
+S19,Graduate,MUS A   243,FELBER J,A,1
+S19,Graduate,MUS A   244,ASCHE C B,A+,2
+S19,Graduate,MUS A   244,BAMBACH P A,A,3
+S19,Graduate,MUS A   244,KISLENKO N,A,1
+S19,Graduate,MUS A   244,KLOETZEL J M,A,1
+S19,Graduate,MUS A   244,KOENIG R J,A,3
+S19,Graduate,MUS A   244,NATHAN J S,F,1
+S19,Graduate,MUS A   244,TORGUL E,A,5
+S19,Graduate,MUS A   246,BAMBACH P A,A,2
+S19,Graduate,MUS A   247S,NATHAN J S,A+,3
+S19,Graduate,MUS A   270I,MARCUS S L,A,4
+S19,Graduate,MUS A   270J,NORTH R H,A+,1
+S19,Graduate,MUS A   270M,MARCUS S L,A,1
+S19,Graduate,MUS A   270N,MARCUS S L,A,1
+S19,Graduate,MUS A   270Z,HERNANDEZ A D,A+,1
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,A,1
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,A-,5
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,B+,4
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,B,5
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,B-,1
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,C,3
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,D,1
+S19,Undergraduate,SPAN      2,MUSSELMAN J R,F,3

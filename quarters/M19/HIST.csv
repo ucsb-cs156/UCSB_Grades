@@ -1,0 +1,167 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M19,Undergraduate,HIST      2C,STEPHENS C C,A+,7
+M19,Undergraduate,HIST      2C,STEPHENS C C,A,9
+M19,Undergraduate,HIST      2C,STEPHENS C C,A-,6
+M19,Undergraduate,HIST      2C,STEPHENS C C,B+,9
+M19,Undergraduate,HIST      2C,STEPHENS C C,B,17
+M19,Undergraduate,HIST      2C,STEPHENS C C,B-,12
+M19,Undergraduate,HIST      2C,STEPHENS C C,C+,5
+M19,Undergraduate,HIST      2C,STEPHENS C C,C,6
+M19,Undergraduate,HIST      2C,STEPHENS C C,D+,2
+M19,Undergraduate,HIST      2C,STEPHENS C C,D,1
+M19,Undergraduate,HIST      2C,STEPHENS C C,F,3
+M19,Undergraduate,HIST      4B,BOULEY B A,A,10
+M19,Undergraduate,HIST      4B,BOULEY B A,A-,11
+M19,Undergraduate,HIST      4B,BOULEY B A,B+,7
+M19,Undergraduate,HIST      4B,BOULEY B A,B,5
+M19,Undergraduate,HIST      4B,BOULEY B A,B-,2
+M19,Undergraduate,HIST      4B,BOULEY B A,C+,6
+M19,Undergraduate,HIST      4B,BOULEY B A,C-,1
+M19,Undergraduate,HIST      4B,BOULEY B A,D+,1
+M19,Undergraduate,HIST      4B,BOULEY B A,F,1
+M19,Undergraduate,HIST      4C,AKULOV D A,A+,5
+M19,Undergraduate,HIST      4C,AKULOV D A,A,12
+M19,Undergraduate,HIST      4C,AKULOV D A,A-,5
+M19,Undergraduate,HIST      4C,AKULOV D A,B+,5
+M19,Undergraduate,HIST      4C,AKULOV D A,B,5
+M19,Undergraduate,HIST      4C,AKULOV D A,B-,8
+M19,Undergraduate,HIST      4C,AKULOV D A,C+,9
+M19,Undergraduate,HIST      4C,AKULOV D A,C,10
+M19,Undergraduate,HIST      4C,AKULOV D A,C-,1
+M19,Undergraduate,HIST      4C,AKULOV D A,D+,2
+M19,Undergraduate,HIST      4C,AKULOV D A,D,1
+M19,Undergraduate,HIST      4C,AKULOV D A,D-,4
+M19,Undergraduate,HIST      4C,AKULOV D A,F,10
+M19,Undergraduate,HIST      8,BELTRAN F,A,3
+M19,Undergraduate,HIST      8,BELTRAN F,A-,3
+M19,Undergraduate,HIST      8,BELTRAN F,B+,2
+M19,Undergraduate,HIST      8,BELTRAN F,B,3
+M19,Undergraduate,HIST      8,BELTRAN F,B-,10
+M19,Undergraduate,HIST      8,BELTRAN F,C+,4
+M19,Undergraduate,HIST      8,BELTRAN F,C,5
+M19,Undergraduate,HIST      8,BELTRAN F,C-,1
+M19,Undergraduate,HIST      8,BELTRAN F,D+,1
+M19,Undergraduate,HIST      8,BELTRAN F,D,1
+M19,Undergraduate,HIST      8,BELTRAN F,D-,1
+M19,Undergraduate,HIST      8,BELTRAN F,F,3
+M19,Undergraduate,HIST     17B,WARDEN P M,A,7
+M19,Undergraduate,HIST     17B,WARDEN P M,A-,7
+M19,Undergraduate,HIST     17B,WARDEN P M,B+,10
+M19,Undergraduate,HIST     17B,WARDEN P M,B,11
+M19,Undergraduate,HIST     17B,WARDEN P M,B-,7
+M19,Undergraduate,HIST     17B,WARDEN P M,C+,2
+M19,Undergraduate,HIST     17B,WARDEN P M,C,4
+M19,Undergraduate,HIST     17B,WARDEN P M,C-,2
+M19,Undergraduate,HIST     17B,WARDEN P M,F,4
+M19,Undergraduate,HIST     17C,FENRICH E B,A+,1
+M19,Undergraduate,HIST     17C,FENRICH E B,A,6
+M19,Undergraduate,HIST     17C,FENRICH E B,A-,20
+M19,Undergraduate,HIST     17C,FENRICH E B,B+,20
+M19,Undergraduate,HIST     17C,FENRICH E B,B,21
+M19,Undergraduate,HIST     17C,FENRICH E B,B-,12
+M19,Undergraduate,HIST     17C,FENRICH E B,C+,1
+M19,Undergraduate,HIST     17C,FENRICH E B,C-,1
+M19,Undergraduate,HIST     17C,FENRICH E B,D,3
+M19,Undergraduate,HIST     17C,FENRICH E B,F,1
+M19,Undergraduate,HIST     46,MASSIE E K,A+,4
+M19,Undergraduate,HIST     46,MASSIE E K,A,10
+M19,Undergraduate,HIST     46,MASSIE E K,A-,2
+M19,Undergraduate,HIST     46,MASSIE E K,B+,3
+M19,Undergraduate,HIST     46,MASSIE E K,B-,2
+M19,Undergraduate,HIST     46,MASSIE E K,C+,2
+M19,Undergraduate,HIST     46,MASSIE E K,C,3
+M19,Undergraduate,HIST     46,MASSIE E K,C-,2
+M19,Undergraduate,HIST     46,MASSIE E K,D+,2
+M19,Undergraduate,HIST     46,MASSIE E K,F,5
+M19,Undergraduate,HIST    106R,WARDEN P M,A,2
+M19,Undergraduate,HIST    106R,WARDEN P M,A-,3
+M19,Undergraduate,HIST    106R,WARDEN P M,B+,6
+M19,Undergraduate,HIST    106R,WARDEN P M,B,1
+M19,Undergraduate,HIST    106R,WARDEN P M,F,2
+M19,Undergraduate,HIST    124B,JOHNSON JULIE,A+,4
+M19,Undergraduate,HIST    124B,JOHNSON JULIE,A,9
+M19,Undergraduate,HIST    124B,JOHNSON JULIE,A-,3
+M19,Undergraduate,HIST    124B,JOHNSON JULIE,B,1
+M19,Undergraduate,HIST    124B,JOHNSON JULIE,F,1
+M19,Undergraduate,HIST    135B,SALUSCHEV S,A,11
+M19,Undergraduate,HIST    135B,SALUSCHEV S,A-,2
+M19,Undergraduate,HIST    135B,SALUSCHEV S,B+,2
+M19,Undergraduate,HIST    135B,SALUSCHEV S,B,5
+M19,Undergraduate,HIST    135B,SALUSCHEV S,B-,3
+M19,Undergraduate,HIST    135B,SALUSCHEV S,C+,2
+M19,Undergraduate,HIST    135B,SALUSCHEV S,C,1
+M19,Undergraduate,HIST    140A,THOMPSON W K,A+,3
+M19,Undergraduate,HIST    140A,THOMPSON W K,A,6
+M19,Undergraduate,HIST    140A,THOMPSON W K,A-,3
+M19,Undergraduate,HIST    140A,THOMPSON W K,B+,3
+M19,Undergraduate,HIST    140A,THOMPSON W K,B,5
+M19,Undergraduate,HIST    140A,THOMPSON W K,B-,2
+M19,Undergraduate,HIST    140A,THOMPSON W K,C+,2
+M19,Undergraduate,HIST    140A,THOMPSON W K,C,1
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,A,2
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,A-,4
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,B+,5
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,B,2
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,B-,3
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,C+,1
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,D,1
+M19,Undergraduate,HIST    146,YUSUFJONOVA Z,F,3
+M19,Undergraduate,HIST    151C,TUMEN M E,A,11
+M19,Undergraduate,HIST    151C,TUMEN M E,B+,4
+M19,Undergraduate,HIST    151C,TUMEN M E,B,3
+M19,Undergraduate,HIST    151C,TUMEN M E,B-,2
+M19,Undergraduate,HIST    151C,TUMEN M E,C+,1
+M19,Undergraduate,HIST    151C,TUMEN M E,C,1
+M19,Undergraduate,HIST    159B,AQUINO M K,A,2
+M19,Undergraduate,HIST    159B,AQUINO M K,A-,7
+M19,Undergraduate,HIST    159B,AQUINO M K,B+,9
+M19,Undergraduate,HIST    159B,AQUINO M K,B,4
+M19,Undergraduate,HIST    159B,AQUINO M K,B-,2
+M19,Undergraduate,HIST    159B,AQUINO M K,C+,3
+M19,Undergraduate,HIST    159B,AQUINO M K,C-,1
+M19,Undergraduate,HIST    159B,AQUINO M K,F,1
+M19,Undergraduate,HIST    173T,MARTIN J A,A+,1
+M19,Undergraduate,HIST    173T,MARTIN J A,A-,4
+M19,Undergraduate,HIST    173T,MARTIN J A,B+,3
+M19,Undergraduate,HIST    173T,MARTIN J A,B,4
+M19,Undergraduate,HIST    173T,MARTIN J A,B-,4
+M19,Undergraduate,HIST    173T,MARTIN J A,C+,4
+M19,Undergraduate,HIST    173T,MARTIN J A,C,1
+M19,Undergraduate,HIST    173T,MARTIN J A,C-,1
+M19,Undergraduate,HIST    173T,MARTIN J A,D+,1
+M19,Undergraduate,HIST    173T,MARTIN J A,D,2
+M19,Undergraduate,HIST    173T,MARTIN J A,F,1
+M19,Undergraduate,HIST    177,GRAVES G R,A,5
+M19,Undergraduate,HIST    177,GRAVES G R,A-,6
+M19,Undergraduate,HIST    177,GRAVES G R,B+,7
+M19,Undergraduate,HIST    177,GRAVES G R,B,7
+M19,Undergraduate,HIST    177,GRAVES G R,B-,2
+M19,Undergraduate,HIST    177,GRAVES G R,C+,1
+M19,Undergraduate,HIST    177,GRAVES G R,C,1
+M19,Undergraduate,HIST    177,GRAVES G R,C-,2
+M19,Undergraduate,HIST    177,GRAVES G R,F,1
+M19,Undergraduate,HIST    192,CASE S H,A,2
+M19,Undergraduate,HIST    192,CASE S H,A-,3
+M19,Undergraduate,HIST    192,CASE S H,B,6
+M19,Undergraduate,HIST    192,CASE S H,B-,9
+M19,Undergraduate,HIST    192,CASE S H,C+,2
+M19,Undergraduate,HIST    192,CASE S H,D,1
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,A+,1
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,A,6
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,A-,13
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,B+,10
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,B,7
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,B-,4
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,C+,2
+M19,Undergraduate,HIST W    2A,BARBIERI-LOW,F,7
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,A+,4
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,A,26
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,A-,42
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,B+,25
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,B,27
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,B-,11
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,C+,11
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,C,2
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,C-,2
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,D+,2
+M19,Undergraduate,HIST W   80,BARBIERI-LOW,F,4

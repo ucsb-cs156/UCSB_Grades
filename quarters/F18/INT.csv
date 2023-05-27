@@ -1,0 +1,145 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F18,Undergraduate,INT       1,CALDWELL R C,P,21
+F18,Undergraduate,INT       1,COLMENAR G A,P,21
+F18,Undergraduate,INT       1,COLMENAR G A,NP,1
+F18,Undergraduate,INT       1,DUDA A L,P,16
+F18,Undergraduate,INT       1,DUDA A L,NP,1
+F18,Undergraduate,INT       1,HUBER C F,P,22
+F18,Undergraduate,INT       1,MOORE M M,P,21
+F18,Undergraduate,INT       1,MOORE M M,NP,3
+F18,Undergraduate,INT       1,SUNDSTROM P E,P,19
+F18,Undergraduate,INT       5,KHARITONOVA Y,A,39
+F18,Undergraduate,INT       5,KHARITONOVA Y,A-,7
+F18,Undergraduate,INT       5,KHARITONOVA Y,B+,6
+F18,Undergraduate,INT       5,KHARITONOVA Y,B,6
+F18,Undergraduate,INT       5,KHARITONOVA Y,B-,1
+F18,Undergraduate,INT       5,KHARITONOVA Y,C+,1
+F18,Undergraduate,INT       5,KHARITONOVA Y,C,3
+F18,Undergraduate,INT       5,KHARITONOVA Y,D-,2
+F18,Undergraduate,INT       5,KHARITONOVA Y,F,1
+F18,Undergraduate,INT      80TH,NOVAK M J,A+,2
+F18,Undergraduate,INT      80TH,NOVAK M J,A,5
+F18,Undergraduate,INT      80TH,NOVAK M J,A-,11
+F18,Undergraduate,INT      80TH,NOVAK M J,B+,1
+F18,Undergraduate,INT      80TH,NOVAK M J,B,5
+F18,Undergraduate,INT      80TH,NOVAK M J,B-,1
+F18,Undergraduate,INT      80TH,NOVAK M J,C+,2
+F18,Undergraduate,INT      80TH,NOVAK M J,C,3
+F18,Undergraduate,INT      80TH,NOVAK M J,C-,3
+F18,Undergraduate,INT      80TH,NOVAK M J,D+,1
+F18,Undergraduate,INT      80TH,NOVAK M J,D,2
+F18,Undergraduate,INT      80TH,NOVAK M J,F,4
+F18,Undergraduate,INT      84AC,LINZ D G,A+,1
+F18,Undergraduate,INT      84AC,LINZ D G,A,7
+F18,Undergraduate,INT      84AF,RIOS V M,A+,3
+F18,Undergraduate,INT      84AF,RIOS V M,A,13
+F18,Undergraduate,INT      84AN,KIPPIN T E,A+,7
+F18,Undergraduate,INT      84AN,KIPPIN T E,A,8
+F18,Undergraduate,INT      84AN,KIPPIN T E,C+,1
+F18,Undergraduate,INT      84AO,ERICKSON B L,A,15
+F18,Undergraduate,INT      84AP,WEBER E,A+,5
+F18,Undergraduate,INT      84AP,WEBER E,A,4
+F18,Undergraduate,INT      84AP,WEBER E,A-,3
+F18,Undergraduate,INT      84AP,WEBER E,B+,1
+F18,Undergraduate,INT      84ZB,SIMMS A R,A+,2
+F18,Undergraduate,INT      84ZB,SIMMS A R,A,2
+F18,Undergraduate,INT      84ZB,SIMMS A R,A-,4
+F18,Undergraduate,INT      84ZB,SIMMS A R,B,1
+F18,Undergraduate,INT      84ZP,BROWN M,A,11
+F18,Undergraduate,INT      86,STOPPLE J,A,83
+F18,Undergraduate,INT      89AC,BERMUDEZ S,P,27
+F18,Undergraduate,INT      89AC,CORTIJO A,P,27
+F18,Undergraduate,INT      89AI,BROWN KARA,P,23
+F18,Undergraduate,INT      89AI,SMITH S R,P,23
+F18,Undergraduate,INT      94BJ,DEVRIES M S,P,15
+F18,Undergraduate,INT      94ER,AWRAMIK S M,P,16
+F18,Undergraduate,INT      94FH,SINGER G H S,P,18
+F18,Undergraduate,INT      94GG,FULBECK L K,P,18
+F18,Undergraduate,INT      94GQ,GARCIA M T,P,13
+F18,Undergraduate,INT      94JK,MCCRACKEN E,P,12
+F18,Undergraduate,INT      94JV,COOPER D,P,21
+F18,Undergraduate,INT      94PO,SCOTT V,P,17
+F18,Undergraduate,INT      94SH,JAMIESON A E,P,19
+F18,Undergraduate,INT      94SH,JAMIESON A E,NP,1
+F18,Undergraduate,INT      94TG,REICH N O,P,18
+F18,Undergraduate,INT      94TI,FELBER J,P,13
+F18,Undergraduate,INT      94TJ,DUFFY A E,P,10
+F18,Undergraduate,INT      94TK,STUART D D,P,20
+F18,Undergraduate,INT      94TN,PARHAMI B,P,16
+F18,Undergraduate,INT      94UI,DONELAN J H,P,17
+F18,Undergraduate,INT      94UO,SAMUELS R D,P,19
+F18,Undergraduate,INT      94UP,PATTERSON K A,P,12
+F18,Undergraduate,INT      94UX,BOSCAGLI M,P,18
+F18,Undergraduate,INT      94UY,COWHIG F Y,P,8
+F18,Undergraduate,INT      94UZ,FRUHSTUCK S,P,14
+F18,Undergraduate,INT      94VA,SORAPURE M I,P,18
+F18,Undergraduate,INT      94VB,LUPI J P,P,10
+F18,Undergraduate,INT      95A,GALLUCCI R,A+,32
+F18,Undergraduate,INT      95A,GALLUCCI R,A,26
+F18,Undergraduate,INT      95A,GALLUCCI R,A-,1
+F18,Undergraduate,INT      95A,GALLUCCI R,F,2
+F18,Undergraduate,INT      95A,SHISHIM M D,A+,32
+F18,Undergraduate,INT      95A,SHISHIM M D,A,26
+F18,Undergraduate,INT      95A,SHISHIM M D,A-,1
+F18,Undergraduate,INT      95A,SHISHIM M D,F,2
+F18,Undergraduate,INT      95C,GALLUCCI R,A+,4
+F18,Undergraduate,INT      95C,GALLUCCI R,A,4
+F18,Undergraduate,INT      95C,GALLUCCI R,B+,2
+F18,Undergraduate,INT      95C,GALLUCCI R,B,3
+F18,Undergraduate,INT      95C,SHISHIM M D,A+,4
+F18,Undergraduate,INT      95C,SHISHIM M D,A,4
+F18,Undergraduate,INT      95C,SHISHIM M D,B+,2
+F18,Undergraduate,INT      95C,SHISHIM M D,B,3
+F18,Undergraduate,INT     126,BEAUFORT V,P,37
+F18,Undergraduate,INT     156EE,JARRETT G C,A+,1
+F18,Undergraduate,INT     156EE,JARRETT G C,A,9
+F18,Undergraduate,INT     156EE,JARRETT G C,A-,3
+F18,Undergraduate,INT     156EE,JARRETT G C,B+,2
+F18,Undergraduate,INT     156EE,JARRETT G C,B,1
+F18,Undergraduate,INT     156EE,JARRETT G C,C+,1
+F18,Undergraduate,INT     184AH,NORRIS A,A,9
+F18,Undergraduate,INT     184AH,NORRIS A,A-,2
+F18,Undergraduate,INT     184AH,NORRIS A,B-,1
+F18,Undergraduate,INT     184AN,WELDEAB S,A,13
+F18,Undergraduate,INT     184PD,BLAIN S M,A+,3
+F18,Undergraduate,INT     184PD,BLAIN S M,A,8
+F18,Undergraduate,INT     184PD,BLAIN S M,B+,1
+F18,Undergraduate,INT     185CT,BENJAMIN R,A+,1
+F18,Undergraduate,INT     185CT,BENJAMIN R,A,9
+F18,Undergraduate,INT     185CW,DONNELLY B,A,17
+F18,Undergraduate,INT     185MT,GENOVA G L,P,20
+F18,Undergraduate,INT     185ST,ANDERSON E K,A+,1
+F18,Undergraduate,INT     185ST,ANDERSON E K,A,18
+F18,Undergraduate,INT     185ST,ANDERSON E K,A-,1
+F18,Undergraduate,INT     186AF,GERMAN T C M,P,18
+F18,Undergraduate,INT     186AJ,JIMERSON S R,P,10
+F18,Undergraduate,INT     186AK,CAMPO J E,P,18
+F18,Undergraduate,INT     186AL,TAVES A,P,14
+F18,Undergraduate,INT     186AL,TAVES A,NP,1
+F18,Undergraduate,INT     186AM,STUART D D,P,13
+F18,Undergraduate,INT     186AN,BERMUDEZ S,P,3
+F18,Undergraduate,INT     186TA,STOLL H M,P,8
+F18,Undergraduate,INT     186TB,WHITEHEAD K A,P,13
+F18,Undergraduate,INT     186TC,BERENSTEIN D,P,10
+F18,Undergraduate,INT     187TP,WOODS V E,P,12
+F18,Undergraduate,INT     190MA,SCHNEIDER B E,P,6
+F18,Undergraduate,INT     190MB,SCHNEIDER B E,P,7
+F18,Undergraduate,INT     192DC,ADLER-KASSNER,P,32
+F18,Undergraduate,INT     197HC,STOPPLE J,P,149
+F18,Undergraduate,INT     197HC,STOPPLE J,NP,5
+F18,Undergraduate,INT     199DC,ADLER-KASSNER,A,12
+F18,Undergraduate,INT     199DC,ADLER-KASSNER,A-,13
+F18,Undergraduate,INT     199DC,ADLER-KASSNER,B+,3
+F18,Undergraduate,INT     199DC,ADLER-KASSNER,B,2
+F18,Undergraduate,INT     199DC,ADLER-KASSNER,B-,2
+F18,Undergraduate,INT     199H,BLAIN S M,A+,1
+F18,Undergraduate,INT     199H,BLAIN S M,A,4
+F18,Graduate,INT     200A,MONTELLO D R,S,14
+F18,Graduate,INT     201GW,MACIAS R,A+,6
+F18,Graduate,INT     201GW,MACIAS R,A,6
+F18,Graduate,INT     201GW,OLGUIN B V,A+,6
+F18,Graduate,INT     201GW,OLGUIN B V,A,6
+F18,Graduate,INT     594CC,DERWIN S,A,4
+F18,Graduate,INT     594NP,TALAMANTEZ I,S,9
+F18,Graduate,INT     594ST,DERWIN S,A,5
+F18,Undergraduate,INT  CS 120,BAKER E A,P,9

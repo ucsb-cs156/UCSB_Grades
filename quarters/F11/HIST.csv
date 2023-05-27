@@ -1,0 +1,243 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,A+,7
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,A,46
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,A-,64
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,B+,71
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,B,104
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,B-,66
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,C+,25
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,C,31
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,C-,10
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,D+,2
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,D,5
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,D-,2
+F11,Undergraduate,HIST      2A,BARBIERI-LOW,F,11
+F11,Undergraduate,HIST      2C,MARCUSE H,A+,2
+F11,Undergraduate,HIST      2C,MARCUSE H,A,70
+F11,Undergraduate,HIST      2C,MARCUSE H,A-,79
+F11,Undergraduate,HIST      2C,MARCUSE H,B+,46
+F11,Undergraduate,HIST      2C,MARCUSE H,B,99
+F11,Undergraduate,HIST      2C,MARCUSE H,B-,46
+F11,Undergraduate,HIST      2C,MARCUSE H,C+,27
+F11,Undergraduate,HIST      2C,MARCUSE H,C,21
+F11,Undergraduate,HIST      2C,MARCUSE H,C-,6
+F11,Undergraduate,HIST      2C,MARCUSE H,D+,2
+F11,Undergraduate,HIST      2C,MARCUSE H,D,1
+F11,Undergraduate,HIST      2C,MARCUSE H,F,6
+F11,Undergraduate,HIST      5,O'CONNOR A M,A,17
+F11,Undergraduate,HIST      5,O'CONNOR A M,A-,14
+F11,Undergraduate,HIST      5,O'CONNOR A M,B+,15
+F11,Undergraduate,HIST      5,O'CONNOR A M,B,19
+F11,Undergraduate,HIST      5,O'CONNOR A M,B-,6
+F11,Undergraduate,HIST      5,O'CONNOR A M,C+,4
+F11,Undergraduate,HIST      5,O'CONNOR A M,C,3
+F11,Undergraduate,HIST      5,O'CONNOR A M,D+,2
+F11,Undergraduate,HIST      5,O'CONNOR A M,F,3
+F11,Undergraduate,HIST     17A,OLIVERA E V,A+,6
+F11,Undergraduate,HIST     17A,OLIVERA E V,A,44
+F11,Undergraduate,HIST     17A,OLIVERA E V,A-,61
+F11,Undergraduate,HIST     17A,OLIVERA E V,B+,40
+F11,Undergraduate,HIST     17A,OLIVERA E V,B,39
+F11,Undergraduate,HIST     17A,OLIVERA E V,B-,38
+F11,Undergraduate,HIST     17A,OLIVERA E V,C+,21
+F11,Undergraduate,HIST     17A,OLIVERA E V,C,21
+F11,Undergraduate,HIST     17A,OLIVERA E V,C-,7
+F11,Undergraduate,HIST     17A,OLIVERA E V,D+,3
+F11,Undergraduate,HIST     17A,OLIVERA E V,D,1
+F11,Undergraduate,HIST     17A,OLIVERA E V,D-,3
+F11,Undergraduate,HIST     17A,OLIVERA E V,F,13
+F11,Undergraduate,HIST     49A,CHIKOWERO M,A,1
+F11,Undergraduate,HIST     49A,CHIKOWERO M,A-,7
+F11,Undergraduate,HIST     49A,CHIKOWERO M,B+,8
+F11,Undergraduate,HIST     49A,CHIKOWERO M,B,8
+F11,Undergraduate,HIST     49A,CHIKOWERO M,B-,7
+F11,Undergraduate,HIST     49A,CHIKOWERO M,C+,2
+F11,Undergraduate,HIST     49A,CHIKOWERO M,C,2
+F11,Undergraduate,HIST     49A,CHIKOWERO M,D,1
+F11,Undergraduate,HIST     49A,CHIKOWERO M,D-,1
+F11,Undergraduate,HIST     49A,CHIKOWERO M,F,4
+F11,Undergraduate,HIST     87,ROBERTS L S,A+,1
+F11,Undergraduate,HIST     87,ROBERTS L S,A,8
+F11,Undergraduate,HIST     87,ROBERTS L S,A-,18
+F11,Undergraduate,HIST     87,ROBERTS L S,B+,13
+F11,Undergraduate,HIST     87,ROBERTS L S,B,27
+F11,Undergraduate,HIST     87,ROBERTS L S,B-,13
+F11,Undergraduate,HIST     87,ROBERTS L S,C+,8
+F11,Undergraduate,HIST     87,ROBERTS L S,C,2
+F11,Undergraduate,HIST     87,ROBERTS L S,C-,4
+F11,Undergraduate,HIST     87,ROBERTS L S,F,3
+F11,Undergraduate,HIST     99,MARCUSE H,A,6
+F11,Undergraduate,HIST    101G,MIESCHER S F,A+,2
+F11,Undergraduate,HIST    101G,MIESCHER S F,A,3
+F11,Undergraduate,HIST    101G,MIESCHER S F,A-,11
+F11,Undergraduate,HIST    101G,MIESCHER S F,B+,8
+F11,Undergraduate,HIST    101G,MIESCHER S F,B,1
+F11,Undergraduate,HIST    101G,MIESCHER S F,B-,2
+F11,Undergraduate,HIST    102AL,PLANE A M,A-,9
+F11,Undergraduate,HIST    102AL,PLANE A M,B+,8
+F11,Undergraduate,HIST    102AL,PLANE A M,B,4
+F11,Undergraduate,HIST    102AL,PLANE A M,B-,10
+F11,Undergraduate,HIST    102AL,PLANE A M,C+,6
+F11,Undergraduate,HIST    102AL,PLANE A M,C,1
+F11,Undergraduate,HIST    102AL,PLANE A M,D,1
+F11,Undergraduate,HIST    102MI,LANSING C L,A,9
+F11,Undergraduate,HIST    102MI,LANSING C L,A-,4
+F11,Undergraduate,HIST    102MI,LANSING C L,B+,7
+F11,Undergraduate,HIST    102MI,LANSING C L,B,8
+F11,Undergraduate,HIST    102MI,LANSING C L,B-,5
+F11,Undergraduate,HIST    102MI,LANSING C L,C+,4
+F11,Undergraduate,HIST    118B,BLUMENTHAL,A,7
+F11,Undergraduate,HIST    118B,BLUMENTHAL,A-,5
+F11,Undergraduate,HIST    118B,BLUMENTHAL,B+,5
+F11,Undergraduate,HIST    118B,BLUMENTHAL,B,6
+F11,Undergraduate,HIST    118B,BLUMENTHAL,B-,4
+F11,Undergraduate,HIST    118B,BLUMENTHAL,C+,2
+F11,Undergraduate,HIST    118B,BLUMENTHAL,C,4
+F11,Undergraduate,HIST    118B,BLUMENTHAL,D+,1
+F11,Undergraduate,HIST    118B,BLUMENTHAL,D,3
+F11,Undergraduate,HIST    123B,TALBOTT J E,A,13
+F11,Undergraduate,HIST    123B,TALBOTT J E,A-,5
+F11,Undergraduate,HIST    123B,TALBOTT J E,B+,8
+F11,Undergraduate,HIST    123B,TALBOTT J E,B,9
+F11,Undergraduate,HIST    123B,TALBOTT J E,B-,4
+F11,Undergraduate,HIST    123B,TALBOTT J E,C+,1
+F11,Undergraduate,HIST    123B,TALBOTT J E,C,4
+F11,Undergraduate,HIST    123B,TALBOTT J E,C-,1
+F11,Undergraduate,HIST    123B,TALBOTT J E,D,1
+F11,Undergraduate,HIST    129F,SONNINO P M,A,4
+F11,Undergraduate,HIST    129F,SONNINO P M,A-,4
+F11,Undergraduate,HIST    129F,SONNINO P M,B+,1
+F11,Undergraduate,HIST    129F,SONNINO P M,B,4
+F11,Undergraduate,HIST    129F,SONNINO P M,B-,4
+F11,Undergraduate,HIST    129F,SONNINO P M,C+,3
+F11,Undergraduate,HIST    129F,SONNINO P M,C,2
+F11,Undergraduate,HIST    129F,SONNINO P M,C-,1
+F11,Undergraduate,HIST    129F,SONNINO P M,D-,1
+F11,Undergraduate,HIST    129F,SONNINO P M,F,3
+F11,Undergraduate,HIST    140A,MCGEE J S,A,1
+F11,Undergraduate,HIST    140A,MCGEE J S,A-,5
+F11,Undergraduate,HIST    140A,MCGEE J S,B+,7
+F11,Undergraduate,HIST    140A,MCGEE J S,B,9
+F11,Undergraduate,HIST    140A,MCGEE J S,B-,5
+F11,Undergraduate,HIST    140A,MCGEE J S,C+,5
+F11,Undergraduate,HIST    140A,MCGEE J S,C,2
+F11,Undergraduate,HIST    140A,MCGEE J S,C-,1
+F11,Undergraduate,HIST    140A,MCGEE J S,D+,4
+F11,Undergraduate,HIST    140A,MCGEE J S,D,1
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,A,6
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,A-,8
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,B+,9
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,B,8
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,B-,6
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,C+,4
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,C,1
+F11,Undergraduate,HIST    145D,HUMPHREYS R S,F,1
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,A-,1
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,B+,1
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,B,3
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,B-,3
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,C+,3
+F11,Undergraduate,HIST    145DR,HUMPHREYS R S,F,1
+F11,Undergraduate,HIST    146T,BROWNSON E,A,5
+F11,Undergraduate,HIST    146T,BROWNSON E,A-,8
+F11,Undergraduate,HIST    146T,BROWNSON E,B+,11
+F11,Undergraduate,HIST    146T,BROWNSON E,B,7
+F11,Undergraduate,HIST    146T,BROWNSON E,B-,4
+F11,Undergraduate,HIST    146T,BROWNSON E,C+,2
+F11,Undergraduate,HIST    146T,BROWNSON E,C,5
+F11,Undergraduate,HIST    146T,BROWNSON E,D,1
+F11,Undergraduate,HIST    147DR,MIESCHER S F,A,7
+F11,Undergraduate,HIST    147DR,MIESCHER S F,A-,5
+F11,Undergraduate,HIST    147DR,MIESCHER S F,B+,3
+F11,Undergraduate,HIST    147DR,MIESCHER S F,B,1
+F11,Undergraduate,HIST    151A,DUTRA F A,A+,2
+F11,Undergraduate,HIST    151A,DUTRA F A,A,16
+F11,Undergraduate,HIST    151A,DUTRA F A,A-,15
+F11,Undergraduate,HIST    151A,DUTRA F A,B+,9
+F11,Undergraduate,HIST    151A,DUTRA F A,B,12
+F11,Undergraduate,HIST    151A,DUTRA F A,B-,9
+F11,Undergraduate,HIST    151A,DUTRA F A,C+,3
+F11,Undergraduate,HIST    151A,DUTRA F A,C,3
+F11,Undergraduate,HIST    151A,DUTRA F A,F,2
+F11,Undergraduate,HIST    160A,HARRIS C V,A,4
+F11,Undergraduate,HIST    160A,HARRIS C V,A-,3
+F11,Undergraduate,HIST    160A,HARRIS C V,B+,4
+F11,Undergraduate,HIST    160A,HARRIS C V,B,4
+F11,Undergraduate,HIST    160A,HARRIS C V,B-,13
+F11,Undergraduate,HIST    160A,HARRIS C V,C+,8
+F11,Undergraduate,HIST    160A,HARRIS C V,C,7
+F11,Undergraduate,HIST    160A,HARRIS C V,F,1
+F11,Undergraduate,HIST    160P,WAHLSTROM T W,A,3
+F11,Undergraduate,HIST    160P,WAHLSTROM T W,A-,1
+F11,Undergraduate,HIST    160P,WAHLSTROM T W,B,1
+F11,Undergraduate,HIST    160P,WAHLSTROM T W,B-,2
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,A+,3
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,A,11
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,A-,8
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,B+,12
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,B,13
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,B-,8
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,C+,1
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,C,5
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,C-,1
+F11,Undergraduate,HIST    167CB,LICHTENSTEI N,F,4
+F11,Undergraduate,HIST    172A,BERGSTROM R E,A+,1
+F11,Undergraduate,HIST    172A,BERGSTROM R E,A,9
+F11,Undergraduate,HIST    172A,BERGSTROM R E,A-,7
+F11,Undergraduate,HIST    172A,BERGSTROM R E,B+,6
+F11,Undergraduate,HIST    172A,BERGSTROM R E,B,6
+F11,Undergraduate,HIST    172A,BERGSTROM R E,B-,6
+F11,Undergraduate,HIST    172A,BERGSTROM R E,C+,6
+F11,Undergraduate,HIST    172A,BERGSTROM R E,C,2
+F11,Undergraduate,HIST    172A,BERGSTROM R E,F,1
+F11,Undergraduate,HIST    173T,GRAVES G R,A,20
+F11,Undergraduate,HIST    173T,GRAVES G R,A-,38
+F11,Undergraduate,HIST    173T,GRAVES G R,B+,30
+F11,Undergraduate,HIST    173T,GRAVES G R,B,28
+F11,Undergraduate,HIST    173T,GRAVES G R,B-,14
+F11,Undergraduate,HIST    173T,GRAVES G R,C+,3
+F11,Undergraduate,HIST    173T,GRAVES G R,C,1
+F11,Undergraduate,HIST    179A,HAMALAINEN P,A+,1
+F11,Undergraduate,HIST    179A,HAMALAINEN P,A,11
+F11,Undergraduate,HIST    179A,HAMALAINEN P,A-,10
+F11,Undergraduate,HIST    179A,HAMALAINEN P,B+,4
+F11,Undergraduate,HIST    179A,HAMALAINEN P,B,3
+F11,Undergraduate,HIST    179A,HAMALAINEN P,B-,4
+F11,Undergraduate,HIST    179A,HAMALAINEN P,D-,1
+F11,Undergraduate,HIST    194AH,BERGSTROM R E,A+,1
+F11,Undergraduate,HIST    194AH,BERGSTROM R E,A,13
+F11,Undergraduate,HIST    194AH,BERGSTROM R E,A-,1
+F11,Undergraduate,HIST    197EE,ENGLISH E D,A,5
+F11,Undergraduate,HIST    197EE,ENGLISH E D,A-,1
+F11,Undergraduate,HIST    197EE,ENGLISH E D,B+,2
+F11,Undergraduate,HIST    197EE,ENGLISH E D,B,2
+F11,Undergraduate,HIST    197EE,ENGLISH E D,F,1
+F11,Graduate,HIST    201AM,O'CONNOR A M,A,6
+F11,Graduate,HIST    201AM,O'CONNOR A M,A-,1
+F11,Graduate,HIST    201AM,O'CONNOR A M,B+,2
+F11,Graduate,HIST    201AM,O'CONNOR A M,F,1
+F11,Graduate,HIST    201C,CHIKOWERO M,A+,3
+F11,Graduate,HIST    201C,CHIKOWERO M,A,1
+F11,Graduate,HIST    201C,CHIKOWERO M,A-,1
+F11,Graduate,HIST    201C,CHIKOWERO M,B+,1
+F11,Graduate,HIST    201E,LANSING C L,A,4
+F11,Graduate,HIST    201E,LANSING C L,A-,1
+F11,Graduate,HIST    201WD,RAPPAPORT E D,A,6
+F11,Graduate,HIST    202,SONNINO P M,A,7
+F11,Graduate,HIST    213B,DIGESER E D,A,6
+F11,Graduate,HIST    215A,BLUMENTHAL,A,3
+F11,Graduate,HIST    215A,BLUMENTHAL,A-,2
+F11,Graduate,HIST    215A,FARMER S A,A,3
+F11,Graduate,HIST    215A,FARMER S A,A-,2
+F11,Graduate,HIST    292A,HAMALAINEN P,A+,6
+F11,Graduate,HIST    292A,HAMALAINEN P,A,5
+F11,Graduate,HIST    292A,HAMALAINEN P,A-,1
+F11,Graduate,HIST    294,LICHTENSTEI N,A,12
+F11,Graduate,HIST    500,BARBIERI-LOW,S,10
+F11,Graduate,HIST    500,MARCUSE H,S,8
+F11,Graduate,HIST    500,OLIVERA E V,S,7
+F11,Graduate,HIST    596,SPICKARD P R,A+,2
+F11,Graduate,HIST    596,SPICKARD P R,A,1
+F11,Graduate,HIST    596,SPICKARD P R,A-,2
+F11,Graduate,HIST    596,SPICKARD P R,B+,1
+F11,Graduate,HIST    599,SPICKARD P R,S,5

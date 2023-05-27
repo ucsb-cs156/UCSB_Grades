@@ -1,0 +1,125 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M12,Undergraduate,POL S     1,HUGHES T,A-,7
+M12,Undergraduate,POL S     1,HUGHES T,B+,9
+M12,Undergraduate,POL S     1,HUGHES T,B,17
+M12,Undergraduate,POL S     1,HUGHES T,B-,10
+M12,Undergraduate,POL S     1,HUGHES T,C+,9
+M12,Undergraduate,POL S     1,HUGHES T,C,6
+M12,Undergraduate,POL S     1,HUGHES T,C-,4
+M12,Undergraduate,POL S     1,HUGHES T,D+,1
+M12,Undergraduate,POL S     1,HUGHES T,D-,2
+M12,Undergraduate,POL S     1,HUGHES T,F,1
+M12,Undergraduate,POL S     6,OLEINIKOV P,A+,1
+M12,Undergraduate,POL S     6,OLEINIKOV P,A,2
+M12,Undergraduate,POL S     6,OLEINIKOV P,A-,4
+M12,Undergraduate,POL S     6,OLEINIKOV P,B+,10
+M12,Undergraduate,POL S     6,OLEINIKOV P,B,10
+M12,Undergraduate,POL S     6,OLEINIKOV P,B-,8
+M12,Undergraduate,POL S     6,OLEINIKOV P,C+,8
+M12,Undergraduate,POL S     6,OLEINIKOV P,C,6
+M12,Undergraduate,POL S     6,OLEINIKOV P,D,2
+M12,Undergraduate,POL S     6,OLEINIKOV P,F,1
+M12,Undergraduate,POL S     7,SANTORI G C,A,2
+M12,Undergraduate,POL S     7,SANTORI G C,A-,3
+M12,Undergraduate,POL S     7,SANTORI G C,B+,5
+M12,Undergraduate,POL S     7,SANTORI G C,B,14
+M12,Undergraduate,POL S     7,SANTORI G C,B-,3
+M12,Undergraduate,POL S     7,SANTORI G C,C+,2
+M12,Undergraduate,POL S     7,SANTORI G C,C-,1
+M12,Undergraduate,POL S     7,SANTORI G C,F,3
+M12,Undergraduate,POL S     7,SPRECHER C M,A,3
+M12,Undergraduate,POL S     7,SPRECHER C M,A-,7
+M12,Undergraduate,POL S     7,SPRECHER C M,B+,3
+M12,Undergraduate,POL S     7,SPRECHER C M,B,3
+M12,Undergraduate,POL S     7,SPRECHER C M,B-,2
+M12,Undergraduate,POL S     7,SPRECHER C M,C+,1
+M12,Undergraduate,POL S     7,SPRECHER C M,D+,1
+M12,Undergraduate,POL S     7,SPRECHER C M,F,1
+M12,Undergraduate,POL S    12,WIENER S L,A,3
+M12,Undergraduate,POL S    12,WIENER S L,A-,2
+M12,Undergraduate,POL S    12,WIENER S L,B+,5
+M12,Undergraduate,POL S    12,WIENER S L,B,14
+M12,Undergraduate,POL S    12,WIENER S L,B-,8
+M12,Undergraduate,POL S    12,WIENER S L,C+,6
+M12,Undergraduate,POL S    12,WIENER S L,C,2
+M12,Undergraduate,POL S    12,WIENER S L,D+,1
+M12,Undergraduate,POL S    12,WIENER S L,D,1
+M12,Undergraduate,POL S    12,WIENER S L,F,4
+M12,Undergraduate,POL S    15,CARLISLE J E,A,1
+M12,Undergraduate,POL S    15,CARLISLE J E,A-,4
+M12,Undergraduate,POL S    15,CARLISLE J E,B+,15
+M12,Undergraduate,POL S    15,CARLISLE J E,B,6
+M12,Undergraduate,POL S    15,CARLISLE J E,B-,2
+M12,Undergraduate,POL S    15,CARLISLE J E,C+,2
+M12,Undergraduate,POL S    15,CARLISLE J E,C,2
+M12,Undergraduate,POL S   104,OLEINIKOV P,A,1
+M12,Undergraduate,POL S   104,OLEINIKOV P,A-,5
+M12,Undergraduate,POL S   104,OLEINIKOV P,B+,1
+M12,Undergraduate,POL S   104,OLEINIKOV P,B,9
+M12,Undergraduate,POL S   104,OLEINIKOV P,C+,1
+M12,Undergraduate,POL S   104,OLEINIKOV P,C,7
+M12,Undergraduate,POL S   104,OLEINIKOV P,C-,4
+M12,Undergraduate,POL S   104,OLEINIKOV P,D+,2
+M12,Undergraduate,POL S   104,OLEINIKOV P,D,1
+M12,Undergraduate,POL S   104,OLEINIKOV P,D-,1
+M12,Undergraduate,POL S   104,OLEINIKOV P,F,2
+M12,Undergraduate,POL S   110,SANTORI G C,A,16
+M12,Undergraduate,POL S   110,SANTORI G C,A-,14
+M12,Undergraduate,POL S   110,SANTORI G C,B+,10
+M12,Undergraduate,POL S   110,SANTORI G C,B,4
+M12,Undergraduate,POL S   110,SANTORI G C,B-,1
+M12,Undergraduate,POL S   110,SANTORI G C,C+,1
+M12,Undergraduate,POL S   110,SANTORI G C,F,4
+M12,Undergraduate,POL S   119,MCKOY C A,A+,1
+M12,Undergraduate,POL S   119,MCKOY C A,A,12
+M12,Undergraduate,POL S   119,MCKOY C A,A-,12
+M12,Undergraduate,POL S   119,MCKOY C A,B+,12
+M12,Undergraduate,POL S   119,MCKOY C A,B,15
+M12,Undergraduate,POL S   119,MCKOY C A,B-,3
+M12,Undergraduate,POL S   119,MCKOY C A,C+,3
+M12,Undergraduate,POL S   119,MCKOY C A,C,3
+M12,Undergraduate,POL S   119,MCKOY C A,C-,1
+M12,Undergraduate,POL S   121,SPRECHER C M,A,12
+M12,Undergraduate,POL S   121,SPRECHER C M,A-,4
+M12,Undergraduate,POL S   121,SPRECHER C M,B+,1
+M12,Undergraduate,POL S   121,SPRECHER C M,B-,4
+M12,Undergraduate,POL S   121,SPRECHER C M,F,3
+M12,Undergraduate,POL S   127,ALBERT M,A,3
+M12,Undergraduate,POL S   127,ALBERT M,A-,7
+M12,Undergraduate,POL S   127,ALBERT M,B+,9
+M12,Undergraduate,POL S   127,ALBERT M,B,5
+M12,Undergraduate,POL S   127,ALBERT M,B-,6
+M12,Undergraduate,POL S   127,ALBERT M,C+,2
+M12,Undergraduate,POL S   127,ALBERT M,D,1
+M12,Undergraduate,POL S   150A,NASH M B,A,2
+M12,Undergraduate,POL S   150A,NASH M B,A-,8
+M12,Undergraduate,POL S   150A,NASH M B,B+,10
+M12,Undergraduate,POL S   150A,NASH M B,B,28
+M12,Undergraduate,POL S   150A,NASH M B,B-,10
+M12,Undergraduate,POL S   150A,NASH M B,C+,3
+M12,Undergraduate,POL S   150A,NASH M B,C,1
+M12,Undergraduate,POL S   150A,NASH M B,C-,1
+M12,Undergraduate,POL S   157,PETERS G D,A,3
+M12,Undergraduate,POL S   157,PETERS G D,A-,5
+M12,Undergraduate,POL S   157,PETERS G D,B+,5
+M12,Undergraduate,POL S   157,PETERS G D,B,6
+M12,Undergraduate,POL S   157,PETERS G D,B-,4
+M12,Undergraduate,POL S   157,PETERS G D,C+,6
+M12,Undergraduate,POL S   157,PETERS G D,C,2
+M12,Undergraduate,POL S   157,PETERS G D,C-,1
+M12,Undergraduate,POL S   157,PETERS G D,D+,1
+M12,Undergraduate,POL S   157,PETERS G D,F,2
+M12,Undergraduate,POL S   158,WIENER S L,A-,5
+M12,Undergraduate,POL S   158,WIENER S L,B+,7
+M12,Undergraduate,POL S   158,WIENER S L,B,5
+M12,Undergraduate,POL S   158,WIENER S L,B-,2
+M12,Undergraduate,POL S   158,WIENER S L,C+,4
+M12,Undergraduate,POL S   158,WIENER S L,C,3
+M12,Undergraduate,POL S   158,WIENER S L,F,2
+M12,Undergraduate,POL S   189,COLE K D,A,2
+M12,Undergraduate,POL S   189,COLE K D,A-,5
+M12,Undergraduate,POL S   189,COLE K D,B+,2
+M12,Undergraduate,POL S   189,COLE K D,B,12
+M12,Undergraduate,POL S   189,COLE K D,B-,7
+M12,Undergraduate,POL S   189,COLE K D,C+,1
+M12,Undergraduate,POL S   189,COLE K D,F,1

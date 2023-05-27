@@ -1,0 +1,141 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,ANTH      2,DU BRY T A,A,19
+S10,Undergraduate,ANTH      2,DU BRY T A,A-,17
+S10,Undergraduate,ANTH      2,DU BRY T A,B+,29
+S10,Undergraduate,ANTH      2,DU BRY T A,B,49
+S10,Undergraduate,ANTH      2,DU BRY T A,B-,36
+S10,Undergraduate,ANTH      2,DU BRY T A,C+,13
+S10,Undergraduate,ANTH      2,DU BRY T A,C,22
+S10,Undergraduate,ANTH      2,DU BRY T A,C-,8
+S10,Undergraduate,ANTH      2,DU BRY T A,D,7
+S10,Undergraduate,ANTH      2,DU BRY T A,F,2
+S10,Undergraduate,ANTH      3,SMITH S T,A+,3
+S10,Undergraduate,ANTH      3,SMITH S T,A,15
+S10,Undergraduate,ANTH      3,SMITH S T,A-,18
+S10,Undergraduate,ANTH      3,SMITH S T,B+,14
+S10,Undergraduate,ANTH      3,SMITH S T,B,43
+S10,Undergraduate,ANTH      3,SMITH S T,B-,17
+S10,Undergraduate,ANTH      3,SMITH S T,C+,13
+S10,Undergraduate,ANTH      3,SMITH S T,C,20
+S10,Undergraduate,ANTH      3,SMITH S T,C-,6
+S10,Undergraduate,ANTH      3,SMITH S T,D+,3
+S10,Undergraduate,ANTH      3,SMITH S T,D,4
+S10,Undergraduate,ANTH      3,SMITH S T,D-,2
+S10,Undergraduate,ANTH      3,SMITH S T,F,10
+S10,Undergraduate,ANTH      5,GAULIN S J,A+,2
+S10,Undergraduate,ANTH      5,GAULIN S J,A,23
+S10,Undergraduate,ANTH      5,GAULIN S J,A-,26
+S10,Undergraduate,ANTH      5,GAULIN S J,B+,23
+S10,Undergraduate,ANTH      5,GAULIN S J,B,34
+S10,Undergraduate,ANTH      5,GAULIN S J,B-,33
+S10,Undergraduate,ANTH      5,GAULIN S J,C+,22
+S10,Undergraduate,ANTH      5,GAULIN S J,C,33
+S10,Undergraduate,ANTH      5,GAULIN S J,C-,14
+S10,Undergraduate,ANTH      5,GAULIN S J,D+,17
+S10,Undergraduate,ANTH      5,GAULIN S J,D,10
+S10,Undergraduate,ANTH      5,GAULIN S J,D-,3
+S10,Undergraduate,ANTH      5,GAULIN S J,F,23
+S10,Undergraduate,ANTH      7,TOOBY J,A+,3
+S10,Undergraduate,ANTH      7,TOOBY J,A,18
+S10,Undergraduate,ANTH      7,TOOBY J,A-,17
+S10,Undergraduate,ANTH      7,TOOBY J,B+,12
+S10,Undergraduate,ANTH      7,TOOBY J,B,27
+S10,Undergraduate,ANTH      7,TOOBY J,B-,11
+S10,Undergraduate,ANTH      7,TOOBY J,C+,5
+S10,Undergraduate,ANTH      7,TOOBY J,C,4
+S10,Undergraduate,ANTH      7,TOOBY J,C-,5
+S10,Undergraduate,ANTH      7,TOOBY J,D+,2
+S10,Undergraduate,ANTH      7,TOOBY J,D,1
+S10,Undergraduate,ANTH      7,TOOBY J,F,3
+S10,Undergraduate,ANTH    111,KUNDU M,A+,1
+S10,Undergraduate,ANTH    111,KUNDU M,A,12
+S10,Undergraduate,ANTH    111,KUNDU M,A-,7
+S10,Undergraduate,ANTH    111,KUNDU M,B+,15
+S10,Undergraduate,ANTH    111,KUNDU M,B,14
+S10,Undergraduate,ANTH    111,KUNDU M,B-,14
+S10,Undergraduate,ANTH    111,KUNDU M,C+,6
+S10,Undergraduate,ANTH    111,KUNDU M,C,6
+S10,Undergraduate,ANTH    111,KUNDU M,C-,3
+S10,Undergraduate,ANTH    111,KUNDU M,D+,3
+S10,Undergraduate,ANTH    111,KUNDU M,D,2
+S10,Undergraduate,ANTH    111,KUNDU M,F,3
+S10,Undergraduate,ANTH    117,WALSH C,A+,1
+S10,Undergraduate,ANTH    117,WALSH C,A,11
+S10,Undergraduate,ANTH    117,WALSH C,A-,5
+S10,Undergraduate,ANTH    117,WALSH C,B+,3
+S10,Undergraduate,ANTH    117,WALSH C,B,5
+S10,Undergraduate,ANTH    117,WALSH C,B-,5
+S10,Undergraduate,ANTH    117,WALSH C,C+,4
+S10,Undergraduate,ANTH    117,WALSH C,D,1
+S10,Undergraduate,ANTH    117,WALSH C,F,1
+S10,Undergraduate,ANTH    121,CURRAN S C,A+,1
+S10,Undergraduate,ANTH    121,CURRAN S C,A,6
+S10,Undergraduate,ANTH    121,CURRAN S C,A-,3
+S10,Undergraduate,ANTH    121,CURRAN S C,B+,2
+S10,Undergraduate,ANTH    121,CURRAN S C,B,23
+S10,Undergraduate,ANTH    121,CURRAN S C,B-,7
+S10,Undergraduate,ANTH    121,CURRAN S C,C+,11
+S10,Undergraduate,ANTH    121,CURRAN S C,C,18
+S10,Undergraduate,ANTH    121,CURRAN S C,C-,13
+S10,Undergraduate,ANTH    121,CURRAN S C,D+,6
+S10,Undergraduate,ANTH    121,CURRAN S C,D,16
+S10,Undergraduate,ANTH    121,CURRAN S C,D-,7
+S10,Undergraduate,ANTH    121,CURRAN S C,F,16
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,A+,1
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,A,8
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,A-,4
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,B+,3
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,B,18
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,B-,7
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,C+,2
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,C,10
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,C-,5
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,D,1
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,D-,1
+S10,Undergraduate,ANTH    131CA,JOHNSON J R,F,1
+S10,Undergraduate,ANTH    136,ASWANI S,A+,1
+S10,Undergraduate,ANTH    136,ASWANI S,A,7
+S10,Undergraduate,ANTH    136,ASWANI S,A-,16
+S10,Undergraduate,ANTH    136,ASWANI S,B+,8
+S10,Undergraduate,ANTH    136,ASWANI S,B,11
+S10,Undergraduate,ANTH    136,ASWANI S,B-,2
+S10,Undergraduate,ANTH    136,ASWANI S,C+,2
+S10,Undergraduate,ANTH    136,ASWANI S,C,8
+S10,Undergraduate,ANTH    136,ASWANI S,D+,1
+S10,Undergraduate,ANTH    136,ASWANI S,D,1
+S10,Undergraduate,ANTH    136,ASWANI S,D-,2
+S10,Undergraduate,ANTH    136,ASWANI S,F,5
+S10,Undergraduate,ANTH    142,KUNDU M,A+,1
+S10,Undergraduate,ANTH    142,KUNDU M,A,7
+S10,Undergraduate,ANTH    142,KUNDU M,A-,7
+S10,Undergraduate,ANTH    142,KUNDU M,B+,6
+S10,Undergraduate,ANTH    142,KUNDU M,B,15
+S10,Undergraduate,ANTH    142,KUNDU M,B-,6
+S10,Undergraduate,ANTH    142,KUNDU M,C+,11
+S10,Undergraduate,ANTH    142,KUNDU M,C,8
+S10,Undergraduate,ANTH    142,KUNDU M,C-,3
+S10,Undergraduate,ANTH    142,KUNDU M,D+,7
+S10,Undergraduate,ANTH    142,KUNDU M,D,2
+S10,Undergraduate,ANTH    142,KUNDU M,D-,1
+S10,Undergraduate,ANTH    178,GAMBLE L H,P,7
+S10,Undergraduate,ANTH    180B,CURRAN S C,A+,1
+S10,Undergraduate,ANTH    180B,CURRAN S C,A,10
+S10,Undergraduate,ANTH    180B,CURRAN S C,A-,1
+S10,Undergraduate,ANTH    180B,CURRAN S C,B+,1
+S10,Undergraduate,ANTH    180B,CURRAN S C,B,1
+S10,Undergraduate,ANTH    180B,CURRAN S C,B-,1
+S10,Undergraduate,ANTH    194P,VOORHIES B,A,6
+S10,Undergraduate,ANTH    194P,VOORHIES B,B,1
+S10,Undergraduate,ANTH    199,SCHREIBER K J,A+,1
+S10,Undergraduate,ANTH    199,SCHREIBER K J,A,3
+S10,Undergraduate,ANTH    199,SCHREIBER K J,A-,1
+S10,Undergraduate,ANTH    199RA,TOOBY J,A,7
+S10,Graduate,ANTH    206,GAMBLE L H,A,2
+S10,Graduate,ANTH    206,GAMBLE L H,A-,2
+S10,Graduate,ANTH    206,GAMBLE L H,B+,2
+S10,Graduate,ANTH    239A,JOCHIM M A,A+,2
+S10,Graduate,ANTH    239A,JOCHIM M A,A,4
+S10,Graduate,ANTH    239A,JOCHIM M A,A-,1
+S10,Graduate,ANTH    241,GURVEN M D,S,9
+S10,Graduate,ANTH    501,SMITH S T,S,5
+S10,Graduate,ANTH    598,GLASSOW M A,S,7

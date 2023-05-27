@@ -1,0 +1,109 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M10,Undergraduate,FLMST    46,BRUSUTTI A,A,2
+M10,Undergraduate,FLMST    46,BRUSUTTI A,A-,4
+M10,Undergraduate,FLMST    46,BRUSUTTI A,B+,7
+M10,Undergraduate,FLMST    46,BRUSUTTI A,B,9
+M10,Undergraduate,FLMST    46,BRUSUTTI A,B-,4
+M10,Undergraduate,FLMST    46,BRUSUTTI A,C+,1
+M10,Undergraduate,FLMST    46,BRUSUTTI A,C,4
+M10,Undergraduate,FLMST    46,BRUSUTTI A,D+,1
+M10,Undergraduate,FLMST    46,BRUSUTTI A,F,3
+M10,Undergraduate,FLMST    46,TUSSEY E D,A,1
+M10,Undergraduate,FLMST    46,TUSSEY E D,A-,4
+M10,Undergraduate,FLMST    46,TUSSEY E D,B+,2
+M10,Undergraduate,FLMST    46,TUSSEY E D,B,5
+M10,Undergraduate,FLMST    46,TUSSEY E D,B-,7
+M10,Undergraduate,FLMST    46,TUSSEY E D,C+,1
+M10,Undergraduate,FLMST    46,TUSSEY E D,C,4
+M10,Undergraduate,FLMST    46,TUSSEY E D,D,1
+M10,Undergraduate,FLMST    46,TUSSEY E D,F,1
+M10,Undergraduate,FLMST    70,HOLT J,A,3
+M10,Undergraduate,FLMST    70,HOLT J,A-,5
+M10,Undergraduate,FLMST    70,HOLT J,B+,8
+M10,Undergraduate,FLMST    70,HOLT J,B,17
+M10,Undergraduate,FLMST    70,HOLT J,B-,9
+M10,Undergraduate,FLMST    70,HOLT J,C+,12
+M10,Undergraduate,FLMST    70,HOLT J,C,14
+M10,Undergraduate,FLMST    70,HOLT J,C-,3
+M10,Undergraduate,FLMST    70,HOLT J,D+,2
+M10,Undergraduate,FLMST    70,HOLT J,F,5
+M10,Undergraduate,FLMST    96,FELANDO C L,B+,1
+M10,Undergraduate,FLMST    96,FELANDO C L,B,1
+M10,Undergraduate,FLMST    96,FELANDO C L,B-,4
+M10,Undergraduate,FLMST    96,FELANDO C L,C+,4
+M10,Undergraduate,FLMST    96,FELANDO C L,C,5
+M10,Undergraduate,FLMST    96,FELANDO C L,C-,9
+M10,Undergraduate,FLMST    96,FELANDO C L,D+,3
+M10,Undergraduate,FLMST    96,FELANDO C L,D,3
+M10,Undergraduate,FLMST    96,FELANDO C L,F,1
+M10,Undergraduate,FLMST   104TV,APODACA J A,A,9
+M10,Undergraduate,FLMST   104TV,APODACA J A,A-,6
+M10,Undergraduate,FLMST   104TV,APODACA J A,B,1
+M10,Undergraduate,FLMST   107,DRISKEL D B,A,3
+M10,Undergraduate,FLMST   107,DRISKEL D B,A-,1
+M10,Undergraduate,FLMST   107,DRISKEL D B,B,2
+M10,Undergraduate,FLMST   107,DRISKEL D B,B-,1
+M10,Undergraduate,FLMST   107,DRISKEL D B,C+,1
+M10,Undergraduate,FLMST   107,DRISKEL D B,C,1
+M10,Undergraduate,FLMST   107,DRISKEL D B,F,1
+M10,Undergraduate,FLMST   109EP,HANRAHAN M S,A,4
+M10,Undergraduate,FLMST   109EP,HANRAHAN M S,A-,6
+M10,Undergraduate,FLMST   109EP,HANRAHAN M S,B+,3
+M10,Undergraduate,FLMST   109EP,HANRAHAN M S,B,6
+M10,Undergraduate,FLMST   119ML,,A+,1
+M10,Undergraduate,FLMST   119ML,,A,2
+M10,Undergraduate,FLMST   119ML,,A-,1
+M10,Undergraduate,FLMST   119ML,,B,1
+M10,Undergraduate,FLMST   119ML,,B-,4
+M10,Undergraduate,FLMST   121,NEVES J W,A,3
+M10,Undergraduate,FLMST   121,NEVES J W,A-,6
+M10,Undergraduate,FLMST   121,NEVES J W,B+,4
+M10,Undergraduate,FLMST   121,NEVES J W,B,4
+M10,Undergraduate,FLMST   121,NEVES J W,B-,6
+M10,Undergraduate,FLMST   121,NEVES J W,C,3
+M10,Undergraduate,FLMST   121,NEVES J W,C-,1
+M10,Undergraduate,FLMST   121,NEVES J W,D,1
+M10,Undergraduate,FLMST   121,NEVES J W,F,2
+M10,Undergraduate,FLMST   150GS,FELANDO C L,A-,1
+M10,Undergraduate,FLMST   150GS,FELANDO C L,B+,2
+M10,Undergraduate,FLMST   150GS,FELANDO C L,B,4
+M10,Undergraduate,FLMST   150GS,FELANDO C L,B-,1
+M10,Undergraduate,FLMST   150GS,FELANDO C L,C+,3
+M10,Undergraduate,FLMST   150GS,FELANDO C L,C,3
+M10,Undergraduate,FLMST   150GS,FELANDO C L,C-,1
+M10,Undergraduate,FLMST   150GS,FELANDO C L,D,2
+M10,Undergraduate,FLMST   150GS,FELANDO C L,D-,1
+M10,Undergraduate,FLMST   150GS,FELANDO C L,F,2
+M10,Undergraduate,FLMST   188A,MCCREERY C A,A+,1
+M10,Undergraduate,FLMST   188A,MCCREERY C A,A,10
+M10,Undergraduate,FLMST   188A,MCCREERY C A,A-,3
+M10,Undergraduate,FLMST   188A,MCCREERY C A,B,1
+M10,Undergraduate,FLMST   188A,MCCREERY C A,B-,1
+M10,Undergraduate,FLMST   188A,MINER M A,A,3
+M10,Undergraduate,FLMST   188A,MINER M A,A-,1
+M10,Undergraduate,FLMST   188A,MINER M A,B+,3
+M10,Undergraduate,FLMST   188A,MINER M A,B-,1
+M10,Undergraduate,FLMST   188A,PORTUGES P C,A,3
+M10,Undergraduate,FLMST   188A,PORTUGES P C,A-,5
+M10,Undergraduate,FLMST   188A,PORTUGES P C,B,1
+M10,Undergraduate,FLMST   188A,PORTUGES P C,C,1
+M10,Undergraduate,FLMST   188A,PORTUGES P C,C-,1
+M10,Undergraduate,FLMST   189AR,LONGO R M,A,4
+M10,Undergraduate,FLMST   189AR,LONGO R M,A-,2
+M10,Undergraduate,FLMST   189AR,LONGO R M,B+,1
+M10,Undergraduate,FLMST   189AR,LONGO R M,B,5
+M10,Undergraduate,FLMST   189AR,LONGO R M,B-,1
+M10,Undergraduate,FLMST   189AR,LONGO R M,C+,1
+M10,Undergraduate,FLMST   189HK,LANGDALE G A,A-,5
+M10,Undergraduate,FLMST   189HK,LANGDALE G A,B+,1
+M10,Undergraduate,FLMST   189HK,LANGDALE G A,B,6
+M10,Undergraduate,FLMST   189HK,LANGDALE G A,B-,3
+M10,Undergraduate,FLMST   192B,TAN A M,A,2
+M10,Undergraduate,FLMST   192B,TAN A M,A-,5
+M10,Undergraduate,FLMST   192B,TAN A M,B+,4
+M10,Undergraduate,FLMST   192B,TAN A M,B,3
+M10,Undergraduate,FLMST   192B,TAN A M,B-,7
+M10,Undergraduate,FLMST   192B,TAN A M,C+,6
+M10,Undergraduate,FLMST   192B,TAN A M,C,4
+M10,Undergraduate,FLMST   192B,TAN A M,D,1
+M10,Undergraduate,FLMST   192B,TAN A M,F,2

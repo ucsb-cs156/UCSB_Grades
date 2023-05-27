@@ -1,0 +1,74 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S14,Undergraduate,CHIN      3,CHEN S C,A+,2
+S14,Undergraduate,CHIN      3,CHEN S C,A,26
+S14,Undergraduate,CHIN      3,CHEN S C,A-,16
+S14,Undergraduate,CHIN      3,CHEN S C,B+,11
+S14,Undergraduate,CHIN      3,CHEN S C,B,6
+S14,Undergraduate,CHIN      3,CHEN S C,B-,6
+S14,Undergraduate,CHIN      3,CHEN S C,C+,1
+S14,Undergraduate,CHIN      3,CHEN S C,C-,4
+S14,Undergraduate,CHIN      3,CHEN S C,F,3
+S14,Undergraduate,CHIN      3NH,HSU C-C,A+,2
+S14,Undergraduate,CHIN      3NH,HSU C-C,A,8
+S14,Undergraduate,CHIN      3NH,HSU C-C,A-,5
+S14,Undergraduate,CHIN      3NH,HSU C-C,B+,4
+S14,Undergraduate,CHIN      3NH,HSU C-C,B-,1
+S14,Undergraduate,CHIN      3NH,HSU C-C,C+,2
+S14,Undergraduate,CHIN      3NH,HSU C-C,C,2
+S14,Undergraduate,CHIN      3NH,HSU C-C,C-,2
+S14,Undergraduate,CHIN      6,GUAN D,A+,4
+S14,Undergraduate,CHIN      6,GUAN D,A,10
+S14,Undergraduate,CHIN      6,GUAN D,A-,3
+S14,Undergraduate,CHIN      6,GUAN D,B+,10
+S14,Undergraduate,CHIN      6,GUAN D,B,2
+S14,Undergraduate,CHIN      6,GUAN D,C,1
+S14,Undergraduate,CHIN     26,YU H-J,A,14
+S14,Undergraduate,CHIN     26,YU H-J,A-,4
+S14,Undergraduate,CHIN     26,YU H-J,B+,1
+S14,Undergraduate,CHIN     26,YU H-J,B,3
+S14,Undergraduate,CHIN     40,BERRY M S,A+,4
+S14,Undergraduate,CHIN     40,BERRY M S,A,23
+S14,Undergraduate,CHIN     40,BERRY M S,A-,4
+S14,Undergraduate,CHIN     40,BERRY M S,B+,5
+S14,Undergraduate,CHIN     40,BERRY M S,B,11
+S14,Undergraduate,CHIN     40,BERRY M S,B-,7
+S14,Undergraduate,CHIN     40,BERRY M S,C+,10
+S14,Undergraduate,CHIN     40,BERRY M S,C,11
+S14,Undergraduate,CHIN     40,BERRY M S,D,1
+S14,Undergraduate,CHIN     40,BERRY M S,D-,1
+S14,Undergraduate,CHIN     40,BERRY M S,F,2
+S14,Undergraduate,CHIN    101B,BYRNES C J,A+,5
+S14,Undergraduate,CHIN    101B,BYRNES C J,A,5
+S14,Undergraduate,CHIN    101B,BYRNES C J,A-,3
+S14,Undergraduate,CHIN    101B,BYRNES C J,B+,7
+S14,Undergraduate,CHIN    101B,BYRNES C J,B,5
+S14,Undergraduate,CHIN    101B,BYRNES C J,C+,1
+S14,Undergraduate,CHIN    122C,HSU C-C,A,4
+S14,Undergraduate,CHIN    122C,HSU C-C,A-,6
+S14,Undergraduate,CHIN    122C,HSU C-C,B+,1
+S14,Undergraduate,CHIN    122C,HSU C-C,B,3
+S14,Undergraduate,CHIN    122C,HSU C-C,B-,1
+S14,Undergraduate,CHIN    122C,HSU C-C,C+,1
+S14,Undergraduate,CHIN    127C,LI X,A,3
+S14,Undergraduate,CHIN    127C,LI X,A-,4
+S14,Undergraduate,CHIN    127C,LI X,B+,1
+S14,Undergraduate,CHIN    127C,LI X,B,1
+S14,Undergraduate,CHIN    143,LI X,A,9
+S14,Undergraduate,CHIN    143,LI X,A-,11
+S14,Undergraduate,CHIN    143,LI X,B+,17
+S14,Undergraduate,CHIN    143,LI X,B,2
+S14,Undergraduate,CHIN    143,LI X,B-,8
+S14,Undergraduate,CHIN    143,LI X,C,1
+S14,Undergraduate,CHIN    180CB,BYRNES C J,A-,5
+S14,Undergraduate,CHIN    180CB,BYRNES C J,B+,1
+S14,Undergraduate,CHIN    180CB,BYRNES C J,B,2
+S14,Undergraduate,CHIN    180CB,BYRNES C J,B-,2
+S14,Undergraduate,CHIN    180CB,BYRNES C J,F,1
+S14,Undergraduate,CHIN    185B,ZHENG X,A,8
+S14,Undergraduate,CHIN    185B,ZHENG X,A-,9
+S14,Undergraduate,CHIN    185B,ZHENG X,B+,4
+S14,Undergraduate,CHIN    185B,ZHENG X,B,2
+S14,Undergraduate,CHIN    185B,ZHENG X,B-,4
+S14,Graduate,CHIN    242,YANG M,A,3
+S14,Graduate,CHIN    242,YANG M,A-,2
+S14,Graduate,CHIN    242,YANG M,B+,1

@@ -1,0 +1,125 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M15,Undergraduate,ANTH      2,KUNDU M,A+,1
+M15,Undergraduate,ANTH      2,KUNDU M,A,2
+M15,Undergraduate,ANTH      2,KUNDU M,A-,3
+M15,Undergraduate,ANTH      2,KUNDU M,B+,5
+M15,Undergraduate,ANTH      2,KUNDU M,B,5
+M15,Undergraduate,ANTH      2,KUNDU M,B-,4
+M15,Undergraduate,ANTH      2,KUNDU M,C+,2
+M15,Undergraduate,ANTH      2,KUNDU M,C,6
+M15,Undergraduate,ANTH      2,KUNDU M,C-,2
+M15,Undergraduate,ANTH      2,KUNDU M,D,1
+M15,Undergraduate,ANTH      2,KUNDU M,F,1
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,A+,1
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,A,7
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,A-,10
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,B+,9
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,B,7
+M15,Undergraduate,ANTH      2,SANTOS-GOMEZ,B-,3
+M15,Undergraduate,ANTH      3SS,HOPPA K M,A,6
+M15,Undergraduate,ANTH      3SS,HOPPA K M,A-,4
+M15,Undergraduate,ANTH      3SS,HOPPA K M,B+,4
+M15,Undergraduate,ANTH      3SS,HOPPA K M,B,2
+M15,Undergraduate,ANTH      3SS,HOPPA K M,B-,3
+M15,Undergraduate,ANTH      3SS,HOPPA K M,C+,1
+M15,Undergraduate,ANTH      3SS,HOPPA K M,C,3
+M15,Undergraduate,ANTH      3SS,HOPPA K M,C-,2
+M15,Undergraduate,ANTH      3SS,HOPPA K M,D+,1
+M15,Undergraduate,ANTH      3SS,HOPPA K M,F,1
+M15,Undergraduate,ANTH      5,PISOR A C,A+,1
+M15,Undergraduate,ANTH      5,PISOR A C,A,5
+M15,Undergraduate,ANTH      5,PISOR A C,B+,1
+M15,Undergraduate,ANTH      5,PISOR A C,B,4
+M15,Undergraduate,ANTH      5,PISOR A C,B-,4
+M15,Undergraduate,ANTH      5,PISOR A C,C+,1
+M15,Undergraduate,ANTH      5,PISOR A C,C,1
+M15,Undergraduate,ANTH      5,PISOR A C,C-,1
+M15,Undergraduate,ANTH      5,PISOR A C,D+,1
+M15,Undergraduate,ANTH      5,PISOR A C,D,2
+M15,Undergraduate,ANTH      5,PISOR A C,F,1
+M15,Undergraduate,ANTH      9,MARTIN M A,A+,2
+M15,Undergraduate,ANTH      9,MARTIN M A,A,5
+M15,Undergraduate,ANTH      9,MARTIN M A,A-,5
+M15,Undergraduate,ANTH      9,MARTIN M A,B+,6
+M15,Undergraduate,ANTH      9,MARTIN M A,B,1
+M15,Undergraduate,ANTH      9,MARTIN M A,C,2
+M15,Undergraduate,ANTH    103B,WERTH S,A+,1
+M15,Undergraduate,ANTH    103B,WERTH S,A,2
+M15,Undergraduate,ANTH    103B,WERTH S,A-,3
+M15,Undergraduate,ANTH    103B,WERTH S,B+,1
+M15,Undergraduate,ANTH    103B,WERTH S,B,1
+M15,Undergraduate,ANTH    103B,WERTH S,B-,1
+M15,Undergraduate,ANTH    103B,WERTH S,C,1
+M15,Undergraduate,ANTH    103B,WERTH S,C-,1
+M15,Undergraduate,ANTH    105,MARTIN M A,A,14
+M15,Undergraduate,ANTH    105,MARTIN M A,B,5
+M15,Undergraduate,ANTH    105,MARTIN M A,C,2
+M15,Undergraduate,ANTH    105,MARTIN M A,F,1
+M15,Undergraduate,ANTH    107,CIMINO A N,A,12
+M15,Undergraduate,ANTH    107,CIMINO A N,B,19
+M15,Undergraduate,ANTH    107,CIMINO A N,C,6
+M15,Undergraduate,ANTH    107,CIMINO A N,D,1
+M15,Undergraduate,ANTH    107,CIMINO A N,F,3
+M15,Undergraduate,ANTH    109,CIMINO A N,A,17
+M15,Undergraduate,ANTH    109,CIMINO A N,B,31
+M15,Undergraduate,ANTH    109,CIMINO A N,C,13
+M15,Undergraduate,ANTH    109,CIMINO A N,D,1
+M15,Undergraduate,ANTH    111,KUNDU M,A+,1
+M15,Undergraduate,ANTH    111,KUNDU M,A,1
+M15,Undergraduate,ANTH    111,KUNDU M,A-,5
+M15,Undergraduate,ANTH    111,KUNDU M,B+,4
+M15,Undergraduate,ANTH    111,KUNDU M,B,8
+M15,Undergraduate,ANTH    111,KUNDU M,B-,5
+M15,Undergraduate,ANTH    111,KUNDU M,C+,10
+M15,Undergraduate,ANTH    111,KUNDU M,C,2
+M15,Undergraduate,ANTH    111,KUNDU M,D+,2
+M15,Undergraduate,ANTH    111,KUNDU M,F,1
+M15,Undergraduate,ANTH    122,MAAS G F,A,7
+M15,Undergraduate,ANTH    122,MAAS G F,A-,1
+M15,Undergraduate,ANTH    122,MAAS G F,B+,3
+M15,Undergraduate,ANTH    122,MAAS G F,B,1
+M15,Undergraduate,ANTH    122,MAAS G F,B-,2
+M15,Undergraduate,ANTH    122,MAAS G F,C+,1
+M15,Undergraduate,ANTH    122,MAAS G F,C,1
+M15,Undergraduate,ANTH    122,MAAS G F,D,1
+M15,Undergraduate,ANTH    125,TABER P K,A+,3
+M15,Undergraduate,ANTH    125,TABER P K,A,7
+M15,Undergraduate,ANTH    125,TABER P K,A-,2
+M15,Undergraduate,ANTH    125,TABER P K,B+,2
+M15,Undergraduate,ANTH    125,TABER P K,B,3
+M15,Undergraduate,ANTH    125,TABER P K,C+,2
+M15,Undergraduate,ANTH    125,TABER P K,C,3
+M15,Undergraduate,ANTH    125,TABER P K,C-,1
+M15,Undergraduate,ANTH    125,TABER P K,D,2
+M15,Undergraduate,ANTH    125,TABER P K,F,2
+M15,Undergraduate,ANTH    131,BARDOLPH D N,A,3
+M15,Undergraduate,ANTH    131,BARDOLPH D N,A-,4
+M15,Undergraduate,ANTH    131,BARDOLPH D N,B+,2
+M15,Undergraduate,ANTH    131,BARDOLPH D N,B,8
+M15,Undergraduate,ANTH    131,BARDOLPH D N,B-,2
+M15,Undergraduate,ANTH    131,BARDOLPH D N,C+,1
+M15,Undergraduate,ANTH    131,BARDOLPH D N,C-,1
+M15,Undergraduate,ANTH    131,BARDOLPH D N,D,1
+M15,Undergraduate,ANTH    134,FIGUEROA T,A+,1
+M15,Undergraduate,ANTH    134,FIGUEROA T,A,3
+M15,Undergraduate,ANTH    134,FIGUEROA T,B+,1
+M15,Undergraduate,ANTH    134,FIGUEROA T,B,2
+M15,Undergraduate,ANTH    134,FIGUEROA T,F,1
+M15,Undergraduate,ANTH    142,KUNDU M,A,2
+M15,Undergraduate,ANTH    142,KUNDU M,A-,3
+M15,Undergraduate,ANTH    142,KUNDU M,B+,2
+M15,Undergraduate,ANTH    142,KUNDU M,B,6
+M15,Undergraduate,ANTH    142,KUNDU M,B-,1
+M15,Undergraduate,ANTH    142,KUNDU M,C+,4
+M15,Undergraduate,ANTH    142,KUNDU M,C,3
+M15,Undergraduate,ANTH    142,KUNDU M,C-,1
+M15,Undergraduate,ANTH    142,KUNDU M,D,2
+M15,Undergraduate,ANTH    148A,LAMON S E,A+,12
+M15,Undergraduate,ANTH    148A,LAMON S E,A,11
+M15,Undergraduate,ANTH    148A,LAMON S E,A-,3
+M15,Undergraduate,ANTH    148A,LAMON S E,B+,5
+M15,Undergraduate,ANTH    148A,LAMON S E,B,1
+M15,Undergraduate,ANTH    148A,LAMON S E,C+,1
+M15,Undergraduate,ANTH    148A,LAMON S E,C,1
+M15,Undergraduate,ANTH    148A,LAMON S E,D+,1
+M15,Undergraduate,ANTH    148A,LAMON S E,F,2

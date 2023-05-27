@@ -1,0 +1,198 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S15,Undergraduate,ED      111,RIOS R M,A+,3
+S15,Undergraduate,ED      111,RIOS R M,A,35
+S15,Undergraduate,ED      111,RIOS R M,A-,13
+S15,Undergraduate,ED      111,RIOS R M,B+,3
+S15,Undergraduate,ED      111,RIOS R M,B,7
+S15,Undergraduate,ED      111,RIOS R M,B-,1
+S15,Undergraduate,ED      111,RIOS R M,C+,2
+S15,Undergraduate,ED      111,RIOS R M,C,1
+S15,Undergraduate,ED      111,RIOS R M,F,2
+S15,Undergraduate,ED      121,BLACKWELL K S,A,25
+S15,Undergraduate,ED      121,BLACKWELL K S,A-,1
+S15,Undergraduate,ED      121,BLACKWELL K S,B+,1
+S15,Undergraduate,ED      121,BLACKWELL K S,B,1
+S15,Undergraduate,ED      121,BLACKWELL K S,B-,1
+S15,Undergraduate,ED      122,BLACKWELL K S,P,59
+S15,Undergraduate,ED      122,BLACKWELL K S,NP,3
+S15,Undergraduate,ED      123,LEE J S,A+,17
+S15,Undergraduate,ED      123,LEE J S,A,26
+S15,Undergraduate,ED      123,LEE J S,A-,8
+S15,Undergraduate,ED      123,LEE J S,B+,2
+S15,Undergraduate,ED      123,LEE J S,B,3
+S15,Undergraduate,ED      123,LEE J S,B-,5
+S15,Undergraduate,ED      123,LEE J S,F,1
+S15,Undergraduate,ED      124,CORELLA MORAL,A+,6
+S15,Undergraduate,ED      124,CORELLA MORAL,A,12
+S15,Undergraduate,ED      124,CORELLA MORAL,A-,2
+S15,Undergraduate,ED      124,CORELLA MORAL,B-,1
+S15,Undergraduate,ED      124,CORELLA MORAL,C+,1
+S15,Undergraduate,ED      128,CARLYLE A M,A+,4
+S15,Undergraduate,ED      128,CARLYLE A M,A,9
+S15,Undergraduate,ED      128,CARLYLE A M,A-,1
+S15,Undergraduate,ED      128,CARLYLE A M,B+,2
+S15,Undergraduate,ED      128,CARLYLE A M,B,3
+S15,Undergraduate,ED      128,ROSS E G,A+,4
+S15,Undergraduate,ED      128,ROSS E G,A,9
+S15,Undergraduate,ED      128,ROSS E G,A-,1
+S15,Undergraduate,ED      128,ROSS E G,B+,2
+S15,Undergraduate,ED      128,ROSS E G,B,3
+S15,Undergraduate,ED      131,JOHNSON S K,A+,10
+S15,Undergraduate,ED      131,JOHNSON S K,A,10
+S15,Undergraduate,ED      131,JOHNSON S K,A-,1
+S15,Undergraduate,ED      135,OGRAIN C M,A,8
+S15,Undergraduate,ED      135,OGRAIN C M,A-,2
+S15,Undergraduate,ED      135,OGRAIN C M,B+,2
+S15,Undergraduate,ED      135,OGRAIN C M,B,2
+S15,Undergraduate,ED      135,OGRAIN C M,C+,2
+S15,Undergraduate,ED      135,OGRAIN C M,C,1
+S15,Undergraduate,ED      135,OGRAIN C M,C-,1
+S15,Undergraduate,ED      135,OGRAIN C M,F,1
+S15,Undergraduate,ED      136,FELDWINN D L,A,2
+S15,Undergraduate,ED      136,FELDWINN D L,B+,2
+S15,Undergraduate,ED      136,FELDWINN D L,B,3
+S15,Undergraduate,ED      136,FELDWINN D L,B-,1
+S15,Undergraduate,ED      136,FELDWINN D L,C-,1
+S15,Undergraduate,ED      142,KYRATZIS A,A+,6
+S15,Undergraduate,ED      142,KYRATZIS A,A,3
+S15,Undergraduate,ED      142,KYRATZIS A,A-,1
+S15,Undergraduate,ED      142,KYRATZIS A,B+,2
+S15,Undergraduate,ED      142,KYRATZIS A,B,1
+S15,Undergraduate,ED      173,LUBACH D W,A,59
+S15,Undergraduate,ED      173,LUBACH D W,A-,15
+S15,Undergraduate,ED      173,LUBACH D W,B+,4
+S15,Undergraduate,ED      173,LUBACH D W,B,10
+S15,Undergraduate,ED      173,LUBACH D W,B-,3
+S15,Undergraduate,ED      173,LUBACH D W,C+,2
+S15,Undergraduate,ED      173,LUBACH D W,C,1
+S15,Undergraduate,ED      173,LUBACH D W,D+,1
+S15,Undergraduate,ED      173,LUBACH D W,F,3
+S15,Undergraduate,ED      176B,GERBER M M,A,34
+S15,Undergraduate,ED      176B,GERBER M M,A-,1
+S15,Undergraduate,ED      176B,GERBER M M,B,3
+S15,Undergraduate,ED      187,BUCHOLTZ M H,A+,8
+S15,Undergraduate,ED      187,BUCHOLTZ M H,A,11
+S15,Undergraduate,ED      187,BUCHOLTZ M H,A-,4
+S15,Undergraduate,ED      187,BUCHOLTZ M H,B+,3
+S15,Undergraduate,ED      187,BUCHOLTZ M H,B,6
+S15,Undergraduate,ED      187,BUCHOLTZ M H,B-,2
+S15,Undergraduate,ED      187,BUCHOLTZ M H,C,1
+S15,Undergraduate,ED      187,BUCHOLTZ M H,F,1
+S15,Undergraduate,ED      191W,SHISHIM M D,A,6
+S15,Undergraduate,ED      191W,SHISHIM M D,A-,18
+S15,Undergraduate,ED      191W,SHISHIM M D,B+,23
+S15,Undergraduate,ED      191W,SHISHIM M D,B,19
+S15,Undergraduate,ED      191W,SHISHIM M D,B-,8
+S15,Undergraduate,ED      191W,SHISHIM M D,C+,1
+S15,Undergraduate,ED      197,BAZERMAN C,A,2
+S15,Undergraduate,ED      197,BAZERMAN C,A-,6
+S15,Undergraduate,ED      197,BAZERMAN C,B+,3
+S15,Undergraduate,ED      197,BAZERMAN C,B,5
+S15,Undergraduate,ED      197,BAZERMAN C,C+,1
+S15,Undergraduate,ED      197,BAZERMAN C,C,1
+S15,Undergraduate,ED      199,DURAN R P,A,7
+S15,Undergraduate,ED      199RA,GERBER M M,A+,1
+S15,Undergraduate,ED      199RA,GERBER M M,A,8
+S15,Undergraduate,ED      199RA,HARLOW D B,A,5
+S15,Undergraduate,ED      199RA,KOEGEL R L,A+,1
+S15,Undergraduate,ED      199RA,KOEGEL R L,A,10
+S15,Undergraduate,ED      199RA,KOEGEL R L,F,1
+S15,Undergraduate,ED      199RA,RIOS R M,A+,8
+S15,Undergraduate,ED      199RA,RIOS R M,A,43
+S15,Graduate,ED      201F,NYLUND K L,S,8
+S15,Graduate,ED      202A,KYRATZIS A,A+,7
+S15,Graduate,ED      202A,KYRATZIS A,A,3
+S15,Graduate,ED      202A,KYRATZIS A,S,1
+S15,Graduate,ED      209D,OKAMOTO Y,S,7
+S15,Graduate,ED      210D,CHUN D M,A+,1
+S15,Graduate,ED      210D,CHUN D M,A,1
+S15,Graduate,ED      210D,CHUN D M,A-,1
+S15,Graduate,ED      210D,CHUN D M,S,2
+S15,Graduate,ED      210D,HO H-Z,A,9
+S15,Graduate,ED      212,NYLUND K L,S,5
+S15,Graduate,ED      214C,KIA-KEATING B,A+,6
+S15,Graduate,ED      214C,KIA-KEATING B,A,26
+S15,Graduate,ED      214C,KIA-KEATING B,A-,1
+S15,Graduate,ED      214C,KIA-KEATING B,B,1
+S15,Graduate,ED      215C,MAUL A E,A+,1
+S15,Graduate,ED      215C,MAUL A E,A,1
+S15,Graduate,ED      215C,MAUL A E,S,4
+S15,Graduate,ED      216F,NYLUND K L,A+,2
+S15,Graduate,ED      216F,NYLUND K L,A,9
+S15,Graduate,ED      216F,NYLUND K L,A-,1
+S15,Graduate,ED      216F,NYLUND K L,B+,1
+S15,Graduate,ED      216F,NYLUND K L,B,1
+S15,Graduate,ED      221E,GREEN J L,A,6
+S15,Graduate,ED      221E,GREEN J L,A-,1
+S15,Graduate,ED      221E,GREEN J L,S,1
+S15,Graduate,ED      222C,GERBER M M,A,5
+S15,Graduate,ED      228H,GERBER M M,A,7
+S15,Graduate,ED      228J,FEDDERS A,A,7
+S15,Graduate,ED      229C,SLOAN T F,S,7
+S15,Graduate,ED      229D,FEDDERS A,A+,6
+S15,Graduate,ED      229D,FEDDERS A,A,1
+S15,Graduate,ED      236C,CONLEY S,A,7
+S15,Graduate,ED      241,GOTTFRIED M A,A,14
+S15,Graduate,ED      250C,GOTTFRIED M A,A,5
+S15,Graduate,ED      253D,ARYA D J,A+,2
+S15,Graduate,ED      253D,ARYA D J,A,3
+S15,Graduate,ED      253D,ARYA D J,A-,1
+S15,Graduate,ED      256,HARLOW D B,A,13
+S15,Graduate,ED      265C,RALEY J D,S,79
+S15,Graduate,ED      265C,SCALZO J N,S,79
+S15,Graduate,ED      266,SLOAN T F,A,27
+S15,Graduate,ED      266,SLOAN T F,A-,7
+S15,Graduate,ED      266,SLOAN T F,B+,3
+S15,Graduate,ED      266,WHITAKER D R,A,36
+S15,Graduate,ED      289,RALEY J D,S,7
+S15,Graduate,ED      340,SLOAN T F,S,36
+S15,Graduate,ED      343,SLOAN T F,S,37
+S15,Graduate,ED      360S,SCALZO J N,A,43
+S15,Graduate,ED      361S,SCALZO J N,A,24
+S15,Graduate,ED      361S,SIMON K,A,13
+S15,Graduate,ED      370,MORALES E L,S,7
+S15,Graduate,ED      370,NAIMAN D G,S,7
+S15,Graduate,ED      370,OXELSON E M,S,8
+S15,Graduate,ED      370,SLOAN T F,S,7
+S15,Graduate,ED      370,WHITAKER D R,S,5
+S15,Graduate,ED      381,AGUIRRE P G,A,5
+S15,Graduate,ED      596,DURAN R P,S,6
+S15,Graduate,ED      599,BAZERMAN C,S,5
+S15,Graduate,ED      599,BRENNER M E,S,5
+S15,Graduate,ED      599,BRENNER M E,U,1
+S15,Graduate,ED      599,COOK-GUMPERZ,S,5
+S15,Graduate,ED   E  321,DEWAR T J,A,7
+S15,Graduate,ED   E  341,SLOAN T F,S,8
+S15,Graduate,ED   E  371,DEWAR T J,S,8
+S15,Graduate,ED   HSS320S,KOK O N,A+,10
+S15,Graduate,ED   HSS320S,KOK O N,A,26
+S15,Graduate,ED   HSS321,ESTABROOK J A,S,6
+S15,Graduate,ED   HSS321,MULLIN C D,S,6
+S15,Graduate,ED   HSS321S,MULLIN C D,A,5
+S15,Graduate,ED   HSS341,SLOAN T F,S,5
+S15,Graduate,ED   HSS371,ESTABROOK J A,S,5
+S15,Graduate,ED   M  341,SLOAN T F,S,7
+S15,Graduate,ED   M  371,ROSS E G,S,7
+S15,Graduate,ED   S  320,HARLOW D B,A,36
+S15,Graduate,ED   S  321,JOHNSON S K,A,10
+S15,Graduate,ED   S  341,SLOAN T F,S,17
+S15,Graduate,ED   S  371,LUBCHENCO P J,S,17
+S15,Graduate,ED   WL 321,ARYA D J,A+,2
+S15,Graduate,ED   WL 321,ARYA D J,A,6
+S15,Graduate,ED   WL 321,ARYA D J,A-,2
+S15,Graduate,ESM     279,EDWARDS E C,A+,1
+S15,Graduate,ESM     279,EDWARDS E C,A,3
+S15,Graduate,ESM     279,EDWARDS E C,A-,1
+S15,Undergraduate,HIST    123C,EDGAR A L,A+,3
+S15,Undergraduate,HIST    123C,EDGAR A L,A,4
+S15,Undergraduate,HIST    123C,EDGAR A L,A-,7
+S15,Undergraduate,HIST    123C,EDGAR A L,B+,5
+S15,Undergraduate,HIST    123C,EDGAR A L,B,14
+S15,Undergraduate,HIST    123C,EDGAR A L,B-,6
+S15,Undergraduate,HIST    123C,EDGAR A L,C+,5
+S15,Undergraduate,HIST    123C,EDGAR A L,D,1
+S15,Undergraduate,HIST    123C,EDGAR A L,F,1
+S15,Undergraduate,HIST    135P,EDGAR A L,A,3
+S15,Undergraduate,HIST    135P,EDGAR A L,A-,1
+S15,Undergraduate,HIST    135P,EDGAR A L,B+,5
+S15,Undergraduate,HIST    135P,EDGAR A L,B,2

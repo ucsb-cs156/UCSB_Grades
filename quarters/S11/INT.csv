@@ -1,0 +1,37 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S11,Undergraduate,INT       1,NISEN H K,P,24
+S11,Undergraduate,INT       1,SCHROEDER E M,P,19
+S11,Undergraduate,INT       1,SCHROEDER E M,NP,2
+S11,Undergraduate,INT      84IT,TALAMANTEZ I,A,16
+S11,Undergraduate,INT      84IT,TALAMANTEZ I,A-,4
+S11,Undergraduate,INT      84IT,TALAMANTEZ I,B+,1
+S11,Undergraduate,INT      84IT,TALAMANTEZ I,B,1
+S11,Undergraduate,INT      94ER,AWRAMIK S M,P,17
+S11,Undergraduate,INT      94GM,GLASMAN N S,P,18
+S11,Undergraduate,INT      94GM,GLASMAN N S,NP,1
+S11,Undergraduate,INT      94HU,CAMPO J E,P,18
+S11,Undergraduate,INT      94HU,CAMPO J E,NP,2
+S11,Undergraduate,INT      94IE,FUJINO D C,P,19
+S11,Undergraduate,INT      94IR,HALL P,P,18
+S11,Undergraduate,INT      94IR,HALL P,NP,3
+S11,Undergraduate,INT      94LN,EVEN T J,P,19
+S11,Undergraduate,INT      94LV,THROWER D A,P,22
+S11,Undergraduate,INT      94MK,MIGLIO V G,P,9
+S11,Undergraduate,INT      94MK,MIGLIO V G,NP,1
+S11,Undergraduate,INT      94NM,APPEL I J,F,3
+S11,Undergraduate,INT      94NM,APPEL I J,P,12
+S11,Undergraduate,INT      94NZ,PARK J S W,P,20
+S11,Undergraduate,INT      94OF,BORIS E C,P,14
+S11,Undergraduate,INT      94OH,MILLER-YOUNG,P,24
+S11,Undergraduate,INT      94OI,BLAIN S M,F,2
+S11,Undergraduate,INT      94OI,BLAIN S M,P,17
+S11,Undergraduate,INT     100LA,GUERENA S,A,4
+S11,Undergraduate,INT     100LA,GUERENA S,A-,3
+S11,Undergraduate,INT     100LA,GUERENA S,B,1
+S11,Undergraduate,INT     100LA,GUERENA S,C,1
+S11,Undergraduate,INT     185AP,ENDERS J,A,10
+S11,Undergraduate,INT     185ST,ANDERSON E K,A+,1
+S11,Undergraduate,INT     185ST,ANDERSON E K,A,14
+S11,Undergraduate,INT     185ST,ANDERSON E K,A-,2
+S11,Graduate,INT     201MD,HEBDIGE R W,A,9
+S11,Undergraduate,INT  CS  10,PROULX S R,P,6

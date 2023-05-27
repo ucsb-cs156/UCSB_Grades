@@ -1,0 +1,89 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S10,Undergraduate,PHYS      4,LUBIN P,A,22
+S10,Undergraduate,PHYS      4,LUBIN P,B,29
+S10,Undergraduate,PHYS      4,LUBIN P,C,8
+S10,Undergraduate,PHYS      5,BERENSTEIN D,A+,1
+S10,Undergraduate,PHYS      5,BERENSTEIN D,A,10
+S10,Undergraduate,PHYS      5,BERENSTEIN D,A-,12
+S10,Undergraduate,PHYS      5,BERENSTEIN D,B+,11
+S10,Undergraduate,PHYS      5,BERENSTEIN D,B,17
+S10,Undergraduate,PHYS      5,BERENSTEIN D,B-,8
+S10,Undergraduate,PHYS      5,BERENSTEIN D,C+,7
+S10,Undergraduate,PHYS      5,BERENSTEIN D,C,5
+S10,Undergraduate,PHYS      5,BERENSTEIN D,D+,3
+S10,Undergraduate,PHYS      5,BERENSTEIN D,D,1
+S10,Undergraduate,PHYS      5,BERENSTEIN D,F,1
+S10,Undergraduate,PHYS      6C,GELLER R M,A+,8
+S10,Undergraduate,PHYS      6C,GELLER R M,A,84
+S10,Undergraduate,PHYS      6C,GELLER R M,A-,56
+S10,Undergraduate,PHYS      6C,GELLER R M,B+,70
+S10,Undergraduate,PHYS      6C,GELLER R M,B,117
+S10,Undergraduate,PHYS      6C,GELLER R M,B-,38
+S10,Undergraduate,PHYS      6C,GELLER R M,C+,31
+S10,Undergraduate,PHYS      6C,GELLER R M,C,30
+S10,Undergraduate,PHYS      6C,GELLER R M,C-,11
+S10,Undergraduate,PHYS      6C,GELLER R M,D+,1
+S10,Undergraduate,PHYS      6C,GELLER R M,D,4
+S10,Undergraduate,PHYS      6C,GELLER R M,D-,2
+S10,Undergraduate,PHYS      6C,GELLER R M,F,9
+S10,Undergraduate,PHYS    125,NELSON H,A+,5
+S10,Undergraduate,PHYS    125,NELSON H,A,7
+S10,Undergraduate,PHYS    125,NELSON H,A-,6
+S10,Undergraduate,PHYS    125,NELSON H,B+,4
+S10,Undergraduate,PHYS    125,NELSON H,B,5
+S10,Undergraduate,PHYS    125,NELSON H,B-,1
+S10,Undergraduate,PHYS    125,NELSON H,C+,1
+S10,Undergraduate,PHYS    128BL,STUART D D,A+,4
+S10,Undergraduate,PHYS    128BL,STUART D D,A,18
+S10,Undergraduate,PHYS    128BL,STUART D D,A-,1
+S10,Undergraduate,PHYS    128BL,STUART D D,B+,2
+S10,Undergraduate,PHYS    128BL,STUART D D,B,2
+S10,Undergraduate,PHYS    128BL,STUART D D,B-,2
+S10,Undergraduate,PHYS    128BL,STUART D D,C+,2
+S10,Undergraduate,PHYS    128BL,STUART D D,F,1
+S10,Undergraduate,PHYS    131,GIDDINGS S B,A+,1
+S10,Undergraduate,PHYS    131,GIDDINGS S B,A,2
+S10,Undergraduate,PHYS    131,GIDDINGS S B,A-,1
+S10,Undergraduate,PHYS    131,GIDDINGS S B,B+,5
+S10,Undergraduate,PHYS    131,GIDDINGS S B,B,4
+S10,Undergraduate,PHYS    131,GIDDINGS S B,B-,3
+S10,Undergraduate,PHYS    131,GIDDINGS S B,C+,3
+S10,Undergraduate,PHYS    131,GIDDINGS S B,C-,2
+S10,Undergraduate,PHYS    134,BROWN T M,A+,3
+S10,Undergraduate,PHYS    134,BROWN T M,A,5
+S10,Undergraduate,PHYS    134,BROWN T M,A-,1
+S10,Undergraduate,PHYS    134,BROWN T M,B+,3
+S10,Undergraduate,PHYS    134,BROWN T M,B,3
+S10,Undergraduate,PHYS    134,BROWN T M,B-,1
+S10,Undergraduate,PHYS    134,BROWN T M,C+,1
+S10,Undergraduate,PHYS    160J,CARLSON J M,P,7
+S10,Undergraduate,PHYS    198,AWSCHALOM D D,A,7
+S10,Undergraduate,PHYS    198,AWSCHALOM D D,A-,2
+S10,Undergraduate,PHYS    198,AWSCHALOM D D,B+,5
+S10,Undergraduate,PHYS    198,AWSCHALOM D D,B,1
+S10,Graduate,PHYS    210B,GWINN C,A+,2
+S10,Graduate,PHYS    210B,GWINN C,A,7
+S10,Graduate,PHYS    210B,GWINN C,A-,10
+S10,Graduate,PHYS    210B,GWINN C,B+,3
+S10,Graduate,PHYS    215C,EARDLEY D M,A+,10
+S10,Graduate,PHYS    215C,EARDLEY D M,A,10
+S10,Graduate,PHYS    215C,EARDLEY D M,A-,5
+S10,Graduate,PHYS    220,LUDWIG A W,A,8
+S10,Graduate,PHYS    220,LUDWIG A W,A-,2
+S10,Graduate,PHYS    220,LUDWIG A W,B,1
+S10,Graduate,PHYS    231C,MAROLF D M,A,2
+S10,Graduate,PHYS    231C,MAROLF D M,A-,2
+S10,Graduate,PHYS    231C,MAROLF D M,B+,1
+S10,Graduate,PHYS    260A,BERENSTEIN D,S,8
+S10,Graduate,PHYS    260A,LIPMAN E A,S,8
+S10,Graduate,PHYS    260D,HOROWITZ G,S,5
+S10,Graduate,PHYS    260G,EARDLEY D M,S,20
+S10,Graduate,PHYS    596,AWSCHALOM D D,S,10
+S10,Graduate,PHYS    596,BALENTS L M,S,5
+S10,Graduate,PHYS    596,BOUWMEESTER D,S,5
+S10,Graduate,PHYS    596,MARTINIS J,S,8
+S10,Undergraduate,PHYS CS  15C,LIPMAN E A,P,17
+S10,Undergraduate,PHYS CS  33,BEN-YAACOV I,P,25
+S10,Undergraduate,PHYS CS  33,ROIG F S,P,25
+S10,Undergraduate,PHYS CS  36,GURUSWAMY S,P,17
+S10,Undergraduate,PHYS CS  36,ROIG F S,P,17

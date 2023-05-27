@@ -1,0 +1,223 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S13,Undergraduate,ANTH      2,MCLEAN R F,A+,5
+S13,Undergraduate,ANTH      2,MCLEAN R F,A,40
+S13,Undergraduate,ANTH      2,MCLEAN R F,A-,14
+S13,Undergraduate,ANTH      2,MCLEAN R F,B+,7
+S13,Undergraduate,ANTH      2,MCLEAN R F,B,39
+S13,Undergraduate,ANTH      2,MCLEAN R F,B-,22
+S13,Undergraduate,ANTH      2,MCLEAN R F,C+,9
+S13,Undergraduate,ANTH      2,MCLEAN R F,C,25
+S13,Undergraduate,ANTH      2,MCLEAN R F,C-,9
+S13,Undergraduate,ANTH      2,MCLEAN R F,D+,1
+S13,Undergraduate,ANTH      2,MCLEAN R F,D,8
+S13,Undergraduate,ANTH      2,MCLEAN R F,F,19
+S13,Undergraduate,ANTH      3,SMITH S T,A+,6
+S13,Undergraduate,ANTH      3,SMITH S T,A,35
+S13,Undergraduate,ANTH      3,SMITH S T,A-,24
+S13,Undergraduate,ANTH      3,SMITH S T,B+,29
+S13,Undergraduate,ANTH      3,SMITH S T,B,40
+S13,Undergraduate,ANTH      3,SMITH S T,B-,24
+S13,Undergraduate,ANTH      3,SMITH S T,C+,11
+S13,Undergraduate,ANTH      3,SMITH S T,C,16
+S13,Undergraduate,ANTH      3,SMITH S T,C-,3
+S13,Undergraduate,ANTH      3,SMITH S T,D+,1
+S13,Undergraduate,ANTH      3,SMITH S T,D,5
+S13,Undergraduate,ANTH      3,SMITH S T,D-,4
+S13,Undergraduate,ANTH      3,SMITH S T,F,12
+S13,Undergraduate,ANTH      5,GAULIN S J,A+,11
+S13,Undergraduate,ANTH      5,GAULIN S J,A,23
+S13,Undergraduate,ANTH      5,GAULIN S J,A-,17
+S13,Undergraduate,ANTH      5,GAULIN S J,B+,18
+S13,Undergraduate,ANTH      5,GAULIN S J,B,44
+S13,Undergraduate,ANTH      5,GAULIN S J,B-,26
+S13,Undergraduate,ANTH      5,GAULIN S J,C+,21
+S13,Undergraduate,ANTH      5,GAULIN S J,C,38
+S13,Undergraduate,ANTH      5,GAULIN S J,C-,13
+S13,Undergraduate,ANTH      5,GAULIN S J,D+,14
+S13,Undergraduate,ANTH      5,GAULIN S J,D,12
+S13,Undergraduate,ANTH      5,GAULIN S J,D-,6
+S13,Undergraduate,ANTH      5,GAULIN S J,F,26
+S13,Undergraduate,ANTH      7,TOOBY J,A+,6
+S13,Undergraduate,ANTH      7,TOOBY J,A,30
+S13,Undergraduate,ANTH      7,TOOBY J,A-,9
+S13,Undergraduate,ANTH      7,TOOBY J,B+,18
+S13,Undergraduate,ANTH      7,TOOBY J,B,28
+S13,Undergraduate,ANTH      7,TOOBY J,B-,10
+S13,Undergraduate,ANTH      7,TOOBY J,C+,9
+S13,Undergraduate,ANTH      7,TOOBY J,C,15
+S13,Undergraduate,ANTH      7,TOOBY J,C-,4
+S13,Undergraduate,ANTH      7,TOOBY J,D+,2
+S13,Undergraduate,ANTH      7,TOOBY J,D,2
+S13,Undergraduate,ANTH      7,TOOBY J,D-,2
+S13,Undergraduate,ANTH      7,TOOBY J,F,3
+S13,Undergraduate,ANTH      9,BLACKWELL A D,A,7
+S13,Undergraduate,ANTH      9,BLACKWELL A D,A-,3
+S13,Undergraduate,ANTH      9,BLACKWELL A D,B+,4
+S13,Undergraduate,ANTH      9,BLACKWELL A D,B,7
+S13,Undergraduate,ANTH      9,BLACKWELL A D,B-,1
+S13,Undergraduate,ANTH      9,BLACKWELL A D,C,2
+S13,Undergraduate,ANTH      9,BLACKWELL A D,D+,1
+S13,Undergraduate,ANTH      9,BLACKWELL A D,D-,1
+S13,Undergraduate,ANTH      9,BLACKWELL A D,F,1
+S13,Undergraduate,ANTH    100,JOCHIM M A,A-,7
+S13,Undergraduate,ANTH    100,JOCHIM M A,B+,6
+S13,Undergraduate,ANTH    100,JOCHIM M A,B,6
+S13,Undergraduate,ANTH    100,JOCHIM M A,B-,3
+S13,Undergraduate,ANTH    100,JOCHIM M A,C+,5
+S13,Undergraduate,ANTH    100,JOCHIM M A,C,3
+S13,Undergraduate,ANTH    100,JOCHIM M A,C-,2
+S13,Undergraduate,ANTH    100,JOCHIM M A,D+,1
+S13,Undergraduate,ANTH    100,JOCHIM M A,F,1
+S13,Undergraduate,ANTH    103C,PAI H I,B+,4
+S13,Undergraduate,ANTH    103C,PAI H I,B,5
+S13,Undergraduate,ANTH    103C,PAI H I,B-,3
+S13,Undergraduate,ANTH    103C,PAI H I,F,1
+S13,Undergraduate,ANTH    125,TABER P K,A+,6
+S13,Undergraduate,ANTH    125,TABER P K,A,30
+S13,Undergraduate,ANTH    125,TABER P K,A-,1
+S13,Undergraduate,ANTH    125,TABER P K,B+,2
+S13,Undergraduate,ANTH    125,TABER P K,B,17
+S13,Undergraduate,ANTH    125,TABER P K,B-,2
+S13,Undergraduate,ANTH    125,TABER P K,C+,2
+S13,Undergraduate,ANTH    125,TABER P K,C,21
+S13,Undergraduate,ANTH    125,TABER P K,D,2
+S13,Undergraduate,ANTH    125,TABER P K,F,1
+S13,Undergraduate,ANTH    130C,STONICH S C,A,2
+S13,Undergraduate,ANTH    130C,STONICH S C,A-,6
+S13,Undergraduate,ANTH    130C,STONICH S C,B+,2
+S13,Undergraduate,ANTH    130C,STONICH S C,B,7
+S13,Undergraduate,ANTH    130C,STONICH S C,B-,2
+S13,Undergraduate,ANTH    130C,STONICH S C,C+,2
+S13,Undergraduate,ANTH    130C,STONICH S C,C,2
+S13,Undergraduate,ANTH    130C,STONICH S C,C-,3
+S13,Undergraduate,ANTH    130C,STONICH S C,F,1
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,A+,2
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,A,12
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,A-,7
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,B+,12
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,B,7
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,B-,4
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,C+,7
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,C,5
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,C-,3
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,D+,4
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,D,2
+S13,Undergraduate,ANTH    134,SOLER CRUZ C,F,3
+S13,Undergraduate,ANTH    143F,WILSON G D,A,15
+S13,Undergraduate,ANTH    143F,WILSON G D,A-,3
+S13,Undergraduate,ANTH    143F,WILSON G D,B,1
+S13,Undergraduate,ANTH    143F,WILSON G D,D,1
+S13,Undergraduate,ANTH    153S,GAULIN S J,A+,8
+S13,Undergraduate,ANTH    153S,GAULIN S J,A,9
+S13,Undergraduate,ANTH    153S,GAULIN S J,A-,3
+S13,Undergraduate,ANTH    153S,GAULIN S J,B+,3
+S13,Undergraduate,ANTH    153S,GAULIN S J,B,4
+S13,Undergraduate,ANTH    153S,GAULIN S J,B-,5
+S13,Undergraduate,ANTH    153S,GAULIN S J,C+,4
+S13,Undergraduate,ANTH    153S,GAULIN S J,C,14
+S13,Undergraduate,ANTH    153S,GAULIN S J,C-,6
+S13,Undergraduate,ANTH    153S,GAULIN S J,D+,2
+S13,Undergraduate,ANTH    153S,GAULIN S J,D,6
+S13,Undergraduate,ANTH    153S,GAULIN S J,D-,1
+S13,Undergraduate,ANTH    153S,GAULIN S J,F,7
+S13,Undergraduate,ANTH    160,JOCHIM M A,A+,4
+S13,Undergraduate,ANTH    160,JOCHIM M A,A,17
+S13,Undergraduate,ANTH    160,JOCHIM M A,A-,16
+S13,Undergraduate,ANTH    160,JOCHIM M A,B+,20
+S13,Undergraduate,ANTH    160,JOCHIM M A,B,30
+S13,Undergraduate,ANTH    160,JOCHIM M A,B-,7
+S13,Undergraduate,ANTH    160,JOCHIM M A,C+,7
+S13,Undergraduate,ANTH    160,JOCHIM M A,C,12
+S13,Undergraduate,ANTH    160,JOCHIM M A,C-,3
+S13,Undergraduate,ANTH    160,JOCHIM M A,D+,1
+S13,Undergraduate,ANTH    160,JOCHIM M A,D,2
+S13,Undergraduate,ANTH    160,JOCHIM M A,F,7
+S13,Undergraduate,ANTH    168,PALERM J-V,A,3
+S13,Undergraduate,ANTH    168,PALERM J-V,A-,8
+S13,Undergraduate,ANTH    168,PALERM J-V,B+,7
+S13,Undergraduate,ANTH    168,PALERM J-V,B,5
+S13,Undergraduate,ANTH    168,PALERM J-V,B-,1
+S13,Undergraduate,ANTH    168,PALERM J-V,C+,1
+S13,Undergraduate,ANTH    168,PALERM J-V,F,1
+S13,Undergraduate,ANTH    169,GURVEN M D,A+,2
+S13,Undergraduate,ANTH    169,GURVEN M D,A,6
+S13,Undergraduate,ANTH    169,GURVEN M D,A-,2
+S13,Undergraduate,ANTH    169,GURVEN M D,B+,2
+S13,Undergraduate,ANTH    169,GURVEN M D,B,3
+S13,Undergraduate,ANTH    169,GURVEN M D,B-,1
+S13,Undergraduate,ANTH    169,GURVEN M D,C,3
+S13,Undergraduate,ANTH    169,GURVEN M D,C-,3
+S13,Undergraduate,ANTH    169,GURVEN M D,F,1
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,A+,3
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,A,8
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,A-,6
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,B+,6
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,B,8
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,B-,6
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,C+,3
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,C,5
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,C-,2
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,D,1
+S13,Undergraduate,ANTH    177AB,BLACKWELL A D,F,1
+S13,Undergraduate,ANTH    178,GAMBLE L H,P,13
+S13,Undergraduate,ANTH    180B,KURIN D S,A-,4
+S13,Undergraduate,ANTH    180B,KURIN D S,B+,2
+S13,Undergraduate,ANTH    180B,KURIN D S,B,5
+S13,Undergraduate,ANTH    180B,KURIN D S,B-,3
+S13,Undergraduate,ANTH    180B,KURIN D S,C+,2
+S13,Undergraduate,ANTH    180B,KURIN D S,C-,1
+S13,Undergraduate,ANTH    180B,KURIN D S,F,1
+S13,Undergraduate,ANTH    182M,WILSON G D,A+,1
+S13,Undergraduate,ANTH    182M,WILSON G D,A,2
+S13,Undergraduate,ANTH    182M,WILSON G D,A-,2
+S13,Undergraduate,ANTH    182M,WILSON G D,B+,3
+S13,Undergraduate,ANTH    182M,WILSON G D,B,4
+S13,Undergraduate,ANTH    182M,WILSON G D,B-,5
+S13,Undergraduate,ANTH    182M,WILSON G D,C+,2
+S13,Undergraduate,ANTH    182M,WILSON G D,C,1
+S13,Undergraduate,ANTH    182M,WILSON G D,C-,1
+S13,Undergraduate,ANTH    182M,WILSON G D,D+,2
+S13,Undergraduate,ANTH    182M,WILSON G D,D,1
+S13,Undergraduate,ANTH    182M,WILSON G D,F,1
+S13,Undergraduate,ANTH    194P,GAMBLE L H,A+,3
+S13,Undergraduate,ANTH    194P,GAMBLE L H,A,4
+S13,Undergraduate,ANTH    194P,VANDERWARKER,A+,6
+S13,Undergraduate,ANTH    194P,VANDERWARKER,A,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,A,12
+S13,Undergraduate,ANTH    197DK,KURIN D S,A-,7
+S13,Undergraduate,ANTH    197DK,KURIN D S,B+,9
+S13,Undergraduate,ANTH    197DK,KURIN D S,B,2
+S13,Undergraduate,ANTH    197DK,KURIN D S,B-,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,C+,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,C,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,D+,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,D,1
+S13,Undergraduate,ANTH    197DK,KURIN D S,F,1
+S13,Undergraduate,ANTH    197JH,HOELLE J A,A,6
+S13,Undergraduate,ANTH    197JH,HOELLE J A,A-,7
+S13,Undergraduate,ANTH    197JH,HOELLE J A,B+,2
+S13,Undergraduate,ANTH    197JH,HOELLE J A,B,7
+S13,Undergraduate,ANTH    197JH,HOELLE J A,C+,2
+S13,Undergraduate,ANTH    197JH,HOELLE J A,C,2
+S13,Undergraduate,ANTH    197JH,HOELLE J A,D+,1
+S13,Undergraduate,ANTH    197JH,HOELLE J A,D,1
+S13,Undergraduate,ANTH    197JH,HOELLE J A,F,1
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,A+,2
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,A,2
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,A-,5
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,B+,3
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,B,14
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,B-,3
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,C+,5
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,C,3
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,C-,2
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,D+,1
+S13,Undergraduate,ANTH    197MS,SOLER CRUZ C,F,1
+S13,Graduate,ANTH    206AV,VANDERWARKER,A+,4
+S13,Graduate,ANTH    206AV,VANDERWARKER,A,5
+S13,Graduate,ANTH    232,WILSON G D,S,14
+S13,Graduate,ANTH    234,TOOBY J,A,9
+S13,Graduate,ANTH    241,BLACKWELL A D,S,5
+S13,Graduate,ANTH    501,GAULIN S J,S,5
+S13,Graduate,ANTH    501,SMITH S T,S,6
+S13,Graduate,ANTH    599,GLASSOW M A,S,6

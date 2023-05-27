@@ -1,0 +1,239 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F21,Undergraduate,CMPSC     5A,SOLIS S W,A+,25
+F21,Undergraduate,CMPSC     5A,SOLIS S W,A,21
+F21,Undergraduate,CMPSC     5A,SOLIS S W,A-,4
+F21,Undergraduate,CMPSC     5A,SOLIS S W,B+,7
+F21,Undergraduate,CMPSC     5A,SOLIS S W,B,11
+F21,Undergraduate,CMPSC     5A,SOLIS S W,B-,3
+F21,Undergraduate,CMPSC     5A,SOLIS S W,C+,4
+F21,Undergraduate,CMPSC     5A,SOLIS S W,C,1
+F21,Undergraduate,CMPSC     5A,SOLIS S W,C-,1
+F21,Undergraduate,CMPSC     5A,SOLIS S W,D+,1
+F21,Undergraduate,CMPSC     5B,SOLIS S W,A+,2
+F21,Undergraduate,CMPSC     5B,SOLIS S W,A,16
+F21,Undergraduate,CMPSC     5B,SOLIS S W,A-,1
+F21,Undergraduate,CMPSC     5B,SOLIS S W,B+,1
+F21,Undergraduate,CMPSC     5B,SOLIS S W,B,2
+F21,Undergraduate,CMPSC     5B,SOLIS S W,C,1
+F21,Undergraduate,CMPSC     9,WANG R K,A+,11
+F21,Undergraduate,CMPSC     9,WANG R K,A,40
+F21,Undergraduate,CMPSC     9,WANG R K,A-,15
+F21,Undergraduate,CMPSC     9,WANG R K,B+,16
+F21,Undergraduate,CMPSC     9,WANG R K,B,13
+F21,Undergraduate,CMPSC     9,WANG R K,B-,6
+F21,Undergraduate,CMPSC     9,WANG R K,C+,7
+F21,Undergraduate,CMPSC     9,WANG R K,C,4
+F21,Undergraduate,CMPSC     9,WANG R K,C-,4
+F21,Undergraduate,CMPSC     9,WANG R K,D+,3
+F21,Undergraduate,CMPSC     9,WANG R K,D,1
+F21,Undergraduate,CMPSC     9,WANG R K,F,7
+F21,Undergraduate,CMPSC    16,CONRAD P T,A,93
+F21,Undergraduate,CMPSC    16,CONRAD P T,A-,108
+F21,Undergraduate,CMPSC    16,CONRAD P T,B+,4
+F21,Undergraduate,CMPSC    16,CONRAD P T,B,13
+F21,Undergraduate,CMPSC    16,CONRAD P T,B-,10
+F21,Undergraduate,CMPSC    16,CONRAD P T,C+,15
+F21,Undergraduate,CMPSC    16,CONRAD P T,C,2
+F21,Undergraduate,CMPSC    32,EMRE M,A,54
+F21,Undergraduate,CMPSC    32,EMRE M,A-,13
+F21,Undergraduate,CMPSC    32,EMRE M,B+,8
+F21,Undergraduate,CMPSC    32,EMRE M,B,4
+F21,Undergraduate,CMPSC    32,EMRE M,B-,3
+F21,Undergraduate,CMPSC    32,EMRE M,C+,2
+F21,Undergraduate,CMPSC    32,EMRE M,C-,2
+F21,Undergraduate,CMPSC    32,EMRE M,D,1
+F21,Undergraduate,CMPSC    32,EMRE M,F,1
+F21,Undergraduate,CMPSC    40,MIRZA D,A+,6
+F21,Undergraduate,CMPSC    40,MIRZA D,A,22
+F21,Undergraduate,CMPSC    40,MIRZA D,A-,8
+F21,Undergraduate,CMPSC    40,MIRZA D,B+,11
+F21,Undergraduate,CMPSC    40,MIRZA D,B,11
+F21,Undergraduate,CMPSC    40,MIRZA D,B-,5
+F21,Undergraduate,CMPSC    40,MIRZA D,C+,1
+F21,Undergraduate,CMPSC    40,MIRZA D,C,2
+F21,Undergraduate,CMPSC    40,MIRZA D,C-,1
+F21,Undergraduate,CMPSC    40,MIRZA D,F,5
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,A+,4
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,A,41
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,A-,19
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,B+,12
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,B,3
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,B-,3
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,C,2
+F21,Undergraduate,CMPSC    64,SHERWOOD T P,F,1
+F21,Undergraduate,CMPSC   100,CONRAD P T,A,19
+F21,Undergraduate,CMPSC   110,MIRZA D,A+,12
+F21,Undergraduate,CMPSC   110,MIRZA D,A,23
+F21,Undergraduate,CMPSC   110,MIRZA D,A-,3
+F21,Undergraduate,CMPSC   110,MIRZA D,B-,2
+F21,Undergraduate,CMPSC   110,MIRZA D,C+,1
+F21,Undergraduate,CMPSC   110,MIRZA D,C,1
+F21,Undergraduate,CMPSC   111,GILBERT J R,A+,3
+F21,Undergraduate,CMPSC   111,GILBERT J R,A,39
+F21,Undergraduate,CMPSC   111,GILBERT J R,A-,4
+F21,Undergraduate,CMPSC   111,GILBERT J R,B,13
+F21,Undergraduate,CMPSC   111,GILBERT J R,B-,3
+F21,Undergraduate,CMPSC   111,GILBERT J R,C,4
+F21,Undergraduate,CMPSC   111,GILBERT J R,F,2
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,A+,9
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,A,55
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,A-,9
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,B+,6
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,B,5
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,C,1
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,C-,1
+F21,Undergraduate,CMPSC   130A,AGRAWAL D,F,4
+F21,Undergraduate,CMPSC   130B,WANG Y F,A+,1
+F21,Undergraduate,CMPSC   130B,WANG Y F,A,6
+F21,Undergraduate,CMPSC   130B,WANG Y F,A-,4
+F21,Undergraduate,CMPSC   130B,WANG Y F,B+,9
+F21,Undergraduate,CMPSC   130B,WANG Y F,B,4
+F21,Undergraduate,CMPSC   130B,WANG Y F,B-,3
+F21,Undergraduate,CMPSC   130B,WANG Y F,C+,3
+F21,Undergraduate,CMPSC   130B,WANG Y F,C,1
+F21,Undergraduate,CMPSC   130B,WANG Y F,C-,3
+F21,Undergraduate,CMPSC   130B,WANG Y F,D,2
+F21,Undergraduate,CMPSC   130B,WANG Y F,D-,1
+F21,Undergraduate,CMPSC   130B,WANG Y F,F,2
+F21,Undergraduate,CMPSC   138,EL ABBADI A,A+,2
+F21,Undergraduate,CMPSC   138,EL ABBADI A,A,26
+F21,Undergraduate,CMPSC   138,EL ABBADI A,A-,4
+F21,Undergraduate,CMPSC   138,EL ABBADI A,B+,12
+F21,Undergraduate,CMPSC   138,EL ABBADI A,B,20
+F21,Undergraduate,CMPSC   138,EL ABBADI A,B-,2
+F21,Undergraduate,CMPSC   138,EL ABBADI A,C+,3
+F21,Undergraduate,CMPSC   138,EL ABBADI A,C,10
+F21,Undergraduate,CMPSC   138,EL ABBADI A,C-,3
+F21,Undergraduate,CMPSC   138,EL ABBADI A,D+,2
+F21,Undergraduate,CMPSC   138,EL ABBADI A,D,1
+F21,Undergraduate,CMPSC   138,EL ABBADI A,D-,2
+F21,Undergraduate,CMPSC   138,EL ABBADI A,F,2
+F21,Undergraduate,CMPSC   148,HOLLERER T,A+,6
+F21,Undergraduate,CMPSC   148,HOLLERER T,A,36
+F21,Undergraduate,CMPSC   148,HOLLERER T,A-,11
+F21,Undergraduate,CMPSC   148,HOLLERER T,B+,1
+F21,Undergraduate,CMPSC   153A,BREWER F,A+,1
+F21,Undergraduate,CMPSC   153A,BREWER F,A,1
+F21,Undergraduate,CMPSC   153A,BREWER F,A-,1
+F21,Undergraduate,CMPSC   153A,BREWER F,B+,2
+F21,Undergraduate,CMPSC   153A,BREWER F,F,1
+F21,Undergraduate,CMPSC   160,FENG YU,A+,20
+F21,Undergraduate,CMPSC   160,FENG YU,A,5
+F21,Undergraduate,CMPSC   160,FENG YU,A-,2
+F21,Undergraduate,CMPSC   160,FENG YU,B+,2
+F21,Undergraduate,CMPSC   160,FENG YU,B,2
+F21,Undergraduate,CMPSC   160,FENG YU,B-,2
+F21,Undergraduate,CMPSC   160,FENG YU,C+,1
+F21,Undergraduate,CMPSC   160,FENG YU,C,3
+F21,Undergraduate,CMPSC   160,FENG YU,F,1
+F21,Undergraduate,CMPSC   165A,YAN X,A+,22
+F21,Undergraduate,CMPSC   165A,YAN X,A,21
+F21,Undergraduate,CMPSC   165A,YAN X,A-,20
+F21,Undergraduate,CMPSC   165A,YAN X,B+,13
+F21,Undergraduate,CMPSC   165A,YAN X,B,5
+F21,Undergraduate,CMPSC   165A,YAN X,B-,4
+F21,Undergraduate,CMPSC   165A,YAN X,C-,5
+F21,Undergraduate,CMPSC   165A,YAN X,F,3
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,A+,3
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,A,7
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,A-,5
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,B+,1
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,B,2
+F21,Undergraduate,CMPSC   165B,CHANG SHIYU,B-,1
+F21,Undergraduate,CMPSC   170,WOLSKI R M,A,8
+F21,Undergraduate,CMPSC   170,WOLSKI R M,A-,12
+F21,Undergraduate,CMPSC   170,WOLSKI R M,B+,17
+F21,Undergraduate,CMPSC   170,WOLSKI R M,B,10
+F21,Undergraduate,CMPSC   170,WOLSKI R M,B-,12
+F21,Undergraduate,CMPSC   170,WOLSKI R M,C+,8
+F21,Undergraduate,CMPSC   170,WOLSKI R M,C,4
+F21,Undergraduate,CMPSC   170,WOLSKI R M,D+,2
+F21,Undergraduate,CMPSC   174A,CHU S,A+,29
+F21,Undergraduate,CMPSC   174A,CHU S,A,25
+F21,Undergraduate,CMPSC   174A,CHU S,A-,12
+F21,Undergraduate,CMPSC   174A,CHU S,B+,4
+F21,Undergraduate,CMPSC   174A,CHU S,B,5
+F21,Undergraduate,CMPSC   174A,CHU S,B-,3
+F21,Undergraduate,CMPSC   174A,CHU S,C+,2
+F21,Undergraduate,CMPSC   174A,CHU S,D+,3
+F21,Undergraduate,CMPSC   174A,CHU S,F,1
+F21,Undergraduate,CMPSC   176A,MATNI Z A,A+,4
+F21,Undergraduate,CMPSC   176A,MATNI Z A,A,38
+F21,Undergraduate,CMPSC   176A,MATNI Z A,A-,17
+F21,Undergraduate,CMPSC   176A,MATNI Z A,B+,12
+F21,Undergraduate,CMPSC   176A,MATNI Z A,B,7
+F21,Undergraduate,CMPSC   176A,MATNI Z A,B-,1
+F21,Undergraduate,CMPSC   176A,MATNI Z A,C-,3
+F21,Undergraduate,CMPSC   176A,MATNI Z A,D,2
+F21,Undergraduate,CMPSC   178,ANANTH P V,A+,3
+F21,Undergraduate,CMPSC   178,ANANTH P V,A,2
+F21,Undergraduate,CMPSC   178,ANANTH P V,A-,2
+F21,Undergraduate,CMPSC   178,ANANTH P V,B+,4
+F21,Undergraduate,CMPSC   178,ANANTH P V,B,1
+F21,Undergraduate,CMPSC   178,ANANTH P V,B-,3
+F21,Undergraduate,CMPSC   178,ANANTH P V,C+,2
+F21,Undergraduate,CMPSC   178,ANANTH P V,C,1
+F21,Undergraduate,CMPSC   178,ANANTH P V,F,1
+F21,Undergraduate,CMPSC   180,YAN L,A+,1
+F21,Undergraduate,CMPSC   180,YAN L,A,8
+F21,Undergraduate,CMPSC   180,YAN L,A-,5
+F21,Undergraduate,CMPSC   180,YAN L,B+,11
+F21,Undergraduate,CMPSC   180,YAN L,B,8
+F21,Undergraduate,CMPSC   180,YAN L,B-,7
+F21,Undergraduate,CMPSC   180,YAN L,C+,4
+F21,Undergraduate,CMPSC   180,YAN L,D,1
+F21,Undergraduate,CMPSC   190DD,SINGH A K,A+,3
+F21,Undergraduate,CMPSC   190DD,SINGH A K,A,11
+F21,Undergraduate,CMPSC   190DD,SINGH A K,A-,5
+F21,Undergraduate,CMPSC   190DD,SINGH A K,B+,1
+F21,Undergraduate,CMPSC   190DD,SINGH A K,B,1
+F21,Undergraduate,CMPSC   190DD,SINGH A K,B-,2
+F21,Undergraduate,CMPSC   196,BALKIND J M,A+,2
+F21,Undergraduate,CMPSC   196,BALKIND J M,A,6
+F21,Graduate,CMPSC   211A,CHANDRASEKARA,A+,1
+F21,Graduate,CMPSC   211A,CHANDRASEKARA,A,11
+F21,Graduate,CMPSC   235,SURI S,A+,1
+F21,Graduate,CMPSC   235,SURI S,A,11
+F21,Graduate,CMPSC   235,SURI S,A-,1
+F21,Graduate,CMPSC   235,SURI S,B,1
+F21,Graduate,CMPSC   263,KRINTZ C,A,31
+F21,Graduate,CMPSC   291A,BEYELER M,A+,5
+F21,Graduate,CMPSC   291A,BEYELER M,A,16
+F21,Graduate,CMPSC   291A,BEYELER M,A-,4
+F21,Graduate,CMPSC   291A,BEYELER M,B+,5
+F21,Graduate,CMPSC   291A,BEYELER M,F,1
+F21,Graduate,CMPSC   291A,BOE B A,A+,22
+F21,Graduate,CMPSC   291A,BOE B A,A,11
+F21,Graduate,CMPSC   291A,BOE B A,A-,3
+F21,Graduate,CMPSC   291A,BOE B A,B+,1
+F21,Graduate,CMPSC   291A,WANG YUXIANG,A+,4
+F21,Graduate,CMPSC   291A,WANG YUXIANG,A,4
+F21,Graduate,CMPSC   291A,WANG YUXIANG,A-,1
+F21,Graduate,CMPSC   291K,LI LEI,A+,3
+F21,Graduate,CMPSC   291K,LI LEI,A,11
+F21,Graduate,CMPSC   291K,LI LEI,A-,2
+F21,Graduate,CMPSC   291K,LI LEI,B+,1
+F21,Graduate,CMPSC   291K,LI LEI,B,1
+F21,Graduate,CMPSC   292A,VIGODA E J,A+,1
+F21,Graduate,CMPSC   292A,VIGODA E J,A,16
+F21,Graduate,CMPSC   292G,BULTAN T,A+,1
+F21,Graduate,CMPSC   292G,BULTAN T,A,15
+F21,Graduate,CMPSC   292G,BULTAN T,A-,2
+F21,Graduate,CMPSC   292G,BULTAN T,B+,2
+F21,Graduate,CMPSC   292G,BULTAN T,B-,1
+F21,Graduate,CMPSC   293S,YANG T,A,20
+F21,Graduate,CMPSC   293S,YANG T,A-,5
+F21,Graduate,CMPSC   293S,YANG T,B+,1
+F21,Graduate,CMPSC   501,BULTAN T,S,77
+F21,Graduate,CMPSC   502,BULTAN T,S,46
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,A,81
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,A-,28
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,B+,20
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,B,34
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,B-,22
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,C+,11
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,C,5
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,C-,10
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,D+,7
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,D,9
+F21,Undergraduate,CMPSCW    8,KHARITONOVA Y,F,36

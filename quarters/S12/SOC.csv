@@ -1,0 +1,294 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S12,Undergraduate,SOC       1,RIOS V M,A+,18
+S12,Undergraduate,SOC       1,RIOS V M,A,196
+S12,Undergraduate,SOC       1,RIOS V M,A-,122
+S12,Undergraduate,SOC       1,RIOS V M,B+,69
+S12,Undergraduate,SOC       1,RIOS V M,B,51
+S12,Undergraduate,SOC       1,RIOS V M,B-,19
+S12,Undergraduate,SOC       1,RIOS V M,C+,14
+S12,Undergraduate,SOC       1,RIOS V M,C,6
+S12,Undergraduate,SOC       1,RIOS V M,C-,3
+S12,Undergraduate,SOC       1,RIOS V M,D+,1
+S12,Undergraduate,SOC       1,RIOS V M,D,1
+S12,Undergraduate,SOC       1,RIOS V M,F,5
+S12,Undergraduate,SOC       1H,RIOS V M,A,14
+S12,Undergraduate,SOC     108A,RAWLINGS C M,A+,7
+S12,Undergraduate,SOC     108A,RAWLINGS C M,A,26
+S12,Undergraduate,SOC     108A,RAWLINGS C M,A-,9
+S12,Undergraduate,SOC     108A,RAWLINGS C M,B+,5
+S12,Undergraduate,SOC     108A,RAWLINGS C M,B,5
+S12,Undergraduate,SOC     108A,RAWLINGS C M,C,1
+S12,Undergraduate,SOC     108A,RAWLINGS C M,F,4
+S12,Undergraduate,SOC     108C,SKAPOULLI E,A+,3
+S12,Undergraduate,SOC     108C,SKAPOULLI E,A,24
+S12,Undergraduate,SOC     108C,SKAPOULLI E,A-,13
+S12,Undergraduate,SOC     108C,SKAPOULLI E,B+,8
+S12,Undergraduate,SOC     108C,SKAPOULLI E,B,7
+S12,Undergraduate,SOC     108C,SKAPOULLI E,B-,4
+S12,Undergraduate,SOC     108C,SKAPOULLI E,C+,2
+S12,Undergraduate,SOC     108C,SKAPOULLI E,C-,1
+S12,Undergraduate,SOC     108C,SKAPOULLI E,F,2
+S12,Undergraduate,SOC     108F,GUZMAN M,A,9
+S12,Undergraduate,SOC     108F,GUZMAN M,A-,12
+S12,Undergraduate,SOC     108F,GUZMAN M,B+,11
+S12,Undergraduate,SOC     108F,GUZMAN M,B,9
+S12,Undergraduate,SOC     108F,GUZMAN M,B-,8
+S12,Undergraduate,SOC     108F,GUZMAN M,C+,2
+S12,Undergraduate,SOC     108F,GUZMAN M,C,1
+S12,Undergraduate,SOC     108F,GUZMAN M,C-,2
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,A,4
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,A-,6
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,B+,5
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,B,7
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,B-,7
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,C+,2
+S12,Undergraduate,SOC     118GR,JUERGENSMEYER,C,1
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,A+,3
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,A,20
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,A-,13
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,B+,12
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,B,9
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,B-,4
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,C+,2
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,C,6
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,C-,1
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,D-,1
+S12,Undergraduate,SOC     130ME,ANDERSON KE B,F,7
+S12,Undergraduate,SOC     134,HAJJAR L,A,21
+S12,Undergraduate,SOC     134,HAJJAR L,A-,12
+S12,Undergraduate,SOC     134,HAJJAR L,B+,15
+S12,Undergraduate,SOC     134,HAJJAR L,B,18
+S12,Undergraduate,SOC     134,HAJJAR L,B-,7
+S12,Undergraduate,SOC     134,HAJJAR L,C+,6
+S12,Undergraduate,SOC     134,HAJJAR L,C,3
+S12,Undergraduate,SOC     134,HAJJAR L,F,1
+S12,Undergraduate,SOC     134EC,FORAN J F,A+,24
+S12,Undergraduate,SOC     134EC,FORAN J F,A,30
+S12,Undergraduate,SOC     134EC,FORAN J F,A-,13
+S12,Undergraduate,SOC     134EC,FORAN J F,B+,4
+S12,Undergraduate,SOC     134EC,FORAN J F,B-,1
+S12,Undergraduate,SOC     134EC,FORAN J F,F,1
+S12,Undergraduate,SOC     134G,CLEMENCON R,A+,4
+S12,Undergraduate,SOC     134G,CLEMENCON R,A,11
+S12,Undergraduate,SOC     134G,CLEMENCON R,A-,9
+S12,Undergraduate,SOC     134G,CLEMENCON R,B+,5
+S12,Undergraduate,SOC     134G,CLEMENCON R,B,12
+S12,Undergraduate,SOC     134G,CLEMENCON R,B-,8
+S12,Undergraduate,SOC     134G,CLEMENCON R,C+,2
+S12,Undergraduate,SOC     134G,CLEMENCON R,C,7
+S12,Undergraduate,SOC     134G,CLEMENCON R,C-,2
+S12,Undergraduate,SOC     134G,CLEMENCON R,D,5
+S12,Undergraduate,SOC     134G,CLEMENCON R,F,4
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,A,26
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,A-,21
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B+,22
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B,6
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,B-,5
+S12,Undergraduate,SOC     134LA,LOPEZ-ALVES F,C,1
+S12,Undergraduate,SOC     139A,DANIEL R,A,6
+S12,Undergraduate,SOC     139A,DANIEL R,A-,15
+S12,Undergraduate,SOC     139A,DANIEL R,B+,9
+S12,Undergraduate,SOC     139A,DANIEL R,B,5
+S12,Undergraduate,SOC     139A,DANIEL R,C-,3
+S12,Undergraduate,SOC     139A,DANIEL R,F,2
+S12,Undergraduate,SOC     139C,DANIEL R,A+,3
+S12,Undergraduate,SOC     139C,DANIEL R,A,3
+S12,Undergraduate,SOC     139C,DANIEL R,A-,10
+S12,Undergraduate,SOC     139C,DANIEL R,B+,10
+S12,Undergraduate,SOC     139C,DANIEL R,B,6
+S12,Undergraduate,SOC     139C,DANIEL R,B-,9
+S12,Undergraduate,SOC     139C,DANIEL R,C-,4
+S12,Undergraduate,SOC     139C,DANIEL R,F,5
+S12,Undergraduate,SOC     142,BALDWIN J D,A+,3
+S12,Undergraduate,SOC     142,BALDWIN J D,A,41
+S12,Undergraduate,SOC     142,BALDWIN J D,A-,3
+S12,Undergraduate,SOC     142,BALDWIN J D,B+,5
+S12,Undergraduate,SOC     142,BALDWIN J D,B,36
+S12,Undergraduate,SOC     142,BALDWIN J D,B-,2
+S12,Undergraduate,SOC     142,BALDWIN J D,C+,4
+S12,Undergraduate,SOC     142,BALDWIN J D,C,24
+S12,Undergraduate,SOC     142,BALDWIN J D,C-,3
+S12,Undergraduate,SOC     142,BALDWIN J D,D,3
+S12,Undergraduate,SOC     142,BALDWIN J D,F,4
+S12,Undergraduate,SOC     144S,MILLER S D,A,14
+S12,Undergraduate,SOC     144S,MILLER S D,A-,5
+S12,Undergraduate,SOC     144S,MILLER S D,B+,10
+S12,Undergraduate,SOC     144S,MILLER S D,B,21
+S12,Undergraduate,SOC     144S,MILLER S D,B-,10
+S12,Undergraduate,SOC     144S,MILLER S D,C+,5
+S12,Undergraduate,SOC     144S,MILLER S D,C,3
+S12,Undergraduate,SOC     144S,MILLER S D,C-,5
+S12,Undergraduate,SOC     144S,MILLER S D,D+,2
+S12,Undergraduate,SOC     144S,MILLER S D,D,1
+S12,Undergraduate,SOC     144S,MILLER S D,F,4
+S12,Undergraduate,SOC     145,SKAPOULLI E,A+,8
+S12,Undergraduate,SOC     145,SKAPOULLI E,A,12
+S12,Undergraduate,SOC     145,SKAPOULLI E,A-,14
+S12,Undergraduate,SOC     145,SKAPOULLI E,B+,10
+S12,Undergraduate,SOC     145,SKAPOULLI E,B,14
+S12,Undergraduate,SOC     145,SKAPOULLI E,B-,8
+S12,Undergraduate,SOC     145,SKAPOULLI E,C+,3
+S12,Undergraduate,SOC     145,SKAPOULLI E,C,5
+S12,Undergraduate,SOC     145,SKAPOULLI E,D-,1
+S12,Undergraduate,SOC     145,SKAPOULLI E,F,1
+S12,Undergraduate,SOC     147,CAST A D,A+,12
+S12,Undergraduate,SOC     147,CAST A D,A,16
+S12,Undergraduate,SOC     147,CAST A D,A-,9
+S12,Undergraduate,SOC     147,CAST A D,B+,11
+S12,Undergraduate,SOC     147,CAST A D,B,6
+S12,Undergraduate,SOC     147,CAST A D,B-,11
+S12,Undergraduate,SOC     147,CAST A D,C+,10
+S12,Undergraduate,SOC     147,CAST A D,C,3
+S12,Undergraduate,SOC     147,CAST A D,C-,4
+S12,Undergraduate,SOC     147,CAST A D,D+,1
+S12,Undergraduate,SOC     147,CAST A D,D,1
+S12,Undergraduate,SOC     147,CAST A D,D-,1
+S12,Undergraduate,SOC     147,CAST A D,F,2
+S12,Undergraduate,SOC     150,FRIEDLAND R O,A+,3
+S12,Undergraduate,SOC     150,FRIEDLAND R O,A,3
+S12,Undergraduate,SOC     150,FRIEDLAND R O,A-,2
+S12,Undergraduate,SOC     150,FRIEDLAND R O,B+,3
+S12,Undergraduate,SOC     150,FRIEDLAND R O,B,2
+S12,Undergraduate,SOC     150,FRIEDLAND R O,B-,4
+S12,Undergraduate,SOC     150,FRIEDLAND R O,F,1
+S12,Undergraduate,SOC     152A,BALDWIN J D,A+,10
+S12,Undergraduate,SOC     152A,BALDWIN J D,A,169
+S12,Undergraduate,SOC     152A,BALDWIN J D,A-,20
+S12,Undergraduate,SOC     152A,BALDWIN J D,B+,25
+S12,Undergraduate,SOC     152A,BALDWIN J D,B,114
+S12,Undergraduate,SOC     152A,BALDWIN J D,B-,37
+S12,Undergraduate,SOC     152A,BALDWIN J D,C+,51
+S12,Undergraduate,SOC     152A,BALDWIN J D,C,76
+S12,Undergraduate,SOC     152A,BALDWIN J D,C-,5
+S12,Undergraduate,SOC     152A,BALDWIN J D,D,16
+S12,Undergraduate,SOC     152A,BALDWIN J D,F,22
+S12,Undergraduate,SOC     152A,BALDWIN J I,A+,10
+S12,Undergraduate,SOC     152A,BALDWIN J I,A,169
+S12,Undergraduate,SOC     152A,BALDWIN J I,A-,20
+S12,Undergraduate,SOC     152A,BALDWIN J I,B+,25
+S12,Undergraduate,SOC     152A,BALDWIN J I,B,114
+S12,Undergraduate,SOC     152A,BALDWIN J I,B-,37
+S12,Undergraduate,SOC     152A,BALDWIN J I,C+,51
+S12,Undergraduate,SOC     152A,BALDWIN J I,C,76
+S12,Undergraduate,SOC     152A,BALDWIN J I,C-,5
+S12,Undergraduate,SOC     152A,BALDWIN J I,D,16
+S12,Undergraduate,SOC     152A,BALDWIN J I,F,22
+S12,Undergraduate,SOC     152B,BALDWIN J D,A,17
+S12,Undergraduate,SOC     152B,BALDWIN J D,A-,2
+S12,Undergraduate,SOC     152B,BALDWIN J I,A,17
+S12,Undergraduate,SOC     152B,BALDWIN J I,A-,2
+S12,Undergraduate,SOC     152C,BALDWIN J D,A+,15
+S12,Undergraduate,SOC     152C,BALDWIN J D,A-,1
+S12,Undergraduate,SOC     152C,BALDWIN J I,A+,15
+S12,Undergraduate,SOC     152C,BALDWIN J I,A-,1
+S12,Undergraduate,SOC     154A,CAST A D,A+,2
+S12,Undergraduate,SOC     154A,CAST A D,A,5
+S12,Undergraduate,SOC     154A,CAST A D,A-,10
+S12,Undergraduate,SOC     154A,CAST A D,B+,13
+S12,Undergraduate,SOC     154A,CAST A D,B,13
+S12,Undergraduate,SOC     154A,CAST A D,B-,14
+S12,Undergraduate,SOC     154A,CAST A D,C+,8
+S12,Undergraduate,SOC     154A,CAST A D,C,7
+S12,Undergraduate,SOC     154A,CAST A D,C-,5
+S12,Undergraduate,SOC     154A,CAST A D,D,1
+S12,Undergraduate,SOC     154A,CAST A D,F,1
+S12,Undergraduate,SOC     156A,BHAVNANI K,A+,2
+S12,Undergraduate,SOC     156A,BHAVNANI K,A,21
+S12,Undergraduate,SOC     156A,BHAVNANI K,A-,13
+S12,Undergraduate,SOC     156A,BHAVNANI K,B+,33
+S12,Undergraduate,SOC     156A,BHAVNANI K,B,11
+S12,Undergraduate,SOC     156A,BHAVNANI K,B-,5
+S12,Undergraduate,SOC     156A,BHAVNANI K,C+,1
+S12,Undergraduate,SOC     156A,BHAVNANI K,C,2
+S12,Undergraduate,SOC     156A,BHAVNANI K,D,3
+S12,Undergraduate,SOC     156A,BHAVNANI K,F,1
+S12,Undergraduate,SOC     156B,BHAVNANI K,A,7
+S12,Undergraduate,SOC     170,SUTTON J R,A,5
+S12,Undergraduate,SOC     170,SUTTON J R,A-,14
+S12,Undergraduate,SOC     170,SUTTON J R,B+,16
+S12,Undergraduate,SOC     170,SUTTON J R,B,20
+S12,Undergraduate,SOC     170,SUTTON J R,B-,23
+S12,Undergraduate,SOC     170,SUTTON J R,C+,14
+S12,Undergraduate,SOC     170,SUTTON J R,C,3
+S12,Undergraduate,SOC     170,SUTTON J R,F,1
+S12,Undergraduate,SOC     173,HAJJAR L,A+,4
+S12,Undergraduate,SOC     173,HAJJAR L,A,17
+S12,Undergraduate,SOC     173,HAJJAR L,A-,10
+S12,Undergraduate,SOC     173,HAJJAR L,B+,14
+S12,Undergraduate,SOC     173,HAJJAR L,B,5
+S12,Undergraduate,SOC     173,HAJJAR L,B-,7
+S12,Undergraduate,SOC     173,HAJJAR L,C+,5
+S12,Undergraduate,SOC     173,HAJJAR L,C,7
+S12,Undergraduate,SOC     173,HAJJAR L,C-,1
+S12,Undergraduate,SOC     173,HAJJAR L,D+,2
+S12,Undergraduate,SOC     173,HAJJAR L,D,1
+S12,Undergraduate,SOC     185A,RAWLINGS C M,A+,3
+S12,Undergraduate,SOC     185A,RAWLINGS C M,A,7
+S12,Undergraduate,SOC     185A,RAWLINGS C M,A-,9
+S12,Undergraduate,SOC     185A,RAWLINGS C M,B+,7
+S12,Undergraduate,SOC     185A,RAWLINGS C M,B,22
+S12,Undergraduate,SOC     185A,RAWLINGS C M,B-,4
+S12,Undergraduate,SOC     185A,RAWLINGS C M,C+,3
+S12,Undergraduate,SOC     185A,RAWLINGS C M,C,6
+S12,Undergraduate,SOC     185A,RAWLINGS C M,C-,1
+S12,Undergraduate,SOC     185A,RAWLINGS C M,F,3
+S12,Undergraduate,SOC     185C,CRUZ J D,A,11
+S12,Undergraduate,SOC     185C,CRUZ J D,A-,10
+S12,Undergraduate,SOC     185C,CRUZ J D,B+,9
+S12,Undergraduate,SOC     185C,CRUZ J D,B,16
+S12,Undergraduate,SOC     185C,CRUZ J D,B-,8
+S12,Undergraduate,SOC     185C,CRUZ J D,C+,9
+S12,Undergraduate,SOC     185C,CRUZ J D,C,2
+S12,Undergraduate,SOC     185C,CRUZ J D,C-,1
+S12,Undergraduate,SOC     185C,CRUZ J D,D+,1
+S12,Undergraduate,SOC     185C,CRUZ J D,F,4
+S12,Undergraduate,SOC     185F,MOHR J,A+,5
+S12,Undergraduate,SOC     185F,MOHR J,A,3
+S12,Undergraduate,SOC     185F,MOHR J,A-,8
+S12,Undergraduate,SOC     185F,MOHR J,B+,12
+S12,Undergraduate,SOC     185F,MOHR J,B,6
+S12,Undergraduate,SOC     185F,MOHR J,B-,4
+S12,Undergraduate,SOC     185F,MOHR J,C+,8
+S12,Undergraduate,SOC     185F,MOHR J,C,4
+S12,Undergraduate,SOC     185F,MOHR J,C-,2
+S12,Undergraduate,SOC     185F,MOHR J,D+,1
+S12,Undergraduate,SOC     185F,MOHR J,D,1
+S12,Undergraduate,SOC     185F,MOHR J,F,2
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,A+,1
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,A,5
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,A-,3
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,B+,8
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,B,6
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,B-,3
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,C+,6
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,C,3
+S12,Undergraduate,SOC     185S,SCHNEIDER B E,F,1
+S12,Undergraduate,SOC     190A,RIOS V M,P,12
+S12,Undergraduate,SOC     194,FLACKS R,A,26
+S12,Undergraduate,SOC     199,BALDWIN J D,A+,6
+S12,Undergraduate,SOC     199,BALDWIN J D,A,1
+S12,Undergraduate,SOC     199RA,FORAN J F,P,7
+S12,Graduate,SOC     207C,ANDERSON KE B,A+,1
+S12,Graduate,SOC     207C,ANDERSON KE B,A,3
+S12,Graduate,SOC     207C,ANDERSON KE B,A-,2
+S12,Graduate,SOC     212B,LOPEZ-ALVES F,A,5
+S12,Graduate,SOC     213,BHAVNANI K,A,11
+S12,Graduate,SOC     213,BHAVNANI K,A-,2
+S12,Graduate,SOC     218CP,MOHR J,A,9
+S12,Graduate,SOC     265GR,FORAN J F,A+,2
+S12,Graduate,SOC     265GR,FORAN J F,A,13
+S12,Graduate,SOC     272,RIOS V M,A,8
+S12,Graduate,SOC     272,RIOS V M,A-,3
+S12,Graduate,SOC     272,RIOS V M,B,1
+S12,Graduate,SOC     272,RIOS V M,F,1
+S12,Graduate,SOC     272,SUTTON J R,A,8
+S12,Graduate,SOC     272,SUTTON J R,A-,3
+S12,Graduate,SOC     272,SUTTON J R,B,1
+S12,Graduate,SOC     272,SUTTON J R,F,1
+S12,Graduate,SOC     274,RAYMOND G,S,6
+S12,Graduate,SOC     294,TAYLOR V,A+,6
+S12,Graduate,SOC     294,TAYLOR V,A,1
+S12,Graduate,SOC     501,RIOS V M,S,6
+S12,Graduate,SOC     591,HARTHORN B H,S,6
+S12,Graduate,SOC     599,SEGURA D A,S,8
+S12,Graduate,SOC     599,TAYLOR V,S,5

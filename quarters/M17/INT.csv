@@ -1,0 +1,105 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M17,Undergraduate,INT       1,GANNETT L A,P,18
+M17,Undergraduate,INT       1,HEINBACH C M,P,19
+M17,Undergraduate,INT       1,HEINBACH C M,NP,3
+M17,Undergraduate,INT       1,LABONTE K B,P,20
+M17,Undergraduate,INT       1,MORIHARA L C,P,21
+M17,Undergraduate,INT       1,MORIHARA L C,NP,2
+M17,Undergraduate,INT      35DS,DIGESER E D,A,8
+M17,Undergraduate,INT      35DS,DIGESER E D,A-,4
+M17,Undergraduate,INT      35DS,DIGESER E D,B+,4
+M17,Undergraduate,INT      35DS,DIGESER E D,B,2
+M17,Undergraduate,INT      35DS,DIGESER E D,B-,1
+M17,Undergraduate,INT      35DS,DIGESER E D,F,1
+M17,Undergraduate,INT      35DS,SPICKARD P R,A,8
+M17,Undergraduate,INT      35DS,SPICKARD P R,A-,4
+M17,Undergraduate,INT      35DS,SPICKARD P R,B+,4
+M17,Undergraduate,INT      35DS,SPICKARD P R,B,2
+M17,Undergraduate,INT      35DS,SPICKARD P R,B-,1
+M17,Undergraduate,INT      35DS,SPICKARD P R,F,1
+M17,Undergraduate,INT      35LT,APPEL I J,A,14
+M17,Undergraduate,INT      35LT,APPEL I J,A-,11
+M17,Undergraduate,INT      35LT,APPEL I J,B+,3
+M17,Undergraduate,INT      35LT,APPEL I J,B,1
+M17,Undergraduate,INT      35LT,APPEL I J,C-,1
+M17,Undergraduate,INT      35LT,KEARNEY J J,A,14
+M17,Undergraduate,INT      35LT,KEARNEY J J,A-,11
+M17,Undergraduate,INT      35LT,KEARNEY J J,B+,3
+M17,Undergraduate,INT      35LT,KEARNEY J J,B,1
+M17,Undergraduate,INT      35LT,KEARNEY J J,C-,1
+M17,Undergraduate,INT      64,ASQUITH A L,P,28
+M17,Undergraduate,INT      64,PARK G,P,15
+M17,Undergraduate,INT      64,VILLANUEVA-SA,P,19
+M17,Undergraduate,INT      91,WELCH Z S,A+,4
+M17,Undergraduate,INT      91,WELCH Z S,A,2
+M17,Undergraduate,INT      91,WELCH Z S,A-,5
+M17,Undergraduate,INT      91,WELCH Z S,B+,1
+M17,Undergraduate,INT      91,WELCH Z S,B-,3
+M17,Undergraduate,INT      91,WELCH Z S,C+,3
+M17,Undergraduate,INT      91,WELCH Z S,C,1
+M17,Undergraduate,INT      93LS,MCDOWELL C I,A+,1
+M17,Undergraduate,INT      93LS,MCDOWELL C I,A,20
+M17,Undergraduate,INT      93LS,MCDOWELL C I,A-,2
+M17,Undergraduate,INT      93LS,MCDOWELL C I,B+,1
+M17,Undergraduate,INT      93LS,WOLFE H E,A+,3
+M17,Undergraduate,INT      93LS,WOLFE H E,A,8
+M17,Undergraduate,INT      93LS,WOLFE H E,A-,5
+M17,Undergraduate,INT      93LS,WOLFE H E,B+,4
+M17,Undergraduate,INT      93LS,WOLFE H E,B,2
+M17,Undergraduate,INT      93LS,WOLFE H E,B-,1
+M17,Undergraduate,INT      93LS,WOLFE H E,C+,1
+M17,Undergraduate,INT      93P,KIM L,A,71
+M17,Undergraduate,INT      93P,KIM L,A-,2
+M17,Undergraduate,INT      93R,KIM L,A,67
+M17,Undergraduate,INT      93R,KIM L,A-,5
+M17,Undergraduate,INT      93R,KIM L,B+,1
+M17,Undergraduate,INT      94FC,DUTSCH D,P,11
+M17,Undergraduate,INT      94GZ,SMITH S T,P,10
+M17,Undergraduate,INT      94IM,PARK J S W,P,18
+M17,Undergraduate,INT      94RG,LEE H,P,36
+M17,Undergraduate,INT      94ZZ,ZHAO X,P,5
+M17,Undergraduate,INT      95A,GALLUCCI R,A+,25
+M17,Undergraduate,INT      95A,GALLUCCI R,A,387
+M17,Undergraduate,INT      95A,GALLUCCI R,A-,14
+M17,Undergraduate,INT      95A,GALLUCCI R,B+,5
+M17,Undergraduate,INT      95A,GALLUCCI R,B,1
+M17,Undergraduate,INT     108,FANCHER P J,P,12
+M17,Undergraduate,INT     111BI,CHRISTOFFERSE,A,7
+M17,Undergraduate,INT     111PS,MILLER M B,A+,14
+M17,Undergraduate,INT     112E,HARTMAN J L,A,5
+M17,Undergraduate,INT     112E,HARTMAN J L,A-,5
+M17,Undergraduate,INT     133A,KOSIK K S,A,25
+M17,Undergraduate,INT     133A,KOSIK K S,A-,2
+M17,Undergraduate,INT     133A,KOSIK K S,B+,2
+M17,Undergraduate,INT     133A,KOSIK K S,B,2
+M17,Undergraduate,INT     133A,KOSIK K S,C,1
+M17,Undergraduate,INT     133A,KOSIK K S,D,1
+M17,Undergraduate,INT     133A,YASUDA K,A,25
+M17,Undergraduate,INT     133A,YASUDA K,A-,2
+M17,Undergraduate,INT     133A,YASUDA K,B+,2
+M17,Undergraduate,INT     133A,YASUDA K,B,2
+M17,Undergraduate,INT     133A,YASUDA K,C,1
+M17,Undergraduate,INT     133A,YASUDA K,D,1
+M17,Undergraduate,INT     133B,FORAN J F,A+,7
+M17,Undergraduate,INT     133B,FORAN J F,A,20
+M17,Undergraduate,INT     133B,FORAN J F,A-,13
+M17,Undergraduate,INT     133B,FORAN J F,B+,6
+M17,Undergraduate,INT     133B,FORAN J F,C+,1
+M17,Undergraduate,INT     133B,FORAN J F,C-,1
+M17,Undergraduate,INT     133B,FORAN J F,D+,1
+M17,Undergraduate,INT     133B,FORAN J F,D,1
+M17,Undergraduate,INT     133B,FORAN J F,F,2
+M17,Undergraduate,INT     133B,HILTNER K C,A+,7
+M17,Undergraduate,INT     133B,HILTNER K C,A,20
+M17,Undergraduate,INT     133B,HILTNER K C,A-,13
+M17,Undergraduate,INT     133B,HILTNER K C,B+,6
+M17,Undergraduate,INT     133B,HILTNER K C,C+,1
+M17,Undergraduate,INT     133B,HILTNER K C,C-,1
+M17,Undergraduate,INT     133B,HILTNER K C,D+,1
+M17,Undergraduate,INT     133B,HILTNER K C,D,1
+M17,Undergraduate,INT     133B,HILTNER K C,F,2
+M17,Undergraduate,INT     184AB,CHRISTOFFERSE,A+,1
+M17,Undergraduate,INT     184AB,CHRISTOFFERSE,A,15
+M17,Undergraduate,INT     184AB,CHRISTOFFERSE,B+,1
+M17,Undergraduate,INT     184ZZ,JONES C,A,11
+M17,Undergraduate,INT     192DC,ADLER-KASSNER,P,16

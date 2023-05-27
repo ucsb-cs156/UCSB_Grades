@@ -1,0 +1,266 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+S16,Undergraduate,ENGL     10,GRIFFIN A R,A+,14
+S16,Undergraduate,ENGL     10,GRIFFIN A R,A,25
+S16,Undergraduate,ENGL     10,GRIFFIN A R,A-,37
+S16,Undergraduate,ENGL     10,GRIFFIN A R,B+,40
+S16,Undergraduate,ENGL     10,GRIFFIN A R,B,49
+S16,Undergraduate,ENGL     10,GRIFFIN A R,B-,28
+S16,Undergraduate,ENGL     10,GRIFFIN A R,C+,19
+S16,Undergraduate,ENGL     10,GRIFFIN A R,C,7
+S16,Undergraduate,ENGL     10,GRIFFIN A R,C-,6
+S16,Undergraduate,ENGL     10,GRIFFIN A R,D+,1
+S16,Undergraduate,ENGL     10,GRIFFIN A R,D,1
+S16,Undergraduate,ENGL     10,GRIFFIN A R,D-,2
+S16,Undergraduate,ENGL     10,GRIFFIN A R,F,9
+S16,Undergraduate,ENGL     10S,GRIFFIN A R,A,10
+S16,Undergraduate,ENGL     24G,WAID C J,A+,8
+S16,Undergraduate,ENGL     24G,WAID C J,A,36
+S16,Undergraduate,ENGL     24G,WAID C J,A-,14
+S16,Undergraduate,ENGL     24G,WAID C J,B+,10
+S16,Undergraduate,ENGL     24G,WAID C J,B,8
+S16,Undergraduate,ENGL     24G,WAID C J,B-,7
+S16,Undergraduate,ENGL     24G,WAID C J,C+,3
+S16,Undergraduate,ENGL     24G,WAID C J,C,4
+S16,Undergraduate,ENGL     24G,WAID C J,C-,3
+S16,Undergraduate,ENGL     24G,WAID C J,D+,1
+S16,Undergraduate,ENGL     24G,WAID C J,D,2
+S16,Undergraduate,ENGL     24G,WAID C J,F,10
+S16,Undergraduate,ENGL     25,LIU A Y,A,10
+S16,Undergraduate,ENGL     25,LIU A Y,A-,13
+S16,Undergraduate,ENGL     25,LIU A Y,B+,32
+S16,Undergraduate,ENGL     25,LIU A Y,B,19
+S16,Undergraduate,ENGL     25,LIU A Y,B-,22
+S16,Undergraduate,ENGL     25,LIU A Y,C+,14
+S16,Undergraduate,ENGL     25,LIU A Y,C,3
+S16,Undergraduate,ENGL     25,LIU A Y,C-,8
+S16,Undergraduate,ENGL     25,LIU A Y,D+,1
+S16,Undergraduate,ENGL     25,LIU A Y,D,1
+S16,Undergraduate,ENGL     25,LIU A Y,F,10
+S16,Undergraduate,ENGL     50,MEGNA P J,A+,4
+S16,Undergraduate,ENGL     50,MEGNA P J,A,9
+S16,Undergraduate,ENGL     50,MEGNA P J,A-,13
+S16,Undergraduate,ENGL     50,MEGNA P J,B+,5
+S16,Undergraduate,ENGL     50,RANA S,A+,1
+S16,Undergraduate,ENGL     50,RANA S,A,40
+S16,Undergraduate,ENGL     50,RANA S,A-,41
+S16,Undergraduate,ENGL     50,RANA S,B+,22
+S16,Undergraduate,ENGL     50,RANA S,B,48
+S16,Undergraduate,ENGL     50,RANA S,B-,21
+S16,Undergraduate,ENGL     50,RANA S,C+,4
+S16,Undergraduate,ENGL     50,RANA S,C,11
+S16,Undergraduate,ENGL     50,RANA S,D,2
+S16,Undergraduate,ENGL     50,RANA S,F,2
+S16,Undergraduate,ENGL     50S,RANA S,A+,1
+S16,Undergraduate,ENGL     50S,RANA S,A,5
+S16,Undergraduate,ENGL     50S,RANA S,A-,4
+S16,Undergraduate,ENGL    101,MEYERS T R,A+,2
+S16,Undergraduate,ENGL    101,MEYERS T R,A,11
+S16,Undergraduate,ENGL    101,MEYERS T R,A-,4
+S16,Undergraduate,ENGL    101,MEYERS T R,B+,3
+S16,Undergraduate,ENGL    101,MEYERS T R,B,8
+S16,Undergraduate,ENGL    101,MEYERS T R,B-,4
+S16,Undergraduate,ENGL    101,MEYERS T R,C+,2
+S16,Undergraduate,ENGL    101,MEYERS T R,C,1
+S16,Undergraduate,ENGL    101,MEYERS T R,C-,5
+S16,Undergraduate,ENGL    101,MEYERS T R,D,1
+S16,Undergraduate,ENGL    101,MEYERS T R,F,1
+S16,Undergraduate,ENGL    102,COOK E H,A,5
+S16,Undergraduate,ENGL    102,COOK E H,A-,10
+S16,Undergraduate,ENGL    102,COOK E H,B+,5
+S16,Undergraduate,ENGL    102,COOK E H,B,10
+S16,Undergraduate,ENGL    102,COOK E H,B-,6
+S16,Undergraduate,ENGL    102,COOK E H,C,1
+S16,Undergraduate,ENGL    102,COOK E H,D,1
+S16,Undergraduate,ENGL    103A,MASLAN M J,A,35
+S16,Undergraduate,ENGL    103A,MASLAN M J,A-,20
+S16,Undergraduate,ENGL    103A,MASLAN M J,B+,20
+S16,Undergraduate,ENGL    103A,MASLAN M J,B,21
+S16,Undergraduate,ENGL    103A,MASLAN M J,B-,17
+S16,Undergraduate,ENGL    103A,MASLAN M J,C+,5
+S16,Undergraduate,ENGL    103A,MASLAN M J,C,3
+S16,Undergraduate,ENGL    103A,MASLAN M J,C-,1
+S16,Undergraduate,ENGL    103A,MASLAN M J,F,5
+S16,Undergraduate,ENGL    103AS,MASLAN M J,A,7
+S16,Undergraduate,ENGL    103B,CALDWELL J M,A,9
+S16,Undergraduate,ENGL    103B,CALDWELL J M,A-,7
+S16,Undergraduate,ENGL    103B,CALDWELL J M,B+,4
+S16,Undergraduate,ENGL    103B,CALDWELL J M,B,7
+S16,Undergraduate,ENGL    103B,CALDWELL J M,B-,3
+S16,Undergraduate,ENGL    103B,CALDWELL J M,C+,1
+S16,Undergraduate,ENGL    103B,CALDWELL J M,D,2
+S16,Undergraduate,ENGL    103B,CALDWELL J M,F,1
+S16,Undergraduate,ENGL    104B,SHEWRY T J,A,22
+S16,Undergraduate,ENGL    104B,SHEWRY T J,A-,10
+S16,Undergraduate,ENGL    104B,SHEWRY T J,B+,4
+S16,Undergraduate,ENGL    104B,SHEWRY T J,B,1
+S16,Undergraduate,ENGL    104B,SHEWRY T J,F,1
+S16,Undergraduate,ENGL    105A,FUMERTON M P,A,19
+S16,Undergraduate,ENGL    105A,FUMERTON M P,A-,27
+S16,Undergraduate,ENGL    105A,FUMERTON M P,B+,19
+S16,Undergraduate,ENGL    105A,FUMERTON M P,B,40
+S16,Undergraduate,ENGL    105A,FUMERTON M P,B-,28
+S16,Undergraduate,ENGL    105A,FUMERTON M P,C+,12
+S16,Undergraduate,ENGL    105A,FUMERTON M P,C,12
+S16,Undergraduate,ENGL    105A,FUMERTON M P,C-,7
+S16,Undergraduate,ENGL    105A,FUMERTON M P,D,1
+S16,Undergraduate,ENGL    105A,FUMERTON M P,D-,2
+S16,Undergraduate,ENGL    105A,FUMERTON M P,F,20
+S16,Undergraduate,ENGL    105AS,FUMERTON M P,A,8
+S16,Undergraduate,ENGL    108AP,ENDERS J,A,4
+S16,Undergraduate,ENGL    108AP,ENDERS J,A-,3
+S16,Undergraduate,ENGL    108AP,ENDERS J,B+,3
+S16,Undergraduate,ENGL    122AP,SHEWRY T J,A+,1
+S16,Undergraduate,ENGL    122AP,SHEWRY T J,A,21
+S16,Undergraduate,ENGL    122AP,SHEWRY T J,A-,13
+S16,Undergraduate,ENGL    122AP,SHEWRY T J,B+,5
+S16,Undergraduate,ENGL    122AP,SHEWRY T J,B,1
+S16,Undergraduate,ENGL    122CF,WALKER C A,A+,2
+S16,Undergraduate,ENGL    122CF,WALKER C A,A,2
+S16,Undergraduate,ENGL    122CF,WALKER C A,A-,7
+S16,Undergraduate,ENGL    122CF,WALKER C A,B+,7
+S16,Undergraduate,ENGL    122CF,WALKER C A,B,6
+S16,Undergraduate,ENGL    122CF,WALKER C A,F,1
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,A,12
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,A-,11
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,B+,9
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,B,4
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,B-,3
+S16,Undergraduate,ENGL    122UM,SALTON-COX G,F,2
+S16,Undergraduate,ENGL    128EN,COOK E H,A,3
+S16,Undergraduate,ENGL    128EN,COOK E H,A-,4
+S16,Undergraduate,ENGL    128EN,COOK E H,B+,4
+S16,Undergraduate,ENGL    128EN,COOK E H,B,5
+S16,Undergraduate,ENGL    128EN,COOK E H,B-,1
+S16,Undergraduate,ENGL    128EN,COOK E H,C,1
+S16,Undergraduate,ENGL    128EN,COOK E H,F,1
+S16,Undergraduate,ENGL    128FT,ZINN E R,A,9
+S16,Undergraduate,ENGL    128FT,ZINN E R,A-,14
+S16,Undergraduate,ENGL    128FT,ZINN E R,B+,8
+S16,Undergraduate,ENGL    128FT,ZINN E R,B,3
+S16,Undergraduate,ENGL    128FT,ZINN E R,B-,2
+S16,Undergraduate,ENGL    128FT,ZINN E R,C+,1
+S16,Undergraduate,ENGL    128FT,ZINN E R,C,1
+S16,Undergraduate,ENGL    128FT,ZINN E R,F,1
+S16,Undergraduate,ENGL    128GN,SAMOLSKY R E,A,4
+S16,Undergraduate,ENGL    128GN,SAMOLSKY R E,A-,11
+S16,Undergraduate,ENGL    128GN,SAMOLSKY R E,B+,17
+S16,Undergraduate,ENGL    128GN,SAMOLSKY R E,B,3
+S16,Undergraduate,ENGL    128GN,SAMOLSKY R E,F,1
+S16,Undergraduate,ENGL    129,SALTON-COX G,A+,1
+S16,Undergraduate,ENGL    129,SALTON-COX G,A,14
+S16,Undergraduate,ENGL    129,SALTON-COX G,A-,9
+S16,Undergraduate,ENGL    129,SALTON-COX G,B+,8
+S16,Undergraduate,ENGL    129,SALTON-COX G,B,4
+S16,Undergraduate,ENGL    129,SALTON-COX G,B-,4
+S16,Undergraduate,ENGL    129,SALTON-COX G,C-,1
+S16,Undergraduate,ENGL    140,HORTON Z K,A+,2
+S16,Undergraduate,ENGL    140,HORTON Z K,A,4
+S16,Undergraduate,ENGL    140,HORTON Z K,A-,3
+S16,Undergraduate,ENGL    140,HORTON Z K,B+,4
+S16,Undergraduate,ENGL    140,HORTON Z K,B,2
+S16,Undergraduate,ENGL    140,HORTON Z K,B-,2
+S16,Undergraduate,ENGL    140,HORTON Z K,C+,2
+S16,Undergraduate,ENGL    140,HORTON Z K,C,5
+S16,Undergraduate,ENGL    140,HORTON Z K,C-,1
+S16,Undergraduate,ENGL    140,HORTON Z K,D-,1
+S16,Undergraduate,ENGL    140,HORTON Z K,F,2
+S16,Undergraduate,ENGL    147OM,JUE M C,A+,7
+S16,Undergraduate,ENGL    147OM,JUE M C,A,12
+S16,Undergraduate,ENGL    147OM,JUE M C,A-,7
+S16,Undergraduate,ENGL    147OM,JUE M C,B+,1
+S16,Undergraduate,ENGL    147OM,JUE M C,B,5
+S16,Undergraduate,ENGL    147OM,JUE M C,B-,1
+S16,Undergraduate,ENGL    152A,FRADENBURG L,A+,1
+S16,Undergraduate,ENGL    152A,FRADENBURG L,A,2
+S16,Undergraduate,ENGL    152A,FRADENBURG L,A-,6
+S16,Undergraduate,ENGL    152A,FRADENBURG L,B+,14
+S16,Undergraduate,ENGL    152A,FRADENBURG L,B,3
+S16,Undergraduate,ENGL    152A,FRADENBURG L,B-,3
+S16,Undergraduate,ENGL    152A,FRADENBURG L,C,1
+S16,Undergraduate,ENGL    152A,FRADENBURG L,F,2
+S16,Undergraduate,ENGL    165IF,DONNELLY B,A+,1
+S16,Undergraduate,ENGL    165IF,DONNELLY B,A,9
+S16,Undergraduate,ENGL    165IF,DONNELLY B,A-,13
+S16,Undergraduate,ENGL    165IF,DONNELLY B,B+,14
+S16,Undergraduate,ENGL    165IF,DONNELLY B,B,3
+S16,Undergraduate,ENGL    165IF,DONNELLY B,F,2
+S16,Undergraduate,ENGL    170CD,YOUNG K,A,1
+S16,Undergraduate,ENGL    170CD,YOUNG K,A-,9
+S16,Undergraduate,ENGL    170CD,YOUNG K,B+,7
+S16,Undergraduate,ENGL    170CD,YOUNG K,B,7
+S16,Undergraduate,ENGL    170CD,YOUNG K,B-,1
+S16,Undergraduate,ENGL    170CM,YOUNG K,A+,1
+S16,Undergraduate,ENGL    170CM,YOUNG K,A,18
+S16,Undergraduate,ENGL    170CM,YOUNG K,A-,18
+S16,Undergraduate,ENGL    170CM,YOUNG K,B+,8
+S16,Undergraduate,ENGL    170CM,YOUNG K,B,10
+S16,Undergraduate,ENGL    170CM,YOUNG K,B-,1
+S16,Undergraduate,ENGL    170CM,YOUNG K,C,1
+S16,Undergraduate,ENGL    170IC,CARLSON J A,A,7
+S16,Undergraduate,ENGL    170IC,CARLSON J A,A-,5
+S16,Undergraduate,ENGL    170IC,CARLSON J A,B+,14
+S16,Undergraduate,ENGL    170IC,CARLSON J A,B,7
+S16,Undergraduate,ENGL    170IC,CARLSON J A,B-,3
+S16,Undergraduate,ENGL    170IC,CARLSON J A,C-,1
+S16,Undergraduate,ENGL    170IC,CARLSON J A,F,1
+S16,Undergraduate,ENGL    192,DONNELLY B,A+,1
+S16,Undergraduate,ENGL    192,DONNELLY B,A,5
+S16,Undergraduate,ENGL    192,DONNELLY B,A-,13
+S16,Undergraduate,ENGL    192,DONNELLY B,B+,11
+S16,Undergraduate,ENGL    192,DONNELLY B,B,4
+S16,Undergraduate,ENGL    192,DONNELLY B,B-,3
+S16,Undergraduate,ENGL    192,DONNELLY B,C+,2
+S16,Undergraduate,ENGL    192,DONNELLY B,C,1
+S16,Undergraduate,ENGL    192,DONNELLY B,F,1
+S16,Undergraduate,ENGL    193,HORTON Z K,A+,2
+S16,Undergraduate,ENGL    193,HORTON Z K,A,4
+S16,Undergraduate,ENGL    193,HORTON Z K,A-,6
+S16,Undergraduate,ENGL    193,HORTON Z K,B+,4
+S16,Undergraduate,ENGL    193,HORTON Z K,B,8
+S16,Undergraduate,ENGL    193,HORTON Z K,B-,6
+S16,Undergraduate,ENGL    193,HORTON Z K,C+,2
+S16,Undergraduate,ENGL    193,HORTON Z K,C,3
+S16,Undergraduate,ENGL    193,HORTON Z K,C-,2
+S16,Undergraduate,ENGL    193,HORTON Z K,F,2
+S16,Undergraduate,ENGL    195I,YOUNG K,A,6
+S16,Undergraduate,ENGL    197,CARLSON J A,A,2
+S16,Undergraduate,ENGL    197,CARLSON J A,A-,3
+S16,Undergraduate,ENGL    197,CARLSON J A,B+,2
+S16,Undergraduate,ENGL    197,CARLSON J A,B,2
+S16,Undergraduate,ENGL    197,CARLSON J A,B-,2
+S16,Undergraduate,ENGL    197,CARLSON J A,C,1
+S16,Undergraduate,ENGL    197,CARLSON J A,F,1
+S16,Undergraduate,ENGL    197,DUFFY A E,A+,1
+S16,Undergraduate,ENGL    197,DUFFY A E,A,14
+S16,Undergraduate,ENGL    197,DUFFY A E,A-,2
+S16,Undergraduate,ENGL    197,FRADENBURG L,A-,3
+S16,Undergraduate,ENGL    197,FRADENBURG L,B+,3
+S16,Undergraduate,ENGL    197,JUE M C,A+,5
+S16,Undergraduate,ENGL    197,JUE M C,A,7
+S16,Undergraduate,ENGL    197,JUE M C,B+,1
+S16,Undergraduate,ENGL    197,JUE M C,B,1
+S16,Undergraduate,ENGL    197,JUE M C,B-,1
+S16,Undergraduate,ENGL    197,RANA S,A,4
+S16,Undergraduate,ENGL    197,RANA S,A-,5
+S16,Undergraduate,ENGL    197,RANA S,B+,3
+S16,Undergraduate,ENGL    197,RANA S,B,1
+S16,Undergraduate,ENGL    197,RANA S,F,1
+S16,Undergraduate,ENGL    197,SAMOLSKY R E,A,1
+S16,Undergraduate,ENGL    197,SAMOLSKY R E,A-,3
+S16,Undergraduate,ENGL    197,SAMOLSKY R E,B+,7
+S16,Undergraduate,ENGL    197,SAMOLSKY R E,B,2
+S16,Undergraduate,ENGL    197,SAMOLSKY R E,B-,1
+S16,Undergraduate,ENGL    198H,NEWFIELD C J,A,6
+S16,Undergraduate,ENGL    198H,NEWFIELD C J,A-,13
+S16,Undergraduate,ENGL    199,GHOSH B,A,5
+S16,Undergraduate,ENGL    199RA,FUMERTON M P,A,5
+S16,Graduate,ENGL    231,GRIFFIN A R,A,5
+S16,Graduate,ENGL    235,WAID C J,A,7
+S16,Graduate,ENGL    236,GHOSH B,A,4
+S16,Graduate,ENGL    236,GHOSH B,A-,1
+S16,Graduate,ENGL    236,GHOSH B,B,2
+S16,Graduate,ENGL    236,SARKAR B,A,4
+S16,Graduate,ENGL    236,SARKAR B,A-,1
+S16,Graduate,ENGL    236,SARKAR B,B,2
+S16,Graduate,HIST    201E,ENGLISH E D,A+,1
+S16,Graduate,HIST    201E,ENGLISH E D,A,5

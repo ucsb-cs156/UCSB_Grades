@@ -1,0 +1,143 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M13,Undergraduate,SPAN      1,WORKMAN A L,A+,1
+M13,Undergraduate,SPAN      1,WORKMAN A L,A,11
+M13,Undergraduate,SPAN      1,WORKMAN A L,A-,12
+M13,Undergraduate,SPAN      1,WORKMAN A L,B+,6
+M13,Undergraduate,SPAN      1,WORKMAN A L,B,2
+M13,Undergraduate,SPAN      1,WORKMAN A L,B-,3
+M13,Undergraduate,SPAN      1,WORKMAN A L,C+,4
+M13,Undergraduate,SPAN      1,WORKMAN A L,C,1
+M13,Undergraduate,SPAN      1,WORKMAN A L,C-,1
+M13,Undergraduate,SPAN      1,WORKMAN A L,D-,1
+M13,Undergraduate,SPAN      1SS,WORKMAN A L,A,3
+M13,Undergraduate,SPAN      1SS,WORKMAN A L,A-,3
+M13,Undergraduate,SPAN      1SS,WORKMAN A L,B+,1
+M13,Undergraduate,SPAN      1SS,WORKMAN A L,B,4
+M13,Undergraduate,SPAN      2,WORKMAN A L,A,2
+M13,Undergraduate,SPAN      2,WORKMAN A L,A-,4
+M13,Undergraduate,SPAN      2,WORKMAN A L,B+,4
+M13,Undergraduate,SPAN      2,WORKMAN A L,B,8
+M13,Undergraduate,SPAN      2,WORKMAN A L,B-,4
+M13,Undergraduate,SPAN      2,WORKMAN A L,C+,2
+M13,Undergraduate,SPAN      2,WORKMAN A L,C,4
+M13,Undergraduate,SPAN      2,WORKMAN A L,C-,2
+M13,Undergraduate,SPAN      2,WORKMAN A L,D-,1
+M13,Undergraduate,SPAN      2,WORKMAN A L,F,5
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,A,2
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,A-,1
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,B+,1
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,B,1
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,C+,1
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,C,1
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,C-,2
+M13,Undergraduate,SPAN      2SS,WORKMAN A L,F,3
+M13,Undergraduate,SPAN      3,HERNANDEZ L,A,4
+M13,Undergraduate,SPAN      3,HERNANDEZ L,A-,2
+M13,Undergraduate,SPAN      3,HERNANDEZ L,B+,2
+M13,Undergraduate,SPAN      3,HERNANDEZ L,B,5
+M13,Undergraduate,SPAN      3,HERNANDEZ L,B-,1
+M13,Undergraduate,SPAN      3,HERNANDEZ L,C+,1
+M13,Undergraduate,SPAN      3,HERNANDEZ L,C,4
+M13,Undergraduate,SPAN      3,HERNANDEZ L,D,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,A,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,A-,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,B+,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,B,7
+M13,Undergraduate,SPAN      3,WORKMAN A L,B-,3
+M13,Undergraduate,SPAN      3,WORKMAN A L,C+,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,C,1
+M13,Undergraduate,SPAN      3,WORKMAN A L,F,1
+M13,Undergraduate,SPAN      4,WORKMAN A L,A,1
+M13,Undergraduate,SPAN      4,WORKMAN A L,A-,6
+M13,Undergraduate,SPAN      4,WORKMAN A L,B+,5
+M13,Undergraduate,SPAN      4,WORKMAN A L,B,1
+M13,Undergraduate,SPAN      4,WORKMAN A L,B-,4
+M13,Undergraduate,SPAN      4,WORKMAN A L,C-,2
+M13,Undergraduate,SPAN      4,WORKMAN A L,F,1
+M13,Undergraduate,SPAN      5,WORKMAN A L,A,1
+M13,Undergraduate,SPAN      5,WORKMAN A L,A-,5
+M13,Undergraduate,SPAN      5,WORKMAN A L,B,7
+M13,Undergraduate,SPAN      5,WORKMAN A L,C+,3
+M13,Undergraduate,SPAN      5,WORKMAN A L,C-,1
+M13,Undergraduate,SPAN      5,WORKMAN A L,D,1
+M13,Undergraduate,SPAN      6,RUEDA M,A-,1
+M13,Undergraduate,SPAN      6,RUEDA M,B+,2
+M13,Undergraduate,SPAN      6,RUEDA M,B,1
+M13,Undergraduate,SPAN      6,RUEDA M,B-,1
+M13,Undergraduate,SPAN      6,RUEDA M,C+,1
+M13,Undergraduate,SPAN      6,RUEDA M,C,1
+M13,Undergraduate,SPAN      6,RUEDA M,F,1
+M13,Undergraduate,SPAN     16A,PELAEZ Y J,A,1
+M13,Undergraduate,SPAN     16A,PELAEZ Y J,A-,7
+M13,Undergraduate,SPAN     16A,PELAEZ Y J,B+,3
+M13,Undergraduate,SPAN     16A,PELAEZ Y J,B,5
+M13,Undergraduate,SPAN     16A,PELAEZ Y J,C+,1
+M13,Undergraduate,SPAN     16B,WORKMAN A L,B+,1
+M13,Undergraduate,SPAN     16B,WORKMAN A L,B,7
+M13,Undergraduate,SPAN     16B,WORKMAN A L,B-,2
+M13,Undergraduate,SPAN     16B,WORKMAN A L,C,6
+M13,Undergraduate,SPAN     16B,WORKMAN A L,C-,2
+M13,Undergraduate,SPAN    100,HARRIS M J,A,4
+M13,Undergraduate,SPAN    100,HARRIS M J,A-,9
+M13,Undergraduate,SPAN    100,HARRIS M J,B+,5
+M13,Undergraduate,SPAN    100,HARRIS M J,B,2
+M13,Undergraduate,SPAN    100,HARRIS M J,C,1
+M13,Undergraduate,SPAN    100,HARRIS M J,F,1
+M13,Undergraduate,SPAN    102B,WORKMAN A L,A+,4
+M13,Undergraduate,SPAN    102B,WORKMAN A L,A,2
+M13,Undergraduate,SPAN    102B,WORKMAN A L,B+,2
+M13,Undergraduate,SPAN    102B,WORKMAN A L,B,1
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,A,3
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,A-,5
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,B+,2
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,B,1
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,C+,1
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,D+,1
+M13,Undergraduate,SPAN    102L,IHLENDORF C E,F,1
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,A+,2
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,A,2
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,A-,9
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,B+,2
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,B,2
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,B-,2
+M13,Undergraduate,SPAN    110D,BERMUDEZ S,C+,1
+M13,Undergraduate,SPAN    111C,LUPI J P,A,3
+M13,Undergraduate,SPAN    111C,LUPI J P,A-,6
+M13,Undergraduate,SPAN    111C,LUPI J P,B+,8
+M13,Undergraduate,SPAN    111C,LUPI J P,B,1
+M13,Undergraduate,SPAN    111C,LUPI J P,C,1
+M13,Undergraduate,SPAN    111C,LUPI J P,C-,1
+M13,Undergraduate,SPAN    145,GONZALES-SMIT,A,5
+M13,Undergraduate,SPAN    145,GONZALES-SMIT,A-,7
+M13,Undergraduate,SPAN    145,GONZALES-SMIT,B+,4
+M13,Undergraduate,SPAN    145,GONZALES-SMIT,B-,2
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,A+,1
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,A,1
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,A-,2
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,B+,4
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,B,2
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,B-,1
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,C-,2
+M13,Undergraduate,SPAN    147,FERNANDEZ C J,F,2
+M13,Undergraduate,SPAN    174,MCCRACKEN E,B+,1
+M13,Undergraduate,SPAN    174,MCCRACKEN E,C,3
+M13,Undergraduate,SPAN    174,MCCRACKEN E,D,2
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,A+,1
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,A,1
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,A-,8
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,B+,1
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,B,1
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,C-,3
+M13,Undergraduate,SPAN    183EC,BERMUDEZ S,F,1
+M13,Undergraduate,SPAN    183EC,LUPI J P,A+,1
+M13,Undergraduate,SPAN    183EC,LUPI J P,A,1
+M13,Undergraduate,SPAN    183EC,LUPI J P,A-,8
+M13,Undergraduate,SPAN    183EC,LUPI J P,B+,1
+M13,Undergraduate,SPAN    183EC,LUPI J P,B,1
+M13,Undergraduate,SPAN    183EC,LUPI J P,C-,3
+M13,Undergraduate,SPAN    183EC,LUPI J P,F,1
+M13,Undergraduate,SPAN    186JP,PORTILLO J M,A,6
+M13,Undergraduate,SPAN    186JP,PORTILLO J M,B+,1
+M13,Undergraduate,SPAN    186JP,PORTILLO J M,B,1
+M13,Undergraduate,SPAN    186JP,PORTILLO J M,C+,1
+M13,Undergraduate,SPAN    186JP,PORTILLO J M,C,2

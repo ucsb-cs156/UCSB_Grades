@@ -1,0 +1,106 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+M16,Undergraduate,ED      109M,SHISHIM M D,P,53
+M16,Undergraduate,ED      111,HALLOWELL D A,A+,4
+M16,Undergraduate,ED      111,HALLOWELL D A,A,7
+M16,Undergraduate,ED      111,HALLOWELL D A,A-,12
+M16,Undergraduate,ED      111,HALLOWELL D A,B+,5
+M16,Undergraduate,ED      111,HALLOWELL D A,B,2
+M16,Undergraduate,ED      111,HALLOWELL D A,B-,1
+M16,Undergraduate,ED      111,HALLOWELL D A,C,1
+M16,Undergraduate,ED      111,HALLOWELL D A,F,1
+M16,Undergraduate,ED      111,RIOS R M,A+,8
+M16,Undergraduate,ED      111,RIOS R M,A,16
+M16,Undergraduate,ED      111,RIOS R M,A-,10
+M16,Undergraduate,ED      111,RIOS R M,B+,2
+M16,Undergraduate,ED      111,RIOS R M,B,6
+M16,Undergraduate,ED      111,RIOS R M,B-,2
+M16,Undergraduate,ED      111,RIOS R M,C+,3
+M16,Undergraduate,ED      111,RIOS R M,C,1
+M16,Undergraduate,ED      111,RIOS R M,F,1
+M16,Undergraduate,ED      117M,FEMATT V L,P,61
+M16,Undergraduate,ED      117M,FEMATT V L,NP,2
+M16,Undergraduate,ED      123,CLAIRMONT III,A+,6
+M16,Undergraduate,ED      123,CLAIRMONT III,A,12
+M16,Undergraduate,ED      123,CLAIRMONT III,A-,1
+M16,Undergraduate,ED      123,CLAIRMONT III,B-,2
+M16,Undergraduate,ED      123,CLAIRMONT III,C+,2
+M16,Undergraduate,ED      123,MEIER V C,A+,2
+M16,Undergraduate,ED      123,MEIER V C,A,20
+M16,Undergraduate,ED      123,MEIER V C,A-,1
+M16,Undergraduate,ED      123,SANDOVAL N I,A,21
+M16,Undergraduate,ED      125,KUNTZMAN J D,A,7
+M16,Undergraduate,ED      125,KUNTZMAN J D,A-,2
+M16,Undergraduate,ED      125,KUNTZMAN J D,B+,5
+M16,Undergraduate,ED      125,KUNTZMAN J D,B,5
+M16,Undergraduate,ED      125,KUNTZMAN J D,B-,2
+M16,Undergraduate,ED      125,RUDDER-BREED,A,6
+M16,Undergraduate,ED      125,RUDDER-BREED,A-,1
+M16,Undergraduate,ED      125,RUDDER-BREED,B+,3
+M16,Undergraduate,ED      125,RUDDER-BREED,B,1
+M16,Undergraduate,ED      125,RUDDER-BREED,C,2
+M16,Undergraduate,ED      173,LUBACH D W,A+,2
+M16,Undergraduate,ED      173,LUBACH D W,A,12
+M16,Undergraduate,ED      173,LUBACH D W,A-,2
+M16,Undergraduate,ED      173,LUBACH D W,B+,3
+M16,Undergraduate,ED      173,LUBACH D W,B,2
+M16,Undergraduate,ED      173,LUBACH D W,B-,1
+M16,Undergraduate,ED      173,LUBACH D W,F,2
+M16,Graduate,ED      228A,FEDDERS A,A+,6
+M16,Graduate,ED      228A,FEDDERS A,A,2
+M16,Graduate,ED      228B,ELDER B C,A,8
+M16,Graduate,ED      229C,FEDDERS A,S,8
+M16,Graduate,ED      229D,FEDDERS A,A,8
+M16,Graduate,ED      263,MORAN A S,A,15
+M16,Graduate,ED      263,SIMON K,A,21
+M16,Graduate,ED      264,MORAN A S,A,20
+M16,Graduate,ED      264,OXELSON E M,A,16
+M16,Graduate,ED      265D,BIANCHINI J A,A,10
+M16,Graduate,ED      265D,BRENNER M E,A,10
+M16,Graduate,ED      265D,DEWAR T J,A,10
+M16,Graduate,ED      265D,FEDDERS A,A,7
+M16,Graduate,ED      265D,JOHNSON S K,A,7
+M16,Graduate,ED      265D,NYLUND K L,A,9
+M16,Graduate,ED      265D,OXELSON E M,A,10
+M16,Graduate,ED      265D,RALEY J D,A,20
+M16,Graduate,ED      265D,ROBERTS S A,A,9
+M16,Graduate,ED      265D,SCALZO J N,A,10
+M16,Graduate,ED      265D,SINGER G H S,A,7
+M16,Graduate,ED      265D,SLOAN T F,A,10
+M16,Graduate,ED      268,ELLIS B D,A,19
+M16,Graduate,ED      268,HARVEY V A,A,20
+M16,Graduate,ED      268,OXELSON E M,A,20
+M16,Graduate,ED      268,RALEY J D,A,21
+M16,Graduate,ED      291,FEDDERS A,A+,3
+M16,Graduate,ED      291,FEDDERS A,A,5
+M16,Graduate,ED      318,ELDER B C,A,24
+M16,Graduate,ED      318,SCALZO J N,A,20
+M16,Graduate,ED      319,ELDER B C,A,15
+M16,Graduate,ED      319,SCALZO J N,A,21
+M16,Graduate,ED      326,GRANGER M,S,15
+M16,Graduate,ED      326,WHITAKER D R,S,21
+M16,Graduate,ED      327,GRANGER M,S,21
+M16,Graduate,ED      327,WHITAKER D R,S,15
+M16,Graduate,ED      330,HOBBS J,S,72
+M16,Graduate,ED      340,SLOAN T F,S,36
+M16,Graduate,ED      370,CARLYLE A M,S,6
+M16,Graduate,ED      370,MEYER M N,S,6
+M16,Graduate,ED      370,MORALES E L,S,6
+M16,Graduate,ED      370,NAIMAN D G,S,6
+M16,Graduate,ED      370,OXELSON E M,S,6
+M16,Graduate,ED      370,WHITAKER D R,S,6
+M16,Graduate,ED   E  321M,LOWI R S,S,7
+M16,Graduate,ED   E  341,DEWAR T J,S,7
+M16,Graduate,ED   E  371,DEWAR T J,S,7
+M16,Graduate,ED   HSS321M,ESTABROOK J A,S,11
+M16,Graduate,ED   HSS321M,MULLIN C D,S,11
+M16,Graduate,ED   HSS341,SLOAN T F,S,11
+M16,Graduate,ED   HSS371,ESTABROOK J A,S,11
+M16,Graduate,ED   M  321M,OGRAIN C M,S,5
+M16,Graduate,ED   M  321M,ROBERTS S A,S,5
+M16,Graduate,ED   M  341,SLOAN T F,S,5
+M16,Graduate,ED   M  371,ROSS E G,S,5
+M16,Graduate,ED   S  321M,BIANCHINI J A,S,13
+M16,Graduate,ED   S  321M,JOHNSON S K,S,13
+M16,Graduate,ED   S  321M,LUBCHENCO P J,S,13
+M16,Graduate,ED   S  341,RALEY J D,S,13
+M16,Graduate,ED   S  371,LUBCHENCO P J,S,13

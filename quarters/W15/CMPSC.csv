@@ -1,0 +1,257 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+W15,Undergraduate,CMPSC     2,KOC C K,A+,1
+W15,Undergraduate,CMPSC     2,KOC C K,A,4
+W15,Undergraduate,CMPSC     2,KOC C K,A-,5
+W15,Undergraduate,CMPSC     2,KOC C K,B+,2
+W15,Undergraduate,CMPSC     2,KOC C K,C,2
+W15,Undergraduate,CMPSC     8,COSTANZO C,A+,4
+W15,Undergraduate,CMPSC     8,COSTANZO C,A,40
+W15,Undergraduate,CMPSC     8,COSTANZO C,A-,11
+W15,Undergraduate,CMPSC     8,COSTANZO C,B+,12
+W15,Undergraduate,CMPSC     8,COSTANZO C,B,32
+W15,Undergraduate,CMPSC     8,COSTANZO C,B-,2
+W15,Undergraduate,CMPSC     8,COSTANZO C,C,3
+W15,Undergraduate,CMPSC     8,COSTANZO C,C-,1
+W15,Undergraduate,CMPSC     8,COSTANZO C,F,1
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,A+,3
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,A,14
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,A-,10
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,B+,11
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,B,18
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,B-,16
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,C+,10
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,C,8
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,C-,4
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,D+,1
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,D,2
+W15,Undergraduate,CMPSC     8,EGECIOGLU O,F,1
+W15,Undergraduate,CMPSC    16,BUONI M J,A+,3
+W15,Undergraduate,CMPSC    16,BUONI M J,A,17
+W15,Undergraduate,CMPSC    16,BUONI M J,A-,12
+W15,Undergraduate,CMPSC    16,BUONI M J,B+,16
+W15,Undergraduate,CMPSC    16,BUONI M J,B,10
+W15,Undergraduate,CMPSC    16,BUONI M J,B-,11
+W15,Undergraduate,CMPSC    16,BUONI M J,C+,5
+W15,Undergraduate,CMPSC    16,BUONI M J,C,2
+W15,Undergraduate,CMPSC    16,BUONI M J,C-,4
+W15,Undergraduate,CMPSC    16,BUONI M J,D,1
+W15,Undergraduate,CMPSC    16,BUONI M J,D-,1
+W15,Undergraduate,CMPSC    16,BUONI M J,F,3
+W15,Undergraduate,CMPSC    16,CONRAD P T,A+,8
+W15,Undergraduate,CMPSC    16,CONRAD P T,A,64
+W15,Undergraduate,CMPSC    16,CONRAD P T,A-,19
+W15,Undergraduate,CMPSC    16,CONRAD P T,B+,6
+W15,Undergraduate,CMPSC    16,CONRAD P T,B,5
+W15,Undergraduate,CMPSC    16,CONRAD P T,B-,3
+W15,Undergraduate,CMPSC    16,CONRAD P T,C+,4
+W15,Undergraduate,CMPSC    16,CONRAD P T,C,1
+W15,Undergraduate,CMPSC    16,CONRAD P T,C-,3
+W15,Undergraduate,CMPSC    16,CONRAD P T,D-,1
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,A+,12
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,A,37
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,A-,14
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,B+,16
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,B,14
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,B-,5
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,C+,7
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,C,3
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,C-,2
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,D,5
+W15,Undergraduate,CMPSC    24,FRANKLIN D M,F,2
+W15,Undergraduate,CMPSC    40,VAN DAM W,A+,3
+W15,Undergraduate,CMPSC    40,VAN DAM W,A,5
+W15,Undergraduate,CMPSC    40,VAN DAM W,A-,3
+W15,Undergraduate,CMPSC    40,VAN DAM W,B+,6
+W15,Undergraduate,CMPSC    40,VAN DAM W,B,16
+W15,Undergraduate,CMPSC    40,VAN DAM W,B-,4
+W15,Undergraduate,CMPSC    40,VAN DAM W,C+,4
+W15,Undergraduate,CMPSC    40,VAN DAM W,C,8
+W15,Undergraduate,CMPSC    40,VAN DAM W,C-,4
+W15,Undergraduate,CMPSC    40,VAN DAM W,D,6
+W15,Undergraduate,CMPSC    40,VAN DAM W,F,2
+W15,Undergraduate,CMPSC    48,COSTANZO C,A,59
+W15,Undergraduate,CMPSC    48,COSTANZO C,A-,6
+W15,Undergraduate,CMPSC    48,COSTANZO C,B+,3
+W15,Undergraduate,CMPSC    56,CONRAD P T,A+,7
+W15,Undergraduate,CMPSC    56,CONRAD P T,A,31
+W15,Undergraduate,CMPSC    56,CONRAD P T,A-,9
+W15,Undergraduate,CMPSC    56,CONRAD P T,B+,7
+W15,Undergraduate,CMPSC    56,CONRAD P T,B,4
+W15,Undergraduate,CMPSC    56,CONRAD P T,B-,5
+W15,Undergraduate,CMPSC    56,CONRAD P T,C+,2
+W15,Undergraduate,CMPSC    56,CONRAD P T,C,3
+W15,Undergraduate,CMPSC    56,CONRAD P T,D+,1
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,A+,4
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,A,11
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,A-,11
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,B+,6
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,B,7
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,B-,2
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,C+,2
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,C,1
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,D,4
+W15,Undergraduate,CMPSC    64,FRANKLIN D M,F,3
+W15,Undergraduate,CMPSC   130A,SURI S,A+,3
+W15,Undergraduate,CMPSC   130A,SURI S,A,23
+W15,Undergraduate,CMPSC   130A,SURI S,B,21
+W15,Undergraduate,CMPSC   130A,SURI S,B-,13
+W15,Undergraduate,CMPSC   130A,SURI S,C,12
+W15,Undergraduate,CMPSC   130A,SURI S,D,2
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,A+,2
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,A,3
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,A-,8
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,B+,5
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,B,9
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,B-,4
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,C+,5
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,C,6
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,C-,1
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,D+,1
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,D,3
+W15,Undergraduate,CMPSC   130B,GONZALEZ T F,F,1
+W15,Undergraduate,CMPSC   140,GILBERT J R,A+,4
+W15,Undergraduate,CMPSC   140,GILBERT J R,A,21
+W15,Undergraduate,CMPSC   140,GILBERT J R,A-,2
+W15,Undergraduate,CMPSC   140,GILBERT J R,B,4
+W15,Undergraduate,CMPSC   140,GILBERT J R,B-,5
+W15,Undergraduate,CMPSC   140,GILBERT J R,C,3
+W15,Undergraduate,CMPSC   140,GILBERT J R,C-,2
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,A+,7
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,A,12
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,A-,7
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,B+,7
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,B,7
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,B-,4
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,C+,2
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,C,3
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,C-,5
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,D+,3
+W15,Undergraduate,CMPSC   160,SHERWOOD T P,F,2
+W15,Undergraduate,CMPSC   162,DEWEY K T,A+,31
+W15,Undergraduate,CMPSC   162,DEWEY K T,A,3
+W15,Undergraduate,CMPSC   162,DEWEY K T,A-,1
+W15,Undergraduate,CMPSC   162,DEWEY K T,B+,2
+W15,Undergraduate,CMPSC   162,DEWEY K T,B,7
+W15,Undergraduate,CMPSC   162,DEWEY K T,B-,2
+W15,Undergraduate,CMPSC   162,DEWEY K T,C+,1
+W15,Undergraduate,CMPSC   162,DEWEY K T,C,4
+W15,Undergraduate,CMPSC   162,DEWEY K T,C-,2
+W15,Undergraduate,CMPSC   162,DEWEY K T,D+,1
+W15,Undergraduate,CMPSC   162,DEWEY K T,D,2
+W15,Undergraduate,CMPSC   162,DEWEY K T,F,3
+W15,Undergraduate,CMPSC   165A,YAN X,A+,2
+W15,Undergraduate,CMPSC   165A,YAN X,A,5
+W15,Undergraduate,CMPSC   165A,YAN X,A-,6
+W15,Undergraduate,CMPSC   165A,YAN X,B+,8
+W15,Undergraduate,CMPSC   165A,YAN X,B,11
+W15,Undergraduate,CMPSC   165A,YAN X,B-,11
+W15,Undergraduate,CMPSC   165A,YAN X,C+,9
+W15,Undergraduate,CMPSC   165A,YAN X,C,4
+W15,Undergraduate,CMPSC   165A,YAN X,C-,1
+W15,Undergraduate,CMPSC   165A,YAN X,D,1
+W15,Undergraduate,CMPSC   170,WOLSKI R M,A,19
+W15,Undergraduate,CMPSC   170,WOLSKI R M,A-,10
+W15,Undergraduate,CMPSC   170,WOLSKI R M,B+,6
+W15,Undergraduate,CMPSC   170,WOLSKI R M,B,12
+W15,Undergraduate,CMPSC   170,WOLSKI R M,B-,2
+W15,Undergraduate,CMPSC   170,WOLSKI R M,C+,9
+W15,Undergraduate,CMPSC   170,WOLSKI R M,C,6
+W15,Undergraduate,CMPSC   170,WOLSKI R M,C-,9
+W15,Undergraduate,CMPSC   170,WOLSKI R M,D,4
+W15,Undergraduate,CMPSC   170,WOLSKI R M,D-,2
+W15,Undergraduate,CMPSC   170,WOLSKI R M,F,4
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,A+,2
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,A,24
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,A-,14
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,B+,2
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,B,22
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,B-,5
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,C+,2
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,C,8
+W15,Undergraduate,CMPSC   174A,EL ABBADI A,C-,2
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,A,28
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,B+,2
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,B,17
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,B-,2
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,C+,1
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,C,9
+W15,Undergraduate,CMPSC   176B,ALMEROTH K C,D,3
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,A+,6
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,A,7
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,A-,2
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,B+,13
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,B,8
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,B-,7
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,C+,3
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,C,7
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,C-,4
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,D,2
+W15,Undergraduate,CMPSC   178,LIN HUIJIA,F,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,A+,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,A,2
+W15,Undergraduate,CMPSC   181B,WANG Y F,A-,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,B+,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,B,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,B-,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,C+,1
+W15,Undergraduate,CMPSC   181B,WANG Y F,C,6
+W15,Undergraduate,CMPSC   181B,WANG Y F,C-,2
+W15,Undergraduate,CMPSC   181B,WANG Y F,F,5
+W15,Undergraduate,CMPSC   189A,KRINTZ C,A+,5
+W15,Undergraduate,CMPSC   189A,KRINTZ C,A,41
+W15,Graduate,CMPSC   220,SU J,A+,2
+W15,Graduate,CMPSC   220,SU J,A,4
+W15,Graduate,CMPSC   220,SU J,A-,1
+W15,Graduate,CMPSC   220,SU J,B,1
+W15,Graduate,CMPSC   225,ROSE K,A,1
+W15,Graduate,CMPSC   225,ROSE K,A-,4
+W15,Graduate,CMPSC   254,SHERWOOD T P,A+,1
+W15,Graduate,CMPSC   254,SHERWOOD T P,A,24
+W15,Graduate,CMPSC   254,SHERWOOD T P,A-,2
+W15,Graduate,CMPSC   254,SHERWOOD T P,B+,2
+W15,Graduate,CMPSC   290C,HARDEKOPF B C,A,13
+W15,Graduate,CMPSC   290D,HOLLERER T,A,9
+W15,Graduate,CMPSC   290D,HOLLERER T,A-,6
+W15,Graduate,CMPSC   290D,HOLLERER T,B+,2
+W15,Graduate,CMPSC   290D,HOLLERER T,C+,1
+W15,Graduate,CMPSC   290D,PROULX S R,A,9
+W15,Graduate,CMPSC   290D,PROULX S R,A-,6
+W15,Graduate,CMPSC   290D,PROULX S R,B+,2
+W15,Graduate,CMPSC   290D,PROULX S R,C+,1
+W15,Graduate,CMPSC   290G,TESSARO S M,A,10
+W15,Graduate,CMPSC   290G,TESSARO S M,A-,6
+W15,Graduate,CMPSC   290G,TESSARO S M,B+,1
+W15,Graduate,CMPSC   290G,TESSARO S M,B,2
+W15,Graduate,CMPSC   290I,HOLLERER T,A+,2
+W15,Graduate,CMPSC   290I,HOLLERER T,A,4
+W15,Graduate,CMPSC   290I,HOLLERER T,A-,2
+W15,Graduate,CMPSC   290I,TURK M A,A,16
+W15,Graduate,CMPSC   290I,TURK M A,A-,2
+W15,Graduate,CMPSC   290N,YANG T,A,17
+W15,Graduate,CMPSC   290N,YANG T,A-,3
+W15,Graduate,CMPSC   290N,YANG T,B+,2
+W15,Graduate,CMPSC   502,SINGH A K,S,27
+W15,Graduate,CMPSC   595D,SU J,S,5
+W15,Graduate,CMPSC   595E,SHERWOOD T P,S,5
+W15,Graduate,CMPSC   595F,BELDING E M,S,5
+W15,Graduate,CMPSC   595G,KEMMERER R A,S,10
+W15,Graduate,CMPSC   595J,SINGH A K,S,9
+W15,Graduate,CMPSC   595N,LIN HUIJIA,S,27
+W15,Graduate,CMPSC   596,HOLLERER T,A,6
+W15,Graduate,CMPSC   596,KRINTZ C,S,6
+W15,Graduate,CMPSC   596,KRUEGEL C I,A,6
+W15,Graduate,CMPSC   596,PETZOLD L,A+,2
+W15,Graduate,CMPSC   596,PETZOLD L,A,4
+W15,Graduate,CMPSC   596,PETZOLD L,B+,1
+W15,Graduate,CMPSC   596,SINGH A K,A,8
+W15,Graduate,CMPSC   596,TURK M A,A,5
+W15,Graduate,CMPSC   596,VIGNA G,A+,8
+W15,Graduate,CMPSC   596,VIGNA G,A,1
+W15,Graduate,CMPSC   596,YAN X,A+,1
+W15,Graduate,CMPSC   596,YAN X,A,7
+W15,Graduate,CMPSC   596,ZHAO B Y,A,7
+W15,Graduate,CMPSC   596,ZHENG H,A,5
+W15,Undergraduate,CMPSCCS   1B,KARAORMAN M,P,14
+W15,Undergraduate,CMPSCCS   1L,KARAORMAN M,P,15
+W15,Undergraduate,CMPSCCS  10,CONRAD P T,P,16
+W15,Undergraduate,CMPSCCS  20,FREEMAN J R,P,24

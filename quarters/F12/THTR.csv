@@ -1,0 +1,117 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F12,Undergraduate,THTR      1,KING W D,A,24
+F12,Undergraduate,THTR      1,KING W D,A-,21
+F12,Undergraduate,THTR      1,KING W D,B+,15
+F12,Undergraduate,THTR      1,KING W D,B,13
+F12,Undergraduate,THTR      1,KING W D,B-,10
+F12,Undergraduate,THTR      1,KING W D,C+,2
+F12,Undergraduate,THTR      1,KING W D,C,2
+F12,Undergraduate,THTR      1,KING W D,C-,2
+F12,Undergraduate,THTR      1,KING W D,D,1
+F12,Undergraduate,THTR      1,KING W D,D-,1
+F12,Undergraduate,THTR      1,KING W D,F,3
+F12,Undergraduate,THTR      2A,MCMAHON C S,A+,12
+F12,Undergraduate,THTR      2A,MCMAHON C S,A,38
+F12,Undergraduate,THTR      2A,MCMAHON C S,A-,31
+F12,Undergraduate,THTR      2A,MCMAHON C S,B+,16
+F12,Undergraduate,THTR      2A,MCMAHON C S,B,14
+F12,Undergraduate,THTR      2A,MCMAHON C S,B-,12
+F12,Undergraduate,THTR      2A,MCMAHON C S,C+,5
+F12,Undergraduate,THTR      2A,MCMAHON C S,C,5
+F12,Undergraduate,THTR      2A,MCMAHON C S,C-,2
+F12,Undergraduate,THTR      2A,MCMAHON C S,D,3
+F12,Undergraduate,THTR      2A,MCMAHON C S,F,2
+F12,Undergraduate,THTR      5,MILLS J S,A+,9
+F12,Undergraduate,THTR      5,MILLS J S,A,60
+F12,Undergraduate,THTR      5,MILLS J S,A-,49
+F12,Undergraduate,THTR      5,MILLS J S,B+,17
+F12,Undergraduate,THTR      5,MILLS J S,B,7
+F12,Undergraduate,THTR      5,MILLS J S,B-,3
+F12,Undergraduate,THTR      5,MILLS J S,C,1
+F12,Undergraduate,THTR      5,MILLS J S,C-,1
+F12,Undergraduate,THTR      5,MILLS J S,F,1
+F12,Undergraduate,THTR     10A,MILLS J S,A,13
+F12,Undergraduate,THTR     10A,MILLS J S,A-,6
+F12,Undergraduate,THTR     10A,MILLS J S,B,2
+F12,Undergraduate,THTR     10A,MILLS J S,B-,1
+F12,Undergraduate,THTR     11A,MORGAN M,A,5
+F12,Undergraduate,THTR     11A,MORGAN M,A-,4
+F12,Undergraduate,THTR     11A,MORGAN M,B+,1
+F12,Undergraduate,THTR     11A,MORGAN M,B,7
+F12,Undergraduate,THTR     11A,MORGAN M,B-,2
+F12,Undergraduate,THTR     11A,MORGAN M,C,2
+F12,Undergraduate,THTR     11A,MORGAN M,C-,1
+F12,Undergraduate,THTR     15A,TORSIGLIERI A,A,5
+F12,Undergraduate,THTR     15A,TORSIGLIERI A,A-,6
+F12,Undergraduate,THTR     15A,TORSIGLIERI A,B+,11
+F12,Undergraduate,THTR     19,BRUICE A M,A+,5
+F12,Undergraduate,THTR     19,BRUICE A M,A,23
+F12,Undergraduate,THTR     19,BRUICE A M,A-,3
+F12,Undergraduate,THTR     19,BRUICE A M,B+,1
+F12,Undergraduate,THTR     19,BRUICE A M,B,1
+F12,Undergraduate,THTR     29D,SCOTT V,A+,1
+F12,Undergraduate,THTR     29D,SCOTT V,A,26
+F12,Undergraduate,THTR     29D,SCOTT V,A-,1
+F12,Undergraduate,THTR     29D,SCOTT V,B,1
+F12,Undergraduate,THTR     29D,SCOTT V,F,2
+F12,Undergraduate,THTR     42,BRAININ R,A,6
+F12,Undergraduate,THTR     49,SCOTT V,A,9
+F12,Undergraduate,THTR     49,SCOTT V,A-,1
+F12,Undergraduate,THTR     49,SCOTT V,B,1
+F12,Undergraduate,THTR     49,SCOTT V,F,1
+F12,Undergraduate,THTR    104E,HALEY J L,A+,7
+F12,Undergraduate,THTR    104E,HALEY J L,A,5
+F12,Undergraduate,THTR    104E,HALEY J L,A-,1
+F12,Undergraduate,THTR    110A,MILLS J S,A,5
+F12,Undergraduate,THTR    110A,MILLS J S,A-,4
+F12,Undergraduate,THTR    110A,MILLS J S,B+,3
+F12,Undergraduate,THTR    111A,MORGAN M,A,2
+F12,Undergraduate,THTR    111A,MORGAN M,A-,3
+F12,Undergraduate,THTR    111A,MORGAN M,B+,2
+F12,Undergraduate,THTR    111A,MORGAN M,B,5
+F12,Undergraduate,THTR    112,MORGAN M,A,11
+F12,Undergraduate,THTR    140B,MILLS J S,A,4
+F12,Undergraduate,THTR    140B,MILLS J S,A-,3
+F12,Undergraduate,THTR    140B,MILLS J S,B,2
+F12,Undergraduate,THTR    140B,MILLS J S,B-,1
+F12,Undergraduate,THTR    142,BRAININ R,A+,4
+F12,Undergraduate,THTR    142,BRAININ R,A,3
+F12,Undergraduate,THTR    149,BRAININ R,A,9
+F12,Undergraduate,THTR    149,BRAININ R,A-,1
+F12,Undergraduate,THTR    149,SCOTT V,A+,5
+F12,Undergraduate,THTR    149,SCOTT V,A,13
+F12,Undergraduate,THTR    149,WHITAKER T O,A,6
+F12,Undergraduate,THTR    151A,WHITAKER T O,A,4
+F12,Undergraduate,THTR    151A,WHITAKER T O,A-,7
+F12,Undergraduate,THTR    151A,WHITAKER T O,B+,1
+F12,Undergraduate,THTR    151F,APPEL I J,A,4
+F12,Undergraduate,THTR    151F,APPEL I J,A-,5
+F12,Undergraduate,THTR    151F,APPEL I J,B+,2
+F12,Undergraduate,THTR    152A,WHITAKER T O,A,8
+F12,Undergraduate,THTR    152A,WHITAKER T O,A-,7
+F12,Undergraduate,THTR    152A,WHITAKER T O,B+,4
+F12,Undergraduate,THTR    152A,WHITAKER T O,F,1
+F12,Undergraduate,THTR    180E,MORTON C,A+,1
+F12,Undergraduate,THTR    180E,MORTON C,A,25
+F12,Undergraduate,THTR    180E,MORTON C,A-,5
+F12,Undergraduate,THTR    180E,MORTON C,B,2
+F12,Undergraduate,THTR    180E,MORTON C,B-,1
+F12,Undergraduate,THTR    180E,MORTON C,C+,2
+F12,Undergraduate,THTR    182A,KING W D,A,7
+F12,Undergraduate,THTR    182A,KING W D,A-,3
+F12,Undergraduate,THTR    182A,KING W D,B+,4
+F12,Undergraduate,THTR    182A,KING W D,B,5
+F12,Undergraduate,THTR    182A,KING W D,B-,8
+F12,Undergraduate,THTR    182A,KING W D,C+,1
+F12,Undergraduate,THTR    182A,KING W D,F,2
+F12,Undergraduate,THTR    182MD,NJUS J A,A,18
+F12,Undergraduate,THTR    182MD,NJUS J A,C+,2
+F12,Undergraduate,THTR    182MD,NJUS J A,F,2
+F12,Undergraduate,THTR    194D,SCOTT V,A,7
+F12,Undergraduate,THTR    194D,SCOTT V,C,1
+F12,Undergraduate,THTR    195,MCMILLAN S L,A,5
+F12,Graduate,THTR    250,MORTON C,A+,1
+F12,Graduate,THTR    250,MORTON C,A,3
+F12,Graduate,THTR    250,MORTON C,A-,5
+F12,Graduate,THTR    270B,MCMAHON C S,A,8
+F12,Graduate,THTR    270B,MCMAHON C S,A-,1

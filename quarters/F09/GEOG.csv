@@ -1,0 +1,108 @@
+﻿Quarter,Course Level2,Course,Instructor,Grade Given,Sum of Student Count
+F09,Undergraduate,GEOG      3A,DICKEY T D,A+,5
+F09,Undergraduate,GEOG      3A,DICKEY T D,A,3
+F09,Undergraduate,GEOG      3A,DICKEY T D,A-,5
+F09,Undergraduate,GEOG      3A,DICKEY T D,B+,2
+F09,Undergraduate,GEOG      3A,DICKEY T D,B,3
+F09,Undergraduate,GEOG      3A,DICKEY T D,B-,4
+F09,Undergraduate,GEOG      3A,DICKEY T D,C+,6
+F09,Undergraduate,GEOG      3A,DICKEY T D,C,1
+F09,Undergraduate,GEOG      3A,DICKEY T D,C-,5
+F09,Undergraduate,GEOG      3A,DICKEY T D,D,1
+F09,Undergraduate,GEOG      3A,DICKEY T D,D-,1
+F09,Undergraduate,GEOG      3A,DICKEY T D,F,1
+F09,Undergraduate,GEOG      3B,SMITH T R,A+,1
+F09,Undergraduate,GEOG      3B,SMITH T R,A,11
+F09,Undergraduate,GEOG      3B,SMITH T R,A-,12
+F09,Undergraduate,GEOG      3B,SMITH T R,B+,14
+F09,Undergraduate,GEOG      3B,SMITH T R,B,13
+F09,Undergraduate,GEOG      3B,SMITH T R,B-,8
+F09,Undergraduate,GEOG      3B,SMITH T R,C+,17
+F09,Undergraduate,GEOG      3B,SMITH T R,C,6
+F09,Undergraduate,GEOG      3B,SMITH T R,C-,5
+F09,Undergraduate,GEOG      3B,SMITH T R,D+,6
+F09,Undergraduate,GEOG      3B,SMITH T R,D,3
+F09,Undergraduate,GEOG      3B,SMITH T R,D-,3
+F09,Undergraduate,GEOG      3B,SMITH T R,F,3
+F09,Undergraduate,GEOG      5,MONTELLO D R,A,9
+F09,Undergraduate,GEOG      5,MONTELLO D R,A-,4
+F09,Undergraduate,GEOG      5,MONTELLO D R,B+,1
+F09,Undergraduate,GEOG      5,MONTELLO D R,B,41
+F09,Undergraduate,GEOG      5,MONTELLO D R,B-,7
+F09,Undergraduate,GEOG      5,MONTELLO D R,C+,6
+F09,Undergraduate,GEOG      5,MONTELLO D R,C,33
+F09,Undergraduate,GEOG      5,MONTELLO D R,C-,1
+F09,Undergraduate,GEOG      5,MONTELLO D R,D+,1
+F09,Undergraduate,GEOG      5,MONTELLO D R,D,5
+F09,Undergraduate,GEOG      5,MONTELLO D R,D-,1
+F09,Undergraduate,GEOG      5,MONTELLO D R,F,5
+F09,Undergraduate,GEOG    104,FEWINGS M R,A,9
+F09,Undergraduate,GEOG    104,FEWINGS M R,A-,3
+F09,Undergraduate,GEOG    104,FEWINGS M R,B+,5
+F09,Undergraduate,GEOG    104,FEWINGS M R,B,5
+F09,Undergraduate,GEOG    104,FEWINGS M R,B-,6
+F09,Undergraduate,GEOG    104,FEWINGS M R,C+,11
+F09,Undergraduate,GEOG    104,FEWINGS M R,C,4
+F09,Undergraduate,GEOG    104,FEWINGS M R,F,1
+F09,Undergraduate,GEOG    114A,CHADWICK O A,A-,2
+F09,Undergraduate,GEOG    114A,CHADWICK O A,B+,1
+F09,Undergraduate,GEOG    114A,CHADWICK O A,B,1
+F09,Undergraduate,GEOG    114A,CHADWICK O A,C+,1
+F09,Undergraduate,GEOG    114A,CHADWICK O A,C,1
+F09,Undergraduate,GEOG    148,MICHAELSEN J,A+,1
+F09,Undergraduate,GEOG    148,MICHAELSEN J,A,47
+F09,Undergraduate,GEOG    148,MICHAELSEN J,A-,12
+F09,Undergraduate,GEOG    148,MICHAELSEN J,B+,8
+F09,Undergraduate,GEOG    148,MICHAELSEN J,B,95
+F09,Undergraduate,GEOG    148,MICHAELSEN J,B-,7
+F09,Undergraduate,GEOG    148,MICHAELSEN J,C+,6
+F09,Undergraduate,GEOG    148,MICHAELSEN J,C,37
+F09,Undergraduate,GEOG    148,MICHAELSEN J,C-,2
+F09,Undergraduate,GEOG    148,MICHAELSEN J,F,6
+F09,Undergraduate,GEOG    161,CLEVELAND D A,A+,1
+F09,Undergraduate,GEOG    161,CLEVELAND D A,A-,5
+F09,Undergraduate,GEOG    161,CLEVELAND D A,B+,1
+F09,Undergraduate,GEOG    161,CLEVELAND D A,B,3
+F09,Undergraduate,GEOG    161,CLEVELAND D A,C+,2
+F09,Undergraduate,GEOG    161,CLEVELAND D A,C,1
+F09,Undergraduate,GEOG    161,CLEVELAND D A,D+,1
+F09,Undergraduate,GEOG    161,CLEVELAND D A,D-,1
+F09,Undergraduate,GEOG    176A,CLARKE K,A,3
+F09,Undergraduate,GEOG    176A,CLARKE K,A-,2
+F09,Undergraduate,GEOG    176A,CLARKE K,B+,2
+F09,Undergraduate,GEOG    176A,CLARKE K,B,8
+F09,Undergraduate,GEOG    176A,CLARKE K,B-,4
+F09,Undergraduate,GEOG    176A,CLARKE K,C+,1
+F09,Undergraduate,GEOG    176A,CLARKE K,C,2
+F09,Undergraduate,GEOG    176A,CLARKE K,D,3
+F09,Undergraduate,GEOG    176A,CLARKE K,F,1
+F09,Undergraduate,GEOG    182,COUCLELIS H M,A+,2
+F09,Undergraduate,GEOG    182,COUCLELIS H M,A,2
+F09,Undergraduate,GEOG    182,COUCLELIS H M,A-,4
+F09,Undergraduate,GEOG    182,COUCLELIS H M,B+,6
+F09,Undergraduate,GEOG    182,COUCLELIS H M,B,2
+F09,Undergraduate,GEOG    182,COUCLELIS H M,B-,3
+F09,Undergraduate,GEOG    182,COUCLELIS H M,C+,3
+F09,Undergraduate,GEOG    182,COUCLELIS H M,C,3
+F09,Undergraduate,GEOG    182,COUCLELIS H M,C-,1
+F09,Undergraduate,GEOG    182,COUCLELIS H M,D,6
+F09,Undergraduate,GEOG    182,COUCLELIS H M,F,6
+F09,Undergraduate,GEOG    195JK,KING J Y,A+,1
+F09,Undergraduate,GEOG    195JK,KING J Y,A,2
+F09,Undergraduate,GEOG    195JK,KING J Y,A-,1
+F09,Undergraduate,GEOG    195JK,KING J Y,B+,1
+F09,Undergraduate,GEOG    195JK,KING J Y,B,1
+F09,Undergraduate,GEOG    195JK,KING J Y,B-,1
+F09,Undergraduate,GEOG    195JK,KING J Y,C,2
+F09,Undergraduate,GEOG    195JK,KING J Y,C-,1
+F09,Graduate,GEOG    200A,MCFADDEN J P,S,10
+F09,Graduate,GEOG    201,CHADWICK O A,S,45
+F09,Graduate,GEOG    208,LOAICIGA H,A+,1
+F09,Graduate,GEOG    208,LOAICIGA H,A,3
+F09,Graduate,GEOG    208,LOAICIGA H,A-,1
+F09,Graduate,GEOG    208,LOAICIGA H,B+,1
+F09,Graduate,GEOG    288KG,GOULIAS K,A,11
+F09,Graduate,GEOG    295,CHADWICK O A,A,6
+F09,Graduate,GEOG    295,CHADWICK O A,A-,1
+F09,Graduate,GEOG    596,CHURCH R L,A,5
+F09,Graduate,GEOG    599,GOODCHILD M F,S,7
